@@ -370,7 +370,7 @@ translate polish s05_5_buy_1_e943fc35:
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Nie wydaje mi się, że to rodzaj książki, który czytałby dzieciak, ale każdy z nich...\" "
+    avt "\"Nie wydaje mi się, że to rodzaj książki, którą czytałby dzieciak, ale każdy z nich...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
