@@ -356,7 +356,7 @@ translate polish s05_5_buy_1_47767217:
 translate polish s05_5_buy_1_1295aa8a:
 
     # avt "\"So, would you rather get this book or some more junk food?\" "
-    avt "A więc wolałbyś dostać tę książkę, czy więcej niezdrowego jedzenia?\" "
+    avt "A więc wolałbyś dostać tę książkę, czy więcej niezdrowych przekąsek?\" "
 
 # game/script/05_week2.rpy:163
 translate polish s05_5_buy_1_e943fc35:
@@ -364,13 +364,13 @@ translate polish s05_5_buy_1_e943fc35:
     # voice voice_file.tig(5,12)
     # tig nervous "\"...I would prefer the book. Knowledge is worth more than an excess food after all. I yearn to keep up to date with the kids of today.\" "
     voice voice_file.tig(5,12)
-    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż nadmiar jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
+    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
 
 # game/script/05_week2.rpy:165
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt ""
+    avt "\"Nie wydaje mi się, że to rodzaj książki, który czytałby dzieciak, ale każdy z nich...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
