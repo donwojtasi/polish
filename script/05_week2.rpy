@@ -370,14 +370,15 @@ translate polish s05_5_buy_1_e943fc35:
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Nie wydaje mi się, że to rodzaj książki, którą czytałby dzieciak, ale każdy z nich...\" "
+    avt "\"Nie wydaje mi się, że to rodzaj książki, którą czytałby dzieciak z własnej woli...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
 
     # b "For someone like Tiger who doesn't understand a thing about modern technology, he'd learn some useful stuff from it anyway. "
     # b "Bracing my wallet, I decide to take the book over to the cashier. "
-    b ""
+    b "W każdym razie ktoś taki jak Tygrys, który nic nie wie o współczesnej technologii, nauczyłby się z niej wielu przydatnych rzeczy. "
+    b "Wyciągając portfel, postanawiam zabrać książkę do kasy. "
 
 # game/script/05_week2.rpy:169
 translate polish s05_5_buy_1_bb46916a:
