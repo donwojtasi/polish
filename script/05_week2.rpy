@@ -364,13 +364,13 @@ translate polish s05_5_buy_1_e943fc35:
     # voice voice_file.tig(5,12)
     # tig nervous "\"...I would prefer the book. Knowledge is worth more than an excess food after all. I yearn to keep up to date with the kids of today.\" "
     voice voice_file.tig(5,12)
-    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
+    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszym dzieciakom.\" "
 
 # game/script/05_week2.rpy:165
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Nie wydaje mi się, że to rodzaj książki, którą czytałby dzieciak z własnej woli...\" "
+    avt "\"Nie wydaje mi się, że to rodzaj książki, którą dzieciak czytałby z własnej woli...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
@@ -386,7 +386,7 @@ translate polish s05_5_buy_1_bb46916a:
     # voice voice_file.tig(5,13)
     # tig laugh_2 "\"Thank you Liao, I shall cherish this book.\" "
     voice voice_file.tig(5,13)
-    tig laugh_2 ""
+    tig laugh_2 "\"Dziękuję Liao, będę cenił tę książkę.\" "
 
 # game/script/05_week2.rpy:171
 translate polish s05_5_buy_1_38e87015:
