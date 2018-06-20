@@ -378,7 +378,7 @@ translate polish s05_5_buy_1_4254e111:
     # b "For someone like Tiger who doesn't understand a thing about modern technology, he'd learn some useful stuff from it anyway. "
     # b "Bracing my wallet, I decide to take the book over to the cashier. "
     b "W każdym razie ktoś taki jak Tygrys, który nic nie wie o współczesnej technologii, nauczyłby się z niej wielu przydatnych rzeczy. "
-    b "Wyciągając portfel, postanawiam zabrać książkę do kasy. "
+    b "Zabieram książkę do kasy i wyciągam portfel. "
 
 # game/script/05_week2.rpy:169
 translate polish s05_5_buy_1_bb46916a:
@@ -386,13 +386,13 @@ translate polish s05_5_buy_1_bb46916a:
     # voice voice_file.tig(5,13)
     # tig laugh_2 "\"Thank you Liao, I shall cherish this book.\" "
     voice voice_file.tig(5,13)
-    tig laugh_2 "\"Dziękuję Liao, będę cenił tę książkę.\" "
+    tig laugh_2 "\"Dziękuję Liao, będę o nią dbał.\" "
 
 # game/script/05_week2.rpy:171
 translate polish s05_5_buy_1_38e87015:
 
     # avt "\"Just as long as you don't be a guts for dinner, alright?\" "
-    avt ""
+    avt "\"Pod warunkiem, że nie będziesz błagał mnie o jedzenie, dobrze?\" "
 
 # game/script/05_week2.rpy:175
 translate polish s05_5_buy_1_290a41be:
@@ -400,25 +400,25 @@ translate polish s05_5_buy_1_290a41be:
     # voice voice_file.tig(5,14)
     # tig nervous "\"Um... Of course. I'll strive not to.\" "
     voice voice_file.tig(5,14)
-    tig nervous ""
+    tig nervous "\"Um... Oczywiście. Postaram się tego nie robić.\" "
 
 # game/script/05_week2.rpy:177
 translate polish s05_5_buy_1_a94b4898:
 
     # avt "\"Haha...\" "
-    avt ""
+    avt "\"Haha...\" "
 
 # game/script/05_week2.rpy:181
 translate polish s05_5_buy_1_6b769edb:
 
     # b "That was a joke, but the price of this book isn't funny. We'll have to be crafty with spending money for the next few days... "
-    b ""
+    b "To był tylko żart, ale cena książki już nie jest taka zabawne. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
 
 # game/script/05_week2.rpy:192
 translate polish s05_5_buy_2_d1eb6afa:
 
     # avt "\"So, just remember. Buying this book means no junk food for you this month.\" "
-    avt ""
+    avt "\"A więc pamiętaj. Kupno tej książki oznacza dla ciebie brak śmieciowego jedzenia przez cały miesiąc.\" "
 
 # game/script/05_week2.rpy:194
 translate polish s05_5_buy_2_4d60ad83:
