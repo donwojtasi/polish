@@ -412,7 +412,7 @@ translate polish s05_5_buy_1_a94b4898:
 translate polish s05_5_buy_1_6b769edb:
 
     # b "That was a joke, but the price of this book isn't funny. We'll have to be crafty with spending money for the next few days... "
-    b "To był tylko żart, ale cena książki już nie jest taka zabawne. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
+    b "To był tylko żart, ale cena książki już nie jest taka zabawna. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
 
 # game/script/05_week2.rpy:192
 translate polish s05_5_buy_2_d1eb6afa:
