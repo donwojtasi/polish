@@ -364,13 +364,13 @@ translate polish s05_5_buy_1_e943fc35:
     # voice voice_file.tig(5,12)
     # tig nervous "\"...I would prefer the book. Knowledge is worth more than an excess food after all. I yearn to keep up to date with the kids of today.\" "
     voice voice_file.tig(5,12)
-    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszym dzieciakom.\" "
+    tig nervous "\"...wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
 
 # game/script/05_week2.rpy:165
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Nie wydaje mi się, że to rodzaj książki, którą dzieciak czytałby z własnej woli...\" "
+    avt "\"Naprawdę nie sądzę, że nastolatek czytałby taką książkę z własnej, nieprzymuszonej woli...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
@@ -426,13 +426,13 @@ translate polish s05_5_buy_2_4d60ad83:
     # voice voice_file.tig(5,15)
     # tig embarrassed "\"...I shouldn't be letting you waste money on me.\" "
     voice voice_file.tig(5,15)
-    tig embarrassed ""
+    tig embarrassed "\"...Nie powinienem pozwolić ci marnować na mnie pieniądze.\" "
 
 # game/script/05_week2.rpy:196
 translate polish s05_5_buy_2_9505e401:
 
     # avt "\"It's not a waste of money. I'm just curious why you want to read up on this stuff?\""
-    avt ""
+    avt "\"To nie jest marnowanie pieniędzy. Ciekawi mnie tylko, czemu chcesz czytać o tych rzeczach?\" "
 
 # game/script/05_week2.rpy:198
 translate polish s05_5_buy_2_b6dadebd:
@@ -440,7 +440,7 @@ translate polish s05_5_buy_2_b6dadebd:
     # voice voice_file.tig(5,16)
     # tig lift "\"Oh? Well to put it simply, I yearn to keep up to date with the kids of today.\""
     voice voice_file.tig(5,16)
-    tig lift ""
+    tig lift "\"Och? Mówiąc prościej, pragnę dotrzymywać kroku dzisiejszej młodzieży.\""
 
 # game/script/05_week2.rpy:200
 translate polish s05_5_buy_2_0ea99827:
