@@ -370,7 +370,7 @@ translate polish s05_5_buy_1_e943fc35:
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Naprawdę nie sądzę, że nastolatek czytałby taką książkę z własnej, nieprzymuszonej woli...\" "
+    avt "\"Nie wydaje mi się, by młodzież czytałaby z własnej woli tego typu książkę...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
@@ -446,7 +446,7 @@ translate polish s05_5_buy_2_b6dadebd:
 translate polish s05_5_buy_2_0ea99827:
 
     # avt "\"So this book might be helpful to you.\""
-    avt ""
+    avt "\"To ta książka może ci się przydać.\" "
 
 # game/script/05_week2.rpy:202
 translate polish s05_5_buy_2_3ee9d360:
