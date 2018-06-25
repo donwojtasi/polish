@@ -370,7 +370,7 @@ translate polish s05_5_buy_1_e943fc35:
 translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
-    avt "\"Nie wydaje mi się, by młodzież czytałaby z własnej woli tego typu książkę...\" "
+    avt "\"Nie wydaje mi się, by młodzież czytałaby coś takiego z własnej woli...\" "
 
 # game/script/05_week2.rpy:167
 translate polish s05_5_buy_1_4254e111:
@@ -412,7 +412,7 @@ translate polish s05_5_buy_1_a94b4898:
 translate polish s05_5_buy_1_6b769edb:
 
     # b "That was a joke, but the price of this book isn't funny. We'll have to be crafty with spending money for the next few days... "
-    b "To był tylko żart, ale cena książki już nie jest taka zabawna. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
+    b "To był tylko żart, ale cena książki nie jest wcale do śmiechu. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
 
 # game/script/05_week2.rpy:192
 translate polish s05_5_buy_2_d1eb6afa:
@@ -446,19 +446,19 @@ translate polish s05_5_buy_2_b6dadebd:
 translate polish s05_5_buy_2_0ea99827:
 
     # avt "\"So this book might be helpful to you.\""
-    avt "\"To ta książka może ci się przydać.\" "
+    avt "\"A więc ta książka może ci się przydać.\" "
 
 # game/script/05_week2.rpy:202
 translate polish s05_5_buy_2_3ee9d360:
 
     # b "I don't think that any kid would have read a book like that, but someone like Tiger who doesn't know a thing about modern technology could probably find it useful. "
-    b ""
+    b "Nie wydaje mi się, że ktokolwiek w tym wieku czytałby coś takiego, ale dla Tygrysa, który nie wie nic o współczesnej technologii, byłoby to cenne źródło informacji. "
 
 # game/script/05_week2.rpy:204
 translate polish s05_5_buy_2_2ea9f66c:
 
     # avt "\"Let's buy it. When I have the time I might flip through it as well.\""
-    avt ""
+    avt "\"Kupmy ją. Jak będę miał chwilę czasu, to może też ją przejrzę.\" "
 
 # game/script/05_week2.rpy:206
 translate polish s05_5_buy_2_5e378711:
@@ -466,25 +466,25 @@ translate polish s05_5_buy_2_5e378711:
     # voice voice_file.tig(5,17)
     # tig laugh_2 "\"...Thanks.\""
     voice voice_file.tig(5,17)
-    tig laugh_2 ""
+    tig laugh_2 "\"...dziękuję.\" "
 
 # game/script/05_week2.rpy:208
 translate polish s05_5_buy_2_9f222cd8:
 
     # avt "\"It's nothing.\""
-    avt ""
+    avt "\"To nic takiego.\" "
 
 # game/script/05_week2.rpy:210
 translate polish s05_5_buy_2_8bc2236d:
 
     # b "I take the book over to the cashier. "
-    b ""
+    b "Zabieram książkę do kasy. "
 
 # game/script/05_week2.rpy:212
 translate polish s05_5_buy_2_b92effd4:
 
     # avt "\"Alright, let's not keep Senpai waiting. we've got to go!\""
-    avt ""
+    avt "\"Dobra, nie dajmy Senpai'owi dłużej czekać. Musimy już iść!\" "
 
 # game/script/05_week2.rpy:214
 translate polish s05_5_buy_2_2181ab73:
@@ -492,7 +492,7 @@ translate polish s05_5_buy_2_2181ab73:
     # voice voice_file.tig(5,18)
     # tig laugh_1 "\"Ok.\""
     voice voice_file.tig(5,18)
-    tig laugh_1 ""
+    tig laugh_1 "\"Dobrze.\" "
 
 # game/script/05_week2.rpy:218
 translate polish s05_5_buy_2_76b720f4:
