@@ -524,13 +524,13 @@ translate polish s05_5_dont_buy_4e04195e:
 translate polish s05_5_dont_buy_bc7c1062:
 
     # b "It probably wouldn't have been very useful anyway. I flick through it to find it's mostly glossy photographs, like a coffee table book. "
-    b ""
+    b "I tak pewnie nie przydałaby się nam za bardzo. Przeszukuję ją i znajduję głównie błyszczące fotografie, jak w dużym albumie z grafikami. "
 
 # game/script/05_week2.rpy:237
 translate polish s05_5_dont_buy_bbb91350:
 
     # avt "\"Ready to go? Senpai's probably waiting for us at this point.\" "
-    avt ""
+    avt "\"Gotowy do wyjścia? Senpai już pewnie na nas czeka.\" "
 
 # game/script/05_week2.rpy:239
 translate polish s05_5_dont_buy_d18a836a:
@@ -538,13 +538,13 @@ translate polish s05_5_dont_buy_d18a836a:
     # voice voice_file.tig(5,20)
     # tig normal "\"...Alright.\" "
     voice voice_file.tig(5,20)
-    tig normal ""
+    tig normal "\"...w porządku.\" "
 
 # game/script/05_week2.rpy:241
 translate polish s05_5_dont_buy_722ed642:
 
     # avt "\"Besides, not buying books just means we can spend more money on dinner! Anything you'd like?\" "
-    avt ""
+    avt "\"Poza tym nie kupowanie książek oznacza, że możemy wydać więcej pieniędzy na obiady! Masz na coś ochotę?\" "
 
 # game/script/05_week2.rpy:243
 translate polish s05_5_dont_buy_d853b7e8:
@@ -552,7 +552,7 @@ translate polish s05_5_dont_buy_d853b7e8:
     # voice voice_file.tig(5,21)
     # tig laugh_2 "\"Oh?\" "
     voice voice_file.tig(5,21)
-    tig laugh_2 ""
+    tig laugh_2 "\"Och?\" "
 
 # game/script/05_week2.rpy:245
 translate polish s05_5_dont_buy_cfc655c7:
