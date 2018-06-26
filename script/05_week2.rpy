@@ -498,13 +498,13 @@ translate polish s05_5_buy_2_2181ab73:
 translate polish s05_5_buy_2_76b720f4:
 
     # b "I put the book in my bag and left with Tiger to meet with Senpai for dinner. "
-    b ""
+    b "Wkładam książkę do torby i wychodzimy z Tygrysem, by iść z Senpai'em na obiad. "
 
 # game/script/05_week2.rpy:229
 translate polish s05_5_dont_buy_f82d44ef:
 
     # avt "\"This book really is just too expensive for me right now...\" "
-    avt ""
+    avt "\"Ta książka, na ten moment, jest dla mnie o wiele za droga...\" "
 
 # game/script/05_week2.rpy:231
 translate polish s05_5_dont_buy_e77a8bbb:
@@ -512,13 +512,13 @@ translate polish s05_5_dont_buy_e77a8bbb:
     # voice voice_file.tig(5,19)
     # tig embarrassed "\"So we can't get it then.\" "
     voice voice_file.tig(5,19)
-    tig embarrassed ""
+    tig embarrassed "\"A więc nie możemy jej kupić.\" "
 
 # game/script/05_week2.rpy:233
 translate polish s05_5_dont_buy_4e04195e:
 
     # avt "\"...Sadly we can't.\" "
-    avt ""
+    avt "\"...niestety, nie możemy.\" "
 
 # game/script/05_week2.rpy:235
 translate polish s05_5_dont_buy_bc7c1062:
