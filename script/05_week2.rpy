@@ -560,43 +560,43 @@ translate polish s05_5_dont_buy_cfc655c7:
     # voice voice_file.tig(5,22)
     # tig laugh_1 "\"Let me think...\" "
     voice voice_file.tig(5,22)
-    tig laugh_1 ""
+    tig laugh_1 "\"Pozwól mi się zastanowić...\" "
 
 # game/script/05_week2.rpy:249
 translate polish s05_5_dont_buy_e63c518c:
 
     # b "So we left the bookstore and headed over to the cafeteria, talking about what food to get the whole way. "
-    b ""
+    b "Wychodzimy z księgarni i udajemy się na stołówkę, całą drogę dyskutując co wziąć do jedzenia. "
 
 # game/script/05_week2.rpy:266
 translate polish week2_03_86bdfd88:
 
     # b "I'm so worried about today's quiz... "
-    b ""
+    b "Bardzo denerwuję się dzisiejszym testem... "
 
 # game/script/05_week2.rpy:268
 translate polish week2_03_1d39702a:
 
     # b "Well, usually a quiz is no big deal but recently, all my study plans have been severely messed up by some cats... "
-    b ""
+    b "Zazwyczaj to żaden problem, ale ostatnio moje wszystkie studenckie plany zostały zepsute przez pewne koty... "
 
 # game/script/05_week2.rpy:270
 translate polish week2_03_25ae7b48:
 
     # b "Ok, maybe that's an excuse. "
-    b ""
+    b "Dobra, może to jakaś wymówka. "
 
 # game/script/05_week2.rpy:272
 translate polish week2_03_d0a50f23:
 
     # b "It's not like math was my strength to begin with. Even though I managed to review the whole topic, doesn't change the fact I didn't understand all of it. "
-    b ""
+    b "Matma nigdy nie była moją mocną stroną. Mimo, że udało mi się powtórzyć cały temat, nie zmienia to faktu, że nie zrozumiałem wszystkiego. "
 
 # game/script/05_week2.rpy:274
 translate polish week2_03_c027499d:
 
     # b "Cramming is never a substitute of studying after all... "
-    b ""
+    b "Ostre wkuwanie na ostatnią chwilę, nie zastąpi regularnej nauki... "
 
 # game/script/05_week2.rpy:276
 translate polish week2_03_9bbe5364:
