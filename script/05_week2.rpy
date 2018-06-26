@@ -4,7 +4,7 @@
 translate polish week2_01_c6e15a2b:
 
     # b "After that weekend, my new college life living with three big cat spirits pretty much began for real. "
-    b "Moje studenckie życie z duchami dużych kotów, rozpoczyna się na dobre po tym weekendzie. "
+    b "Po weekendzie, moje studenckie życie z duchami dużych kotów, na dobre się rozpoczyna. "
 
 # game/script/05_week2.rpy:11
 translate polish week2_01_00d3fa82:
@@ -16,7 +16,7 @@ translate polish week2_01_00d3fa82:
 translate polish week2_01_d21ed498:
 
     # b "I mean, I've never wanted an ordinary, boring life, but I know for a fact no other college students have to deal with this. "
-    b "Nudne, szara codzienność nigdy nie była szczytem moich marzeń, ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
+    b "Nudna, szara codzienność, nigdy nie była szczytem moich marzeń, ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
 
 # game/script/05_week2.rpy:15
 translate polish week2_01_03ed8e58:
@@ -617,14 +617,14 @@ translate polish week2_03_5dde9770:
     # b "I give it a go, head on with all my might... even if I don't end up making sense of most of the questions. "
     # b "And as such, forty minutes passed in a blink of fury and determination. "
     b "Odsuwam na bok rozpraszające mnie myśli, gdy tylko dostaję do ręki swoją kartkę. "
-    b "Postanawiam przynajmniej spróbować, wysilając umysł z całej siły... nawet jeśli nie udaje mi się zrozumieć większości pytań. "
-    b "I tak oto, czterdzieści minut minęło w mgnieniu oka i determinacji. "
+    b "Postanawiam przynajmniej spróbować, wysilając umysł z całej siły... mimo to nie udaje mi się zrozumieć większości pytań. "
+    b "I tak oto, czterdzieści minut zawziętości i determinacji minęło w mgnieniu oka. "
 
 # game/script/05_week2.rpy:284
 translate polish week2_03_7dfe33bc:
 
     # b "All that fury and determination I had just a while ago, burnt out to a crisp. My mind resorting to absent-mindedly scribbling on the back of the exam paper. "
-    b ""
+    b "Cała ta zawziętość i determinacja, którą jeszcze chwilę temu miałem, gdzieś uleciała. Mój umysł ucieka się do bezmyślnego skrobania po papierze egzaminacyjnym. "
 
 # game/script/05_week2.rpy:295
 translate polish week2_03_743d8655:
@@ -632,43 +632,43 @@ translate polish week2_03_743d8655:
     # voice voice_file.lpd(5,1)
     # lpd normal "\"Third.\" "
     voice voice_file.lpd(5,1)
-    lpd normal ""
+    lpd normal "\"Trzecia.\" "
 
 # game/script/05_week2.rpy:297
 translate polish week2_03_ba3512f0:
 
     # b "I look up to find Leopard staring at my quiz. "
-    b ""
+    b "Spoglądam znad kartki i widzę Panterę wpatrującego się w mój test. "
 
 # game/script/05_week2.rpy:299
 translate polish week2_03_5c76bf37:
 
     # b "Third? What third... {w=0.5}Wait, does he mean the third answer? "
-    b ""
+    b "Trzecia? Jaka trzecia... {w=0.5}Czekaj, czy on ma na myśli trzecią odpowiedź? "
 
 # game/script/05_week2.rpy:302
 translate polish week2_03_e3cec1c9:
 
     # b "I circle C for the multiple choice I'm on. "
-    b ""
+    b "Zaznaczam C w pytaniu wielokrotnego wyboru. "
 
 # game/script/05_week2.rpy:304
 translate polish week2_03_ac160dbc:
 
     # lpd laugh "\"......\""
-    lpd laugh ""
+    lpd laugh "\"......\""
 
 # game/script/05_week2.rpy:312
 translate polish week2_03_c2765220:
 
     # b "I look up to see Leopard nod slightly. Is that really the answer? "
-    b ""
+    b "Spoglądam i widzę, że Pantera lekko kiwa głową. Czy to naprawdę odpowiedź? "
 
 # game/script/05_week2.rpy:314
 translate polish week2_03_8973e436:
 
     # b "Just to make sure, I move my pencil to the next question and look at him. "
-    b ""
+    b "By się upewnić, przesuwam swój ołówek do następnego pytania i spoglądam na niego. "
 
 # game/script/05_week2.rpy:316
 translate polish week2_03_ca342e9c:
@@ -676,19 +676,19 @@ translate polish week2_03_ca342e9c:
     # voice voice_file.lpd(5,2)
     # lpd normal "\"First.\""
     voice voice_file.lpd(5,2)
-    lpd normal ""
+    lpd normal "\"Pierwsza.\" "
 
 # game/script/05_week2.rpy:319
 translate polish week2_03_5689a8f7:
 
     # b "I circle A, and Leopard nods. "
-    b ""
+    b "Zakreślam A, a Pantera przytakuje. "
 
 # game/script/05_week2.rpy:323
 translate polish week2_03_10fd10db:
 
     # b "The hell?! He knows the answers? Maybe his math is pretty good? "
-    b ""
+    b "Co do diabła?! On zna odpowiedzi? Może jest całkiem niezły z matematyki? "
 
 # game/script/05_week2.rpy:325
 translate polish week2_03_aac9a080:
