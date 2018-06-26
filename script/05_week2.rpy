@@ -596,19 +596,19 @@ translate polish week2_03_d0a50f23:
 translate polish week2_03_c027499d:
 
     # b "Cramming is never a substitute of studying after all... "
-    b "Ostre wkuwanie na ostatnią chwilę, nie zastąpi regularnej nauki... "
+    b "Ostre wkuwanie na ostatnią chwilę nie zastąpi przecież regularnej nauki... "
 
 # game/script/05_week2.rpy:276
 translate polish week2_03_9bbe5364:
 
     # b "But, I'll never get through this quiz by complaining about it. I keep calm, walk into the class and gently take my seat. "
-    b ""
+    b "Nie ma szans bym napisał ten test ciągle narzekając. Staram się zachować spokój, wchodzę do klasy i cicho zajmuje swoje miejsce. "
 
 # game/script/05_week2.rpy:278
 translate polish week2_03_1ae43a26:
 
     # b "It's kinda weird to be in class at this point without Senpai with me. It's not his class so obviously he can't get away with sitting in on the test. "
-    b ""
+    b "To trochę dziwne, być teraz w klasie bez Senpai'a siedzącego obok. To nie są jego zajęcia, więc siedzenie tu podczas testu nie uszłoby mu oczywiście na sucho. "
 
 # game/script/05_week2.rpy:281
 translate polish week2_03_5dde9770:
@@ -616,7 +616,9 @@ translate polish week2_03_5dde9770:
     # b "As soon as I get my paper distracting thoughts are put to the side. "
     # b "I give it a go, head on with all my might... even if I don't end up making sense of most of the questions. "
     # b "And as such, forty minutes passed in a blink of fury and determination. "
-    b ""
+    b "Odsuwam na bok rozpraszające mnie myśli, gdy tylko dostaję do ręki swoją kartkę. "
+    b "Postanawiam przynajmniej spróbować, wysilając umysł z całej siły... nawet jeśli nie udaje mi się zrozumieć większości pytań. "
+    b "I tak oto, czterdzieści minut minęło w mgnieniu oka i determinacji. "
 
 # game/script/05_week2.rpy:284
 translate polish week2_03_7dfe33bc:
