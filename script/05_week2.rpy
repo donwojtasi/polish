@@ -695,20 +695,22 @@ translate polish week2_03_aac9a080:
 
     # b "In class he does always pay attention with that serious look of his but I thought he was just trying to pick up on the Mandarin. "
     # b "Was he actually learning math?! "
-    b ""
+    b "Podczas zajęć zawsze siedział skupiony z tym swoim poważnym spojrzeniem, ale myślałem, że po prostu próbuje poduczyć się mandaryńskiego. "
+    b "Czy on tak naprawdę uczył się matematyki?! "
 
 # game/script/05_week2.rpy:327
 translate polish week2_03_3c0aa275:
 
     # b "But how... {w=0.5}Even if his Mandarin was good enough, you can't just walk into college level calculus and get an A! "
-    b ""
+    b "Ale jak... {w=0.5}Nawet jeśli jego mandaryński byłby wystarczająco dobry, to nie można tak po prostu przeskoczyć na poziom szkoły wyższej i dostać najwyższą ocenę! "
 
 # game/script/05_week2.rpy:329
 translate polish week2_03_39c632e5:
 
     # b "I mean even if it is just a general elective class, I can't even get through this quiz! "
     # b "Maybe Mister Leopard is really a genius in disguise?! "
-    b ""
+    b "To tylko przedmiot dodatkowy, ale nawet nie potrafię przebrnąć przez ten test! "
+    b "Może Pan Pantera jest naprawdę ukrytym geniuszem?! "
 
 # game/script/05_week2.rpy:336
 translate polish week2_03_f651d8e9:
