@@ -800,74 +800,75 @@ translate polish week2_03_e9b5c68c:
 translate polish week2_03_0494e1ff:
 
     # b "I didn't want to cheat! Why didn't Guardian Tiger stop him?! "
-    b ""
+    b "Nie chciałem ściągać! Czemu Tygrysi Strażnik go nie powstrzymał?! "
 
 # game/script/05_week2.rpy:381
 translate polish week2_03_099b293a:
 
     # b "I see Tiger sitting in the back row of the classroom, seemingly delighted by the book he's reading. "
-    b ""
+    b "Widzę Tygrysa siedzącego w tylnym rogu klasy, widocznie uszczęśliwionego książką, którą czyta. "
 
 # game/script/05_week2.rpy:383
 translate polish week2_03_f67308a7:
 
     # b "...Yeah, this is my fault. "
-    b ""
+    b "...tak, to tylko moja wina. "
 
 # game/script/05_week2.rpy:385
 translate polish week2_03_7a2b5e32:
 
     # b "I start to pack my stuff and get ready to leave. There's nothing I can do anyway, and at least I completed the first half by myself... "
-    b ""
+    b "Zaczynam pakować swoje rzeczy i przygotowywać się do wyjścia. Nic już teraz nie mogę zrobić, a przynajmniej sam wypełniłem pierwszą połowę... "
 
 # game/script/05_week2.rpy:387
 translate polish week2_03_31050001:
 
     # b "Hopefully they don't catch me for cheating... otherwise I'll be screwed. "
-    b ""
+    b "Mam nadzieję, że nie złapią mnie na ściąganiu... inaczej będę miał kłopoty. "
 
 # game/script/05_week2.rpy:389
 translate polish week2_03_6c754480:
 
     # b "Alright! I just have to study hard from now on! "
     # b "I won't let this happen again. But how should I explain it to Leopard? I wonder if he knows what an exam is? "
-    b ""
+    b "Dobra! Od teraz muszę tylko bardziej przyłożyć się do nauki! "
+    b "Nie pozwolę, by stało się to ponownie. Tylko jak powinienem wytłumaczyć to Panterze? Ciekawe, czy on wie co to jest egzamin? "
 
 # game/script/05_week2.rpy:397
 translate polish week2_03_0d535b3e:
 
     # avt "\"Well... thank you for your help.\""
-    avt ""
+    avt "\"Cóż... dzięki za twoją pomoc.\" "
 
 # game/script/05_week2.rpy:404
 translate polish week2_03_ade5a5aa:
 
     # lpd normal "*nods* "
-    lpd normal ""
+    lpd normal "*przytakuje* "
 
 # game/script/05_week2.rpy:406
 translate polish week2_03_b6f67111:
 
     # avt "\"But, um, the way you did that wasn't good.\" "
-    avt ""
+    avt "\"Ale, um, to nie był najlepszy sposób.\" "
 
 # game/script/05_week2.rpy:408
 translate polish week2_03_ee5318fa:
 
     # avt "\"It's called cheating, you know?\" "
-    avt ""
+    avt "\"To oszukiwanie, wiesz?\" "
 
 # game/script/05_week2.rpy:412
 translate polish week2_03_af54c937:
 
     # lpd normal "\"...?\" "
-    lpd normal ""
+    lpd normal "\"...?\" "
 
 # game/script/05_week2.rpy:414
 translate polish week2_03_b6727aa4:
 
     # avt "\"I mean... you shouldn't copy other people's answers. That's against the rules, and not fair to others. So don't do that.\" "
-    avt ""
+    avt "\"To znaczy... nie powinieneś kopiować odpowiedzi od reszty ludzi. To sprzeczne z zasadami i nie w porządku wobec innych. Więc nie rób tak.\" "
 
 # game/script/05_week2.rpy:416
 translate polish week2_03_4a9ac2dc:
@@ -875,13 +876,13 @@ translate polish week2_03_4a9ac2dc:
     # voice voice_file.lpd(5,4)
     # lpd normal "\"Not fair?\" "
     voice voice_file.lpd(5,4)
-    lpd normal ""
+    lpd normal "\"Nie w porządku?\" "
 
 # game/script/05_week2.rpy:418
 translate polish week2_03_cee99e92:
 
     # avt "\"Well see, it's unfair because I'm the only one who can see other people's answers. Understand now?\" "
-    avt ""
+    avt "\"Zrozum, to nie w porządku, ponieważ tylko ja mogę podejrzeć odpowiedzi całej reszty. Teraz rozumiesz?\" "
 
 # game/script/05_week2.rpy:420
 translate polish week2_03_b3974a9d:
@@ -889,67 +890,67 @@ translate polish week2_03_b3974a9d:
     # voice voice_file.lpd(5,5)
     # lpd normal "\"...Yes.\" "
     voice voice_file.lpd(5,5)
-    lpd normal ""
+    lpd normal "\"...tak.\" "
 
 # game/script/05_week2.rpy:422
 translate polish week2_03_d6719ab5:
 
     # avt "\"So don't do that again. Sorry I didn't realise those were other people's answers and I just followed you. So next time, please don't tell me other people's answers.\" "
-    avt ""
+    avt "\"Nie rób tego więcej. Przepraszam, nie zorientowałem się skąd masz te odpowiedzi i po prostu je od ciebie wziąłem. Następnym razem mi nie podpowiadaj.\"   "
 
 # game/script/05_week2.rpy:424
 translate polish week2_03_d19f2f79:
 
     # lpd disappointed "\"......\" "
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 # game/script/05_week2.rpy:426
 translate polish week2_03_4ae13dba:
 
     # avt "\"But... thank you anyway.\" "
-    avt ""
+    avt "\"Ale... Dziękuje mimo wszystko.\" "
 
 # game/script/05_week2.rpy:428
 translate polish week2_03_cb8c479d:
 
     # b "I understood that that he just wanted to help, but even with the best intentions he made a mistake. "
-    b ""
+    b "Zrozumiałem, że chciał mi tylko pomóc, ale nawet mając najlepsze intencje, postąpił niewłaściwie. "
 
 # game/script/05_week2.rpy:430
 translate polish week2_03_44525028:
 
     # b "Even if I pass this quiz, that's all I get out of it. I won't pass the final exam without actual study anyway... "
-    b ""
+    b "Nawet jeśli zdam ten test, to to by było na tyle. I tak nie zdam końcowego egzaminu bez konkretnej nauki... "
 
 # game/script/05_week2.rpy:432
 translate polish week2_03_eb836d81:
 
     # b "I mean... what if he helped me during the final as well? "
-    b ""
+    b "W sumie... a co gdyby pomógł mi też podczas końcowego egzaminu? "
 
 # game/script/05_week2.rpy:434
 translate polish week2_03_eb707502:
 
     # b "...I'm really worried about this elective knocking down my GPA. "
-    b ""
+    b "...naprawdę martwię się, że ten przedmiot obniży moją średnią. "
 
 # game/script/05_week2.rpy:436
 translate polish week2_03_53f8f27a:
 
     # b "So, if I can just cheat with Leopard's help... "
-    b ""
+    b "Gdybym tylko mógł ściągać z pomocą Pantery... "
 
 # game/script/05_week2.rpy:438
 translate polish week2_03_fddd4106:
 
     # b "No! I can't think about just cheating my way through this. I absolutely can't do that! " with vpunch
-    b "" with vpunch
+    b "Nie! Nie powinienem nawet myśleć o oszukiwaniu, by przez to przebrnąć. Absolutnie nie mogę tego zrobić! " with vpunch
 
 # game/script/05_week2.rpy:440
 translate polish week2_03_a0445b80:
 
     # b "I hesitate over it for a while, but with my stuff packed up I leave the classroom. "
-    b ""
+    b "Waham się nad tym tylko przez chwilę, bo spakowany wychodzę już z klasy. "
 
 # game/script/05_week2.rpy:457
 translate polish week2_04_b12b7db3:
