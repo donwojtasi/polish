@@ -709,7 +709,7 @@ translate polish week2_03_39c632e5:
 
     # b "I mean even if it is just a general elective class, I can't even get through this quiz! "
     # b "Maybe Mister Leopard is really a genius in disguise?! "
-    b "To tylko przedmiot dodatkowy, ale nawet nie potrafię przebrnąć przez ten test! "
+    b "To tylko przedmiot dodatkowy, a ja nawet nie potrafię przebrnąć przez ten test! "
     b "Może Pan Pantera jest naprawdę ukrytym geniuszem?! "
 
 # game/script/05_week2.rpy:336
@@ -717,38 +717,40 @@ translate polish week2_03_f651d8e9:
 
     # b "It's a bit crazy to do so, but I follow the leopard's instructions... "
     # b "He's throwing them at me so fast I can barely keep up. "
-    b ""
+    b "To trochę szalone, ale kieruję się jego odpowiedziami... "
+    b "Tak szybko mi je podaje, że ledwo za nim nadążam. "
 
 # game/script/05_week2.rpy:338
 translate polish week2_03_e3bc8132:
 
     # b "But this is math! No one can calculate this fast in their head! "
-    b ""
+    b "Przecież to matma! Nikt nie potrafi liczyć tak szybko w myślach! "
 
 # game/script/05_week2.rpy:340
 translate polish week2_03_a5aa71f1:
 
     # b "I mean, are these even the answers? I'd doubt he'd lie about it though and it's not like I've got any better options. "
-    b ""
+    b "To znaczy, czy to są w ogóle prawidłowe odpowiedzi? Wątpię, by próbował mnie oszukać, no i to nie tak, że mam jakąś inną opcję. "
 
 # game/script/05_week2.rpy:342
 translate polish week2_03_0ab5d0e7:
 
     # b "So I let it be and complete the quiz with Leopard's help. "
     # b "Then I sit there and wait for the end to come. "
-    b ""
+    b "Zgadzam się więc na to i wypełniam test z pomocą Pantery. "
+    b "Potem po prostu siedzę i czekam do końca zajęć. "
 
 # game/script/05_week2.rpy:348
 translate polish week2_03_d578bd07:
 
     # b "With class over. I turn in my quiz and whisper to Leopard while everyone packs up their stuff. "
-    b ""
+    b "Gdy dzwoni wreszcie dzwonek, oddaję swoją kartkę i szepczę do Pantery, podczas gdy wszyscy pakują swoje rzeczy. "
 
 # game/script/05_week2.rpy:355
 translate polish week2_03_a4c28b47:
 
     # avt "\"So those answers. How did you know them?\" "
-    avt ""
+    avt "\"Te odpowiedzi... Jakim cudem je znałeś?\" "
 
 # game/script/05_week2.rpy:357
 translate polish week2_03_c58b3c2b:
@@ -756,43 +758,43 @@ translate polish week2_03_c58b3c2b:
     # voice voice_file.lpd(5,3)
     # lpd normal "\"I watch.\" "
     voice voice_file.lpd(5,3)
-    lpd normal ""
+    lpd normal "\"Patrzę.\" "
 
 # game/script/05_week2.rpy:359
 translate polish week2_03_d332ac8a:
 
     # avt "\"Watch? Watch what?\" "
-    avt ""
+    avt "\"Patrzysz? Na co?\" "
 
 # game/script/05_week2.rpy:361
 translate polish week2_03_353f6e85:
 
     # lpd normal "\"{cps=0.2}......{/cps}\" "
-    lpd normal ""
+    lpd normal "\"{cps=0.2}......{/cps}\" "
 
 # game/script/05_week2.rpy:369
 translate polish week2_03_65c6c889:
 
     # b "He walks to a desk nearby then points to the seat. "
-    b ""
+    b "Podchodzi do ławki obok i wskazuje na miejsce. "
 
 # game/script/05_week2.rpy:373
 translate polish week2_03_dac9aaf9:
 
     # b "He was just reading out other people answers! So does that mean I just copied on my quiz? "
-    b "" with hshake
+    b "Po prostu czytał odpowiedzi innych osób! Czy to oznacza, że oszukiwałem na teście? " with hshake
 
 # game/script/05_week2.rpy:375
 translate polish week2_03_e87a0f80:
 
     # b "That's cheating...{w=0.5}Well. I was already cheating when got his help on the quiz to begin with. It doesn't matter whether where he got the answers from. "
-    b ""
+    b "To ściąganie...{w=0.5}No cóż, tak naprawdę to oszukiwałem już od chwili, gdy zgodziłem się na jego pomoc. Nie ważne w jaki sposób mi pomagał i co zrobił. "
 
 # game/script/05_week2.rpy:377
 translate polish week2_03_e9b5c68c:
 
     # b "Ahhhh— All I wanted to know was how he got the answers... "
-    b ""
+    b "Achhhh- Ja tylko chciałem wiedzieć, skąd on miał te odpowiedzi... "
 
 # game/script/05_week2.rpy:379
 translate polish week2_03_0494e1ff:
