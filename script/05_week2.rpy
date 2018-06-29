@@ -702,7 +702,7 @@ translate polish week2_03_aac9a080:
 translate polish week2_03_3c0aa275:
 
     # b "But how... {w=0.5}Even if his Mandarin was good enough, you can't just walk into college level calculus and get an A! "
-    b "Ale jak... {w=0.5}Nawet jeśli jego mandaryński byłby wystarczająco dobry, to nie można tak po prostu przeskoczyć na poziom szkoły wyższej i dostać najwyższą ocenę! "
+    b "Ale jak... {w=0.5}Nawet jeśli jego mandaryński byłby wystarczająco dobry, to nie da się od tak przeskoczyć na poziom szkoły wyższej i dostać najwyższą ocenę! "
 
 # game/script/05_week2.rpy:329
 translate polish week2_03_39c632e5:
@@ -730,7 +730,7 @@ translate polish week2_03_e3bc8132:
 translate polish week2_03_a5aa71f1:
 
     # b "I mean, are these even the answers? I'd doubt he'd lie about it though and it's not like I've got any better options. "
-    b "To znaczy, czy to są w ogóle prawidłowe odpowiedzi? Wątpię, by próbował mnie oszukać, no i to nie tak, że mam jakąś inną opcję. "
+    b "To znaczy, czy to są w ogóle prawidłowe odpowiedzi? Wątpię, by próbował mnie oszukać, a i nie mam za bardzo innego wyboru. "
 
 # game/script/05_week2.rpy:342
 translate polish week2_03_0ab5d0e7:
@@ -950,14 +950,15 @@ translate polish week2_03_fddd4106:
 translate polish week2_03_a0445b80:
 
     # b "I hesitate over it for a while, but with my stuff packed up I leave the classroom. "
-    b "Waham się nad tym tylko przez chwilę, bo spakowany wychodzę już z klasy. "
+    b "Waham się nad tym przez chwilę, ale spakowany wychodzę już z klasy. "
 
 # game/script/05_week2.rpy:457
 translate polish week2_04_b12b7db3:
 
     # b "That night, we were at club practice. "
     # b "While our club leader gives a speech, I notice Jiahao coming over to me. "
-    b ""
+    b "Tego wieczoru, jesteśmy na klubowych ćwiczeniach. "
+    b "Gdy lider wygłasza swoje przemówienie, zauważam podchodzącego do mnie Jiahao. "
 
 # game/script/05_week2.rpy:459
 translate polish week2_04_d55dd73b:
@@ -965,19 +966,19 @@ translate polish week2_04_d55dd73b:
     # voice voice_file.jiahao(5,1)
     # jiahao "\"Hey Liao, so remember how you asked me if I knew any Rukai gods that looked like clouded leopards?\""
     voice voice_file.jiahao(5,1)
-    jiahao ""
+    jiahao "\"Hej Liao, pamiętasz jak pytałeś mnie, czy znam jakichś bogów Rukai wyglądających na mgliste pantery?\" "
 
 # game/script/05_week2.rpy:461
 translate polish week2_04_0e805fac:
 
     # avt "\"Yeah. How'd it go? You get something?\" "
-    avt ""
+    avt "\Pewnie. I jak poszło? Masz jakieś informacje?\" "
 
 # game/script/05_week2.rpy:463
 translate polish week2_04_d3c3e4fc:
 
     # b "I look towards the god in question, he's listening carefully with his stern expression. "
-    b ""
+    b "Spoglądam na boga o którym mowa. Uważnie słucha ze swoim surowym wyrazem twarzy. "
 
 # game/script/05_week2.rpy:465
 translate polish week2_04_7f31ef9f:
@@ -985,7 +986,7 @@ translate polish week2_04_7f31ef9f:
     # voice voice_file.jiahao(5,2)
     # jiahao "\"Yeah, my mum had some ideas.\" "
     voice voice_file.jiahao(5,2)
-    jiahao ""
+    jiahao "\"Tak, moja mama miała pewne przypuszczenia.\" "
 
 # game/script/05_week2.rpy:467
 translate polish week2_04_58a21b1c:
@@ -993,13 +994,13 @@ translate polish week2_04_58a21b1c:
     # voice voice_file.jiahao(5,3)
     # jiahao "\"So, while there aren't any clouded leopard gods, the Rukai do actually have a legend about a clouded leopard.\" "
     voice voice_file.jiahao(5,3)
-    jiahao ""
+    jiahao "\"Tak więc, o ile nie ma żadnych bogów mglistych panter, o tyle Rukai posiada legendę o mglistej panterze.\" "
 
 # game/script/05_week2.rpy:469
 translate polish week2_04_6a1f2a66:
 
     # avt "\"A legend about a clouded leopard... huh? What kind of legend?\" "
-    avt ""
+    avt "\"Legenda o mglistej panterze... hę? Co to za legenda?\" "
 
 # game/script/05_week2.rpy:471
 translate polish week2_04_0a531081:
@@ -1010,7 +1011,10 @@ translate polish week2_04_0a531081:
     # jiahao "\"It made them stop and look. That clouded leopard led them to a treasured place, perfect for them to live and prosper.\" "
     # jiahao "\"That's where they settled and formed the current Wutai tribe we have today.\" "
     voice voice_file.jiahao(5,4)
-    jiahao ""
+    jiahao "\"To było tak... dawno temu, moi przodkowie podróżowali przez dzisiejsze Wutai.\" "
+    jiahao "\"Gdy już mieli opuścić to miejsce, plemienna pantera mglista nie chciała iść ani kroku dalej.\" "
+    jiahao "\"Zmusiło ich to do zatrzymania i rozejrzenia się wokoło. Ta mglista pantera poprowadziła ich do wymarzonego miejsca, idealnego do życia i rozwoju.\" "
+    jiahao "\"To tam się osiedlili i założyli plemię Wutai, które znamy obecnie.\" "
 
 # game/script/05_week2.rpy:473
 translate polish week2_04_9fbbf89f:
@@ -1018,7 +1022,7 @@ translate polish week2_04_9fbbf89f:
     # voice voice_file.jiahao(5,5)
     # jiahao "\"It's quite the tale.\" "
     voice voice_file.jiahao(5,5)
-    jiahao ""
+    jiahao "\"To długa opowieść.\" "
 
 # game/script/05_week2.rpy:475
 translate polish week2_04_cc4d94f9:
@@ -1028,7 +1032,9 @@ translate polish week2_04_cc4d94f9:
     # jiahao "\"I'd say the way our ancestors migrated back then was a little bit... strange.\" "
     # jiahao "\"But tales are tales.\" "
     voice voice_file.jiahao(5,6)
-    jiahao ""
+    jiahao "\"No ale nigdy nie możesz być pewien, czy to naprawdę się wydarzyło.\" "
+    jiahao "\"Powiedziałbym, że okoliczności w jakich nasi przodkowie się wtedy przenieśli były trochę... dziwne.\" "
+    jiahao "\"Ale przecież to tylko opowieść.\" "
 
 # game/script/05_week2.rpy:477
 translate polish week2_04_8f5ee001:
