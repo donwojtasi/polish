@@ -1032,8 +1032,8 @@ translate polish week2_04_cc4d94f9:
     # jiahao "\"I'd say the way our ancestors migrated back then was a little bit... strange.\" "
     # jiahao "\"But tales are tales.\" "
     voice voice_file.jiahao(5,6)
-    jiahao "\"No ale nigdy nie możesz być pewien, czy to naprawdę się wydarzyło.\" "
-    jiahao "\"Powiedziałbym, że okoliczności w jakich nasi przodkowie się wtedy przenieśli były trochę... dziwne.\" "
+    jiahao "\"No i nie możemy być pewni, czy to naprawdę się wydarzyło.\" "
+    jiahao "\"Powiedziałbym, że okoliczności w jakich nasi przodkowie się wtedy przenieśli, były trochę... dziwne.\" "
     jiahao "\"Ale przecież to tylko opowieść.\" "
 
 # game/script/05_week2.rpy:477
@@ -1042,13 +1042,13 @@ translate polish week2_04_8f5ee001:
     # voice voice_file.jiahao(5,7)
     # jiahao "\"Maybe the clouded leopard you were thinking of is the one from that legend after all.\" "
     voice voice_file.jiahao(5,7)
-    jiahao ""
+    jiahao "\"Może ta mglista pantera o której myślałeś jest tak naprawdę tą z legendy.\" "
 
 # game/script/05_week2.rpy:479
 translate polish week2_04_2606351e:
 
     # avt "\"...Do you think he became a god after that?\" "
-    avt ""
+    avt "...czy myślisz że stał się po tym bogiem?\" "
 
 # game/script/05_week2.rpy:481
 translate polish week2_04_edbd16af:
@@ -1056,7 +1056,7 @@ translate polish week2_04_edbd16af:
     # voice voice_file.jiahao(5,8)
     # jiahao "\"There's no way to be sure, our tribe doesn't worship clouded leopards but they do pay respect them. Maybe there is a clouded leopard god out there after all?\" "
     voice voice_file.jiahao(5,8)
-    jiahao ""
+    jiahao "\"Ciężko powiedzieć, nasze plemię nie nie wyznaje mglistych panter, ale darzy je szczególnym szacunkiem. Może w końcu jest tam jakiś bóg mglistej pantery?\" "
 
 # game/script/05_week2.rpy:483
 translate polish week2_04_a4e56b1f:
@@ -1064,7 +1064,7 @@ translate polish week2_04_a4e56b1f:
     # voice voice_file.jiahao(5,9)
     # jiahao "\"By the way, what made you so interested in all this?\" "
     voice voice_file.jiahao(5,9)
-    jiahao ""
+    jiahao "\"A tak poza tym, co sprawiło, że zacząłeś się tym interesować?\" "
 
 # game/script/05_week2.rpy:485
 translate polish week2_04_876f5405:
