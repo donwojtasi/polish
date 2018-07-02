@@ -1070,14 +1070,15 @@ translate polish week2_04_a4e56b1f:
 translate polish week2_04_876f5405:
 
     # avt "\"Ehh, Umm, I... I was probably just wrong about it to begin with...\" "
-    avt ""
+    avt "\"Eeee, umm, Ja... chyba od samego początku źle to wszystko zrozumiałem...\" "
 
 # game/script/05_week2.rpy:487
 translate polish week2_04_831ff964:
 
     # avt "\"Well I just heard something about clouded leopards being respected by the Rukai...\" "
     # avt "\"Then I wondered if any of them were gods.\" "
-    avt ""
+    avt "Cóż, usłyszałem coś tylko o mglistych panterach i Rukai okazujących im szacunek...\" "
+    avt "\"Zacząłem się zastanawiać, czy którakolwiek z nich mogła być bogiem.\" "
 
 # game/script/05_week2.rpy:489
 translate polish week2_04_c1a7d175:
