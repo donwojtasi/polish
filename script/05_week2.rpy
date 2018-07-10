@@ -1106,7 +1106,7 @@ translate polish week2_04_5466a0db:
 translate polish week2_04_9668453c:
 
     # avt "\"Okay... So, that particular clouded leopard from that tale might really be a god, huh?\" "
-    avt "\"Dobrze... Więc ten konkretny osobnik z opowieści mógł być naprawdę bogiem, hę?\" "
+    avt "\"Dobrze... Więc ta mglista pantera z opowieści mogła naprawdę być bogiem, hę?\" "
 
 # game/script/05_week2.rpy:497
 translate polish week2_04_d9dca7ad:
@@ -1214,19 +1214,19 @@ translate polish week2_04_8fc6ca0a:
 translate polish week2_04_f4a1c095:
 
     # b "Now that that's over, I pretend to tell Jiahao that I need to the bathroom so I can get a chance to talk to Leopard alone. "
-    b ""
+    b "Gdy wszystko sobie wyjaśniliśmy, udałem przed Jiahao, że muszę iść do łazienki, by móc pogadać z Panterą sam na sam. "
 
 # game/script/05_week2.rpy:544
 translate polish week2_04_8bd31d2f:
 
     # avt "\"So, uh... Leopard. Jiahao said he didn't know about any clouded leopard gods in the Rukai. You know anything about that?\" "
-    avt ""
+    avt "\"Więc, umm... Pantero. Jiahao powiedział, że nic nie wie o żadnych bogach mglistych panter z Rukai. Wiesz coś o tym?\" "
 
 # game/script/05_week2.rpy:546
 translate polish week2_04_c82b76e4:
 
     # b "I've been putting this off for a while, but I decided to just ask him straight out. He probably knew I was suspicious of him anyway, best to just ask. "
-    b ""
+    b "Zwlekałem z tym przez jakiś czas, ale postanowiłem, że wreszcie bezpośrednio się go o to zapytam. Pewnie i tak wiedział, że byłem co do niego podejrzliwy, tak będzie najlepiej. "
 
 # game/script/05_week2.rpy:549
 translate polish week2_04_29b11bc3:
@@ -1234,13 +1234,13 @@ translate polish week2_04_29b11bc3:
     # voice voice_file.lpd(5,7)
     # lpd normal "\"I am no god. I am spirit.\" "
     voice voice_file.lpd(5,7)
-    lpd normal ""
+    lpd normal "\"Nie jestem bogiem. Jestem duchem.\" "
 
 # game/script/05_week2.rpy:551
 translate polish week2_04_7877891a:
 
     # avt "\"Spirit?\" "
-    avt ""
+    avt "\"Duchem?\" "
 
 # game/script/05_week2.rpy:560
 translate polish week2_04_a224e5cf:
@@ -1248,7 +1248,7 @@ translate polish week2_04_a224e5cf:
     # voice voice_file.lpd(5,8)
     # lpd obsessed "\"I am... spirit.\" "
     voice voice_file.lpd(5,8)
-    lpd obsessed ""
+    lpd obsessed "\"Jestem... duchem.\" "
 
 # game/script/05_week2.rpy:562
 translate polish week2_04_d56ed7f6:
@@ -1256,13 +1256,13 @@ translate polish week2_04_d56ed7f6:
     # voice voice_file.lpd(5,9)
     # lpd normal "\"Not god.\" "
     voice voice_file.lpd(5,9)
-    lpd normal ""
+    lpd normal "Nie bogiem.\" "
 
 # game/script/05_week2.rpy:564
 translate polish week2_04_5c35a724:
 
     # avt "\"Hmm... So, if you're not a god, Jiahao was right then?\" "
-    avt ""
+    avt "\"Hmm... Jeśli nie jesteś bogiem, to Jiahao miał rację?\" "
 
 # game/script/05_week2.rpy:566
 translate polish week2_04_fbac1f87:
@@ -1270,7 +1270,7 @@ translate polish week2_04_fbac1f87:
     # voice voice_file.lpd(5,10)
     # lpd normal "\"Yes.\" "
     voice voice_file.lpd(5,10)
-    lpd normal ""
+    lpd normal "\"Tak.\" "
 
 # game/script/05_week2.rpy:568
 translate polish week2_04_14a2b235:
