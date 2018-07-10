@@ -1084,7 +1084,7 @@ translate polish week2_04_831ff964:
 translate polish week2_04_c1a7d175:
 
     # avt "\"They're important creatures after all, right?\" "
-    avt ""
+    avt "\"To przecież ważne stworzenia, prawda?\" "
 
 # game/script/05_week2.rpy:491
 translate polish week2_04_6396a159:
@@ -1092,7 +1092,7 @@ translate polish week2_04_6396a159:
     # voice voice_file.jiahao(5,10)
     # jiahao "\"Of course. As I said, the clouded leopards are respected by the Rukai, we would never harm them.\" "
     voice voice_file.jiahao(5,10)
-    jiahao ""
+    jiahao "\"Pewnie. Jak już mówiłem, Rukai darzy szacunkiem mgliste pantery, nigdy byśmy ich nie skrzywdzili.\" "
 
 # game/script/05_week2.rpy:493
 translate polish week2_04_5466a0db:
@@ -1100,13 +1100,13 @@ translate polish week2_04_5466a0db:
     # voice voice_file.jiahao(5,11)
     # jiahao "\"But theres no reason to say they're all gods... Well, maybe the one who led the tribe to Wutai might be, but not the entire species.\" "
     voice voice_file.jiahao(5,11)
-    jiahao ""
+    jiahao "\"Nie ma powodu, by twierdzić, że one wszystkie są bogami... No cóż, może ten który poprowadził plemię do Wutai nim jest, ale nie cały gatunek.\" "
 
 # game/script/05_week2.rpy:495
 translate polish week2_04_9668453c:
 
     # avt "\"Okay... So, that particular clouded leopard from that tale might really be a god, huh?\" "
-    avt ""
+    avt "\"Dobrze... Więc ten konkretny osobnik z opowieści mógł być naprawdę bogiem, hę?\" "
 
 # game/script/05_week2.rpy:497
 translate polish week2_04_d9dca7ad:
@@ -1114,7 +1114,7 @@ translate polish week2_04_d9dca7ad:
     # voice voice_file.jiahao(5,12)
     # jiahao "\"Who knows... mum didn't really mention it.\" "
     voice voice_file.jiahao(5,12)
-    jiahao ""
+    jiahao "\"Kto wie... mama o tym nie wspominała.\" "
 
 # game/script/05_week2.rpy:499
 translate polish week2_04_8e0cfc41:
@@ -1122,26 +1122,27 @@ translate polish week2_04_8e0cfc41:
     # voice voice_file.jiahao(5,13)
     # jiahao "\"And I don't think an animal can just become a god anyways. In our culture all the gods existed since before the universe was created.\" "
     voice voice_file.jiahao(5,13)
-    jiahao ""
+    jiahao "\"I tak nie sądzę, że zwierzę może od tak zostać bogiem. Według naszej kultury, wszyscy bogowie istnieli na długo przed powstaniem wszechświata.\" "
 
 # game/script/05_week2.rpy:501
 translate polish week2_04_41aadbff:
 
     # b "Now that I think about it, that clouded leopard never told me he was a god... "
-    b ""
+    b "Jak tak teraz o tym pomyślę, to mglista pantera nigdy nie mówił mi, że jest bogiem... "
 
 # game/script/05_week2.rpy:503
 translate polish week2_04_7a287051:
 
     # b "Maybe theres just a different name for it? Regardless, there's definitely a basis for that clouded leopard to have come from the Rukai tribe."
     # b "Maybe he might even be the one from Jiahao's legend? "
-    b ""
+    b "Może jest dla tego inne określenie? Mimo to, mam na pewno podstawy, by przypuszczać, że on pochodzi z plemienia Rukai. "
+    b "Kto wie, czy to nie o nim mówił Jiahao w swojej legendzie? "
 
 # game/script/05_week2.rpy:505
 translate polish week2_04_7e214ccd:
 
     # avt "\"Right, I've got another question. Have you ever heard about... Ali...Aidi...\" "
-    avt ""
+    avt "\"Rozumiem, mam inne pytanie. Czy słyszałeś kiedykolwiek... o Ali...Aidi...\" "
 
 # game/script/05_week2.rpy:513
 translate polish week2_04_605a67d9:
@@ -1149,19 +1150,19 @@ translate polish week2_04_605a67d9:
     # voice voice_file.lpd(5,6)
     # lpd normal "\"Aidridringane.\""
     voice voice_file.lpd(5,6)
-    lpd normal ""
+    lpd normal "\"Aidridringane.\""
 
 # game/script/05_week2.rpy:515
 translate polish week2_04_a7acc75a:
 
     # avt "\"Oh yeah, Aidridrin... Eh!\" "
-    avt ""
+    avt "\"No tak, Aidridrin... Och!\" "
 
 # game/script/05_week2.rpy:521
 translate polish week2_04_31e32729:
 
     # b "I let out a noise. Leopard had suddenly spoke out aloud next to me. "
-    b ""
+    b "Wydałem z siebie okrzyk. Pantera nagle głośno przemówił tuż obok mnie. "
 
 # game/script/05_week2.rpy:525
 translate polish week2_04_8de922ad:
@@ -1169,7 +1170,7 @@ translate polish week2_04_8de922ad:
     # voice voice_file.jiahao(5,14)
     # jiahao "\"What's wrong?\" "
     voice voice_file.jiahao(5,14)
-    jiahao ""
+    jiahao "\"Coś się stało?\" "
 
 # game/script/05_week2.rpy:527
 translate polish week2_04_49f062de:
@@ -1177,14 +1178,15 @@ translate polish week2_04_49f062de:
     # voice voice_file.jiahao(5,15)
     # jiahao "\"Cat got your tongue?\" "
     voice voice_file.jiahao(5,15)
-    jiahao ""
+    jiahao "\"Kot odgryzł ci język?\" "
 
 # game/script/05_week2.rpy:529
 translate polish week2_04_cbea5a2b:
 
     # avt "\"Uhh, yeah, kinda... \" "
     # avt "\"Anyway, you ever heard about a god with the name Aidridringane?\" "
-    avt ""
+    avt "\"Yhhh, coś w tym stylu...\" "
+    avt "\"Mniejsza, słyszałeś kiedykolwiek o bogu imieniem Aidridringane?\" "
 
 # game/script/05_week2.rpy:531
 translate polish week2_04_6ae491ff:
@@ -1192,13 +1194,13 @@ translate polish week2_04_6ae491ff:
     # voice voice_file.jiahao(5,16)
     # jiahao "\"Aidridringane? I'd have to ask.\" "
     voice voice_file.jiahao(5,16)
-    jiahao ""
+    jiahao "\"Aidridringane? Musiałbym popytać.\" "
 
 # game/script/05_week2.rpy:533
 translate polish week2_04_d00ae66f:
 
     # avt "\"It'd be great if you could, thank you for all your help!\" "
-    avt ""
+    avt "\"Byłoby świetnie gdybyś mógł to zrobić, dzięki za dotychczasowa pomoc!\" "
 
 # game/script/05_week2.rpy:535
 translate polish week2_04_8fc6ca0a:
@@ -1206,7 +1208,7 @@ translate polish week2_04_8fc6ca0a:
     # voice voice_file.jiahao(5,17)
     # jiahao "\"It's no problem really, piece of cake!\" "
     voice voice_file.jiahao(5,17)
-    jiahao ""
+    jiahao "\"To żaden problem, bułka z masłem!\" "
 
 # game/script/05_week2.rpy:537
 translate polish week2_04_f4a1c095:
