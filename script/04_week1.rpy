@@ -3621,19 +3621,19 @@ translate polish week1_03_lpdcat_buy_95566b27:
     # voice voice_file.tig(4,95)
     # tig lift "\"Are you sure he isn't doing all this on purpose?\" "
     voice voice_file.tig(4,95)
-    tig lift "\"Nie wydaje ci się, że on to robi specjalnie?\" "
+    tig lift "\"Nie wydaje ci się, że on cię zdradza?\" "
 
 # game/script/04_week1.rpy:1756
 translate polish week1_03_lpdcat_buy_37c7cd11:
 
     # b "Tiger came over just to mention that. For me to think that is one thing, but for him to say that as well... "
-    b "Tygrys podszedł do nas, tylko po to by o tym wspomnieć. Dla mnie to oczywiste, ale żeby on też tak sądził... "
+    b "Tygrys, który przedtem stał w oddali, podszedł tutaj by to powiedzieć. Gdzie on do cholery nauczył się takiego wyrażenia? I nie! Całkowicie źle zrozumiał jego znaczenie. "
 
 # game/script/04_week1.rpy:1758
 translate polish week1_03_lpdcat_buy_d50c2f78:
 
     # avt "\"Well, now that we've bought something, we should get going.\" "
-    avt "\"Skoro coś już kupiliśmy, to możemy się zbierać.\" "
+    avt "\"Teraz gdy już coś kupiliśmy to możemy się zbierać.\" "
 
 # game/script/04_week1.rpy:1760
 translate polish week1_03_lpdcat_buy_7cbdde69:

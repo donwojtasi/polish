@@ -1276,13 +1276,13 @@ translate polish week2_04_fbac1f87:
 translate polish week2_04_14a2b235:
 
     # avt "\"Okay... So, are you the leopard who lead the Rukai to Wutai?\" "
-    avt ""
+    avt "\"Rozumiem... A więc to ty jesteś tą panterą, która poprowadziła Rukai do Wutai?\" "
 
 # game/script/05_week2.rpy:570
 translate polish week2_04_3b5e46f7:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/05_week2.rpy:572
 translate polish week2_04_6e0c4300:
@@ -1290,13 +1290,13 @@ translate polish week2_04_6e0c4300:
     # voice voice_file.lpd(5,11)
     # lpd obsessed "\"Yes. No.\" "
     voice voice_file.lpd(5,11)
-    lpd obsessed ""
+    lpd obsessed "\"Tak. Nie.\" "
 
 # game/script/05_week2.rpy:574
 translate polish week2_04_b10ef59a:
 
     # avt "\"Yes? ...and no? What does that mean?\" "
-    avt ""
+    avt "\"Tak? ...i nie? Co masz na myśli?\" "
 
 # game/script/05_week2.rpy:576
 translate polish week2_04_aca56536:
@@ -1304,7 +1304,7 @@ translate polish week2_04_aca56536:
     # voice voice_file.lpd(5,12)
     # lpd obsessed "\"Not only Wutai.\" "
     voice voice_file.lpd(5,12)
-    lpd obsessed ""
+    lpd obsessed "\"Nie tylko Wutai.\" "
 
 # game/script/05_week2.rpy:580
 translate polish week2_04_c1364bf4:
@@ -1312,13 +1312,13 @@ translate polish week2_04_c1364bf4:
     # voice voice_file.lpd(5,13)
     # lpd normal "\"{font=tl/None/NotoSansCJKtc-Bold.otf}Kochapongane{/font}. {font=tl/None/NotoSansCJKtc-Bold.otf}Kongadavange{/font}.\" "
     voice voice_file.lpd(5,13)
-    lpd normal ""
+    lpd normal "\"{font=tl/None/NotoSansCJKpl-Bold.ttf}Kochapongane{/font}. {font=tl/None/NotoSansCJKpl-Bold.ttf}Kongadavange{/font}.\" "
 
 # game/script/05_week2.rpy:582
 translate polish week2_04_3e619e11:
 
     # avt "\"...Are those all the tribes you've helped?\" "
-    avt ""
+    avt "\"To wszystko są plemiona, którym pomogłeś?\" "
 
 # game/script/05_week2.rpy:584
 translate polish week2_04_3b6df631:
@@ -1327,20 +1327,20 @@ translate polish week2_04_3b6df631:
     # lpd normal " *nods* "
     # lpd normal " \"I lead the path. Those people. Live better.\" "
     voice voice_file.lpd(5,14)
-    lpd normal ""
+    lpd normal " *kiwa głową* \n \"Wskazałem drogę. Ci ludzie. Żyć lepiej.\" "
 
 # game/script/05_week2.rpy:586
 translate polish week2_04_f15d2ae7:
 
     # b "So he's been leading the path for the Rukai people to find better places to live for a long time now, huh? "
     # b "I guess he's done a lot for the Rukai people. "
-    b ""
+    b "To znaczy, że od dłuższego czasu wskazywał drogę ludności Rukai, by mogli znaleźć lepsze miejsca do życia, tak? Myślę, że naprawdę dużo dla nich zrobił. "
 
 # game/script/05_week2.rpy:588
 translate polish week2_04_2cce7cda:
 
     # avt "\"I understand now... I'm so sorry for suspecting you.\" "
-    avt ""
+    avt "\"Teraz już rozumiem... Bardzo przepraszam za to, że cię podejrzewałem.\" "
 
 # game/script/05_week2.rpy:590
 translate polish week2_04_8311d5c4:
@@ -1348,26 +1348,27 @@ translate polish week2_04_8311d5c4:
     # voice voice_file.lpd(5,15)
     # lpd normal "\"It's fine.\" "
     voice voice_file.lpd(5,15)
-    lpd normal ""
+    lpd normal "\"W porządku.\" "
 
 # game/script/05_week2.rpy:592
 translate polish week2_04_e6f22554:
 
     # avt "\"Haha, sorry about that.\" "
-    avt ""
+    avt "\"Haha, wybacz.\" "
 
 # game/script/05_week2.rpy:594
 translate polish week2_04_5615e210:
 
     # b "So, I guess Mister Leopard is a good god— no, good spirit? "
-    b ""
+    b "Wychodzi na to, że Pan Pantera jest dobrym bog- nie, dobrym duchem? "
 
 # game/script/05_week2.rpy:596
 translate polish week2_04_29e14865:
 
     # b "He may not say much, and he's always got that distant look on his face. "
     # b "But from now on, he'll get a different face from me, one of respect. "
-    b ""
+    b "Może nie jest zbyt rozmowny i zawsze ma ten niewzruszony wyraz twarzy. "
+    b "Ale od teraz, będę na ciebie patrzył zupełnie inaczej, z szacunkiem. "
 
 # game/script/05_week2.rpy:598
 translate polish week2_04_cd5e5d2a:
