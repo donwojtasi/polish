@@ -1368,44 +1368,45 @@ translate polish week2_04_29e14865:
     # b "He may not say much, and he's always got that distant look on his face. "
     # b "But from now on, he'll get a different face from me, one of respect. "
     b "Może nie jest zbyt rozmowny i zawsze ma ten niewzruszony wyraz twarzy. "
-    b "Ale od teraz, będę na ciebie patrzył zupełnie inaczej, z szacunkiem. "
+    b "Ale od teraz, będę na niego patrzył zupełnie inaczej, z szacunkiem. "
 
 # game/script/05_week2.rpy:598
 translate polish week2_04_cd5e5d2a:
 
     # b "And that Aidridringane who sent him here... Hopefully this all turns out good in the \nend. "
-    b ""
+    b "I ten Aidridringane, który go tutaj wysłał... Mam nadzieje, że w końcu wszystko dobrze się ułoży. "
 
 # game/script/05_week2.rpy:603
 translate polish week2_04_72168ad2:
 
     # b "Afterwards I go back to my seat, wave to Senpai, and focus on our club leader's choreography tutorials for the rest of the meeting... "
-    b ""
+    b "Później wracam na swoje miejsce, macham do Senpai'a i skupiam się na tutorialach choreograficznych aż do końca naszego spotkania... "
 
 # game/script/05_week2.rpy:620
 translate polish week2_05_7c1454b6:
 
     # b "I was sitting at my desk just as my mobile started to ring. "
     # b "It's a call from back home... "
-    b ""
+    b "Siedziałem przy biurku, gdy zadzwonił mój telefon. "
+    b "Dzwonią do mnie z domu... "
 
 # game/script/05_week2.rpy:622
 translate polish week2_05_bdb55f89:
 
     # b "Honestly, I don't want to pick up but it's been ages since I've talked to anyone from my family. "
-    b ""
+    b "Szczerze mówiąc, to wolałbym nie odbierać, ale minęły wieki od kiedy rozmawiałem z kimkolwiek z rodziny. "
 
 # game/script/05_week2.rpy:624
 translate polish week2_05_2ad90d83:
 
     # b "After a moment of hesitation, I pick up the phone. "
-    b ""
+    b "Wahając się przez chwilę, odbieram telefon. "
 
 # game/script/05_week2.rpy:629
 translate polish week2_05_d6ff8397:
 
     # avt "\"Hello?\" "
-    avt ""
+    avt "\"Halo?\" "
 
 # game/script/05_week2.rpy:631
 translate polish week2_05_2d75af17:
@@ -1413,38 +1414,39 @@ translate polish week2_05_2d75af17:
     # voice voice_file.father(5,1)
     # phone "\"Liao my boy, your dad's been missing you. How have you been?\" "
     voice voice_file.father(5,1)
-    phone ""
+    phone "\"Liao mój chłopcze, twój tata się za tobą stęsknił. Co tam u ciebie?\" "
 
 # game/script/05_week2.rpy:633
 translate polish week2_05_2bad4c73:
 
     # avt "\"Yeah Dad, I've been fine...\" "
-    avt ""
+    avt "\"Tak tato, u mnie wszystko w porządku...\" "
 
 # game/script/05_week2.rpy:635
 translate polish week2_05_294596bc:
 
     # b "Well I can't really say having to suddenly deal with those three cats is {i}fine{/i}... but should I talk about that to dad? "
-    b ""
+    b "Nie mogę powiedzieć, że nagłe użeranie się z tymi trzema kotami jest {i}w porządku{/i}... ale czy powinienem mówić o tym tacie? "
 
 # game/script/05_week2.rpy:637
 translate polish week2_05_b2afc75b:
 
     # b "I really want to find out if my family does have a history of of having the ability to see the guardian tigers and other spirits. "
     # b "But if dad finds out that I can do that... wouldn't he just force me to go back home? "
-    b ""
+    b "Bardzo chciałbym się dowiedzieć, czy w mojej rodzinie były jakieś inne osoby ze zdolnością widzenia tygrysich strażników i innych duchów. "
+    b "Ale jeśli tata się dowie, że to potrafię... nie chciałbym mnie zmusić bym wrócił do domu? "
 
 # game/script/05_week2.rpy:639
 translate polish week2_05_4ed6c0b3:
 
     # b "My older brother handles all the temple work these days, he takes it super seriously. "
-    b ""
+    b "Mój starszy brat jest teraz odpowiedzialny za wszystkie sprawy dotyczące świątyni, traktuje to bardzo poważnie. "
 
 # game/script/05_week2.rpy:641
 translate polish week2_05_dc823b13:
 
     # b "It'd be stupid to put myself in competition to him anyway... "
-    b ""
+    b "Tak czy owak, głupotą byłoby z nim rywalizować. "
 
 # game/script/05_week2.rpy:646
 translate polish week2_05_b526c3be:
@@ -1452,25 +1454,25 @@ translate polish week2_05_b526c3be:
     # voice voice_file.father(5,2)
     # phone "\"Something wrong Liao? You seem quiet.\" "
     voice voice_file.father(5,2)
-    phone ""
+    phone "\"Czy coś się stało Liao? Jesteś jakiś cichy.\" "
 
 # game/script/05_week2.rpy:649
 translate polish week2_05_c34f0c08:
 
     # avt "\"Ah, yeah, It's okay... It's just...\" "
-    avt ""
+    avt "\"Ach nie, wszystko dobrze... Po prostu...\" "
 
 # game/script/05_week2.rpy:674
 translate polish week2_06_ask_d3de9d8b:
 
     # avt "\"Dad... w-was our family ever able to see the guardian tigers?\" "
-    avt ""
+    avt "\"Tato... C-czy nasza rodzina mogła kiedykolwiek zobaczyć tygrysich strażników?\" "
 
 # game/script/05_week2.rpy:676
 translate polish week2_06_ask_7e749f94:
 
     # b "I hesitate a little bit. But I figure that asking him directly is the best option. "
-    b ""
+    b "Waham się przez krótką chwilę, ale dochodzę do wniosku, że powiedzenie tego prosto z mostu jest najlepszą opcją. "
 
 # game/script/05_week2.rpy:679
 translate polish week2_06_ask_89d0ba4a:
@@ -1478,13 +1480,13 @@ translate polish week2_06_ask_89d0ba4a:
     # voice voice_file.father(5,3)
     # phone "\"...See the guardian tigers?\" "
     voice voice_file.father(5,3)
-    phone ""
+    phone "\"...zobaczyć tygrysich strażników?\" "
 
 # game/script/05_week2.rpy:682
 translate polish week2_06_ask_4e580c0b:
 
     # avt "\"I mean, umm... can we see guardian tigers during divination? Has anyone in our family been able to see them before?\" "
-    avt ""
+    avt "\"Mam na myśli, umm... czy możemy zobaczyć tygrysich strażników podczas wróżenia? Czy ktokolwiek z naszej rodziny mógł ich wcześniej zobaczyć?\" "
 
 # game/script/05_week2.rpy:684
 translate polish week2_06_ask_8763e621:
@@ -1493,13 +1495,14 @@ translate polish week2_06_ask_8763e621:
     # phone "\"Seeing guardian tigers during divination? What are you talking about?\" "
     # phone "\"Divination is divination, how could someone see the guardian tigers?!\" "
     voice voice_file.father(5,4)
-    phone ""
+    phone "\"Widzenie tygrysich strażników podczas wróżenia? O czym ty mówisz?\" "
+    phone "\"Wróżbiarstwo to wróżbiarstwo, jak ktoś mógłby ich zobaczyć?!\" "
 
 # game/script/05_week2.rpy:686
 translate polish week2_06_ask_0398eed8:
 
     # avt "\"Uh...? So the answer is no?\" "
-    avt ""
+    avt "\"Ech...? Więc odpowiedź brzmi {i}nie{/i}?\" "
 
 # game/script/05_week2.rpy:688
 translate polish week2_06_ask_ea7f27a6:
@@ -1507,13 +1510,13 @@ translate polish week2_06_ask_ea7f27a6:
     # voice voice_file.father(5,5)
     # phone "\"It's a no. Why are you so interested in this all of a sudden? Have people been telling you things?\" "
     voice voice_file.father(5,5)
-    phone ""
+    phone "\"Tak, odpowiedź brzmi {i}nie{/i}. Czemu tak nagle cię to interesuje? Czy ludzie nagadali ci jakichś rzeczy?\" ."
 
 # game/script/05_week2.rpy:690
 translate polish week2_06_ask_59df171e:
 
     # avt "\"Oh ...no, I'm just curious. I mean, we've been a Jitong family for a long time, maybe there's something more to the guardian tigers...\" "
-    avt ""
+    avt "\"Och... nie, po prostu jestem ciekaw. To znaczy, jesteśmy rodziną Jitong od dawna, może za tymi tygrysimi strażnikami kryje się coś więcej...\" "
 
 # game/script/05_week2.rpy:693
 translate polish week2_06_ask_dce516ad:
@@ -1523,7 +1526,9 @@ translate polish week2_06_ask_dce516ad:
     # phone "\"When I was a boy, my grandfather— well your great-grandfather always said that he was watched upon by the guardian tigers.\" "
     # phone "\"If it were true, he must have lived well, honest, and kind.\" "
     voice voice_file.father(5,6)
-    phone ""
+    phone "\"W sumie to o czymś mi przypomniałeś.\" "
+    phone "\"Gdy byłem małym chłopcem, mój dziadek, to jest twój pradziadek, zawsze mówił, że jest doglądany przez tygrysich strażników.\" "
+    phone "\"Jeśli to była prawda, to zapewne żył dobrze, uczciwie i był życzliwy dla innych.\" "
 
 # game/script/05_week2.rpy:696
 translate polish week2_06_ask_238b7bc6:
@@ -1531,7 +1536,7 @@ translate polish week2_06_ask_238b7bc6:
     # voice voice_file.father(5,7)
     # phone "\"I don't believe it anyway.\" "
     voice voice_file.father(5,7)
-    phone ""
+    phone "\"I tak w to nie wierzę.\" "
 
 # game/script/05_week2.rpy:698
 translate polish week2_06_ask_b7220c4e:
@@ -1539,7 +1544,7 @@ translate polish week2_06_ask_b7220c4e:
     # voice voice_file.father(5,8)
     # phone "\"Well... that isn't to say that I don't believe in guardian tigers though.\" "
     voice voice_file.father(5,8)
-    phone ""
+    phone "\"Ale to nie znaczy, że nie uznaję istnienia tygrysich strażników.\" "
 
 # game/script/05_week2.rpy:700
 translate polish week2_06_ask_767d3e4e:
@@ -1547,7 +1552,7 @@ translate polish week2_06_ask_767d3e4e:
     # voice voice_file.father(5,9)
     # phone "\"I mean, surely the guardian tigers are busy. I highly doubt they would spend their time watching on us mortals!\" "
     voice voice_file.father(5,9)
-    phone ""
+    phone "\"Myślę, że... Tygrysi strażnicy na pewno są zajęci. Wątpię, by tracili swój czas na nas, śmiertelników!\" "
 
 # game/script/05_week2.rpy:702
 translate polish week2_06_ask_accbe820:
@@ -1555,7 +1560,7 @@ translate polish week2_06_ask_accbe820:
     # voice voice_file.father(5,10)
     # phone "\"Your great-grandfather used to use stories like that to keep kids in line anyway. Modern people aren't as dogmatic as he was.\" "
     voice voice_file.father(5,10)
-    phone ""
+    phone "\"Twój pradziadek zwykł używać tych historyjek, by nakłonić dzieci do posłuszeństwa. Współcześni ludzie nie są tak dogmatyczni jak on.\" "
 
 # game/script/05_week2.rpy:706
 translate polish week2_06_ask_628dabe1:
@@ -1564,7 +1569,8 @@ translate polish week2_06_ask_628dabe1:
     # phone "\"But don't you tell that to anyone else. Otherwise people might start thinking about us as a bunch of swindlers.\" "
     # phone "\"We may be Jitong of the guardian tigers, but that doesn't mean we can actually talk with them!\" "
     voice voice_file.father(5,11)
-    phone ""
+    phone "\"Proszę nie mów o tym nikomu. W przeciwnym razie, ludzie mogą zacząć myśleć o nas jako o bandzie oszustów.\" "
+    phone "\"Może i jesteśmy Jitong'ami tygrysich strażników, ale to nie znaczy, że naprawdę możemy z nimi rozmawiać!\" "
 
 # game/script/05_week2.rpy:709
 translate polish week2_06_ask_62b1cd83:
@@ -1572,13 +1578,13 @@ translate polish week2_06_ask_62b1cd83:
     # voice voice_file.father(5,12)
     # phone "\"Anyway, don't blab about this to people. Understood?\" "
     voice voice_file.father(5,12)
-    phone ""
+    phone "\"Tak, czy inaczej, nie paplaj o tym ludziom. Zrozumiano?\" "
 
 # game/script/05_week2.rpy:711
 translate polish week2_06_ask_3b7fc232:
 
     # avt "\"I... got it.\" "
-    avt ""
+    avt "\"Ja... rozumiem.\" "
 
 # game/script/05_week2.rpy:713
 translate polish week2_06_ask_87f1c2ac:
@@ -1586,7 +1592,7 @@ translate polish week2_06_ask_87f1c2ac:
     # voice voice_file.father(5,13)
     # phone "\"That's a good boy.\" "
     voice voice_file.father(5,13)
-    phone ""
+    phone "\"Dobry chłopiec.\" "
 
 # game/script/05_week2.rpy:715
 translate polish week2_06_ask_bb20ecce:
@@ -1594,19 +1600,19 @@ translate polish week2_06_ask_bb20ecce:
     # voice voice_file.father(5,14)
     # phone "\"And how's school? You keeping up your grades?\" "
     voice voice_file.father(5,14)
-    phone ""
+    phone "\"A jak tam szkoła? Masz ciągle dobre oceny, prawda?\" "
 
 # game/script/05_week2.rpy:717
 translate polish week2_06_ask_73b86af9:
 
     # b "I mean, I cheated on a quiz just a few days ago, but I don't think I should tell dad that. "
-    b ""
+    b "Znaczy, oszukałem na teście parę dni temu, ale nie sądzę, że powinienem mówić o tym tacie. "
 
 # game/script/05_week2.rpy:719
 translate polish week2_06_ask_09e528d7:
 
     # avt "\"It's been going alright. Life has been pretty good here and dance club has been going well.\" "
-    avt ""
+    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem nieźle, a klub taneczny świetnie sobie radzi.\" "
 
 # game/script/05_week2.rpy:722
 translate polish week2_06_ask_697c9b8e:
@@ -1615,13 +1621,14 @@ translate polish week2_06_ask_697c9b8e:
     # phone "\"Glad to hear it!\" "
     # phone "\"Just don't spend all your life in the club. Focus on study okay?\" "
     voice voice_file.father(5,15)
-    phone ""
+    phone "\"Miło to słyszeć!\" "
+    phone "\"Tylko nie siedź cały czas w tym klubie. Skup się na nauce, dobrze?\" "
 
 # game/script/05_week2.rpy:725
 translate polish week2_06_ask_04d1c1d9:
 
     # avt "\"Mm-hmm.\" "
-    avt ""
+    avt "\"Yyy-hmm.\" "
 
 # game/script/05_week2.rpy:727
 translate polish week2_06_ask_d6eb20cc:
@@ -1629,13 +1636,13 @@ translate polish week2_06_ask_d6eb20cc:
     # voice voice_file.father(5,16)
     # phone "\"So when will you be down home next?\" "
     voice voice_file.father(5,16)
-    phone ""
+    phone "\"To kiedy przyjeżdżasz do domu w odwiedziny?\" "
 
 # game/script/05_week2.rpy:729
 translate polish week2_06_ask_a04a176f:
 
     # avt "\"Eh... I'm not sure when I would have some time.\" "
-    avt ""
+    avt "\"Ech... Nie wiem jeszcze kiedy będę miał trochę czasu.\" "
 
 # game/script/05_week2.rpy:732
 translate polish week2_06_ask_b4f8992a:
@@ -1643,13 +1650,13 @@ translate polish week2_06_ask_b4f8992a:
     # voice voice_file.father(5,17)
     # phone "\"It's almost {font=tl/None/NotoSansCJKtc-Bold.otf}Ching Ming{/font}. You have a break then, right? You should come back if you \ndo.\" "
     voice voice_file.father(5,17)
-    phone ""
+    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Masz wtedy przerwę, prawda? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 # game/script/05_week2.rpy:734
 translate polish week2_06_ask_eae9dc4c:
 
     # avt "\"Okay, I'll see if I can.\" "
-    avt ""
+    avt "\"Dobrze, zobaczę czy będę mógł.\" "
 
 # game/script/05_week2.rpy:736
 translate polish week2_06_ask_eb258c70:
@@ -1657,13 +1664,13 @@ translate polish week2_06_ask_eb258c70:
     # voice voice_file.father(5,18)
     # phone "\"All right. Remember to come home sometime, and make sure to get enough sleep!\" "
     voice voice_file.father(5,18)
-    phone ""
+    phone "\"Zgoda. Pamiętaj, by czasem zjawić się w domu i upewnij się, że się wysypiasz!\" "
 
 # game/script/05_week2.rpy:738
 translate polish week2_06_ask_7d3288a7:
 
     # avt "\"Yeah, I'll make sure to sleep early tonight.\" "
-    avt ""
+    avt "\"Tak, dzisiaj postaram się położyć wcześnie spać.\" "
 
 # game/script/05_week2.rpy:740
 translate polish week2_06_ask_25605e43:
@@ -1671,19 +1678,19 @@ translate polish week2_06_ask_25605e43:
     # voice voice_file.father(5,19)
     # phone "\"That's good, bye for now Son.\" "
     voice voice_file.father(5,19)
-    phone ""
+    phone "\"To dobrze, to narazie synu.\" "
 
 # game/script/05_week2.rpy:742
 translate polish week2_06_ask_236bcaa8:
 
     # avt "\"Bye Dad.\" "
-    avt ""
+    avt "\"Pa, tato.\" "
 
 # game/script/05_week2.rpy:748
 translate polish week2_06_ask_5ed267bf:
 
     # b "I let out a sigh into the otherwise silent room. "
-    b ""
+    b "Głośno wzdycham we wcześniej cichym pokoju. "
 
 # game/script/05_week2.rpy:758
 translate polish week2_06_ask_e2f58eef:
@@ -1691,19 +1698,19 @@ translate polish week2_06_ask_e2f58eef:
     # voice voice_file.tig(5,23)
     # tig frown "\"Are you alright Liao? Did something happen to worry you?\" "
     voice voice_file.tig(5,23)
-    tig frown ""
+    tig frown "\"Wszystko dobrze, Liao? Czy stało się coś, co cię martwi?\" "
 
 # game/script/05_week2.rpy:760
 translate polish week2_06_ask_4964e77e:
 
     # avt "\"Dad said no one in my family has been able to see guardian tigers.\" "
-    avt ""
+    avt "\"Tata powiedział, że nikt w naszej rodzinie nie był w stanie zobaczyć tygrysich strażników.\" "
 
 # game/script/05_week2.rpy:762
 translate polish week2_06_ask_3e147822:
 
     # b "Tiger nods, seemingly unsurprised by this. "
-    b ""
+    b "Tygrys kiwa głową. Zdaje się, że nie jest tym zaskoczony. "
 
 # game/script/05_week2.rpy:764
 translate polish week2_06_ask_c90ef7eb:
@@ -1712,25 +1719,26 @@ translate polish week2_06_ask_c90ef7eb:
     # tig normal "\"It has been too long since the last one.\" "
     # tig normal "\"Hence why I said your ability is precious.\" "
     voice voice_file.tig(5,24)
-    tig normal ""
+    tig normal "\"Zbyt wiele czasu upłynęło od kiedy był tu ktoś taki.\" "
+    tig normal "\"Właśnie dlatego powiedziałem, że twoja zdolność jest cenna.\" "
 
 # game/script/05_week2.rpy:766
 translate polish week2_06_ask_6957d612:
 
     # avt "\"But... Can I really see you? This could all just be my—\" "
-    avt ""
+    avt "\"Ale... Czy ja naprawdę potrafię cię zobaczyć? Może to wszystko to tylko moja-\" "
 
 # game/script/05_week2.rpy:768
 translate polish week2_06_ask_169c1a81:
 
     # b "If they don't exist, why I can see them in front of me? "
-    b ""
+    b "Jeśli nie istnieją, to czemu widzę ich przed moimi oczami? "
 
 # game/script/05_week2.rpy:770
 translate polish week2_06_ask_87feb0cc:
 
     # b "Just as soon as I start to get used to having them around, dad's got me doubting myself all over again. "
-    b ""
+    b "Gdy tylko zacząłem się przyzwyczajać do ich obecności, tata zasiał we mnie kolejną wątpliwość. "
 
 # game/script/05_week2.rpy:774
 translate polish week2_06_ask_55925818:
@@ -1739,13 +1747,14 @@ translate polish week2_06_ask_55925818:
     # tig normal "\"Of course you can, who else would you be talking to right now?\" "
     # tig normal "\"There is nothing to be worried about. Seeing is believing. I cannot blame your dad or your grandfather, they cannot see us.\" "
     voice voice_file.tig(5,25)
-    tig normal ""
+    tig normal "\"Oczywiście, że potrafisz. Do kogo innego byś teraz niby mówił?\" "
+    tig normal "\"Nie ma się czym przejmować. Zobaczyć to uwierzyć. Nie mogę mieć pretensji do twojego taty i dziadka, oni nie mogą nas widzieć.\" "
 
 # game/script/05_week2.rpy:776
 translate polish week2_06_ask_21eb6419:
 
     # avt "\"Hmm...\" "
-    avt ""
+    avt "\"Hmm...\" "
 
 # game/script/05_week2.rpy:784
 translate polish week2_06_ask_97b6291a:
@@ -1753,26 +1762,27 @@ translate polish week2_06_ask_97b6291a:
     # voice voice_file.tig(5,26)
     # tig frown "\"Liao, do you really believe I am just some {i}illusion{/i} \ of yours?\" "
     voice voice_file.tig(5,26)
-    tig frown ""
+    tig frown "\"Liao, czy ty naprawdę wierzysz, że jestem tylko jakimś twoim {i}urojeniem{/i}?\" "
 
 # game/script/05_week2.rpy:786
 translate polish week2_06_ask_0d7a0d97:
 
     # avt "\"Hmm.\" "
-    avt ""
+    avt "\"Hmm.\" "
 
 # game/script/05_week2.rpy:788
 translate polish week2_06_ask_f397771f:
 
     # avt "\"Ah... Well, a little bit...\" "
-    avt ""
+    avt "\"Ach... W sumie, to trochę tak...\" "
 
 # game/script/05_week2.rpy:790
 translate polish week2_06_ask_e36afdbf:
 
     # b "Honestly, I {i}am{/i} \ worried about it. "
     # b "Still, I didn't expect him to address it outright. "
-    b ""
+    b "Po prawdzie, {i}jestem{/i} \ tym zmartwiony. "
+    b "Mimo to nie spodziewałem się, że powie o tym tak bezpośrednio. "
 
 # game/script/05_week2.rpy:792
 translate polish week2_06_ask_59bed403:
@@ -1780,13 +1790,13 @@ translate polish week2_06_ask_59bed403:
     # voice voice_file.tig(5,27)
     # tig normal "\"It is pointless to worry. Proving that we are not illusions is simple.\" "
     voice voice_file.tig(5,27)
-    tig normal ""
+    tig normal "\"Twoje obawy są bezcelowe. Udowodnienie, że nie jesteśmy złudzeniem jest bardzo proste.\" "
 
 # game/script/05_week2.rpy:794
 translate polish week2_06_ask_2ceb6594:
 
     # avt "\"How so?\" "
-    avt ""
+    avt "\"Niby jak?\" "
 
 # game/script/05_week2.rpy:796
 translate polish week2_06_ask_e0a07d45:
@@ -1795,14 +1805,16 @@ translate polish week2_06_ask_e0a07d45:
     # tig normal "\"I simply have to do something you cannot.\" "
     # tig normal "\"For example taking a book from your shelf and reading you a page. Surely you could not remember it exactly.\" "
     voice voice_file.tig(5,28)
-    tig normal ""
+    tig normal "\"Wystarczy, że zrobię coś, czego ty nie możesz.\" "
+    tig normal "\"Na przykład, wezmę książkę z półki i przeczytam ci którąś stronę. Na pewno nie znasz wszystkiego na pamięć.\" "
 
 # game/script/05_week2.rpy:798
 translate polish week2_06_ask_ae6ffdb4:
 
     # avt "\"Still... I've read all of those already. There's a chance I could have just remembered the passage.\" "
     # avt "\"Isn't there a better way you can prove your existence?\" "
-    avt ""
+    avt "\"Ale przecież... Przeczytałem już wszystkie, które mam. Jest szansa, że akurat ten fragment mogłem zapamiętać.\" "
+    avt "\"Nie ma jakiegoś lepszego sposobu, by udowodnić wasze istnienie?\" "
 
 # game/script/05_week2.rpy:800
 translate polish week2_06_ask_701f9670:
@@ -1811,7 +1823,8 @@ translate polish week2_06_ask_701f9670:
     # tig normal "\"Excellent point. There a several more options...\" "
     # tig normal "\"How about you just open a website you've never seen before. You can close your eyes and I could read it to you. Simple.\" "
     voice voice_file.tig(5,29)
-    tig normal ""
+    tig normal "\"Świetne spostrzeżenie. Jest kilka innych opcji...\" "
+    tig normal "\"Co powiesz na to. Otworzysz stronę, której nigdy wcześniej nie widziałeś. Zamkniesz oczy, a ja ci ją przeczytam. Proste.\" "
 
 # game/script/05_week2.rpy:802
 translate polish week2_06_ask_a4ad103e:
@@ -1819,7 +1832,7 @@ translate polish week2_06_ask_a4ad103e:
     # voice voice_file.tig(5,30)
     # tig normal "\"I am certain that will work. If that does not convince you, I can do much more.\" "
     voice voice_file.tig(5,30)
-    tig normal ""
+    tig normal "\"Jestem pewien, że to zadziała. Jeśli to cię nie przekona, mogę zrobić o wiele więcej.\" "
 
 # game/script/05_week2.rpy:813
 translate polish week2_06_ask_ac7c63f4:
@@ -1827,13 +1840,13 @@ translate polish week2_06_ask_ac7c63f4:
     # voice voice_file.lpdcat(5,2)
     # lpdcat normal "\"He's right Liao, what's there for you to worry about?\" "
     voice voice_file.lpdcat(5,2)
-    lpdcat normal ""
+    lpdcat normal "\"On ma rację Liao, czym niby masz się przejmować?\" "
 
 # game/script/05_week2.rpy:815
 translate polish week2_06_ask_c58b3097:
 
     # avt "\"Senpai...\" "
-    avt ""
+    avt "\"Senpai...\" "
 
 # game/script/05_week2.rpy:819
 translate polish week2_06_ask_a1c2ce16:
@@ -1841,7 +1854,7 @@ translate polish week2_06_ask_a1c2ce16:
     # voice voice_file.lpdcat(5,3)
     # lpdcat serious "\"Well I didn't catch everything you said on the phone, but it sounded serious.\" "
     voice voice_file.lpdcat(5,3)
-    lpdcat serious ""
+    lpdcat serious "\"Cóż, nie wychwyciłem wszystkiego, co powiedziałeś przez telefon, ale to brzmiało poważnie.\" "
 
 # game/script/05_week2.rpy:821
 translate polish week2_06_ask_8bafa2f7:
@@ -1849,13 +1862,13 @@ translate polish week2_06_ask_8bafa2f7:
     # voice voice_file.lpdcat(5,4)
     # lpdcat serious "\"You okay Liao? Did you catch a cold? Don't tell me it's so bad you're seeing things?\" "
     voice voice_file.lpdcat(5,4)
-    lpdcat serious ""
+    lpdcat serious "\"Wszystko okej Liao? Złapałeś przeziębienie? Tylko mi nie mów, że jest aż tak źle, że widzisz różne dziwne rzeczy?\" "
 
 # game/script/05_week2.rpy:823
 translate polish week2_06_ask_a51ee934:
 
     # avt "\"No, I don't have a cold! People don't just start seeing things from colds!\" "
-    avt ""
+    avt "\"Nie, nie jestem przeziębiony! Ludzie nie zaczynają widzieć rzeczy z powodu przeziębienia!\" "
 
 # game/script/05_week2.rpy:826
 translate polish week2_06_ask_7a94eb99:
@@ -1863,13 +1876,13 @@ translate polish week2_06_ask_7a94eb99:
     # voice voice_file.lpdcat(5,5)
     # lpdcat panic "\"So you hit your head?! Wuu~ Liao might have brain damage...\" " with vpunch
     voice voice_file.lpdcat(5,5)
-    lpdcat panic "" with vpunch
+    lpdcat panic "\"To pewnie uderzyłeś się w głowę?! Uuu~ Liao może mieć uszkodzenie mózgu...\" " with vpunch
 
 # game/script/05_week2.rpy:828
 translate polish week2_06_ask_6dad96e9:
 
     # avt "\"You're the one who hit their head! Come on Senpai, stop messing with me!\" "
-    avt ""
+    avt "\"To chyba ciebie ktoś uderzył w głowę! Daj spokój Senpai, przestań się ze mnie nabijać!\" "
 
 # game/script/05_week2.rpy:830
 translate polish week2_06_ask_e2292c09:
@@ -1877,7 +1890,7 @@ translate polish week2_06_ask_e2292c09:
     # voice voice_file.lpdcat(5,6)
     # lpdcat normal "\"Liao, I don't understand why you're worrying so much. You can see us. That's the truth.\" "
     voice voice_file.lpdcat(5,6)
-    lpdcat normal ""
+    lpdcat normal "\"Liao, nie wiem czemy się tak bardzo martwisz. Możesz nas zobaczyć. Taka jest prawda.\" "
 
 # game/script/05_week2.rpy:832
 translate polish week2_06_ask_f65d1be8:
@@ -1885,13 +1898,13 @@ translate polish week2_06_ask_f65d1be8:
     # voice voice_file.lpdcat(5,7)
     # lpdcat normal "\"Even if Likulau and the old man were your illusions, I'm a real person that everyone can see and I'm standing right here.\" "
     voice voice_file.lpdcat(5,7)
-    lpdcat normal ""
+    lpdcat normal "\"Nawet jeśli Likulau i staruszek tylko ci się przywidzieli, to ja jestem prawdziwą osobą, którą każdy może zobaczyć i stoję dokładnie tutaj.\" "
 
 # game/script/05_week2.rpy:834
 translate polish week2_06_ask_681cd150:
 
     # avt "\"Senpai, you're {i}human{/i} \ to everyone else, not a leopard cat.\" "
-    avt ""
+    avt "\"Senpai, dla całej reszty wyglądasz jak {i}człowiek{/i}, a nie kot bengalski.\" "
 
 # game/script/05_week2.rpy:836
 translate polish week2_06_ask_c92b115a:
@@ -1899,7 +1912,7 @@ translate polish week2_06_ask_c92b115a:
     # voice voice_file.lpdcat(5,8)
     # lpdcat confused "\"Come on, are you really this dense? Do you actually believe Yan Shu-Chi would just move in with you like this?\" "
     voice voice_file.lpdcat(5,8)
-    lpdcat confused ""
+    lpdcat confused "\"Daj spokój, czy naprawdę jesteś taki tępy? Czy naprawdę uważasz, że Yan Shu-Chi by od tak po prostu z tobą zamieszkał?\" "
 
 # game/script/05_week2.rpy:838
 translate polish week2_06_ask_f9fc51a8:
@@ -1907,13 +1920,13 @@ translate polish week2_06_ask_f9fc51a8:
     # voice voice_file.lpdcat(5,9)
     # lpdcat "\"You think he'd tell you stories about rejuvenating a temple in Miaoli? I'd be impressed if you made all this up.\" "
     voice voice_file.lpdcat(5,9)
-    lpdcat ""
+    lpdcat "\"Myślisz, że opowiadałby ci historię o odnowieniu świątyni w Miaoli? Byłbym pod nie lada wrażeniem, gdybyś sam to wszystko wymyślił.\" "
 
 # game/script/05_week2.rpy:840
 translate polish week2_06_ask_d39812fc:
 
     # avt "\"Well... you're right...\" "
-    avt ""
+    avt "\"Cóż... masz rację...\" "
 
 # game/script/05_week2.rpy:842
 translate polish week2_06_ask_b21959e2:
@@ -1921,13 +1934,13 @@ translate polish week2_06_ask_b21959e2:
     # voice voice_file.lpdcat(5,10)
     # lpdcat normal "\"Honestly, I don't care if this is something to do your family. The only thing that matters is that you can see me now.\" "
     voice voice_file.lpdcat(5,10)
-    lpdcat normal ""
+    lpdcat normal "|"Szczerze to nie obchodzi mnie, czy to ma jakiś związek z twoją rodziną. Jedyne co się liczy to fakt, że możesz mnie teraz zobaczyć.\" "
 
 # game/script/05_week2.rpy:844
 translate polish week2_06_ask_dd63187f:
 
     # avt "\"Mmm... got it...\" "
-    avt ""
+    avt "\"Mmm... rozumiem...\" "
 
 # game/script/05_week2.rpy:846
 translate polish week2_06_ask_a6126889:
