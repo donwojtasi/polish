@@ -3841,19 +3841,19 @@ translate polish week1_04_lpdcat_c0eecbd4:
     # voice voice_file.tig(4,97)
     # tig normal "\"Well, I would like to try some of Liao's food.\" "
     voice voice_file.tig(4,97)
-    tig normal "\"No cóż, chciałbym spróbować trochę jedzenia od Liao.\" "
+    tig normal "\"No cóż, chciałbym wchłonąć qi z jedzenia Liao.\" "
 
 # game/script/04_week1.rpy:1882
 translate polish week1_04_lpdcat_5d434e1d:
 
     # avt "\"Offering it to you makes no difference to me so I don't see why not.\" "
-    avt "\"Ofiarowanie ci go nie robi dla mnie różnicy, więc nie widzę przeszkód.\" "
+    b "\"Dla mnie to żadna różnica, więc nie mam powodu, by odmówić.\" "
 
 # game/script/04_week1.rpy:1884
 translate polish week1_04_lpdcat_1bf41a43:
 
     # b "It's subtle, but I notice Senpai grumbling under his breath when I said that. "
-    b "Słyszę jak Senpai cicho burczy coś pod nosem, gdy to mówię. "
+    b "Słyszę jak Senpai cicho burczy coś pod nosem. "
 
 # game/script/04_week1.rpy:1888
 translate polish week1_04_lpdcat_e5101172:

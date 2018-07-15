@@ -1600,7 +1600,7 @@ translate polish week2_06_ask_bb20ecce:
     # voice voice_file.father(5,14)
     # phone "\"And how's school? You keeping up your grades?\" "
     voice voice_file.father(5,14)
-    phone "\"A jak tam szkoła? Masz ciągle dobre oceny, prawda?\" "
+    phone "\"A jak tam w szkole? Udaje ci się utrzymać dobre oceny?\" "
 
 # game/script/05_week2.rpy:717
 translate polish week2_06_ask_73b86af9:
@@ -1622,7 +1622,7 @@ translate polish week2_06_ask_697c9b8e:
     # phone "\"Just don't spend all your life in the club. Focus on study okay?\" "
     voice voice_file.father(5,15)
     phone "\"Miło to słyszeć!\" "
-    phone "\"Tylko nie siedź cały czas w tym klubie. Skup się na nauce, dobrze?\" "
+    phone "\"Tylko nie spędzaj całego czasu w tym klubie. Skup się na nauce, dobrze?\" "
 
 # game/script/05_week2.rpy:725
 translate polish week2_06_ask_04d1c1d9:
@@ -1650,7 +1650,7 @@ translate polish week2_06_ask_b4f8992a:
     # voice voice_file.father(5,17)
     # phone "\"It's almost {font=tl/None/NotoSansCJKtc-Bold.otf}Ching Ming{/font}. You have a break then, right? You should come back if you \ndo.\" "
     voice voice_file.father(5,17)
-    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Masz wtedy przerwę, prawda? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 # game/script/05_week2.rpy:734
 translate polish week2_06_ask_eae9dc4c:
@@ -1664,13 +1664,13 @@ translate polish week2_06_ask_eb258c70:
     # voice voice_file.father(5,18)
     # phone "\"All right. Remember to come home sometime, and make sure to get enough sleep!\" "
     voice voice_file.father(5,18)
-    phone "\"Zgoda. Pamiętaj, by czasem zjawić się w domu i upewnij się, że się wysypiasz!\" "
+    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu i upewnij się, że się wysypiasz!\" "
 
 # game/script/05_week2.rpy:738
 translate polish week2_06_ask_7d3288a7:
 
     # avt "\"Yeah, I'll make sure to sleep early tonight.\" "
-    avt "\"Tak, dzisiaj postaram się położyć wcześnie spać.\" "
+    avt "\"Tak, dzisiaj postaram się wcześnie położyć spać.\" "
 
 # game/script/05_week2.rpy:740
 translate polish week2_06_ask_25605e43:
@@ -1678,7 +1678,7 @@ translate polish week2_06_ask_25605e43:
     # voice voice_file.father(5,19)
     # phone "\"That's good, bye for now Son.\" "
     voice voice_file.father(5,19)
-    phone "\"To dobrze, to narazie synu.\" "
+    phone "\"To dobrze, to na razie synu.\" "
 
 # game/script/05_week2.rpy:742
 translate polish week2_06_ask_236bcaa8:
@@ -1690,7 +1690,7 @@ translate polish week2_06_ask_236bcaa8:
 translate polish week2_06_ask_5ed267bf:
 
     # b "I let out a sigh into the otherwise silent room. "
-    b "Głośno wzdycham we wcześniej cichym pokoju. "
+    b "Wzdycham głośno, przerywając głuchą ciszę w pokoju. "
 
 # game/script/05_week2.rpy:758
 translate polish week2_06_ask_e2f58eef:
@@ -1934,7 +1934,7 @@ translate polish week2_06_ask_b21959e2:
     # voice voice_file.lpdcat(5,10)
     # lpdcat normal "\"Honestly, I don't care if this is something to do your family. The only thing that matters is that you can see me now.\" "
     voice voice_file.lpdcat(5,10)
-    lpdcat normal "|"Szczerze to nie obchodzi mnie, czy to ma jakiś związek z twoją rodziną. Jedyne co się liczy to fakt, że możesz mnie teraz zobaczyć.\" "
+    lpdcat normal "\"Szczerze to nie obchodzi mnie, czy to ma jakiś związek z twoją rodziną. Jedyne co się liczy to fakt, że możesz mnie teraz zobaczyć.\" "
 
 # game/script/05_week2.rpy:844
 translate polish week2_06_ask_dd63187f:
@@ -1949,20 +1949,22 @@ translate polish week2_06_ask_a6126889:
     # tig normal "\"It's alright Liao. Just as I said, you're thinking too much about it.\" "
     # tig normal "\"Are you feeling better now?\" "
     voice voice_file.tig(5,31)
-    tig normal ""
+    tig normal "\"Już w porządku Liao. Jak mówiłem, za dużo nad tym rozmyślasz.\" "
+    tig normal "\"Czy teraz czujesz się lepiej?\" "
 
 # game/script/05_week2.rpy:848
 translate polish week2_06_ask_c75238d1:
 
     # b "I can't just change how I feel about it that quickly, but I do feel a little better. "
     # b "I should probably just stop stressing myself over it. "
-    b ""
+    b "Nie mogę od tak zmienić tego, co o tym sądzę, ale tak, czuję się z tym trochę lepiej. "
+    b "Powinienem po prostu przestać się tym przejmować. "
 
 # game/script/05_week2.rpy:850
 translate polish week2_06_ask_871e57b4:
 
     # b "...Still, it's unreal to think that I can just see gods now. "
-    b ""
+    b "...ale wciąż to wydaje się nierealne, że mogę od tak zobaczyć bogów. "
 
 # game/script/05_week2.rpy:857
 translate polish week2_06_ask_9cd7f612:
@@ -1971,19 +1973,20 @@ translate polish week2_06_ask_9cd7f612:
     # lpd normal "\"Liao. I, made you to see.\" "
     # lpd normal "\"I know. It's real.\" "
     voice voice_file.lpd(5,16)
-    lpd normal ""
+    lpd normal "\"Liao. Ja zrobiłem, że ty widzisz.\" "
+    lpd normal "\"Wiem. To prawdziwe.\" "
 
 # game/script/05_week2.rpy:859
 translate polish week2_06_ask_85a363bf:
 
     # b "I didn't expect Leopard to be worried about me as well. "
-    b ""
+    b "Nie spodziewałem się, że Pantera też będzie się o mnie martwił. "
 
 # game/script/05_week2.rpy:861
 translate polish week2_06_ask_a6b57872:
 
     # avt "\"Thanks, I'm alright. It was just a thought, nothing more.\" "
-    avt ""
+    avt "\"Dzięki, wszystko w porządku. Jakoś tak przeszło mi to przez myśl, nic więcej.\" "
 
 # game/script/05_week2.rpy:863
 translate polish week2_06_ask_210aa89f:
@@ -1991,7 +1994,7 @@ translate polish week2_06_ask_210aa89f:
     # voice voice_file.lpdcat(5,11)
     # lpdcat pu "\"It's pretty obvious you were stressing over this.\" "
     voice voice_file.lpdcat(5,11)
-    lpdcat pu ""
+    lpdcat pu "\"To dość oczywiste, że się tym przejmowałeś.\" "
 
 # game/script/05_week2.rpy:865
 translate polish week2_06_ask_0e9c71f6:
@@ -1999,13 +2002,13 @@ translate polish week2_06_ask_0e9c71f6:
     # voice voice_file.tig(5,32)
     # tig normal "\"I was worried Liao might end up in an asylum.\" "
     voice voice_file.tig(5,32)
-    tig normal ""
+    tig normal "\"Bałem się, że Liao może skończyć w przytułku.\" "
 
 # game/script/05_week2.rpy:867
 translate polish week2_06_ask_7981ebbc:
 
     # avt "\"I'm pretty sure you mean psychologist! And even then, no way!\" "
-    avt ""
+    avt "\"Jestem pewien, że miałeś na myśli psychologa! I nawet jeśli, nie ma mowy!\" "
 
 # game/script/05_week2.rpy:869
 translate polish week2_06_ask_6ff9cd3c:
@@ -2013,13 +2016,13 @@ translate polish week2_06_ask_6ff9cd3c:
     # voice voice_file.tig(5,33)
     # tig laugh_1 "\"Okay— Okay—\" "
     voice voice_file.tig(5,33)
-    tig laugh_1 ""
+    tig laugh_1 "\"Dobrze już, dobrze-\" "
 
 # game/script/05_week2.rpy:871
 translate polish week2_06_ask_d7c0ae90:
 
     # avt "\"Come on, you don't need to treat me like an idiot...\" "
-    avt ""
+    avt "\"Daj spokój, nie musisz traktować mnie jak idioty...\" "
 
 # game/script/05_week2.rpy:873
 translate polish week2_06_ask_1c042642:
@@ -2027,13 +2030,13 @@ translate polish week2_06_ask_1c042642:
     # voice voice_file.lpd(5,17)
     # lpd normal "\"Liao is not an idiot.\" "
     voice voice_file.lpd(5,17)
-    lpd normal ""
+    lpd normal "\"Liao to nie idiota.\" "
 
 # game/script/05_week2.rpy:875
 translate polish week2_06_ask_d11e0d6f:
 
     # avt "\"Haha— Thanks.\" "
-    avt ""
+    avt "\"Haha- Dzięki.\" "
 
 # game/script/05_week2.rpy:880
 translate polish week2_06_ask_bdd8a28d:
@@ -2041,13 +2044,13 @@ translate polish week2_06_ask_bdd8a28d:
     # voice voice_file.lpdcat(5,12)
     # lpdcat cute "\"Right. Liao {i}isn't{/i} \ an idiot~\" "
     voice voice_file.lpdcat(5,12)
-    lpdcat cute ""
+    lpdcat cute "\"Racja. Liao {i}to nie{/i} \ idiota~\" "
 
 # game/script/05_week2.rpy:882
 translate polish week2_06_ask_e8532b93:
 
     # avt "\"Why do I feel that you're the one making me out to be an idiot Senpai...\" "
-    avt ""
+    avt "\"Czemu czuje się jakbyś właśnie w ten sposób robił ze mnie idiotę, Senpai...\" "
 
 # game/script/05_week2.rpy:884
 translate polish week2_06_ask_d994e348:
@@ -2055,32 +2058,33 @@ translate polish week2_06_ask_d994e348:
     # voice voice_file.lpdcat(5,13)
     # lpdcat cute "\"Must be those {i}illusions{/i} \ of yours~\" "
     voice voice_file.lpdcat(5,13)
-    lpdcat cute ""
+    lpdcat cute "\"To muszą być te twoje {i}urojenia{/i}~\" "
 
 # game/script/05_week2.rpy:886
 translate polish week2_06_ask_ca53e5f0:
 
     # avt "\"Pfft— Get off.\" "
-    avt ""
+    avt "\"Pfff- odczep się.\" "
 
 # game/script/05_week2.rpy:888
 translate polish week2_06_ask_2fcd1e9e:
 
     # b "I pretend to be angry, pouting as I look away from them. "
-    b ""
+    b "Udaję, że jestem zły, dąsając się i odwracając od nich głowę. "
 
 # game/script/05_week2.rpy:890
 translate polish week2_06_ask_c9d5be88:
 
     # b "However, regardless of their teasing, I know they care about me. "
     # b "...Just knowing that kinda makes me feel warm inside. "
-    b ""
+    b "Jednakże, mimo tych zaczepek wiem, że chcą dla mnie jak najlepiej. "
+    b "...już wiedza o tym sprawia, że czuję w środku ciepło. "
 
 # game/script/05_week2.rpy:901
 translate polish week2_06_dontask_82dc3059:
 
     # avt "\"It's okay, I was just wondering about the books I sent home last week...\" "
-    avt ""
+    avt "\"Nic mi nie jest, zastanawiałem się co z tymi książkami, które wysłałem do domu w zeszłym tygodniu...\" "
 
 # game/script/05_week2.rpy:903
 translate polish week2_06_dontask_62cd4acc:
@@ -2088,7 +2092,7 @@ translate polish week2_06_dontask_62cd4acc:
     # voice voice_file.father(5,20)
     # phone "\"They're fine! We just put them on your shelf. Haven't touched them since.\" "
     voice voice_file.father(5,20)
-    phone ""
+    phone "\"Wszystko z nimi w porządku! Postawiliśmy je tylko na twojej półce. Nikt ich nie dotykał od tamtego czasu.\" "
 
 # game/script/05_week2.rpy:906
 translate polish week2_06_dontask_75d654d4:
@@ -2096,13 +2100,13 @@ translate polish week2_06_dontask_75d654d4:
     # voice voice_file.father(5,21)
     # phone "\"But seriously Liao, you shouldn't spend so much time reading novels. They won't help your studies.\" "
     voice voice_file.father(5,21)
-    phone ""
+    phone "\"Ale tak serio Liao, nie powinieneś spędzać tak dużo czasu na czytaniu powieści. Nie pomogą ci w twoich studiach.\" "
 
 # game/script/05_week2.rpy:909
 translate polish week2_06_dontask_51d32e3f:
 
     # avt "\"I ...I know. I just read books sometimes to relax myself.\" "
-    avt ""
+    avt "\"Ja... wiem to. Czasem tylko czytam książki dla relaksu.\" "
 
 # game/script/05_week2.rpy:911
 translate polish week2_06_dontask_21060ec5:
@@ -2110,19 +2114,19 @@ translate polish week2_06_dontask_21060ec5:
     # voice voice_file.father(5,22)
     # phone "\"I'm glad to know you can control yourself. And how's school? You keeping up your grades?\" "
     voice voice_file.father(5,22)
-    phone ""
+    phone "\"Cieszę się, że możesz się opanować. A jak tam w szkole? Udaje ci się utrzymać dobre oceny?\" "
 
 # game/script/05_week2.rpy:913
 translate polish week2_06_dontask_73b86af9:
 
     # b "I mean, I cheated on a quiz just a few days ago, but I don't think I should tell dad that. "
-    b ""
+    b "Znaczy, oszukałem na teście parę dni temu, ale nie sądzę, że powinienem mówić o tym tacie. "
 
 # game/script/05_week2.rpy:915
 translate polish week2_06_dontask_09e528d7:
 
     # avt "\"It's been going alright. Life has been pretty good here and dance club has been going well.\" "
-    avt ""
+    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem nieźle, a klub taneczny świetnie sobie radzi.\" "
 
 # game/script/05_week2.rpy:917
 translate polish week2_06_dontask_697c9b8e:
@@ -2131,13 +2135,14 @@ translate polish week2_06_dontask_697c9b8e:
     # phone "\"I'm glad to hear it!\" "
     # phone "\"Just don't spend all your life in the club. Focus on study okay?\" "
     voice voice_file.father(5,15)
-    phone ""
+    phone "\"Miło to słyszeć!\" "
+    phone "\"Tylko nie spędzaj całego czasu w tym klubie. Skup się na nauce, dobrze?\" "
 
 # game/script/05_week2.rpy:919
 translate polish week2_06_dontask_04d1c1d9:
 
     # avt "\"Mm-hmm.\" "
-    avt ""
+    avt "\"Yyy-hmm.\" "
 
 # game/script/05_week2.rpy:921
 translate polish week2_06_dontask_d6eb20cc:
@@ -2145,13 +2150,13 @@ translate polish week2_06_dontask_d6eb20cc:
     # voice voice_file.father(5,16)
     # phone "\"So when will you be down home next?\" "
     voice voice_file.father(5,16)
-    phone ""
+    phone "\"To kiedy przyjeżdżasz do domu w odwiedziny?\" "
 
 # game/script/05_week2.rpy:923
 translate polish week2_06_dontask_ff0dcb55:
 
     # avt "\"Eh... I'm not sure when I would have some time.\" "
-    avt ""
+    avt "\"Ech... Nie wiem jeszcze kiedy będę miał trochę czasu.\" "
 
 # game/script/05_week2.rpy:926
 translate polish week2_06_dontask_b4f8992a:
@@ -2159,13 +2164,13 @@ translate polish week2_06_dontask_b4f8992a:
     # voice  voice_file.father(5,17)
     # phone "\"It's almost {font=tl/None/NotoSansCJKtc-Bold.otf}Ching Ming{/font}. Do you have a break then? You should come back if you do.\" "
     voice  voice_file.father(5,17)
-    phone ""
+    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 # game/script/05_week2.rpy:928
 translate polish week2_06_dontask_eae9dc4c:
 
     # avt "\"Okay, I'll see if I can.\" "
-    avt ""
+    avt "\"Dobrze, zobaczę czy będę mógł.\" "
 
 # game/script/05_week2.rpy:930
 translate polish week2_06_dontask_eb258c70:
@@ -2173,13 +2178,13 @@ translate polish week2_06_dontask_eb258c70:
     # voice  voice_file.father(5,18)
     # phone "\"All right. Remember to come home sometime, and make sure to get enough sleep!\" "
     voice  voice_file.father(5,18)
-    phone ""
+    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu i upewnij się, że się wysypiasz!\" "
 
 # game/script/05_week2.rpy:932
 translate polish week2_06_dontask_7d3288a7:
 
     # avt "\"Yeah, I'll make sure to sleep early tonight.\" "
-    avt ""
+    avt "\"Tak, dzisiaj postaram się wcześnie położyć spać.\" "
 
 # game/script/05_week2.rpy:934
 translate polish week2_06_dontask_25605e43:
@@ -2187,62 +2192,63 @@ translate polish week2_06_dontask_25605e43:
     # voice  voice_file.father(5,19)
     # phone "\"That's good, bye for now Son.\" "
     voice  voice_file.father(5,19)
-    phone ""
+    phone "\"To dobrze, to na razie synu.\" "
 
 # game/script/05_week2.rpy:936
 translate polish week2_06_dontask_236bcaa8:
 
     # avt "\"Bye dad.\" "
-    avt ""
+    avt "\"Pa, tato.\" "
 
 # game/script/05_week2.rpy:941
 translate polish week2_06_dontask_2e5cae7d:
 
     # b "I let out a sigh after hanging up the phone. "
-    b ""
+    b "Wzdycham głośno po odłożeniu telefonu. "
 
 # game/script/05_week2.rpy:943
 translate polish week2_06_dontask_289a7fda:
 
     # b "I didn't ask after all... {w=0.5}I wonder if this ability I have is real? That I'm not just seeing \nthings. "
-    b ""
+    b "I w końcu się nie zapytałem... {w=0.5}Zastanawiam się, czy naprawdę mam tę umiejętność? Czy nie mam po prostu jakichś zwidów. "
 
 # game/script/05_week2.rpy:945
 translate polish week2_06_dontask_d3542190:
 
     # b "Should I go back home during the break? ...Dealing with all the guardian tigers back home sounds like a pain though. "
     # b "Maybe I should just wait until I've finished school and everything else in Taipei. "
-    b ""
+    b "Czy powinienem wrócić do domu podczas przerwy? ...użeranie się z tymi wszystkimi tygrysimi strażnikami brzmi jak prawdziwa mordęga. "
+    b "A może najlepiej będzie, jeśli poczekam aż skończę szkołę i załatwię już wszystkie inne sprawy w Tajpej. "
 
 # game/script/05_week2.rpy:947
 translate polish week2_06_dontask_e0f913df:
 
     # b "But I have to go home some day, and if I can still see them then... "
-    b ""
+    b "Prędzej, czy później muszę wrócić do domu i jeśli wciąż będę mógł ich zobaczyć... "
 
 # game/script/05_week2.rpy:949
 translate polish week2_06_dontask_74466f78:
 
     # b "What should I do? "
-    b ""
+    b "Co powinienem zrobić? "
 
 # game/script/05_week2.rpy:951
 translate polish week2_06_dontask_86de80fe:
 
     # b "Hmm... Forget it, there's still plenty of time... "
-    b ""
+    b "Hmm... Zapomnij o tym, wciąż mam dużo czasu... "
 
 # game/script/05_week2.rpy:953
 translate polish week2_06_dontask_e78b421f:
 
     # b "I put down my phone and return back to my desktop. Saving my dilemma for another day... "
-    b ""
+    b "Kładę telefon na półkę i wracam z powrotem do komputera. Odkładając mój dylemat na inny dzień... "
 
 # game/script/05_week2.rpy:971
 translate polish week2_07_19aa8e52:
 
     # b "So it's Friday already, huh? "
-    b ""
+    b "A więc mamy już piątek, tak? "
 
 # game/script/05_week2.rpy:980
 translate polish week2_07_9007a97d:
@@ -2250,19 +2256,19 @@ translate polish week2_07_9007a97d:
     # voice voice_file.lpdcat(5,14)
     # lpdcat serious "\"Liaaaao!\" "
     voice voice_file.lpdcat(5,14)
-    lpdcat serious ""
+    lpdcat serious "\"Liaaaao!\" "
 
 # game/script/05_week2.rpy:982
 translate polish week2_07_52e9bb0a:
 
     # avt "\"What?! What is it? What's wrong?\" "
-    avt ""
+    avt "\"Co?! Co się stało? Coś nie tak?\" "
 
 # game/script/05_week2.rpy:984
 translate polish week2_07_d13b7b99:
 
     # b "Senpai jumped out of nowhere with intense determination, almost shocking the living daylights out of me. "
-    b ""
+    b "Senpai wyskoczył znikąd pełen entuzjazmu, niemal doprowadzając mnie do zawału. "
 
 # game/script/05_week2.rpy:988
 translate polish week2_07_e2b69e3c:
@@ -2270,13 +2276,13 @@ translate polish week2_07_e2b69e3c:
     # voice voice_file.lpdcat(5,15)
     # lpdcat laugh "\"Liao, let's go to the hot springs this weekend!\" "
     voice voice_file.lpdcat(5,15)
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao, wybierzmy się do gorących źródeł w ten weekend!\" "
 
 # game/script/05_week2.rpy:990
 translate polish week2_07_04add7b8:
 
     # avt "\"Ehh? Hot springs?\" "
-    avt ""
+    avt "\"Ehh? Gorące źródła?\" "
 
 # game/script/05_week2.rpy:992
 translate polish week2_07_ddef5b79:
@@ -2284,7 +2290,7 @@ translate polish week2_07_ddef5b79:
     # voice voice_file.lpdcat(5,16)
     # lpdcat laugh "\"Mm-hmm— Hasn't it been super cold recently? It's the perfect time to enjoy a nice warm hot spring~\" "
     voice voice_file.lpdcat(5,16)
-    lpdcat laugh ""
+    lpdcat laugh "\"Yyy-hmm- Ostatnio było naprawdę zimno, prawda? To najlepszy moment, by nacieszyć się przyjemną, ciepłą kąpielą termalną~\" "
 
 # game/script/05_week2.rpy:994
 translate polish week2_07_0e61de61:
@@ -2292,13 +2298,13 @@ translate polish week2_07_0e61de61:
     # voice voice_file.lpdcat(5,17)
     # lpdcat laugh "\"Soaking yourself in hot water, munchin' on some snacks... It's the {i}best{/i} \ thing in winter!\" "
     voice voice_file.lpdcat(5,17)
-    lpdcat laugh ""
+    lpdcat laugh "\"Zanurzyć się w gorącej wodzie, przegryźć sobie co nieco... To {i}najlepsza{/i} \ rzecz podczas zimy!\" "
 
 # game/script/05_week2.rpy:996
 translate polish week2_07_88ba5db8:
 
     # avt "\"Now that you mention it... I've never been to a hot spring before. By the way isn't that expensive?\" "
-    avt ""
+    avt "\"Gdy tak o tym wspominasz... W sumie to nigdy nie byłem w gorących źródłach. A tak po za tym, nie jest to drogie?\" "
 
 # game/script/05_week2.rpy:1000
 translate polish week2_07_00450028:
@@ -2306,7 +2312,7 @@ translate polish week2_07_00450028:
     # voice voice_file.lpdcat(5,18)
     # lpdcat normal "\"Ehhh— It's not cheap, but it's only the cost of like, one or two dinners out at most.\" "
     voice voice_file.lpdcat(5,18)
-    lpdcat normal ""
+    lpdcat normal "\"Ehhh- Nie jest tanio, ale to koszt porównywalny do dobrego obiadu, góra dwóch.\" "
 
 # game/script/05_week2.rpy:1002
 translate polish week2_07_ed9728c2:
@@ -2314,13 +2320,13 @@ translate polish week2_07_ed9728c2:
     # voice voice_file.lpdcat(5,19)
     # lpdcat normal "\"It'd totally do it like once a month. Wouldn't you agree?\" "
     voice voice_file.lpdcat(5,19)
-    lpdcat normal ""
+    lpdcat normal "\"Nie chodziłbym tam częściej niż raz w miesiącu. Nie uważasz, że to dobry pomysł?\" "
 
 # game/script/05_week2.rpy:1004
 translate polish week2_07_79fb7d45:
 
     # avt "\"T-The price of one or two dinners... I already spent heaps on books and things this month... I don't think I've got any more money to squeeze out of my budget.\" "
-    avt ""
+    avt "\"C-Cena dwóch obiadów... Zdążyłem wydać już mnóstwo pieniędzy na książki i inne rzeczy w tym miesiącu... Raczej nie wycisnę już więcej pieniędzy na przyjemności z mojego budżetu.\" "
 
 # game/script/05_week2.rpy:1006
 translate polish week2_07_8b0e235f:
@@ -2328,19 +2334,19 @@ translate polish week2_07_8b0e235f:
     # voice voice_file.lpdcat(5,20)
     # lpdcat pout "\"Don't you want to go?\" "
     voice voice_file.lpdcat(5,20)
-    lpdcat pout ""
+    lpdcat pout "\"Nie chciałbyś iść?\" "
 
 # game/script/05_week2.rpy:1008
 translate polish week2_07_101d8df3:
 
     # avt "\"Well, really no. You only see it in anime. And wouldn't we be bathing with a bunch of strangers?\" "
-    avt ""
+    avt "\"Cóż, raczej nie. Takie rzeczy widzisz tylko w anime. I nie musielibyśmy kąpać się wraz z obcymi ludźmi?\" "
 
 # game/script/05_week2.rpy:1010
 translate polish week2_07_1dac242b:
 
     # avt "\"And then a pretty girl shows up all of a sudden...\" "
-    avt ""
+    avt "\"I nagle znikąd pojawia się piękna dziewczyna...\" "
 
 # game/script/05_week2.rpy:1013
 translate polish week2_07_49392eea:
@@ -2348,7 +2354,7 @@ translate polish week2_07_49392eea:
     # voice voice_file.lpdcat(5,21)
     # lpdcat pu "\"Stop talking about anime plots!\" "
     voice voice_file.lpdcat(5,21)
-    lpdcat pu ""
+    lpdcat pu "\"Przestań gadać o wątkach z anime!\" "
 
 # game/script/05_week2.rpy:1015
 translate polish week2_07_91c0b231:
@@ -2356,7 +2362,7 @@ translate polish week2_07_91c0b231:
     # voice voice_file.lpdcat(5,22)
     # lpdcat normal "\"Besides, mixed gender hot springs are super rare these days.\" "
     voice voice_file.lpdcat(5,22)
-    lpdcat normal ""
+    lpdcat normal "\Poza tym, w dzisiejszych czasach bardzo rzadko zdarza się, by wszyscy kąpali się razem.\" "
 
 # game/script/05_week2.rpy:1017
 translate polish week2_07_bb12be1a:
@@ -2364,7 +2370,7 @@ translate polish week2_07_bb12be1a:
     # voice voice_file.lpdcat(5,23)
     # lpdcat normal "\"Actually they're usually separated by gender. Though you can get public springs which have a bunch of strangers together...\" "
     voice voice_file.lpdcat(5,23)
-    lpdcat normal ""
+    lpdcat normal "\"Zazwyczaj są podzielone względem płci. Możesz jednak spotkać publiczne źródła, w których kąpią się różni ludzie...\" "
 
 # game/script/05_week2.rpy:1019
 translate polish week2_07_b039cb91:
@@ -2372,7 +2378,7 @@ translate polish week2_07_b039cb91:
     # voice voice_file.lpdcat(5,24)
     # lpdcat cute "\"But that's no fun when we can enjoy a private bath with each other~\" "
     voice voice_file.lpdcat(5,24)
-    lpdcat cute ""
+    lpdcat cute "\"Ale to żadna zabawa, skoro możemy razem nacieszyć się prywatną łaźnią~\" "
 
 # game/script/05_week2.rpy:1021
 translate polish week2_07_f747b04a:
@@ -2380,7 +2386,7 @@ translate polish week2_07_f747b04a:
     # voice voice_file.lpdcat(5,25)
     # lpdcat cute "\"It's a small room with a big bath inside. I'd be all ours!\" "
     voice voice_file.lpdcat(5,25)
-    lpdcat cute ""
+    lpdcat cute "\"To mały pokój z dużym basenem termalnym w środku. Byłby cały dla nas!\" "
 
 # game/script/05_week2.rpy:1023
 translate polish week2_07_fb23d272:
@@ -2388,13 +2394,13 @@ translate polish week2_07_fb23d272:
     # voice voice_file.lpdcat(5,26)
     # lpdcat cute "\"I'd highly recommend it to you freshman~\" "
     voice voice_file.lpdcat(5,26)
-    lpdcat cute ""
+    lpdcat cute "\"Poleciłbym te rozwiązanie dla takiego świeżaka jak ty~\" "
 
 # game/script/05_week2.rpy:1025
 translate polish week2_07_e32a17d6:
 
     # avt "\"A private path? Uhh... Wouldn't that be even {i}more{/i} \ expensive than the public baths?\" "
-    avt ""
+    avt "\"Prywatna łaźnia? Uhh... Czy to nie byłoby jeszcze {i}bardziej{/i} \ drogie niż te publiczne łaźnie?\" "
 
 # game/script/05_week2.rpy:1027
 translate polish week2_07_4fecae2d:
@@ -2402,13 +2408,13 @@ translate polish week2_07_4fecae2d:
     # voice voice_file.lpdcat(5,27)
     # lpdcat normal "\"Well yeah, but it's on me! You won't have to pay a cent!\" "
     voice voice_file.lpdcat(5,27)
-    lpdcat normal ""
+    lpdcat normal "\"No tak, ale zostaw to mnie! Nie będziesz musiał płacić ani grosza!\" "
 
 # game/script/05_week2.rpy:1029
 translate polish week2_07_c210b027:
 
     # avt "\"Really?! But I don't want you to waste your money...\" "
-    avt ""
+    avt "\"Naprawdę?! Ale nie chcę wyciągać od ciebie pieniędzy...\" "
 
 # game/script/05_week2.rpy:1031
 translate polish week2_07_90969f28:
@@ -2417,19 +2423,20 @@ translate polish week2_07_90969f28:
     # lpdcat normal "\"I mean it's only like two dinners out, like I said.\" "
     # lpdcat normal "\"Just don't think about it, accept my generosity! Accept the opportunity!\" "
     voice voice_file.lpdcat(5,28)
-    lpdcat normal ""
+    lpdcat normal "\"Jak mówiłem, przecież to tylko tyle jak dwa obiady na mieście.\" "
+    lpdcat normal "\"Nie myśl tak o tym, pójdź ze mną skoro cię proszę! Skorzystaj z okazji!\" "
 
 # game/script/05_week2.rpy:1033
 translate polish week2_07_cd0be434:
 
     # avt "\"Yeah... But...\" "
-    avt ""
+    avt "\"Tak... Ale...\" "
 
 # game/script/05_week2.rpy:1035
 translate polish week2_07_6f14f3d2:
 
     # b "What I really wanted to say was... \"That's Yan Shu-chi's money, not yours\". "
-    b ""
+    b "To co naprawdę chciałem powiedzieć to... \"To są pieniądze Yan Shu-Chi, a nie twoje\". "
 
 # game/script/05_week2.rpy:1039
 translate polish week2_07_5a278743:
@@ -2437,33 +2444,35 @@ translate polish week2_07_5a278743:
     # voice voice_file.lpdcat(5,29)
     # lpdcat laugh "\"Come on, I said it's ok! You're not going to disrespect your senpai, right?\" "
     voice voice_file.lpdcat(5,29)
-    lpdcat laugh ""
+    lpdcat laugh "\"Daj spokój, wszystko jest okej! Nie chcesz chyba zawieść swojego senpai'a, prawda?\" "
 
 # game/script/05_week2.rpy:1041
 translate polish week2_07_587b03e4:
 
     # avt "\"Alright, fine let's go for it.\" "
-    avt ""
+    avt "\"No dobra już dobra, chodźmy.\"  "
 
 # game/script/05_week2.rpy:1043
 translate polish week2_07_2381c287:
 
     # b "Yeah it's a bit strange, but I couldn't refuse him. He really wants this. "
     # b "In what feels like barely a second, Senpai is already on his phone looking up the hot spring for this weekend... "
-    b ""
+    b "Tak, to trochę dziwne, ale jakoś nie mogłem mu odmówić. Naprawdę tego chce. "
+    b "Mija dosłownie parę chwil, a Senpai już przegląda swój telefon w poszukiwaniu gorących źródeł na ten weekend... "
 
 # game/script/05_week2.rpy:1056
 translate polish week2_07_6d2dfb94:
 
     # b "The next morning, we take off in a bus heading to the depths of the mountains. "
     # b "Eventually we arrive at the old street village surrounding the hot springs. "
-    b ""
+    b "Następnego dnia rano łapiemy autobus jadący w głąb gór. "
+    b "Wreszcie docieramy na starą ulicę w małej wiosce otaczającej gorące źródła. "
 
 # game/script/05_week2.rpy:1058
 translate polish week2_07_ac5f038a:
 
     # avt "\"Wow... There's a lot of people here.\" "
-    avt ""
+    avt "\"Łał... Tutaj jest od groma ludzi.\" "
 
 # game/script/05_week2.rpy:1066
 translate polish week2_07_627edb76:
@@ -2471,7 +2480,7 @@ translate polish week2_07_627edb76:
     # voice voice_file.tig(5,34)
     # tig frown "\"It doesn't appear vastly different form the main street back home.\" "
     voice voice_file.tig(5,34)
-    tig frown ""
+    tig frown "\"Nie różni się bardzo od głównej ulicy w naszej rodzinnej miejscowości.\" "
 
 # game/script/05_week2.rpy:1077
 translate polish week2_07_7f6eeccb:
@@ -2479,7 +2488,7 @@ translate polish week2_07_7f6eeccb:
     # voice voice_file.lpd(5,18)
     # lpd obsessed "\"Many people...\" "
     voice voice_file.lpd(5,18)
-    lpd obsessed ""
+    lpd obsessed "\"Dużo ludzi...\" "
 
 # game/script/05_week2.rpy:1089
 translate polish week2_07_c1bbbcab:
@@ -2487,13 +2496,13 @@ translate polish week2_07_c1bbbcab:
     # voice voice_file.lpdcat(5,30)
     # lpdcat normal "\"Oh? So, you've never been here Liao?\" "
     voice voice_file.lpdcat(5,30)
-    lpdcat normal ""
+    lpdcat normal "\"Och? A więc nigdy tu nie byłeś Liao?\" "
 
 # game/script/05_week2.rpy:1091
 translate polish week2_07_faa73e62:
 
     # avt "\"Nope. I'm from the south. So I've never had a need to.\" "
-    avt ""
+    avt "\"Nie. Pochodzę z południa. Więc jakoś nigdy nie miałem takiej potrzeby.\" "
 
 # game/script/05_week2.rpy:1093
 translate polish week2_07_46bfe943:
@@ -2501,13 +2510,13 @@ translate polish week2_07_46bfe943:
     # voice voice_file.lpdcat(5,31)
     # lpdcat normal "\"Really?! But this place is famous! You've been in Taipei for more than half a year now, and you haven't gone sightseeing at all?!\" "
     voice voice_file.lpdcat(5,31)
-    lpdcat normal ""
+    lpdcat normal "\"Serio?! Ale te miejsce jest bardzo znane! Jesteś w Tajpej już ponad pół roku i wcale nic nie zwiedzałeś?\" "
 
 # game/script/05_week2.rpy:1095
 translate polish week2_07_45c4fde9:
 
     # avt "\"I have no money!\" "
-    avt ""
+    avt "\"Nie mam pieniędzy!\" "
 
 # game/script/05_week2.rpy:1097
 translate polish week2_07_5a0f572e:
@@ -2515,13 +2524,13 @@ translate polish week2_07_5a0f572e:
     # voice voice_file.lpdcat(5,32)
     # lpdcat cry_2 "\"Aww, you poor kid...\" "
     voice voice_file.lpdcat(5,32)
-    lpdcat cry_2 "" with hshake
+    lpdcat cry_2 "\"Oooo, ty biedny dzieciaku...\" " with hshake
 
 # game/script/05_week2.rpy:1099
 translate polish week2_07_d599f07b:
 
     # avt "\"You don't need to call me \"kid\" Senpai.\" "
-    avt ""
+    avt "\"Nie musisz nazywać mnie \"dzieciakiem\" Senpai."
 
 # game/script/05_week2.rpy:1108
 translate polish week2_07_12df4afb:
@@ -2529,7 +2538,7 @@ translate polish week2_07_12df4afb:
     # voice voice_file.lpdcat(5,33)
     # lpdcat cute "\"Well then. Let me —your wonderful Senpai— introduce this place to you!\" "
     voice voice_file.lpdcat(5,33)
-    lpdcat cute ""
+    lpdcat cute "\"Dobrze więc. Pozwól że ja -twój wspaniały Senpai- przedstawię ci to miejsce!\" "
 
 # game/script/05_week2.rpy:1110
 translate polish week2_07_cdfa4ac4:
@@ -2537,7 +2546,7 @@ translate polish week2_07_cdfa4ac4:
     # voice voice_file.lpdcat(5,34)
     # lpdcat serious "\"Now where should we start...\" "
     voice voice_file.lpdcat(5,34)
-    lpdcat serious ""
+    lpdcat serious "\"Od czego powinniśmy zacząć...\" "
 
 # game/script/05_week2.rpy:1117
 translate polish week2_07_f5d2666a:
@@ -2546,7 +2555,8 @@ translate polish week2_07_f5d2666a:
     # lpdcat serious "\"Alrighty, did you notice how we drove beside a creek on the way up here?\" "
     # lpdcat serious "\"Since there's heaps of natural hot springs here, a bunch of them are directly connected to that creek!\" "
     voice voice_file.lpdcat(5,35)
-    lpdcat serious ""
+    lpdcat serious "\"W porząsiu, czy widziałeś jak przejeżdżaliśmy obok małej zatoczki w drodze tutaj?\" "
+    lpdcat serious "\"Dlatego że jest tutaj od groma gorących źródeł, część z nich jest bezpośrednio z nią połączona!\" "
 
 # game/script/05_week2.rpy:1119
 translate polish week2_07_6f8b7483:
@@ -2554,7 +2564,7 @@ translate polish week2_07_6f8b7483:
     # voice voice_file.lpdcat(5,36)
     # lpdcat serious "\"So basically, the creek itself is warmed by the springs. Though I've never had a chance to feel it personally.\" "
     voice voice_file.lpdcat(5,36)
-    lpdcat serious ""
+    lpdcat serious "\"Czyli w zasadzie, zatoczka jest ogrzewana przez okoliczne źródła. Mimo to, sam jeszcze nie miałem okazji jej wypróbować.\" "
 
 # game/script/05_week2.rpy:1121
 translate polish week2_07_85eee872:
@@ -2563,7 +2573,8 @@ translate polish week2_07_85eee872:
     # lpdcat normal "\"I've even heard there's a bunch of private baths nearby. Most of the houses behind these merchants here probably have them.\" "
     # lpdcat normal "\"...Ya know, I wonder what came first, people finding the hot springs or people building the old street?.\" "
     voice voice_file.lpdcat(5,37)
-    lpdcat normal ""
+    lpdcat normal "\"Słyszałem też, że jest tutaj dość sporo prywatnych łaźni. Większość domów za tymi sklepikarzami zapewne je ma.\" "
+    lpdcat normal "\"...wiesz, zastanawiałem się co pojawiło się pierwsze. Ludzie znajdujący gorące źródła, czy ludzie budujący tę ulicę?\" "
 
 # game/script/05_week2.rpy:1123
 translate polish week2_07_ada3ce20:
@@ -2571,7 +2582,7 @@ translate polish week2_07_ada3ce20:
     # voice voice_file.lpdcat(5,38)
     # lpdcat normal "\"Besides, I don't think it'd be a great idea just to go in the creek water. Some people do it because it's free, but it's probably not the best idea.\" "
     voice voice_file.lpdcat(5,38)
-    lpdcat normal ""
+    lpdcat normal "\"Poza tym, nie wydaje mi się, żeby pływanie w zatoczce było dobrym pomysłem. Niektórzy ludzie to robią, bo to nic nie kosztuje, ale chyba lepiej tego nie robić.\" "
 
 # game/script/05_week2.rpy:1125
 translate polish week2_07_454fb44a:
@@ -2579,13 +2590,13 @@ translate polish week2_07_454fb44a:
     # voice voice_file.lpdcat(5,39)
     # lpdcat laugh "\"Now then, enough with the boring stuff. Our destination is over there, let's go!\" "
     voice voice_file.lpdcat(5,39)
-    lpdcat laugh ""
+    lpdcat laugh "\"Dobra, już starczy tego nudnego ględzenia. Cel naszej wyprawy jest już przed nami, chodźmy!\" "
 
 # game/script/05_week2.rpy:1130
 translate polish week2_07_b9f9cba1:
 
     # b "Senpai hurries me along the street enthusiastically. The other two walk behind us. "
-    b ""
+    b "Senpai entuzjastycznie pośpiesza mnie, gdy idziemy przez ulicę. Pozostali dwaj idą za nami. "
 
 # game/script/05_week2.rpy:1137
 translate polish week2_07_3d3c6bca:
@@ -2593,31 +2604,31 @@ translate polish week2_07_3d3c6bca:
     # voice voice_file.tig(5,35)
     # tig frown "\"A lot of these wares seem quite familiar.\" "
     voice voice_file.tig(5,35)
-    tig frown ""
+    tig frown "\"Wiele z tych towarów wydaje mi się znajome.\" "
 
 # game/script/05_week2.rpy:1142
 translate polish week2_07_15e4d6a0:
 
     # b "I look around... Preserved plums, roasted corn, almond tea, mochi, and so on. It's pretty typical for a market street like the one from back at home. "
-    b ""
+    b "Spoglądam wokoło... Suszone śliwki, prażona kukurydza, herbata migdałowa, mochi i tak dalej. To typowe jedzenie na ulicy handlowej, podobne do tego w okolicy mojego domu.\" "
 
 # game/script/05_week2.rpy:1144
 translate polish week2_07_22287039:
 
     # b "Though a few special things do catch my eyes, for example... "
-    b ""
+    b "Jest jednak kilka wyjątkowych rzeczy, które przykuły moją uwagę, na przykład... "
 
 # game/script/05_week2.rpy:1151
 translate polish week2_07_1c1d4e55:
 
     # lpd normal "\"......\" "
-    lpd normal ""
+    lpd normal "\"......\" "
 
 # game/script/05_week2.rpy:1157
 translate polish week2_07_c394f498:
 
     # b "Theres some {font=tl/None/NotoSansCJKtc-Bold.otf}wild boar sausages{/font}... Leopard is currently staring at them. "
-    b ""
+    b "Są tutaj na przykład {font=tl/None/NotoSansCJKpl-Bold.ttf}kiełbaski z dzika{/font}... Pantera się teraz w nie wpatruje. "
 
 # game/script/05_week2.rpy:1164
 translate polish week2_07_ae4d4e59:
@@ -2625,13 +2636,13 @@ translate polish week2_07_ae4d4e59:
     # voice voice_file.tig(5,36)
     # tig gaze "\"Liao. We should get this...\" "
     voice voice_file.tig(5,36)
-    tig gaze ""
+    tig gaze "\"Liao. Powinniśmy wziąć trochę tego...\" "
 
 # game/script/05_week2.rpy:1170
 translate polish week2_07_d48e6fe4:
 
     # b "Tiger is drawn towards the {font=tl/None/NotoSansCJKtc-Bold.otf}roast suckling pig{/font}, which has been prepared into tiny meat cubes right at the shop. "
-    b ""
+    b "Tygrysa przyciągnęło {font=tl/None/NotoSansCJKpl-Bold.ttf}pieczone prosię{/font}, które było poszatkowane w małe mięsne kosteczki tuż przed sklepem. "
 
 # game/script/05_week2.rpy:1183
 translate polish week2_07_cda0e5ed:
@@ -2639,38 +2650,39 @@ translate polish week2_07_cda0e5ed:
     # voice voice_file.lpdcat(5,40)
     # lpdcat pout "\"Nah— we should wait to buy food until after our bath.\" "
     voice voice_file.lpdcat(5,40)
-    lpdcat pout ""
+    lpdcat pout "\"Niee- powinniśmy poczekać z kupowaniem jedzenia, aż wrócimy z kąpieli.\" "
 
 # game/script/05_week2.rpy:1187
 translate polish week2_07_fdf8fcab:
 
     # b "I could do with a snack, but considering I have to eat whatever Tiger and Leopard want to... I suddenly feel super-duper full again. "
-    b ""
+    b "Mała przekąska była by spoko, ale wiedząc, że musiałbym zjeść cokolwiek chcą Tygrys i Pantera... Nagle znów czuję się mega pełen. "
 
 # game/script/05_week2.rpy:1189
 translate polish week2_07_5102e7fc:
 
     # avt "\"Senpai's right. We might as well go to the hot spring first. All right? Come on guys... let's get there already!\" "
-    avt ""
+    avt "\"Senpai ma rację. Możemy najpierw iść do gorącego źródła. Dobrze? No dalej... chodźmy już tam!\" "
 
 # game/script/05_week2.rpy:1196
 translate polish week2_07_889adbd4:
 
     # tig disappointed "\"......\" "
-    tig disappointed ""
+    tig disappointed "\"......\" "
 
 # game/script/05_week2.rpy:1203
 translate polish week2_07_d19f2f79:
 
     # lpd disappointed "\"......\" "
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 # game/script/05_week2.rpy:1209
 translate polish week2_07_4f143b3c:
 
     # b "I end up needing to push Tiger and Leopard to pry them away from the food and get the moving. "
     # b "Luckily there's heaps of people around and I don't stand out doing so... even if I am pushing mid-air. "
-    b ""
+    b "Ostatecznie muszę ich wypchnąć stamtąd siłą, by odciągnąć ich od jedzenia i ruszyć dalej. "
+    b "Na szczęście w okolicy jest mnóstwo ludzi i nikt nie zwraca na mnie uwagi... nawet jeśli popycham powietrze. "
 
 # game/script/05_week2.rpy:1211
 translate polish week2_07_20e78b9a:
@@ -2678,43 +2690,43 @@ translate polish week2_07_20e78b9a:
     # voice voice_file.lpdcat(5,41)
     # lpdcat laugh "\"Hey! Over here!\" "
     voice voice_file.lpdcat(5,41)
-    lpdcat laugh ""
+    lpdcat laugh "\"Hej! Tutaj!\" "
 
 # game/script/05_week2.rpy:1220
 translate polish cg_04_52f8b5dd:
 
     # b "Senpai runs into a nearby building. The building itself resembles a traditional Japanese inn. "
-    b ""
+    b "Senpai wbiega do środka budynku nieopodal. Budynek przypomina tradycyjną japońską gospodę. "
 
 # game/script/05_week2.rpy:1224
 translate polish cg_04_b12b720d:
 
     # b "He walks to the counter, handing two booking slips to the receptionist. "
-    b ""
+    b "Podchodzi do lady, podając recepcjoniście dwie rezerwacje. "
 
 # game/script/05_week2.rpy:1226
 translate polish cg_04_28b90b77:
 
     # b "Huh, so Senpai already had everything booked online and printed? I didn't even notice. He's more on top of things than I thought. "
-    b ""
+    b "Hę, a więc Senpai miał już wszystko zarezerwowane online i wydrukował te kupony? Nawet nie zauważyłem. Jest bardziej na czasie, niż myślałem. "
 
 # game/script/05_week2.rpy:1228
 translate polish cg_04_cd80a31b:
 
     # b "The receptionist finishes booking us in and we're led to our bathroom. "
-    b ""
+    b "Recepcjonista kończy rezerwację i zostaliśmy wpuszczeni do łaźni. "
 
 # game/script/05_week2.rpy:1235
 translate polish cg_04_b96732b2:
 
     # b "At first glance, the bathroom is big. A marble pool takes center point while it's water steams from the hot spring towards the back of the room. Toward my feet, near the entrance is a small resting area. "
-    b ""
+    b "Już na pierwszy rzut oka jest ogromna. W samym środku znajduje się marmurowy basen, a woda paruje z gorącego źródła w kierunku tylnej części pomieszczenia. Przede mną, niedaleko wejścia, znajduje się miejsce do odpoczynku. "
 
 # game/script/05_week2.rpy:1237
 translate polish cg_04_e2ce95ff:
 
     # b "Even after several more glances, I'm still astonished by it's size and grandeur. "
-    b ""
+    b "Nawet po dłuższym wpatrywaniu się w to pomieszczenie, wciąż jestem zdumiony jego rozmiarem i wielkością. "
 
 # game/script/05_week2.rpy:1239
 translate polish cg_04_fd872c0a:
@@ -2722,7 +2734,7 @@ translate polish cg_04_fd872c0a:
     # voice voice_file.tig(5,37)
     # tig lift "\"How upscale.\""
     voice voice_file.tig(5,37)
-    tig lift ""
+    tig lift "\"Zbytni przepych.\" "
 
 # game/script/05_week2.rpy:1241
 translate polish cg_04_5ff405fd:
@@ -2730,25 +2742,25 @@ translate polish cg_04_5ff405fd:
     # voice voice_file.lpd(5,19)
     # lpd obsessed "\"...Lavish.\""
     voice voice_file.lpd(5,19)
-    lpd obsessed ""
+    lpd obsessed "\"...rozrzutne.\""
 
 # game/script/05_week2.rpy:1243
 translate polish cg_04_b20bf773:
 
     # b "Why does it feel like they're scolding me? It's not like this was my choice. "
-    b ""
+    b "Czemu czuję się jakby mnie za to besztali? To nie tak, że to był mój pomysł. "
 
 # game/script/05_week2.rpy:1245
 translate polish cg_04_9181ec33:
 
     # b "The staff member shows us where to find some robes, towels, and drinking water. Then they remind us of the time limit, wish us to enjoy our time time and leave us be. "
-    b ""
+    b "Obsługa pokazuje nam gdzie znaleźć okrycia wierzchnie, ręczniki i wodę do picia. Przypominają nam o limicie czasowym, życzą miłego pobytu i zostawiają nas samych. "
 
 # game/script/05_week2.rpy:1247
 translate polish cg_04_024c3669:
 
     # b "...I think I missed some of that. "
-    b ""
+    b "...myślę, że sporo mnie ominęło. "
 
 # game/script/05_week2.rpy:1254
 translate polish cg_04_f59e00be:
@@ -2756,7 +2768,7 @@ translate polish cg_04_f59e00be:
     # voice voice_file.lpdcat(5,42)
     # lpdcat normal "\"Alright Liao, the clock's ticking. So let's get started!\" "
     voice voice_file.lpdcat(5,42)
-    lpdcat normal ""
+    lpdcat normal "\"Dobra Liao, czas ucieka. Zacznijmy się przygotowywać!\" "
 
 # game/script/05_week2.rpy:1256
 translate polish cg_04_7666ecb7:
@@ -2764,7 +2776,7 @@ translate polish cg_04_7666ecb7:
     # voice voice_file.lpdcat(5,43)
     # lpdcat normal "\"You can store your clothes here and your robe is hanging up over there. I don't normally use the slippers but you can use them if you want.\" "
     voice voice_file.lpdcat(5,43)
-    lpdcat normal ""
+    lpdcat normal "\"Możesz przechować tutaj swoje ubrania, a twoje okrycie wisi w tym miejscu. Zazwyczaj nie noszę kapci, ale możesz je założyć jeśli chcesz.\" "
 
 # game/script/05_week2.rpy:1258
 translate polish cg_04_33523882:
@@ -2772,13 +2784,13 @@ translate polish cg_04_33523882:
     # voice voice_file.lpdcat(5,44)
     # lpdcat normal "\"People sweat a lot from the heat in there. So even though you're in water, don't forget to drink. Got it Liao?\" "
     voice voice_file.lpdcat(5,44)
-    lpdcat normal ""
+    lpdcat normal "\"Ludzie okropnie się pocą od tego całego żaru. Nawet jeśli jesteś w wodzie, nie zapominaj by pić wodę. Rozumiesz Liao?\" "
 
 # game/script/05_week2.rpy:1260
 translate polish cg_04_149a43df:
 
     # avt "\"...You seem like quite the regular customer.\" "
-    avt ""
+    avt "\"...sprawiasz wrażenie regularnego klienta.\" "
 
 # game/script/05_week2.rpy:1264
 translate polish cg_04_835cd4b3:
@@ -2786,19 +2798,19 @@ translate polish cg_04_835cd4b3:
     # voice voice_file.lpdcat(5,45)
     # lpdcat laugh "\"I love hot springs after all! I wouldn't recommend any less than the best for you Liao.\" "
     voice voice_file.lpdcat(5,45)
-    lpdcat laugh ""
+    lpdcat laugh "\"Przecież uwielbiam gorące źródła! Nie poleciłbym ci niczego innego, niż to co najlepsze.\" "
 
 # game/script/05_week2.rpy:1266
 translate polish cg_04_30a531f4:
 
     # avt "\"But, this place seems expensive...\" "
-    avt ""
+    avt "\"Ale, te miejsce wydaje się drogie...\" "
 
 # game/script/05_week2.rpy:1268
 translate polish cg_04_60b606b5:
 
     # b "I don't know anything about hot springs, but I {i}know{/i} \ this room can't be cheap. "
-    b ""
+    b "Nic nie wiem o gorących źródłach, ale {i}wiem{/i} \ że ten pokój nie może być tani. "
 
 # game/script/05_week2.rpy:1270
 translate polish cg_04_29eb05c2:
@@ -2806,19 +2818,19 @@ translate polish cg_04_29eb05c2:
     # voice voice_file.lpdcat(5,46)
     # lpdcat laugh "\"Haha, don't worry about it. I had some discount vouchers so it wasn't that expensive. It's a great chance to host you somewhere nice~\" "
     voice voice_file.lpdcat(5,46)
-    lpdcat laugh ""
+    lpdcat laugh "\"Haha, nie przejmuj się tym. Miałem ze sobą kupony zniżkowe, więc nie było to aż tak drogie. To wspaniała okazja, by zaprosić cię w fajne miejsce~\" "
 
 # game/script/05_week2.rpy:1272
 translate polish cg_04_37447500:
 
     # avt "\"Re-{w=0.2}Really?\" "
-    avt ""
+    avt "\"Na-{w=0.2}naprawdę?\" "
 
 # game/script/05_week2.rpy:1274
 translate polish cg_04_24fe7de0:
 
     # b "I'm still uneasy about this. Is it really okay to just let Senpai pay for the bill? "
-    b ""
+    b "Wciąż czuję się z tym źle. Czy to w porządku pozwolić Senpai'owi płacić za rachunek? "
 
 # game/script/05_week2.rpy:1278
 translate polish cg_04_ea755d47:
@@ -2826,13 +2838,13 @@ translate polish cg_04_ea755d47:
     # voice voice_file.lpdcat(5,47)
     # lpdcat normal "\"Liao, I told you it's fine. Anyways, isn't it cool that we get to have four people in here with only two tickets?\" "
     voice voice_file.lpdcat(5,47)
-    lpdcat normal ""
+    lpdcat normal "\"Liao mówiłem ci, wszystko w porządku. Tak czy inaczej, czy to nie super, że udało się nam tu wcisnąć cztery osoby mając tylko dwa wejścia?\" "
 
 # game/script/05_week2.rpy:1280
 translate polish cg_04_c19928ec:
 
     # b "Four? Oh, yeah, there's us as well as Tiger and Leopard. But, should they really be considered as people? "
-    b ""
+    b "Cztery? Ach tak, Tygrys i Pantera też są z nami. Ale czy powinni być uznawani za ludzi? "
 
 # game/script/05_week2.rpy:1282
 translate polish cg_04_b638344e:
@@ -2840,7 +2852,7 @@ translate polish cg_04_b638344e:
     # voice voice_file.tig(5,38)
     # tig laugh_1 "\"I agree. It's quite the deal.\" "
     voice voice_file.tig(5,38)
-    tig laugh_1 ""
+    tig laugh_1 "\"Zgadzam się. To całkiem niezły interes.\" "
 
 # game/script/05_week2.rpy:1286
 translate polish cg_04_7633c7b4:
@@ -2848,13 +2860,13 @@ translate polish cg_04_7633c7b4:
     # voice voice_file.lpdcat(5,48)
     # lpdcat laugh "\"Heh— I knew the old man would see reason. Anyway, {i}cooooome{/i} \ on! Let's stop wasting time talking. Take off your clothes Liao!\" "
     voice voice_file.lpdcat(5,48)
-    lpdcat laugh ""
+    lpdcat laugh "\"Heh- Wiedziałem, że staruszek to zrozumie. Mniejsza, {i}nooooooo{/i} dalej! Nie traćmy więcej czasu na gadaniu. Zdejmuj ciuchy Liao!\" "
 
 # game/script/05_week2.rpy:1288
 translate polish cg_04_7ff49476:
 
     # avt "\"What?!\" " with vpunch
-    avt ""
+    avt "\"Co?\" "
 
 # game/script/05_week2.rpy:1292
 translate polish cg_04_88e5439f:
@@ -2862,7 +2874,7 @@ translate polish cg_04_88e5439f:
     # voice voice_file.lpdcat(5,49)
     # lpdcat normal "\"Whaaaaat? You gonna get in with those clothes on or something? Did you even notice the shower over there?\" "
     voice voice_file.lpdcat(5,49)
-    lpdcat normal ""
+    lpdcat normal "\"Coooooo? Chcesz wejść do środka w ubraniu, czy coś? Czy zauważyłeś, że mamy tutaj prysznice?\" "
 
 # game/script/05_week2.rpy:1294
 translate polish cg_04_d112c5e3:
@@ -2870,25 +2882,25 @@ translate polish cg_04_d112c5e3:
     # voice voice_file.lpdcat(5,50)
     # lpdcat normal "\"Hot spring rule number one. Clean yourself before stepping into the spring.\" "
     voice voice_file.lpdcat(5,50)
-    lpdcat normal ""
+    lpdcat normal "\"Zasada numer jeden gorących źródeł. Przemyj się przed wejściem do basenu.\" "
 
 # game/script/05_week2.rpy:1296
 translate polish cg_04_1faa3e5f:
 
     # avt "\"I-{w=0.2}I know. But...\" "
-    avt ""
+    avt "\"W-{w=0.2}wiem. Ale...\" "
 
 # game/script/05_week2.rpy:1298
 translate polish cg_04_7010e508:
 
     # b "I know this is pretty normal at hot springs, but this is way too embarrassing. "
-    b ""
+    b "Wiem, że to całkiem normalne przy gorących źródłach, ale to bardzo krępujące. "
 
 # game/script/05_week2.rpy:1300
 translate polish cg_04_b0e8731e:
 
     # avt "\"Uh... S-{w=0.2}Senpais should go first!\" "
-    avt ""
+    avt "\"Yhh... S-{w=0.2}Senpai'e powinni iść pierwsi!\" "
 
 # game/script/05_week2.rpy:1302
 translate polish cg_04_dcd7da5a:
@@ -2896,31 +2908,31 @@ translate polish cg_04_dcd7da5a:
     # voice voice_file.lpdcat(5,51)
     # lpdcat normal "\"Hmm? Sure, no problem. I'll just...\" "
     voice voice_file.lpdcat(5,51)
-    lpdcat normal ""
+    lpdcat normal "\"Hmm? Dobrze, żaden problem. Tylko...\" "
 
 # game/script/05_week2.rpy:1308
 translate polish cg_04_8430216b:
 
     # b "Senpai turns on the faucet, the bath beginning to fill. Next, he starts to remove his clothes then and there. "
-    b ""
+    b "Senpai odkręca kran, kąpiel zaczyna się wypełniać. Następnie zaczyna zaczyna zdejmować swoje ubrania. "
 
 # game/script/05_week2.rpy:1310
 translate polish cg_04_b4986d20:
 
     # avt "\"What, Waah~\" "
-    avt ""
+    avt "\"Czekaj, cooo~\" "
 
 # game/script/05_week2.rpy:1312
 translate polish cg_04_76230156:
 
     # b "It was so sudden, I didn't get a chance to walk away or give him space... I can't just keep staring at his naked body. "
-    b ""
+    b "To stało się tak nagle, nie zdążyłem odejść na bok, by dać mu trochę miejsca... Nie mogę tak po prostu wpatrywać się w jego nagie ciało. "
 
 # game/script/05_week2.rpy:1314
 translate polish cg_04_8fc2c96a:
 
     # b "I turn my head away in an meager attempt to restore Senpai's privacy. "
-    b ""
+    b "Odwracał głowę w lichej próbie przywrócenia Senpai'owi odrobiny prywatności. "
 
 # game/script/05_week2.rpy:1326
 translate polish cg_04_ec5dd731:
@@ -2928,25 +2940,25 @@ translate polish cg_04_ec5dd731:
     # voice voice_file.tig(5,39)
     # tig lift "\"...Liao, what are you doing? You must take a shower sooner rather than later.\" "
     voice voice_file.tig(5,39)
-    tig lift ""
+    tig lift "\"...Liao, co ty robisz? Prędzej, czy później musisz wziąć prysznic.\" "
 
 # game/script/05_week2.rpy:1328
 translate polish cg_04_811cbfb2:
 
     # b "Yeah, I know! Why is that his business all of a sudden?! "
-    b ""
+    b "Tak, wiem to! Czemu tak nagle się tym przejmuje?! "
 
 # game/script/05_week2.rpy:1330
 translate polish cg_04_f1fd4def:
 
     # avt "\"Just... turn around!\" "
-    avt ""
+    avt "\"Po prostu... odwróć się!\" "
 
 # game/script/05_week2.rpy:1332
 translate polish cg_04_af54c937:
 
     # lpd normal "\"......?\" "
-    lpd normal ""
+    lpd normal "\"......?\" "
 
 # game/script/05_week2.rpy:1334
 translate polish cg_04_d1fd4cb5:
@@ -2954,25 +2966,25 @@ translate polish cg_04_d1fd4cb5:
     # voice voice_file.tig(5,40)
     # tig laugh_2 "\"Alright— What a timid child.\" "
     voice voice_file.tig(5,40)
-    tig laugh_2 ""
+    tig laugh_2 "\"No dobrze- Co za nieśmiały dzieciak.\" "
 
 # game/script/05_week2.rpy:1345
 translate polish cg_04_d9399974:
 
     # b "I send a sharp look around the room, making sure nobody is watching me. The sound of Senpai's shower patters on the floor as I begin to remove my clothes. "
-    b ""
+    b "Wysyłam ostre spojrzenie przez pokój, upewniając się, że nikt na mnie nie patrzy. Gdy zaczynam zdejmować ubrania, słyszę szum spod prysznica Senpai'a. "
 
 # game/script/05_week2.rpy:1348
 translate polish cg_04_41036ca0:
 
     # b "I try to get it done with quickly. But once my clothes are off, the patter of the other shower ceases. "
-    b ""
+    b "Staram się to zrobić jak najszybciej. Gdy już zdjąłem swoje ubrania, dźwięk drugiego prysznica ustaje. "
 
 # game/script/05_week2.rpy:1350
 translate polish cg_04_3d2ac31e:
 
     # b "I turn my head to look, but I don't see Senpai. "
-    b ""
+    b "Odwracam głowę, ale nigdzie nie widzę Senpai'a. "
 
 # game/script/05_week2.rpy:1352
 translate polish cg_04_fd754f5a:
@@ -2980,13 +2992,13 @@ translate polish cg_04_fd754f5a:
     # voice voice_file.lpdcat(5,52)
     # lpdcat_naked laugh "\"Right here, Liao~\" "
     voice voice_file.lpdcat(5,52)
-    lpdcat_naked laugh ""
+    lpdcat_naked laugh "\"Tutaj Liao~\" "
 
 # game/script/05_week2.rpy:1354
 translate polish cg_04_5b4c26be:
 
     # b "Senpai is already shoulder deep in the freshly steaming bath. "
-    b ""
+    b "Senpai jest już po szyję zanurzony w świeżej, parującej kąpieli. "
 
 # game/script/05_week2.rpy:1356
 translate polish cg_04_194c3b09:
@@ -2994,13 +3006,13 @@ translate polish cg_04_194c3b09:
     # voice voice_file.lpdcat(5,53)
     # lpdcat_naked laugh "\"Water's ready Liao, hurry up~\" "
     voice voice_file.lpdcat(5,53)
-    lpdcat_naked laugh ""
+    lpdcat_naked laugh "\"Liao, woda jest już gotowa, pośpiesz się~\" "
 
 # game/script/05_week2.rpy:1358
 translate polish cg_04_7910dab5:
 
     # avt "\"Please... don't keep staring at me Senpai.\" "
-    avt ""
+    avt "\"Błagam... Senpai, nie gap się tak na mnie.\" "
 
 # game/script/05_week2.rpy:1360
 translate polish cg_04_a864a132:
@@ -3008,13 +3020,13 @@ translate polish cg_04_a864a132:
     # voice voice_file.lpdcat(5,54)
     # lpdcat_naked normal "\"Okay— Okay— You're so shy Liao~\" "
     voice voice_file.lpdcat(5,54)
-    lpdcat_naked normal ""
+    lpdcat_naked normal "\"Dobrze już, dobrze- jesteś taki wstydliwy Liao~\" "
 
 # game/script/05_week2.rpy:1362
 translate polish cg_04_0ef3e56f:
 
     # b "Senpai looks somewhere else for the moment. I turn my shower on and hurriedly wash myself. Now all that's left is to slip into the bath... "
-    b ""
+    b "Senpai spogląda przez moment w innym kierunku. Odkręcam prysznic i myję się w pośpiechu. Teraz ostatnie co muszę zrobić, to wejść do kąpieli... "
 
 # game/script/05_week2.rpy:1364
 translate polish cg_04_fcb807fb:
@@ -3022,19 +3034,19 @@ translate polish cg_04_fcb807fb:
     # voice voice_file.lpd(5,20)
     # lpd obsessed "\"...Hot, careful.\" "
     voice voice_file.lpd(5,20)
-    lpd obsessed ""
+    lpd obsessed "\"...gorące, uważaj.\" "
 
 # game/script/05_week2.rpy:1367
 translate polish cg_04_0261ad79:
 
     # avt "\"Wahh!\" " with hshake
-    avt "" with hshake
+    avt "\"Aaaahhh!\" " with hshake
 
 # game/script/05_week2.rpy:1369
 translate polish cg_04_ce25f47d:
 
     # b "It's a warning too late. I retreat almost as fast as I went in. The heat was more than I had anticipated. "
-    b ""
+    b "Trochę za późno na te ostrzeżenie. Wyskoczyłem stamtąd prawie tak szybko jak wszedłem do środka. Nie spodziewałem się, że będzie tu aż tak gorąco. "
 
 # game/script/05_week2.rpy:1371
 translate polish cg_04_cd72e870:
@@ -3042,19 +3054,19 @@ translate polish cg_04_cd72e870:
     # voice voice_file.lpdcat(5,55)
     # lpdcat_naked panic "\"Be careful Liao! You gotta get into the bath slowly and let your body get used to the temperature...\" "
     voice voice_file.lpdcat(5,55)
-    lpdcat_naked panic ""
+    lpdcat_naked panic "\"Bądź ostrożny Liao! Powoli wchodź do środka i pozwól swojemu ciału przyzwyczaić się do temperatury...\" "
 
 # game/script/05_week2.rpy:1373
 translate polish cg_04_1b001dd9:
 
     # b "That'd be great, but I don't want these three staring at me the whole time..."
-    b ""
+    b "Tak byłoby najlepiej, ale nie chcę by ta trójka wpatrywała się na mnie przez cały ten czas... "
 
 # game/script/05_week2.rpy:1384
 translate polish cg_04_64d17b38:
 
     # b "I take a deep breath and ease down into the steamy water. "
-    b ""
+    b "Biorę głęboki oddech i wskakuję prosto w parującą wodę. "
 
 # game/script/05_week2.rpy:1386
 translate polish cg_04_8e6e0e45:
@@ -3062,20 +3074,21 @@ translate polish cg_04_8e6e0e45:
     # voice voice_file.lpdcat(5,56)
     # lpdcat_naked surprise_1 "\"...Woah, that's awesome.\" "
     voice voice_file.lpdcat(5,56)
-    lpdcat_naked surprise_1 ""
+    lpdcat_naked surprise_1 "\"...Łaaa, ale super.\"  "
 
 # game/script/05_week2.rpy:1388
 translate polish cg_04_1ccd5093:
 
     # avt "\"......!\" "
-    avt ""
+    avt "\"......!\" "
 
 # game/script/05_week2.rpy:1390
 translate polish cg_04_a00677d4:
 
     # b "I sit in the water, suffering through the burning feeling taking over my whole body. "
     # b "...Are people supposed to think this is relaxing? "
-    b ""
+    b "Siadam w wodzie, cierpiąc przez potworne, palące uczucie na całym ciele. "
+    b "...jak ludzie mogą myśleć, że to relaksujące? "
 
 # game/script/05_week2.rpy:1392
 translate polish cg_04_8493576e:
@@ -3083,7 +3096,7 @@ translate polish cg_04_8493576e:
     # voice voice_file.lpdcat(5,57)
     # lpdcat_naked normal "\"Likulau! Old man! Come on in! Even if you guys don't have bodies you can still enjoy the atmosphere.\" "
     voice voice_file.lpdcat(5,57)
-    lpdcat_naked normal ""
+    lpdcat_naked normal "\"Likulau! Staruszku! Wchodźcie! Nawet jeśli nie macie prawdziwych ciał, to wciąż możecie cieszyć się atmosferą.\" "
 
 # game/script/05_week2.rpy:1394
 translate polish cg_04_f38a5fe7:
@@ -3091,31 +3104,31 @@ translate polish cg_04_f38a5fe7:
     # voice voice_file.tig(5,41)
     # tig lift "\"Well, let me see... The water really is rather hot.\" "
     voice voice_file.tig(5,41)
-    tig lift ""
+    tig lift "\"Cóż. Pozwól, że spojrzę... Woda jest raczej bardzo gorąca.\" "
 
 # game/script/05_week2.rpy:1396
 translate polish cg_04_a6b8e0ce:
 
     # b "Tiger puts a paw into the water. As if he wasn't even there, the water refuses to ripple at all. "
-    b ""
+    b "Tygrys zanuża łapę w wodzie. Woda nie reaguje na jego obecność, jakby go tam wcale nie było. "
 
 # game/script/05_week2.rpy:1398
 translate polish cg_04_3b5e46f7:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/05_week2.rpy:1400
 translate polish cg_04_cce14f3f:
 
     # b "Leopard just shoves his {i}entire{/i} \ arm into the water, grimacing from the heat. "
-    b ""
+    b "Pantera wkłada {i}całą{/i} rękę \ do wody, grymasząc od gorąca. "
 
 # game/script/05_week2.rpy:1402
 translate polish cg_04_0d941618:
 
     # avt "\"Aaaaa... So hot...\" " with hshake
-    avt "" with hshake
+    avt "\"Aaaaaa... Ale gorąca...\" " with hshake
 
 # game/script/05_week2.rpy:1404
 translate polish cg_04_bab5941d:
@@ -3123,13 +3136,13 @@ translate polish cg_04_bab5941d:
     # voice voice_file.lpdcat(5,58)
     # lpdcat_naked normal "\"Well it's gonna hurt if you get in too fast. Though, you'll feel {i}really{/i} \ good once you're used to it.\" "
     voice voice_file.lpdcat(5,58)
-    lpdcat_naked normal ""
+    lpdcat_naked normal "\"No cóż, to zaboli, jeśli wejdziesz do środka zbyt szybko. Mimo to, poczujesz się {i}naprawdę{/i} \ dobrze, gdy już się do tego przyzwyczaisz.\" "
 
 # game/script/05_week2.rpy:1406
 translate polish cg_04_c949ab4d:
 
     # avt "\"Why do I feel like you're implying something...\" "
-    avt ""
+    avt "\"Czemu mam wrażenie, że coś sugerujesz...\" "
 
 # game/script/05_week2.rpy:1408
 translate polish cg_04_a71e0392:
@@ -3137,7 +3150,7 @@ translate polish cg_04_a71e0392:
     # voice voice_file.lpdcat(5,59)
     # lpdcat_naked cute "\"I'd say you're the one with the impure mind here~\" "
     voice voice_file.lpdcat(5,59)
-    lpdcat_naked cute ""
+    lpdcat_naked cute "\"Powiedziałbym, że to ty masz tutaj zbereźne myśli~\" "
 
 # game/script/05_week2.rpy:1410
 translate polish cg_04_f58fdaab:
