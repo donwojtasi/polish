@@ -40,13 +40,13 @@ translate polish start_192da5bd:
 
     # b "Probably still in my bag then... "
 
-    b "Wreszcie docieram na górę, gdzie witają mnie moje drzwi."
+    b "Wreszcie docieram na górę, witany przez moje drzwi."
 
-    b "Wzdychając z ulgą, upuszczam torbę na podłogę i szukam kluczy. "
+    b "Wzdychając z ulgą, upuszczam plecak na podłogę i szukam kluczy. "
 
     b "Hmm... {w=0.5}Gdzie one się podziały? Szukam po kieszeniach, ale bez skutku. "
 
-    b "Pewnie zostały w torbie... "
+    b "Pewnie schowałem je do plecaka... "
 
 
 
@@ -58,7 +58,7 @@ translate polish start_46435378:
 
     # b "Oh hey! Finally, there they are! "
 
-    b "Tak, są wreszcie! "
+    b "O tak, są wreszcie! "
 
 
 
@@ -78,7 +78,7 @@ translate polish start_1df83b50:
 
     b "Uhhhhh- Ledwo stoję na nogach... "
 
-    b "Przy odrobinie wysiłku otwieram drzwi. Szczęśliwie robiąc to {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
+    b "Po chwili wysiłku, otwieram drzwi. Szczęśliwie robiąc to {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
 
 
 
@@ -92,7 +92,7 @@ translate polish start_c80771cd:
 
     # b "I stand there and close my eyes for a moment...{w=0.5} They're too heavy to open. \nSo for now, I don't... "
 
-    b "Boże, jestem tak zmęczony od kiedy skończyliśmy. Nie mam pojęcia, co we mnie wstąpiło. "
+    b "Boże, pod sam koniec byłem już tak bardzo zmęczony. Nie mam pojęcia, co we mnie wstąpiło. "
 
     b "Stoję tam i zamykam na chwilę oczy...{w=0.5} Są zbyt ciężkie, by je otworzyć.\nWięc na razie, nie będę... "
 
@@ -120,7 +120,7 @@ translate polish start_cbb76b19:
 
     # b "I mean I {i}wanted{/i} \ to stay, but I would've just collapsed if I didn't head home... "
 
-    b "Cała reszta jeszcze została, by uczcić nasz świetny występ... a ja musiałem ich zostawić. "
+    b "Wszyscy tam jeszcze zostali, świętując wspaniały występ, jaki udało się nam wykonać... \nA ja musiałem wrócić do domu. "
 
     b "Mam przez to na myśli, że bardzo {i}chciałem{/i} \ zostać, ale chyba bym tam zemdlał... "
 
@@ -136,9 +136,9 @@ translate polish start_2eb5e9db:
 
     # b "Still, seeing the excitement in everyone's faces warmed my heart. \nEven if I was only stage crew, I felt it too. "
 
-    b "No i po tym wszystkim, nie mogę poszwendać się z resztą ekipy...\nA tak ciężko pracowaliśmy na dzisiejszy wieczór. "
+    b "Po tym wszystkim co razem przeszliśmy, nie mogę poszwendać się z resztą ekipy...\nA tak ciężko pracowaliśmy na dzisiejszy wieczór. "
 
-    b "Mimo to widok ekscytacji na twarzach wszystkich, rozgrzał moje serce. \nNawet jeśli pracowałem tylko za sceną, mogłem to poczuć. "
+    b "Widok ekscytacji na twarzach wszystkich rozgrzał moje serce. \nMogłem to poczuć, nawet jeśli jestem tylko członkiem ekipy scenicznej. "
 
 
 
@@ -152,7 +152,7 @@ translate polish start_cc6cf19b:
 
     # b "Luckily, my bed is merely a few steps ahead of me... "
 
-    b "Gdybym tylko nie był tak zmęczony... Mógłbym teraz zasnąć w każdej chwili. "
+    b "Gdybym tylko nie był tak zmęczony... Czuję, że mógłbym zasnąć teraz na stojąco. "
 
     b "Na szczęście moje łóżko jest tylko kilka kroków ode mnie... "
 
@@ -178,7 +178,7 @@ translate polish start_b00429df:
 
     # b "I blink, trying to focus my tired eyes awake. "
 
-    b "Mrugam, próbując skupić zmęczone oczy. "
+    b "Mrugam, nie mogąc uwierzyć zmęczonym oczom. "
 
 
 
@@ -206,7 +206,7 @@ translate polish start_edabf58d:
 
     # b "Wha— What's happening? {w=0.5}Am I hallucinating? What the heck is this?! "
 
-    b "Co- co się dzieje? {w=0.5}Czy mam halucynację? Co to do diabła ma być?! "
+    b "Co- co się dzieje? {w=0.5}Czy mam halucynacje? Co to do cholery jest?! "
 
 
 
@@ -218,7 +218,7 @@ translate polish start_8e2b03de:
 
     # b "I lose my grip around my bag, letting it slip and hit the floor below with a THUD. "
 
-    b "Rozluźniam mimowolnie dłoń, pozwalając torbie wyślizgnąć się i wylądować z HUKIEM na podłodze."
+    b "Tracę uścisk w dłoni, upuszczając plecak, który ląduje z HUKIEM na podłodze."
 
 
 
@@ -246,7 +246,7 @@ translate polish start_af31c65b:
 
     voice voice_file.tig(1,1)
 
-    tig normal "\"Liao? Czy coś się stało? ...{w=0.5} Możesz mnie zobaczyć?\" "
+    tig normal "\"Liao? Czy coś się stało? ...{w=0.5}możesz mnie zobaczyć?\" "
 
 
 
