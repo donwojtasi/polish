@@ -4372,13 +4372,13 @@ translate polish week2_08_ce456d43:
     voice voice_file.randolph(5,24)
     randolph serious "\"Tak właściwie, to jest ich bardzo dużo. Niektórzy są źli, niektórzy dobrzy.\" "
     randolph serious "\"Czy w sumie, to samo nie tyczy się ludzi?\" "
-    randolph serious "\"Ale szczerze mówiąc, inni yaoguai są często irytujący.\" "
+    randolph serious "\"Ale, szczerze mówiąc, inni yaoguai są często irytujący.\" "
 
 # game/script/05_week2.rpy:1980
 translate polish week2_08_f5cc630b:
 
     # avt "\"Are yaoguai aggressive to each other?\" "
-    avt ""
+    avt "\"Czy yaouguai są agresywni wobec siebie nawzajem?\" "
 
 # game/script/05_week2.rpy:1982
 translate polish week2_08_24a93677:
@@ -4388,7 +4388,9 @@ translate polish week2_08_24a93677:
     # randolph serious "\"Most of us have a strong sense of territory, but it's pretty common for yaoguai to mingle within cities.\" "
     # randolph serious "\"Smarter yaoguai are the ones who have learnt to keep their business to themselves.\" "
     voice voice_file.randolph(5,25)
-    randolph serious ""
+    randolph serious "\"Cóż... yaoguai tego samego gatunku zazwyczaj żyją w zgodzie, zwykle jednak nie lubimy yaoguai innego gatunku.\" "
+    randolph serious "\"Większość z nas jest bardzo terytorialna, ale dość często różni yaoguai mieszkają w miastach.\" "
+    randolph serious "\"Mądrzejsi yaoguai to ci, którzy nauczyli się się trzymać język za zębami.\" "
 
 # game/script/05_week2.rpy:1984
 translate polish week2_08_6004f063:
@@ -4396,14 +4398,15 @@ translate polish week2_08_6004f063:
     # voice voice_file.randolph(5,26)
     # randolph serious "\"But the ones with ambition, are the ones who cause trouble... They're mostly taken care of by the gods and other, more powerful yaoguai.\" "
     voice voice_file.randolph(5,26)
-    randolph serious ""
+    randolph serious "\"Ale ci bardziej zawzięci, są tymi, którzy sprawiają kłopoty... Zajmują się nimi głównie bogowie i inni, bardziej potężni yaoguai.\" "
 
 # game/script/05_week2.rpy:1986
 translate polish week2_08_683137ba:
 
     # avt "\"They're... taken care of...\" "
     # avt "\"So, does that mean most yaoguai in the city are good?\" "
-    avt ""
+    avt "\"Zajmują... się nimi...\" "
+    avt "\"Czy to oznacza, że większość yaoguai z miasta jest dobrych?\" "
 
 # game/script/05_week2.rpy:1988
 translate polish week2_08_4ee24440:
@@ -4412,7 +4415,8 @@ translate polish week2_08_4ee24440:
     # randolph laugh "\"It depends on your perspective. To me, they just don't want any trouble.\" "
     # randolph laugh "\"Things don't always go that easy of course. Sometimes new ones are born, other times they might just come here to cause trouble. It's all maintained on a shifting balance.\" "
     voice voice_file.randolph(5,27)
-    randolph laugh ""
+    randolph laugh "\"Zależy jak na to spojrzysz. Jak dla mnie, po prostu nie chcą żadnych kłopotów.\" "
+    randolph laugh "\"Oczywiście nie zawsze jest to łatwe. Czasami rodzą się nowi, innym razem mogą tu po prostu przyjść, by sprawić kłopoty. Wszystko utrzymuje w ciągle zmieniającej się równowadze.\" "
 
 # game/script/05_week2.rpy:1990
 translate polish week2_08_019ed111:
@@ -4420,7 +4424,7 @@ translate polish week2_08_019ed111:
     # voice voice_file.randolph(5,28)
     # randolph laugh "\"But if something big happens... it's usually because of the temples.\" "
     voice voice_file.randolph(5,28)
-    randolph laugh ""
+    randolph laugh "\"Ale czasem, gdy wydarzy się coś wielkiego... to zazwyczaj z powodu świątyń.\" "
 
 # game/script/05_week2.rpy:1992
 translate polish week2_08_310e00c7:
@@ -4428,19 +4432,21 @@ translate polish week2_08_310e00c7:
     # b "I guess that's why some people still hold onto these traditional beliefs.\" "
     # b "People go to temples now for blessings of fortune, better luck, or just to pass their next exam...  "
     # b "I wonder if it's because of yaoguai we seek these things in life... or maybe it's just because of them we have these problems in the first place? "
-    b ""
+    b "Myślę, że to dlatego wielu ludzi wciąż kurczowo trzyma się tych tradycyjnych wierzeń. "
+    b "Ludzie chodzą do świątyni, prosząc o błogosławieństwo bogactwa, lepsze szczęście, albo by po prostu zdać kolejny egzamin... "
+    b "Zastanawiam się, czy to przez yaoguai szukamy w życiu tych rzeczy... a może to właśnie przez nich, w ogóle mamy te problemy? "
 
 # game/script/05_week2.rpy:1994
 translate polish week2_08_c17dcfbf:
 
     # b "Besides, I have a lot of questions I want to ask Randolph, but I don't know where to \nstart. "
-    b ""
+    b "Poza tym mam mnóstwo pytań, które chcę zadać Randolfowi, ale nie wiem od czego zacząć. "
 
 # game/script/05_week2.rpy:1996
 translate polish week2_08_0e907f14:
 
     # avt "\"So... Why did you chose to become an artist? You seem pretty unique for a yaoguai.\" "
-    avt ""
+    avt "Więc... Czemu postanowiłeś zostać artystą? Zdaje się, że jesteś dość wyjątkowy jak na yaoguai.\" "
 
 # game/script/05_week2.rpy:1998
 translate polish week2_08_26867d14:
@@ -4450,13 +4456,15 @@ translate polish week2_08_26867d14:
     # randolph laugh "\"At the time he needed an artist. I filled the bill.\" "
     # randolph laugh "\"It has been too long since then and the mask of the artist has become my own face.\" "
     voice voice_file.randolph(5,29)
-    randolph laugh ""
+    randolph laugh "\"To wszystko czysty przypadek. Ja tylko... pomagałem przyjacielowi.\" "
+    randolph laugh "\"Potrzebował wtedy artysty. Przydałem się jak znalazł.\" "
+    randolph laugh "\"Od tamtej pory minęło wiele czasu, a maska artysty stała się moją własną twarzą.\" "
 
 # game/script/05_week2.rpy:2000
 translate polish week2_08_17980100:
 
     # avt "\"Was this friend of yours a yaoguai as well?\" "
-    avt ""
+    avt "\"Czy ten twój przyjaciel też był yaoguai?\" "
 
 # game/script/05_week2.rpy:2002
 translate polish week2_08_37d2f264:
@@ -4464,13 +4472,13 @@ translate polish week2_08_37d2f264:
     # voice voice_file.randolph(5,30)
     # randolph laugh "\"Yes.\" "
     voice voice_file.randolph(5,30)
-    randolph laugh ""
+    randolph laugh "\"Tak.\" "
 
 # game/script/05_week2.rpy:2004
 translate polish week2_08_8be7d3ed:
 
     # avt "\"So you joined human society to help that friend? What happened to your old life?\" "
-    avt ""
+    avt "\"A więc dołączyłeś do ludzkiej społeczności, by pomóc temu przyjacielowi? Co się stało z twoim dawnym życiem?\" "
 
 # game/script/05_week2.rpy:2006
 translate polish week2_08_57208370:
@@ -4480,13 +4488,15 @@ translate polish week2_08_57208370:
     # randolph laugh "\"The energy I need is ...special, and I can get more by getting close to humans.\" "
     # randolph laugh "\"You could say there were mutual benefits between us.\" "
     voice voice_file.randolph(5,31)
-    randolph laugh ""
+    randolph laugh "\"Już wtedy żyłem pośród ludzi.\" "
+    randolph laugh "\"Energia, której potrzebuję jest... specyficzna, a mogę zdobyć jej więcej, zbliżając się do ludzi.\" "
+    randolph laugh "\"Można powiedzieć, że dawało nam to wzajemne korzyści.\" "
 
 # game/script/05_week2.rpy:2008
 translate polish week2_08_595a0b9c:
 
     # avt "\"Mutual benefits? What kind of benefits?\" "
-    avt ""
+    avt "\"Wzajemne korzyści? Niby jakie?\" "
 
 # game/script/05_week2.rpy:2010
 translate polish week2_08_c2a644b9:
@@ -4496,13 +4506,15 @@ translate polish week2_08_c2a644b9:
     # randolph wry "\"After all, I live by consuming the emotions of people...\" "
     # randolph wry "\"Ah, please don't worry. I am too full now to consider eating yours.\" "
     voice voice_file.randolph(5,32)
-    randolph wry ""
+    randolph wry "\"Żyjąc w ludzkim społeczeństwie, łatwiej mi pozyskać emocje w sposób bezpośredni.\" "
+    randolph wry "\"W końcu żyję, zjadając ludzkie emocje...\" "
+    randolph wry "\"Ach, nie martw się proszę. Jestem zbyt pełen, by nawet myśleć o zjedzeniu twoich.\" "
 
 # game/script/05_week2.rpy:2012
 translate polish week2_08_3d8e5d0b:
 
     # avt "\"Emotions?! I mean sure you can get a lot in the city... but isn't that more dangerous for you?\" "
-    avt ""
+    avt "\"Emocje?! Jestem pewien, że możesz dostać ich wiele w mieście... ale czy dla ciebie nie jest to bardziej niebezpieczne?\" "
 
 # game/script/05_week2.rpy:2014
 translate polish week2_08_80d4d761:
@@ -4511,13 +4523,14 @@ translate polish week2_08_80d4d761:
     # randolph laugh "\"I worried about it at the very beginning. However, other yaoguai won't bother you if you just live like a human.\" "
     # randolph laugh "\"Haha— Of course living like a human isn't easy.\" "
     voice voice_file.randolph(5,33)
-    randolph laugh ""
+    randolph laugh "\"Martwiłem się tym na samym początku. Jednak inni yaoguai nie będą wchodzić ci w drogę, jeśli żyjesz tak jak człowiek.\" "
+    randolph laugh "\"Haha- Oczywiście takie życie nie jest wcale łatwe.\" "
 
 # game/script/05_week2.rpy:2016
 translate polish week2_08_340caff1:
 
     # avt "\"I see... So, mind if I ask how you actually eat emotions?\" "
-    avt ""
+    avt "\"Rozumiem... Będziesz miał coś przeciwko, jeśli spytam, w jaki sposób tak właściwie zjadasz emocje?\" "
 
 # game/script/05_week2.rpy:2022
 translate polish week2_08_e1fa7c1d:
@@ -4525,7 +4538,7 @@ translate polish week2_08_e1fa7c1d:
     # voice voice_file.randolph(5,34)
     # randolph serious "\"Fan mail.\" "
     voice voice_file.randolph(5,34)
-    randolph serious ""
+    randolph serious "\"Poprzez wiadomości od fanów.\" "
 
 # game/script/05_week2.rpy:2026
 translate polish week2_08_31da37dc:
@@ -4533,13 +4546,13 @@ translate polish week2_08_31da37dc:
     # voice voice_file.lpdcat(5,83)
     # lpdcat pu "\"Wha—\" "
     voice voice_file.lpdcat(5,83)
-    lpdcat pu ""
+    lpdcat pu "\"Co-\" "
 
 # game/script/05_week2.rpy:2028
 translate polish week2_08_b8d58c73:
 
     # avt "\"Uhh... Sorry what?\" "
-    avt ""
+    avt "\"Yhh... Przepraszam, jak?\" "
 
 # game/script/05_week2.rpy:2030
 translate polish week2_08_a0fce1fc:
@@ -4548,13 +4561,14 @@ translate polish week2_08_a0fce1fc:
     # randolph serious "\"Fan mail. Strong emotions are attached to the letters from my readers. After all, for someone to write to you they must either adore or despise you very much.\" "
     # randolph serious "\"You know some people intimidate others by mailing knives?\" "
     voice voice_file.randolph(5,35)
-    randolph serious ""
+    randolph serious "\"Wiadomości od fanów. Silne emocje są zawarte w listach moich czytelników. Ostatecznie, aby ktoś napisał do ciebie, musi albo bardzo cię uwielbiać, albo tobą pogardzać.\" "
+    randolph serious "\"Wiesz, że niektórzy ludzie zastraszają innych wysyłając noże?\" "
 
 # game/script/05_week2.rpy:2032
 translate polish week2_08_a14f427d:
 
     # avt "\"...Seriously?\" "
-    avt ""
+    avt "\"...naprawdę?\" "
 
 # game/script/05_week2.rpy:2034
 translate polish week2_08_d09a8c7d:
@@ -4563,13 +4577,14 @@ translate polish week2_08_d09a8c7d:
     # randolph laugh "\"Haha, actually I've never seen one.\" "
     # randolph laugh "\"But I do receive a lot of messages. It's a smart way for me to live in the human community.\" "
     voice voice_file.randolph(5,36)
-    randolph laugh ""
+    randolph laugh "\"Haha, mnie to akurat nie spotkało.\" "
+    randolph laugh "\"Otrzymuję mnóstwo wiadomości. To sprytny sposób na życie w ludzkiej społeczności.\" "
 
 # game/script/05_week2.rpy:2036
 translate polish week2_08_be676bd1:
 
     # avt "\"Fan mail.... Unbelievable. So I guess your life is pretty good?\" "
-    avt ""
+    avt "\"Wiadomości od fanów... Niewiarygodne. Zgaduję, że całkiem dobrze ci się żyje?\" "
 
 # game/script/05_week2.rpy:2038
 translate polish week2_08_040901ac:
@@ -4579,13 +4594,15 @@ translate polish week2_08_040901ac:
     # randolph wry "\"I also have to take care of this possessed body, which means I still need food and a place to live.\" "
     # randolph "\"Honestly, living is pretty hard when you have to maintain your human life and yaoguai life simultaneously.\" "
     voice voice_file.randolph(5,37)
-    randolph wry ""
+    randolph wry "\"Jak już mówiłem, nie jest łatwo. Nikt nie wysyła wiadomości do nieznanego artysty i szybko zostaniesz zapomniany, jeśli nie publikujesz swych prac regularnie.\" "
+    randolph wry "\"Muszę też troszczyć się o ciało, które opętałem, a oznacza to, że potrzebuję jedzenia i miejsca do życia.\" "
+    randolph "\"Szczerze mówiąc, życie jest dość trudne, gdy musisz naprzemiennie utrzymać swoje życie jako człowiek i yaoguai.\" "
 
 # game/script/05_week2.rpy:2040
 translate polish week2_08_0d45e6d7:
 
     # avt "\"So you still need to work for money?\" "
-    avt ""
+    avt "\"Tak więc, wiąż musisz pracować dla pieniędzy?\" "
 
 # game/script/05_week2.rpy:2042
 translate polish week2_08_0801d8a6:
@@ -4593,13 +4610,13 @@ translate polish week2_08_0801d8a6:
     # voice voice_file.randolph(5,38)
     # randolph wry "\"A lot.\" "
     voice voice_file.randolph(5,38)
-    randolph wry ""
+    randolph wry "\"I to dużo.\" "
 
 # game/script/05_week2.rpy:2044
 translate polish week2_08_28c013be:
 
     # avt "\"...You don't sound like a yaoguai at all.\" "
-    avt ""
+    avt "\"...wcale nie brzmisz jak yaoguai.\" "
 
 # game/script/05_week2.rpy:2046
 translate polish week2_08_36bbb643:
@@ -4608,13 +4625,14 @@ translate polish week2_08_36bbb643:
     # randolph wry "\"Most yaoguai don't manage to make it in the city... This troubled world usually gets the better of them.\" "
     # randolph wry "\"Especially with how expensive it is to even live here... life is hard.\" "
     voice voice_file.randolph(5,39)
-    randolph wry ""
+    randolph wry "\"Większości yaoguai to się nie udaje... Ten pokręcony świat wygrywa z nimi tę walkę.\" "
+    randolph wry "\"Szczególnie patrząc jak drogo jest się tutaj utrzymać... Życie jest trudne.\" "
 
 # game/script/05_week2.rpy:2048
 translate polish week2_08_87efb91b:
 
     # avt "\"It's hard to imagine that even yaoguai have to work hard for a salary.\" "
-    avt ""
+    avt "\"Ciężko sobie wyobrazić, że nawet yaoguai musi ciężko pracować na swoją wypłatę.\" "
 
 # game/script/05_week2.rpy:2050
 translate polish week2_08_fc53fe63:
@@ -4624,13 +4642,15 @@ translate polish week2_08_fc53fe63:
     # randolph wry "\"Some yaoguai use their powers in this regard, but those who don't follow the rules are to be taken out by others... or gods for that matter.\" "
     # randolph wry "\"So I make a living by drawing, even if it isn't the best job.\" "
     voice voice_file.randolph(5,40)
-    randolph wry ""
+    randolph wry "\"Cóż, nie potrafię robić pieniędzy w żaden inny sposób.\" "
+    randolph wry "\"Niektórzy yaoguai używają swoich mocy w ten sposób, ale ci, którzy nie przestrzegają zasad, muszą być usunięci przez innych ... lub przez bogów.\" "
+    randolph wry "\"Zarabiam na życie rysując, ale nawet to nie jest najlepsza praca.\" "
 
 # game/script/05_week2.rpy:2052
 translate polish week2_08_e7f332a4:
 
     # avt "\"Artists aren't paid much?\" "
-    avt ""
+    avt "\"Artyści nie są dobrze opłacani?\" "
 
 # game/script/05_week2.rpy:2054
 translate polish week2_08_2650b6e2:
@@ -4639,7 +4659,8 @@ translate polish week2_08_2650b6e2:
     # randolph wry "\"My work is serialized so it's not that bad. However my salary depends on the popularity of the magazine, which isn't the best.\" "
     # randolph wry "\"I do freelancing as well but that's very... unstable.\" "
     voice voice_file.randolph(5,41)
-    randolph wry ""
+    randolph wry "\"Moja praca jest cykliczna, więc nie jest tak źle. Jednak moja pensja zależy od popularności magazynu, który nie jest najlepszy.\" "
+    randolph wry "\"Pracuję też czasem jako wolny strzelec, ale to nie jest zbyt... stabilne źródło dochodu.\" "
 
 # game/script/05_week2.rpy:2056
 translate polish week2_08_8754dd2f:
@@ -4650,13 +4671,16 @@ translate polish week2_08_8754dd2f:
     # randolph wry "\"Regardless, I can't just give up on my clients. I have my reputation to maintain.\" "
     # randolph wry "\"Not to mention that I never know when I'll get work to begin with.\" "
     voice voice_file.randolph(5,42)
-    randolph wry ""
+    randolph wry "\"Ciężko wyrobić stałą pensję.\" "
+    randolph wry "\"Nie każdy klient jest taki wspaniały. Nie odchodzi ich, ile muszę nad tym wszystkim pracować...\" "
+    randolph wry "\"Mimo to, nie mogę porzucić swoich klientów. Muszę utrzymać swoją renomę.\" "
+    randolph wry "\"Nie wspominając o tym, że nigdy nie wiem, kiedy dostanę jakąś nową robotę.\" "
 
 # game/script/05_week2.rpy:2058
 translate polish week2_08_5d065d36:
 
     # avt "\"I never thought that a yaoguai would have so much to complain about.\" "
-    avt ""
+    avt "\"Nie myślałem, że yaoguai może mieć aż tyle spraw do narzekania.\" "
 
 # game/script/05_week2.rpy:2060
 translate polish week2_08_8619f278:
@@ -4666,13 +4690,15 @@ translate polish week2_08_8619f278:
     # randolph wry "\"If I can't make it work I can just go back to my yaoguai life. Not everyone has that escape.\" "
     # randolph wry "\"But, I decided to take on the will of the person I possessed. I'm not just about to give up on that.\" "
     voice voice_file.randolph(5,43)
-    randolph wry ""
+    randolph wry "\"Haha- Istotnie. Bycie artystą nie jest łatwe. Ale która praca jest łatwa?\"  "
+    randolph wry "\"Jeśli sobie z tym nie poradzę, to zawsze mogę wrócić do bycia yaoguai. Nie każdy ma taką możliwość.\" "
+    randolph wry "\" Ale zdecydowałem, że zrobię to zgodnie z wolą osoby, którą opętałem. I nie zamierzam po prostu tego porzucić.\" "
 
 # game/script/05_week2.rpy:2062
 translate polish week2_08_f0850761:
 
     # avt "\"Their will? Does that mean his will was to become an artist?\" "
-    avt ""
+    avt "\"Z ich wolą? Czy to znaczy, że jego wolą było zostać artystą?\" "
 
 # game/script/05_week2.rpy:2064
 translate polish week2_08_86c797f6:
@@ -4680,20 +4706,21 @@ translate polish week2_08_86c797f6:
     # voice voice_file.randolph(5,44)
     # randolph laugh "\"Yes, mostly. It's not a big secret. Well really, it started a long time ago when...\" "
     voice voice_file.randolph(5,44)
-    randolph laugh ""
+    randolph laugh "\"Tak, głównie tak. To nie żaden sekret. Tak naprawdę, zaczęło się to dawno temu, gdy...\" "
 
 # game/script/05_week2.rpy:2073
 translate polish week2_08_1d480d58:
 
     # b "I listen to Randolph's stories. Mostly it's about his life as an artist, his struggles, his successes and failures. But nestled in there are tales and rumors from the yaoguai \nworld. "
     # b "You'd never think about it, but a yaoguai artist's view on life is really captivating. In what feels like moments the time has flown by. "
-    b ""
+    b "Zasłuchuję się opowieściach Randolfa. Głównie o jego życiu jako artysta, jego zmaganiach, jego sukcesach i porażkach. W tym wszystkim zagnieżdżone są opowieści i plotki ze świata yaoguai. "
+    b "Nie pomyślałbyś, że życie z perspektywy artysty yaoguai jest takie urzekające. W ciągu zaledwie kilku chwil, minęło mnóstwo czasu. "
 
 # game/script/05_week2.rpy:2075
 translate polish week2_08_c842efa6:
 
     # b "Randolph is startled when a stray glance leads him to the time displayed on a nearby television. "
-    b ""
+    b "Randolph jest zaskoczony, gdy omyłkowym spojrzeniem spogląda na czas wyświetlany w pobliskiej telewizji. "
 
 # game/script/05_week2.rpy:2082
 translate polish week2_08_7ce9a44a:
@@ -4701,13 +4728,13 @@ translate polish week2_08_7ce9a44a:
     # voice voice_file.randolph(5,45)
     # randolph wry "\"Oh, I'm so sorry. It's time for my appointment, I must leave you now.\" "
     voice voice_file.randolph(5,45)
-    randolph wry ""
+    randolph wry "\"Och, tak mi przykro. Już czas na moją wizytę, a więc muszę was teraz zostawić.\" "
 
 # game/script/05_week2.rpy:2084
 translate polish week2_08_f9aafd90:
 
     # avt "\"Ah, all right. I'm sorry that I've taken way too much of your time but thank you for speaking to me.\" "
-    avt ""
+    avt "\"Ach, no dobrze. Przepraszam, że zabrałem ci tak dużo czasu, ale dziękuję za to, że zechciałeś za mną porozmawiać.\" "
 
 # game/script/05_week2.rpy:2086
 translate polish week2_08_1b787041:
@@ -4716,13 +4743,14 @@ translate polish week2_08_1b787041:
     # randolph wry "\"It's okay. It was a rare opportunity to be able to converse with someone who can see and understand us yaoguai.\" "
     # randolph wry "\"So, hopefully we can meet again.\" "
     voice voice_file.randolph(5,46)
-    randolph wry ""
+    randolph wry "\"Nie ma sprawy. To była rzadka okazja, by móc podyskutować z kimś może zobaczyć i zrozumieć nas, yaoguai.\" "
+    randolph wry "\"To mam nadzieję, że się jeszcze zobaczymy.\" "
 
 # game/script/05_week2.rpy:2088
 translate polish week2_08_bda409b0:
 
     # avt "\"Agreed. Goodbye for now.\" "
-    avt ""
+    avt "\"Pewnie. Na razie.\" "
 
 # game/script/05_week2.rpy:2090
 translate polish week2_08_59f68eed:
@@ -4730,13 +4758,13 @@ translate polish week2_08_59f68eed:
     # voice voice_file.randolph(5,47)
     # randolph laugh "\"See you~\" "
     voice voice_file.randolph(5,47)
-    randolph laugh ""
+    randolph laugh "\"Do zobaczenia~\" "
 
 # game/script/05_week2.rpy:2094
 translate polish week2_08_9cfd5f3f:
 
     # b "As we watch Randolph leave, Senpai is already back on his phone.\" "
-    b ""
+    b "Gdy widzimy jak Randolf wychodzi, Senpai jest już z powrotem bawi się swoim telefonem.\" "
 
 # game/script/05_week2.rpy:2101
 translate polish week2_08_c8ee3325:
@@ -4744,20 +4772,21 @@ translate polish week2_08_c8ee3325:
     # voice voice_file.lpdcat(5,84)
     # lpdcat cute "\"Hey Liao? We just skipped a lecture you know.\" "
     voice voice_file.lpdcat(5,84)
-    lpdcat cute ""
+    lpdcat cute "\"Hej Liao? Wiesz, że właśnie ominęliśmy wykład.\" "
 
 # game/script/05_week2.rpy:2107
 translate polish week2_08_dc756fde:
 
     # avt "\"What!\" " with hshake
-    avt "" with hshake
+    avt "\"Co!\" " with hshake
 
 # game/script/05_week2.rpy:2111
 translate polish week2_08_7c01149b:
 
     # b "Shocked, I take a quick look at the time... "
     # b "We were talking for ages! Not only has our lunch break ended, but our lecture is almost over as well... "
-    b ""
+    b "Zszokowany, spoglądam szybko na cza... "
+    b "Rozmawialiśmy całe wieki! Nie tylko nasza przerwa śniadaniowa się skończyła, ale nasz wykład też dobiega końca... "
 
 # game/script/05_week2.rpy:2115
 translate polish week2_08_dc5d48b5:
@@ -4765,43 +4794,44 @@ translate polish week2_08_dc5d48b5:
     # voice voice_file.lpdcat(5,85)
     # lpdcat laugh "\"Ehh, it's fine. That class doesn't mark the roll anyways~\" "
     voice voice_file.lpdcat(5,85)
-    lpdcat laugh ""
+    lpdcat laugh "\"Echh, a co tam. Ten jeden wykład nie robi różnicy~\" "
 
 # game/script/05_week2.rpy:2117
 translate polish week2_08_8f9ebde7:
 
     # avt "\"Hey, that's not the point! You may not care about lectures but don't lump me in with you!\" "
-    avt ""
+    avt "\"Hej, nie o to chodzi! Może i nie odchodzą cię wykłady, ale nie wrzucaj mnie do jednego worka!\" "
 
 # game/script/05_week2.rpy:2119
 translate polish week2_08_324bb068:
 
     # b "But he's right, it doesn't really matter. What else can I do? "
     # b "We decide to wait it out till our next class as I sit there in the cafeteria with Randolph's stories and advice still on my mind... "
-    b ""
+    b "Ale ma rację, to nic nie zmienia. Co jeszcze mogę zrobić? "
+    b "Postanawiamy poczekać na nasze kolejne zajęcia, a ja siedząc na stołówce rozmyślam nad historiami i radami Randolfa... "
 
 translate polish strings:
 
     # old "\"Buy the computer history book for Tiger?\""
     old "是否要幫虎爺買書？"
-    new ""
+    new "\"Kupić książkę o historii komputerów dla Tygrysa?\" "
 
     # old "Buy it. It'll be a nice gift for him."
     old "買"
-    new ""
+    new "Kupię ją. To będzie fajny prezent dla niego."
 
     # old "Don't buy it. It's not worth the cost."
     old "不買"
-    new ""
+    new "Nie kupię jej. Nie jest warta swojej ceny."
 
     # old "Should I ask Dad about my powers?"
     old "要不要向阿爸問虎爺的事？"
-    new ""
+    new "Czy powinienem zapytać tatę o moich mocach?"
 
     # old "I might as well ask."
     old "還是問比較安心。"
-    new ""
+    new "W sumie czemu nie."
 
     # old "No. I shouldn't talk about this with Dad."
     old "不要，我一點都不想跟家裡扯上關係。"
-    new ""
+    new "Nie. Nie powinienem rozmawiać o tym z tatą."
