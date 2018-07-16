@@ -94,7 +94,7 @@ translate polish start_c80771cd:
 
     b "Boże, jestem tak zmęczony od kiedy skończyliśmy. Nie mam pojęcia, co we mnie wstąpiło. "
 
-    b "Stoję tam i zamykam na chwilę oczy...{w=0.5} są zbyt ciężkie, by je otworzyć. Więc na razie, nie będę... "
+    b "Stoję tam i zamykam na chwilę oczy...{w=0.5} Są zbyt ciężkie, by je otworzyć.\nWięc na razie, nie będę... "
 
 
 
@@ -106,7 +106,7 @@ translate polish start_4f25f75b:
 
     # b "Maybe I'm just stressing over this too much? "
 
-    b "Może po prostu za bardzo się tym stresuję? "
+    b "Może po prostu za bardzo się tym przejmuję? "
 
 
 
@@ -120,9 +120,9 @@ translate polish start_cbb76b19:
 
     # b "I mean I {i}wanted{/i} \ to stay, but I would've just collapsed if I didn't head home... "
 
-    b "Reszta na pewno jeszcze została, by uczcić nasz świetny występ... a ja musiałem ich zostawić. "
+    b "Cała reszta jeszcze została, by uczcić nasz świetny występ... a ja musiałem ich zostawić. "
 
-    b "To jest tak, że {i}chciałem{/i} \ zostać, ale chyba bym tam zemdlał... "
+    b "Mam przez to na myśli, że bardzo {i}chciałem{/i} \ zostać, ale chyba bym tam zemdlał... "
 
 
 
@@ -136,7 +136,7 @@ translate polish start_2eb5e9db:
 
     # b "Still, seeing the excitement in everyone's faces warmed my heart. \nEven if I was only stage crew, I felt it too. "
 
-    b "I kiedy wszystko zostało już powiedziane i zrobione, nie mogę poszwendać się z resztą ekipy... Pracowaliśmy tak ciężko na dzisiejszy wieczór. "
+    b "No i po tym wszystkim, nie mogę poszwendać się z resztą ekipy...\nA tak ciężko pracowaliśmy na dzisiejszy wieczór. "
 
     b "Mimo to widok ekscytacji na twarzach wszystkich, rozgrzał moje serce. \nNawet jeśli pracowałem tylko za sceną, mogłem to poczuć. "
 

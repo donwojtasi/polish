@@ -16,11 +16,11 @@ translate polish strings:
 
     # old "Voice"
     old "語音"
-    new "Głos"
+    new "Głosy"
 
     # old "Speed"
     old "文字速度"
-    new "Prędkość tekstu"
+    new "Prędkość"
 
     # old "Slow"
     old "慢"
@@ -28,7 +28,7 @@ translate polish strings:
 
     # old "Normal"
     old "一般"
-    new "Normalna"
+    new "Zwykła"
 
     # old "Fast"
     old "快"
@@ -52,11 +52,11 @@ translate polish strings:
 
     # old "Windowed"
     old "視窗"
-    new "Okno"
+    new "W oknie"
 
     # old "Full screen"
     old "全螢幕"
-    new "Pełny ekran"
+    new "Pełen ekran"
 
     # old "Language"
     old "語系選擇"

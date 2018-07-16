@@ -52,7 +52,7 @@ translate polish strings:
 
     # old "Ctrl: Fast forward (Except unread dialogue)"
     old "Ctrl：劇情快轉(第一次觀看時無效)"
-    new "Control: Przewijanie (poza nieprzeczytanym tekstem)"
+    new "Ctrl: Przewijanie (poza nieprzeczytanym tekstem)"
 
     # old "Yes"
     old "是"
@@ -92,7 +92,7 @@ translate polish strings:
 
     # old "Home"
     old "回主選單"
-    new "Ekran główny"
+    new "Menu główne"
 
     # screen/splashscreen.rpy:16
     old "家  有  大  貓  製  作  委  員  會"
