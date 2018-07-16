@@ -10,7 +10,7 @@ translate polish strings:
 
     old "[[　敬告　]"
 
-    new "{font=tl/polish/NotoSans-Regular.ttf}คำเตือน{/font}"
+    new "{font=tl/polish/NotoSans-Regular.ttf}BĄDŹ ŚWIADOM{/font}"
 
 
 
@@ -18,7 +18,7 @@ translate polish strings:
 
     old "本程式為數位小說《家有大貓》的限定版，含有成人限定內容，包括表現性行為的圖像、文字。"
 
-    new "โปรแกรมนี้คือรูปแบบจำกัดอายุของ \"Nekojishi\" หรือ \"บ้านนี้มีแมวใหญ่\" ซึ่งมีเนื้อหาไม่เหมาะสมที่อาจจะ\nเป็นภาพ ข้อความ หรืออื่น ๆ ที่เกี่ยวกับกิจกรรมทางเพศ จะต้องใช้วิจารณญาณในการรับชม เป็นโปรแกรม\nที่มีไว้สำหรับผู้บรรลุนิติภาวะแล้วเท่านั้น"
+    new "Ten program to ograniczona wiekowo wersja visual novel \"Nekojishi\". Zawiera treści skierowane jedynie do osób dorosłych, włącznie z grafikami i tekstem, które opisują czynności seksualne."
 
 
 
@@ -26,7 +26,7 @@ translate polish strings:
 
     old "點擊「我確認」代表您確認："
 
-    new "หากคุณกดปุ่ม \"ยืนยัน\" แสดงว่าคุณรับทราบ และปฏิบัติตามแล้ว ถึงสิ่งต่าง ๆ และเงื่อนไขดังต่อไปนี้:"
+    new "Klikając \"Potwierdzam\" potwierdzasz że:"
 
 
 
@@ -34,7 +34,7 @@ translate polish strings:
 
     old "您已年滿18歲。"
 
-    new "๑. คุณมีอายุ ๑๘ ปีบริบูรณ์หรือมากกว่า"
+    new "— masz ukończone 18 lat,"
 
 
 
@@ -42,7 +42,7 @@ translate polish strings:
 
     old "您了解本程式含有上述成人向內容。"
 
-    new "๒. คุณรับทราบ และเข้าใจ ว่าโปรแกรมนี้มีเนื้อหาไม่เหมาะสม และรับชมได้เพียงผู้บรรลุนิติภาวะแล้วเท่านั้น โดยมีรายละเอียดดังที่ได้กล่าวไว้ข้างต้น"
+    new "— uznajesz, że ten program zawiera materiały dla osób dorosłych, jak wymieniono powyżej,"
 
 
 
@@ -50,7 +50,7 @@ translate polish strings:
 
     old "私自傳播本程式可能會違反您所在國家/地區的法律。"
 
-    new "๓. คุณเข้าใจว่าการเผยแพร่โปรแกรมนี้ ไม่ว่าจะอย่างเปิดเผย หรืออย่างเป็นการส่วนตัว อาจจะละเมิด หรือ\nผิดกฎหมายในพื้นที่ที่คุณอาศัยอยู่ได้"
+    new "— nieautoryzowana redystrybucja tego oprogramowania może łamać prawo twojego kraju,\n      bądź regionu,"
 
 
 
@@ -58,7 +58,7 @@ translate polish strings:
 
     old "我確認"
 
-    new "ยืนยัน"
+    new "Potwierdzam"
 
 
 
@@ -66,5 +66,5 @@ translate polish strings:
 
     old "關閉程式"
 
-    new "ปิดโปรแกรม"
+    new "Zamknij program"
 
