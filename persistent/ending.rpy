@@ -4,11 +4,11 @@ translate polish strings:
 
     # old "It's Hard to Retreat"
     old "知難而退"
-    new "Bolesne rozstanie"
+    new "Tak ciężko przebaczać"
 
     # old "In the Name of the City God"
     old "城隍退敵"
-    new "W imieniu boga miasta"
+    new "W imię Boga miasta"
 
     # old "A Return to the Ordinary"
     old "回歸平凡"
@@ -16,12 +16,12 @@ translate polish strings:
 
     # old "It Won't Hurt for Too Long"
     old "不會痛太久"
-    new "To nie poboli...\nza wiele"
+    new "Nie będzie bolało..."
 
     # old "A Day Trip to Wutai"
     old "小小霧台行"
-    new "Ucieczka w plener"
+    new "Dzień w Wutai"
 
     # old "To Never Meet Again"
     old "選擇不再見面"
-    new "Ostanie widzenie"
+    new "Ostatnie spotkanie"

@@ -4,7 +4,7 @@ translate polish strings:
 
     # old "Guardian Tiger"
     old " 虎爺 "
-    new "Tygrys-Stróż"
+    new "Tygrysi strażnik"
 
     # old "Jitong"
     old "乩童"
@@ -20,7 +20,7 @@ translate polish strings:
 
     # old "Possessing Rit..."
     old "起乩"
-    new "Rytułał opętania"
+    new "Rytuał opętania"
 
     # old "Oracle's Misfo..."
     old "五弊三缺"
@@ -36,7 +36,7 @@ translate polish strings:
 
     # old "Wutai"
     old "霧台"
-    new "Wutaj"
+    new "Wutai"
 
     # old "Lou Mei"
     old "滷味"
@@ -44,7 +44,7 @@ translate polish strings:
 
     # old "Leopard Cat"
     old " 石虎 "
-    new "Kot bengalski"
+    new "Kotek bengalski"
 
     # old "Fudegong"
     old "福德"
@@ -60,11 +60,11 @@ translate polish strings:
 
     # old "Spirit Path"
     old "靈道"
-    new "Ścieżki dusz"
+    new "Duchowa ścieżka"
 
     # old "Chi"
     old "氣"
-    new "Qi"
+    new "Chi"
 
     # old "Yaoguai"
     old "精怪"
@@ -72,7 +72,7 @@ translate polish strings:
 
     # old "Spirit Mediums"
     old "魯凱祭司"
-    new "Media dusz"
+    new "Duchowe media"
 
     # old "Kochapongane"
     old "好茶"
@@ -92,7 +92,7 @@ translate polish strings:
 
     # old "Suckling Pig"
     old "烤乳豬"
-    new "Prosię z rożna"
+    new "Pieczone prosię"
 
     # old "Old Street"
     old "老街美食"
@@ -100,19 +100,19 @@ translate polish strings:
 
     # old "Orthodox God"
     old "正神"
-    new "Bóstwo Prawe"
+    new "Prawy Bóg"
 
     # old "Clairvoyant..."
     old "千里眼順風耳"
-    new "Jasnozmysły"
+    new "Jasnowidzący..."
 
     # old "Tung Blossom..."
     old "客家桐花季"
-    new "Tung Forda"
+    new "Kwitnące Tung..."
 
     # old "Grand Tree Lord"
     old "樹王公"
-    new "Bóg Drzew"
+    new "Władca Drzew"
 
     # old "Guanyin"
     old "觀音"
@@ -124,7 +124,7 @@ translate polish strings:
 
     # old "The Chief God"
     old "主神"
-    new "Bóg Wyższy"
+    new "Wyższy Bóg"
 
     # old "Emperor Wen..."
     old "文昌帝君"
@@ -148,11 +148,11 @@ translate polish strings:
 
     # old "Xia-Hai City God"
     old "霞海城隍"
-    new "Kaplica Xia-Hai"
+    new "Bóg Xia-Hai"
 
     # old "Mountain God..."
     old "山神土地公"
-    new "Bóg Gleby"
+    new "Górski Bóg..."
 
     # old "Fuxing Towns..."
     old "桃園復興鄉"

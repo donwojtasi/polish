@@ -8,16 +8,16 @@ translate polish strings:
 
     # old "Replay"
     old "觀看劇情"
-    new "Odtwórz"
+    new "Powtórz"
 
     # old "Ending Review - Guardian Tiger"
     old "結局回顧 - 虎爺"
-    new "Podsumowanie - Tygrys-Stróż"
+    new "Podsumowanie - Tygrysi Strażnik"
 
     # old "Ending Review - Clouded Leopard"
     old "結局回顧 - 雲豹"
-    new "Podsumowanie - Pantera mglista"
+    new "Podsumowanie - Mglista Pantera"
 
     # old "Ending Review - Leopard Cat"
     old "結局回顧 - 石虎"
-    new "Podsumowanie - Kot bengalski"
+    new "Podsumowanie - Kotek Bengalski"

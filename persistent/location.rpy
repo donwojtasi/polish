@@ -8,7 +8,7 @@ translate polish strings:
 
     # old "Liao's Apartment"
     old "房間"
-    new "Mieszkanie Liao"
+    new "Pokój Liao"
 
     # old "Liao's Bathroom"
     old "浴室"
@@ -24,11 +24,11 @@ translate polish strings:
 
     # old "Mirror Wall"
     old "鏡牆"
-    new "Dance-club"
+    new "Ściana luster"
 
     # old "Private Bath"
     old "湯屋"
-    new "Łaźnia"
+    new "Prywatna łaźnia"
 
     # old "Old Street"
     old "老街"
@@ -56,11 +56,11 @@ translate polish strings:
 
     # old "Lawn"
     old "山間空地"
-    new "Podwórze"
+    new "Polana"
 
     # old "Tung Lawn"
     old "桐花空地"
-    new "Tung Forda"
+    new "Polana drzew Tung"
 
     # old "Bookstore"
     old "書城"
@@ -76,7 +76,7 @@ translate polish strings:
 
     # old "Country Road"
     old "鄉間街道"
-    new "Szosa"
+    new "Wiejska droga"
 
     # old "Woods"
     old "樹林"
@@ -84,7 +84,7 @@ translate polish strings:
 
     # old "Arcade"
     old "地下遊樂場"
-    new "Arcade"
+    new "Salon Arcade"
 
     # old "Dihua Street"
     old "迪化街"

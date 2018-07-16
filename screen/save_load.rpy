@@ -4,15 +4,15 @@ translate polish strings:
 
     # old "20%y.%m.%d/%H:%M:%S"
     old "20%y年%m月%d日/%H:%M:%S"
-    new "20%y.%m.%d/%H:%M:%S"
+    new "%d.%m.20%y/%H:%M:%S"
 
     # old "Auto Save"
     old "自動存檔"
-    new "Auto-zapis"
+    new "Autozapis"
 
     # old "Empty"
     old "空白"
-    new "Pusty"
+    new "Pusto"
 
     # old "Save"
     old "儲存"
@@ -20,7 +20,7 @@ translate polish strings:
 
     # old "Load"
     old "讀取"
-    new "Ładuj"
+    new "Wczytaj"
 
     # old "Delete"
     old "刪除"

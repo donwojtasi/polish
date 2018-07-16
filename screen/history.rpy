@@ -4,4 +4,4 @@ translate polish strings:
 
     # old "Log"
     old "歷史訊息"
-    new "Poprzednie dialogi"
+    new "Historia dialogów"

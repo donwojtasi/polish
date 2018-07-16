@@ -24,11 +24,11 @@ translate polish strings:
 
     # old "Epilogue"
     old "特典故事"
-    new ""
+    new "Epilog"
 
     # old "About"
     old "關於"
-    new "Informacje"
+    new "O grze"
 
     # old "Hide UI"
     old "隱藏介面"
@@ -36,7 +36,7 @@ translate polish strings:
 
     # old "Instructions"
     old "操作說明"
-    new "Instrukcje"
+    new "Jak grać"
 
     # old "Left Mouse: Select/Advance dialogue"
     old "滑鼠左鍵：控制選項/對話前進"
@@ -64,7 +64,7 @@ translate polish strings:
 
     # old "Autoplay"
     old "自動播放"
-    new "Auto-tekst"
+    new "Autogra"
 
     # old "Skip"
     old "快速跳過"
@@ -80,7 +80,7 @@ translate polish strings:
 
     # old "Save/Load"
     old "記錄"
-    new "Zapisz/Ładuj"
+    new "Zapisz/Wczytaj"
 
     # old "Glossary"
     old "註釋"

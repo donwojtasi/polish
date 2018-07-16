@@ -10,7 +10,7 @@ translate polish strings:
 
     old "[[　敬告　]"
 
-    new "{font=tl/polish/NotoSans-Regular.ttf}BĄDŹ ŚWIADOM{/font}"
+    new "{font=tl/polish/NotoSans-Bold.ttf}BĄDŹ ŚWIADOM{/font}"
 
 
 
@@ -26,7 +26,7 @@ translate polish strings:
 
     old "點擊「我確認」代表您確認："
 
-    new "Klikając \"Potwierdzam\" potwierdzasz że:"
+    new "Klikając \"Potwierdzam\", potwierdzasz że:"
 
 
 
@@ -50,7 +50,7 @@ translate polish strings:
 
     old "私自傳播本程式可能會違反您所在國家/地區的法律。"
 
-    new "— nieautoryzowana redystrybucja tego oprogramowania może łamać prawo twojego kraju,\n      bądź regionu,"
+    new "— masz świadomość, że nieautoryzowana redystrybucja tego oprogramowania może łamać prawo twojego kraju, bądź regionu."
 
 
 
