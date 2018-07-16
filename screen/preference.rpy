@@ -16,7 +16,7 @@ translate polish strings:
 
     # old "Voice"
     old "語音"
-    new ""
+    new "Głos"
 
     # old "Speed"
     old "文字速度"

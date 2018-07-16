@@ -16,7 +16,7 @@ translate polish strings:
 
     # old "Cafeteria"
     old "食堂"
-    new "Kantyna"
+    new "Kafeteria"
 
     # old "Classroom"
     old "教室"
@@ -24,7 +24,7 @@ translate polish strings:
 
     # old "Mirror Wall"
     old "鏡牆"
-    new "Danceclub"
+    new "Dance-club"
 
     # old "Private Bath"
     old "湯屋"
@@ -60,7 +60,7 @@ translate polish strings:
 
     # old "Tung Lawn"
     old "桐花空地"
-    new "Kwieciste podwórze"
+    new "Tung Forda"
 
     # old "Bookstore"
     old "書城"

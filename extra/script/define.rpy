@@ -4,8 +4,8 @@ translate polish strings:
 
     # old "Random Dude"
     old "路人"
-    new ""
+    new "Typek"
 
     # old "Grandpa"
     old "老大爺"
-    new ""
+    new "Dziadek"

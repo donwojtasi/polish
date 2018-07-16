@@ -10,7 +10,7 @@ translate polish start_22088c7d:
 
     # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath... "
 
-    avt "Wyczerpany i zdyszany, ciężkim krokiem wdrapuje się po schodach do mojego pokoju. "
+    b "Wyczerpany i zdyszany, ciężkim krokiem wdrapuje się po schodach do mojego pokoju. "
 
 
 
@@ -1614,7 +1614,7 @@ translate polish start_48da1423:
 
     # b "Oh wow! He's got cute little pink paw pads too! \n(He looks grumpy though.) "
 
-    b "Oj jej! Ma też różowe poduszeczki na łapach! \n(Mimo to wygląda zrzędliwie.) "
+    b "Oj jej! Ma też różowe poduszeczki na łapach! \n(Mimo to wygląda gburowato.) "
 
 
 
@@ -2526,7 +2526,7 @@ translate polish start_0103f86d:
 
     # b "This can't be right! Senpai's definitely human! "
 
-    b "To niemożliwe! Senpai jest przecież człowiekiem! "
+    b "To niemożliwe! Senpai na pewno jest człowiekiem! "
 
 
 
@@ -2540,7 +2540,7 @@ translate polish start_e8e07219:
 
     # b "If someone at school was a beast-man, there'd be mayhem over it! "
 
-    b "Gość stojący przede mną jest podobnego wzrostu i tej samej drobnej budowy co Senpai... ale jestem pewien, że Senpai nie jest kotem! "
+    b "Gość stojący przede mną jest podobnego wzrostu i tej samej drobnej budowy, co Senpai... ale jestem pewien, że Senpai nie jest kotem! "
 
     b "Jeśli ktokolwiek taki pojawiłby się w szkole, byłaby z tego niezła afera! "
 
@@ -3696,9 +3696,9 @@ translate polish start_e77b298e:
 
     # avt "\"Even if you all are adorable beast-men, you can't...\" "
 
-    avt "\"Nie zmienię zdania w tej sprawie. A więc proszę, możecie mnie wszyscy zostawić samego?\" "
+    avt "\"Nie zmienię zdania w tej sprawie. Więc proszę, czy możecie mnie wszyscy zostawić samego?\" "
 
-    avt "\"Nawet jeśli jesteście uroczymi zwierzoludźmi, nie możecie...\" "
+    avt "\"Nawet, jeśli jesteście uroczymi zwierzoludźmi, nie możecie...\" "
 
 
 
@@ -4368,7 +4368,7 @@ translate polish start_ead5aeed:
 
     # b "What did I do to deserve all this! "
 
-    b "Co jest z nimi nie tak? Zwierzoludzie są uroczy, ale że tak wszyscy naraz wpadli do mojego życia, to trochę dla mnie za dużo! "
+    b "Co jest z nimi nie tak? Zwierzoludzie są uroczy, ale to, że oni wszyscy od tak wpadli do mojego życia, to dla mnie trochę za dużo! "
 
     b "Czym sobie na to zasłużyłem! "
 
@@ -4510,7 +4510,7 @@ translate polish start_2104e9da:
 
     # b "It's not that I don't want to help them, but it's not like I can just up and agree to change my life for these guys! "
 
-    b "To nie tak, że nie chcę im pomóc, ale też nie mogę po prostu zgodzić się na zmianę całego swojego życia dla tych gości! "
+    b "To nie tak, że nie chcę im pomóc, ale nie mogę zmienić dla tych gości całego swojego życia! "
 
 
 
@@ -4522,7 +4522,7 @@ translate polish start_fa4b7cc6:
 
     # b "No. I have to get rid of them. By any means necessary. Even if they are adorable beast-men! "
 
-    b "Nie. Muszę się ich pozbyć. Za wszelką cenę. Nawet jeśli są uroczymi zwierzoludami. "
+    b "Nie. Muszę się ich pozbyć. Za wszelką cenę. Nawet jeśli są uroczymi zwierzoludźmi! "
 
 
 
@@ -4534,7 +4534,7 @@ translate polish start_d0068105:
 
     # b "With the warm water helping collect my thoughts, I finally decide to kick them out. "
 
-    b "Dzięki ciepłej wodzie pomagającej zebrać myśli, w końcu decyduję się ich wyrzucić."
+    b "Ciepła woda pomaga mi zebrać myśli, a ja w końcu decyduję się ich stąd wyrzucić. "
 
 
 
@@ -5494,7 +5494,7 @@ translate polish start_c4309168:
 
     # b "So, even though I couldn't see it before, this whole time I've been sleeping in the same bed as a big tiger-man? Should I be happy? "
 
-    b "Nawet jeśli nie mogłem tego wcześniej zobaczyć, cały ten czas spałem w tym samym łóżku z człekopodobnym tygrysem? Powinienem się cieszyć? "
+    b "Nawet jeśli nie mogłem tego wcześniej zobaczyć, cały ten czas spałem w tym samym łóżku z wielkim człekopodobnym tygrysem? Powinienem się cieszyć? "
 
 
 

@@ -1385,7 +1385,7 @@ translate polish cg_lpd_end_f4d028d3:
 translate polish cg_lpd_end_6cf3d3e8:
 
     # b "Apparently they were brewed locally in a nearby village and fermented with a traditional process involving {font=tl/None/NotoSansCJKtc-Bold.otf}red quinoa{/font}. "
-    b "Podobno wyprodukowano je w pobliskiej wiosce, w oparciu o tradycyjne metody fermentacji za pomocą {font=tl/None/NotoSans-SemiCondensedBold.ttf}czerwonej komosy{/font}."
+    b "Podobno wyprodukowano je w pobliskiej wiosce, w oparciu o tradycyjne metody fermentacji za pomocą {font=tl/polish/NotoSansCJKpl-Bold.ttf}czerwonej komosy{/font}."
 
 # game/script/ending.rpy:859
 translate polish cg_lpd_end_3477d766:
@@ -1404,7 +1404,7 @@ translate polish cg_lpd_end_aa054492:
 
     # voice voice_file.lpd("18E",1)
     # lpd normal "\"Yes. {font=tl/None/NotoSansCJKtc-Bold.otf}Millet wine{/font} only, favourite.\" "
-    lpd normal "Tak. {font=tl/None/NotoSans-SemiCondensedBold.ttf}Wino jaglane{/font} tylko, ulubione.\""
+    lpd normal "Tak. {font=tl/polish/NotoSansCJKpl-Bold.ttf}Wino jaglane{/font} tylko, ulubione.\""
 
 # game/script/ending.rpy:869
 translate polish cg_lpd_end_87ce7448:

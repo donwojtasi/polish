@@ -4,26 +4,27 @@
 translate polish furry_con_5e2a44d2:
 
     # b "Before me, all I could hear was the clamouring of a thousand voices filling the air, and the dull thuds of thousand more footsteps resonating with the solid floor below. The atmosphere was energetic, alive, and honestly—{w=0.5} there were just a lot of people here. "
-    b ""
+    b "Przed sobą słyszę mamrot tysięcy głosów, pod sobą - stukot tysięcy butów. Atmosfera była przepełniona energią, żywa, co nie było wcale dziwne. Na sali było {i}mnóstwo{/i} ludzi."
 
 # game/extra/script/script.rpy:13
 translate polish furry_con_f3d1bd07:
 
     # b "Once we entered the convention, I started to notice the change in disposition evident across Lin Hu's face— seemingly thoroughly displeased in some manner by the situation before him. "
-    b ""
+    b "Kiedy przybyłem na miejsce dostrzegłem zmianę na twarzy Lin Hu, wskazującą na jego głęboką niechęć do zaistniałej sytuacji."
 
 # game/extra/script/script.rpy:15
 translate polish furry_con_1b7322ba:
 
     # b "Clearly his discomfort is noticed—and somewhat caused—by the people around us. \nNo one speaks to him, content to watch on as his eyes anxiously dart around the myriad of people in the crowd around him. "
     # b "Admittedly, Lin Hu doesn't give off the friendliest impression when it comes to dealing with groups of strangers. "
-    b ""
+    b "Jego dyskomfort jest zauważany przez osoby w pobliżu; rozumieją, że to oni sami mogą być tego powodem, dlatego nie odzywają się do niego. Dla nich jest on tylko atrakcyjnym widokiem."
+    b "Widocznie nie sprawia on wrażenia najbardziej przyjacielskiego wśród obcych..."
 
 # game/extra/script/script.rpy:17
 translate polish furry_con_23ccd88a:
 
     # b "...Which isn't necessarily a bad thing. I mean, at least it's keeping the crowd from swarming us. "
-    b ""
+    b "...Co nie jest złe. Dzięki temu tłum daje nam chociaż odrobinę spokoju..."
 
 # game/extra/script/script.rpy:19
 translate polish furry_con_563a8bad:
@@ -31,46 +32,49 @@ translate polish furry_con_563a8bad:
     # b "That is to say, the two of us definitely stood out amongst the people lined up. "
     # b "I'm thankful that the queue lines are single-file. It's a convenient logistical barrier that has prevented anyone from coming near the uneasy tiger-man... so far. "
     # b "However, it wasn't long before we entered the convention hall proper. \nAs a result, there was no such luxurious protection to be had. "
-    b ""
+    b "Nie ma co - nasza dwójka zdecydowanie wyróżnia się spośród wszystkich zgromadzonych w kolejce."
+    b "Dobrze, że wszyscy stoją jeden za drugim. Takie ustawienie znacznie utrudnia podejście do nas... a w szczególności do poddenerwowanego Tygrysa, chociaż na tę chwilę."
+    b "Wkrótce znaleźliśmy się w głównej hali, dlatego utraciliśmy naszą małą \"ochronę.\" "
 
 # game/extra/script/script.rpy:25
 translate polish furry_con_3d9b6194:
 
     # tig_e frown "\"......\" "
-    tig_e frown ""
+    tig_e frown "\"......\" "
 
 # game/extra/script/script.rpy:28
 translate polish furry_con_a9ec8249:
 
     # voice voice_file.tig("18S",1)
     # tig_e embarrassed "\"Quite... for there to be so many!\" "
-    tig_e embarrassed ""
+    tig_e embarrassed "\"Całkiem... żeby było ich tak wiele!\""
 
 # game/extra/script/script.rpy:30
 translate polish furry_con_673b94d1:
 
     # avt "\"Now-now, you're just scaring everyone away.\" "
-    avt ""
+    avt "\"Spokojnie, wszystkich spłoszysz!\""
 
 # game/extra/script/script.rpy:35
 translate polish furry_con_7af0b4bb:
 
     # voice voice_file.tig("18S",2)
     # tig_e embarrassed "\"But to have so many people looking upon me.\" "
-    tig_e embarrassed ""
+    tig_e embarrassed "\"Ale żeby oglądało mnie aż tak wielu? Nie mogę tego znieść...\""
 
 # game/extra/script/script.rpy:37
 translate polish furry_con_cef8302b:
 
     # avt "\"Mm-hmm, yeah, you're pretty tall after all. \nOf course you're going to stand out.\" "
-    avt ""
+    avt "\"Nic dziwnego! Z twoim wzrostem nie ma mowy, abyś się nie wyróżniał.\""
 
 # game/extra/script/script.rpy:44
 translate polish furry_con_bc21ce0e:
 
     # b "Honestly, by most people's standards Lin Hu's massive— his well-built body towering well up to two metres tall. "
     # b "Granted, to me he's still a beast-man. Who knows what everyone else is seeing right now. "
-    b ""
+    b "Ciężko uznać jego olbrzymią budowę za mieszczącą się w pojęciu \"standardu.\" Nie na co dzień widuje się osoby wzrostu 2 metrów z kawałkiem!"
+    b "Dla mnie to wciąż ten sam tygrys... Ale jak widzą go inni?"
 
 # game/extra/script/script.rpy:46
 translate polish furry_con_69d25463:
@@ -78,7 +82,9 @@ translate polish furry_con_69d25463:
     # b "After all, I posses the power of the Yin-Yang Eyes. Just as perceive Lin Hu's god form, my senpai just happens to be leopard cat beast-man. "
     # b "Although, in Senpai's case I still know what he looks like as a human. \nThe same can't be said for Lin Hu... "
     # b "...I wonder what he'd look like as a human? "
-    b ""
+    b "Dzięki mocy oczu Yin-Yang mogę postrzegać go w jego prawdziwej formie, zupełnie tak samo jak Kota."
+    b "Yan Shu-Chi wprawdzie posiada formę ludzką, która w jego wypadku {i}jest{/i} normą... sytuacja Lin Hu wygląda znacznie inaczej."
+    b "Ciekawi mnie jak wygląda jego ludzka postać..."
 
 # game/extra/script/script.rpy:48
 translate polish furry_con_7132989e:
@@ -86,153 +92,157 @@ translate polish furry_con_7132989e:
     # b "Hmm... If I had to guess, I'd picture him as a middle-aged man with a strong, angular, stubbled visage. Then again, I could be completely wrong. "
     # b "Maybe he's actually got a baby-face with a giant... \nI-I mean, a giant guy with a baby face. "
     # b "Pfft— A baby-face... okay now {i}really{/i} \ want to know what he looks like. "
-    b ""
+    b "Hmm... Gdybym miał zgadywać to wyobraziłbym go sobie jako faceta w średnim wieku o silnej, ostro zarysowanej i szorstko zarośniętej twarzy. Ale to wcale nie musi się zgadzać z rzeczywistością."
+    b "Równie dobrze mógłby mieć twarz bobasa z gigantycznym... {i}g-gigantyczną{/i} figurą!"
+    b "To nie ma najmniejszego sensu... Twarz niemowlaka... Na nim? Teraz muszę wiedzieć jak wygląda!"  
 
 # game/extra/script/script.rpy:52
 translate polish furry_con_2662abd0:
 
     # b "Not that I'm complaining. After all, as a beast-man he's definitely my type. "
-    b ""
+    b "Nie żeby mi przeszkadzała jego obecna postać - jest zdecydowanie na tak."
 
 # game/extra/script/script.rpy:54
 translate polish furry_con_06d482a1:
 
     # b "He's pretty well-dressed today... I never imagined a denim shirt would suit him so well! (Who could blame all the guys staring at him.) "
-    b ""
+    b "Dzisiaj ubrał się wyjątkowo... Nigdy nie myślałem, że dżinsowa koszula będzie tak do niego pasować!"
 
 # game/extra/script/script.rpy:56
 translate polish furry_con_b67f5d07:
 
     # voice voice_file.tig("18S",3)
     # tig_e embarrassed "\"To have a real body is a rare occurrence... \nI needn't waste this chance being stared at.\" "
-    tig_e embarrassed ""
+    tig_e embarrassed "\"Inkarnacja jest niezwykle rzadką i cenną okazją. Szkoda by ją zmarnować dla tych gapiów...\""
 
 # game/extra/script/script.rpy:58
 translate polish furry_con_c93b74f5:
 
     # avt "\"It just means people like you. Now how is that a bad thing?\" "
-    avt ""
+    avt "\"To tylko świadczy o twojej popularności. To źle?\""
 
 # game/extra/script/script.rpy:60
 translate polish furry_con_819a4a3b:
 
     # voice voice_file.tig("18S",4)
     # tig_e embarrassed "\"But...\" "
-    tig_e embarrassed ""
+    tig_e embarrassed "\"Ale...\""
 
 # game/extra/script/script.rpy:67
 translate polish furry_con_87824b1d:
 
     # voice voice_file.tig("18S",5)
     # tig_e normal "\"I want to spend time with you, hand in hand.\" "
-    tig_e normal ""
+    tig_e normal "\"Wolałbym bardziej... intymnie spędzić z tobą trochę czasu - dłoń w dłoń, jeśli można.\""
 
 # game/extra/script/script.rpy:69
 translate polish furry_con_a5e22029:
 
     # voice voice_file.tig("18S",6)
     # tig_e normal "\"If I were to do that, surely, would you not be embarrassed by all the attention upon \nus?\" "
-    tig_e normal ""
+    tig_e normal "\"Gdybym tak uczynił, domyślam się, że nie zawstydziłaby ciebie atencja zgromadzona wokół nas?\""
 
 # game/extra/script/script.rpy:71
 translate polish furry_con_9907757c:
 
     # avt "\"...Um, maybe.\" "
-    avt ""
+    avt "\"...Chyba?\""
 
 # game/extra/script/script.rpy:73
 translate polish furry_con_25609e6b:
 
     # b "The thought makes me anxious. Which isn't to say I disagree with doing that.... \nIt's just... "
-    b ""
+    b "Denerwuję się na samą myśl o tym. Nie, żebym się z tym jednak nie godził..."
 
 # game/extra/script/script.rpy:75
 translate polish furry_con_93b9e73b:
 
     # avt "\"Alright, let me put it this way. Isn't this a chance to show-off?\" "
-    avt ""
+    avt "\"Powiedz mi wprost. Czy to szansa na popis?\""
 
 # game/extra/script/script.rpy:77
 translate polish furry_con_268ab8ac:
 
     # b "If this is the only chance I get to hold hands with Lin Hu, \nI'm not about to let it pass me by! "
-    b ""
+    b "Jeśli to ma być nasza jedyna szansa na potrzymanie rąk to nie ma mowy, że spasuję!"
 
 # game/extra/script/script.rpy:79
 translate polish furry_con_0ce8c743:
 
     # avt "\"Let's do it. There's nothing more I want then to be able to show off my handsome boyfriend.\" "
-    avt ""
+    avt "\"Śmiało. Nie chcę nic więcej niż tylko popisać się moim przystojnym chłopakiem.\""
 
 # game/extra/script/script.rpy:81
 translate polish furry_con_47257602:
 
     # tig_e embarrassed "\"......\" "
-    tig_e embarrassed ""
+    tig_e embarrassed "\"......\""
 
 # game/extra/script/script.rpy:83
 translate polish furry_con_13b538ef:
 
     # b "He rubs his nose shyly. "
-    b ""
+    b "Nieśmiało pociera sobie nos."
 
 # game/extra/script/script.rpy:88
 translate polish furry_con_7b8fb3a8:
 
     # voice voice_file.tig("18S",7)
     # tig_e laugh_2 "\"Certainly. Then let's give them a show to remember.\" "
-    tig_e laugh_2 ""
+    tig_e laugh_2 "\"Z pewnością. Dajmy im pokaz, którego nigdy nie zapomną!\""
 
 # game/extra/script/script.rpy:93
 translate polish furry_con_984b1a45:
 
     # b "Within the next moment Lin Hu takes hold of my hand, leans down, and kisses me tenderly on the forehead. "
-    b ""
+    b "W następnej chwili Lin Hu chwyta moją dłoń, pochyla się i czule całuje mnie w czoło."
 
 # game/extra/script/script.rpy:96
 translate polish furry_con_05547c8b:
 
     # b "A muffled squeal sounds from the nearby crowd... \n(Someone's going to mention this online, aren't they?) "
-    b ""
+    b "Z tłumu wyłania się przytłumiony pisk... (To {i}musiało{/i} trafić do internetu...)"
 
 # game/extra/script/script.rpy:98
 translate polish furry_con_27aafe88:
 
     # b "Whelp— I'll be fine, as long as no one from dance club finds out. \nAs far as I know, none of them are into furry stuff anyways. "
-    b ""
+    b "Cóż, jakoś to będzie - do momentu gdy ktoś z klubu tego nie odkopie... Większość z nich antro nie kręci."
 
 # game/extra/script/script.rpy:102
 translate polish furry_con_9997d33e:
 
     # b "My attention returns to Lin Hu, his warm hands held within mine— to me, they're giant fuzzy paws. "
-    b ""
+    b "Moja uwaga powraca do Lin Hu i jego ciepłych dłoni, objętych moimi - dla mnie to i tak wielkie, włochate łapy."
 
 # game/extra/script/script.rpy:104
 translate polish furry_con_9aaba90d:
 
     # b "When I think about it, I've barely ever held Lin Hu's paws. "
     # b "I mean, it'd be weird to do so at home and it's not like I can exactly do so while out and about— I'd just be grabbing thin air. "
-    b ""
+    b "Jakby o tym nie pomyśleć, mało kiedy trzymaliśmy się za ręce."
+    b "Dziwnie byłoby tak chodzić po domu, a na zewnątrz mógłbym mieć problem z wyjaśnieniem kwestii chwytania pustego powietrza."
 
 # game/extra/script/script.rpy:106
 translate polish furry_con_0f497e3f:
 
     # b "My feelings swirl around as I run my fingers across the bottom of his palm. His fingers squeezing tightly around mine. "
     # b "It's calming in a way that reaches right into the depths of my heart. "
-    b ""
+    b "Moje uczucia wirują kiedy przesuwam moje palce wzdłuż jego dłoni, ciągle obejmującej moją czułym uciskiem."
+    b "Wprawia mnie to w poczucie błogiego pokoju."
 
 # game/extra/script/script.rpy:115
 translate polish furry_con_9a5323ee:
 
     # voice voice_file.lpdcat("18S",1)
     # lpdcat_e surprise_1 "\"Waaagh— You meanies!\" "
-    lpdcat_e surprise_1 ""
+    lpdcat_e surprise_1 "\"Waaaa! Jak możecie!\""
 
 # game/extra/script/script.rpy:117
 translate polish furry_con_d31c2d7b:
 
     # b "As if out of nowhere, Senpai rushes out from the crowd. "
-    b ""
+    b "Zupełnie "
 
 # game/extra/script/script.rpy:124
 translate polish furry_con_4203df32:

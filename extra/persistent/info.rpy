@@ -4,16 +4,16 @@ translate polish strings:
 
     # old "Fursuit"
     old "毛裝"
-    new ""
+    new "Fursuit"
 
     # old "Incarnation"
     old "受肉"
-    new ""
+    new "Wcielenie"
 
     # old "Handler"
     old "助手"
-    new ""
+    new "Pomocnik"
 
     # old "Implement"
     old "法器"
-    new ""
+    new "Implementacja"

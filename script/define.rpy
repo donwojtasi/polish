@@ -4,15 +4,15 @@ translate polish strings:
 
     # old "Guardian Tiger"
     old "虎爺"
-    new "Tygrys-Stróż"
+    new "Tygrysi Strażnik"
 
     # old "Clouded Leopard"
     old "雲豹"
-    new "Pantera mglista"
+    new "Mglista Pantera"
     
     # old "Leopard Cat"
     old "石虎"
-    new "Kot bengalski"
+    new "Kotek bengalski"
 
     # old "Liao"
     old "阿遼"
@@ -28,11 +28,11 @@ translate polish strings:
 
     # old "Lizard-Man"
     old "蜥蜴人"
-    new "Człowiek-jaszczur"
+    new "Jaszczuroczłek"
 
     # old "Hynos"
     old "修諾司"
-    new "Hinos"
+    new "Hynos"
 
     # old "？？？"
     old "？？？"
@@ -40,11 +40,11 @@ translate polish strings:
 
     # old "Ragoo"
     old "拉古"
-    new "Ragu"
+    new "Ragoo"
 
     # old "Lecturer"
     old "老師"
-    new "Wykładowca"
+    new "Nauczyciel"
 
     # old "Jiahao"
     old "家豪"
@@ -52,11 +52,11 @@ translate polish strings:
 
     # old "Club Leader"
     old "社長"
-    new "Członek klubu"
+    new "Lider Klubu"
 
     # old "Clubmate"
     old "社員"
-    new "Znajomy z klubu"
+    new "Kolega z klubu"
 
     # old "Phone"
     old "手機"

@@ -100,7 +100,7 @@ translate polish strings:
 
     # old "Orthodox God"
     old "正神"
-    new "Bóg prawowierny"
+    new "Bóstwo Prawe"
 
     # old "Clairvoyant..."
     old "千里眼順風耳"
@@ -128,11 +128,11 @@ translate polish strings:
 
     # old "Emperor Wen..."
     old "文昌帝君"
-    new "Cesarz Wenchang"
+    new "Wenchang"
 
     # old "The Jade Emp..."
     old "玉皇大帝"
-    new "Jadeitowy Cesarz"
+    new "Tian Gong"
 
     # old "Princess Baleng"
     old "巴冷公主"
@@ -144,7 +144,7 @@ translate polish strings:
 
     # old "City God's Twe..."
     old "城隍十二司"
-    new "Boska Dwunastka"
+    new "Boża Dwunastka"
 
     # old "Xia-Hai City God"
     old "霞海城隍"
