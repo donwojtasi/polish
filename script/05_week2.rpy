@@ -1312,7 +1312,7 @@ translate polish week2_04_c1364bf4:
     # voice voice_file.lpd(5,13)
     # lpd normal "\"{font=tl/None/NotoSansCJKtc-Bold.otf}Kochapongane{/font}. {font=tl/None/NotoSansCJKtc-Bold.otf}Kongadavange{/font}.\" "
     voice voice_file.lpd(5,13)
-    lpd normal "\"{font=tl/None/NotoSansCJKpl-Bold.ttf}Kochapongane{/font}. {font=tl/None/NotoSansCJKpl-Bold.ttf}Kongadavange{/font}.\" "
+    lpd normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kochapongane{/font}. {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kongadavange{/font}.\" "
 
 # game/script/05_week2.rpy:582
 translate polish week2_04_3e619e11:
@@ -1650,7 +1650,7 @@ translate polish week2_06_ask_b4f8992a:
     # voice voice_file.father(5,17)
     # phone "\"It's almost {font=tl/None/NotoSansCJKtc-Bold.otf}Ching Ming{/font}. You have a break then, right? You should come back if you \ndo.\" "
     voice voice_file.father(5,17)
-    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "Już prawie czas na {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 # game/script/05_week2.rpy:734
 translate polish week2_06_ask_eae9dc4c:
@@ -2164,7 +2164,7 @@ translate polish week2_06_dontask_b4f8992a:
     # voice  voice_file.father(5,17)
     # phone "\"It's almost {font=tl/None/NotoSansCJKtc-Bold.otf}Ching Ming{/font}. Do you have a break then? You should come back if you do.\" "
     voice  voice_file.father(5,17)
-    phone "Już prawie czas na {font=tl/None/NotoSansCJKpl-Bold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "Już prawie czas na {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 # game/script/05_week2.rpy:928
 translate polish week2_06_dontask_eae9dc4c:
@@ -2628,7 +2628,7 @@ translate polish week2_07_1c1d4e55:
 translate polish week2_07_c394f498:
 
     # b "Theres some {font=tl/None/NotoSansCJKtc-Bold.otf}wild boar sausages{/font}... Leopard is currently staring at them. "
-    b "Są tutaj na przykład {font=tl/None/NotoSansCJKpl-Bold.ttf}kiełbaski z dzika{/font}... Pantera się teraz w nie wpatruje. "
+    b "Są tutaj na przykład {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kiełbaski z dzika{/font}... Pantera się teraz w nie wpatruje. "
 
 # game/script/05_week2.rpy:1164
 translate polish week2_07_ae4d4e59:
@@ -2642,7 +2642,7 @@ translate polish week2_07_ae4d4e59:
 translate polish week2_07_d48e6fe4:
 
     # b "Tiger is drawn towards the {font=tl/None/NotoSansCJKtc-Bold.otf}roast suckling pig{/font}, which has been prepared into tiny meat cubes right at the shop. "
-    b "Tygrysa przyciągnęło {font=tl/None/NotoSansCJKpl-Bold.ttf}pieczone prosię{/font}, które było poszatkowane w małe mięsne kosteczki tuż przed sklepem. "
+    b "Tygrysa przyciągnęło {font=tl/polish/NotoSans-SemiCondensedBold.ttf}pieczone prosię{/font}, które było poszatkowane w małe mięsne kosteczki tuż przed sklepem. "
 
 # game/script/05_week2.rpy:1183
 translate polish week2_07_cda0e5ed:
@@ -3710,7 +3710,7 @@ translate polish week2_08_8d172ab8:
 translate polish week2_08_33e3ac3f:
 
     # b "On our way back through the old street. I bought some {font=tl/None/NotoSansCJKtc-Bold.otf}hot spring eggs{/font} that Tiger requested. I also end up buying a box of {font=tl/None/NotoSansCJKtc-Bold.otf}millet mochi{/font} for Leopard. "
-    b "Wracamy przez tę samą ulicę. Kupiłem jeszcze trochę {font=tl/None/NotoSansCJKpl-Bold.ttf}jajek gotowanych w gorącym źródle{/font} o które prosił mnie Tygrys. No i pudełko {font=tl/None/NotoSansCJKpl-Bold.ttf}jaglanych mochi{/font} dla Pantery. "
+    b "Wracamy przez tę samą ulicę. Kupiłem jeszcze trochę {font=tl/polish/NotoSans-SemiCondensedBold.ttf}jajek gotowanych w gorącym źródle{/font} o które prosił mnie Tygrys. No i pudełko {font=tl/polish/NotoSans-SemiCondensedBold.ttf}jaglanych mochi{/font} dla Pantery. "
 
 # game/script/05_week2.rpy:1683
 translate polish week2_08_7c55a397:
@@ -4155,7 +4155,7 @@ translate polish week2_08_281c2ee2:
     # randolph serious "\"It doesn't seem to have been such a bad thing if you became an {font=tl/None/NotoSansCJKtc-Bold.otf}orthodox god{/font} out of it.\" "
     # randolph serious "\"However, you just mentioned something about rejuvenating the temple, so I guess your god of soil is losing his power?\" "
     voice voice_file.randolph(5,14)
-    randolph serious "\"To nie wydaje się być takie złe, jeśli dzięki temu stałeś się {font=tl/None/NotoSansCJKpl-Bold.ttf}ortodoksyjnym bogiem{/font}.\" "
+    randolph serious "\"To nie wydaje się być takie złe, jeśli dzięki temu stałeś się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}ortodoksyjnym bogiem{/font}.\" "
     randolph serious "\"Jednakże, przed chwilą wspominaliście coś o odnowieniu świątyni, a więc oznacza to, że twój bóg ziemi traci swoją moc?\"  "
 
 # game/script/05_week2.rpy:1889

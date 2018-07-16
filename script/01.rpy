@@ -288,7 +288,7 @@ translate polish start_e46d3cda:
 
     voice voice_file.tig(1,2)
 
-    tig frown "\"To niegrzeczne z twej strony pytać \"czym\" ja jestem. Jestem w końcu {font=tl/None/NotoSansCJKpl-Bold.ttf}Tygrysim opiekunem{/font} twojej rodziny.\" "
+    tig frown "\"To niegrzeczne z twej strony pytać \"czym\" ja jestem. Jestem w końcu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Tygrysim opiekunem{/font} twojej rodziny.\" "
 
     tig frown "\"Hmm... nie poznajesz mnie, prawda?\" "
 
@@ -320,7 +320,7 @@ translate polish start_37a13961:
 
     b "Cóż... {w=0.5}Mamy tygrysiego opiekuna w naszej rodzinie. W sumie... {w=0.5}powinienem powiedzieć 'opiekunów'. "
 
-    b "W końcu urodziłem się w rodzinie {font=tl/None/NotoSansCJKpl-Bold.ttf}Jitong{/font}. "
+    b "W końcu urodziłem się w rodzinie {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jitong{/font}. "
 
     b "Mimo to nie spodziewałem się, że naprawdę jakiegoś zobaczę! "
 
@@ -1024,7 +1024,7 @@ translate polish start_ac8935d0:
 
     voice voice_file.tig(1,20)
 
-    tig normal "\"Poza tym, jestem bogiem. A jeśli zdarzy się coś, z czym sobie nie poradzę, możemy szukać pomocy u {font=tl/None/NotoSansCJKpl-Bold.ttf}Miejskiego Boga{/font}, a nawet {font=tl/None/NotoSansCJKpl-Bold.ttf}Świętej Matki{/font} w naszej świątyni.\" "
+    tig normal "\"Poza tym, jestem bogiem. A jeśli zdarzy się coś, z czym sobie nie poradzę, możemy szukać pomocy u {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Miejskiego Boga{/font}, a nawet {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Świętej Matki{/font} w naszej świątyni.\" "
 
     tig normal "\"Nie ma nic, z czym nie poradziłaby sobie ta dwójka.\" "
 
@@ -1056,7 +1056,7 @@ translate polish start_0147c0e6:
 
     voice voice_file.tig(1,21)
 
-    tig laugh_1 "\"Mimo to, wielu ludzi pogardza {font=tl/None/NotoSansCJKpl-Bold.ttf}rytuałem opętania{/font}, który pozwala się z nimi skontaktować...\" "
+    tig laugh_1 "\"Mimo to, wielu ludzi pogardza {font=tl/polish/NotoSans-SemiCondensedBold.ttf}rytuałem opętania{/font}, który pozwala się z nimi skontaktować...\" "
 
     tig laugh_1 "\"Nawet jeśli nie wyglądasz na wyznawcę, to jest ktoś, kto wciąż może prosić ich o błogosławieństwo ochrony.\" "
 
@@ -1098,7 +1098,7 @@ translate polish start_4ce7442c:
 
     # b "Also, I wonder why people wouldn't want to be possessed... Could the tales of the {font=tl/None/NotoSansCJKtc-Bold.otf}Oracle's Misfortune{/font} be true? "
 
-    b "Zastanawiam się, czemu ludzie nie chcę być opętani... Czy opowieści o {font=tl/None/NotoSansCJKpl-Bold.ttf}'Proroczym Pechu'{/font} są prawdziwe? "
+    b "Zastanawiam się, czemu ludzie nie chcę być opętani... Czy opowieści o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}'Proroczym Pechu'{/font} są prawdziwe? "
 
 
 
@@ -1438,7 +1438,7 @@ translate polish start_d8819113:
 
     voice voice_file.lpd(1,7)
 
-    lpd normal "\"{font=tl/None/NotoSansCJKpl-Bold.ttf}Rukai{/font}.\" "
+    lpd normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Rukai{/font}.\" "
 
 
 
@@ -1522,7 +1522,7 @@ translate polish start_177eecf2:
 
     voice voice_file.lpd(1,10)
 
-    lpd normal "\"{font=tl/None/NotoSansCJKpl-Bold.ttf}Aidridringane{/font} pozwolić mi przyprowadzić dużo duchów na...\" "
+    lpd normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Aidridringane{/font} pozwolić mi przyprowadzić dużo duchów na...\" "
 
 
 
@@ -1734,7 +1734,7 @@ translate polish start_2cd2b655:
 
     voice voice_file.lpd(1,14)
 
-    lpd normal "\"{font=tl/None/NotoSansCJKpl-Bold.ttf}Wutai{/font}.\" "
+    lpd normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Wutai{/font}.\" "
 
 
 
@@ -2438,7 +2438,7 @@ translate polish start_2b54dc00:
 
     voice voice_file.lpdcat(1,5)
 
-    senpai "\"Liao, już jestem~ Przyniosłem ci trochę {font=tl/None/NotoSansCJKpl-Bold.ttf}Lou mei{/font}. Pomyślałem, że ci się spodoba, nie?\" "
+    senpai "\"Liao, już jestem~ Przyniosłem ci trochę {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Lou mei{/font}. Pomyślałem, że ci się spodoba, nie?\" "
 
 
 
@@ -2662,7 +2662,7 @@ translate polish start_edcd2773:
 
     voice voice_file.lpdcat(1,10)
 
-    lpdcat serious "\"Nie, jestem {font=tl/None/NotoSansCJKpl-Bold.ttf}kotem bengalskim{/font}. Nawet jeśli nazwa zawiera słowo {i}kot{/i}, to nie mam nic wspólnego ze zwykłymi, domowymi kotami.\" "
+    lpdcat serious "\"Nie, jestem {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kotem bengalskim{/font}. Nawet jeśli nazwa zawiera słowo {i}kot{/i}, to nie mam nic wspólnego ze zwykłymi, domowymi kotami.\" "
 
 
 
@@ -3024,7 +3024,7 @@ translate polish start_bf2c4258:
 
     voice voice_file.lpdcat(1,22)
 
-    lpdcat serious "\"Rzadko widzi się, by kot bengalski był tygrysim strażnikiem, ale nim jestem. Jeśli masz jakieś wątpliwości, zapytaj mojego {font=tl/None/NotoSansCJKpl-Bold.ttf}Fudegong'a{/font}, a nie mnie.\" "
+    lpdcat serious "\"Rzadko widzi się, by kot bengalski był tygrysim strażnikiem, ale nim jestem. Jeśli masz jakieś wątpliwości, zapytaj mojego {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fudegong'a{/font}, a nie mnie.\" "
 
     lpdcat serious "\"Poza tym to nie tak, że sam się na to pisałem...\" "
 

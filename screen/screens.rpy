@@ -98,34 +98,10 @@ translate polish strings:
     old "家  有  大  貓  製  作  委  員  會"
     new "{font=tl/None/NotoSansCJKtc-Regular.otf}家  有  大  貓  製  作  委  員  會{/font}"
 
-    # screen/splashscreen_r18_warning.rpy:17
-    old "[[　敬告　]{/font}"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}[[　敬告　]{/font}"
+    # screen/screens.rpy:286
+    old "限定版"
+    new "Edycja limitowana"
 
-    # screen/splashscreen_r18_warning.rpy:22
-    old "本程式為數位小說《家有大貓》的限定版，含有成人限定內容，包括表現性行為的圖像、文字。"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}本程式為數位小說《家有大貓》的限定版，含有成人限定內容，包括表現性行為的圖像、文字。{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:23
-    old "點擊「我確認」代表您確認：{/font}"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}點擊「我確認」代表您確認：{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:24
-    old "您已年滿18歲。"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}您已年滿18歲。{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:25
-    old "您了解本程式含有上述成人向內容。"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}您了解本程式含有上述成人向內容。{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:26
-    old "私自傳播本程式可能會違反您所在國家/地區的法律。"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}私自傳播本程式可能會違反您所在國家/地區的法律。{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:56
-    old "我確認"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}我確認{/font}"
-
-    # screen/splashscreen_r18_warning.rpy:72
-    old "關閉程式"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}關閉程式{/font}"
+    # screen/screens.rpy:293
+    old "標準版"
+    new "Edycja zwykła"

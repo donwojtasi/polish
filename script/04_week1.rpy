@@ -2857,7 +2857,7 @@ translate polish cg_02_0bd93811:
 translate polish cg_02_041bc88e:
 
     # avt "\"So there's someone who needs to talk to you? Ok... I understand. So you need a person who can communicate with the spirits. Like, an {font=tl/None/NotoSansCJKtc-Bold.otf}oracle{/font}?\" "
-    avt "\"A więc jest ktoś, kto musi z tobą porozmawiać? Dobrze... Rozumiem. Potrzebujesz osoby, która komunikuje się z duchami. Coś w stylu {font=tl/None/NotoSansCJKpl-Bold.ttf}proroka{/font}?\" "
+    avt "\"A więc jest ktoś, kto musi z tobą porozmawiać? Dobrze... Rozumiem. Potrzebujesz osoby, która komunikuje się z duchami. Coś w stylu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}proroka{/font}?\" "
 
 # game/script/04_week1.rpy:1375
 translate polish cg_02_510dddff:
