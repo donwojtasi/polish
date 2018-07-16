@@ -4826,7 +4826,7 @@ translate polish strings:
 
     # old "Should I ask Dad about my powers?"
     old "要不要向阿爸問虎爺的事？"
-    new "Czy powinienem zapytać tatę o moich mocach?"
+    new "Czy powinienem zapytać tatę o moje moce?"
 
     # old "I might as well ask."
     old "還是問比較安心。"
