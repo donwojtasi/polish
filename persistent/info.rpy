@@ -16,7 +16,7 @@ translate polish strings:
 
     # old "Holy Mother"
     old "聖母娘娘"
-    new "Bogini Mazu"
+    new "Święta Matka"
 
     # old "Possessing Rit..."
     old "起乩"

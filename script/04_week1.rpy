@@ -5609,7 +5609,7 @@ translate polish week1_sunday_lpdcat_home_a1c4b0a4:
 translate polish week1_sunday_lpdcat_home_781b668b:
 
     # b "...Ignoring Senpai's protests, I spend the whole Sunday, lazing around, sleeping, daydreaming, and surfing the net... "
-    b "...Ignorując protesty Senpai'a, spędzam całą niedzielę leniuchując, śpiąc, marząc i przeglądając internet... "
+    b "...Ignorując komentarze Senpai'a, spędzam całą niedzielę leniuchując, śpiąc, marząc i przeglądając internet... "
 
 translate polish strings:
 
