@@ -1226,7 +1226,7 @@ translate polish start_8f74640e:
 
     b "Najpierw tygrysi strażnik stalker, a teraz pukająca do drzwi Pantera?! "
 
-    b "Najwyraźniej te zmęczenie sprawiło, że mam omamy... "
+    b "Musiałem dostać omamów od tego zmęczenia... "
 
 
 
@@ -1506,7 +1506,7 @@ translate polish start_32e9e7c5:
 
     # avt "\"So you are here to...\" "
 
-    avt "\"A więc jesteś tu by...\" "
+    avt "\"A jesteś tu by...\" "
 
 
 
@@ -1534,7 +1534,7 @@ translate polish start_39385a16:
 
     # b "He looks around for a moment, and then points to the leaflet on my bed. It's the schedule of today's performance. "
 
-    b "Rozgląda się przez chwilę wokoło, a następnie wskazuje na ulotkę leżącą na moim łóżku. To plan dzisiejszego występu. "
+    b "Rozgląda się przez chwilę wokoło, a następnie wskazuje na ulotkę leżącą na moim łóżku.\nTo plan dzisiejszego występu. "
 
 
 
@@ -1654,7 +1654,7 @@ translate polish start_8a277340:
 
     # b "So, does that mean... he's the one that awakened my spirit powers? "
 
-    b "Innymi słowy... to on obudził moją duchową moc? "
+    b "Czy to oznacza że... to on obudził moją duchową moc? "
 
 
 
@@ -1706,7 +1706,7 @@ translate polish start_b3a5f399:
 
     # b "So he awakened my powers because he wanted my help, that makes sense so far... \n(I have a bad feeling about this.) "
 
-    b "A więc on obudził moje moce, ponieważ chciał mojej pomocy, na razie ma to sens... \n(Mam co do tego złe przeczucia.) "
+    b "A więc to on jest za to odpowiedzialny, bo chciał mojej pomocy, na razie ma to sens... \n(Mam co do tego złe przeczucia.) "
 
 
 
@@ -1760,9 +1760,9 @@ translate polish start_479cb204:
 
     # b "Which means what he's saying makes sense... but that doesn't change the face that Pingtung is on the completely opposite side of Taiwan! "
 
-    b "Wutai... Te miejsce pojawiło się podczas research'u, który robiliśmy na potrzeby występu. Jeśli dobrze pamiętam, to ludność Rukai mieszka w Wutai. "
+    b "Wutai... Czekaj, te miejsce pojawiło się, gdy szukaliśmy informacji na potrzeby występu.\nJeśli dobrze pamiętam, to ludność Rukai rzeczywiście mieszka w Wutai. "
 
-    b "Oznacza to, że mówi sensownie... Nie zmienia to jednak faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
+    b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to jednak faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
 
 
 
@@ -1774,7 +1774,7 @@ translate polish start_3341c5c3:
 
     # b "And I don't even know what he wants me for! Why should I even think about going with some spirit that just came knocking on my door?!"
 
-    b "I nawet nie wiem, czego ode mnie chce! Czemu miałbym zastanawiać się nad pójściem z duchem, który po prostu zapukał do moich drzwi?! "
+    b "I nawet nie wiem, czego on ode mnie chce! Czemu miało by mi nawet przejść przez myśl, by pójść sobie za jakimś duchem, który tak po prostu zapukał do moich drzwi?! "
 
 
 
@@ -1812,9 +1812,9 @@ translate polish start_5fb3d600:
 
     # b "I mean he did go out of his way to awaken these powers, and after all that I just refused him straight out... "
 
-    b "Chociaż stara się tego nie okazywać, to myślę że go zawiodłem..."
+    b "Chociaż tego nie okazuje, to myślę że go zawiodłem..."
 
-    b "To znaczy zadał sobie tyle trudu, by obudzić we mnie te moce, a ja po tym wszystkim od razu mu odmawiam... "
+    b "Zadał sobie tyle trudu, by obudzić we mnie te moce, a po tym wszystkim ja z miejsca mu odmawiam... "
 
 
 
@@ -1832,9 +1832,9 @@ translate polish start_f468ed00:
 
     voice voice_file.tig(1,23)
 
-    tig angry "Hej ty. Pamiętaj, że nikt cię nigdy nie prosił o danie mu tej mocy. \" "
+    tig angry "Hej ty. Pamiętaj, że nikt cię nigdy nie prosił o danie mu tej mocy.\" "
 
-    tig angry "\"A teraz wtargnąłeś do jego domu i pierwszą rzeczą, którą robisz jest żądanie od niego, by z tobą poszedł!\" " with hshake
+    tig angry "\"A teraz wtargnąłeś do jego domu i pierwsze co robisz to żądasz od niego, by z tobą poszedł!\" " with hshake
 
 
 
@@ -1850,7 +1850,7 @@ translate polish start_bc757992:
 
     voice voice_file.tig(1,24)
 
-    tig frown "\"Nawet jak na standardy aborygenów, nie sądzisz, że to niegrzeczne?\" "
+    tig frown "\"Nie wiesz, że to niegrzeczne, nawet na standardy aborygenów?\" "
 
 
 
@@ -1866,7 +1866,7 @@ translate polish start_b201ea55:
 
     voice voice_file.lpd(1,15)
 
-    lpd normal "\"...Duch Han'a?\" "
+    lpd normal "\"...Duch Han'ów?\" "
 
 
 
@@ -1882,7 +1882,7 @@ translate polish start_9e9bc7a0:
 
     voice voice_file.tig(1,25)
 
-    tig angry "\"Gdzie jest ten duch, o którym mówisz? Jestem prawdziwym bogiem!\" "
+    tig angry "\"Gdzie ten duch, o którym mówisz? Jestem prawdziwym bogiem!\" "
 
 
 
@@ -1900,9 +1900,9 @@ translate polish start_c237ee64:
 
     voice voice_file.tig(1,26)
 
-    tig angry "\"Na pewno widziałeś, że stoję tutaj przez cały ten czas. Nawet nie stać cię na słowa powitania, a już chcesz zabrać mojego chłopca?\" "
+    tig angry "\"Stoję tutaj przez cały ten czas, na pewno zauważyłeś, tak? A mimo to chcesz zabrać mojego chłopca, nie siląc się na tak niewiele jak powitanie?\" "
 
-    tig angry "\"Myślałem, że widziałem najgorsze, ale ty aborygenie, naprawdę jesteś zatrważający.\" "
+    tig angry "\"Sądziłem, że widziałem już najgorsze, ale ty aborygenie, naprawdę jesteś zatrważający.\" "
 
 
 
@@ -1918,7 +1918,7 @@ translate polish start_855d3c48:
 
     voice voice_file.lpd(1,16)
 
-    lpd normal "\"...Nie jestem zły.\" "
+    lpd normal "\"...nie jestem zły.\" "
 
 
 
@@ -1936,9 +1936,9 @@ translate polish start_e7987cbb:
 
     voice voice_file.tig(1,27)
 
-    tig laugh_1 "\"Nie zły, powiadasz? Skąd mam wiedzieć, że nie jesteś tylko demonem w przebraniu? \" "
+    tig laugh_1 "\"Nie zły, powiadasz? Skąd mam wiedzieć, że nie jesteś tylko demonem w przebraniu?\" "
 
-    tig laugh_1 "\"Dla mnie wasze pierwotne bóstwa nie różnią się tak bardzo od demonów.\" "
+    tig laugh_1 "\"Dla mnie te wasze pierwotne bóstwa prawie nie różnią się od demonów.\" "
 
 
 
@@ -1954,7 +1954,7 @@ translate polish start_d7a1755e:
 
     voice voice_file.tig(1,28)
 
-    tig frown "\"To jest moje dziecko, a ja nie ufam twoim słowom. Możesz odejść.\" "
+    tig frown "\"To moje dziecko, a ja nie ufam twym słowom. Możesz odejść.\" "
 
 
 
@@ -2018,7 +2018,7 @@ translate polish start_60548f53:
 
     b "Pantera i tygrys utkwili w sobie spojrzenia. Tygrys zaciska pięści. Wygląda na gotowego do walki. "
 
-    b "Łaa! Zaraz, chcą ze sobą walczyć! Jakim cudem sprawy przyjęły taki obrót? "
+    b "Uau! Chwila, jakim cudem sprawy przyjęły taki obrót, że chcą ze sobą walczyć? "
 
 
 
@@ -2030,7 +2030,7 @@ translate polish start_aef67a0e:
 
     # avt "\"Stop now! No fighting inside my room!\" "
 
-    avt "\"Przestańcie natychmiast! Żadnych walk w moim pokoju!\" "
+    avt "\"Natychmiast przestańcie! Żadnych walk w moim pokoju!\" "
 
 
 
@@ -2042,7 +2042,7 @@ translate polish start_699cc8b6:
 
     # b "The two men (well cats?) glare at each other whilst I stand between them. "
 
-    b "Dwaj faceci (a może koty?) gapią się zaciekle na siebie, podczas gdy stoję pomiędzy nimi. "
+    b "Dwaj mężczyźni (koty?) gapią się zaciekle na siebie, podczas gdy stoję pomiędzy nimi. "
 
 
 
