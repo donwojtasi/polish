@@ -318,7 +318,7 @@ translate polish start_37a13961:
 
     # b "Despite that, I never expected to see a real guardian tiger that's for sure! "
 
-    b "Cóż... {w=0.5}Mamy tygrysiego strażnika naszej rodziny. W sumie... {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
+    b "Hmm... {w=0.5}Mamy tygrysiego strażnika naszej rodziny. W sumie... {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
 
     b "W końcu urodziłem się w rodzinie {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jitong{/font}. "
 
@@ -396,7 +396,7 @@ translate polish start_50022975:
 
     b "Muszę to rozgryźć... "
 
-    b "Cóż... powiedział, że \"nie mogłem wcześniej go zobaczyć\"... "
+    b "Powiedział, że \"nie mogłem wcześniej go zobaczyć\"... "
 
     b "Czy to oznacza, że był tu przez cały ten czas?"
 
@@ -3068,7 +3068,7 @@ translate polish start_22966d3e:
 
     voice voice_file.lpdcat(1,24)
 
-    lpdcat difficult "Proszę cię Liao, pomóż mi odbudować świątynię, proszę?\" "
+    lpdcat difficult "\"A więc Liao, czy możesz pomóc mi odbudować świątynię, proszę?\" "
 
     lpdcat difficult "\"Zrobię wszystko co zechcesz, jeśli chcesz czegoś w zamian...\" "
 
@@ -4510,7 +4510,7 @@ translate polish start_2104e9da:
 
     # b "It's not that I don't want to help them, but it's not like I can just up and agree to change my life for these guys! "
 
-    b "To nie tak, że nie chcę im pomóc, ale nie mogę pozwolić, by całe moje życie zostało wywrócone do góry nogami z ich powodu! "
+    b "Chciałbym im jakoś pomóc, ale nie mogę pozwolić, by z ich powodu całe moje życie zostało wywrócone do góry nogami! "
 
 
 
@@ -5482,7 +5482,7 @@ translate polish start_9912a135:
 
     voice voice_file.tig(1,50)
 
-    tig lift "\"Cóż, od kiedy przybyłeś do Tajpej.\" "
+    tig lift "\"No cóż, od kiedy przybyłeś do Tajpej.\" "
 
 
 

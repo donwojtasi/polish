@@ -4,249 +4,254 @@
 translate polish day1_after_01_tig_8eef2fd4:
 
     # avt "\"Tiger's been sleeping with me this whole time... It's only right for him take the place next to me.\" "
-    avt ""
+    avt "\"Tygrys spał ze mną przez cały ten czas... Miejsce przy mnie należy tylko do niego.\" "
 
 # game/script/02_day1_after.rpy:20
 translate polish day1_after_01_tig_d690ad54:
 
     # lpd disappointed "\"{cps=*0.2}......{/cps}\" "
-    lpd disappointed ""
+    lpd disappointed "\"{cps=*0.2}......{/cps}\" "
 
 # game/script/02_day1_after.rpy:30
 translate polish day1_after_01_tig_062d49d0:
 
     # voice voice_file.lpdcat(2,1)
     # lpdcat cry_2 "\"Aww~ You're too cruel Liao!\" "
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Ohhh~ Jesteś okrutny Liao!\" "
 
 # game/script/02_day1_after.rpy:32
 translate polish day1_after_01_tig_2d0da8a1:
 
     # avt "\"Sorry, Senpai... I'll go get you a quilt, it's the least I can do to make up for it.\" "
-    avt ""
+    avt "\"Przepraszam Senpai... Poszukam dla ciebie jakiejś kołdry, przynajmniej tyle mogę dla ciebie zrobić.\" "
 
 # game/script/02_day1_after.rpy:34
 translate polish day1_after_01_tig_db927990:
 
     # voice voice_file.lpdcat(2,2)
     # lpdcat cry_2 "\"Aww— boohoo...\" "
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Ooo- buuhuu...\" "
 
 # game/script/02_day1_after.rpy:37
 translate polish day1_after_01_tig_0bd8ae57:
 
     # b "I go to the closet and get out the spare quilt, passing it to Senpai. "
-    b ""
+    b "Podchodzę do szafy i wyjmuję z niej zapasową kołdrę, podając ją Senpai'owi. "
 
 # game/script/02_day1_after.rpy:39
 translate polish day1_after_01_tig_ca335cca:
 
     # voice voice_file.lpdcat(2,3)
     # lpdcat wronged "\"Well, if its gotta be like this...\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"Skoro tak ma być...\" "
 
 # game/script/02_day1_after.rpy:43
 translate polish day1_after_01_tig_0ae6d1fe:
 
     # b "Senpai quickly rolls out the quilt on the ground. "
-    b ""
+    b "Senpai szybko rozwija kołdrę na podłodze. "
 
 # game/script/02_day1_after.rpy:48
 translate polish day1_after_01_tig_bb4952b2:
 
     # voice voice_file.lpdcat(2,4)
     # lpdcat cute "\"This is my territory now! No one else can trespass!\" " with flash
-    lpdcat cute "" with flash
+    lpdcat cute "\"Od teraz to moje terytorium! Nikt inny nie może go przekroczyć!\" " with flash
 
 # game/script/02_day1_after.rpy:50
 translate polish day1_after_01_tig_3b23b615:
 
     # avt "\"Uh...\" "
-    avt ""
+    avt "\"Yhh...\" "
 
 # game/script/02_day1_after.rpy:52
 translate polish day1_after_01_tig_7233a355:
 
     # b "This room is in no way big enough for someone to claim part of it. That{i} \"territory\" {/i}is right next to the door, so you can't even get out without stepping on his sheets. "
-    b ""
+    b "Ten pokój jest o wiele za mały, by ktoś przejmował jego część. To całe{i} \"terytorium\" {/i}jest zaraz przy drzwiach, więc nie można stąd wyjść bez stąpania po jego pościeli. "
 
 # game/script/02_day1_after.rpy:54
 translate polish day1_after_01_tig_6df67c1e:
 
     # avt "\"Senpai, how can I get out of the room with you blocking the way?\" "
-    avt ""
+    avt "\"Senpai, jak mam wyjść z pokoju, skoro blokujesz przejście?\" "
 
 # game/script/02_day1_after.rpy:58
 translate polish day1_after_01_tig_a2079805:
 
     # voice voice_file.lpdcat(2,5)
     # lpdcat normal "\"Of course Liao gets a free pass! I welcome you into my territory, and even to sleep with me on the floor~\" "
-    lpdcat normal ""
+    lpdcat normal "\"Oczywiście Liao dostaje darmową przepustkę! Jesteś mile widziany na moim terytorium, możesz też spać ze mną na podłodze~\" "
 
 # game/script/02_day1_after.rpy:60
 translate polish day1_after_01_tig_c9ef18c6:
 
     # b "No matter how you look at there's no space for me squeeze into his \"territory\" even if I wanted to. "
-    b ""
+    b "Nie ważne jak na to spojrzysz, nie mam miejsca, by wcisnąć się w jego \"terytorium\" nawet gdybym chciał. "
 
 # game/script/02_day1_after.rpy:62
 translate polish day1_after_01_tig_72757def:
 
     # avt "\"It's alright Senpai, I know you're really excited, but I'm tired at the moment.\" "
     # avt "\"Can you just allow me to sleep for a while?\" "
-    avt ""
+    avt "\"W porządku Senpai. Wiem, że bardzo się ekscytujesz, ale jestem teraz zmęczony.\" "
+    avt "\"Mógłbyś pozwolić mi trochę pospać?\" "
 
 # game/script/02_day1_after.rpy:64
 translate polish day1_after_01_tig_fd071fbf:
 
     # voice voice_file.lpdcat(2,6)
     # lpdcat cute "\"Well it's not like I'm the one forcing you to stay awake~\" "
-    lpdcat cute ""
+    lpdcat cute "\"To nie tak, że zmuszam cię do pozostania na nogach~\" "
 
 # game/script/02_day1_after.rpy:66
 translate polish day1_after_01_tig_452f3661:
 
     # b "Letting out a sigh, I go to the door and turn off the light. "
-    b ""
+    b "Wzdycham, podchodzę do drzwi i gaszę światło. "
 
 # game/script/02_day1_after.rpy:75
 translate polish day1_after_01_tig_567a23d3:
 
     # b "Afterwards, I lay myself into the bed and get cosy under the quilt. "
-    b ""
+    b "Potem kładę się na łóżku i przykrywam miękką kołdrą. "
 
 # game/script/02_day1_after.rpy:84
 translate polish day1_after_01_tig_2b679be0:
 
     # b "Tiger is lying in the bed as well. My bed's pretty small for two as it is, and with his size he ends up taking up most of it. " with hshake
-    b "" with hshake
+    b "Tygrys też leży na łóżku. Jest trochę małe dla nas obu, a jego rozmiar sprawia, że zajmuje jego większą cześć. " with hshake
 
 # game/script/02_day1_after.rpy:86
 translate polish day1_after_01_tig_f8ede7c1:
 
     # b "Is he really going to be sleeping with me every night? H-He's kinda big... I don't think I'll fall asleep that easily with him next to me. "
-    b ""
+    b "Naprawdę chce ze mną spać każdej nocy? Jest naprawdę duży... Nie wiem, czy tak łatwo przy nim zasnę... "
 
 # game/script/02_day1_after.rpy:88
 translate polish day1_after_01_tig_c79473c7:
 
     # avt "\"Hey... are we going to sleep like this?\" "
-    avt ""
+    avt "\"Hej... będziemy spać w taki sposób?\" "
 
 # game/script/02_day1_after.rpy:90
 translate polish day1_after_01_tig_42cb276c:
 
     # voice voice_file.tig(2,1)
     # tig normal "\"Yes. Although, since you can see me, you can also feel me now. It does make it a bit... cramped.\" "
-    tig normal ""
+    tig normal "\"Tak. Skoro możesz mnie teraz zobaczyć, możesz też mnie poczuć. To sprawia, że jest trochę... ciasno.\" "
 
 # game/script/02_day1_after.rpy:92
 translate polish day1_after_01_tig_5bb872b8:
 
     # b "Tiger glances at the bed and shuffles over onto his side, one arm outstretched across the pillow. He pats the mattress with the other, inviting me to scoot over. "
-    b ""
+    b "Tygrys spogląda na łóżko i przewraca się na bok, wyciągając rękę nad poduszką. Drugą klepie materac, zachęcając mnie, abym się położył. "
 
 # game/script/02_day1_after.rpy:94
 translate polish day1_after_01_tig_3aa556d1:
 
     # voice voice_file.tig(2,2)
     # tig normal "\"Just lie here. It's ok. I won't let you fall off the bed.\" "
-    tig normal ""
+    tig normal "\"Połóż się tutaj. Tak będzie najwygodniej. Nie pozwolę ci spaść z łóżka.\" "
 
 # game/script/02_day1_after.rpy:96
 translate polish day1_after_01_tig_a82dcae1:
 
     # b "He raises his other arm, apparently going to hold me in his arms. "
     # b "Although he's trying to stop me from falling off, it also means I'll be sleeping in his embrace! "
-    b ""
+    b "Podnosi drugą rękę, najwyraźniej chcąc trzymać mnie w swoich ramionach. "
+    b "Mimo że nie chce bym spadł, oznacza to, że będę spał w jego objęciach! "
 
 # game/script/02_day1_after.rpy:98
 translate polish day1_after_01_tig_5beecaf1:
 
     # b "I don't think I have any other options though... "
-    b ""
+    b "Raczej nie mam innego wyboru... "
 
 # game/script/02_day1_after.rpy:100
 translate polish day1_after_01_tig_c27300ed:
 
     # voice voice_file.lpdcat(2,7)
     # lpdcat none "\"Liao, it'd be a waste if we don't eat this stew. Mind if I finish it?\" "
-    lpdcat none ""
+    lpdcat none "\"Liao, gulasz się zmarnuje, jeśli go nie zjemy. Masz coś przeciwko temu, że go dokończę?\" "
 
 # game/script/02_day1_after.rpy:102
 translate polish day1_after_01_tig_32982aa8:
 
     # avt "\"...Yeah, go ahead.\" "
-    avt ""
+    avt "\"Nie, nie krępuj się.\" "
 
 # game/script/02_day1_after.rpy:112
 translate polish day1_after_01_tig_81ee078a:
 
     # b "I turn my head back and see Senpai eating from the paper bowl while sitting on his futon. "
     # b "How can he eat in such a dark room... "
-    b ""
+    b "Odwracam głowę i widzę Senpai'a siedzącego na swoim materacu, który je z papierowej miski. "
+    b "Jak on może jeść po ciemku... "
 
 # game/script/02_day1_after.rpy:114
 translate polish day1_after_01_tig_e7b56ff4:
 
     # avt "\"Hey, watch what you're doing! If you make a mess, I won't clean up after you!\" "
-    avt ""
+    avt "\"Ej, uważaj co robisz! Nie będę po tobie sprzątał, jeśli naśmiecisz!\" "
 
 # game/script/02_day1_after.rpy:118
 translate polish day1_after_01_tig_1aafc3b8:
 
     # voice voice_file.lpdcat(2,8)
     # lpdcat cute "\"Don't worry, I'll be really super careful!\" "
-    lpdcat cute ""
+    lpdcat cute "\"Nie martw się, będę bardzo, bardzo uważał!\" "
 
 # game/script/02_day1_after.rpy:120
 translate polish day1_after_01_tig_f893d27a:
 
     # b "He answers while stuffing his mouth full of food. It's not my problem if he makes a mess, he's the one sleeping in it. "
-    b ""
+    b "Odpowiada zapychając swą buzię jedzeniem. To nie mój problem, jeśli zrobi bajzel to sam będzie w nim spał. "
 
 # game/script/02_day1_after.rpy:125
 translate polish day1_after_01_tig_11a9d200:
 
     # b "I look back to the bed to see Tiger waiting for me. Taking a deep breath... {w=0.5}I slowly rest myself into Tiger's arms. "
-    b ""
+    b "Spoglądam znowu na łóżko i widzę czekającego na mnie Tygrysa. Biorę głęboki oddech... {w=0.5}Powoli rozkładam się w jego ramionach. "
 
 # game/script/02_day1_after.rpy:129
 translate polish day1_after_01_tig_63c8b8f2:
 
     # b "He pulls the quilt over me. It's a cold night and the blanket is still a little cold too, but with his warmth around to me, I don't really feel it. "
     # b "I wrap myself tight in the blankets, keeping the warmth in. "
-    b ""
+    b "Rozkłada nade mną kołdrę. Noc jest zimna i prześcieradło trochę też, ale otoczony jego ciepłem, wcale tego nie czuję. "
+    b "Owijam się ciasno kocem, zatrzymując w środku ciepło. "
 
 # game/script/02_day1_after.rpy:131
 translate polish day1_after_01_tig_5b1a65a5:
 
     # b "Usually it takes time to warm up the sheets, yet with Tiger here with me they're already getting there. Still... I can't fall asleep! "
-    b ""
+    b "Zazwyczaj mija trochę czasu zanim pościel się nagrzeje, jednak z Tygrysem u boku jest już prawie dobra. Mimo to... Nie mogę zasnąć! "
 
 # game/script/02_day1_after.rpy:133
 translate polish day1_after_01_tig_7f8bc31f:
 
     # b "I'm embraced by his arms, feeling the heat from his body... {w=0.5}How could I keep calm like this! "
-    b ""
+    b "Leżę w jego ramionach, czując ciepło jego ciała... {w=0.5}Jak mogę zachować spokój w tej sytuacji! "
 
 # game/script/02_day1_after.rpy:135
 translate polish day1_after_01_tig_a9f405d5:
 
     # b "Doesn't he care at all? He's a god sleeping with his worshipper... "
-    b ""
+    b "Wcale go to nie obchodzi? Jest przecież bogiem śpiącym ze swoim wyznawcą... "
 
 # game/script/02_day1_after.rpy:137
 translate polish day1_after_01_tig_86c51199:
 
     # b "He seems so calm... {w=0.5}Agh— Why am I so nervous?! "
-    b ""
+    b "Jest taki spokojny... {w=0.5}Arr- Czemu tak się denerwuję?! "
 
 # game/script/02_day1_after.rpy:139
 translate polish day1_after_01_tig_8fc0d0ea:
 
     # b "I try to control my breathing as my whole body tightens up. "
     # b "There's no way this is real, at this point I {i}have{/i} \ to be in some cheesy romcom anime! "
+    b "Próbuję uspokoić oddech, a całe moje ciało napina się. "
     b ""
 
 # game/script/02_day1_after.rpy:141
