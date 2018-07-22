@@ -2814,7 +2814,7 @@ translate polish start_e71b8846:
 
     voice voice_file.tig(1,33)
 
-    tig laugh_2 "\"Dziecięcym kochaniem, nieprawdaż?\" " with flash
+    tig laugh_2 "\"Ukochanym z dzieciństwa, nieprawdaż?\" " with flash
 
 
 

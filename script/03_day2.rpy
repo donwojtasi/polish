@@ -4,13 +4,13 @@
 translate polish day2_01_tig_a51df5ce:
 
     # b "Nngh... Heavy... "
-    b ""
+    b "Nnbh... Ciężko... "
 
 # game/script/03_day2.rpy:10
 translate polish day2_01_tig_e823d87d:
 
     # b "Soooo heavy... Something is definitely pinning me down, suffocating me with its entire mass. I uselessly try to struggle against it. "
-    b ""
+    b "Baaaaardzo ciężko... Coś zdecydowanie mnie przygniata, dusząc całą swoją masą. Bezskutecznie staram się od tego uwolnić. "
 
 # game/script/03_day2.rpy:12
 translate polish day2_01_tig_43214818:
