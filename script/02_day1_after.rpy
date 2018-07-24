@@ -892,113 +892,115 @@ translate polish day1_after_01_lpd_d75baea7:
 
     # voice voice_file.lpdcat(2,22)
     # lpdcat panic "\"Hey! I didn't mean it like that...\" "
-    lpdcat panic ""
+    lpdcat panic "\"Hej! Nie to miałem na myśli...\" "
 
 # game/script/02_day1_after.rpy:399
 translate polish day1_after_01_lpd_1c020f89:
 
     # voice voice_file.tig(2,23)
     # tig normal "\"No more! Liao needs some rest. If you stop him from sleeping anymore I'll kick you out. Do you understand? \" " with hshake
-    tig normal "" with hshake
+    tig normal "\"Wystarczy! Liao musi odpocząć. Jeśli dalej będziesz mu przeszkadzał to cię z tą wyrzucę. Zrozumiano?\" " with hshake
 
 # game/script/02_day1_after.rpy:401
 translate polish day1_after_01_lpd_7f3c7727:
 
     # voice voice_file.lpdcat(2,23)
     # lpdcat wronged "\"...Okay.\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"Tak...\" "
 
 # game/script/02_day1_after.rpy:410
 translate polish day1_after_01_lpd_e51dcfe6:
 
     # b "Tiger seems like he's in a bad mood. Guess he's grumpy over not getting the bed. It's not like a guardian tiger like him needs it to sleep... "
-    b ""
+    b "Zdaje się, że Tygrys jest w złym humorze. Pewnie zrzędzi, bo nie dostał łóżka. Tygrysi strażnik taki jak on i tak nie potrzebuje go do snu... "
 
 # game/script/02_day1_after.rpy:412
 translate polish day1_after_01_lpd_a5df2795:
 
     # b "I still feel a little guilty as I turn out the lights. Lying myself down onto the bed. "
-    b ""
+    b "Nadal czuję się trochę winny, gdy gaszę światło oraz kładę się wreszcie do łóżka. "
 
 # game/script/02_day1_after.rpy:419
 translate polish day1_after_01_lpd_acdbc99f:
 
     # b "I pull up the quilt and try to find a space for myself. The bed is small for the both of us. "
-    b ""
+    b "Podnoszę kołdrę i próbuję znaleźć sobie miejsce. Łóżko jest trochę małe dla nas dwóch. "
 
 # game/script/02_day1_after.rpy:421
 translate polish day1_after_01_lpd_f32aad70:
 
     # b "We're so close, I can even feel his body temperature... Why does a god give off heat? His body isn't real, right? "
     # b "Could it just be some kind of illusion? Like can I touch him? "
-    b ""
+    b "Leży tak blisko mnie, mogę nawet poczuć temperaturę jego ciała... Czemu bóg wydziela z siebie ciepło? Przecież jego ciało nie prawdziwe, racja? "
+    b "A może to jakaś iluzja? Czy mogę go dotknąć? "
 
 # game/script/02_day1_after.rpy:423
 translate polish day1_after_01_lpd_cbba8706:
 
     # b "I gently move myself, pulling up the quilt a bit. Despite my curiosity, I try to be respectful and not get to close to him. "
-    b ""
+    b "Delikatnie się odsuwam, ciągnąć nieco za kołdrę. Mimo mojej ciekawości, próbuję okazać mu należyty szacunek i nie zbliżać się za bardzo. "
 
 # game/script/02_day1_after.rpy:425
 translate polish day1_after_01_lpd_c2715b5c:
 
     # b "But how should I sleep? I mean, I usually sprawl all over the bed. But what if I kick him while sleeping... "
-    b ""
+    b "Jak mam teraz zasnąć? Zazwyczaj rozkładam się na całym łóżku. Co jeśli niechcący kopnę go podczas snu... "
 
 # game/script/02_day1_after.rpy:428
 translate polish day1_after_01_lpd_2d5c0b0e:
 
     # b "Trying to keep my distance, I move back a bit but suddenly Leopard moves his arms to grab me tight. " with hshake
-    b "" with hshake
+    b "Próbując zachować dystans, odsuwam się jeszcze trochę, gdy nagle Pantera wyciąga ręce i ściska mnie mocno. " with hshake
 
 # game/script/02_day1_after.rpy:434
 translate polish day1_after_01_lpd_ac9f412e:
 
     # b "He pulls me toward him with his strong grip. What just happened? I didn't think he'd be that assertive. "
     # b "I turn my head to look at him, he stares back with that serious look on his face. "
-    b ""
+    b "Przyciąga mnie do siebie w mocnym uścisku. Co się właśnie stało? Nie spodziewałem się, że będzie taki asertywny. "
+    b "Odwracam głowę, by na niego spojrzeć. Wpatruje się we mnie z tym swoim poważnym spojrzeniem. "
 
 # game/script/02_day1_after.rpy:436
 translate polish day1_after_01_lpd_851777ae_1:
 
     # lpd normal "\"{cps=*0.2}......{/cps}\" "
-    lpd normal ""
+    lpd normal "\"{cps=*0.2}......{/cps}\" "
 
 # game/script/02_day1_after.rpy:438
 translate polish day1_after_01_lpd_a91b29fd:
 
     # avt "\"{cps=*0.2}......{/cps}\" "
-    avt ""
+    avt "\"{cps=*0.2}......{/cps}\" "
 
 # game/script/02_day1_after.rpy:440
 translate polish day1_after_01_lpd_102c6e72:
 
     # b "{cps=*0.2}Something isn't right.{/cps} "
-    b ""
+    b "{cps=*0.2}Coś jest nie tak.{/cps} "
 
 # game/script/02_day1_after.rpy:442
 translate polish day1_after_01_lpd_7e77895a:
 
     # b "I turn back around just to find I'm actually partially hanging outside the bed. If he didn't catch me,  I would have definitely fallen. "
-    b ""
+    b "Odwracając ponownie głowę zauważam, że tak naprawdę częściowo zwisam nad podłogą. Na pewno bym spadł, gdyby mnie nie złapał. "
 
 # game/script/02_day1_after.rpy:444
 translate polish day1_after_01_lpd_61554cbc:
 
     # b "Arrrgh— How stupid am I... I almost just fell out of my own bed! "
-    b ""
+    b "Arrrrr- Co za głupek ze mnie... Prawie spadłem z własnego łóżka! "
 
 # game/script/02_day1_after.rpy:446
 translate polish day1_after_01_lpd_0fa7b15d:
 
     # avt "\"Um... Thanks...\" "
-    avt ""
+    avt "\"Um... Dzięki...\" "
 
 # game/script/02_day1_after.rpy:448
 translate polish day1_after_01_lpd_9007ec55:
 
     # lpd "\"{cps=*0.2}......{/cps}\" "
-    lpd ""
+    lpd "\"{cps=*0.2}......{/cps}\" "
 
 # game/script/02_day1_after.rpy:453
 translate polish day1_after_01_lpd_428e399d:
