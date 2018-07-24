@@ -801,90 +801,91 @@ translate polish day1_after_01_lpd_464cb1be:
 translate polish day1_after_01_lpd_d28def82:
 
     # avt "\"...Do I have to say it twice?\" "
-    avt ""
+    avt "\"Czy muszę dwa razy się powtarzać?\" "
 
 # game/script/02_day1_after.rpy:349
 translate polish day1_after_01_lpd_7e507417:
 
     # b "Ignoring Senpai's teasing, I sit on the bed. "
-    b ""
+    b "Siadam na łóżku, ignorując zaczepki Senpai'a. "
 
 # game/script/02_day1_after.rpy:354
 translate polish day1_after_01_lpd_851777ae:
 
     # lpd normal "{cps=*0.2}......{/cps} "
-    lpd normal ""
+    lpd normal "{cps=*0.2}......{/cps} "
 
 # game/script/02_day1_after.rpy:356
 translate polish day1_after_01_lpd_62008062:
 
     # b "Leopard turns his head to me. I suddenly feel really embarrassed. "
-    b ""
+    b "Pantera odwraca się w moją stronę. Nagle zrobiło mi się trochę głupio. "
 
 # game/script/02_day1_after.rpy:358
 translate polish day1_after_01_lpd_3e0f0185:
 
     # b "I did offer him the bed out of courtesy, but is he okay with it? Not to mention this is my first time sleeping with someone else... "
-    b ""
+    b "Z grzeczności zaoferowałem mu spanie w łóżku, ale czy to mu pasuje? Nie wspominając o tym, że po raz pierwszy nie będę spał sam... "
 
 # game/script/02_day1_after.rpy:360
 translate polish day1_after_01_lpd_17f48fa6:
 
     # b "He walks over while I'm lost in thought. He steps beside the bed, picks up the quilt, gets into my bed and curls up in a heap. "
-    b ""
+    b "Zamyślony, nie zauważam kiedy podchodzi do łóżka. Podnosi kołdrę, kładzie się na materacu i zwija w kłębek. "
 
 # game/script/02_day1_after.rpy:362
 translate polish day1_after_01_lpd_1c693d28:
 
     # b "He definitely doesn't feel embarrassed. It's just like when he opened the door to my bathroom. "
     # b "Maybe he doesn't feel these things because he's a god? That could be it... "
-    b ""
+    b "Zdecydowanie nie jest zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
+    b "Może nie czuje takich rzeczy, ponieważ jest bogiem? To może być to... "
 
 # game/script/02_day1_after.rpy:364
 translate polish day1_after_01_lpd_cb98865d:
 
     # b "I'm wondering if I should go turn off the light when Senpai suddenly calls out to me. "
-    b ""
+    b "Zastanawiam się, czy powinienem już zgasić światło, gdy nagle Senpai odzywa się do mnie. "
 
 # game/script/02_day1_after.rpy:377
 translate polish day1_after_01_lpd_0f91145a:
 
     # voice voice_file.lpdcat(2,19)
     # lpdcat laugh "\"Liao, you didn't even have any of the food, you absolutely sure you don't want any?\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao, nic jeszcze nie jadłeś, jesteś absolutnie pewien, że nic nie chcesz?\" "
 
 # game/script/02_day1_after.rpy:379
 translate polish day1_after_01_lpd_57cc4288:
 
     # avt "\"...Senpai, you'll gain weight if you eat too much before sleeping, you know?\" "
-    avt ""
+    avt "\"... Czy wiesz, że możesz przytyć, jeśli będziesz jadł za dużo przed snem?\" "
 
 # game/script/02_day1_after.rpy:381
 translate polish day1_after_01_lpd_66641549:
 
     # voice voice_file.lpdcat(2,20)
     # lpdcat laugh "\"I couldn't care less, and it's not like you're fat. So why not?\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Nic mnie to nie obchodzi, a poza tym nie jesteś przecież gruby. Więc dlaczego nie?\" "
 
 # game/script/02_day1_after.rpy:383
 translate polish day1_after_01_lpd_ea774fc5:
 
     # avt "\"I just want to sleep... Do I look like I have the energy to eat?\" "
-    avt ""
+    avt "\"Chcę już spać... Czy wyglądam jakbym miał jeszcze siłę na jedzenie?\" "
 
 # game/script/02_day1_after.rpy:387
 translate polish day1_after_01_lpd_26f82385:
 
     # voice voice_file.lpdcat(2,21)
     # lpdcat panic "\"Waaa— But I bought it for you!\" "
-    lpdcat panic ""
+    lpdcat panic "\"Cooo- Kupiłem to specjalnie dla ciebie!\" "
 
 # game/script/02_day1_after.rpy:394
 translate polish day1_after_01_lpd_116bfca5:
 
     # voice voice_file.tig(2,22)
     # tig normal "\"Hey kitten! That's enough, stop bothering Liao.\" "
-    tig normal ""
+    tig normal "\"Hej kociaku! Już wystarczy, przestań przeszkadzać Liao.\" "
 
 # game/script/02_day1_after.rpy:396
 translate polish day1_after_01_lpd_d75baea7:

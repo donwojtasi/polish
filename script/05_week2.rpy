@@ -1327,7 +1327,7 @@ translate polish week2_04_3b6df631:
     # lpd normal " *nods* "
     # lpd normal " \"I lead the path. Those people. Live better.\" "
     voice voice_file.lpd(5,14)
-    lpd normal " *kiwa głową* \n \"Wskazałem drogę. Ci ludzie. Żyć lepiej.\" "
+    lpd normal " *przytakuje* \n \"Wskazałem drogę. Ci ludzie. Żyć lepiej.\" "
 
 # game/script/05_week2.rpy:586
 translate polish week2_04_f15d2ae7:

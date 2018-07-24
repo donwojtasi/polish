@@ -2410,7 +2410,7 @@ translate polish start_63bc8b71:
 
     # b "The two big cats nod obediently. "
 
-    b "Dwa duże koty kiwają posłusznie głową. "
+    b "Dwa duże koty posłusznie przytakują. "
 
 
 
