@@ -646,153 +646,156 @@ translate polish day1_after_01_tig_4c18bf91:
 translate polish day1_after_01_lpd_6a59ba88:
 
     # avt "\"Well... Leopard's my guest, I can't exactly let him go without somewhere to sleep.\" "
-    avt ""
+    avt "\"W sumie to Pantera jest moim gościem... Nie mogę pozwolić mu odejść bez miejsca do spania.\" "
 
 # game/script/02_day1_after.rpy:271
 translate polish day1_after_01_lpd_2a276520:
 
     # lpd happy "\"......\" "
-    lpd happy ""
+    lpd happy "\"......\" "
 
 # game/script/02_day1_after.rpy:279
 translate polish day1_after_01_lpd_f6b6d2e1:
 
     # voice voice_file.tig(2,21)
     # tig frown "*humph* "
-    tig frown ""
+    tig frown "*Hmmpf* "
 
 # game/script/02_day1_after.rpy:289
 translate polish day1_after_01_lpd_aebc2e7f:
 
     # voice voice_file.lpdcat(2,9)
     # lpdcat cry_2 "\"Wha— Why him?! I'm also your guest you know!\" "
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Co- Dlaczego on?! Wiesz przecież, że też jestem twoim gościem!\" "
 
 # game/script/02_day1_after.rpy:291
 translate polish day1_after_01_lpd_56629900:
 
     # avt "\"You're not exactly my guest at this point Senpai.\" "
-    avt ""
+    avt "\"Na ten moment to nie bardzo, Senpai.\" "
 
 # game/script/02_day1_after.rpy:293
 translate polish day1_after_01_lpd_9953901c:
 
     # voice voice_file.lpdcat(2,10)
     # lpdcat wronged "\"Why not! I came to you just like him... Right, so—\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"Dlaczego nie! Przyszedłem do ciebie tak samo jak on... A więc-\" "
 
 # game/script/02_day1_after.rpy:298
 translate polish day1_after_01_lpd_5a700c91:
 
     # voice voice_file.lpdcat(2,11)
     # lpdcat shy_3 "\"...That means I'm more than a guest, right? Liao thinks of me as family!\" "
-    lpdcat shy_3 ""
+    lpdcat shy_3 "\"...to znaczy, że jestem dla ciebie kimś więcej, niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
 
 # game/script/02_day1_after.rpy:307
 translate polish day1_after_01_lpd_1a41e84a:
 
     # avt "\"NOT{space=5}{w=0.1}AT{space=5}{w=0.1}ALL!\" "
-    avt ""
+    avt "\"WCA{w=0.1}LE{space=5}{w=0.1}NIE!\" "
 
 # game/script/02_day1_after.rpy:309
 translate polish day1_after_01_lpd_a3eed574:
 
     # avt "\"But seriously, Mister Leopard here took a long trip to get here... I'd be rude not to make him comfortable.\" "
     # avt "\"Sorry Senpai.\" "
-    avt ""
+    avt "\"Bądźmy przez chwilę poważni. Pan Pantera przebył długą drogę... Niegrzecznie byłoby odmówić mu odrobiny wygody.\" "
+    avt "\"Wybacz Senpai.\" "
 
 # game/script/02_day1_after.rpy:311
 translate polish day1_after_01_lpd_3f1d3d82:
 
     # voice voice_file.lpdcat(2,12)
     # lpdcat wronged "\"Wuu— if you say so...\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"Ouu- skoro tak mówisz...\" "
 
 # game/script/02_day1_after.rpy:314
 translate polish day1_after_01_lpd_e358c755:
 
     # voice voice_file.lpdcat(2,13)
     # lpdcat cute "\"Anyway~ I'm happy to grovel on the floor if Liao can help me rejuvenate my temple!\" "
-    lpdcat cute ""
+    lpdcat cute "\"Mniejsza~ Leżenie na podłodze mi nie straszne tak długo jak Liao pomoże ożywić moją świątynię!\" "
 
 # game/script/02_day1_after.rpy:316
 translate polish day1_after_01_lpd_cc63ef4b:
 
     # avt "\"You're free to get lost.\" "
-    avt ""
+    avt "\"Możesz spadać.\" "
 
 # game/script/02_day1_after.rpy:318
 translate polish day1_after_01_lpd_ce6de70d:
 
     # voice voice_file.lpdcat(2,14)
     # lpdcat cry_2 "\"Wuu— That's so mean!\" " with hshake
-    lpdcat cry_2 "" with hshake
+    lpdcat cry_2 "\"Ouu- To takie niemiłe!\" " with hshake
 
 # game/script/02_day1_after.rpy:320
 translate polish day1_after_01_lpd_30bed828:
 
     # avt "\"If you do this for me, I'll get you a quilt.\" "
-    avt ""
+    avt "\"Skoro tak, to znajdę dla ciebie kołdrę.\" "
 
 # game/script/02_day1_after.rpy:322
 translate polish day1_after_01_lpd_44fefdea:
 
     # voice voice_file.lpdcat(2,15)
     # lpdcat laugh "\"How about the one on your bed?\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"A co powiesz na tą z twojego łóżka?\" "
 
 # game/script/02_day1_after.rpy:324
 translate polish day1_after_01_lpd_390a2bb1:
 
     # avt "\"...Gross. Just take it.\" "
-    avt ""
+    avt "\"To obrzydliwe. Weź tę.\" "
 
 # game/script/02_day1_after.rpy:327
 translate polish day1_after_01_lpd_1c37c892:
 
     # b "I take a quilt out of the wardrobe and put it down on the ground for him. "
     # b "Eventually after making a fuss, Senpai gives up and starts to make his futon. "
-    b ""
+    b "Wyjmuję zapasową pościel z szafy i kładę przed nim na ziemi. "
+    b "Wreszcie, po małym zamieszaniu, Senpai poddaje się i zaczyna przygotowywać sobie miejsce do spania. "
 
 # game/script/02_day1_after.rpy:329
 translate polish day1_after_01_lpd_61ea426c:
 
     # b "My room isn't that big, the only free space is near the door. "
     # b "Basically, that means I'll have to step over his bed if I ever want to get out. "
-    b ""
+    b "Mój pokój nie zbyt duży, jedne wolne miejsce jest przy drzwiach. "
+    b "Oznacza to, że za każdym razem, gdy będę chciał wyjść, będę musiał przejść nad jego posłaniem. "
 
 # game/script/02_day1_after.rpy:331
 translate polish day1_after_01_lpd_f5c01a84:
 
     # voice voice_file.lpdcat(2,16)
     # lpdcat normal "\"Liao, if I sleep here I'll block the door.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Liao, będę blokował drzwi śpiąc tutaj.\" "
 
 # game/script/02_day1_after.rpy:333
 translate polish day1_after_01_lpd_38834154:
 
     # avt "\"So it seems, there really isn't anywhere else though...\" "
-    avt ""
+    avt "\"Na to wygląda. Niestety nie mamy innego miejsca...\" "
 
 # game/script/02_day1_after.rpy:335
 translate polish day1_after_01_lpd_40fcbbc4:
 
     # voice voice_file.lpdcat(2,17)
     # lpdcat difficult "\"Alright, just don't harass me in the middle of the night.\" "
-    lpdcat difficult ""
+    lpdcat difficult "\"Dobra, tylko nie przeszkadzaj mi w środku nocy.\" "
 
 # game/script/02_day1_after.rpy:337
 translate polish day1_after_01_lpd_0e4ce0f5:
 
     # avt "\"As if I would!\" "
-    avt ""
+    avt "\"Jakbym chciał!\" "
 
 # game/script/02_day1_after.rpy:341
 translate polish day1_after_01_lpd_464cb1be:
 
     # voice voice_file.lpdcat(2,18)
     # lpdcat cute "\"I don't mind if you do during the day though~\" "
-    lpdcat cute ""
+    lpdcat cute "\"Co innego za dnia~\" "
 
 # game/script/02_day1_after.rpy:343
 translate polish day1_after_01_lpd_d28def82:

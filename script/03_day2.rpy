@@ -10,7 +10,7 @@ translate polish day2_01_tig_a51df5ce:
 translate polish day2_01_tig_e823d87d:
 
     # b "Soooo heavy... Something is definitely pinning me down, suffocating me with its entire mass. I uselessly try to struggle against it. "
-    b "Baaaaardzo ciężko... Coś zdecydowanie mnie przygniata, dusząc całą swoją masą. Bezskutecznie staram się od tego uwolnić. "
+    b "Baaaardzo ciężko... Coś zdecydowanie mnie przygniata, dusząc całą swoją masą. Bezskutecznie staram się od tego uwolnić. "
 
 # game/script/03_day2.rpy:12
 translate polish day2_01_tig_43214818:
@@ -18,180 +18,185 @@ translate polish day2_01_tig_43214818:
     # b "I can't even lift my arms, or move my feet. I don't bother trying to turn myself over. "
     # b "A cool breeze hits my face, but it doesn't help with the heat everywhere else. "
     # b "What's going on? I take a deep breath, and then open my eyes. "
-    b ""
+    b "Nie mogę nawet podnieść ręki, ani ruszyć stopą. Nawet nie próbuję się obrócić. "
+    b "Chłodny podmuch uderza w moją twarz, ale niewiele to pomaga na ciepło wszędzie indziej. "
+    b "Co się dzieje? Biorę głęboki oddech i otwieram oczy. "
 
 # game/script/03_day2.rpy:14
 translate polish day2_01_tig_8b8ad312:
 
     # b "In front of my face I see a large shadow. I blink hard, trying to make out it's form... A wall of muscle covered with soft, fluffy, orange fur. It looks so nice. I mean... If it's not trying to kill me. "
-    b ""
+    b "Widzę duży cień przed moją twarzą. Mrugam zawzięcie, próbując dostrzec jego kształt... Ściana mięśni, pokryta miękkim, puszystym, pomarańczowym futrem. Wygląda tak fajnie. To znaczy... jeśli nie próbuje mnie zabić. "
 
 # game/script/03_day2.rpy:16
 translate polish day2_01_tig_c7ad99e2:
 
     # b "Sadly, I can't really enjoy the view while being suffocated. "
     # b "I muster the strength to move my head and tap on my guardian tiger's arm. "
-    b ""
+    b "Niestety nie mogę nacieszyć się tym widokiem, będąc podduszanym. "
+    b "Ostatkiem sił ruszam głową i stukam mojego tygrysiego strażnika w ramię. "
 
 # game/script/03_day2.rpy:18
 translate polish day2_01_tig_9682e8a9:
 
     # voice voice_file.tig(3,1)
     # tig "\"Liao?\" "
-    tig ""
+    tig "\"Liao?\" "
 
 # game/script/03_day2.rpy:20
 translate polish day2_01_tig_3dae61ac:
 
     # avt "\"Umm... get up...\" "
-    avt ""
+    avt "\"Umm... wstawaj...\" "
 
 # game/script/03_day2.rpy:22
 translate polish day2_01_tig_22043f2f:
 
     # voice voice_file.tig(3,2)
     # tig "\"Sorry— Sorry.\" "
-    tig ""
+    tig "\"Wybacz- Wybacz.\" "
 
 # game/script/03_day2.rpy:37
 translate polish day2_01_tig_af30e230:
 
     # b "Finally he gets of my bed, sparing my life. I thought I was going to die! "
     # b "Getting crushed to death by my own guardian tiger is a pretty stupid way to do so... "
-    b ""
+    b "Schodzi w końcu z mojego łóżka, oszczędzając moje życie. Myślałem że tam umrę! "
+    b "Bycie zmiażdżonym przez własnego tygrysiego strażnika to dość głupi sposób na śmierć... "
 
 # game/script/03_day2.rpy:39
 translate polish day2_01_tig_7c14fd51:
 
     # voice voice_file.tig(3,3)
     # tig normal "\"...You all right?\" "
-    tig normal ""
+    tig normal "\"...jesteś cały?\" "
 
 # game/script/03_day2.rpy:41
 translate polish day2_01_tig_c566adb4:
 
     # avt "\"Not at all!\" "
-    avt ""
+    avt "\"Ani trochę!\" "
 
 # game/script/03_day2.rpy:43
 translate polish day2_01_tig_4ec05a5a:
 
     # voice voice_file.tig(3,4)
     # tig laugh_2 "\"I am so sorry. I forgot you can actually feel me now... So I just laid down like usual.\" "
-    tig laugh_2 ""
+    tig laugh_2 "\"Bardzo przepraszam. Zapomniałem, że możesz mnie teraz poczuć... Położyłem się więc tak jak zwykle.\" "
 
 # game/script/03_day2.rpy:45
 translate polish day2_01_tig_802e162a:
 
     # b "\"So he's been sleeping on me all this time?! Even if I couldn't feel him before, It's kind of a miracle that I'm not dead already!\" "
-    b ""
+    b "\"To on przez cały ten czas spał na mnie?! Nawet jeśli nie mogłem go wcześniej poczuć to cud, że jeszcze żyję!\" "
 
 # game/script/03_day2.rpy:47
 translate polish day2_01_tig_26107995:
 
     # voice voice_file.tig(3,5)
     # tig laugh_1 "\"All right, all right, come on.\" "
-    tig laugh_1 ""
+    tig laugh_1 "\"Dobrze już, dobrze, pokaż no się.\" "
 
 # game/script/03_day2.rpy:49
 translate polish day2_01_tig_d9767d80:
 
     # b "\"My chest finally free of Tiger's weight, I cough while trying to regain my breath. Suddenly, Tiger pulls me into his chest and pats me on the back.\" " with hshake
-    b "" with hshake
+    b "\"Kaszlę próbując odzyskać oddech po tym jak moja klatka piersiowa została wreszcie uwolniona od ciężaru Tygrysa. Nagle, Tygrys przyciąga mnie do swojej piersi i klepie po plecach. " with hshake
 
 # game/script/03_day2.rpy:51
 translate polish day2_01_tig_1f9ede78:
 
     # b "\"I feel like such a kid, but I can't help but like the way he strokes the back of my neck with his fluffy paw.\" "
-    b ""
+    b "Czuję się jak dziecko, ale mimo to podoba mi się sposób w jaki gładzi mnie po szyi swoją miękką łapą. "
 
 # game/script/03_day2.rpy:53
 translate polish day2_01_tig_c519f38b:
 
     # b "I relax and take a deep breath. It's an exotic smell that melts into the atmosphere around his body. "
-    b ""
+    b "Rozluźniam się i biorę głęboki oddech. Egzotyczny zapach roznosi się wokół jego ciała. "
 
 # game/script/03_day2.rpy:55
 translate polish day2_01_tig_c547cd66:
 
     # b "So this is the smell of my guardian tiger? It's so incredible to think that he's standing in front of me when I know he doesn't physically exist. "
-    b ""
+    b "A więc to tak pachnie mój tygrysi strażnik? To niesamowite, pomyśleć tylko, że jest tutaj przy mnie, mimo że nie fizycznie nie istnieje. "
 
 # game/script/03_day2.rpy:57
 translate polish day2_01_tig_b553a230:
 
     # b "But right here, is a strong chest to lean against, while his fur warms me in the crisp spring morning. "
     # b "It's almost enough to forget the way he almost crushed me last night. "
-    b ""
+    b "Ale dokładnie tu, jest jego silna klatka piersiowa, na której można się oprzeć, a jego futro ogrzewa mnie w ten rześki, wiosenny poranek."
+    b "Już prawie zapomniałem, że ubiegłej nocy niemal mnie zgniótł. "
 
 # game/script/03_day2.rpy:59
 translate polish day2_01_tig_d6ccaa64:
 
     # avt "\"A-{w=0.2}All right. I'm fine. It's okay.\" "
-    avt ""
+    avt "\"Dobrze, nic mi nie jest. Już dobrze.\" "
 
 # game/script/03_day2.rpy:61
 translate polish day2_01_tig_e9b6f83b:
 
     # b "Embarrassed, I gently push him away. "
-    b ""
+    b "Zawstydzony, odpycham go lekko. "
 
 # game/script/03_day2.rpy:69
 translate polish day2_01_tig_1fe9ed7a:
 
     # voice voice_file.lpdcat(3,1)
     # lpdcat confused "\"Huh... Liao, what's all the fuss?\" "
-    lpdcat confused ""
+    lpdcat confused "\"Ha... Liao, o co to całe zamieszanie?\" "
 
 # game/script/03_day2.rpy:71
 translate polish day2_01_tig_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
-    b ""
+    b "Senpai siedzi na swoim łóżku, cały zaspany. Zdaje się, że go obudziliśmy. "
 
 # game/script/03_day2.rpy:73
 translate polish day2_01_tig_5ed12fbc:
 
     # voice voice_file.lpdcat(3,2)
     # lpdcat confused "\"What are you guys doing? You're so lovey-dovey. Hell, what time is it...\" "
-    lpdcat confused ""
+    lpdcat confused "\"Co wy tam robicie? Gruchacie sobie jak dwa gołąbki. Cholera, która jest godzina...\" "
 
 # game/script/03_day2.rpy:75
 translate polish day2_01_tig_7f14f811:
 
     # b "Senpai looks for his phone, and I pick up mine. "
-    b ""
+    b "Senpai szuka swojego telefonu, a ja podnoszę mój. "
 
 # game/script/03_day2.rpy:77
 translate polish day2_01_tig_f7f49483:
 
     # b "It's ten o'clock, wow... {w=0.5}I can't believe I woke up this late. I must have been exhausted last night. "
-    b ""
+    b "Już dziesiąta rano, łał... {w=0.5}Nie mogę uwierzyć, że wstałem tak późno. Wczoraj musiałem być wykończony. "
 
 # game/script/03_day2.rpy:79
 translate polish day2_01_tig_cfcf6aac:
 
     # avt "\"...Morning Senpai. It's ten by the way.\" "
-    avt ""
+    avt "\"...dobry Senpai. Tak w ogóle to jest dziesiąta.\" "
 
 # game/script/03_day2.rpy:81
 translate polish day2_01_tig_c71df00e:
 
     # voice voice_file.lpdcat(3,3)
     # lpdcat confused "\"Ten? That's early... I'm going back to sleep...\" "
-    lpdcat confused ""
+    lpdcat confused "\"Dziesiąta? To wcześnie... Pośpię sobie jeszcze...\" "
 
 # game/script/03_day2.rpy:94
 translate polish day2_01_tig_59ece71f:
 
     # b "What?! I know a some people skip morning classes on Monday, but you can't say ten o'clock is {i}early{/i}! "
-    b ""
+    b "Co?! Wiem, że w poniedziałek niektórzy ludzie opuszczają poranne zajęcia, ale nie możesz mówić, że dziesiąta rano to {i}wcześnie{/i}! "
 
 # game/script/03_day2.rpy:97
 translate polish day2_01_tig_20834865:
 
     # avt "\"...Well you can sleep for as long as you want, I'm gonna get up.\" "
-    avt ""
+    avt "\"Możesz sobie spać ile zechcesz... Ja już wstaję.\" "
 
 # game/script/03_day2.rpy:104
 translate polish day2_01_tig_951e65bc:
@@ -199,46 +204,48 @@ translate polish day2_01_tig_951e65bc:
     # b "Tiger moves out of my way so I can get up. "
     # b "As I stand, I notice Leopard standing in front of my desk, staring at me. "
     # b "When did he wake up? ...And why does he have to stare at me like that? "
-    b ""
+    b "Tygrys schodzi z łóżka, więc mogę wstać. "
+    b "Natychmiast zauważam Panterę, który stoi przed moim biurkiem i wpatruje się we mnie. "
+    b "Kiedy wstał? I czemu tak się na mnie patrzy? "
 
 # game/script/03_day2.rpy:106
 translate polish day2_01_tig_37d9d6a8:
 
     # avt "\"Uhh... morning.\" "
-    avt ""
+    avt "\"Uchh... dobry.\" "
 
 # game/script/03_day2.rpy:111
 translate polish day2_01_tig_5a3f878e:
 
     # voice voice_file.lpd(3,1)
     # lpd normal "\"Good morning.\" "
-    lpd normal ""
+    lpd normal "\"Dzień dobry.\" "
 
 # game/script/03_day2.rpy:114
 translate polish day2_01_tig_33f58ee4:
 
     # voice voice_file.tig(3,6)
     # tig normal "\"*cough* Good morning Liao.\" "
-    tig normal ""
+    tig normal "\"*kaszle* Dzień dobry Liao.\" "
 
 # game/script/03_day2.rpy:118
 translate polish day2_01_tig_2a843fce:
 
     # b "I just had to slap the tiger in the belly to get him to reply. He was being impolite but damn, his rock-solid abs hurt my hand. "
-    b ""
+    b "Musiałem zdzielić tygrysa w brzuch, by zmusić go do odpowiedzi. Był nieuprzejmy, ale kurde, rozbolała mnie ręka od jego twardych jak skała mięśni. "
 
 # game/script/03_day2.rpy:120
 translate polish day2_01_tig_8e9fa87f:
 
     # voice voice_file.lpdcat(3,4)
     # lpdcat none "Mmmm... Five more pieces... "
-    lpdcat none ""
+    lpdcat none "Mmmm... Jeszcze pięć kawałków... "
 
 # game/script/03_day2.rpy:122
 translate polish day2_01_tig_c3c6844f:
 
     # b "What the hell is he dreaming about? "
-    b ""
+    b "O czym on do cholery śni? "
 
 # game/script/03_day2.rpy:136
 translate polish day2_01_lpd_78fc9f0d:
