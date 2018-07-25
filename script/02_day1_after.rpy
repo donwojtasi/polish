@@ -1301,7 +1301,7 @@ translate polish day1_after_01_lpd_b901942c:
 
     # voice voice_file.lpd(2,9)
     # lpd happy "\"...Good night.\" "
-    lpd happy "\"...dobranoc.\" "
+    lpd "\"...dobranoc.\" "
 
 # game/script/02_day1_after.rpy:548
 translate polish day1_after_01_lpd_02d50a3e:
@@ -1314,7 +1314,7 @@ translate polish day1_after_01_lpd_d894f500:
 
     # b "He said nothing more before letting me go to sleep. "
     # b "I couldn't help but think about the last expression he had on his face as I close my \neyes... "
-    b "Nie powiedział nic więcej, zanim pozwolił mi zasnąć. "
+    b "Nie powiedział już nic więcej i pozwolił mi zasnąć. "
     b "Zamykając oczy, nie mogłem przestać myśleć o wyrazie jego twarzy, gdy mówił te słowa... "
 
 # game/script/02_day1_after.rpy:566
@@ -1523,7 +1523,7 @@ translate polish day1_after_01_lpdcat_d4716ce4:
 
     # voice voice_file.lpdcat(2,30)
     # lpdcat normal "\"Oh, If I could have that power, I wouldn't need to possess senpai's body anymore.\" "
-    lpdcat normal "\"Och, gdybym tylko miał tę moc, nie musiałbym dłużej opętywać ciała Senpai'a.\" "
+    lpdcat normal "\"Och, gdybym tylko miał tę moc, nie musiałbym dłużej kontrolować ciała twojego senpai'a.\" "
 
 # game/script/02_day1_after.rpy:689
 translate polish day1_after_01_lpdcat_a88e9a0f:

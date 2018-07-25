@@ -508,119 +508,120 @@ translate polish day2_01_lpd_1c993e3c:
 translate polish day2_01_lpdcat_ad58c066:
 
     # b "I hear a voice whispering in my dreams. "
-    b "Słyszę cichy szept w moim śnie. "
+    b "Słyszę głos, który szepcze w moim śnie. "
 
 # game/script/03_day2.rpy:279
 translate polish day2_01_lpdcat_7d355852:
 
     # b "Mmm... delicious... five more pieces... "
-    b ""
+    b "Mmm... przepyszne... jeszcze pięć kawałków... "
 
 # game/script/03_day2.rpy:281
 translate polish day2_01_lpdcat_b047e199:
 
     # b "What the hell? I can see pieces of golden, tasty... salt & pepper chicken?"
-    b ""
+    b "Co do diabła? Widzę kawałki złocistego, smakowitego... kurczaka? "
 
 # game/script/03_day2.rpy:283
 translate polish day2_01_lpdcat_e430100c:
 
     # b "Those fried basils look so appetizing. Mmmm— five pieces of chicken? Man, I'm feeling hungry...\" "
-    b ""
+    b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm- pięć kawałków kurczaka? Teraz czuję się trochę głodny... "
 
 # game/script/03_day2.rpy:285
 translate polish day2_01_lpdcat_09d36734:
 
     # b "More... umm... zzz... "
-    b ""
+    b "Więcej... umm... zzz... "
 
 # game/script/03_day2.rpy:287
 translate polish day2_01_lpdcat_45a64606:
 
     # b "I realise there's a moist tongue licking my arm... {w=0.5}It's cold... "
-    b ""
+    b "Zdaję sobie sprawę z tego, że mokry język liże mnie po ramieniu... {w=0.5}Jest zimny... "
 
 # game/script/03_day2.rpy:289
 translate polish day2_01_lpdcat_0ea67903:
 
     # b "Suddenly, I wake up. "
-    b ""
+    b "Nagle się budzę. "
 
 # game/script/03_day2.rpy:295
 translate polish day2_01_lpdcat_db6e50eb:
 
     # b "I open my eyes to find saliva dripping down my arm... Okaaay— Weird? "
-    b ""
+    b "Otwieram oczy i widzę ślinę spływającą mi po ręce... Dooobra- Dziwne? "
 
 # game/script/03_day2.rpy:298
 translate polish day2_01_lpdcat_c90493db:
 
     # avt "\"...Senpai!\" " with vpunch
-    avt "" with vpunch
+    avt "\"...Senpai!\" " with vpunch
 
 # game/script/03_day2.rpy:306
 translate polish day2_01_lpdcat_f1ca440b:
 
     # voice voice_file.lpdcat(3,6)
     # lpdcat confused "\"Umm... What? Eh, morning Liao...\" "
-    lpdcat confused ""
+    lpdcat confused "\"Umm... Co? Eh, cześć Liao...\" "
 
 # game/script/03_day2.rpy:320
 translate polish day2_01_lpdcat_bb935663:
 
     # b "Senpai snatches the sheets from on top of me and goes back to sleep, leaving me trembling in the cold spring morning breeze. "with hshake
-    b "" with hshake
+    b "Senpai ściąga ze mnie kołdrę i znowu zasypia, zostawiając mnie drżącego w chłodzie wiosennego, porannego wiatru. " with hshake
 
 # game/script/03_day2.rpy:323
 translate polish day2_01_lpdcat_34f9afa8:
 
     # avt "\"Senpai! Hey, damn it...\" "
-    avt ""
+    avt "\"Senpai! Hej! Cholera...\" "
 
 # game/script/03_day2.rpy:325
 translate polish day2_01_lpdcat_eb6e114b:
 
     # voice voice_file.tig(3,12)
     # tig "\"Good Morning Liao.\" "
-    tig ""
+    tig "\"Dzień dobry Liao.\" "
 
 # game/script/03_day2.rpy:327
 translate polish day2_01_lpdcat_33594d9b:
 
     # avt "\"Huh? Oh, good morning...\" "
-    avt ""
+    avt "\"Hę? Och, dzień dobry...\" "
 
 # game/script/03_day2.rpy:336
 translate polish day2_01_lpdcat_f5c2bb8a:
 
     # b "I turn around and find Tiger staring at me. It reminds me of what happened last night. "
-    b ""
+    b "Odwracam się i widzę Tygrysa patrzącego na mnie. Przypominam sobie, co stało się ubiegłej nocy. "
 
 # game/script/03_day2.rpy:338
 translate polish day2_01_lpdcat_602b2cf6:
 
     # b "He stands before me, sun shining down on him through the window... I can't keep staring much longer, or it'll look weird. "
-    b ""
+    b "Stoi prze mną, a słońce świeci na niego przez okno... Nie mogę dłużej się w niego wpatrywać, bo dziwnie to będzie wyglądać. "
 
 # game/script/03_day2.rpy:340
 translate polish day2_01_lpdcat_a279c662:
 
     # voice voice_file.tig(3,13)
     # tig lift "Liao, you woke up late today. Did you have a nice sleep with this guy? "
-    tig lift ""
+    tig lift "Liao, wstałeś dzisiaj późno. Dobrze ci się z nim spało? "
 
 # game/script/03_day2.rpy:342
 translate polish day2_01_lpdcat_aa1edcfa:
 
     # avt "\"Nice? Yeah— No, I mean...\" "
-    avt ""
+    avt "\"DObrze? Tak- Nie, to znaczy...\" "
 
 # game/script/03_day2.rpy:344
 translate polish day2_01_lpdcat_2496d514:
 
     # b "Why'd he have to ask that? I can't exactly say that I had a nice sleep with Senpai, but I can't stand Tiger's stare either. "
     # b "I just decide to get out of bed. "
-    b ""
+    b "Czemu musi się mnie o to pytać? Nie mogę do końca powiedzieć, że dobrze mi się spało z Senpai'em, ale nie mogę też znieść spojrzenia Tygrysa. "
+    b "Postanawiam, że wstanę już z łóżka. "
 
 # game/script/03_day2.rpy:355
 translate polish day2_01_lpdcat_8ac61266:
@@ -664,70 +665,71 @@ translate polish day2_01_lpdcat_537f426f:
 translate polish day2_01_lpdcat_d724a3f9:
 
     # b "I look these two... {w=0.5}cats, up and down while they're standing beside my desk. My little room is now getting pretty crowded I suppose. "
-    b "Spoglądam na tych dwóch... {w=0.5}te dwa koty, z góry na dół, gdy tak stoją przy moim biurku. Myślę, że mój mały pokój staje się całkiem tłoczny. "
+    b "Mierzę wzrokiem z góry na dół tych dwóch... {w=0.5}te dwa koty, gdy tak stoją przy moim biurku. Myślę, że mój mały pokój staje się całkiem tłoczny. "
 
 # game/script/03_day2.rpy:369
 translate polish day2_01_lpdcat_2e99f1f5:
 
     # b "Then there's Senpai curled up under my quilt, his fluffy little head poking out of the \nend. "
-    b ""
+    b "No i pod kołdrą zwinięty jest Senpai, a jego puszysta główka wystaje z samego końca. "
 
 # game/script/03_day2.rpy:371
 translate polish day2_01_lpdcat_0abce5b1:
 
     # avt "\"This sure is a strange day...\" "
-    avt ""
+    avt "\"Co za dziwny dzień...\" "
 
 # game/script/03_day2.rpy:375
 translate polish day2_01_lpdcat_baf3cbf4:
 
     # voice voice_file.tig(3,15)
     # tig frown "\"Hmm— It's nothing strange to me, you'll be used to it soon. However, the only difference is I don't have my spot on Liao's bed today. \" "
-    tig frown ""
+    tig frown "\"Hmm— Nie widzę w tym nic dziwnego, niedługo się przyzwyczaisz. Jedyną różnicą jest to, że w twoim łóżku od dzisiaj nie ma dla mnie miejsca.\" "
 
 # game/script/03_day2.rpy:377
 translate polish day2_01_lpdcat_968c7ece:
 
     # b "So Tiger really is bothered about that... There's not really much I can do since I already let Senpai use the bed. "
-    b ""
+    b "A więc Tygrys wciąż jest zły z tego powodu... Nic teraz nie mogę z tym zrobić, skoro pozwoliłem już Senpai'owi korzystać z łóżka. "
 
 # game/script/03_day2.rpy:379
 translate polish day2_01_lpdcat_9af1b6ab:
 
     # avt "\"Oh... right, what time is it?\" "
-    avt ""
+    avt "\"Och... racja, którą mamy godzinę?\" "
 
 # game/script/03_day2.rpy:383
 translate polish day2_01_lpdcat_11c0cf7f:
 
     # voice voice_file.tig(3,16)
     # tig frown "\"Look yourself.\" "
-    tig frown ""
+    tig frown "\"Sam zobacz.\" "
 
 # game/script/03_day2.rpy:385
 translate polish day2_01_lpdcat_ea9ef7c4:
 
     # b "Tiger points to my phone on the bedside table... It's already ten. I usually get up around nine. "
-    b ""
+    b "Tygrys wskazuje na mój telefon leżący na nocnym stoliku... Jest już dziesiąta. Zazwyczaj wstaję około dziewiątej. "
 
 # game/script/03_day2.rpy:390
 translate polish day2_02_7254ab83:
 
     # avt "\"Oh... ten...\" "
-    avt ""
+    avt "\"Och... dziesiąta...\" "
 
 # game/script/03_day2.rpy:392
 translate polish day2_02_353424e6:
 
     # b "I mean my classes are in the afternoon anyway and campus is just around the corner... I could make it if I left half an hour before. "
     # b "So what should I do? "
-    b ""
+    b "I tak moje zajęcia zaczynają się po południu, a kampus jest dosłownie za rogiem... Zdążę jeśli wyjdę pół godziny przed czasem. "
+    b "Co powinienem teraz robić? "
 
 # game/script/03_day2.rpy:394
 translate polish day2_02_f2617502:
 
     # b "Usually I would just surf the internet, but with everyone here... "
-    b ""
+    b "Zazwyczaj po prostu przeglądam internet, ale gdy oni są tutaj... "
 
 # game/script/03_day2.rpy:396
 translate polish day2_02_e3451c2b:
