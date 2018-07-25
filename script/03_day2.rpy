@@ -736,316 +736,320 @@ translate polish day2_02_e3451c2b:
 
     # b "Speaking of doing things, I'm pretty hungry right now. "
     # b "I should probably wait until Senpai's up though. He'd want food as well. "
-    b ""
+    b "Mówiąc o rzeczach do zrobienia, jestem już trochę głodny. "
+    b "Powinienem raczej poczekać na Senpai'a. Też będzie chciał coś zjeść. "
 
 # game/script/03_day2.rpy:403
 translate polish day2_02_506f66e6:
 
     # b "I decide to just use my computer to pass the time. Turning it on and opening up my social media pages... Wait, something feels strange. "
-    b ""
+    b "Postanawiam przesiedzieć ten czas przed komputerem. Włączam go i otwieram moje moje media społecznościowe... Chwila, coś jest nie tak. "
 
 # game/script/03_day2.rpy:417
 translate polish day2_02_f9b94fac:
 
     # b "...Tiger and Leopard are standing right behind me, peeking at my screen furtively. "
-    b ""
+    b "Tygrys i Pantera stoją tuż za mną zerkając ukradkiem na mój monitor. "
 
 # game/script/03_day2.rpy:419
 translate polish day2_02_e1bc70af:
 
     # avt "\"Uhh, excuse me. What are you two doing?\" "
-    avt ""
+    avt "\"Uhh, przepraszam bardzo. Co wy robicie?\" "
 
 # game/script/03_day2.rpy:421
 translate polish day2_02_7f414c52:
 
     # voice voice_file.tig(3,17)
     # tig normal "\"Hmm? What? This is what I usually do.\" "
-    tig normal ""
+    tig normal "\"Hmm? Co? Robię to co zazwyczaj.\" "
 
 # game/script/03_day2.rpy:423
 translate polish day2_02_96d9a05d:
 
     # avt "\"Spying on me while I use the computer?\" "
-    avt ""
+    avt "\"Masz na myśli śledzenie mnie, gdy korzystam z komputera?\" "
 
 # game/script/03_day2.rpy:425
 translate polish day2_02_23048207:
 
     # voice voice_file.tig(3,18)
     # tig normal "\"Correct.\" "
-    tig normal ""
+    tig normal "\"Dokładnie.\" "
 
 # game/script/03_day2.rpy:427
 translate polish day2_02_61d8e4e2:
 
     # avt "\"...Could you stop, please? I-It makes me uncomfortable.\" "
-    avt ""
+    avt "\"A mógłbyś proszę przestać? Cz-czuję się przez to niezręcznie.\" "
 
 # game/script/03_day2.rpy:429
 translate polish day2_02_39216b72:
 
     # voice voice_file.tig(3,19)
     # tig normal "\"Uncomfortable? How so?\" "
-    tig normal ""
+    tig normal "\"Niezręcznie? Niby czemu?\" "
 
 # game/script/03_day2.rpy:431
 translate polish day2_02_e3d4dfb9:
 
     # avt "\"I mean... It's strange to have someone watching you.\" "
-    avt ""
+    avt "\"Dlatego że... To trochę dziwne jak ktoś cały czas stoi ci za plecami.\" "
 
 # game/script/03_day2.rpy:433
 translate polish day2_02_c77d77b5:
 
     # voice voice_file.tig(3,20)
     # tig normal "\"Strange? But I do watch you all the time. Like I said, I know all files on your \ncomputer.\" "
-    tig normal ""
+    tig normal "\"Dziwne? Obserwuję cię cały czas. Jak już mówiłem, znam wszystkie pliki w twoim komputerze.\" "
 
 # game/script/03_day2.rpy:435
 translate polish day2_02_4c6d08b5:
 
     # avt "\"Even then, it's a bit different when I actually know you're doing it...\" "
-    avt ""
+    avt "\"Mimo wszystko, teraz jest trochę inaczej, gdy zadaję sobie sprawę z tego, że to robisz...\" "
 
 # game/script/03_day2.rpy:437
 translate polish day2_02_222f0848:
 
     # b "Not that that means I don't mind that he did it before! Do they know my right to \nprivacy? "
     # b "Granted, am I really in a position to discuss my privacy with gods... "
-    b ""
+    b "To nie znaczy, że nie przeszkadza mi fakt, że robił to wcześniej! Czy oni znają moje prawo do prywatności? "
+    b "Racja, czy naprawdę jestem w stanie dyskutować o tym z bogami... "
 
 # game/script/03_day2.rpy:439
 translate polish day2_02_c06cf7b3:
 
     # avt "\"How can I relax while being watched? Sorry, but could you two just move away while I'm using my computer?\" "
-    avt ""
+    avt "\"Jak mam się odprężyć, gdy ktoś mnie obserwuje. Przepraszam, ale czy możecie się odsunąć, gdy używam komputera?\" "
 
 # game/script/03_day2.rpy:441
 translate polish day2_02_a2948141:
 
     # voice voice_file.tig(3,21)
     # tig lift "\"That's fine. I just want to keep an eye on you. I'm not the only one living with you \nnow.\" "
-    tig lift ""
+    tig lift "\"Niech będzie. Chcę tylko mieć cię na oku. Teraz już nie tylko ja z tobą mieszkam.\" "
 
 # game/script/03_day2.rpy:443
 translate polish day2_02_84a4197e:
 
     # voice voice_file.tig(3,22)
     # tig lift "\"Is it what you don't want others to know what you're doing, or that you just don't feel comfortable being watched?\" "
-    tig lift ""
+    tig lift "\"Czy to dlatego, że nie chcesz by inni wiedzieli co robisz, czy może dlatego, że nie czujesz się komfortowo, gdy ktoś cię obserwuje?\" "
 
 # game/script/03_day2.rpy:445
 translate polish day2_02_36fcd4b6:
 
     # avt "\"Well... both...\" "
-    avt ""
+    avt "\"W sumie... I to i to...\" "
 
 # game/script/03_day2.rpy:449
 translate polish day2_02_a939d312:
 
     # voice voice_file.tig(3,23)
     # tig lift "\"Oh— If that's the case, I'll go get myself a book then.\" "
-    tig lift ""
+    tig lift "\"Och- Skoro tak, pójdę wziąć sobie jakąś książkę.\" "
 
 # game/script/03_day2.rpy:455
 translate polish day2_02_772c8ebb:
 
     # b "Tiger walks over to my bookshelf, picking out a book just like normal. Then I notice something strange. "
     # b "The book is simultaneously still on the shelf {i}and{/i} \ in his hand... How did he do that? "
-    b ""
+    b "Tygrys podchodzi do półki z książkami i podnosi po prostu podnosi książkę. Nagle zauważam coś dziwnego. "
+    b "Książka wciąż jest na półce {i}i{/i} jednocześnie w jego ręce... Jak on to zrobił? "
 
 # game/script/03_day2.rpy:458
 translate polish day2_02_3ba32469:
 
     # b "Never mind, it's not important to me. Meanwhile, Leopard seems to have left of his own volition. "
-    b ""
+    b "Mniejsza o to, to nie jest dla mnie ważne. Zdaje się, że w międzyczasie Pantera odszedł z własnej woli. "
 
 # game/script/03_day2.rpy:464
 translate polish day2_02_2959637f:
 
     # b "Okay, well I guess I'm free now. I mean— There's still {i}some{/i} \ stuff I can't open because there in the room, but I can work with this. "
     # b "With nothing else to do, I spend my time on the internet until twelve. "
-    b ""
+    b "Dobrze, teraz mam spokój. To znaczy- Wciąż są {i}pewne{/i} \ rzeczy, których nie mogę otworzyć siedząc z nimi w jednym pokoju, ale raczej sobie z tym poradzę. "
+    b "Nie mając nic lepszego do roboty, spędzam czas korzystając z internetu do dwunastej. "
 
 # game/script/03_day2.rpy:469
 translate polish day2_02_67331fce:
 
     # avt "\"Senpai! Senpai! It's time to get up.\" "
-    avt ""
+    avt "\"Senpai! Senpai! Czas wstawać.\" "
 
 # game/script/03_day2.rpy:478
 translate polish day2_02_dce6f8af:
 
     # voice voice_file.lpdcat(3,7)
     # lpdcat confused "\"Umm... Liao... morning. What time is it?\" "
-    lpdcat confused ""
+    lpdcat confused "\"Umm... Liao... dobry. Która godzina?\" "
 
 # game/script/03_day2.rpy:480
 translate polish day2_02_2122d5f5:
 
     # avt "\"It's afternoon. Do you always have to get up this late?\" "
-    avt ""
+    avt "\"Już popołudnie. Czy zawsze musisz wstawać tak późno?\" "
 
 # game/script/03_day2.rpy:482
 translate polish day2_02_0ad2ae59:
 
     # voice voice_file.lpdcat(3,8)
     # lpdcat normal "\"It's pretty normal for me. Hard to change.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Dla mnie to całkiem normalne. Trudno to zmienić.\" "
 
 # game/script/03_day2.rpy:484
 translate polish day2_02_6de20b7f:
 
     # avt "\"Oh... So that's how you waste your life away.\" "
-    avt ""
+    avt "\"Och... A więc to w taki sposób marnujesz swe życie.\" "
 
 # game/script/03_day2.rpy:486
 translate polish day2_02_ff17d233:
 
     # voice voice_file.lpdcat(3,9)
     # lpdcat normal "\"You'll understand more later in college...\" "
-    lpdcat normal ""
+    lpdcat normal "\"Zrozumiesz jak trochę dłużej postudiujesz...\" "
 
 # game/script/03_day2.rpy:488
 translate polish day2_02_7ea62281:
 
     # b "He doesn't really care does he... People say the further you get in college the less you care about it. Surely the code of honor my senpai lives by. "
-    b ""
+    b "Nic go to nie obchodzi... Ludzie mówią, że im dłużej jesteś na studiach, tym mniej cię to obchodzi. Zdaję się, że mój senpai żyje zgodnie z tą zasadą. "
 
 # game/script/03_day2.rpy:490
 translate polish day2_02_03b8e5d7:
 
     # avt "\"Anyway, get up and have lunch. Otherwise we're gonna miss class.\" "
-    avt ""
+    avt "\"Dobra, wstawaj już i zjedzmy coś. Inaczej opuścimy zajęcia.\" "
 
 # game/script/03_day2.rpy:494
 translate polish day2_02_a778b919:
 
     # voice voice_file.lpdcat(3,10)
     # lpdcat laugh "\"Yeaaah, all right, lemme wash my face first...\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Taaaak, w porządku. Pozwól, że najpierw przemyję twarz...\" "
 
 # game/script/03_day2.rpy:502
 translate polish day2_02_e95d67e3:
 
     # b "\"Senpai slides out of the bed and meanders his way into the bathroom.\" "
-    b ""
+    b "Senpai zsuwa się z łóżka i człapie do łazienki. "
 
 # game/script/03_day2.rpy:506
 translate polish day2_02_4c6d0763:
 
     # avt "\"Hey, Senpai. What's your plans for this afternoon?\" "
-    avt ""
+    avt "\"Hej Senpai. Jakie masz plany na popołudnie?\" "
 
 # game/script/03_day2.rpy:508
 translate polish day2_02_f5ef3c6a:
 
     # voice voice_file.lpdcat(3,11)
     # lpdcat none "\"This afternoon? I'll just go to school with you.\" "
-    lpdcat none ""
+    lpdcat none "\"Na teraz? Po prostu pójdę z tobą do szkoły.\" "
 
 # game/script/03_day2.rpy:510
 translate polish day2_02_b7ec7a5c:
 
     # b "Senpai is barely audible over the running water. "
-    b ""
+    b "Ledwo go słychać spod płynącej wody. "
 
 # game/script/03_day2.rpy:512
 translate polish day2_02_219af151:
 
     # avt "\"So when do you finish your classes?\" "
-    avt ""
+    avt "\"A kiedy kończysz swoje zajęcia?\" "
 
 # game/script/03_day2.rpy:514
 translate polish day2_02_f667f559:
 
     # voice voice_file.lpdcat(3,12)
     # lpdcat "\"Classes? I don't have any today.\" "
-    lpdcat ""
+    lpdcat "\"Zajęcia? Nie mam dzisiaj żadnych.\" "
 
 # game/script/03_day2.rpy:516
 translate polish day2_02_09750fec:
 
     # avt "\"...Then why are you coming to school with me?\" "
-    avt ""
+    avt "\"To czemu idziesz ze mną do szkoły?\" "
 
 # game/script/03_day2.rpy:518
 translate polish day2_02_6a68ccc5:
 
     # voice voice_file.lpdcat(3,13)
     # lpdcat "\"So I can stay with you, obviously.\" "
-    lpdcat ""
+    lpdcat "\"Żeby móc z tobą zostać, oczywiście.\" "
 
 # game/script/03_day2.rpy:520
 translate polish day2_02_57907079:
 
     # avt "\"What?!\" " with hshake
-    avt "" with hshake
+    avt "\"Słucham?!\" " with hshake
 
 # game/script/03_day2.rpy:522
 translate polish day2_02_eb2afb96:
 
     # voice voice_file.lpdcat(3,14)
     # lpdcat "\"Come on, when a couple moves in together, the least they should do is go to school together~\" "
-    lpdcat ""
+    lpdcat "\"Daj spokój, gdy para zaczyna razem mieszkać, przynajmniej powinni razem chodzić do szkoły~\" "
 
 # game/script/03_day2.rpy:526
 translate polish day2_02_53849820:
 
     # avt "\"Stop messing with me Senpai! This isn't some cheesy romance manga you know!\" "
-    avt ""
+    avt "\"Przestań się ze mnie nabijać Senpai! To nie jest jakaś kiepska komedia romantyczna, wiesz?!\" "
 
 # game/script/03_day2.rpy:535
 translate polish day2_02_2670da57:
 
     # b "\"Senpai walks out from the bathroom, wiping his face dry with my towel. \nYes, my towel.\" "
-    b ""
+    b "\"Senpai wychodzi z łazienki, wycierając twarz moim ręcznikiem.\nTak, moim ręcznikiem. "
 
 # game/script/03_day2.rpy:537
 translate polish day2_02_43a336f0:
 
     # voice voice_file.lpdcat(3,15)
     # lpdcat cute "\"Well, take it easy. Anyway, I can't lock myself in your room all day long, and I don't have a key. So why don't we just go to school together?\" "
-    lpdcat cute ""
+    lpdcat cute "\"oj tam, wyluzuj. Przecież nie mogę zamknąć się na cały dzień w twoim pokoju, a nie mam do niego klucza. Dlaczego więc, nie możemy iść razem do szkoły?\" "
 
 # game/script/03_day2.rpy:539
 translate polish day2_02_3b23b615:
 
     # avt "\"Um...\" "
-    avt ""
+    avt "\"Um...\" "
 
 # game/script/03_day2.rpy:541
 translate polish day2_02_d1dd2bb6:
 
     # b "\"As good as his point is, why can't he just go home?\" "
-    b ""
+    b "Mimo że jego argument jest dobry, jeszcze lepiej byłoby, gdyby po prostu poszedł do domu. "
 
 # game/script/03_day2.rpy:543
 translate polish day2_02_0c8feffa:
 
     # avt "\"Senpai, I think it's better for you to go home. You don't even have any clothes or anything with you, right?\" "
-    avt ""
+    avt "\"Senpai, lepiej będzie jeśli wrócisz do domu. Nie masz ze sobą żadnych rzeczy, ani ubrań na zmianę, prawda?\" "
 
 # game/script/03_day2.rpy:545
 translate polish day2_02_d5851895:
 
     # voice voice_file.lpdcat(3,16)
     # lpdcat normal "\"Yep, I was just gonna grab what I needed and bring it over tonight.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Ta, chciałem tylko zabrać szybko co mi potrzebne i przynieść to dziś wieczorem.\" "
 
 # game/script/03_day2.rpy:547
 translate polish day2_02_5c6d9c9a:
 
     # avt "\"...Senpai, why are you insisting so hard on this?\" "
-    avt ""
+    avt "\"...Senpai, dlaczego tak bardzo nalegasz w tej sprawie?\" "
 
 # game/script/03_day2.rpy:549
 translate polish day2_02_8fcd7926:
 
     # voice voice_file.lpdcat(3,17)
     # lpdcat cute "\"Like I said yesterday, I'm not about to lose to these two. So I'm with you no matter what!\" "
-    lpdcat cute ""
+    lpdcat cute "\"Tak jak mówiłem wczoraj, nie zamierzam z nimi przegrać. Zostanę z tobą choćby nie wiem co!\" "
 
 # game/script/03_day2.rpy:551
 translate polish day2_02_eec8bba0:
