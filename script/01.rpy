@@ -1866,7 +1866,7 @@ translate polish start_b201ea55:
 
     voice voice_file.lpd(1,15)
 
-    lpd normal "\"...Duch Han'ów?\" "
+    lpd normal "\"...Duch Hanów?\" "
 
 
 
