@@ -1055,39 +1055,39 @@ translate polish day2_02_8fcd7926:
 translate polish day2_02_eec8bba0:
 
     # avt "\"...Whatever, be my guest. So what about lunch?\" "
-    avt ""
+    avt "\"No dobra, bądź moim gościem. Co powiesz na lunch?\" "
 
 # game/script/03_day2.rpy:555
 translate polish day2_02_888b9c3e:
 
     # voice voice_file.lpdcat(3,18)
     # lpdcat cute "\"Of course, I'd love to dine with you Liao~\" "
-    lpdcat cute ""
+    lpdcat cute "\"Pewnie, chętnie zjem coś z tobą Liao~\" "
 
 # game/script/03_day2.rpy:557
 translate polish day2_02_276a0cab:
 
     # avt "\"I was just thinking about getting a sandwich.\" "
-    avt ""
+    avt "\"Myślałem by wziąć sobie jakąś kanapkę.\" "
 
 # game/script/03_day2.rpy:561
 translate polish day2_02_1918ff6c:
 
     # voice voice_file.lpdcat(3,19)
     # lpdcat panic "\"Whaa— Come on Liao! Don't just get a sandwich, there's no romantic atmosphere to that at all.\" "
-    lpdcat panic ""
+    lpdcat panic "\"Cooo- Daj spokój Liao! Nie bierz jakiejś kanapki, nie ma w tym ani krzty romantyzmu.\" "
 
 # game/script/03_day2.rpy:563
 translate polish day2_02_13fa9010:
 
     # avt "\"Why is that all you care about...\" "
-    avt ""
+    avt "\"A czemu tak to cię obchodzi...\" "
 
 # game/script/03_day2.rpy:565
 translate polish day2_02_0f263aab:
 
     # b "I let out a deep sigh. "
-    b ""
+    b "Głęboko wzdycham. "
 
 # game/script/03_day2.rpy:567
 translate polish day2_02_87c5d4ff:

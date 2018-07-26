@@ -36,14 +36,14 @@ translate polish day1_after_01_tig_db927990:
 translate polish day1_after_01_tig_0bd8ae57:
 
     # b "I go to the closet and get out the spare quilt, passing it to Senpai. "
-    b "Podchodzę do szafy i wyjmuję z niej zapasową kołdrę, podając ją Senpai'owi. "
+    b "Podchodzę do szafy, wyjmuję z niej zapasową kołdrę i podaję ją Senpai'owi. "
 
 # game/script/02_day1_after.rpy:39
 translate polish day1_after_01_tig_ca335cca:
 
     # voice voice_file.lpdcat(2,3)
     # lpdcat wronged "\"Well, if its gotta be like this...\" "
-    lpdcat wronged "\"Skoro tak ma być...\" "
+    lpdcat wronged "\"Skoro tak musi być...\" "
 
 # game/script/02_day1_after.rpy:43
 translate polish day1_after_01_tig_0ae6d1fe:
