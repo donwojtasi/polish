@@ -252,7 +252,7 @@ translate polish day1_after_01_tig_8fc0d0ea:
     # b "I try to control my breathing as my whole body tightens up. "
     # b "There's no way this is real, at this point I {i}have{/i} \ to be in some cheesy romcom anime! "
     b "Próbuję uspokoić oddech, a całe moje ciało napina się. "
-    b "To się nie dzieje naprawdę, ja {i}muszę{/i} \ brać udział w jakiejś kiepskiej komedii romantycznej! "
+    b "To się nie dzieje naprawdę, {i}na pewno{/i} \ biorę udział w jakiejś kiepskiej komedii romantycznej! "
 
 # game/script/02_day1_after.rpy:141
 translate polish day1_after_01_tig_2a75ce38:
