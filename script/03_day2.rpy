@@ -1279,26 +1279,26 @@ translate polish day2_02_f2a1b465:
 translate polish day2_02_b210eb70:
 
     # avt "\"God... what kind of situation am I even in? \" "
-    avt ""
+    avt "\"Boże... w jakiej sytuacji mnie stawiasz?\" "
 
 # game/script/03_day2.rpy:698
 translate polish day2_02_004a3ab1:
 
     # voice voice_file.tig(3,29)
     # tig lift "\"No idea. Maybe it's karma.\" "
-    tig lift ""
+    tig lift "\"Nie mam pojęcia. Może to karma.\" "
 
 # game/script/03_day2.rpy:703
 translate polish day2_02_70893b15:
 
     # b "Really! My karma must be pretty crap if I can't even get some peace and quiet at \nschool! "
-    b ""
+    b "Serio! Moja karma musi być naprawdę do kitu, skoro nie mogę nawet zaznać odrobiny ciszy i spokoju w szkole! "
 
 # game/script/03_day2.rpy:705
 translate polish day2_02_2222d5cd:
 
     # b "I mean, it's not {i}that{/i} \ bad to be around three beast-men, but where's my freedom? Where's my right to privacy? "
-    b ""
+    b "W sumie, towarzystwo trzech zwierzoludzi nie jest aż{i}tak{/i} \ złe, ale gdzie moja wolność? Gdzie moje prawo do prywatności? "
 
 # game/script/03_day2.rpy:711
 translate polish day2_02_994ccb48:
@@ -1306,116 +1306,120 @@ translate polish day2_02_994ccb48:
     # voice voice_file.tig(3,30)
     # tig normal "\"Liao, you'll just need to get used to it.\" "
     # tig normal "\"I've always gone with you, you just couldn't see me. Perhaps pretend I'm not there?\" "
-    tig normal ""
+    tig normal "\"Po prostu musisz się do tego przyzwyczaić.\" "
+    tig normal "\"Zawsze byłem przy tobie, nie mogłeś mnie tylko zobaczyć. Może udaj, że mnie tam nie ma?\" "
 
 # game/script/03_day2.rpy:713
 translate polish day2_02_7f59b97e:
 
     # avt "\"It's not that easy! And how do you expect me to deal with these two?\" "
-    avt ""
+    avt "\"To nie takie łatwe! I jak myślisz, że mam poradzić sobie z tymi dwoma?\" "
 
 # game/script/03_day2.rpy:719
 translate polish day2_02_e423d6b9:
 
     # voice voice_file.lpd(3,6)
     # lpd normal "\"You... don't see me.\" "
-    lpd normal ""
+    lpd normal "\"Ty... mnie nie widzieć.\" "
 
 # game/script/03_day2.rpy:726
 translate polish day2_02_303b63b0:
 
     # voice voice_file.lpdcat(3,26)
     # lpdcat normal "\"I just want to go to class with Liao. I have a right to go to as an actual college \nstudent!\" "
-    lpdcat normal ""
+    lpdcat normal "\"Chcę tylko iść na zajęcia z Liao. Mam do tego prawo, ponieważ też jestem studentem!\" "
 
 # game/script/03_day2.rpy:728
 translate polish day2_02_e0b35ed1:
 
     # avt "\"That's not the point Senpai...\" "
-    avt ""
+    avt "\"Nie o to chodzi Senpai...\" "
 
 # game/script/03_day2.rpy:736
 translate polish day2_02_b53cfb78:
 
     # voice voice_file.lpdcat(3,27)
     # lpdcat cute "\"I can walk with you to school! Then we can talk together! I can even do your class notes! I'll do whatever you want Liao! \" "
-    lpdcat cute ""
+    lpdcat cute "\"Mogę iść z tobą do szkoły! Potem możemy razem rozmawiać! Mogę nawet robić ci notatki z zajęć! Zrobię wszystko co zechcesz Liao!\" "
 
 # game/script/03_day2.rpy:741
 translate polish day2_02_446fdb3f:
 
     # b "I can't deny his enthusiasm. "
-    b ""
+    b "Nie mogę odmówić mu entuzjazmu. "
 
 # game/script/03_day2.rpy:743
 translate polish day2_02_43e1f11d:
 
     # avt "\"...You really are cunning.\" "
-    avt ""
+    avt "\"...ale jesteś cwany.\" "
 
 # game/script/03_day2.rpy:745
 translate polish day2_02_3dff8d0a:
 
     # voice voice_file.lpdcat(3,28)
     # lpdcat cute "\"So, I take that as a yes~ Heheh— give in to your inner desires...\" "
-    lpdcat cute ""
+    lpdcat cute "\"A więc uznam to za tak~ Heheh- \" poddaj się swoim wewnętrznym pragnieniom...\" "
 
 # game/script/03_day2.rpy:747
 translate polish day2_02_27752648:
 
     # avt "\"Whaaat—\" "
     # avt "\"...All right, you can come if you want. I have nothing else better to do anyway. Just, no funny stuff. Got it?\" "
-    avt ""
+    avt "\"Coooo-\" "
+    avt "\"Dobra, możesz iść jeśli chcesz. I tak nie mam nic lepszego do roboty. Tylko bez śmieszkowania. Zrozumiano?\" "
 
 # game/script/03_day2.rpy:755
 translate polish day2_02_a532c917:
 
     # b "I get my things and open the door, letting the others out before locking it behind \nthem. "
-    b ""
+    b "Zbieramy się do wyjścia. Przepuszczam resztę przodem, zamykając za nimi drzwi. " 
 
 # game/script/03_day2.rpy:769
 translate polish day2_02_155e2529:
 
     # b "On our way, I go with Senpai and get some sandwiches and soymilk for lunch. Then we head off to class. "
-    b ""
+    b "Po drodze kupujemy z Senpai'em kanapki i mleko sojowe na lunch. Następnie udajemy się na zajęcia. "
 
 # game/script/03_day2.rpy:771
 translate polish day2_02_7272fa30:
 
     # b "Just as he wanted, Senpai sits in on my lesson. Granted, it's not his subject and he has no reason to be here. "
     # b "Thankfully, there's a lot of people here today so he won't be noticed. "
-    b ""
+    b "Senpai przychodzi na moje zajęcia tak jak chciał. Przecież to nie jest jego przedmiot i nie ma powodu by tu siedzieć. "
+    b "Na szczęście dzisiaj jest tu mnóstwo ludzi, więc nikt go nie zauważy. "
 
 # game/script/03_day2.rpy:773
 translate polish day2_02_69c9eee0:
 
     # b "I sit in my usual spot in the middle of the classroom while Senpai sits right next to me. Then so do Tiger and Leopard... "
     # b "(Do they really need their own seats though?) "
-    b ""
+    b "Siadam tam gdzie zwykle, w samym środku sali, a Senpai przysiada się tuż obok. Tak samo Tygrys i Pantera... "
+    b "(Czy oni naprawdę potrzebują własnych miejsc?) "
 
 # game/script/03_day2.rpy:775
 translate polish day2_02_6d723708:
 
     # b "My gaze turns to them, Tiger looks calm and used to it, but Leopard's on edge. Ever since we got onto the campus, he's been looking at pretty much everything as if he's in some crazy new world. "
-    b ""
+    b "Spoglądam na nich, Tygrys przywykł już do tego i siedzi spokojnie, ale Pantera jest bardzo przejęty. Od kiedy weszliśmy do kampusu przygląda się praktycznie wszystkiemu, jakby był w jakimś zupełnie nowym, szalonym świecie. "
 
 # game/script/03_day2.rpy:777
 translate polish day2_02_39f98f95:
 
     # b "Even after we took our seats he's still at it. How different is his hometown anyway? "
-    b ""
+    b "Po zajęciu przez nas miejsc, wcale mu nie przechodzi. Czy jego miasto tak bardzo się różni? "
 
 # game/script/03_day2.rpy:779
 translate polish day2_02_c6de57ab:
 
     # b "Although I'm curious, he hasn't spoken a word. So I ignore him for now and get ready for class. "
-    b ""
+    b "Pomimo mojej ciekawości, nie odezwał się ani słowem. Więc na razie go ignoruję i szykuję się do zajęć. "
 
 # game/script/03_day2.rpy:786
 translate polish day2_02_27ddfcda:
 
     # b "Class begins, I start making notes while Senpai plays with his phone. All goes as expected. Well except for Leopard, who to my surprise is leaning over onto my desk to see what I'm writing. "
-    b ""
+    b "Lekcja się rozpoczyna. Robię notatki, a Senpai bawi się telefonem. Wszystko idzie jak trzeba. No może poza Panterą, który ku mojemu zaskoczeniu nachyla się nad moją ławką, by zobaczyć co piszę. "
 
 # game/script/03_day2.rpy:793
 translate polish day2_02_9ef6d394:
