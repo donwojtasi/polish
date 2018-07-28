@@ -1425,46 +1425,46 @@ translate polish day2_02_27ddfcda:
 translate polish day2_02_9ef6d394:
 
     # b "It's a little weird having someone read over my shoulder like this... I mean unlike earlier this morning on the computer, I don't mind him watching me... "
-    b ""
+    b "To trochę dziwne, gdy ktoś czyta mi przez ramię w ten sposób... W przeciwieństwie do porannej sytuacji z komputerem, nie mam nic przeciwko. "
 
 # game/script/03_day2.rpy:804
 translate polish day2_02_f8e57086:
 
     # voice voice_file.tig(3,31)
     # tig frown "\"Hey, aborigine, stop disturbing Liao.\" "
-    tig frown ""
+    tig frown "\"Hej aborygenie, przestań przeszkadzać Liao.\" "
 
 # game/script/03_day2.rpy:806
 translate polish day2_02_4c389a2e:
 
     # voice voice_file.lpd(3,7)
     # lpd normal "\"...Not disturbing.\" "
-    lpd normal ""
+    lpd normal "\"...nie przeszkadzać.\" "
 
 # game/script/03_day2.rpy:808
 translate polish day2_02_728c2b23:
 
     # voice voice_file.tig(3,32)
     # tig frown "\"Then keep some distance. You're distracting him from his studies, you know?\" "
-    tig frown ""
+    tig frown "\"To chociaż się trochę odsuń. Rozpraszasz go podczas nauki, wiesz?\" "
 
 # game/script/03_day2.rpy:810
 translate polish day2_02_fb830872:
 
     # b "It is a little distracting to have a big cat face right next to your notebook, but I don't mind. "
-    b ""
+    b "Duża kocia buzia stercząca tuż przy zeszycie może być trochę rozpraszająca, ale nie mam nic przeciwko. "
 
 # game/script/03_day2.rpy:812
 translate polish day2_02_1c1d4e55_1:
 
     # lpd normal "\"......\" "
-    lpd normal ""
+    lpd normal "\"......\" "
 
 # game/script/03_day2.rpy:814
 translate polish day2_02_9d078f64:
 
     # b "Leopard moves his head away from my desk. "
-    b ""
+    b "Pantera odsuwa głowę od mojej ławki. "
 
 # game/script/03_day2.rpy:816
 translate polish day2_02_11885967:
@@ -1472,14 +1472,15 @@ translate polish day2_02_11885967:
     # voice voice_file.tig(3,33)
     # tig frown "\"And you shouldn't just hang around here like a peasant, do you know how annoying you are?\" "
     # tig frown "\"If you want to stay, stay. But if you keep disturbing others, you're just pathetic.\" "
-    tig frown ""
+    tig frown "\"I nie powinieneś kręcić się tutaj jak przygłup, czy wiesz jak bardzo to wkurza?\" "
+    tig frown "\"Jeśli chcesz zostać to zostań. Ale jeśli będziesz przeszkadzać innym, jesteś po prostu żałosny.\" "
 
 # game/script/03_day2.rpy:824
 translate polish day2_02_dc094b2e:
 
     # voice voice_file.lpd(3,8)
     # lpd angry_1 "\"...Not disturbing. Han god, asks for trouble.\" "
-    lpd angry_1 ""
+    lpd angry_1 "\"...nie przeszkadzać. Bóg Hana, prosić się o kłopoty.\" "
 
 # game/script/03_day2.rpy:826
 translate polish day2_02_30bd3481:
@@ -1487,240 +1488,243 @@ translate polish day2_02_30bd3481:
     # voice voice_file.tig(3,34)
     # tig frown "\"I ask for trouble you say? You're full of trouble yourself, breaking into other people's lives and not being aware of it!\" "
     # tig frown "\"I don't mind if you insist on staying, but you can at least be considerate. Take a seat and keep yourself away from Liao as far as possible.\" "
-    tig frown ""
+    tig frown "\"Ja proszę się o kłopoty? Sam jesteś chodzącym kłopotem, od tak wparowujesz do życia innych ludzi i nawet nie zdajesz sobie z tego sprawy!\" "
+    tig frown "\"Nie mam nic przeciwko, jeśli nalegasz by zostać, ale przynajmniej zachowuj się rozważnie. Usiądź i trzymaj się z dala od Liao na ile to możliwe.\" "
 
 # game/script/03_day2.rpy:830
 translate polish day2_02_a2e93be1:
 
     # voice voice_file.lpd(3,9)
     # lpd angry_1 "\"Han god's words, not listening.\" "
-    lpd angry_1 ""
+    lpd angry_1 "\"Nie słuchać, słowa boga Hanów.\" "
 
 # game/script/03_day2.rpy:832
 translate polish day2_02_043a3236:
 
     # b "What? Are they seriously going to argue over this? "
-    b ""
+    b "Co? Naprawdę chcą się o to kłócić? "
 
 # game/script/03_day2.rpy:834
 translate polish day2_02_a63116f4:
 
     # b "I looked to Senpai, but he just glances over at Tiger and Leopard before returning to his phone. "
-    b ""
+    b "Patrzę na Senpai'a, ale on tylko przelotnie spogląda na Tygrysa i Panterę, po czym wraca do telefonu. "
 
 # game/script/03_day2.rpy:838
 translate polish day2_02_7846c28f:
 
     # voice voice_file.tig(3,35)
     # tig frown "\"Right, I am a Han god, and I am the protector of Liao. If you want Liao's help, you'd better listen to me. It's basic manners.\" "
-    tig frown ""
+    tig frown "\"Dokładnie, jestem bogiem Hanów oraz obrońcą Liao. Jeśli chcesz jego pomocy, najpierw posłuchaj się mnie. O ile posiadasz chociaż odrobinę manier.\" "
 
 # game/script/03_day2.rpy:842
 translate polish day2_02_abde525f:
 
     # voice voice_file.lpd(3,10)
     # lpd angry_1 "\"...Han god asks for trouble. Not listening.\" "
-    lpd angry_1 ""
+    lpd angry_1 "\"...bóg Hanów prosi się o kłopoty. Nie słuchać.\" "
 
 # game/script/03_day2.rpy:846
 translate polish day2_02_09acb2a0:
 
     # voice voice_file.tig(3,36)
     # tig frown "\"Now I am asking for trouble! If you...\" "
-    tig frown ""
+    tig frown "\"Teraz proszę się o kłopoty! Jeśli nie...\" "
 
 # game/script/03_day2.rpy:850
 translate polish day2_02_1b9f2d9a:
 
     # avt "\"Knock it off! I'm in class, you two—\" " with flash
-    avt "" with flash
+    avt "\"Przestańcie! Jestem na zajęciach, wy dwaj-\" " with flash
 
 # game/script/03_day2.rpy:858
 translate polish day2_02_c48b8d8e:
 
     # b "Oh... {w=0.5}crap. "
-    b ""
+    b "Och... {w=0.5}cholera. "
 
 # game/script/03_day2.rpy:860
 translate polish day2_02_594618d8:
 
     # b "I just realised that I shouted that aloud— in a classroom— where no one else knows what the hell I'm going on about... "
     # b "Expectedly, everyone in the room stares at me. "
-    b ""
+    b "Orientuję się, że wykrzyczałem to głośno- w klasie- gdzie nikt poza mną nie ma pojęcia o czym do cholery mówię... "
+    b "Oczywiście każdy się na mnie teraz gapi. "
 
 # game/script/03_day2.rpy:862
 translate polish day2_02_c5ea42fd:
 
     # voice voice_file.teacher(3,1)
     # teacher "\"Sir? What are you going on about?\" "
-    teacher ""
+    teacher "\"Proszę pana? O czym pan mówi?\" "
 
 # game/script/03_day2.rpy:864
 translate polish day2_02_ea44843f:
 
     # avt "\"No... it was nothing, I'm so sorry. I was just dreaming.\" "
-    avt ""
+    avt "\"Nie.. to nic takiego, bardzo przepraszam. Chyba przysnąłem.\" "
 
 # game/script/03_day2.rpy:866
 translate polish day2_02_e39b8e55:
 
     # b "I quietly try to muster my defense. "
-    b ""
+    b "Próbuję się szybko wytłumaczyć. "
 
 # game/script/03_day2.rpy:868
 translate polish day2_02_686882c8:
 
     # voice voice_file.teacher(3,2)
     # teacher "\"Don't doze off in my class. If you want to sleep you shouldn't be in my class. This is your last chance, understood?\" "
-    teacher ""
+    teacher "\"Nie śpij na moich zajęciach. Jeśli chcesz spać to nie powinno cię tu być. To twoja ostatnia szansa, zrozumiano?\" "
 
 # game/script/03_day2.rpy:870
 translate polish day2_02_3cb391b4:
 
     # avt "\"...Yes, understood.\" "
-    avt ""
+    avt "\"Tak, rozumiem...\" "
 
 # game/script/03_day2.rpy:872
 translate polish day2_02_674ef18d:
 
     # b "Damn it, I'm completely lost with my notes now! ...Those two cats! "
-    b ""
+    b "Cholera, do tego pogubiłem się w moich notatkach! ... Te dwa koty! "
 
 # game/script/03_day2.rpy:878
 translate polish day2_02_67a2a7e2:
 
     # voice voice_file.tig(3,37)
     # tig normal "\"...Liao, I'm sorry. I'm not used to the... aborigine and I forgot you could hear us.\" "
-    tig normal ""
+    tig normal "\"Przepraszam Liao... Nie przywykłem do... aborygena i zapomniałem, że możesz nas usłyszeć.\" "
 
 # game/script/03_day2.rpy:880
 translate polish day2_02_6d6d4c9c:
 
     # voice voice_file.tig(3,38)
     # tig normal "\"But like I said before, others won't hear us. There may be many situations like this from now on, so you should get accustomed to it.\" "
-    tig normal ""
+    tig normal "\"Jak już mówiłem wcześniej, inni nie mogą nas usłyszeć. Od teraz może być o wiele więcej takich sytuacji, więc powinieneś się do tego przyzwyczaić.\" "
 
 # game/script/03_day2.rpy:885
 translate polish day2_02_efa6c71d:
 
     # b "Yeah, I realise that now! I just need some time to be accustomed to this. And you're in no place to criticize me! "
-    b ""
+    b "Tak, teraz już rozumiem! Potrzebuję na to trochę czasu. Nie możesz mnie tak krytykować! "
 
 # game/script/03_day2.rpy:888
 translate polish day2_02_eadbda68:
 
     # b "I feel ashamed and angry as I bury my face in my arms. I can't even listen to the class at this point. " with vpunch
-    b "" with vpunch
+    b "Czuję się zawstydzony i zły chowając twarz między ramionami. Na ten moment nie potrafię skupić się na lekcji. " with vpunch
 
 # game/script/03_day2.rpy:890
 translate polish day2_02_e63c08f8:
 
     # b "Those two troublemakers remain silent from then onwards... It doesn't help much as I could still feel the attention from everyone until class finished. "
     # b "I have to drag myself out of class. At least Senpai gives me a reassuring pat on the shoulder. "
-    b ""
+    b "Dwie gaduły od teraz siedzą cicho... Dużo mi to nie pomaga, bo aż do końca zajęć czuję, że uwaga wszystkich jest skupiona na mnie. "
+    b "Muszę jakoś wypełznąć z sali. Przynajmniej Senpai klepie mnie po ramieniu na pocieszenie. "
 
 # game/script/03_day2.rpy:899
 translate polish day2_02_88a02ade:
 
     # voice voice_file.lpdcat(3,29)
     # lpdcat normal "\"You all right Liao? That really could have gone better.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Wszystko w porządku Liao? To naprawdę mogło potoczyć się lepiej.\" "
 
 # game/script/03_day2.rpy:901
 translate polish day2_02_d3abeb6e:
 
     # avt "\"It really could have, what the hell was I thinking...\" "
-    avt ""
+    avt "\"Pewnie że tak, co ja sobie do cholery myślałem...\" "
 
 # game/script/03_day2.rpy:909
 translate polish day2_02_18e117a2:
 
     # voice voice_file.lpd(3,11)
     # lpd normal "\"Sorry.\" "
-    lpd normal ""
+    lpd normal "\"Wybacz.\" "
 
 # game/script/03_day2.rpy:915
 translate polish day2_02_d48b35b4:
 
     # voice voice_file.tig(3,39)
     # tig "\"Don't you even say that.\" "
-    tig ""
+    tig "\"Nawet tego nie mów.\" "
 
 # game/script/03_day2.rpy:917
 translate polish day2_02_a79d4ef3:
 
     # avt "\"It's alright, you don't have to...\" "
-    avt ""
+    avt "\"Już w porządku, nie musisz...\" "
 
 # game/script/03_day2.rpy:924
 translate polish day2_02_38eee4da:
 
     # b "\"I just remembered that I'm talking to nothing again. Thankfully, this time I'm walking in the corridor and it looks like I'm just talking to Senpai.\" "
-    b ""
+    b "Właśnie przypomniałem sobie, że gadam sam do siebie. Na szczęście tym razem idę korytarzem i wygląda to jakbym rozmawiał z Senpai'em. "
 
 # game/script/03_day2.rpy:932
 translate polish day2_02_c9f5c4dc:
 
     # voice voice_file.tig(3,40)
     # tig "\"Liao, why do you keep covering up for this aborigine?\" "
-    tig ""
+    tig "\"Liao, czemu bronisz tego aborygena?\" "
 
 # game/script/03_day2.rpy:934
 translate polish day2_02_fe8b46b7:
 
     # avt "\"Could you stop calling him aborigine? It's really not appropriate these days.\" "
-    avt ""
+    avt "\"Czy mógłbyś przestać go tak nazywać? To bardzo nie na miejscu w dzisiejszych czasach.\" "
 
 # game/script/03_day2.rpy:938
 translate polish day2_02_31dc71f4:
 
     # b "\"I make sure to speak quietly. Pretending that I'm talking to Senpai.\" "
-    b ""
+    b "Upewniam się, że mówię cicho, udając że zwracam się do Senpai'a. "
 
 # game/script/03_day2.rpy:940
 translate polish day2_02_bc5c9986:
 
     # avt "\"There's no need to play the race card now, and he didn't really bother me to begin with. So don't just lay the blame on him.\" "
-    avt ""
+    avt "\"Nie ma potrzeby wyciągać argumentu rasowego, a poza tym wcale mi tak nie przeszkadzał. Nie zwalaj całej winy na niego.\" "
 
 # game/script/03_day2.rpy:946
 translate polish day2_02_4f6143b9:
 
     # voice voice_file.tig(3,41)
     # tig angry "\"Firstly, he called me a Han god. Secondly, aborigine is a proper noun. It's not like I've been calling him a barbarian.\" "
-    tig angry ""
+    tig angry "\"Po pierwsze, nazwał mnie bogiem Hanów. Po drugie, aborygen to odpowiednie słowo. To nie tak, że nazywałem go jakimś barbarzyńcą.\" "
 
 # game/script/03_day2.rpy:952
 translate polish day2_02_3b5e46f7:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/03_day2.rpy:954
 translate polish day2_02_37f9a54c:
 
     # avt "\"It's not your words. It's... your attitude.\" "
-    avt ""
+    avt "\"Nie chodzi mi o twoje słowa. Tylko o... twoje nastawienie.\" "
 
 # game/script/03_day2.rpy:956
 translate polish day2_02_89c72033:
 
     # voice voice_file.tig(3,42)
     # tig frown "\"So you mean I shouldn't hate him?\" "
-    tig frown ""
+    tig frown "\"A więc sądzisz, że nie powinienem nim gardzić?\" "
 
 # game/script/03_day2.rpy:958
 translate polish day2_02_2fdf62bc:
 
     # avt "\"Uh... yes?\" "
-    avt ""
+    avt "\"Uch... tak?\" "
 
 # game/script/03_day2.rpy:962
 translate polish day2_02_decf5772:
 
     # voice voice_file.tig(3,43)
     # tig frown "\"I can't do that.\" "
-    tig frown ""
+    tig frown "\"Nie mogę tego zrobić.\" "
 
 # game/script/03_day2.rpy:969
 translate polish day2_02_0b81f096:
