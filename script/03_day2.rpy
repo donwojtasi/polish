@@ -2268,66 +2268,68 @@ translate polish day2_02_66b7946f:
 
     # b "Tiger leans against a pillar, watching us from the other side of the crowd. Leopard seems enamoured with the mirror wall itself. I don't think he's ever seen such a big mirror before. "
     # b "He must be pretty happy to watch us practising after the show last night. "
-    b ""
+    b "Tygrys opiera się o kolumnę, oglądając nas z drugiej strony tłumu. Pantera zdaje się być zakochany w samej ścianie luster. Nie wydaje mi się, żeby widział wcześniej tak duże lustro. "
+    b "Pewnie cieszy się, że może obejrzeć nasze ćwiczenia po wczorajszym występie. "
 
 # game/script/03_day2.rpy:1210
 translate polish day2_02_f42cdebc:
 
     # b "Usually, I would hang around with the other freshmen, but I just decide to keep an eye on Senpai. "
     # b "Everyone around us is in high spirits after last night's show. "
-    b ""
+    b "Zazwyczaj pokręciłbym się z resztą pierwszoroczniaków, ale postanowiłem mieć Senpai'a na oku. "
+    b "Wszyscy wokół nas są w świetnym humorze po wczorajszym show. "
 
 # game/script/03_day2.rpy:1212
 translate polish day2_02_555f7463:
 
     # b "Then our club leader arrives to give us a rousing speech about the show. The whole club echo's their excitement, and I feel it too. "
-    b ""
+    b "Lider naszego klubu przychodzi, by dać nam porywającą przemowę o wczoraj. Cały klub rozbrzmiewa echem ekscytacji i ja też to czuję. "
 
 # game/script/03_day2.rpy:1214
 translate polish day2_02_13ede138:
 
     # b "I share this honor with my fellow club members, our success, and our failures, are all felt as one. It's just how we are. "
-    b ""
+    b "Podzielam ten honor z innymi członkami klubu, nasze sukcesy i porażki, wszyscy czujemy jedno i to samo. Tacy po prostu jesteśmy. "
 
 # game/script/03_day2.rpy:1225
 translate polish day2_02_e0516d81:
 
     # voice voice_file.lpdcat(3,53)
     # lpdcat normal "\"What a good club. ...I'll miss it.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Co za dobry klub. ...będzie mi go brakowało.\" "
 
 # game/script/03_day2.rpy:1227
 translate polish day2_02_8e4cc5e1:
 
     # avt "\"Senpai? Are you all right? You don't seem yourself. Did you get a cold?\" "
-    avt ""
+    avt "\"Senpai? Wszystko z tobą dobrze? Nie jesteś sobą. Czy złapałeś przeziębienie?\" "
 
 # game/script/03_day2.rpy:1229
 translate polish day2_02_5c4eb099:
 
     # voice voice_file.lpdcat(3,54)
     # lpdcat angry "\"No! Why, can't I be sentimental sometimes?\" "
-    lpdcat angry ""
+    lpdcat angry "\"Nie! Czy nie mogę być czasem sentymentalny?\" "
 
 # game/script/03_day2.rpy:1231
 translate polish day2_02_3c31607b:
 
     # avt "\"I didn't mean it like that, but what's wrong? Has anything happened to you?\" "
-    avt ""
+    avt "\"Nie to miałem na myśli, ale co jest nie tak? Czy coś ci się stało?\" "
 
 # game/script/03_day2.rpy:1233
 translate polish day2_02_de42b902:
 
     # voice voice_file.lpdcat(3,55)
     # lpdcat serious "\"Well— I was talking as a guardian tiger. Because you know, I'll have to leave school if you decide to go to Miaoli with me.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Cóż- Mówiłem to jako tygrysi strażnik. Bo wiesz... Będę musiał rzucić szkołę, jeśli zdecydujesz się iść ze mną do Miaoli.\" "
 
 # game/script/03_day2.rpy:1235
 translate polish day2_02_704db4a3:
 
     # voice voice_file.lpdcat(3,56)
     # lpdcat serious "\"Well really, I have to leave anyway even if you don't take my offer.\" "
-    lpdcat serious ""
+    lpdcat serious "\"W sumie to muszę odejść nawet jeśli nie spełnisz mojej prośby.\" "
 
 # game/script/03_day2.rpy:1237
 translate polish day2_02_64915fac:
