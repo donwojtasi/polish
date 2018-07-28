@@ -47,7 +47,7 @@ translate polish day2_01_tig_9682e8a9:
 translate polish day2_01_tig_3dae61ac:
 
     # avt "\"Umm... get up...\" "
-    avt "\"Umm... wstawaj...\" "
+    avt "\"Emm... wstawaj...\" "
 
 # game/script/03_day2.rpy:22
 translate polish day2_01_tig_22043f2f:
@@ -395,7 +395,7 @@ translate polish day2_01_lpd_17bfe965:
 translate polish day2_01_lpd_0f1f4c00:
 
     # avt "\"Um— Morning.\" "
-    avt "\"Umm- Witaj.\" "
+    avt "\"Emm- Witaj.\" "
 
 # game/script/03_day2.rpy:225
 translate polish day2_01_lpd_aac3a1b9:
@@ -532,7 +532,7 @@ translate polish day2_01_lpdcat_e430100c:
 translate polish day2_01_lpdcat_09d36734:
 
     # b "More... umm... zzz... "
-    b "Więcej... umm... zzz... "
+    b "Więcej... emm... zzz... "
 
 # game/script/03_day2.rpy:287
 translate polish day2_01_lpdcat_45a64606:
@@ -563,7 +563,7 @@ translate polish day2_01_lpdcat_f1ca440b:
 
     # voice voice_file.lpdcat(3,6)
     # lpdcat confused "\"Umm... What? Eh, morning Liao...\" "
-    lpdcat confused "\"Umm... Co? Eh, cześć Liao...\" "
+    lpdcat confused "\"Emm... Co? Eh, cześć Liao...\" "
 
 # game/script/03_day2.rpy:320
 translate polish day2_01_lpdcat_bb935663:
@@ -883,7 +883,7 @@ translate polish day2_02_dce6f8af:
 
     # voice voice_file.lpdcat(3,7)
     # lpdcat confused "\"Umm... Liao... morning. What time is it?\" "
-    lpdcat confused "\"Umm... Liao... dobry. Która godzina?\" "
+    lpdcat confused "\"Emm... Liao... dobry. Która godzina?\" "
 
 # game/script/03_day2.rpy:480
 translate polish day2_02_2122d5f5:
@@ -1017,7 +1017,7 @@ translate polish day2_02_43a336f0:
 translate polish day2_02_3b23b615:
 
     # avt "\"Um...\" "
-    avt "\"Um...\" "
+    avt "\"Em...\" "
 
 # game/script/03_day2.rpy:541
 translate polish day2_02_d1dd2bb6:
@@ -1846,7 +1846,7 @@ translate polish day2_02_b51ad4af:
 
     # voice voice_file.lpdcat(3,36)
     # lpdcat normal "\"I just thought... Um... Alright! You better keep your word!\" "
-    lpdcat normal "\"Po prostu myślałem... Um... No dobra! Lepiej dotrzymaj obietnicy!\" "
+    lpdcat normal "\"Po prostu myślałem... Em... No dobra! Lepiej dotrzymaj obietnicy!\" "
 
 # game/script/03_day2.rpy:1025
 translate polish day2_02_01e5afb3:
@@ -1900,7 +1900,7 @@ translate polish day2_02_e32fb5ad:
 
     # voice voice_file.lpdcat(3,38)
     # lpdcat normal "\"Umm... I thought it was only recitation today, right?\" "
-    lpdcat normal "\"Umm... Myślałem, że dzisiaj mieliśmy tylko omówić nasz ostatni występ, prawda?\" "
+    lpdcat normal "\"Emm... Myślałem, że dzisiaj mieliśmy tylko omówić nasz ostatni występ, prawda?\" "
 
 # game/script/03_day2.rpy:1055
 translate polish day2_02_55fb30c9:
@@ -2329,65 +2329,65 @@ translate polish day2_02_704db4a3:
 
     # voice voice_file.lpdcat(3,56)
     # lpdcat serious "\"Well really, I have to leave anyway even if you don't take my offer.\" "
-    lpdcat serious "\"W sumie to muszę odejść nawet jeśli nie spełnisz mojej prośby.\" "
+    lpdcat serious "\"W sumie to będę musiał odejść nawet jeśli nie spełnisz mojej prośby.\" "
 
 # game/script/03_day2.rpy:1237
 translate polish day2_02_64915fac:
 
     # avt "\"...That's right. You have to go back anyway.\" "
-    avt ""
+    avt "\"To racja... I tak musisz wrócić.\" "
 
 # game/script/03_day2.rpy:1239
 translate polish day2_02_809674da:
 
     # voice voice_file.lpdcat(3,57)
     # lpdcat serious "\"Yeah... Though, after being in this body for so long... I've started thinking that being a human isn't that bad.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Dokładnie... A jednak będąc w tym ciele przez tak długo... Zacząłem myśleć, że bycie człowiekiem nie jest takie złe.\" "
 
 # game/script/03_day2.rpy:1241
 translate polish day2_02_83158c8c:
 
     # voice voice_file.lpdcat(3,58)
     # lpdcat serious "\"It's such a lovely club. It's pretty rare, right? After all, based on my memories... Well, that's not a good topic.\" "
-    lpdcat serious ""
+    lpdcat serious "\"To taki kochany klub. Rzadko się to zdarza, nie? Przecież, w oparciu o moje wspomnienia... Ehh, to nie jest dobry temat do rozmowy.\" "
 
 # game/script/03_day2.rpy:1243
 translate polish day2_02_d45b0786:
 
     # avt "\"What kind of topic?\" "
-    avt ""
+    avt "\"Co masz na myśli?\" "
 
 # game/script/03_day2.rpy:1245
 translate polish day2_02_7a382f40:
 
     # voice voice_file.lpdcat(3,59)
     # lpdcat normal "\"It's nothing. So, talking about coming to Miaoli, what do you think about it at the moment?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Nic takiego. Wracając do tematu podróży do Miaoli, co o tym myślisz na ten moment?\" "
 
 # game/script/03_day2.rpy:1247
 translate polish day2_02_48c8d086:
 
     # avt "\"Um? Well...\" "
-    avt ""
+    avt "\"Em? Cóż...\" "
 
 # game/script/03_day2.rpy:1249
 translate polish day2_02_9c813d87:
 
     # avt "\"It's really not that easy, all three of you want my help...\" "
-    avt ""
+    avt "\"To wcale nie jest takie łatwe, cała wasza trójka chce mojej pomocy...\" "
 
 # game/script/03_day2.rpy:1253
 translate polish day2_02_ab06a876:
 
     # voice voice_file.lpdcat(3,60)
     # lpdcat cute "\"You can help all of us then~\" "
-    lpdcat cute ""
+    lpdcat cute "\"W takim razie nie możesz pomóc wszystkim~\" "
 
 # game/script/03_day2.rpy:1255
 translate polish day2_02_dd610af1:
 
     # avt "\"No way!\" "
-    avt ""
+    avt "\"Bez szans!\" "
 
 # game/script/03_day2.rpy:1270
 translate polish day2_03_lpdcat_6797ac68:
@@ -2395,92 +2395,95 @@ translate polish day2_03_lpdcat_6797ac68:
     # voice voice_file.lpdcat(3,61)
     # lpdcat normal "\"Is that really impossible? Did I mention that rejuvenating my temple will take at most like three years? Sure, your Guardian Tiger wants you go back home, but it's not like he said when.\" "
     # lpdcat normal "\"You can do that after helping me and that clouded leopard, right?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Czy to naprawdę niemożliwe? Czy wspominałem, że odnowienie mojej świątyni zajmie co najwyżej trzy lata? Pewnie, twój Tygrysi Strażnik chce byś wrócił do domu, ale przecież nie powiedział kiedy.\" "
+    lpdcat normal "\"Możesz to zrobić, gdy pomożesz mi i mglistej panterze, prawda?\" "
 
 # game/script/03_day2.rpy:1272
 translate polish day2_03_lpdcat_55513d32:
 
     # avt "\"That would take too long! Two years with you then the leopard? Not to mention my military service!\" "
-    avt ""
+    avt "\"To trwało by całe wieki! Dwa lata z tobą, a potem z panterą? Nie wspominając o mojej służbie wojskowej!\" "
 
 # game/script/03_day2.rpy:1274
 translate polish day2_03_lpdcat_f0207791:
 
     # avt "\"Why should I waste my youth on those? Not to mention I'd have to quit the dance club. There's no way!\" "
-    avt ""
+    avt "\"Z jakiej racji miałbym zmarnować na to moją młodość? Musiałbym też odejść z klubu tanecznego. Nie ma mowy!\" "
 
 # game/script/03_day2.rpy:1278
 translate polish day2_03_lpdcat_c9004785:
 
     # voice voice_file.lpdcat(3,62)
     # lpdcat cute "\"Then... couldn't you just help me?\" "
-    lpdcat cute ""
+    lpdcat cute "\"A nie mógłbyś pomóc tylko mnie?\" "
 
 # game/script/03_day2.rpy:1280
 translate polish day2_03_lpdcat_fabf6005:
 
     # avt "\"It still isn't that easy. I won't drop out for you... Can you wait until I graduate?\" "
-    avt ""
+    avt "\"To wciąż nie jest takie łatwe. Nie rzucę wszystkiego dla ciebie... Mógłbyś poczekać, aż skończę szkołę?\" "
 
 # game/script/03_day2.rpy:1284
 translate polish day2_03_lpdcat_95011ac8:
 
     # avt "\"If I choose to take two years off, I need to perform my military service before that. And then two years with you?\" "
     # avt "\"That's probably the end of my dancing career as it is.\" "
-    avt ""
+    avt "\"Jeśli będę chciał zrobić przerwę od szkoły, wpierw będę musiał odbyć służbę wojskową. A potem spędzić z tobą dwa lata?\" "
+    avt "\"To pewnie będzie koniec mojej kariery tanecznej.\" "
 
 # game/script/03_day2.rpy:1286
 translate polish day2_03_lpdcat_7500a0be:
 
     # voice voice_file.lpdcat(3,63)
     # lpdcat serious "\"I know. But seriously speaking... it's not easy to feed yourself by dancing anyway.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Wiem to. Ale szczerze mówiąc... tak czy owak nie jest łatwo wyżyć z tańca.\" "
 
 # game/script/03_day2.rpy:1288
 translate polish day2_03_lpdcat_7cecd102:
 
     # voice voice_file.lpdcat(3,64)
     # lpdcat serious "\"Even I— I mean Yan Shu-Chi, never considered dancing as a real career option. Do you think you could really manage that?\" "
-    lpdcat serious ""
+    lpdcat serious "\"Nawet ja- Mam na myśli Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
 
 # game/script/03_day2.rpy:1290
 translate polish day2_03_lpdcat_7e88561a:
 
     # avt "\"But... I can't just give up all the effort I've put into this and all the lengths I've gone to so far.\" "
-    avt ""
+    avt "\"Ale przecież... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
 
 # game/script/03_day2.rpy:1292
 translate polish day2_03_lpdcat_4947e296:
 
     # voice voice_file.lpdcat(3,65)
     # lpdcat difficult "\"Well honestly, haven't you only been dancing for like half a year?\" "
-    lpdcat difficult ""
+    lpdcat difficult "\"To nie tak, że tańczysz dopiero jakieś pół roku?\" "
 
 # game/script/03_day2.rpy:1294
 translate polish day2_03_lpdcat_cb8ce7ae:
 
     # avt "\"Hell no, I've wanted to do this since high school!\" "
-    avt ""
+    avt "\"Pewnie że nie, chciałem to zrobić od szkoły średniej!\" "
 
 # game/script/03_day2.rpy:1296
 translate polish day2_03_lpdcat_924ab2e3:
 
     # avt "\"It's not like my other options are any better anyway... I don't really care for that stuffy religious stuff.\" "
-    avt ""
+    avt "\"Reszta moich opcji nie jest wcale lepsza... Nie obchodzą mnie te nudne religijne sprawy.\" "
 
 # game/script/03_day2.rpy:1298
 translate polish day2_03_lpdcat_81a475ee:
 
     # avt "\"I came to Taipei because I didn't want to be constrained by my family.\" "
     # avt "\"Now you expect me to give what little I have up just because I have some {i}special \ntalent{/i}?\" "
-    avt ""
+    avt "\"Przybyłem do Tajpej, by uwolnić się od mojej rodziny.\" "
+    avt "\"A teraz oczekujesz ode mnie, że porzucę to wszystko tylko dlatego, że mam pewien {i}wyjątkowy talent{/i}?\" "
 
 # game/script/03_day2.rpy:1300
 translate polish day2_03_lpdcat_e7bca5fb:
 
     # voice voice_file.lpdcat(3,66)
     # lpdcat serious "\"...I know. It's not something you can decide in a day, but I want you to think about it.\" "
-    lpdcat serious ""
+    lpdcat serious "\"...wiem. To nie jest decyzja, którą możesz podjąć z dnia na dzień, ale chciałbym byś to przemyślał.\" "
 
 # game/script/03_day2.rpy:1302
 translate polish day2_03_lpdcat_b455a989:
@@ -2488,13 +2491,14 @@ translate polish day2_03_lpdcat_b455a989:
     # voice voice_file.lpdcat(3,67)
     # lpdcat serious "\"I've just... been driven up the wall. I'm seeking your help because I really have no way out. "
     # lpdcat serious "\"So just... think about it, all right?\" "
-    lpdcat serious ""
+    lpdcat serious "\"Ja po prostu... zostałem przyparty do ściany. Proszę cię o pomoc, dlatego że nie mam innego wyboru. "
+    lpdcat serious "\"Po prostu... przemyśl to, dobrze?\" "
 
 # game/script/03_day2.rpy:1304
 translate polish day2_03_lpdcat_16dc9de4:
 
     # avt "\"I want to work something out with you Senpai, but...\" "
-    avt ""
+    avt "\"Chciałbym znaleźć jakieś rozwiązanie, ale...\" "
 
 # game/script/03_day2.rpy:1312
 translate polish day2_03_normal_05abb4c5:
@@ -2502,166 +2506,170 @@ translate polish day2_03_normal_05abb4c5:
     # voice voice_file.lpdcat(3,68)
     # lpdcat normal "\"Is it really impossible? I know it's not easy, but it's not like it's gonna take like five years or something. I'm sure that guardian tiger doesn't need you home right away.\" "
     # lpdcat normal "\"So I'm sure theres some way you can do that {i}and{/i} \ manage to help me as well as that leopard.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Czy to naprawdę niemożliwe? Wiem, że to trudne, ale nie zajmie ci to pięciu lat, czy coś w tym stylu. Jestem przekonany, że ten tygrysi strażnik nie potrzebuje teraz twojej pomocy.\" "
+    lpdcat normal "\"Jestem też pewien, że jest jakiś sposób {i}dzięki któremu{/i} \ uda ci się pomóc i mnie i panterze.\" "
 
 # game/script/03_day2.rpy:1314
 translate polish day2_03_normal_7528614b:
 
     # avt "\"How long that would take! Ten years? I'd need to give up dancing during the best years of my career! There's no way!\" "
-    avt ""
+    avt "\"A ile czasu by to zajęło! Dziesięć lat? Musiałbym zrezygnować z tańca w najlepszych latach mojej kariery! Nie ma szans!\" "
 
 # game/script/03_day2.rpy:1318
 translate polish day2_03_normal_1c97b500:
 
     # voice voice_file.lpdcat(3,62)
     # lpdcat cute "\"Then... couldn't you just help me?\" "
-    lpdcat cute ""
+    lpdcat cute "\"A nie mógłbyś pomóc tylko mnie?\" "
 
 # game/script/03_day2.rpy:1320
 translate polish day2_03_normal_65b27a94:
 
     # avt "\"It's not that easy. You said it wouldn't take more than three years, so how many years exactly?\" "
     # avt "\"And then, what should I do to rejuvenate your temple? I have no idea at this point.\" "
-    avt ""
+    avt "\"To nie takie łatwe. Mówiłeś, że nie zajmie to dłużej niż trzy lata, to ile dokładnie?\" "
+    avt "\"No i co powinienem zrobić, by ożywić twoją świątynię? Na ten moment nie mam bladego pojęcia.\" "
 
 # game/script/03_day2.rpy:1324
 translate polish day2_03_normal_15dd4520:
 
     # voice voice_file.lpdcat(3,69)
     # lpdcat normal "\"That's a good point, I didn't really explain it to you before. Ummm, let me see...\" "
-    lpdcat normal ""
+    lpdcat normal "\"Trafne spostrzeżenie. Nie wytłumaczyłem ci tego wcześniej. Ymmm, daj mi pomyśleć...\" "
 
 # game/script/03_day2.rpy:1326
 translate polish day2_03_normal_620f0ca3:
 
     # voice voice_file.lpdcat(3,70)
     # lpdcat normal "\"It's just a small temple. So it definitely won't take a lot of effort to run.\" "
-    lpdcat normal ""
+    lpdcat normal "\"To tylko mała świątynia. Na pewno nie trzeba dużo wysiłku, by ją otworzyć.\" "
 
 # game/script/03_day2.rpy:1328
 translate polish day2_03_normal_7af6df19:
 
     # voice voice_file.lpdcat(3,71)
     # lpdcat normal "\"More specifically, you gotta do the housekeeping, advertise for the temple, talk to people to see if we can help them, and so on...\" "
-    lpdcat normal ""
+    lpdcat normal "\"A dokładniej, musisz robić porządki, reklamować świątynię, pytać ludzi, czy możemy im jakoś pomóc i tak dalej...\" "
 
 # game/script/03_day2.rpy:1330
 translate polish day2_03_normal_4cabdbe7:
 
     # avt "\"...Isn't that a lot?\" "
-    avt ""
+    avt "\"To nie jest dużo?\" "
 
 # game/script/03_day2.rpy:1332
 translate polish day2_03_normal_839b5754:
 
     # voice voice_file.lpdcat(3,72)
     # lpdcat serious "\"Well, those are all the petty things. But we have to build people's confidence in us step by step.\" "
-    lpdcat serious ""
+    lpdcat serious "\"To wszystko drobne sprawy. Ale musimy zbudować zaufanie ludzi do nas krok po kroku.\" "
 
 # game/script/03_day2.rpy:1334
 translate polish day2_03_normal_424fc640:
 
     # voice voice_file.lpdcat(3,73)
     # lpdcat serious "\"It's never easy to convince people, so I can't tell you how long it's going to take...\" "
-    lpdcat serious ""
+    lpdcat serious "\"Przekonanie ludzi nigdy nie jest łatwe, więc nie mogę ci powiedzieć ile to zajmie czasu...\" "
 
 # game/script/03_day2.rpy:1336
 translate polish day2_03_normal_cc98a5a3:
 
     # avt "\"Honestly, it sounds boring...\" "
-    avt ""
+    avt "\"Szczerze, to brzmi nudno...\" "
 
 # game/script/03_day2.rpy:1338
 translate polish day2_03_normal_8d3254fd:
 
     # voice voice_file.lpdcat(3,74)
     # lpdcat normal "\"Maybe you can entertain yourself by dancing?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Może spróbujesz się rozerwać tańcząc?\" "
 
 # game/script/03_day2.rpy:1340
 translate polish day2_03_normal_54ab841f:
 
     # avt "\"There's no way that will work, and you know that well Senpai. I'd have no tutor, or clubmates. So I wouldn't get anywhere.\" "
-    avt ""
+    avt "\"Nie ma szans, by to zadziałało i dobrze o tym wiesz Senpai. Nie miałbym nauczyciela, ani kolegów z klubu. Nic bym nie osiągnął w ten sposób.\""
 
 # game/script/03_day2.rpy:1344
 translate polish day2_03_normal_1c22f76b:
 
     # voice voice_file.lpdcat(3,75)
     # lpdcat cute "\"That's true, but... at least you have me~ Just consider it.\" "
-    lpdcat cute ""
+    lpdcat cute "\"To prawda, ale... przynajmniej masz mnie~ Tylko to przemyśl.\" "
 
 # game/script/03_day2.rpy:1346
 translate polish day2_03_normal_78769784:
 
     # avt "\"But Senpai, I couldn't do all this while I'm at school, could I?\" "
-    avt ""
+    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, racja?\" "
 
 # game/script/03_day2.rpy:1350
 translate polish day2_03_normal_daa40741:
 
     # avt "\"Since I can't just drop out of school, will you wait until I graduate?\" "
-    avt ""
+    avt "A skoro nie mogę od tak wszystkiego porzucić, mógłbyś poczekać, aż skończę szkołę?"
 
 # game/script/03_day2.rpy:1352
 translate polish day2_03_normal_61f26a74:
 
     # avt "\"Even then if I choose to take two years off, I'd need to perform my military service before that.\" "
     # avt "\"And then two years with you? That's probably the end of my dancing career as it is.\" "
-    avt ""
+    avt "\"Jeśli będę chciał zrobić przerwę od szkoły, wpierw będę musiał odbyć służbę wojskową.\" "
+    avt "\"A potem spędzić z tobą dwa lata? To pewnie będzie koniec mojej kariery tanecznej.\" "
 
 # game/script/03_day2.rpy:1354
 translate polish day2_03_normal_7500a0be:
 
     # voice voice_file.lpdcat(3,63)
     # lpdcat serious "\"I know. But seriously speaking... it's not easy to feed yourself by dancing anyway.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Wiem to. Ale szczerze mówiąc... tak czy owak nie jest łatwo wyżyć z tańca.\" "
 
 # game/script/03_day2.rpy:1356
 translate polish day2_03_normal_7cecd102:
 
     # voice voice_file.lpdcat(3,64)
     # lpdcat serious "\"Even I— I mean Yan Shu-Chi, never considered dancing as a real career option. Do you think you could really manage that?\" "
-    lpdcat serious ""
+    lpdcat serious "\"Nawet ja- Mam na myśli Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
 
 # game/script/03_day2.rpy:1358
 translate polish day2_03_normal_7e88561a:
 
     # avt "\"But... I can't just give up all the effort I've put into this and all the lengths I've gone to so far.\" "
-    avt ""
+    avt "\"Ale przecież... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
 
 # game/script/03_day2.rpy:1360
 translate polish day2_03_normal_4947e296:
 
     # voice voice_file.lpdcat(3,65)
     # lpdcat difficult "\"Well honestly, haven't you only been dancing for like half a year?\" "
-    lpdcat difficult ""
+    lpdcat difficult "\"To nie tak, że tańczysz dopiero jakieś pół roku?\" "
 
 # game/script/03_day2.rpy:1362
 translate polish day2_03_normal_cb8ce7ae:
 
     # avt "\"Hell no, I've wanted to do this since high school!\" "
-    avt ""
+    avt "\"Pewnie że nie, chciałem to zrobić od szkoły średniej!\" "
 
 # game/script/03_day2.rpy:1364
 translate polish day2_03_normal_924ab2e3:
 
     # avt "\"It's not like my other options are any better anyway... I don't really care for that stuffy religious stuff.\" "
-    avt ""
+    avt "\"Reszta moich opcji nie jest wcale lepsza... Nie obchodzą mnie te nudne religijne sprawy.\" "
 
 # game/script/03_day2.rpy:1366
 translate polish day2_03_normal_81a475ee:
 
     # avt "\"I came to Taipei because I didn't want to be constrained by my family.\" "
     # avt "\"Now you expect me to give what little I have up just because I have some {i}special \ntalent{/i}?\" "
-    avt ""
+    avt "\"Przybyłem do Tajpej, by uwolnić się od mojej rodziny.\" "
+    avt "\"A teraz oczekujesz ode mnie, że porzucę to wszystko tylko dlatego, że mam pewien {i}wyjątkowy talent{/i}?\" "
 
 # game/script/03_day2.rpy:1368
 translate polish day2_03_normal_e7bca5fb:
 
     # voice voice_file.lpdcat(3,66)
     # lpdcat serious "\"...I know. It's not something you can decide in a day, but I want you to think about it.\" "
-    lpdcat serious ""
+    lpdcat serious "\"...wiem. To nie jest decyzja, którą możesz podjąć z dnia na dzień, ale chciałbym byś to przemyślał.\" "
 
 # game/script/03_day2.rpy:1370
 translate polish day2_03_normal_b455a989:
@@ -2669,13 +2677,14 @@ translate polish day2_03_normal_b455a989:
     # voice voice_file.lpdcat(3,67)
     # lpdcat serious "\"I've just... been driven up the wall. I'm seeking your help because I really have no way out. "
     # lpdcat serious "\"So just... think about it, all right?\" "
-    lpdcat serious ""
+    lpdcat serious "\"Ja po prostu... zostałem przyparty do ściany. Proszę cię o pomoc, dlatego że nie mam innego wyboru. "
+    lpdcat serious "\"Po prostu... przemyśl to, dobrze?\" "
 
 # game/script/03_day2.rpy:1372
 translate polish day2_03_normal_16dc9de4:
 
     # avt "\"I want to work something out with you Senpai, but...\" "
-    avt ""
+    avt "\"Chciałbym znaleźć jakieś rozwiązanie, ale...\" "
 
 # game/script/03_day2.rpy:1379
 translate polish day2_04_5cbd06dc:
