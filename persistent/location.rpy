@@ -16,7 +16,7 @@ translate polish strings:
 
     # old "Cafeteria"
     old "食堂"
-    new "Kafeteria"
+    new "Stołówka"
 
     # old "Classroom"
     old "教室"

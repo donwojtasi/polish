@@ -1732,40 +1732,42 @@ translate polish day2_02_0b81f096:
     # voice voice_file.lpdcat(3,30)
     # lpdcat serious "\"All right, sure, you're a guardian tiger from a high temple, but why be so strict?\" "
     # lpdcat serious "\"I mean, I'm a Han god as well but Likulau doesn't bother me...\" "
-    lpdcat serious ""
+    lpdcat serious "\"No dobra, pewnie, że jesteś tygrysim strażnikiem okazałej świątyni, ale czemu jesteś dla niego taki ostry?\" "
+    lpdcat serious "Jestem bogiem takim tak jak i ty, ale Likulau mi nie przeszkadza...\" "
 
 # game/script/03_day2.rpy:974
 translate polish day2_02_648809e7:
 
     # voice voice_file.tig(3,44)
     # tig angry "\"You are not nearly qualified to argue with me, you kitten!\" " with vpunch
-    tig angry "" with vpunch
+    tig angry "\"Nie masz najmniejszego prawa ze mną dyskutować, kociaku!\" " with vpunch
 
 # game/script/03_day2.rpy:977
 translate polish day2_02_4687e377:
 
     # voice voice_file.lpdcat(3,31)
     # lpdcat angry "\"Hey! Don't call me kitten!\" " with hshake
-    lpdcat angry "" with hshake
+    lpdcat angry "\"Hej! Nie nazywaj mnie kociakiem!\" " with hshake
 
 # game/script/03_day2.rpy:979
 translate polish day2_02_bb1eec3c:
 
     # avt "*sigh* "
-    avt ""
+    avt "*wzdycha* "
 
 # game/script/03_day2.rpy:987
 translate polish day2_02_60b1f51c:
 
     # b "I leave them alone and walk to my next class. "
-    b ""
+    b "Zostawiam ich samym sobie i idę na następne zajęcia. "
 
 # game/script/03_day2.rpy:992
 translate polish day2_02_575c9217:
 
     # b "At least they somehow manage to stop arguing during my next phone. Finally I have some peace. "
     # b "Senpai's full attention is now on his phone, but my notes are severely lacking. "
-    b ""
+    b "Przynajmniej jakimś cudem powstrzymują się od kłótni podczas kolejnej lekcji. Wreszcie mogę zaznać trochę spokoju. "
+    b "Senpai znowu całkowicie skupia się na swoim telefonie, a moim notatkom dużo brakuje. "
 
 # game/script/03_day2.rpy:994
 translate polish day2_02_8e31dbdc:
@@ -1774,231 +1776,238 @@ translate polish day2_02_8e31dbdc:
     # b "Embarrassed, I can't help but try and huddle away from their eyes, knowing full well I won't be able to escape until until class is over. "
     # b "Thankfully it's not long before the lesson ends and I can finally rest my uneasy soul. "
     # b "Just as soon I step outside, Senpai comes around in front of me and blocks my way dramatically. "
-    b ""
+    b "Widzę jak kilkoro ludzi z poprzednich zajęć się na mnie patrzy... "
+    b "Zawstydzony, próbuję uniknąć ich spojrzeń wiedząc, że nie będę mógł się od nich uwolnić aż do końca lekcji. "
+    b "Na szczęście do końca zajęć nie zostało już dużo czasu i mogę wreszcie dać odpocząć skołatanym nerwom. "
+    b "Gdy tylko wychodzę na zewnątrz, Senpai staje nagle przede mną i blokuje mi drogę. "
 
 # game/script/03_day2.rpy:1001
 translate polish day2_02_cc91127a:
 
     # voice voice_file.lpdcat(3,32)
     # lpdcat normal "\"Liao, let's go get dinner~ We already missed our chance at lunch so we have to get something nice!\" "
-    lpdcat normal ""
+    lpdcat normal "\"Liao, chodźmy na obiad~ Przegapiliśmy szansę na wspólny lunch, a więc musimy kupić sobie coś fajnego!\" "
 
 # game/script/03_day2.rpy:1003
 translate polish day2_02_4494c6df:
 
     # avt "\"Uh, alright... What do you want?\" "
-    avt ""
+    avt "\"Uch, no dobrze... Co byś chciał?\" "
 
 # game/script/03_day2.rpy:1007
 translate polish day2_02_96c36791:
 
     # voice voice_file.lpdcat(3,33)
     # lpdcat laugh "\"A big hot pot!\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Dużego hot pot'a!\" "
 
 # game/script/03_day2.rpy:1009
 translate polish day2_02_c9ebe189:
 
     # avt "\"...Senpai, aren't you forgetting that we have club practice tonight?\" "
-    avt ""
+    avt "\"...Senpai, nie zapominasz przypadkiem, że mamy dziś wieczorem ćwiczenia w klubie?\" "
 
 # game/script/03_day2.rpy:1013
 translate polish day2_02_4065a227:
 
     # voice voice_file.lpdcat(3,34)
     # lpdcat normal "\"Even when we have practice we still have to eat~\" "
-    lpdcat normal ""
+    lpdcat normal "\"W każdym razie i tak musimy coś zjeść~\" "
 
 # game/script/03_day2.rpy:1015
 translate polish day2_02_1a550784:
 
     # b "We're in the dance club, and no matter how you look at it, it's not a great idea to dance on a full stomach. "
     # b "And that's not the only issue. For starters, a hot pot would be way too filling. And secondly, we wouldn't have the time to eat one to begin with. "
-    b ""
+    b "Jesteśmy obaj w klubie tanecznym i jak na to nie patrzeć, to nie jest dobry pomysł, by tańczyć z pełnym żołądkiem. "
+    b "I to nie jedyny problem. Tak- po pierwsze, hot pot jest zbyt zapychający, a po drugie nie mielibyśmy czasu by na niego iść. "
 
 # game/script/03_day2.rpy:1017
 translate polish day2_02_78c47aee:
 
     # avt "\"Sorry Senpai, there's no way I'm dancing after eating that much food.\" "
-    avt ""
+    avt "\"Wybacz Senpai, nie ma szans bym mógł jeszcze tańczyć po takiej ilości jedzenia.\" "
 
 # game/script/03_day2.rpy:1019
 translate polish day2_02_fe2e2267:
 
     # voice voice_file.lpdcat(3,35)
     # lpdcat cry_2 "\"Wuu— It's such a great chance to dine with you Liao...\" "
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Ooo- To taka dobra okazja, by zjeść coś z tobą Liao...\" "
 
 # game/script/03_day2.rpy:1021
 translate polish day2_02_b0f0f13a:
 
     # avt "\"It's alright, we'll have lots of chances. There's no need to hurry.\" "
-    avt ""
+    avt "\"W porządku, będziemy mieli jeszcze mnóstwo takich okazji. Nie ma co się śpieszyć.\" "
 
 # game/script/03_day2.rpy:1023
 translate polish day2_02_b51ad4af:
 
     # voice voice_file.lpdcat(3,36)
     # lpdcat normal "\"I just thought... Um... Alright! You better keep your word!\" "
-    lpdcat normal ""
+    lpdcat normal "\"Po prostu myślałem... Um... No dobra! Lepiej dotrzymaj obietnicy!\" "
 
 # game/script/03_day2.rpy:1025
 translate polish day2_02_01e5afb3:
 
     # avt "\"Mm-hmm— I will. So for now, how about we just head off to the cafeteria?\" "
-    avt ""
+    avt "\"Yyy-hmm- Dotrzymam. A na razie, co powiesz na pójście na stołówkę?\" "
 
 # game/script/03_day2.rpy:1029
 translate polish day2_02_bf4ca739:
 
     # voice voice_file.lpdcat(3,37)
     # lpdcat laugh "\"Yeah!\" "
-    lpdcat laugh ""
+    lpdcat laugh "\"Dobrze!\" "
 
 # game/script/03_day2.rpy:1037
 translate polish day2_02_2edea488:
 
     # b "We move to the cafeteria and find a table for four. It's kind of a waste, even though technically there's four of us. "
-    b ""
+    b "Idziemy na stołówkę i siadamy przy stoliku dla czterech osób. To trochę marnowanie miejsca, mimo że teoretycznie jest nas czterech. "
 
 # game/script/03_day2.rpy:1039
 translate polish day2_02_ae9cc03c:
 
     # b "After securing a table, Senpai and me go to the stalls. I guess Leopard's never been to a cafeteria, so he comes too. "
     # b "Tiger on the other hand follows Leopard, probably just wanting to keep an eye on him. "
-    b ""
+    b "Po zajęciu stołu, podchodzę z Senpai'em do lady. Pantera chyba nigdy nie był na stołówce, więc też z nami idzie. "
+    b "Tygrys natomiast podąża za Panterą, prawdopodobnie chcąc mieć go na oku. "
 
 # game/script/03_day2.rpy:1041
 translate polish day2_02_1200f5cf:
 
     # b "Our college has a super huge cafeteria. They have everything— Bentos, noodles, meat, hamburgers, desserts, there's even a drink bar. You could probably find whatever you wanted. "
     # b "Since we don't have much time I go for something simple, a chicken-thigh rice. "
-    b ""
+    b "Nasza uczelnia ma olbrzymią stołówkę. Mają tu wszystko- Zestawy bento, kluski, mięso, hamburgery, desery, jest nawet bar z napojami. Można tu znaleźć wszystko na co ma się ochotę. "
+    b "Nie mamy za dużo czasu, więc postanawiam wziąć coś prostego, udka kurczaka z ryżem. "
 
 # game/script/03_day2.rpy:1043
 translate polish day2_02_ff3b1603:
 
     # b "Senpai ends up getting himself some pork rib noodles... and well, an extra-large soft drink. "
-    b ""
+    b "Senpai bierze w końcu dla siebie makaron z żeberkami wieprzowymi... no i super duży no"
 
 # game/script/03_day2.rpy:1045
 translate polish day2_02_8ba50f43:
 
     # avt "\"Senpai, are you really going to drink that much before practice?\" "
-    avt ""
+    avt "\"Senpai, jesteś aby pewien, że chcesz wypić tak dużo przed samymi ćwiczeniami?\" "
 
 # game/script/03_day2.rpy:1051
 translate polish day2_02_e32fb5ad:
 
     # voice voice_file.lpdcat(3,38)
     # lpdcat normal "\"Umm... I thought it was only recitation today, right?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Umm... Myślałem, że dzisiaj mieliśmy tylko omówić nasz ostatni występ, prawda?\" "
 
 # game/script/03_day2.rpy:1055
 translate polish day2_02_55fb30c9:
 
     # b "Right, we're not supposed to have full club practice today. There's only a recitation for the show yesterday, it should be over in couple minutes. "
-    b ""
+    b "Racja, nie powinniśmy mieć pełnowymiarowych zajęć. Omówienie wczorajszego występu powinno się skończyć w kilka minut. "
 
 # game/script/03_day2.rpy:1057
 translate polish day2_02_35cf581c:
 
     # b "But you never know, so I'm not about to stuff myself. "
     # b "When I try to argue further with Senpai, Tiger comes back from the stalls. "
-    b ""
+    b "Ale nigdy nie wiadomo, więc nie będę się objadał. "
+    b "Gdy tak sprzeczam się z Senpai'em, Tygrys wraca od lady. "
 
 # game/script/03_day2.rpy:1065
 translate polish day2_02_67d2dc99:
 
     # voice voice_file.tig(3,45)
     # tig normal "\"Liao, what is that?\" "
-    tig normal ""
+    tig normal "\"Liao, co to jest?\" "
 
 # game/script/03_day2.rpy:1067
 translate polish day2_02_c599ea01:
 
     # avt "\"A hamburger? It's just a hamburger... You know like; meat, salad, and sauce, between two sesame seed buns? There should be a picture over there on the menu.\" "
-    avt ""
+    avt "\"Hamburger? To tylko hamburger... No wiesz: mięso, sałata i sos w środku bułki z sezamem? Powinno być jakieś zdjęcie w menu.\" "
 
 # game/script/03_day2.rpy:1069
 translate polish day2_02_1039d72c:
 
     # voice voice_file.tig(3,46)
     # tig normal "\"It does seem that they have many meats available.\" "
-    tig normal ""
+    tig normal "\"Zdaje się, że mają naprawdę duży wybór posiłków.\" "
 
 # game/script/03_day2.rpy:1071
 translate polish day2_02_d151b089:
 
     # avt "\"Oh yeah, mostly pork or beef, or chicken though.\" "
-    avt ""
+    avt "\"Ach tak, jednak głównie z wieprzowiną, wołowiną albo kurczakiem.\" "
 
 # game/script/03_day2.rpy:1077
 translate polish day2_02_31b841ab:
 
     # voice voice_file.lpdcat(3,39)
     # lpdcat normal "\"Uhh, what? You don't even know what a hamburger is? What rock did you live under?\" "
-    lpdcat normal ""
+    lpdcat normal "\"Yhh, co? Nie wiesz nawet czym jest hamburger? Z choinki się urwałeś?\" "
 
 # game/script/03_day2.rpy:1079
 translate polish day2_02_c2b7aed6:
 
     # voice voice_file.tig(3,47)
     # tig frown "\"My worshipers don't use them as sacrifice.\" "
-    tig frown ""
+    tig frown "\"Moi wyznawcy nie używają ich jako ofiary.\" "
 
 # game/script/03_day2.rpy:1081
 translate polish day2_02_4c21ac63:
 
     # avt "\"Traditionally speaking, he's right to not have seen one...\" "
-    avt ""
+    avt "\"Z punktu widzenia tradycji mógł ich nigdy nie widzieć...\" "
 
 # game/script/03_day2.rpy:1083
 translate polish day2_02_ce7f35a0:
 
     # voice voice_file.lpdcat(3,40)
     # lpdcat normal "\"Hmm... So, I guess with your family, that means you won't have had any before coming here too then.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Hmm... Zgaduje, że z twoją rodziną też nie żadnych nie jadłeś przed przybyciem tutaj.\" "
 
 # game/script/03_day2.rpy:1085
 translate polish day2_02_e9609f89:
 
     # avt "\"Hey, it's not like I live under a rock too! I love hamburgers! I even have egg burgers for breakfast all the time!\" "
-    avt ""
+    avt "\"Hej, to nie znaczy, że też urwałem się z choinki! Uwielbiam hamburgery! I cały czas jem eggburgery na śniadanie!\" "
 
 # game/script/03_day2.rpy:1087
 translate polish day2_02_312f3bf6:
 
     # voice voice_file.tig(3,48)
     # tig frown "\"Egg burger? ...So that's the same thing?\" "
-    tig frown ""
+    tig frown "\"Egg burger? ...to jest to samo?\" "
 
 # game/script/03_day2.rpy:1089
 translate polish day2_02_44314e65:
 
     # avt "\"Well kinda. It's meat between two buns, but with a fried egg.\" "
-    avt ""
+    avt "\"No prawie. Mięso w bułce, ale z jajkiem sadzonym.\" "
 
 # game/script/03_day2.rpy:1093
 translate polish day2_02_1609f525:
 
     # voice voice_file.tig(3,49)
     # tig frown "\"...That doesn't sound as nice as the menu pictures make it out to be.\" "
-    tig frown ""
+    tig frown "\"To nie brzmi aż tak dobrze jak ukazują to zdjęcia w menu.\" "
 
 # game/script/03_day2.rpy:1096
 translate polish day2_02_d16a9c5a:
 
     # voice voice_file.lpdcat(3,41)
     # lpdcat pu "\"Pfft—\" " with hshake
-    lpdcat pu "" with hshake
+    lpdcat pu "\"Pfff—\" " with hshake
 
 # game/script/03_day2.rpy:1100
 translate polish day2_02_b645f418:
 
     # voice voice_file.tig(3,50)
     # tig angry "\"What are you laughing at? So you've been well acquainted with all this for a long time then, kitten?\" "
-    tig angry ""
+    tig angry "\"Z czego się śmiejesz? A więc dobrze się z tym wszystkim zapoznałeś już dawno temu, kociaku?\" "
 
 # game/script/03_day2.rpy:1102
 translate polish day2_02_fc8af7d4:
@@ -2006,99 +2015,100 @@ translate polish day2_02_fc8af7d4:
     # voice voice_file.lpdcat(3,42)
     # lpdcat normal "\"A long time ago? You mean before I possessed this body?\" "
     # lpdcat normal "\"Well, I'm not sure. I have all his memories after all, and I can't tell if those are his or mine. So, maybe I didn't know before.\" "
-    lpdcat normal ""
+    lpdcat normal "\"Dawno temu? Masz na myśli, zanim opętałem to ciało?\" "
+    lpdcat normal "\"Sam nie jestem pewien. Mam przecież jego wszystkie wspomnienia, ale ciężko mi powiedzieć, czy te są jego, czy moje. Może wcześniej o tym nie wiedziałem.\" "
 
 # game/script/03_day2.rpy:1104
 translate polish day2_02_b95df5c1:
 
     # voice voice_file.tig(3,51)
     # tig frown "\"I see.\" "
-    tig frown ""
+    tig frown "\"Rozumiem.\" "
 
 # game/script/03_day2.rpy:1106
 translate polish day2_02_2aa1aa41:
 
     # avt "\"So why do you ask?\" "
-    avt ""
+    avt "\"To czemu się o to pytasz?\" "
 
 # game/script/03_day2.rpy:1108
 translate polish day2_02_7f915adc:
 
     # voice voice_file.tig(3,52)
     # tig normal "\"...Nothing. Simple curiosity.\" "
-    tig normal ""
+    tig normal "\"Bez powodu... Zwykła ciekawość.\" "
 
 # game/script/03_day2.rpy:1110
 translate polish day2_02_d10f4454:
 
     # voice voice_file.lpdcat(3,43)
     # lpdcat cute "\"The old man definitely wants hamburger~\" "
-    lpdcat cute ""
+    lpdcat cute "\"Staruszek zdecydowanie chce hamburgera~\" "
 
 # game/script/03_day2.rpy:1112
 translate polish day2_02_dbeba035:
 
     # avt "\"Wait, really?\" "
-    avt ""
+    avt "\"Chwila, naprawdę?\" "
 
 # game/script/03_day2.rpy:1122
 translate polish day2_02_ac0ca963:
 
     # voice voice_file.tig(3,53)
     # tig embarrassed "\"...Uh.\" "
-    tig embarrassed ""
+    tig embarrassed "\"...Uch.\" "
 
 # game/script/03_day2.rpy:1124
 translate polish day2_02_481a1b58:
 
     # avt "\"...So how about I get one for you?\" "
-    avt ""
+    avt "\"Co powiesz na to, że wezmę dla ciebie jednego?\" "
 
 # game/script/03_day2.rpy:1128
 translate polish day2_02_5fb2ef6b:
 
     # voice voice_file.tig(3,54)
     # tig embarrassed "\"No, it's fine...\" "
-    tig embarrassed ""
+    tig embarrassed "\"Nie, nie trzeba...\" "
 
 # game/script/03_day2.rpy:1130
 translate polish day2_02_8d7a2dc3:
 
     # voice voice_file.lpdcat(3,44)
     # lpdcat confused "\"But Liao, can you eat anymore?\" "
-    lpdcat confused ""
+    lpdcat confused "\"Ale Liao, możesz coś jeszcze zjeść?\" "
 
 # game/script/03_day2.rpy:1132
 translate polish day2_02_13841a71:
 
     # avt "\"Uhh? Me? Nah, I'm not hungry.\" "
-    avt ""
+    avt "\"Hę? Ja? Nieee, nie jestem już głodny.\" "
 
 # game/script/03_day2.rpy:1134
 translate polish day2_02_14335924:
 
     # voice voice_file.lpdcat(3,45)
     # lpdcat confused "\"So you're just going to throw all of that away? What a waste.\" "
-    lpdcat confused ""
+    lpdcat confused "\"A więc chcesz to później wyrzucić? Co za marnotrawstwo.\" "
 
 # game/script/03_day2.rpy:1136
 translate polish day2_02_fc90fdc1:
 
     # avt "\"I thought that he wanted to eat a burger though. It's not like I need to eat anything.\" "
-    avt ""
+    avt "\"Myślałem przecież, że to on chce zjeść burgera. Ja nie muszę nic jeść.\" "
 
 # game/script/03_day2.rpy:1138
 translate polish day2_02_1aa70186:
 
     # voice voice_file.lpdcat(3,46)
     # lpdcat surprise_1 "\"Wow, Liao, and you call yourself a Jitong? Your guardian tiger here is a spirit. He doesn't literally eat things.\" "
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Łał Liao... I ty nazywasz siebie Jitong'iem? Twój tygrysi strażnik jest duchem. Nie je rzeczy w sposób dosłowny.\" "
 
 # game/script/03_day2.rpy:1140
 translate polish day2_02_99ff5083:
 
     # avt "\"What? No, wait. So what do you mean by he {i}doesn't{/i} \ eat things?\" "
-    avt ""
+    avt "\"Co? Czekaj, czekaj. Co masz na myśli mówiąc, że {i}nie{/i}\ je rzeczy?\" "
 
 # game/script/03_day2.rpy:1148
 translate polish day2_02_c65d2371:
@@ -2106,26 +2116,27 @@ translate polish day2_02_c65d2371:
     # voice voice_file.lpdcat(3,47)
     # lpdcat serious "\"Eh...how should I explain? So, when a god eats something, they just eat the {font=tl/None/NotoSansCJKtc-Bold.otf}Chi{/font} within. They don't actually eat any of the food itself.\" "
     # lpdcat serious "\"Basically, humans won't see a difference.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Eh... Jak by to wytłumaczyć? A więc, gdy bóg coś zjada, pochłania jedynie zawartą w środku energię{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Chi{/font}. Tak naprawdę to nie zjadają samego jedzenia.\"  "
+    lpdcat serious "\"Generalnie ludzie nie zauważą różnicy.\" "
 
 # game/script/03_day2.rpy:1150
 translate polish day2_02_6eb17c5d:
 
     # avt "\"So... It's more like an offering?\" "
-    avt ""
+    avt "\"Więc... to coś w rodzaju ofiary?\' "
 
 # game/script/03_day2.rpy:1152
 translate polish day2_02_e8d74fd4:
 
     # voice voice_file.lpdcat(3,48)
     # lpdcat serious "\"Yeah. So when you buy a hamburger for the old man over here, he gets to enjoy the taste. But you have to finish it anyway, otherwise we'll just have to throw it away.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Dokładnie. Gdy kupisz hamburgera dla tego staruszka, będzie mógł nacieszyć się smakiem. Ale i tak będziesz to musiał zjeść, w przeciwnym wypadku będziemy musieli to wyrzucić\" "
 
 # game/script/03_day2.rpy:1154
 translate polish day2_02_a7316378:
 
     # avt "\"Okay... So this 'Chi' you mentioned. Is that something gods need?\" "
-    avt ""
+    avt "\"No dobra... A więc ta energia 'Chi' o której wspomniałeś. Czy to coś, czego bogowie potrzebują?\" "
 
 # game/script/03_day2.rpy:1156
 translate polish day2_02_f820c1b6:
@@ -2134,7 +2145,9 @@ translate polish day2_02_f820c1b6:
     # lpdcat serious "\"Yeah we need it, but gods won't run short on Chi as long as people worship them.\" "
     # lpdcat serious "\"You're basically the priest for the old man, so he won't be hungry if you're here.\" "
     # lpdcat serious "\"I'm not that lucky since my Fudegong doesn't have any worshipers these days...\" "
-    lpdcat serious ""
+    lpdcat serious "\"Tak potrzebujemy jej, ale bogom nie skończy się Chi tak długo jak mają swoich wyznawców.\" "
+    lpdcat serious "\"Jesteś praktycznie kapłanem dla staruszka, więc nie zgłodnieje tak długo jak tu jesteś.\" "
+    lpdcat serious "\"Ja nie mam tyle szczęścia, ponieważ mój Fudegong na ten moment nie ma już żadnych wyznawców...\" "
 
 # game/script/03_day2.rpy:1158
 translate polish day2_02_13df6904:
@@ -2142,13 +2155,14 @@ translate polish day2_02_13df6904:
     # voice voice_file.lpdcat(3,50)
     # lpdcat serious "\"Although a god can maintain their power as long as a priest is present, it's better to have some offerings.\" "
     # lpdcat serious "\"Offerings are the best way to obtain Chi and attain people's belief after all.\" "
-    lpdcat serious ""
+    lpdcat serious "\"Mimo że bóg może zachować swą moc tak długo jak kapłan jest obecny, to lepiej mieć trochę ofiar.\" "
+    lpdcat serious "\"Ofiary to przecież najlepszy sposób na pozyskanie Chi i wiary ludzkiej.\" "
 
 # game/script/03_day2.rpy:1163
 translate polish day2_02_9684cc8e:
 
     # avt "\"So I'm the priest?\" "
-    avt ""
+    avt "\"A więc jestem kapłanem?\" "
 
 # game/script/03_day2.rpy:1165
 translate polish day2_02_f0df48f4:
@@ -2156,53 +2170,55 @@ translate polish day2_02_f0df48f4:
     # voice voice_file.tig(3,55)
     # tig normal "\"You put my statue on your shelf, didn't you?\" "
     # tig normal "\"You are also my worshiper, so your room could be considered my temple, and therefore, you are my priest.\" "
-    tig normal ""
+    tig normal "\"Postawiłeś mój posążek na półce, nieprawdaż?\" "
+    tig normal "\"Jesteś też moim wyznawcą, a twój pokój można uznać za moją świątynię i dlatego jesteś moim kapłanem.\" "
 
 # game/script/03_day2.rpy:1169
 translate polish day2_02_fc5c379c:
 
     # voice voice_file.lpdcat(3,51)
     # lpdcat cute "\"What a cruddy temple~\" "
-    lpdcat cute ""
+    lpdcat cute "\"Trochę brudna ta świątynia~\" "
 
 # game/script/03_day2.rpy:1173
 translate polish day2_02_50681b67:
 
     # b "\"So all this time I've been serving my guardian tiger? But by that logic... I've done... {w=0.5}embarrassing things in the temple. Is that even okay?\" "
-    b ""
+    b "To przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem rozumowania... Robiłem... {w=0.5}okropne rzeczy w świątyni. Czy to w porządku? "
 
 # game/script/03_day2.rpy:1175
 translate polish day2_02_fbbe1302:
 
     # b "That and I've never worshiped Tiger's statue properly, not to mention sacrifices. "
     # b "I don't really like the family traditions, but now I feel like I've treated him unfairly because I ignored them... "
-    b ""
+    b "I nigdy nie oddałem należytej czci posążkowi Tygrysa, nie wspominając o ofiarach. "
+    b "Naprawdę nie lubię rodzinnych tradycji, ale czuję że byłem wobec niego nie w porządku ignorując je... "
 
 # game/script/03_day2.rpy:1177
 translate polish day2_02_69e0d463:
 
     # voice voice_file.tig(3,56)
     # tig normal "\"It's all right. I am not really hungry. I just wanted a try.\" "
-    tig normal ""
+    tig normal "\"Nic się nie stało. Nie jestem naprawdę głodny. Chciałem tylko spróbować.\" "
 
 # game/script/03_day2.rpy:1179
 translate polish day2_02_e6cf47ef:
 
     # b "I've never even offered him a sacrifice before, I can't just say no the first time he's ever actually asked for something. "
-    b ""
+    b "Nigdy wcześniej nie złożyłem mu żadnej ofiary, nie mogę od tak mu odmówić, gdy po raz pierwszy mnie o coś prosi. "
 
 # game/script/03_day2.rpy:1181
 translate polish day2_02_2da1e9b9:
 
     # avt "\"So I'll just go get one...\" "
-    avt ""
+    avt "\"Wezmę dla ciebie jednego.\" "
 
 # game/script/03_day2.rpy:1183
 translate polish day2_02_111c2bba:
 
     # voice voice_file.tig(3,57)
     # tig frown "\"It's fine, Liao. There's no need to waste it.\" "
-    tig frown ""
+    tig frown "\"W porządku Liao. Nie ma potrzeby go marnować.\" "
 
 # game/script/03_day2.rpy:1185
 translate polish day2_02_13f4af8d:
@@ -2210,39 +2226,42 @@ translate polish day2_02_13f4af8d:
     # voice voice_file.lpdcat(3,52)
     # lpdcat normal "\"That's right. You can get one tomorrow and eat it for dinner. Now that you can see him, you can just buy him whatever he wants anyway.\" "
     # lpdcat normal "\"However, you know god will punish you if you waste food.\" "
-    lpdcat normal ""
+    lpdcat normal "\"To racja. Kupisz go sobie jutro i zjesz na obiad. Możesz mu kupić cokolwiek będzie chciał, teraz gdy potrafisz go zobaczyć.\" "
+    lpdcat normal "\"Wiedz jednak, że bóg cię ukarze jeśli będziesz marnował jedzenie.\" "
 
 # game/script/03_day2.rpy:1187
 translate polish day2_02_7ad63a3f:
 
     # avt "\"Yea... okay.\" "
-    avt ""
+    avt "\"Tak... no dobrze.\" "
 
 # game/script/03_day2.rpy:1189
 translate polish day2_02_c0b50faf:
 
     # b "I've pretty much decided now to buy my guardian tiger whatever he wants. He's a guardian tiger of my family, it's the least I can do for him after ignoring him for so \nlong. "
-    b ""
+    b "Postanowiłem, że będę kupował mojemu tygrysiemu strażnikowi wszystko czego sobie zażyczy. Należy do mojej rodziny, przynajmniej tyle mogę zrobić po ignorowaniu go przez tak długi czas. "
 
 # game/script/03_day2.rpy:1191
 translate polish day2_02_c2183ba0:
 
     # b "Now that I think about it, maybe Leopard wants something to eat as well? I look around to find him staring at drink bar. "
-    b ""
+    b "Jak tak się zastanowię, może Pantera też chciałby coś zjeść? Rozglądam się i widzę jak wpatruje się na bar z napojami. "
 
 # game/script/03_day2.rpy:1193
 translate polish day2_02_a1124f24:
 
     # b "Uhh— Never mind, I think he's good. "
     # b "Returning to my dinner, I finish off my chicken-thigh rice, return my tray, and head off to club with Senpai. "
-    b ""
+    b "Yhh- Mniejsza, myślę że wszystko z nim dobrze. "
+    b "Wracam do jedzenia moich udek z kurczaka, oddaję tacę i wybieram się do klubu z Senpai'em. "
 
 # game/script/03_day2.rpy:1206
 translate polish day2_02_69f2966d:
 
     # b "The venue for dance club is a place we call {i}the mirror wall{/i}. It's basically an open veranda room with the back wall covered in mirrors. "
     # b "We find a corner to drop off our things while the other club members stand around and talk to each other. "
-    b ""
+    b "Miejsce spotkań klubu tanecznego nazywamy {i}ścianą luster{/i}. Jest to w zasadzie otwarta weranda z tylną ścianą pokrytą lustrami."
+    b "Znajdujemy się w rogu, gdzie zostawiamy swoje rzeczy, a inni członkowie klubu stoją wokoło i rozmawiają w najlepsze. "
 
 # game/script/03_day2.rpy:1208
 translate polish day2_02_66b7946f:
@@ -3410,3 +3429,4 @@ translate polish day2_04_3f96b96a:
     # b "I close my eyes and think. "
     # b "Everything that's happened, everything I could do, and the things I didn't do. They all weigh on my mind as I fall sleep... "
     b ""
+

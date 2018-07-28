@@ -3803,7 +3803,7 @@ translate polish week1_04_lpdcat_4a8a1367:
 translate polish week1_04_lpdcat_4aa0cf88:
 
     # avt "\"Mmm-hmm— Yeah. But we probably shouldn't eat much this so close to dinner.\" "
-    avt "\"Mmm-hmm- Tak. Nie powinniśmy jednak jeść za dużo, gdy jest tak blisko do obiadu.\" "
+    avt "\"Yyy-hmm- Tak. Nie powinniśmy jednak jeść za dużo skoro niedługo pora na obiad.\" "
 
 # game/script/04_week1.rpy:1852
 translate polish week1_04_lpdcat_0268634c:
