@@ -2690,20 +2690,20 @@ translate polish day2_03_normal_16dc9de4:
 translate polish day2_04_5cbd06dc:
 
     # b "\"Hey, Shu-Chi! Come over here!\" " with hshake
-    b "" with hshake
+    b "\"Hej Shu-Chi! Podejdź no tu!\" " with hshake
 
 # game/script/03_day2.rpy:1381
 translate polish day2_04_4bdce71a:
 
     # b "\"The club leader is calling Senpai over.\" "
-    b ""
+    b "Lider klubu woła Senpai'a do siebie. "
 
 # game/script/03_day2.rpy:1385
 translate polish day2_04_d78355eb:
 
     # voice voice_file.lpdcat(3,76)
     # lpdcat normal "\"Ah— right away!\" "
-    lpdcat normal ""
+    lpdcat normal "\"Ah- już idę!\" "
 
 # game/script/03_day2.rpy:1390
 translate polish day2_04_25cd9518:
