@@ -2703,33 +2703,34 @@ translate polish day2_04_d78355eb:
 
     # voice voice_file.lpdcat(3,76)
     # lpdcat normal "\"Ah— right away!\" "
-    lpdcat normal "\"Ah- już idę!\" "
+    lpdcat normal "\"Ach- już idę!\" "
 
 # game/script/03_day2.rpy:1390
 translate polish day2_04_25cd9518:
 
     # b "Senpai heads off immediately, it seems like they're going to have a meeting. After all, Senpai is pretty important around here. He's practically the backbone of our club. "
-    b ""
+    b "Senpai natychmiast się oddala, wygląda na to, że chcą coś omówić. W końcu Senpai jest tutaj bardzo ważny. Stanowi praktycznie trzon naszego klubu. "
 
 # game/script/03_day2.rpy:1392
 translate polish day2_04_1ef0ffd0:
 
     # b "So I guess that's the end of our conversation... There was more I wanted to talk to him about. "
     # b "As to not just stand there I get ready to move on, when suddenly one of the other guys puts me on the spot. "
-    b ""
+    b "I to by było na tyle z naszej rozmowy... Chciałem porozmawiać z nim o wielu innych rzeczach. "
+    b "Postanawiam nie stać tutaj jak kołek, tylko przygotować się do wyjścia, gdy nagle jeden z kolegów zwraca na mnie uwagę. "
 
 # game/script/03_day2.rpy:1394
 translate polish day2_04_6a62a21f:
 
     # voice voice_file.clubmate(3,1)
     # clubmate "\"Yo! Liao, what's up with you and Shu-chi senpai?\" "
-    clubmate ""
+    clubmate "\"Siema Liao! Co tam z tobą i Shu-chi senpai'em?\" "
 
 # game/script/03_day2.rpy:1396
 translate polish day2_04_03454567:
 
     # avt "\"What's {i}up{/i} \ with us?\" "
-    avt ""
+    avt "\"Co {i}tam{/i} \ z nami?\" "
 
 # game/script/03_day2.rpy:1398
 translate polish day2_04_1af4ea85:
@@ -2737,32 +2738,33 @@ translate polish day2_04_1af4ea85:
     # voice voice_file.clubmate(3,2)
     # clubmate "\"You two seem pretty weird today.\" "
     # clubmate "\"You come to practice together, then spend heaps of time all buddy-buddy with him? So what? You dating him? What a bad boy~\" "
-    clubmate ""
+    clubmate "\"Wyglądacie dzisiaj jakoś dziwnie.\" "
+    clubmate "\"Przychodzicie razem na ćwiczenia, a potem spędzacie mnóstwo czasu sam na sam? No to co? Spotykasz się z nim? Co za niegrzeczny chłopiec~\" "
 
 # game/script/03_day2.rpy:1400
 translate polish day2_04_d39efb61:
 
     # avt "\"What the hell! No, that's nonsense! We're not in that kind of relationship.\" "
-    avt ""
+    avt "\"Co do diabła! Nie, to kompletna bzdura! Nie jesteśmy w tego rodzaju relacji.\" "
 
 # game/script/03_day2.rpy:1402
 translate polish day2_04_eab5c6a0:
 
     # voice voice_file.clubmate(3,3)
     # clubmate "\"So what's goin' on between you two?\" "
-    clubmate ""
+    clubmate "\"To co się między wami dzieje?\" "
 
 # game/script/03_day2.rpy:1404
 translate polish day2_04_f26c7bc9:
 
     # avt "\"We were just talking normally!\" "
-    avt ""
+    avt "\"Po prostu zwyczajnie rozmawiamy!\" "
 
 # game/script/03_day2.rpy:1406
 translate polish day2_04_d1262de9:
 
     # b "Honestly, it was a serious conversation. How could that be taken as 'romantic'? "
-    b ""
+    b "Serio, to była poważna rozmowa. Jak mogło to zostać odebrane jak cokolwiek \"romantycznego\"? "
 
 # game/script/03_day2.rpy:1408
 translate polish day2_04_222202db:
@@ -2770,242 +2772,243 @@ translate polish day2_04_222202db:
     # voice voice_file.clubmate(3,4)
     # clubmate "\"How suspicious— I didn't see you two being that close before. It's not like you two were inconspicuous about it either.\" "
     # clubmate "\"You see? All the other guys are staring at you.\" "
-    clubmate ""
+    clubmate "\"To podejrzane— Wcześniej nie widziałem was tak blisko siebie. I nie wyglądacie przy tym tak niepozornie.\" "
+    clubmate "\"Widzisz? Wszyscy się na ciebie gapią.\" "
 
 # game/script/03_day2.rpy:1410
 translate polish day2_04_fc32fe84:
 
     # avt "\"Really?!\" "
-    avt ""
+    avt "\"Naprawdę?!\" "
 
 # game/script/03_day2.rpy:1417
 translate polish day2_04_622b733c:
 
     # b "I look around to find a few guys from the {i}'Shu-Chi Senpai Admirers Club'{/i} \ literally staring at me. What the hell, we were just talking! "
-    b ""
+    b "Rozglądam się wokół i widzę, że kilku gości z {i}\"Klubu Wielbicieli Shu-Chi Senpai'a\"{/i} \ wpatruje się we mnie. Co do cholery, przecież tylko rozmawialiśmy! "
 
 # game/script/03_day2.rpy:1422
 translate polish day2_04_63b4f23c:
 
     # b "Our club has a pretty chill atmosphere, evidently so chill that people will gossip about anything... "
-    b ""
+    b "W naszym klubie panuje całkiem wyluzowana atmosfera, na tyle wyluzowana, że ludzie będą plotkować o wszystkim... "
 
 # game/script/03_day2.rpy:1424
 translate polish day2_04_aace2a06:
 
     # b "Now everyone's gonna think we're in cahoots or something... Is every club like this? Or maybe it's just ours? "
-    b ""
+    b "Teraz wszyscy pomyślą, że jesteśmy w jakiejś zmowie, czy coś ... Czy każdy klub jest taki? A może tylko nasz? "
 
 # game/script/03_day2.rpy:1426
 translate polish day2_04_de9ec97b:
 
     # avt "\"But, I was just...\" "
-    avt ""
+    avt "\"Ale ja tylko...\" "
 
 # game/script/03_day2.rpy:1428
 translate polish day2_04_109ba1c7:
 
     # voice voice_file.clubmate(3,5)
     # clubmate "\"So what were you doing before you two arrived here together?\" "
-    clubmate ""
+    clubmate "\"A co robiliście zanim przyszliście tu razem?\" "
 
 # game/script/03_day2.rpy:1430
 translate polish day2_04_d715a93c:
 
     # avt "\"We had... dinner?\" "
-    avt ""
+    avt "\"Mieliśmy... obiad?\" "
 
 # game/script/03_day2.rpy:1433
 translate polish day2_04_28870c65:
 
     # voice voice_file.clubmate(3,6)
     # clubmate "\"Wow! And you said you weren't in a relationship!\" " with flash
-    clubmate "" with flash
+    clubmate "\"Łał! I ty mówiłeś, że nie jesteś w związku!\" " with flash
 
 # game/script/03_day2.rpy:1435
 translate polish day2_04_99ada234:
 
     # avt "\"I'm not in a relationship!\" "
-    avt ""
+    avt "\"No bo nie jestem!\" "
 
 # game/script/03_day2.rpy:1437
 translate polish day2_04_86acf445:
 
     # voice voice_file.clubmate(3,7)
     # clubmate "\"Just admit it. We're buddies, right? It's not that bad to be in love with Senpai. He's {i}super{/i} \ cute~\" "
-    clubmate ""
+    clubmate "\"Po prostu się przyznaj. Jesteśmy kolegami, prawda? To nic złego kochać się w Senpai'u. Jest {i}super{/i} słodki~\" "
 
 # game/script/03_day2.rpy:1439
 translate polish day2_04_1f83c06d:
 
     # avt "\"Like I said we were not...\" "
-    avt ""
+    avt "\"Jak już mówiłem, nie jesteśmy w żadnym...\" "
 
 # game/script/03_day2.rpy:1441
 translate polish day2_04_a6084179:
 
     # voice voice_file.clubmate(3,8)
     # clubmate "\"Ehh— Convince me all you want, you'll just have to convince the entire club at this rate. People want the truth!\" "
-    clubmate ""
+    clubmate "\"Echh— Przekonuj mnie ile chcesz, na ten moment będziesz musiał przekonać cały klub. Ludzie chcą znać prawdę!\" "
 
 # game/script/03_day2.rpy:1443
 translate polish day2_04_ba142c20:
 
     # voice voice_file.jiahao(3,1)
     # clubmate "\"Okay— Okay— Liao said there's nothing going on. Just leave him alone already.\" "
-    clubmate ""
+    clubmate "\"Dobra już, dobra— Liao powiedział, że nic się nie dzieje. Zostawcie go już.\" "
 
 # game/script/03_day2.rpy:1445
 translate polish day2_04_0983ba71:
 
     # b "\"Another guy grabs the shoulder of the person talking to me.\" "
-    b ""
+    b "Podchodzi do nas kolejna osoba i łapie go za ramię. "
 
 # game/script/03_day2.rpy:1447
 translate polish day2_04_7d3fc606:
 
     # voice voice_file.clubmate(3,9)
     # clubmate "\"Come on, you don't see risqué things like this everyday...\" "
-    clubmate ""
+    clubmate "\"Daj spokój, nie widujesz codziennie takich pikantnych rzeczy...\" "
 
 # game/script/03_day2.rpy:1449
 translate polish day2_04_11eee262:
 
     # voice voice_file.jiahao(3,2)
     # clubmate "\"You don't see a fight everyday either! So back off, or I'll beat you!\" "
-    clubmate ""
+    clubmate "\"Nie dostajesz też codziennie wciry! Odsuń się, albo zbiję cię na kwaśne jabłko!\" "
 
 # game/script/03_day2.rpy:1451
 translate polish day2_04_2e9ea813:
 
     # b "Of course he won't really beat up anybody, but those guys seem bored of teasing me anyway. Thank god. "
-    b ""
+    b "Nie będzie przecież nikogo bił, a chyba tych kolesi już i tak znudziło drażnienie mnie. Dzięki bogu. "
 
 # game/script/03_day2.rpy:1453
 translate polish day2_04_f199d094:
 
     # avt "\"Thanks a lot, Jiahao.\" "
-    avt ""
+    avt "\"Wielkie dzięki, Jiahao.\" "
 
 # game/script/03_day2.rpy:1455
 translate polish day2_04_2bee5708:
 
     # b "One thing I know about Jiahao. Even though you can find a thousand people on the street with his name. This guy is actually aboriginal Taiwanese like the names origins would suggest. "
-    b ""
+    b "Wiem jedną rzecz o Jiahao. Mimo że na ulicy można znaleźć tysiące osób nazywających się tak samo. Ten facet jest rdzennym Tajwańczykiem, tak jak sugerowałoby pochodzenie jego imienia. "
 
 # game/script/03_day2.rpy:1457
 translate polish day2_04_f1def255:
 
     # voice voice_file.jiahao(3,3)
     # jiahao "\"You're welcome. Sometimes you just have to be tough with them.\" "
-    jiahao ""
+    jiahao "\"Nie ma sprawy. Czasem wobec nich musisz być twardy.\" "
 
 # game/script/03_day2.rpy:1459
 translate polish day2_04_3cc3d71b:
 
     # avt "\"Well... I...\" "
-    avt ""
+    avt "\"Cóż... Ja...\" "
 
 # game/script/03_day2.rpy:1461
 translate polish day2_04_682fc7c6:
 
     # b "I mean it's hard to deny some of the stuff they've been saying. I mean, after all Senpai— well Shu-Chi possessed by a leopard cat— has been living with me since last night. "
-    b ""
+    b "W sumie to ciężko zaprzeczyć niektórym rzeczom, które mówili. W gruncie rzeczy Senpai— a dokładnie to Shu-Chi opętany przez kotka bengalskiego— mieszka ze mną od wczoraj. "
 
 # game/script/03_day2.rpy:1463
 translate polish day2_04_365b3c2a:
 
     # b "Embarrassed I try to avoid Jihao's gaze, and notice Leopard hanging around in the process. Right, there's something I could ask Jiahao. "
-    b ""
+    b "Zawstydzony próbuję uniknąć wzroku Jiahao i dlatego zauważam, że Pantera kręci się w pobliżu. No pewnie, miałem się o coś zapytać Jiahao. "
 
 # game/script/03_day2.rpy:1467
 translate polish day2_04_c5220a45:
 
     # avt "\"Jiahao, are you a Rukai?\" "
-    avt ""
+    avt "\"Jiahao, czy wywodzisz się z Rukai?\" "
 
 # game/script/03_day2.rpy:1469
 translate polish day2_04_bb245b9a:
 
     # b "Seeing Leopard reminded me that Jiahao helped us a lot with information on the Rukai traditions for the show last night. Maybe he knows something. "
-    b ""
+    b "Na widok Pantery przypomniało mi się, że Jiahao bardzo nam pomógł naszemu klubowi w zbieraniu informacji na temat tradycji ludności Rukai. Może będzie coś wiedział. "
 
 # game/script/03_day2.rpy:1471
 translate polish day2_04_93a88fff:
 
     # voice voice_file.jiahao(3,4)
     # jiahao "\"Yeah, what's up?\" "
-    jiahao ""
+    jiahao "\"No tak, a co tam?\" "
 
 # game/script/03_day2.rpy:1473
 translate polish day2_04_85b0feb8:
 
     # avt "\"Which tribe?\" "
-    avt ""
+    avt "\"A z którego plemienia?\" "
 
 # game/script/03_day2.rpy:1475
 translate polish day2_04_6ad49600:
 
     # voice voice_file.jiahao(3,5)
     # jiahao "\"Ehh? What tribe?\" "
-    jiahao ""
+    jiahao "\"Echh? Plemienia?\" "
 
 # game/script/03_day2.rpy:1477
 translate polish day2_04_5237a343:
 
     # avt "\"It's... Well, where's your hometown?\" "
-    avt ""
+    avt "\"To znaczy... skąd dokładnie pochodzisz?\" "
 
 # game/script/03_day2.rpy:1479
 translate polish day2_04_a84d66bb:
 
     # voice voice_file.jiahao(3,6)
     # jiahao "\"Wutai, is that what you want?\" "
-    jiahao ""
+    jiahao "\"Wutai, o to ci chodziło?\" "
 
 # game/script/03_day2.rpy:1483
 translate polish day2_04_e1d72bee:
 
     # avt "\"Yeah! What a coincidence!\" " with hshake
-    avt "" with hshake
+    avt "\"Tak! Co za zbieg okoliczności!\" " with hshake
 
 # game/script/03_day2.rpy:1485
 translate polish day2_04_7d082bff:
 
     # voice voice_file.jiahao(3,7)
     # jiahao "\"Coincidence?\" "
-    jiahao ""
+    jiahao "\"Zbieg okoliczności?\" "
 
 # game/script/03_day2.rpy:1487
 translate polish day2_04_a9bc05ec:
 
     # avt "\"Ah, nothing...\" "
-    avt ""
+    avt "\"Ach, to nic takiego...\" "
 
 # game/script/03_day2.rpy:1489
 translate polish day2_04_b449dd38:
 
     # b "I can't exactly tell him there's a clouded leopard from Wutai who wants my help, but I really want to ask him something about it. How should I do this... "
-    b ""
+    b "Nie mogę mu powiedzieć, że mam tu mglistą panterę z Wutai, która potrzebuje mojej pomocy, ale naprawdę chciałbym się czegoś dowiedzieć. Co powinienem zrobić..."
 
 # game/script/03_day2.rpy:1491
 translate polish day2_04_75679a39:
 
     # avt "\"It's all right— It's just, that... Well, are you familiar with Rukai traditions?\" "
-    avt ""
+    avt "\"Nic się nie stało— Ja tylko... chciałem wiedzieć, czy znajome ci są tradycje ludności Rukai?\" "
 
 # game/script/03_day2.rpy:1493
 translate polish day2_04_a72117e7:
 
     # voice voice_file.jiahao(3,8)
     # jiahao "\"Rukai traditions? I know a bit. Anything you want to know?\" "
-    jiahao ""
+    jiahao "\"Tradycje Rukai? Coś tam wiem. Chciałbyś się czegoś dowiedzieć?\" "
 
 # game/script/03_day2.rpy:1495
 translate polish day2_04_793306c8:
 
     # avt "\"Do you know of any Rukai gods who are clouded leopards?\" "
-    avt ""
+    avt "\"Czy wiesz o jakichkolwiek mglistych panterach, będących bogami Rukai?\" "
 
 # game/script/03_day2.rpy:1497
 translate polish day2_04_dff70e90:
@@ -3013,13 +3016,14 @@ translate polish day2_04_dff70e90:
     # voice voice_file.jiahao(3,9)
     # jiahao "\"Well, I'm afraid it's not my specialty. Hmm... Clouded leopards...\" "
     # jiahao "\"Honestly, I have no idea.\" "
-    jiahao ""
+    jiahao "\"Obawiam się, że to nie moja specjalność. Hmm... Mgliste pantery...\" "
+    jiahao "\"Szczerze to nie mam pojęcia.\" "
 
 # game/script/03_day2.rpy:1499
 translate polish day2_04_af72d86f:
 
     # avt "\"None at all?\" "
-    avt ""
+    avt "\"Nic a nic?\" "
 
 # game/script/03_day2.rpy:1501
 translate polish day2_04_0e309a9a:
@@ -3027,7 +3031,8 @@ translate polish day2_04_0e309a9a:
     # voice voice_file.jiahao(3,10)
     # jiahao "\"I don't know, or at least nothing I can come up with on the top of my head\" "
     # jiahao "\"Like I said, I don't know much about this stuff.\" "
-    jiahao ""
+    jiahao "\"Nie wiem, na ten moment nic mi nie przychodzi na myśl.\""
+    jiahao "\"Jak mówiłem, nie wiem aż tak dużo na ten temat.\" "
 
 # game/script/03_day2.rpy:1503
 translate polish day2_04_580f0571:
