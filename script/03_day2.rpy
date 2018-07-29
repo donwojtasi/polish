@@ -1004,7 +1004,7 @@ translate polish day2_02_53849820:
 translate polish day2_02_2670da57:
 
     # b "\"Senpai walks out from the bathroom, wiping his face dry with my towel. \nYes, my towel.\" "
-    b "\"Senpai wychodzi z łazienki, wycierając twarz moim ręcznikiem.\nTak, moim ręcznikiem. "
+    b "Senpai wychodzi z łazienki, wycierając twarz moim ręcznikiem.\nTak, moim ręcznikiem. "
 
 # game/script/03_day2.rpy:537
 translate polish day2_02_43a336f0:
