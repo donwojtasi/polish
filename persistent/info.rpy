@@ -28,7 +28,7 @@ translate polish strings:
 
     # old "Rukai"
     old "魯凱族"
-    new "Lud Rukai"
+    new "Rukai"
 
     # old "Aidridringane"
     old "艾里里安"

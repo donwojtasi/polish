@@ -1098,7 +1098,7 @@ translate polish start_4ce7442c:
 
     # b "Also, I wonder why people wouldn't want to be possessed... Could the tales of the {font=tl/None/NotoSansCJKtc-Bold.otf}Oracle's Misfortune{/font} be true? "
 
-    b "Zastanawiam się, czemu ludzie nie chcę być opętani... Czy opowieści o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Proroczym Pechu{/font}\nsą prawdziwe? "
+    b "Zastanawiam się, czemu ludzie nie chcę być opętani... Czy opowieści o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Proroczym pechu{/font}\nsą prawdziwe? "
 
 
 
