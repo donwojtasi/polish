@@ -1,13 +1,13 @@
-Bóg Wyższy 
+The Chief God
 
-Świątynie rzadko sprawują kult jednego boga. W zależności od potrzeb swoich wyznawców, duże świątynie mogą mieścić w sobie wiele figur. Najczęsciej wyróżnia się cztery typy bóstw przebywających w kaplicach:
+A temple usually doesn't enshrine only one god. According to the needs of their worshippers, large temples may contain statues of multiple gods for people to worship. Typically, there are four types of god in such temples:
 
-Bóg Wyższy: Bóg pierwszorzędny danej świątyni, której bądź któremu zawdzięcza ona swoją nazwę. Przykład: Świątynia bogini Mazu.
+The Chief God: The god primarily worshipped in the temple. People usually name the temple after the god's name/title. For example: Mazu Temple.
 
-Bogowie Drugorzędni: Bogowie związani z kultem Boga Wyższego; mogą to być jego spokrewnieni, subiekci lub strażnicy.
+Secondary Gods: Secondary gods are god related to the chief god, including the chief god's spouse, subordinates, or guards.
 
-Bogowie-Najemcy: Nie posiadają oni żadnych relacji z Bogiem Wyższym, ale ich ołtarze znajdują się w tej samej świątyni z różnych powodów.
+Temple-Sharing Gods: They don't have specific relations with the chief god, but they are enshrined in the same temple for various reasons.
 
-Bogowie Odwiedzający: Bogowie przebywający wyłącznie tymczasowo na terenie danej świątyni.
+Visiting Gods: Gods enshrined in other temples with their statues temporarily placed in said temple.
 
-Biorąc na przykład Bogów Gleby: wielu z nich posiada gwardię złożoną z Tygrysów-Stróżów, których uznaje się za Bogów Drugorzędnych w służbie Wyższego Boga Gleby.
+For example, many gods of soil have guardian tiger statues as their guards. In such case, the god of soil is the Chief God and the guardian tigers are secondary gods in the temple.
