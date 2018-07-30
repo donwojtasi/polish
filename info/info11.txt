@@ -1,9 +1,9 @@
-Leopard Cat ({font=tl/None/NotoSansCJKtc-Regular.otf}石虎{/font}, Shihu)
+Kotek bengalski ({font=tl/None/NotoSansCJKtc-Regular.otf}石虎{/font}, Shihu)
 
-The leopard cat ({i}Prionailurus bengalensis{/i}) is a small wild cat native to South and East Asia. 
+Kotek bengalski ({i}Prionailurus bengalensis{/i}) to mały dziki kot zamieszkujący południową i wschodnią Azję. 
 
-A leopard cat is about the same size as a domestic cat, but slenderer, with longer legs and well-defined webs between its toes. Its small head is marked with two prominent dark stripes and a short and narrow white muzzle. 
+Wielkością przypomina smukłego kota domowego, posiada jednak dłuższe nogi i dobrze wykształcone błony między palcami łap. Jego drobna głowa naznaczona jest dwiema równoległymi, ciemnymi pręgami, a pysk rozjaśniony wąską i krótką bielą. 
 
-People in Taiwan refer leopard cats as Shihu (lit. "Stone tiger"), which means "Tiger residing between the stones". (So it's a tiger somehow)
+Tajwańczycy mówią na kotki bengalskie "Shihu" (dosł. "Kamienny tygrys"), co oznacza "Tygrys mieszkający między kamieniami".          (czyli niejako jest tygrysem)
 
-The leopard cat is currently listed as an endangered species in Taiwan, with an estimated population below 500.
+Kotek bengalski jest obecnie na liście gatunków zagrożonych w Tajwanie z szacowaną populacją poniżej 500 osobników.
