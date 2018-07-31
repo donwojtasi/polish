@@ -88,7 +88,7 @@ translate polish strings:
 
     # old "Boar Sausage"
     old "山豬香腸"
-    new "Kiełbasa z dzika"
+    new "Kiełbaski z dzika"
 
     # old "Suckling Pig"
     old "烤乳豬"
@@ -96,7 +96,7 @@ translate polish strings:
 
     # old "Old Street"
     old "老街美食"
-    new "Stara ulica"
+    new "Przekąski Starej..."
 
     # old "Orthodox God"
     old "正神"
