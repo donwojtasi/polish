@@ -100,7 +100,7 @@ translate polish strings:
 
     # old "Orthodox God"
     old "正神"
-    new "Prawy Bóg"
+    new "Ortodoksyjny Bóg"
 
     # old "Clairvoyant..."
     old "千里眼順風耳"
