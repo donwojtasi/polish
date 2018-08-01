@@ -24,7 +24,7 @@ translate polish day1_after_01_tig_062d49d0:
 translate polish day1_after_01_tig_2d0da8a1:
 
     # avt "\"Sorry, Senpai... I'll go get you a quilt, it's the least I can do to make up for it.\" "
-    avt "\"Przepraszam Senpai... Poszukam dla ciebie jakiejś kołdry, przynajmniej tyle mogę dla ciebie zrobić.\" "
+    avt "\"Przepraszam Senpai... Poszukam ci jakiejś kołdry, przynajmniej tyle mogę dla ciebie zrobić.\" "
 
 # game/script/02_day1_after.rpy:34
 translate polish day1_after_01_tig_db927990:
@@ -46,13 +46,13 @@ translate polish day1_after_01_tig_ca335cca:
     # voice voice_file.lpdcat(2,3)
     # lpdcat wronged "\"Well, if its gotta be like this...\" "
     voice voice_file.lpdcat(2,3)
-    lpdcat wronged "\"Skoro tak musi być...\" "
+    lpdcat wronged "\"Skoro tak ma być...\" "
 
 # game/script/02_day1_after.rpy:43
 translate polish day1_after_01_tig_0ae6d1fe:
 
     # b "Senpai quickly rolls out the quilt on the ground. "
-    b "Senpai szybko rozwija kołdrę na podłodze. "
+    b "Senpai szybko rozkłada sobie posłanie na podłodze. "
 
 # game/script/02_day1_after.rpy:48
 translate polish day1_after_01_tig_bb4952b2:
@@ -66,19 +66,19 @@ translate polish day1_after_01_tig_bb4952b2:
 translate polish day1_after_01_tig_3b23b615:
 
     # avt "\"Uh...\" "
-    avt "\"Yhh...\" "
+    avt "\"Yyy...\" "
 
 # game/script/02_day1_after.rpy:52
 translate polish day1_after_01_tig_7233a355:
 
     # b "This room is in no way big enough for someone to claim part of it. That{i} \"territory\" {/i}is right next to the door, so you can't even get out without stepping on his sheets. "
-    b "Ten pokój jest o wiele za mały, by ktoś przejmował jego część. To całe{i} \"terytorium\" {/i}jest zaraz przy drzwiach, więc nie można stąd wyjść bez stąpania po jego pościeli. "
+    b "Ten pokój jest o wiele za mały, by ktoś przejmował jego część. To całe{i} \"terytorium\" {/i}jest zaraz przy drzwiach, więc nie da się stąd wyjść bez stąpania po jego pościeli. "
 
 # game/script/02_day1_after.rpy:54
 translate polish day1_after_01_tig_6df67c1e:
 
     # avt "\"Senpai, how can I get out of the room with you blocking the way?\" "
-    avt "\"Senpai, jak mam wyjść z pokoju, skoro blokujesz przejście?\" "
+    avt "\"Senpai, jak mam wyjść z pokoju skoro blokujesz przejście?\" "
 
 # game/script/02_day1_after.rpy:58
 translate polish day1_after_01_tig_a2079805:
@@ -92,14 +92,14 @@ translate polish day1_after_01_tig_a2079805:
 translate polish day1_after_01_tig_c9ef18c6:
 
     # b "No matter how you look at there's no space for me squeeze into his \"territory\" even if I wanted to. "
-    b "Nie ważne jak na to spojrzysz, nie mam miejsca, by wcisnąć się w jego \"terytorium\" nawet gdybym chciał. "
+    b "Jakby nie patrzeć, w jego \"terytorium\" nie ma ani odrobiny miejsca w które mógłbym się wcisnąć, nawet gdybym bardzo chciał. "
 
 # game/script/02_day1_after.rpy:62
 translate polish day1_after_01_tig_72757def:
 
     # avt "\"It's alright Senpai, I know you're really excited, but I'm tired at the moment.\" "
     # avt "\"Can you just allow me to sleep for a while?\" "
-    avt "\"W porządku Senpai. Wiem, że bardzo się ekscytujesz, ale jestem teraz zmęczony.\" "
+    avt "\"W porządku Senpai. Wiem, że bardzo się ekscytujesz, ale jestem teraz okropnie zmęczony.\" "
     avt "\"Mógłbyś pozwolić mi trochę pospać?\" "
 
 # game/script/02_day1_after.rpy:64
@@ -108,7 +108,7 @@ translate polish day1_after_01_tig_fd071fbf:
     # voice voice_file.lpdcat(2,6)
     # lpdcat cute "\"Well it's not like I'm the one forcing you to stay awake~\" "
     voice voice_file.lpdcat(2,6)
-    lpdcat cute "\"To nie tak, że zmuszam cię do pozostania na nogach~\" "
+    lpdcat cute "\"Przecież wcale cię nie zmuszam do pozostania na nogach~\" "
 
 # game/script/02_day1_after.rpy:66
 translate polish day1_after_01_tig_452f3661:
@@ -120,25 +120,25 @@ translate polish day1_after_01_tig_452f3661:
 translate polish day1_after_01_tig_567a23d3:
 
     # b "Afterwards, I lay myself into the bed and get cosy under the quilt. "
-    b "Potem kładę się na łóżku i przykrywam miękką kołdrą. "
+    b "Wreszcie trafiam do łóżka i próbuję wygodnie rozłożyć się pod kołdrą. "
 
 # game/script/02_day1_after.rpy:84
 translate polish day1_after_01_tig_2b679be0:
 
     # b "Tiger is lying in the bed as well. My bed's pretty small for two as it is, and with his size he ends up taking up most of it. " with hshake
-    b "Tygrys też leży na łóżku. Jest trochę małe dla nas obu, a jego rozmiar sprawia, że zajmuje jego większą cześć. " with hshake
+    b "Tygrys leży tuż obok mnie. Już dla dwóch osób moje łóżko byłoby trochę małe, a on przy swoim rozmiarze zajmuje jego większą część. " with hshake
 
 # game/script/02_day1_after.rpy:86
 translate polish day1_after_01_tig_f8ede7c1:
 
     # b "Is he really going to be sleeping with me every night? H-He's kinda big... I don't think I'll fall asleep that easily with him next to me. "
-    b "Naprawdę chce ze mną spać każdej nocy? Jest naprawdę duży... Nie wiem, czy tak łatwo przy nim zasnę... "
+    b "Czy naprawdę chce ze mną spać każdej nocy? J-jest całkiem spory... Nie sądzę, że tak łatwo przy nim zasnę... "
 
 # game/script/02_day1_after.rpy:88
 translate polish day1_after_01_tig_c79473c7:
 
     # avt "\"Hey... are we going to sleep like this?\" "
-    avt "\"Hej... będziemy spać w taki sposób?\" "
+    avt "\"Hej... będziemy leżeć w ten sposób?\" "
 
 # game/script/02_day1_after.rpy:90
 translate polish day1_after_01_tig_42cb276c:
@@ -146,7 +146,7 @@ translate polish day1_after_01_tig_42cb276c:
     # voice voice_file.tig(2,1)
     # tig normal "\"Yes. Although, since you can see me, you can also feel me now. It does make it a bit... cramped.\" "
     voice voice_file.tig(2,1)
-    tig normal "\"Tak. Skoro możesz mnie teraz zobaczyć, możesz też mnie poczuć. To sprawia, że jest trochę... ciasno.\" "
+    tig normal "\"Tak. Teraz, gdy mnie widzisz, możesz mnie też poczuć. To dlatego zrobiło się trochę... ciasno.\" "
 
 # game/script/02_day1_after.rpy:92
 translate polish day1_after_01_tig_5bb872b8:
