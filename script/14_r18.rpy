@@ -5,6 +5,7 @@ translate polish cg_tig_h_703172b2:
 
     # voice voice_file.tig("14L",1)
     # tig embarrassed "\"Well, as I was saying, you need to feel okay to accept me inside you...\" "
+    voice voice_file.tig("14L",1)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:12
@@ -13,6 +14,7 @@ translate polish cg_tig_h_ddca0cf9:
     # voice voice_file.tig("14L",2)
     # tig embarrassed "\"Taking into account your {i}intimate tastes{/i} \ for beast-men, you likely won't mind... \" "
     # tig embarrassed "\"But as for myself, I have to say such thoughts are somewhat embarrassing...\" "
+    voice voice_file.tig("14L",2)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:14
@@ -26,6 +28,7 @@ translate polish cg_tig_h_e89b9063:
 
     # voice voice_file.tig("14L",3)
     # tig frown "\"Let me clarify that this means nothing to us gods, we don't have desires for such things. So any impure thoughts you think I have right now are merely your \nimagination.\" "
+    voice voice_file.tig("14L",3)
     tig frown ""
 
 # game/script/14_r18.rpy:18
@@ -40,6 +43,7 @@ translate polish cg_tig_h_31fd0ea6:
     # voice voice_file.tig("14L",4)
     # tig embarrassed "\"As you wish.\" "
     # tig embarrassed "\"To put it in simple words. You have to make love with me.\" "
+    voice voice_file.tig("14L",4)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:24
@@ -53,6 +57,7 @@ translate polish cg_tig_h_b9897764:
 
     # voice voice_file.tig("14L",5)
     # tig embarrassed "\"That would be the quickest way for you to offer your body to me. Normally it would not be allowed, but you could hardly call these normal circumstances...\" "
+    voice voice_file.tig("14L",5)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:28
@@ -66,6 +71,7 @@ translate polish cg_tig_h_198add70:
 
     # voice voice_file.tig("14L",6)
     # tig embarrassed "\"It is solely a way of increasing our intimacy and trust for each other.\" "
+    voice voice_file.tig("14L",6)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:33
@@ -79,6 +85,7 @@ translate polish cg_tig_h_c5b0b788:
 
     # voice voice_file.tig("14L",7)
     # tig normal "\"It's fine if you don't want to Liao.\" "
+    voice voice_file.tig("14L",7)
     tig normal ""
 
 # game/script/14_r18.rpy:37
@@ -104,6 +111,7 @@ translate polish cg_tig_h_85c59bf7:
 
     # voice voice_file.tig("14L",8)
     # tig normal "\"Liao, you should hurry up, if you don't mind. I'm afraid that the clock is ticking.\" "
+    voice voice_file.tig("14L",8)
     tig normal ""
 
 # game/script/14_r18.rpy:50
@@ -123,6 +131,7 @@ translate polish cg_tig_h_a4823a4e:
 
     # voice voice_file.tig("14L",9)
     # tig normal "\"...You're right.\" "
+    voice voice_file.tig("14L",9)
     tig normal ""
 
 # game/script/14_r18.rpy:63
@@ -136,6 +145,7 @@ translate polish cg_tig_h_1115b8e9:
 
     # voice voice_file.tig("14L",10)
     # tig embarrassed "\"...Better now?\" "
+    voice voice_file.tig("14L",10)
     tig embarrassed ""
 
 # game/script/14_r18.rpy:68
@@ -167,6 +177,7 @@ translate polish cg_tig_h_05b7c95e:
 
     # voice voice_file.tig("14L",11)
     # tig confused "\"Yes?\" "
+    voice voice_file.tig("14L",11)
     tig confused ""
 
 # game/script/14_r18.rpy:79
@@ -180,6 +191,7 @@ translate polish cg_tig_h_76be80bb:
 
     # voice voice_file.tig("14L",12)
     # tig normal "\"You would like me to make the first move then? \" "
+    voice voice_file.tig("14L",12)
     tig normal ""
 
 # game/script/14_r18.rpy:83
@@ -187,6 +199,7 @@ translate polish cg_tig_h_88df1534:
 
     # voice voice_file.tig("14L",13)
     # tig laugh_1 "\"...I got it.\" "
+    voice voice_file.tig("14L",13)
     tig laugh_1 ""
 
 # game/script/14_r18.rpy:85
@@ -240,6 +253,7 @@ translate polish cg_tig_h_6c6ea448:
 
     # voice voice_file.tig("14L",14)
     # tig laugh_1 "\"I could always do it through your clothes, but surely that would be odd, would it not?\" "
+    voice voice_file.tig("14L",14)
     tig laugh_1 ""
 
 # game/script/14_r18.rpy:103
@@ -259,6 +273,7 @@ translate polish cg_tig_h_400630b9:
 
     # voice voice_file.tig("14L",15)
     # tig lift "\"Let's proceed...\" "
+    voice voice_file.tig("14L",15)
     tig lift ""
 
 # game/script/14_r18.rpy:110
@@ -278,6 +293,7 @@ translate polish cg_tig_h_a3800532:
 
     # voice voice_file.tig("14L",16)
     # tig_naked laugh_1 "\"Ok, Liao.... I'll proceed.\" "
+    voice voice_file.tig("14L",16)
     tig_naked laugh_1 ""
 
 # game/script/14_r18.rpy:121
@@ -310,6 +326,7 @@ translate polish cg_tig_h_b8fe6d68:
     # voice voice_file.tig("14L",17)
     # tig_naked laugh_1 "\"Liao... I... I'll be gentle.\" "
     # tig_naked laugh_1 "\"That's what I'm supposed to say at this point right?\" "
+    voice voice_file.tig("14L",17)
     tig_naked laugh_1 ""
 
 # game/script/14_r18.rpy:134
@@ -323,6 +340,7 @@ translate polish cg_tig_h_0fd60908:
 
     # voice voice_file.tig("14L",18)
     # tig_naked laugh_2 "\"There is nothing wrong with that.\" "
+    voice voice_file.tig("14L",18)
     tig_naked laugh_2 ""
 
 # game/script/14_r18.rpy:138
@@ -336,6 +354,7 @@ translate polish cg_tig_h_44296e2f:
 
     # voice voice_file.tig("14L",19)
     # tig_naked normal "\"Shall I begin here?\" "
+    voice voice_file.tig("14L",19)
     tig_naked normal ""
 
 # game/script/14_r18.rpy:142
@@ -343,6 +362,7 @@ translate polish cg_tig_h_c0963b13:
 
     # voice voice_file.tig("14L",20)
     # tig_naked laugh_1 "*chuckle* \"I believe all those doujins of yours must have polluted my mind.\" "
+    voice voice_file.tig("14L",20)
     tig_naked laugh_1 ""
 
 # game/script/14_r18.rpy:144
@@ -356,6 +376,7 @@ translate polish cg_tig_h_47b26c1b:
 
     # voice voice_file.tig("14L",21)
     # tig_naked laugh_1 "\"And yet they turned out to be invaluable research material. If I never did study them, how would I know what to do next?\" "
+    voice voice_file.tig("14L",21)
     tig_naked laugh_1 ""
 
 # game/script/14_r18.rpy:149
@@ -383,6 +404,7 @@ translate polish cg_tig_h_8c5da9c6:
 
     # voice voice_file.tig("14L",22)
     # tig_naked Rnormal "\"Hmm, I don't think this will be enough.\" "
+    voice voice_file.tig("14L",22)
     tig_naked Rnormal ""
 
 # game/script/14_r18.rpy:164
@@ -402,6 +424,7 @@ translate polish cg_tig_h_333ad21c:
 
     # voice voice_file.tig("14L",23)
     # tig_naked Rnormal "\"Hmm, I suppose that I can't actually hurt you with this spirit body, but I would still prefer to be careful.\" "
+    voice voice_file.tig("14L",23)
     tig_naked Rnormal ""
 
 # game/script/14_r18.rpy:171
@@ -416,6 +439,7 @@ translate polish cg_tig_h_b5cbd3b2:
     # voice voice_file.tig("14L",24)
     # tig_naked Rlaugh_2 "\"I dearly wish that your future boyfriend—whomever you take—will be as gentle to you as I am.\" "
     # tig_naked Rlaugh_2 "\"As for now, I want to make sure you remember your first time.\" "
+    voice voice_file.tig("14L",24)
     tig_naked Rlaugh_2 ""
 
 # game/script/14_r18.rpy:175
@@ -435,6 +459,7 @@ translate polish cg_tig_h_d8228ef9:
 
     # voice voice_file.tig("14L",25)
     # tig_naked Rlaugh_1 "\"I'll probably need three fingers. Let me know if it hurts.\" "
+    voice voice_file.tig("14L",25)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:187
@@ -454,6 +479,7 @@ translate polish cg_tig_h_82082dbf:
 
     # voice voice_file.tig("14L",26)
     # tig_naked Rlaugh_1 "\"I believe this should do. May I proceed?\" "
+    voice voice_file.tig("14L",26)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:193
@@ -499,6 +525,7 @@ translate polish cg_tig_h_988633f4:
 
     # voice voice_file.tig("14L",27)
     # tig_naked Rlaugh_1 "\"...Okay, I'm inside now. You feeling okay Liao?\" "
+    voice voice_file.tig("14L",27)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:211
@@ -518,6 +545,7 @@ translate polish cg_tig_h_335200f0:
 
     # voice voice_file.tig("14L",28)
     # tig_naked Rlaugh_1 "\"Okay, shall I proceed?\" "
+    voice voice_file.tig("14L",28)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:217
@@ -537,6 +565,7 @@ translate polish cg_tig_h_83e65b78:
 
     # voice voice_file.tig("14L",29)
     # tig_naked Rlaugh_1 "\"Liao, it's ok. I said I would be gentle. There's no point in this if I can't at least make you happy.\" "
+    voice voice_file.tig("14L",29)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:223
@@ -574,6 +603,7 @@ translate polish cg_tig_h_eeb1c933:
 
     # voice voice_file.tig("14L",30)
     # tig_naked Rlaugh_2 "\"I shall move on now, it may be little intense. I apologise.\" "
+    voice voice_file.tig("14L",30)
     tig_naked Rlaugh_2 ""
 
 # game/script/14_r18.rpy:237
@@ -599,6 +629,7 @@ translate polish cg_tig_h_2acc504c:
 
     # voice voice_file.tig("14L",31)
     # tig_naked Rgentle "\"Liao, are you okay?\" "
+    voice voice_file.tig("14L",31)
     tig_naked Rgentle ""
 
 # game/script/14_r18.rpy:250
@@ -673,6 +704,7 @@ translate polish cg_tig_h_e5cb0c50:
 
     # voice voice_file.tig("14L",32)
     # tig_naked Rgentle "\"Liao... you look... adorable.\" "
+    voice voice_file.tig("14L",32)
     tig_naked Rgentle ""
 
 # game/script/14_r18.rpy:286
@@ -725,6 +757,7 @@ translate polish cg_tig_h_683b9f1a:
 
     # voice voice_file.tig("14L",33)
     # tig_naked Rnervous "\"L... Liao!\" "
+    voice voice_file.tig("14L",33)
     tig_naked Rnervous ""
 
 # game/script/14_r18.rpy:317
@@ -756,6 +789,7 @@ translate polish cg_tig_h_d56e79d1:
 
     # voice voice_file.tig("14L",34)
     # tig_naked Rgentle "\"Huff... So... how was that Liao?\" "
+    voice voice_file.tig("14L",34)
     tig_naked Rgentle ""
 
 # game/script/14_r18.rpy:327
@@ -782,6 +816,7 @@ translate polish cg_tig_h_9cee5e19:
     # voice voice_file.tig("14L",35)
     # tig_naked Rlaugh_1 "\"I suppose I did well then? I hope I tried hard enough to make sure your first time was memorable.\" "
     # tig_naked Rlaugh_1 "\"How is your body feeling?\" "
+    voice voice_file.tig("14L",35)
     tig_naked Rlaugh_1 ""
 
 # game/script/14_r18.rpy:335
@@ -801,6 +836,7 @@ translate polish cg_tig_h_1e4ddfbd:
 
     # voice voice_file.tig("14L",36)
     # tig_naked laugh_1 "\"Shall we clean you up now?\" "
+    voice voice_file.tig("14L",36)
     tig_naked laugh_1 ""
 
 # game/script/14_r18.rpy:351
@@ -820,6 +856,7 @@ translate polish cg_tig_h_09a47281:
 
     # voice voice_file.tig("14L",37)
     # tig_naked normal "\"Liao, I know it is not the best time to mention this...\" "
+    voice voice_file.tig("14L",37)
     tig_naked normal ""
 
 # game/script/14_r18.rpy:358
@@ -833,6 +870,7 @@ translate polish cg_tig_h_08fe3056:
 
     # voice voice_file.tig("14L",38)
     # tig_naked normal "\"...I would say it's an excellent time to ready yourself for battle.\" "
+    voice voice_file.tig("14L",38)
     tig_naked normal ""
 
 # game/script/14_r18.rpy:362
@@ -865,6 +903,7 @@ translate polish s14_branch1_r18_02_89f06e7e:
 
     # voice voice_file.tig("14L",39)
     # tig frown "\"Liao, are you prepared?\" "
+    voice voice_file.tig("14L",39)
     tig frown ""
 
 # game/script/14_r18.rpy:385

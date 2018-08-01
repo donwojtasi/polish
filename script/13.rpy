@@ -43,6 +43,7 @@ translate polish s13_883fc54f:
 
     # voice voice_file.clubmate(13,1)
     # clubleader "\"Alright, everyone. I want to see you guys try it by yourselves. Just let me know if you need a hand or ask one of our senior students up the front. They've done the routine before.\" "
+    voice voice_file.clubmate(13,1)
     clubleader ""
 
 # game/script/13.rpy:33
@@ -56,6 +57,7 @@ translate polish s13_762c8900:
 
     # voice voice_file.lpdcat(13,1)
     # lpdcat normal "\"Liao, you alright? You're kinda spacing out over there. If you're stuck I'm happy to go through it with you.\" "
+    voice voice_file.lpdcat(13,1)
     lpdcat normal ""
 
 # game/script/13.rpy:37
@@ -75,6 +77,7 @@ translate polish s13_c3dfb710:
 
     # voice voice_file.lpdcat(13,2)
     # lpdcat laugh "\"Hmm, well while you're here you should take it as a chance to relax. Alright? Ready! Let's start!\" "
+    voice voice_file.lpdcat(13,2)
     lpdcat laugh ""
 
 # game/script/13.rpy:49
@@ -101,6 +104,7 @@ translate polish s13_182971ad:
 
     # voice voice_file.lpdcat(13,3)
     # lpdcat normal "\"Umm— That's not right. It's like this, see?\" "
+    voice voice_file.lpdcat(13,3)
     lpdcat normal ""
 
 # game/script/13.rpy:66
@@ -108,6 +112,7 @@ translate polish s13_9b8a4aaa:
 
     # voice voice_file.lpd(13,1)
     # lpd normal "\"Liao, look at me...\" "
+    voice voice_file.lpd(13,1)
     lpd normal ""
 
 # game/script/13.rpy:70
@@ -151,6 +156,7 @@ translate polish s13_c1fd89fd:
 
     # voice voice_file.lpdcat(13,4)
     # lpdcat normal "\"Alright, that's enough. Just take a break.\" "
+    voice voice_file.lpdcat(13,4)
     lpdcat normal ""
 
 # game/script/13.rpy:96
@@ -158,6 +164,7 @@ translate polish s13_ae08fb14:
 
     # voice voice_file.lpd(13,2)
     # lpd normal "\"...Liao. Again.\" "
+    voice voice_file.lpd(13,2)
     lpd normal ""
 
 # game/script/13.rpy:98
@@ -190,6 +197,7 @@ translate polish s13_776bf21f:
 
     # voice voice_file.lpdcat(13,5)
     # lpdcat surprise_1 "\"What...\" "
+    voice voice_file.lpdcat(13,5)
     lpdcat surprise_1 ""
 
 # game/script/13.rpy:111
@@ -197,6 +205,7 @@ translate polish s13_df21657f:
 
     # voice voice_file.tig(13,1)
     # tig surprise "\"What? Hold on, you're...\" "
+    voice voice_file.tig(13,1)
     tig surprise ""
 
 # game/script/13.rpy:121
@@ -229,6 +238,7 @@ translate polish s13_b819b232:
 
     # voice voice_file.clubmate(13,2)
     # clubmate "\"Wow! Liao, you did great!\" " with vshake
+    voice voice_file.clubmate(13,2)
     clubmate "" with vshake
 
 # game/script/13.rpy:154
@@ -236,6 +246,7 @@ translate polish s13_9b55b954:
 
     # voice voice_file.clubmate(13,3)
     # clubmate "\"How did you learn it so fast?\" " with vshake
+    voice voice_file.clubmate(13,3)
     clubmate "" with vshake
 
 # game/script/13.rpy:157
@@ -243,6 +254,7 @@ translate polish s13_1606f380:
 
     # voice voice_file.clubmate(13,4)
     # clubmate "\"You must have been secretly practicing this whole time! \nI knew Shu-Chi Senpai was—\" " with vshake
+    voice voice_file.clubmate(13,4)
     clubmate "" with vshake
 
 # game/script/13.rpy:161
@@ -275,6 +287,7 @@ translate polish s13_fdc0e027:
 
     # voice voice_file.lpdcat(13,6)
     # lpdcat panic "\"Oh... Liao, you danced so well! Come here.\" "
+    voice voice_file.lpdcat(13,6)
     lpdcat panic ""
 
 # game/script/13.rpy:184
@@ -288,6 +301,7 @@ translate polish s13_968d4dc7:
 
     # voice voice_file.lpdcat(13,7)
     # lpdcat difficult "\"Err... Kulau, You've crossed the line...\" "
+    voice voice_file.lpdcat(13,7)
     lpdcat difficult ""
 
 # game/script/13.rpy:191
@@ -301,6 +315,7 @@ translate polish s13_26671b89:
 
     # voice voice_file.tig(13,2)
     # tig angry "\"What did you do? Did I not tell you to not touch Liao? Or what? Did you think it didn't matter as long as you didn't do something evil?\" "
+    voice voice_file.tig(13,2)
     tig angry ""
 
 # game/script/13.rpy:202
@@ -314,6 +329,7 @@ translate polish s13_47d0c662:
 
     # voice voice_file.lpdcat(13,8)
     # lpdcat difficult "\"Liao, Kulau just took control of your body. Didn't you notice?\" "
+    voice voice_file.lpdcat(13,8)
     lpdcat difficult ""
 
 # game/script/13.rpy:206
@@ -334,6 +350,7 @@ translate polish s13_5424d150:
 
     # voice voice_file.lpd(13,3)
     # lpd obsessed "\"Can, not do?\" "
+    voice voice_file.lpd(13,3)
     lpd obsessed ""
 
 # game/script/13.rpy:212
@@ -341,6 +358,7 @@ translate polish s13_dfa1fee8:
 
     # voice voice_file.lpdcat(13,9)
     # lpdcat difficult "\"Well, a bit of help is fine but you didn't even let him do anything by himself. I don't really care but you probs pissed of the old man off...\" "
+    voice voice_file.lpdcat(13,9)
     lpdcat difficult ""
 
 # game/script/13.rpy:215
@@ -348,6 +366,7 @@ translate polish s13_ac07d927:
 
     # voice voice_file.tig(13,3)
     # tig angry "\"Of course!\" " with vshake
+    voice voice_file.tig(13,3)
     tig angry "" with vshake
 
 # game/script/13.rpy:217
@@ -355,6 +374,7 @@ translate polish s13_868c4780:
 
     # voice voice_file.lpdcat(13,10)
     # lpdcat difficult "\"It would have been better to help him out when he's back home though. What do you think is gonna happen now that everyone has seen him dance so well? What happens when he messes it up next time?\" "
+    voice voice_file.lpdcat(13,10)
     lpdcat difficult ""
 
 # game/script/13.rpy:222
@@ -362,6 +382,7 @@ translate polish s13_7119a2db:
 
     # voice voice_file.tig(13,4)
     # tig angry "\"I've told you to think about the consequences of your actions!\" "
+    voice voice_file.tig(13,4)
     tig angry ""
 
 # game/script/13.rpy:226
@@ -371,6 +392,7 @@ translate polish s13_8834b3a0:
     # tig angry "\"Did you not think about the other people around you? What is wrong with you?\" "
     # tig angry "\"Would you wish for Liao to never perform in front of the others again? Or would you rather dance for him from now on?\" "
     # tig angry "\"Maybe you'd rather attend every dance club meeting on Liao's behalf? Do you understand what you just did!\" "
+    voice voice_file.tig(13,5)
     tig angry ""
 
 # game/script/13.rpy:228
@@ -378,6 +400,7 @@ translate polish s13_592ea892:
 
     # voice voice_file.lpdcat(13,11)
     # lpdcat serious "\"Drop it, old man. It doesn't really matter... I'll just tell them I've been teaching Liao...\" "
+    voice voice_file.lpdcat(13,11)
     lpdcat serious ""
 
 # game/script/13.rpy:230
@@ -385,6 +408,7 @@ translate polish s13_c4c4e511:
 
     # voice voice_file.tig(13,6)
     # tig angry "\"Liao danced unreasonably well just then. How could you implore them to believe you after witnessing that?\" "
+    voice voice_file.tig(13,6)
     tig angry ""
 
 # game/script/13.rpy:232
@@ -393,6 +417,7 @@ translate polish s13_40830035:
     # voice voice_file.tig(13,7)
     # tig angry "\"Will they not look for another reason? What if they leap to some odd conclusion?\" "
     # tig angry "\"Even if they believe your story about teaching them, kitten. It would only serve to add to the rumours about your relationship!\" "
+    voice voice_file.tig(13,7)
     tig angry ""
 
 # game/script/13.rpy:237
@@ -400,6 +425,7 @@ translate polish s13_15a4fa0e:
 
     # voice voice_file.tig(13,8)
     # tig angry "\"You fool. If you were ever to think about the consequences... How can you call yourself a god worthy to lead anyone?\" "
+    voice voice_file.tig(13,8)
     tig angry ""
 
 # game/script/13.rpy:242
@@ -407,6 +433,7 @@ translate polish s13_ec7ea448:
 
     # voice voice_file.tig(13,9)
     # tig angry "\"Look at what you've done. Liao might have to quit his club over this! You've put Liao's dreams in jeopardy! You may even have ruined them.\" "
+    voice voice_file.tig(13,9)
     tig angry ""
 
 # game/script/13.rpy:246
@@ -420,6 +447,7 @@ translate polish s13_7469205a:
 
     # voice voice_file.lpd(13,4)
     # lpd obsessed "\"Ruined... Liao's dream?\" "
+    voice voice_file.lpd(13,4)
     lpd obsessed ""
 
 # game/script/13.rpy:250
@@ -470,6 +498,7 @@ translate polish s13_f71b1b1a:
 
     # voice voice_file.tig(13,10)
     # tig angry "\"Do you really expect to become proficient without a teacher let alone a venue? If you did leave, would you pay for those resources?\" "
+    voice voice_file.tig(13,10)
     tig angry ""
 
 # game/script/13.rpy:270
@@ -483,6 +512,7 @@ translate polish s13_662571cd:
 
     # voice voice_file.tig(13,11)
     # tig frown "\"Sure, you might be able to get away this time. But what about next? And after that?\" "
+    voice voice_file.tig(13,11)
     tig frown ""
 
 # game/script/13.rpy:277
@@ -490,6 +520,7 @@ translate polish s13_a0584ea8:
 
     # voice voice_file.tig(13,12)
     # tig angry "\"Aborigine, I knew you were trouble during the math exam. Now you've just proved me right!\" "
+    voice voice_file.tig(13,12)
     tig angry ""
 
 # game/script/13.rpy:281
@@ -497,6 +528,7 @@ translate polish s13_6cfb7540:
 
     # voice voice_file.tig(13,13)
     # tig angry "\"If you cannot figure out how the modern world functions, you shouldn't get in the way of others!\" "
+    voice voice_file.tig(13,13)
     tig angry ""
 
 # game/script/13.rpy:283
@@ -504,6 +536,7 @@ translate polish s13_0e9380de:
 
     # voice voice_file.tig(13,14)
     # tig angry "\"Who knows what you'll interfere with next? You're just getting in the way of Liao's \nlife!\" "
+    voice voice_file.tig(13,14)
     tig angry ""
 
 # game/script/13.rpy:288
@@ -511,6 +544,7 @@ translate polish s13_6a83f5e4:
 
     # voice voice_file.lpdcat(13,12)
     # lpdcat difficult "\"Hey— Old man. Calm down for a sec...\" "
+    voice voice_file.lpdcat(13,12)
     lpdcat difficult ""
 
 # game/script/13.rpy:291
@@ -518,6 +552,7 @@ translate polish s13_24940dd1:
 
     # voice voice_file.tig(13,15)
     # tig angry "\"Leave me be.\" "
+    voice voice_file.tig(13,15)
     tig angry ""
 
 # game/script/13.rpy:293
@@ -531,6 +566,7 @@ translate polish s13_f91f559e:
 
     # voice voice_file.tig(13,16)
     # tig angry "\"I don't care what this kitten says.\" "
+    voice voice_file.tig(13,16)
     tig angry ""
 
 # game/script/13.rpy:298
@@ -538,6 +574,7 @@ translate polish s13_11c06e42:
 
     # voice voice_file.lpdcat(13,13)
     # lpdcat not_reconcile "\"I'm not a kitten!\" "
+    voice voice_file.lpdcat(13,13)
     lpdcat not_reconcile ""
 
 # game/script/13.rpy:300
@@ -546,6 +583,7 @@ translate polish s13_f5de9dbe:
     # voice voice_file.tig(13,17)
     # tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
     # tig frown "\"It's not worth the risk to allow you to stay.\" "
+    voice voice_file.tig(13,17)
     tig frown ""
 
 # game/script/13.rpy:302
@@ -554,6 +592,7 @@ translate polish s13_6c037936:
     # voice voice_file.tig(13,18)
     # tig frown "\"Now, I will only tell you one more time. Liao has no obligation to help you, and he has no obligation to have you by his side.\" "
     # tig frown "\"If you are to interfere with his life, you are better off keeping your distance. For Liao's sake.\" "
+    voice voice_file.tig(13,18)
     tig frown ""
 
 # game/script/13.rpy:304
@@ -561,6 +600,7 @@ translate polish s13_6f51b0c9:
 
     # voice voice_file.tig(13,19)
     # tig frown "\"Understood?\" "
+    voice voice_file.tig(13,19)
     tig frown ""
 
 # game/script/13.rpy:310
@@ -580,6 +620,7 @@ translate polish s13_9266c07f:
 
     # voice voice_file.tig(13,20)
     # tig angry "\"Liao! ...Do not talk back to me.\" " with vshake
+    voice voice_file.tig(13,20)
     tig angry "" with vshake
 
 # game/script/13.rpy:317
@@ -587,6 +628,7 @@ translate polish s13_1f0b2e77:
 
     # voice voice_file.tig(13,21)
     # tig frown "\"If you heard me clearly, you should know what to do.\" "
+    voice voice_file.tig(13,21)
     tig frown ""
 
 # game/script/13.rpy:319
@@ -594,6 +636,7 @@ translate polish s13_1dc2082d:
 
     # voice voice_file.lpdcat(13,14)
     # lpdcat panic "\"Hey... just drop it. The old man's just {i}angry{/i} \ right now. You should—\" "
+    voice voice_file.lpdcat(13,14)
     lpdcat panic ""
 
 # game/script/13.rpy:321
@@ -601,6 +644,7 @@ translate polish s13_f51d4b2d:
 
     # voice voice_file.lpd(13,5)
     # lpd disappointed "\"Understood.\" "
+    voice voice_file.lpd(13,5)
     lpd disappointed ""
 
 # game/script/13.rpy:323
@@ -614,6 +658,7 @@ translate polish s13_b0ea0f32:
 
     # voice voice_file.lpd(13,6)
     # lpd disappointed "\"I leave.\" "
+    voice voice_file.lpd(13,6)
     lpd disappointed ""
 
 # game/script/13.rpy:331
@@ -633,6 +678,7 @@ translate polish s13_776bf21f_1:
 
     # voice voice_file.lpdcat(13,15)
     # lpdcat surprise_1 "\"Wha...\" "
+    voice voice_file.lpdcat(13,15)
     lpdcat surprise_1 ""
 
 # game/script/13.rpy:337
@@ -640,6 +686,7 @@ translate polish s13_195b58df:
 
     # voice voice_file.tig(13,22)
     # tig frown "*humph* "
+    voice voice_file.tig(13,22)
     tig frown ""
 
 # game/script/13.rpy:339
@@ -653,6 +700,7 @@ translate polish s13_1b6c760f:
 
     # voice voice_file.tig(13,23)
     # tig frown "\"Liao, I'm sorry. It was for your own sake.\" "
+    voice voice_file.tig(13,23)
     tig frown ""
 
 # game/script/13.rpy:343
@@ -660,6 +708,7 @@ translate polish s13_9bf6b401:
 
     # voice voice_file.tig(13,24)
     # tig frown "\"At least one problem has been solved. You no longer need to worry about going to Wutai.\" "
+    voice voice_file.tig(13,24)
     tig frown ""
 
 # game/script/13.rpy:345
@@ -686,6 +735,7 @@ translate polish s13_3b50b7ac:
     # voice voice_file.tig(13,25)
     # tig frown "\"I know he just wanted to help you, but he doesn't understand what he's doing. You're the one who gets hurt in the end. \" "
     # tig frown "\"It's better to do something before it's too late.\" "
+    voice voice_file.tig(13,25)
     tig frown ""
 
 # game/script/13.rpy:362
@@ -722,6 +772,7 @@ translate polish s13_b1b38033:
 
     # voice voice_file.tig(13,26)
     # tig normal "\"...I'm sorry.\" "
+    voice voice_file.tig(13,26)
     tig normal ""
 
 # game/script/13.rpy:377
@@ -729,6 +780,7 @@ translate polish s13_97881033:
 
     # voice voice_file.tig(13,27)
     # tig normal "\"But Liao, this is—\" "
+    voice voice_file.tig(13,27)
     tig normal ""
 
 # game/script/13.rpy:379
@@ -742,6 +794,7 @@ translate polish s13_f9b0421b:
 
     # voice voice_file.lpdcat(13,16)
     # lpdcat panic "\"Wow... this is awkward...\" " with hshake
+    voice voice_file.lpdcat(13,16)
     lpdcat panic "" with hshake
 
 # game/script/13.rpy:389
@@ -749,6 +802,7 @@ translate polish s13_7ee38493:
 
     # voice voice_file.lpdcat(13,17)
     # lpdcat normal "\"Alright, enough is enough. It's not like this has to be the end. Maybe Kulau will come back.\" "
+    voice voice_file.lpdcat(13,17)
     lpdcat normal ""
 
 # game/script/13.rpy:391
@@ -756,6 +810,7 @@ translate polish s13_ce4bf2f3:
 
     # voice voice_file.lpdcat(13,18)
     # lpdcat normal "\"The old man can clear things up, and Liao would have plenty of time to talk, right?\" "
+    voice voice_file.lpdcat(13,18)
     lpdcat normal ""
 
 # game/script/13.rpy:393
@@ -763,6 +818,7 @@ translate polish s13_8cf15f21:
 
     # voice voice_file.lpdcat(13,19)
     # lpdcat wronged "\"There's no need to... worry so much...\" "
+    voice voice_file.lpdcat(13,19)
     lpdcat wronged ""
 
 # game/script/13.rpy:395
@@ -770,6 +826,7 @@ translate polish s13_03eb0388:
 
     # voice voice_file.tig(13,28)
     # tig frown "*tch* "
+    voice voice_file.tig(13,28)
     tig frown ""
 
 # game/script/13.rpy:397
@@ -795,6 +852,7 @@ translate polish s13_0cefc785:
 
     # voice voice_file.lpdcat(13,20)
     # lpdcat serious "\"That's, a good idea. Liao's probably not in the mood for practise anyway.\" "
+    voice voice_file.lpdcat(13,20)
     lpdcat serious ""
 
 # game/script/13.rpy:405
@@ -802,6 +860,7 @@ translate polish s13_1f473cae:
 
     # voice voice_file.lpdcat(13,21)
     # lpdcat serious "\"Which means... I should probably take this chance to tell you.\" "
+    voice voice_file.lpdcat(13,21)
     lpdcat serious ""
 
 # game/script/13.rpy:407
@@ -809,6 +868,7 @@ translate polish s13_81029d2c:
 
     # voice voice_file.lpdcat(13,22)
     # lpdcat serious "\"I've asked for the day off class tomorrow. I'll be leaving tonight.\" "
+    voice voice_file.lpdcat(13,22)
     lpdcat serious ""
 
 # game/script/13.rpy:409
@@ -816,6 +876,7 @@ translate polish s13_fe51e72b:
 
     # voice voice_file.lpdcat(13,23)
     # lpdcat serious "\"You know, to go have a big fight with my family. Fun times.\" "
+    voice voice_file.lpdcat(13,23)
     lpdcat serious ""
 
 # game/script/13.rpy:411
@@ -823,6 +884,7 @@ translate polish s13_be08e90b:
 
     # voice voice_file.lpdcat(13,24)
     # lpdcat wronged "\"Yan Shu-Chi's on bad terms... I really don't know how bad it's gonna get, but that's just how it is...\" "
+    voice voice_file.lpdcat(13,24)
     lpdcat wronged ""
 
 # game/script/13.rpy:413
@@ -830,6 +892,7 @@ translate polish s13_bc396a40:
 
     # voice voice_file.lpdcat(13,25)
     # lpdcat wronged "\"And I plan to take this as my chance to... leave him for good.\" "
+    voice voice_file.lpdcat(13,25)
     lpdcat wronged ""
 
 # game/script/13.rpy:423
@@ -844,6 +907,7 @@ translate polish s13_02_not_lpdcat_last_date_8836e935:
     # voice voice_file.lpdcat(13,26)
     # lpdcat serious "\"It's not out of nowhere... I've seen this coming for days. It's just been getting, more intense.\" "
     # lpdcat serious "\"I have to face it sooner or later.\" "
+    voice voice_file.lpdcat(13,26)
     lpdcat serious ""
 
 # game/script/13.rpy:427
@@ -851,6 +915,7 @@ translate polish s13_02_not_lpdcat_last_date_c5061851:
 
     # voice voice_file.lpdcat(13,27)
     # lpdcat serious "\"That's why I need to go back for a few days. This is Yan-Shu-Chi's family affair. You can't get involved...\" "
+    voice voice_file.lpdcat(13,27)
     lpdcat serious ""
 
 # game/script/13.rpy:429
@@ -864,6 +929,7 @@ translate polish s13_02_not_lpdcat_last_date_291ee00a:
 
     # voice voice_file.lpdcat(13,28)
     # lpdcat serious "\"Yeah it is, but you'll getting involved with them will just make things worse.\" "
+    voice voice_file.lpdcat(13,28)
     lpdcat serious ""
 
 # game/script/13.rpy:433
@@ -871,6 +937,7 @@ translate polish s13_02_not_lpdcat_last_date_0f94d2fb:
 
     # voice voice_file.lpdcat(13,29)
     # lpdcat normal "\"I'll manage by myself. I'll do it. You just won't be able to see me for a few days, that's all.\" "
+    voice voice_file.lpdcat(13,29)
     lpdcat normal ""
 
 # game/script/13.rpy:435
@@ -878,6 +945,7 @@ translate polish s13_02_not_lpdcat_last_date_0af8170c:
 
     # voice voice_file.lpdcat(13,30)
     # lpdcat normal "\"You should, just go home now.\" "
+    voice voice_file.lpdcat(13,30)
     lpdcat normal ""
 
 # game/script/13.rpy:440
@@ -897,6 +965,7 @@ translate polish s13_02_not_lpdcat_last_date_b1206d09:
 
     # voice voice_file.tig(13,29)
     # tig normal "\"...I think we should go now.\" "
+    voice voice_file.tig(13,29)
     tig normal ""
 
 # game/script/13.rpy:446
@@ -911,6 +980,7 @@ translate polish s13_02_lpdcat_last_date_99add9c3:
     # voice voice_file.lpdcat(13,31)
     # lpdcat serious "\"Well, as you know, I'm going back to Miaoli pretty soon... There's no point in me staying here any longer.\" "
     # lpdcat serious "\"And I don't plan to jeopardise Yan Shu-Chi's relationship with his family any longer...\" "
+    voice voice_file.lpdcat(13,31)
     lpdcat serious ""
 
 # game/script/13.rpy:456
@@ -918,6 +988,7 @@ translate polish s13_02_lpdcat_last_date_dfa37256:
 
     # voice voice_file.lpdcat(13,32)
     # lpdcat serious "\"So, I guess this is the last time we'll see each other.\" "
+    voice voice_file.lpdcat(13,32)
     lpdcat serious ""
 
 # game/script/13.rpy:458
@@ -925,6 +996,7 @@ translate polish s13_02_lpdcat_last_date_6feb25c9:
 
     # voice voice_file.lpdcat(13,33)
     # lpdcat normal "\"Haha— You know, I always wanted to say goodbye to you with a big smile on your \nface.\" "
+    voice voice_file.lpdcat(13,33)
     lpdcat normal ""
 
 # game/script/13.rpy:460
@@ -938,6 +1010,7 @@ translate polish s13_02_lpdcat_last_date_4b2df9a8:
 
     # voice voice_file.lpdcat(13,34)
     # lpdcat laugh "\"Don't worry about it. I can't make our feelings change on the flip of a coin. It was just a silly wish of mine.\" "
+    voice voice_file.lpdcat(13,34)
     lpdcat laugh ""
 
 # game/script/13.rpy:464
@@ -945,6 +1018,7 @@ translate polish s13_02_lpdcat_last_date_e0603899:
 
     # voice voice_file.lpdcat(13,35)
     # lpdcat normal "\"Who knows, I might get a chance to come visit you sometime. Even if I'm a yaoguai.\" "
+    voice voice_file.lpdcat(13,35)
     lpdcat normal ""
 
 # game/script/13.rpy:467
@@ -952,6 +1026,7 @@ translate polish s13_02_lpdcat_last_date_2e075607:
 
     # voice voice_file.lpdcat(13,36)
     # lpdcat cute "\"Old man, please show some mercy~\" "
+    voice voice_file.lpdcat(13,36)
     lpdcat cute ""
 
 # game/script/13.rpy:469
@@ -959,6 +1034,7 @@ translate polish s13_02_lpdcat_last_date_dda38b34:
 
     # voice voice_file.tig(13,30)
     # tig normal "\"What, as long as you don't cause trouble it wouldn't be worth my time to harm you.\" " with vshake
+    voice voice_file.tig(13,30)
     tig normal "" with vshake
 
 # game/script/13.rpy:471
@@ -966,6 +1042,7 @@ translate polish s13_02_lpdcat_last_date_e281da9d:
 
     # voice voice_file.tig(13,31)
     # tig normal "\"You are welcome to visit... as long as you don't drag Liao back to Miaoli of course.\" "
+    voice voice_file.tig(13,31)
     tig normal ""
 
 # game/script/13.rpy:473
@@ -973,6 +1050,7 @@ translate polish s13_02_lpdcat_last_date_5c39ea54:
 
     # voice voice_file.lpdcat(13,37)
     # lpdcat laugh "\"Hehe— Thanks old man. Was that so hard to say? I guess even if I turn back into a yaoguai, my Fudegong could still be revived after all.\" "
+    voice voice_file.lpdcat(13,37)
     lpdcat laugh ""
 
 # game/script/13.rpy:475
@@ -980,6 +1058,7 @@ translate polish s13_02_lpdcat_last_date_b87169c0:
 
     # voice voice_file.tig(13,32)
     # tig normal "\"We shall see.\" "
+    voice voice_file.tig(13,32)
     tig normal ""
 
 # game/script/13.rpy:477
@@ -987,6 +1066,7 @@ translate polish s13_02_lpdcat_last_date_de6d588d:
 
     # voice voice_file.lpdcat(13,38)
     # lpdcat laugh "\"Hehe— Yep, we will. Okay Liao, guess I'll see you when I see you.\" "
+    voice voice_file.lpdcat(13,38)
     lpdcat laugh ""
 
 # game/script/13.rpy:480
@@ -1000,6 +1080,7 @@ translate polish s13_02_lpdcat_last_date_eaa606b0:
 
     # voice voice_file.lpdcat(13,39)
     # lpdcat normal "\"Go home, I'll be sure to cover things up for you here.\" "
+    voice voice_file.lpdcat(13,39)
     lpdcat normal ""
 
 # game/script/13.rpy:484
@@ -1007,6 +1088,7 @@ translate polish s13_02_lpdcat_last_date_8110132d:
 
     # voice voice_file.lpdcat(13,40)
     # lpdcat laugh "\"Goodbye Liao~\" "
+    voice voice_file.lpdcat(13,40)
     lpdcat laugh ""
 
 # game/script/13.rpy:486
@@ -1045,6 +1127,7 @@ translate polish s13_03_9b80c920:
 
     # voice voice_file.tig(13,33)
     # tig nervous "\"...Sorry, Liao.\" "
+    voice voice_file.tig(13,33)
     tig nervous ""
 
 # game/script/13.rpy:523
@@ -1058,6 +1141,7 @@ translate polish s13_03_3660c513:
 
     # voice voice_file.tig(13,34)
     # tig nervous "\"I was too... excited. There was no need for me to be that forceful with him.\" "
+    voice voice_file.tig(13,34)
     tig nervous ""
 
 # game/script/13.rpy:527
@@ -1071,6 +1155,7 @@ translate polish s13_03_24fae009:
 
     # voice voice_file.tig(13,35)
     # tig nervous "\"I just wanted to get rid of him. I saw my opportunity and took it...\" "
+    voice voice_file.tig(13,35)
     tig nervous ""
 
 # game/script/13.rpy:531
@@ -1084,6 +1169,7 @@ translate polish s13_03_07d45713:
 
     # voice voice_file.tig(13,36)
     # tig embarrassed "\"Liao, I'm sorry. I didn't mean to hurt your feelings.\" "
+    voice voice_file.tig(13,36)
     tig embarrassed ""
 
 # game/script/13.rpy:535
@@ -1121,6 +1207,7 @@ translate polish s13_03_3be0ea0c:
 
     # voice voice_file.tig(13,37)
     # tig nervous "\"...Liao, would you rather they came back?\" "
+    voice voice_file.tig(13,37)
     tig nervous ""
 
 # game/script/13.rpy:555
@@ -1141,6 +1228,7 @@ translate polish s13_03_b306ae92:
 
     # voice voice_file.tig(13,38)
     # tig nervous "\"Is that really what's important? Did you not enjoy their company?\" "
+    voice voice_file.tig(13,38)
     tig nervous ""
 
 # game/script/13.rpy:561
@@ -1154,6 +1242,7 @@ translate polish s13_03_dba713ba:
 
     # voice voice_file.tig(13,39)
     # tig nervous "\"Liao, if you wish, I can get them back. At least the aborigine.\" "
+    voice voice_file.tig(13,39)
     tig nervous ""
 
 # game/script/13.rpy:565
@@ -1179,6 +1268,7 @@ translate polish s13_03_43fc51c6:
 
     # voice voice_file.tig(13,40)
     # tig disappointed "\"Liao, do you think I'm too forceful?\" "
+    voice voice_file.tig(13,40)
     tig disappointed ""
 
 # game/script/13.rpy:575
@@ -1192,6 +1282,7 @@ translate polish s13_03_adbf85cf:
 
     # voice voice_file.tig(13,41)
     # tig normal "\"Do you see me as too controlling?\" "
+    voice voice_file.tig(13,41)
     tig normal ""
 
 # game/script/13.rpy:579
@@ -1205,6 +1296,7 @@ translate polish s13_03_7d05ed51:
 
     # voice voice_file.tig(13,42)
     # tig normal "\"If you were to choose, would you rather not see us anymore?\" "
+    voice voice_file.tig(13,42)
     tig normal ""
 
 # game/script/13.rpy:586
@@ -1218,6 +1310,7 @@ translate polish s13_03_ced3eddd:
 
     # voice voice_file.tig(13,43)
     # tig normal "\"Would you wish to stay with me, and only me?\" "
+    voice voice_file.tig(13,43)
     tig normal ""
 
 # game/script/13.rpy:590
@@ -1232,6 +1325,7 @@ translate polish s13_03_6a1020d6:
     # voice voice_file.tig(13,44)
     # tig normal "\"I've given a lot of thought about it. As to how things would be if you were to go \nhome.\" "
     # tig normal "\"The other guardian tigers, they're very traditional. Honestly, you'll probably be bothered by them more than anything.\" "
+    voice voice_file.tig(13,44)
     tig normal ""
 
 # game/script/13.rpy:594
@@ -1239,6 +1333,7 @@ translate polish s13_03_50dc1aa9:
 
     # voice voice_file.tig(13,45)
     # tig nervous "\"If you were to not go back... You are still a son of the Lin family. Could you really distinguish yourself from them forever?\" "
+    voice voice_file.tig(13,45)
     tig nervous ""
 
 # game/script/13.rpy:596
@@ -1246,6 +1341,7 @@ translate polish s13_03_2132b41a:
 
     # voice voice_file.tig(13,46)
     # tig nervous "\"I realise that driving your family away may not be the best for you, but I cannot accept you leaving for Miaoli or Wutai.\" "
+    voice voice_file.tig(13,46)
     tig nervous ""
 
 # game/script/13.rpy:598
@@ -1253,6 +1349,7 @@ translate polish s13_03_a9b7f55f:
 
     # voice voice_file.tig(13,47)
     # tig nervous "\"When the aborigine... controlled your body, I was furious.\" "
+    voice voice_file.tig(13,47)
     tig nervous ""
 
 # game/script/13.rpy:600
@@ -1266,6 +1363,7 @@ translate polish s13_03_5c835f03:
 
     # voice voice_file.tig(13,48)
     # tig nervous "\"You are a Jitong! What he did was almost possession, I couldn't let that go by.\" " with vshake
+    voice voice_file.tig(13,48)
     tig nervous "" with vshake
 
 # game/script/13.rpy:606
@@ -1273,6 +1371,7 @@ translate polish s13_03_86d8d694:
 
     # voice voice_file.tig(13,49)
     # tig embarrassed "\"In truth... he was moving your body with spirit power, it's not the same. But my feeling still stands. After all, it is the method one would control someone with weak spiritual power, such as your brother.\" "
+    voice voice_file.tig(13,49)
     tig embarrassed ""
 
 # game/script/13.rpy:608
@@ -1280,6 +1379,7 @@ translate polish s13_03_bd06bbbf:
 
     # voice voice_file.tig(13,50)
     # tig nervous "\"Watching as he... manipulated your body as if you were his. I couldn't take it.\" "
+    voice voice_file.tig(13,50)
     tig nervous ""
 
 # game/script/13.rpy:610
@@ -1287,6 +1387,7 @@ translate polish s13_03_8bf59c02:
 
     # voice voice_file.tig(13,51)
     # tig embarrassed "\"Alas. I doubt you understand all of this, and I know he meant you no harm. It's just...\" "
+    voice voice_file.tig(13,51)
     tig embarrassed ""
 
 # game/script/13.rpy:612
@@ -1306,6 +1407,7 @@ translate polish s13_03_4ceb0ccc:
 
     # voice voice_file.tig(13,52)
     # tig nervous "\"Haha— Now you're the one apologetic one.\" "
+    voice voice_file.tig(13,52)
     tig nervous ""
 
 # game/script/13.rpy:623
@@ -1319,6 +1421,7 @@ translate polish s13_03_769c8ca5:
 
     # voice voice_file.tig(13,53)
     # tig laugh_1 "\"No, it's fine. I'm a god. It's my duty to protect my worshippers. They shouldn't be worrying about our feelings.\" "
+    voice voice_file.tig(13,53)
     tig laugh_1 ""
 
 # game/script/13.rpy:627
@@ -1339,6 +1442,7 @@ translate polish s13_03_eef6d077:
 
     # voice voice_file.tig(13,54)
     # tig normal "\"...You're so mature Liao.\" "
+    voice voice_file.tig(13,54)
     tig normal ""
 
 # game/script/13.rpy:633
@@ -1358,6 +1462,7 @@ translate polish s13_03_dc9295aa:
 
     # voice voice_file.tig(13,55)
     # tig laugh_1 "\"But you're all children to us. Not only you, but your father, and even your grandfather as well. Human life is short after all.\" "
+    voice voice_file.tig(13,55)
     tig laugh_1 ""
 
 # game/script/13.rpy:644
@@ -1371,6 +1476,7 @@ translate polish s13_03_abb7691a:
 
     # voice voice_file.tig(13,56)
     # tig laugh_1 "\"Well, it has been at least ten years since my statue was carved.\" "
+    voice voice_file.tig(13,56)
     tig laugh_1 ""
 
 # game/script/13.rpy:648
@@ -1384,6 +1490,7 @@ translate polish s13_03_cf78dc61:
 
     # voice voice_file.tig(13,57)
     # tig laugh_1 "\"It makes no difference. It still remains that everyone from the Lin family are the children of the gods.\" "
+    voice voice_file.tig(13,57)
     tig laugh_1 ""
 
 # game/script/13.rpy:652
@@ -1403,6 +1510,7 @@ translate polish s13_03_2e745039:
 
     # voice voice_file.tig(13,58)
     # tig laugh_1 "\"Alright— Alright— I'll treat you like an adult from now on, how does that sound?\" "
+    voice voice_file.tig(13,58)
     tig laugh_1 ""
 
 # game/script/13.rpy:667
@@ -1416,6 +1524,7 @@ translate polish s13_03_3ce207a6:
 
     # voice voice_file.tig(13,59)
     # tig laugh_2 "\"Oh, you see... this month's offerings are on you. Does that please you?\" "
+    voice voice_file.tig(13,59)
     tig laugh_2 ""
 
 # game/script/13.rpy:672
@@ -1429,6 +1538,7 @@ translate polish s13_03_911284c4:
 
     # voice voice_file.tig(13,60)
     # tig laugh_1 "\"Isn't that the responsibility of an adult?\" "
+    voice voice_file.tig(13,60)
     tig laugh_1 ""
 
 # game/script/13.rpy:676
@@ -1442,6 +1552,7 @@ translate polish s13_03_0b885319:
 
     # voice voice_file.tig(13,61)
     # tig laugh_1 "\"Well you told me to treat you like an adult.\" "
+    voice voice_file.tig(13,61)
     tig laugh_1 ""
 
 # game/script/13.rpy:680
@@ -1455,6 +1566,7 @@ translate polish s13_03_afff4bf6:
 
     # voice voice_file.tig(13,62)
     # tig laugh_2 "\"Ha-hahaha—\" " with vshake
+    voice voice_file.tig(13,62)
     tig laugh_2 "" with vshake
 
 # game/script/13.rpy:687
@@ -1462,6 +1574,7 @@ translate polish s13_03_53335191:
 
     # voice voice_file.tig(13,63)
     # tig normal "\"But in all seriousness, Liao....\" "
+    voice voice_file.tig(13,63)
     tig normal ""
 
 # game/script/13.rpy:689
@@ -1469,6 +1582,7 @@ translate polish s13_03_0bc21ef0:
 
     # voice voice_file.tig(13,64)
     # tig normal "\"Now that they're gone, if you ever feel alone...\" "
+    voice voice_file.tig(13,64)
     tig normal ""
 
 # game/script/13.rpy:691
@@ -1476,6 +1590,7 @@ translate polish s13_03_f8e3a90b:
 
     # voice voice_file.tig(13,65)
     # tig gentle "\"I'll do my best to cheer you up, okay?\" "
+    voice voice_file.tig(13,65)
     tig gentle ""
 
 # game/script/13.rpy:693
@@ -1489,6 +1604,7 @@ translate polish s13_03_eee1e00a:
 
     # voice voice_file.tig(13,66)
     # tig lift "\"What? You don't believe me?\" "
+    voice voice_file.tig(13,66)
     tig lift ""
 
 # game/script/13.rpy:697
@@ -1502,6 +1618,7 @@ translate polish s13_03_634187bb:
 
     # voice voice_file.tig(13,67)
     # tig laugh_1 "\"I'll still take good care of you.\" "
+    voice voice_file.tig(13,67)
     tig laugh_1 ""
 
 # game/script/13.rpy:701
@@ -1521,6 +1638,7 @@ translate polish s13_03_ea07e4cd:
 
     # voice voice_file.tig(13,68)
     # tig normal "\"Now, I believe it's getting late. Time for bed then?\" "
+    voice voice_file.tig(13,68)
     tig normal ""
 
 # game/script/13.rpy:707

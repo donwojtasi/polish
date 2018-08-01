@@ -25,6 +25,7 @@ translate polish s11_c5335702:
 
     # voice voice_file.lpdcat(11,1)
     # lpdcat laugh "\"Liao, {i}whaaaaat{/i} \ a long day! How did your exams go?\" "
+    voice voice_file.lpdcat(11,1)
     lpdcat laugh ""
 
 # game/script/11.rpy:20
@@ -38,6 +39,7 @@ translate polish s11_d2a770cc:
 
     # voice voice_file.lpdcat(11,2)
     # lpdcat normal "\"Nah— None today. I didn't really take on many subjects this semester so exams are pretty chill.\" "
+    voice voice_file.lpdcat(11,2)
     lpdcat normal ""
 
 # game/script/11.rpy:26
@@ -58,6 +60,7 @@ translate polish s11_a1b2a843:
 
     # voice voice_file.lpdcat(11,3)
     # lpdcat laugh "\"Hehe— Did Liao miss me? I have been waiting here for you after all.\" "
+    voice voice_file.lpdcat(11,3)
     lpdcat laugh ""
 
 # game/script/11.rpy:34
@@ -71,6 +74,7 @@ translate polish s11_fa02894e:
 
     # voice voice_file.lpdcat(11,4)
     # lpdcat normal "\"Well you pretty much only eat in the cafeteria. It's not hard to guess that you'd come here.\" "
+    voice voice_file.lpdcat(11,4)
     lpdcat normal ""
 
 # game/script/11.rpy:40
@@ -84,6 +88,7 @@ translate polish s11_aa0b54fa:
 
     # voice voice_file.lpdcat(11,5)
     # lpdcat normal "\"There's heaps of cheap restaurants around campus you know? You're just being too lazy to go out and try anything new.\" "
+    voice voice_file.lpdcat(11,5)
     lpdcat normal ""
 
 # game/script/11.rpy:44
@@ -97,6 +102,7 @@ translate polish s11_a1808dfb:
 
     # voice voice_file.lpdcat(11,6)
     # lpdcat pout "\"Still, you're always eating alone Liao, how lonely of you.\" "
+    voice voice_file.lpdcat(11,6)
     lpdcat pout ""
 
 # game/script/11.rpy:48
@@ -110,6 +116,7 @@ translate polish s11_21d26bce:
 
     # voice voice_file.lpdcat(11,7)
     # lpdcat normal "\"If I'm gone, who will you eat with then?\" " with flash
+    voice voice_file.lpdcat(11,7)
     lpdcat normal "" with flash
 
 # game/script/11.rpy:54
@@ -123,6 +130,7 @@ translate polish s11_63081917:
 
     # voice voice_file.lpdcat(11,8)
     # lpdcat laugh "\"Hmmmmmm?\" "
+    voice voice_file.lpdcat(11,8)
     lpdcat laugh ""
 
 # game/script/11.rpy:60
@@ -136,6 +144,7 @@ translate polish s11_12f29d50:
 
     # voice voice_file.lpdcat(11,9)
     # lpdcat laugh "\"What's wrong? Why so serious?\" "
+    voice voice_file.lpdcat(11,9)
     lpdcat laugh ""
 
 # game/script/11.rpy:70
@@ -149,6 +158,7 @@ translate polish s11_6ef54140:
 
     # voice voice_file.lpdcat(11,10)
     # lpdcat normal "\"Well yeah, if Liao comes to Miaoli with me, we'll be eating together for sure. But what if you don't. You don't have any other friends to have dinner with, right?\" "
+    voice voice_file.lpdcat(11,10)
     lpdcat normal ""
 
 # game/script/11.rpy:74
@@ -156,6 +166,7 @@ translate polish s11_bd53117b:
 
     # voice voice_file.lpdcat(11,11)
     # lpdcat laugh "\"I mean you've got Kulau and the old man. But they're not {i}real{/i} people. If you don't have any normal friends people will just start seeing you as some loner weirdo!\" "
+    voice voice_file.lpdcat(11,11)
     lpdcat laugh ""
 
 # game/script/11.rpy:81
@@ -170,6 +181,7 @@ translate polish s11_9d91fcf5:
     # voice voice_file.lpdcat(11,12)
     # lpdcat laugh "\"No... I just think I've been trying too hard to chase you Liao. And even then, I still can't convince you. "
     # lpdcat laugh "\"So I guess I should give you some room. Maybe keeping some distance is better?\" "
+    voice voice_file.lpdcat(11,12)
     lpdcat laugh ""
 
 # game/script/11.rpy:87
@@ -177,6 +189,7 @@ translate polish s11_00e736ed:
 
     # voice voice_file.lpdcat(11,13)
     # lpdcat normal "\"Yeah, it's a life or death matter. But even knowing that... you're still not going to go with me, are you?\" "
+    voice voice_file.lpdcat(11,13)
     lpdcat normal ""
 
 # game/script/11.rpy:89
@@ -190,6 +203,7 @@ translate polish s11_5f783a57:
 
     # voice voice_file.lpdcat(11,14)
     # lpdcat normal "\"You might have to leave school... but I'll go back to being a yaoguai roaming the streets, just to disappear one day like I never existed.\" "
+    voice voice_file.lpdcat(11,14)
     lpdcat normal ""
 
 # game/script/11.rpy:97
@@ -198,6 +212,7 @@ translate polish s11_2eebba08:
     # voice voice_file.tig(11,1)
     # tig frown "\"It's unfair to threaten Liao like that. The dissipation of your Fudegong's influence won't cause you to vanish. You'll just become a yaoguai. Nothing would impede you from finding another Fudegong.\" "
     # tig frown "\"As long as you remain a good yaoguai, no one would harm you.\" "
+    voice voice_file.tig(11,1)
     tig frown ""
 
 # game/script/11.rpy:105
@@ -205,6 +220,7 @@ translate polish s11_c951d30b:
 
     # voice voice_file.lpdcat(11,15)
     # lpdcat pout "\"You make it sound so easy. I've served my Fudegong for a long time, and I'm {i}not{/i} \ about to give up on them and watch as they loose their power.\" "
+    voice voice_file.lpdcat(11,15)
     lpdcat pout ""
 
 # game/script/11.rpy:107
@@ -212,6 +228,7 @@ translate polish s11_296447e1:
 
     # voice voice_file.lpdcat(11,16)
     # lpdcat serious "\"With power or without, they're a god of soil. One day when someone brings an offering, they'll be revived... but it doesn't feel right letting them be forgotten like this.\" "
+    voice voice_file.lpdcat(11,16)
     lpdcat serious ""
 
 # game/script/11.rpy:109
@@ -219,6 +236,7 @@ translate polish s11_cad963b5:
 
     # voice voice_file.tig(11,2)
     # tig lift "\"There are many people in this world in need, if you care so much why not help them all?\" "
+    voice voice_file.tig(11,2)
     tig lift ""
 
 # game/script/11.rpy:111
@@ -226,6 +244,7 @@ translate polish s11_d89f59cd:
 
     # voice voice_file.lpdcat(11,17)
     # lpdcat difficult "\"I {i}want{/i} \ to help someone, that's why I came to Liao... I know it's hard for him. He'd have to leave school behind for over a year. On top of that he has his family to deal with, I know first-hand how {i}difficult{/i} \ that is.\" "
+    voice voice_file.lpdcat(11,17)
     lpdcat difficult ""
 
 # game/script/11.rpy:113
@@ -233,6 +252,7 @@ translate polish s11_7d6fb1aa:
 
     # voice voice_file.lpdcat(11,18)
     # lpdcat serious "\"I know leaving school isn't really the problem, it's getting Liao's family to accept what he's doing, isn't it?\" "
+    voice voice_file.lpdcat(11,18)
     lpdcat serious ""
 
 # game/script/11.rpy:115
@@ -240,6 +260,7 @@ translate polish s11_9cc10137:
 
     # voice voice_file.lpdcat(11,19)
     # lpdcat difficult "\"Sure, I {i}have{/i} \ memories of Yan Shi-Chi's relationship with his family... but going to his home and experiencing it myself, I feel terrible for asking Liao to go through that.\" "
+    voice voice_file.lpdcat(11,19)
     lpdcat difficult ""
 
 # game/script/11.rpy:117
@@ -248,6 +269,7 @@ translate polish s11_ac948bcc:
     # voice voice_file.lpdcat(11,20)
     # lpdcat difficult "\"There's no way Liao's family would accept what I'm asking of him...\" "
     # lpdcat difficult "\"If he went through with it and ran away with me to Miaoli for over a year... could he really go home again?\" "
+    voice voice_file.lpdcat(11,20)
     lpdcat difficult ""
 
 # game/script/11.rpy:119
@@ -256,6 +278,7 @@ translate polish s11_3441143e:
     # voice voice_file.lpdcat(11,21)
     # lpdcat serious "\"So maybe it's okay for me to just give it up, for me to become a yaoguai again.\" "
     # lpdcat serious "\"Sure, that's the end of my temple, but it's not like anyone would be dead... \" "
+    voice voice_file.lpdcat(11,21)
     lpdcat serious ""
 
 # game/script/11.rpy:122
@@ -269,6 +292,7 @@ translate polish s11_a7dd8506:
 
     # voice voice_file.lpdcat(11,22)
     # lpdcat laugh "\"...I'm not one to give up! Will you come to with me Miaoli, Liao?\" "
+    voice voice_file.lpdcat(11,22)
     lpdcat laugh ""
 
 # game/script/11.rpy:129
@@ -282,6 +306,7 @@ translate polish s11_d17b469e:
 
     # voice voice_file.lpdcat(11,23)
     # lpdcat normal "\"It doesn't really matter if I give up or not. It's still your decision.\" "
+    voice voice_file.lpdcat(11,23)
     lpdcat normal ""
 
 # game/script/11.rpy:135
@@ -290,6 +315,7 @@ translate polish s11_8760a719:
     # voice voice_file.lpdcat(11,24)
     # lpdcat serious "\"I'm thinking about keeping some distance anyhow. Liao can just be friends with me.\" "
     # lpdcat serious "\"If he has the chance to help me, that's all the better— If not, it won't hurt as much when we have to say goodbye.\" "
+    voice voice_file.lpdcat(11,24)
     lpdcat serious ""
 
 # game/script/11.rpy:137
@@ -303,6 +329,7 @@ translate polish s11_9d5fe9d6:
 
     # voice voice_file.lpdcat(11,25)
     # lpdcat cute "\"Hmm? Whaaaaat, you already in love with me or something?\" "
+    voice voice_file.lpdcat(11,25)
     lpdcat cute ""
 
 # game/script/11.rpy:145
@@ -316,6 +343,7 @@ translate polish s11_3519fc95:
 
     # voice voice_file.lpdcat(11,26)
     # lpdcat normal "\"But... I really don't want to burden you with all of this.\" "
+    voice voice_file.lpdcat(11,26)
     lpdcat normal ""
 
 # game/script/11.rpy:149
@@ -323,6 +351,7 @@ translate polish s11_c6ef79e2:
 
     # voice voice_file.lpdcat(11,27)
     # lpdcat laugh "\"We're still friends, no matter what! I'll be sure to come by and talk with you. Either way it's exam week and we're both busy, right?\" "
+    voice voice_file.lpdcat(11,27)
     lpdcat laugh ""
 
 # game/script/11.rpy:151
@@ -336,6 +365,7 @@ translate polish s11_d72a62dc:
 
     # voice voice_file.lpdcat(11,28)
     # lpdcat normal "\"So we gotta knuckle down and focus on exams! This stuff can wait till later!\" "
+    voice voice_file.lpdcat(11,28)
     lpdcat normal ""
 
 # game/script/11.rpy:158
@@ -349,6 +379,7 @@ translate polish s11_c5c3c047:
 
     # voice voice_file.lpdcat(11,29)
     # lpdcat laugh "\"But for now, let's forget about this downer of a conversation. It's time to get some grub! Kulau, let's go!\" "
+    voice voice_file.lpdcat(11,29)
     lpdcat laugh ""
 
 # game/script/11.rpy:173
@@ -462,6 +493,7 @@ translate polish s11_02_cheat_41150711:
 
     # voice voice_file.lpd(11,1)
     # lpd obsessed "\"...Liao not say, no fair?\" "
+    voice voice_file.lpd(11,1)
     lpd obsessed ""
 
 # game/script/11.rpy:263
@@ -508,6 +540,7 @@ translate polish s11_02_cheat_743d8655:
 
     # voice voice_file.lpd(11,2)
     # lpd normal "\"Three.\" "
+    voice voice_file.lpd(11,2)
     lpd normal ""
 
 # game/script/11.rpy:303
@@ -539,6 +572,7 @@ translate polish s11_02_cheat_1189b84c:
 
     # voice voice_file.lpd(11,3)
     # lpd normal "\"Four.\" "
+    voice voice_file.lpd(11,3)
     lpd normal ""
 
 # game/script/11.rpy:317
@@ -558,6 +592,7 @@ translate polish s11_02_cheat_ca342e9c:
 
     # voice voice_file.lpd(11,4)
     # lpd normal "\"One.\" "
+    voice voice_file.lpd(11,4)
     lpd normal ""
 
 # game/script/11.rpy:329
@@ -583,6 +618,7 @@ translate polish s11_02_cheat_36ac5e99:
 
     # voice voice_file.tig(11,3)
     # tig angry "\"Hey! Aborigine! What are you doing?\" " with vshake
+    voice voice_file.tig(11,3)
     tig angry "" with vshake
 
 # game/script/11.rpy:341
@@ -602,6 +638,7 @@ translate polish s11_02_cheat_dda2e8ee:
 
     # voice voice_file.tig(11,4)
     # tig angry "\"What are these numbers you're speaking to Liao? Are they answers from the other students?\" "
+    voice voice_file.tig(11,4)
     tig angry ""
 
 # game/script/11.rpy:349
@@ -609,6 +646,7 @@ translate polish s11_02_cheat_6bf48b4e:
 
     # voice voice_file.tig(11,5)
     # tig angry "\"Are you not aware of the concept of cheating? Or do you aborigines not even know what a test is?\" "
+    voice voice_file.tig(11,5)
     tig angry ""
 
 # game/script/11.rpy:351
@@ -616,6 +654,7 @@ translate polish s11_02_cheat_8561cd00:
 
     # voice voice_file.lpd(11,5)
     # lpd normal "\"Cheating... Liao said. I know.\" "
+    voice voice_file.lpd(11,5)
     lpd normal ""
 
 # game/script/11.rpy:359
@@ -623,6 +662,7 @@ translate polish s11_02_cheat_ab8f64ab:
 
     # voice voice_file.tig(11,6)
     # tig angry "\"So you {i}are{/i} \ letting Liao cheat?!\" "
+    voice voice_file.tig(11,6)
     tig angry ""
 
 # game/script/11.rpy:361
@@ -648,6 +688,7 @@ translate polish s11_02_cheat_f36ea9cd:
 
     # voice voice_file.tig(11,7)
     # tig angry "\"Don't you know how much this hurts his growth? Hmm, you don't know? Well you'd be hard pressed finding someone who doesn't. Why didn't you think before you act for once? \" "
+    voice voice_file.tig(11,7)
     tig angry ""
 
 # game/script/11.rpy:373
@@ -655,6 +696,7 @@ translate polish s11_02_cheat_b529927e:
 
     # voice voice_file.tig(11,8)
     # tig angry "\"It's not right to give the answers of the other students to Liao. Why else are they not allowed to talk to each other? Think for yourself for once!\" "
+    voice voice_file.tig(11,8)
     tig angry ""
 
 # game/script/11.rpy:375
@@ -669,6 +711,7 @@ translate polish s11_02_cheat_650afbe1:
     # voice voice_file.tig(11,9)
     # tig angry "\"If you do not understand the basics of modern society, you'd be better off to stay away from Liao. Being an aborigine is as feeble of an excuse as any!\" "
     # tig angry "\"If you cause trouble I am the one who is left to clean up the mess!\" "
+    voice voice_file.tig(11,9)
     tig angry ""
 
 # game/script/11.rpy:379
@@ -676,6 +719,7 @@ translate polish s11_02_cheat_63f41045:
 
     # voice voice_file.lpd(11,6)
     # lpd angry_1 "\"Liao said...\" "
+    voice voice_file.lpd(11,6)
     lpd angry_1 ""
 
 # game/script/11.rpy:381
@@ -684,6 +728,7 @@ translate polish s11_02_cheat_2e1e8700:
     # voice voice_file.tig(11,10)
     # tig angry "\"I couldn't care less what Liao said. You must have your own judgment. Are you not a god? How can you lead your worshippers like this?\" "
     # tig angry "\"No wonder you are in need of an oracle. Without someone to tell you what to do, you're useless.\" "
+    voice voice_file.tig(11,10)
     tig angry ""
 
 # game/script/11.rpy:384
@@ -691,6 +736,7 @@ translate polish s11_02_cheat_d26c1517:
 
     # voice voice_file.lpd(11,7)
     # lpd angry_1 "\"Han god, watch your mouth!\" "
+    voice voice_file.lpd(11,7)
     lpd angry_1 ""
 
 # game/script/11.rpy:386
@@ -699,6 +745,7 @@ translate polish s11_02_cheat_cc76d847:
     # voice voice_file.tig(11,11)
     # tig angry "\"Why should I? You haven't done any good since you've come to Liao. You've just made things harder for the both of us.\" "
     # tig angry "\"Although it is of no fault of your own, for anyone to follow such a dullard like you... your worshippers must be just as brainless as you are.\" "
+    voice voice_file.tig(11,11)
     tig angry ""
 
 # game/script/11.rpy:389
@@ -706,6 +753,7 @@ translate polish s11_02_cheat_62c3c49e:
 
     # voice voice_file.lpd(11,8)
     # lpd angry_1 "\"Han god watch your mouth!\" " with vshake
+    voice voice_file.lpd(11,8)
     lpd angry_1 "" with vshake
 
 # game/script/11.rpy:393
@@ -751,6 +799,7 @@ translate polish s11_02_cheat_0b51e64b:
 
     # voice voice_file.tig(11,12)
     # tig frown "\"Yes?\" "
+    voice voice_file.tig(11,12)
     tig frown ""
 
 # game/script/11.rpy:436
@@ -764,6 +813,7 @@ translate polish s11_02_cheat_02_b020a5de:
 
     # voice voice_file.tig(11,13)
     # tig frown "\"...Humph. Forget it. As long as he doesn't try anything like that again.\" "
+    voice voice_file.tig(11,13)
     tig frown ""
 
 # game/script/11.rpy:445
@@ -771,6 +821,7 @@ translate polish s11_02_cheat_02_57ba7c2d:
 
     # voice voice_file.tig(11,14)
     # tig frown "\"Liao, keep an eye on him. Understand?\" "
+    voice voice_file.tig(11,14)
     tig frown ""
 
 # game/script/11.rpy:447
@@ -802,6 +853,7 @@ translate polish s11_02_cheat_01_b0c90de9:
 
     # voice voice_file.tig(11,15)
     # tig frown "\"...I know.\" "
+    voice voice_file.tig(11,15)
     tig frown ""
 
 # game/script/11.rpy:466
@@ -815,6 +867,7 @@ translate polish s11_02_cheat_01_c3be8242:
 
     # voice voice_file.tig(11,16)
     # tig frown "\"You were in the middle of your exam. I didn't want to yell at you.\" "
+    voice voice_file.tig(11,16)
     tig frown ""
 
 # game/script/11.rpy:472
@@ -822,6 +875,7 @@ translate polish s11_02_cheat_01_b75826ea:
 
     # voice voice_file.tig(11,17)
     # tig normal "\"Liao, you do know that cheating is wrong, don't you?\" "
+    voice voice_file.tig(11,17)
     tig normal ""
 
 # game/script/11.rpy:474
@@ -835,6 +889,7 @@ translate polish s11_02_cheat_01_00b7f272:
 
     # voice voice_file.tig(11,18)
     # tig normal "\"Then why do it?\" "
+    voice voice_file.tig(11,18)
     tig normal ""
 
 # game/script/11.rpy:478
@@ -848,6 +903,7 @@ translate polish s11_02_cheat_01_3b41578b:
 
     # voice voice_file.tig(11,19)
     # tig normal "\"So that's why you cheated?\" "
+    voice voice_file.tig(11,19)
     tig normal ""
 
 # game/script/11.rpy:482
@@ -861,6 +917,7 @@ translate polish s11_02_cheat_01_edd8a3c4:
 
     # voice voice_file.tig(11,20)
     # tig normal "\"What is it then?\" "
+    voice voice_file.tig(11,20)
     tig normal ""
 
 # game/script/11.rpy:486
@@ -874,6 +931,7 @@ translate polish s11_02_cheat_01_1927bcb5:
 
     # voice voice_file.tig(11,21)
     # tig normal "\"As long as you know it was wrong, I won't push you any further. You should learn well enough from your mistakes.\" "
+    voice voice_file.tig(11,21)
     tig normal ""
 
 # game/script/11.rpy:490
@@ -882,6 +940,7 @@ translate polish s11_02_cheat_01_427b584d:
     # voice voice_file.tig(11,22)
     # tig frown "\"That aborigine needs to learn to assess things for himself. What someone wants and what's best for them aren't always the same thing.\" "
     # tig frown "\"He didn't know the gravity of what he was doing, and what it really meant for you. I'm afraid of what might happen if he never learns to tell right from wrong for himself.\" "
+    voice voice_file.tig(11,22)
     tig frown ""
 
 # game/script/11.rpy:492
@@ -895,6 +954,7 @@ translate polish s11_02_cheat_01_ff7d9d3b:
 
     # voice voice_file.tig(11,23)
     # tig frown "\"Well, if he had any common sense, he wouldn't have helped you.\" " with vshake
+    voice voice_file.tig(11,23)
     tig frown "" with vshake
 
 # game/script/11.rpy:498
@@ -908,6 +968,7 @@ translate polish s11_02_cheat_01_22fdfbea:
 
     # voice voice_file.tig(11,24)
     # tig normal "\"It is a god's responsibility to possess common sense. Otherwise, how would they ever guide their worshippers.\" "
+    voice voice_file.tig(11,24)
     tig normal ""
 
 # game/script/11.rpy:504
@@ -933,6 +994,7 @@ translate polish s11_02_cheat_01_37c169ae:
 
     # voice voice_file.lpd(11,9)
     # lpd normal "\"...It's ok.\" "
+    voice voice_file.lpd(11,9)
     lpd normal ""
 
 # game/script/11.rpy:514
@@ -940,6 +1002,7 @@ translate polish s11_02_cheat_01_1a317941:
 
     # voice voice_file.tig(11,25)
     # tig disappointed "\"Liao, you... never mind.\" *sigh* "
+    voice voice_file.tig(11,25)
     tig disappointed ""
 
 # game/script/11.rpy:516
@@ -947,6 +1010,7 @@ translate polish s11_02_cheat_01_25e3889e:
 
     # voice voice_file.tig(11,26)
     # tig normal "\"Come on. Let's go home.\" "
+    voice voice_file.tig(11,26)
     tig normal ""
 
 # game/script/11.rpy:518
@@ -972,6 +1036,7 @@ translate polish s11_03_7705dbda:
 
     # voice voice_file.randolph(11,1)
     # randolph laugh "\"Ahh, Tian-Liao! It's been a while.\" " with flash
+    voice voice_file.randolph(11,1)
     randolph laugh "" with flash
 
 # game/script/11.rpy:548
@@ -991,6 +1056,7 @@ translate polish s11_03_afbb15ce:
 
     # voice voice_file.randolph(11,2)
     # randolph laugh "\"Oh, is that bubbly friend of yours not with you today?\" "
+    voice voice_file.randolph(11,2)
     randolph laugh ""
 
 # game/script/11.rpy:554
@@ -1022,6 +1088,7 @@ translate polish s11_03_aad1d218:
 
     # voice voice_file.randolph(11,3)
     # randolph serious "\"...I see, that's a shame. By the way, Tian-liao, do you have a moment? I have some questions to ask.\" "
+    voice voice_file.randolph(11,3)
     randolph serious ""
 
 # game/script/11.rpy:571
@@ -1035,6 +1102,7 @@ translate polish s11_03_af0a6f46:
 
     # voice voice_file.randolph(11,4)
     # randolph serious "\"Well... it will take some time. May we sit down and talk? I'll be sure to cover your \nmeal.\" "
+    voice voice_file.randolph(11,4)
     randolph serious ""
 
 # game/script/11.rpy:575
@@ -1048,6 +1116,7 @@ translate polish s11_03_e296e40e:
 
     # voice voice_file.randolph(11,5)
     # randolph serious "\"Well, it's like this. I want to interview you.\" "
+    voice voice_file.randolph(11,5)
     randolph serious ""
 
 # game/script/11.rpy:579
@@ -1063,6 +1132,7 @@ translate polish s11_03_848258c7:
     # randolph serious "\"Very much so. It's uncommon for a human to live in the presence of three gods after all.\" "
     # randolph serious "\"Of course I know much about the yaoguai, but gods are not my forte, much less aboriginal ones.\" "
     # randolph serious "\"If it's not too much to ask, I will extend my offer to the two behind you as well. May I?\" "
+    voice voice_file.randolph(11,6)
     randolph serious ""
 
 # game/script/11.rpy:585
@@ -1100,6 +1170,7 @@ translate polish s11_03_reject_fe4f94cc:
 
     # voice voice_file.tig(11,27)
     # tig laugh_1 "\"Absolutely. Any question—\" "
+    voice voice_file.tig(11,27)
     tig laugh_1 ""
 
 # game/script/11.rpy:634
@@ -1107,6 +1178,7 @@ translate polish s11_03_reject_325624dc:
 
     # voice voice_file.tig(11,28)
     # tig surprise "\"What did Liao say?! Why would you refuse?\" "
+    voice voice_file.tig(11,28)
     tig surprise ""
 
 # game/script/11.rpy:636
@@ -1114,6 +1186,7 @@ translate polish s11_03_reject_2c71381b:
 
     # voice voice_file.randolph(11,7)
     # randolph serious "\"...That's alright, I understand.\" "
+    voice voice_file.randolph(11,7)
     randolph serious ""
 
 # game/script/11.rpy:639
@@ -1121,6 +1194,7 @@ translate polish s11_03_reject_a8217e75:
 
     # voice voice_file.randolph(11,8)
     # randolph laugh "\"Well, if there is anything on your mind, feel free to speak it.\" "
+    voice voice_file.randolph(11,8)
     randolph laugh ""
 
 # game/script/11.rpy:641
@@ -1134,6 +1208,7 @@ translate polish s11_03_reject_f42e3ca7:
 
     # voice voice_file.randolph(11,9)
     # randolph laugh "\"Sometimes it's actually easier to talk to someone you don't really know.\" "
+    voice voice_file.randolph(11,9)
     randolph laugh ""
 
 # game/script/11.rpy:645
@@ -1160,6 +1235,7 @@ translate polish s11_03_reject_5dcd42fe:
 
     # voice voice_file.randolph(11,10)
     # randolph serious "\"I see... Sometimes family can be too much pressure to handle. He could just have a lot of things he's still thinking about. Don't you think?\" "
+    voice voice_file.randolph(11,10)
     randolph serious ""
 
 # game/script/11.rpy:657
@@ -1173,6 +1249,7 @@ translate polish s11_03_reject_210c7294:
 
     # voice voice_file.randolph(11,11)
     # randolph serious "\"After all, this is an important life decision for him. Is he really okay with just being what his family wants of him. He's probably in two minds over how to treat you right \nnow...\" "
+    voice voice_file.randolph(11,11)
     randolph serious ""
 
 # game/script/11.rpy:661
@@ -1180,6 +1257,7 @@ translate polish s11_03_reject_c54e7694:
 
     # voice voice_file.randolph(11,12)
     # randolph serious "\"Maybe he's leaving the back-door open for himself. He doesn't want to get your expectations up just in case.\" "
+    voice voice_file.randolph(11,12)
     randolph serious ""
 
 # game/script/11.rpy:663
@@ -1193,6 +1271,7 @@ translate polish s11_03_reject_7b0d8fd1:
 
     # voice voice_file.randolph(11,13)
     # randolph serious "\"From what you've said, it sounds like his family is quite wealthy and powerful, if anything that makes it harder. Maybe he'd rather not have to fight against them and that's why he's doing it.\" "
+    voice voice_file.randolph(11,13)
     randolph serious ""
 
 # game/script/11.rpy:671
@@ -1200,6 +1279,7 @@ translate polish s11_03_reject_8fff16b0:
 
     # voice voice_file.randolph(11,14)
     # randolph serious "\"If you really wish to continue your... friendship. You're the one who needs to make an effort.\" "
+    voice voice_file.randolph(11,14)
     randolph serious ""
 
 # game/script/11.rpy:673
@@ -1214,6 +1294,7 @@ translate polish s11_03_reject_af66a734:
     # voice voice_file.randolph(11,15)
     # randolph laugh "\"Yes. You can't exactly give him any {i}real{/i} \ help, he needs to deal with his family on his own, but you can at least show your moral support.\" "
     # randolph laugh "\"Don't press him too hard about it, but actually show that you care about him. Then he would have someone he can count with on his side. Someone that he would want to fight for.\" "
+    voice voice_file.randolph(11,15)
     randolph laugh ""
 
 # game/script/11.rpy:679
@@ -1246,6 +1327,7 @@ translate polish s11_03_reject_f78417e2:
 
     # voice voice_file.randolph(11,16)
     # randolph laugh "\"It's no big deal. It's my pleasure to help you young man.\" "
+    voice voice_file.randolph(11,16)
     randolph laugh ""
 
 # game/script/11.rpy:692
@@ -1253,6 +1335,7 @@ translate polish s11_03_reject_dc4a6ca4:
 
     # voice voice_file.randolph(11,17)
     # randolph wry "\"And, if you don't mind... the next time I see you, I would be pleased to have the chance to interview you.\" "
+    voice voice_file.randolph(11,17)
     randolph wry ""
 
 # game/script/11.rpy:694
@@ -1266,6 +1349,7 @@ translate polish s11_03_reject_3ad1077c:
 
     # voice voice_file.randolph(11,18)
     # randolph laugh "\"Now I don't wish to disturb your dinner. See you around.\" "
+    voice voice_file.randolph(11,18)
     randolph laugh ""
 
 # game/script/11.rpy:700
@@ -1291,6 +1375,7 @@ translate polish s11_03_accept_48d4d361:
 
     # voice voice_file.tig(11,29)
     # tig laugh_1 "\"Absolutely. Any questions you would like! Any opportunity to teach the yaoguai important lessons is one worth taking. It makes it easier for us gods after all.\" "
+    voice voice_file.tig(11,29)
     tig laugh_1 ""
 
 # game/script/11.rpy:718
@@ -1304,6 +1389,7 @@ translate polish s11_03_accept_27611d1c:
 
     # voice voice_file.randolph(11,19)
     # randolph laugh "\"It's of no matter. He is a god after all. So if you don't mind, I should begin...\" "
+    voice voice_file.randolph(11,19)
     randolph laugh ""
 
 # game/script/11.rpy:725
@@ -1331,6 +1417,7 @@ translate polish s11_03_accept_5f7efcef:
     # voice voice_file.randolph(11,20)
     # randolph laugh "\"Hmm? Well, for one I'm looking for inspiration. It's also useful to be able to warn my yaoguai friends to behave.\" "
     # randolph laugh "\"Of course this is just for inspiration, I don't plan to just copy anything.\" "
+    voice voice_file.randolph(11,20)
     randolph laugh ""
 
 # game/script/11.rpy:735
@@ -1344,6 +1431,7 @@ translate polish s11_03_accept_9679f159:
 
     # voice voice_file.randolph(11,21)
     # randolph serious "\"Yes, that's true. But I like working from reality. If you can pull a story from your own or someone else's life experiences, is it not easier to make it {i}feel{/i} \ authentic?\" "
+    voice voice_file.randolph(11,21)
     randolph serious ""
 
 # game/script/11.rpy:739
@@ -1351,6 +1439,7 @@ translate polish s11_03_accept_a0eac9a1:
 
     # voice voice_file.randolph(11,22)
     # randolph laugh "\"No matter what as a creator, I only feel right when I do a lot of research into something. I want to imbue my works with layers and depth, beyond the superficial plot, visual design, and characters.\" "
+    voice voice_file.randolph(11,22)
     randolph laugh ""
 
 # game/script/11.rpy:741
@@ -1370,6 +1459,7 @@ translate polish s11_03_accept_c182eae1:
 
     # voice voice_file.randolph(11,23)
     # randolph laugh "\"Sometimes it is... On another note. Guardian Tiger, how should I address you? I don't wish to be rude.\" "
+    voice voice_file.randolph(11,23)
     randolph laugh ""
 
 # game/script/11.rpy:747
@@ -1383,6 +1473,7 @@ translate polish s11_03_accept_0a361804:
 
     # voice voice_file.tig(11,30)
     # tig normal "\"Oh, I do not have any titles of my own.\" "
+    voice voice_file.tig(11,30)
     tig normal ""
 
 # game/script/11.rpy:751
@@ -1390,6 +1481,7 @@ translate polish s11_03_accept_942d70e9:
 
     # voice voice_file.randolph(11,24)
     # randolph serious "\"Really? Ahh... fair. I would've thought...\" "
+    voice voice_file.randolph(11,24)
     randolph serious ""
 
 # game/script/11.rpy:753
@@ -1409,6 +1501,7 @@ translate polish s11_03_accept_f85279ce:
 
     # voice voice_file.randolph(11,25)
     # randolph wry "\"Nothing. I shouldn't bring it up if Liao isn't aware of it.\" "
+    voice voice_file.randolph(11,25)
     randolph wry ""
 
 # game/script/11.rpy:761
@@ -1416,6 +1509,7 @@ translate polish s11_03_accept_85a2f8e8:
 
     # voice voice_file.tig(11,31)
     # tig lift "\"He probably assumed you had already named me.\" "
+    voice voice_file.tig(11,31)
     tig lift ""
 
 # game/script/11.rpy:764
@@ -1430,6 +1524,7 @@ translate polish s11_03_accept_3d47c555:
     # voice voice_file.tig(11,32)
     # tig normal "\"Usually a god receives their title from their deeds like helping their worshippers or saving many lives.\" "
     # tig normal "\"In such case, worshippers might be so moved as to pray to the {font=tl/None/NotoSansCJKtc-Bold.otf}Jade Emperor{/font} for a promotion for the god in gratitude.\" "
+    voice voice_file.tig(11,32)
     tig normal ""
 
 # game/script/11.rpy:776
@@ -1438,6 +1533,7 @@ translate polish s11_03_accept_394535e1:
     # voice voice_file.tig(11,33)
     # tig normal "\"However... In some cases a god may be given their name or title directly by their worshippers.\" "
     # tig normal "\"It indicates a very close relationship between the person and the god in question, a strengthening of the connection between them...\" "
+    voice voice_file.tig(11,33)
     tig normal ""
 
 # game/script/11.rpy:778
@@ -1445,6 +1541,7 @@ translate polish s11_03_accept_62f5327f:
 
     # voice voice_file.tig(11,34)
     # tig normal "\"It's the sort of thing that happens when it does. Would it not be rather odd to pick a name for a god for no particular reason?\" "
+    voice voice_file.tig(11,34)
     tig normal ""
 
 # game/script/11.rpy:782
@@ -1459,6 +1556,7 @@ translate polish s11_03_accept_c33ff11b:
     # voice voice_file.tig(11,35)
     # tig normal "\"I see no issue. There are many guardian tiger's in this world, most of which do not possess a title of any sort.\" "
     # tig normal "\"Those few who do attain one either have great spirit power or have accomplished great things. It's perfectly reasonable for me to not be given a title.\" "
+    voice voice_file.tig(11,35)
     tig normal ""
 
 # game/script/11.rpy:786
@@ -1466,6 +1564,7 @@ translate polish s11_03_accept_6bec5e40:
 
     # voice voice_file.randolph(11,26)
     # randolph serious "\"Oh. So as to say that if you were given a title, your spirit power would also increase?\" "
+    voice voice_file.randolph(11,26)
     randolph serious ""
 
 # game/script/11.rpy:788
@@ -1473,6 +1572,7 @@ translate polish s11_03_accept_eb446426:
 
     # voice voice_file.tig(11,36)
     # tig normal "\"That's right. But receiving a name should always have purpose. I don't wish to receive one just for the sake of it.\" "
+    voice voice_file.tig(11,36)
     tig normal ""
 
 # game/script/11.rpy:790
@@ -1480,6 +1580,7 @@ translate polish s11_03_accept_464f0edc:
 
     # voice voice_file.randolph(11,27)
     # randolph serious "\"I see... so you don't want one yourself. Understood.\" "
+    voice voice_file.randolph(11,27)
     randolph serious ""
 
 # game/script/11.rpy:792
@@ -1487,6 +1588,7 @@ translate polish s11_03_accept_5210f180:
 
     # voice voice_file.tig(11,37)
     # tig lift "\"Hmm.\" "
+    voice voice_file.tig(11,37)
     tig lift ""
 
 # game/script/11.rpy:794
@@ -1500,6 +1602,7 @@ translate polish s11_03_accept_597e3fc5:
 
     # voice voice_file.randolph(11,28)
     # randolph laugh "\"Moving on, Mister... Clouded Leopard, should I address you as anything?\" "
+    voice voice_file.randolph(11,28)
     randolph laugh ""
 
 # game/script/11.rpy:798
@@ -1519,6 +1622,7 @@ translate polish s11_03_accept_d4f8fb86:
 
     # voice voice_file.lpd(11,10)
     # lpd obsessed "\"No. Likulau.\" "
+    voice voice_file.lpd(11,10)
     lpd obsessed ""
 
 # game/script/11.rpy:804
@@ -1526,6 +1630,7 @@ translate polish s11_03_accept_04825136:
 
     # voice voice_file.randolph(11,29)
     # randolph serious "\"Likulau?\" "
+    voice voice_file.randolph(11,29)
     randolph serious ""
 
 # game/script/11.rpy:806
@@ -1539,6 +1644,7 @@ translate polish s11_03_accept_b12de91f:
 
     # voice voice_file.randolph(11,30)
     # randolph serious "\"Oh. I'm not that familiar with the Rukai tribe. Is it normal for their gods to also not be given names?\" "
+    voice voice_file.randolph(11,30)
     randolph serious ""
 
 # game/script/11.rpy:810
@@ -1546,6 +1652,7 @@ translate polish s11_03_accept_7bad7769:
 
     # voice voice_file.lpd(11,11)
     # lpd normal "\"Normal.\" "
+    voice voice_file.lpd(11,11)
     lpd normal ""
 
 # game/script/11.rpy:812
@@ -1553,6 +1660,7 @@ translate polish s11_03_accept_b6f13479:
 
     # voice voice_file.randolph(11,31)
     # randolph serious "\"...So it's like that for them too.\" "
+    voice voice_file.randolph(11,31)
     randolph serious ""
 
 # game/script/11.rpy:814
@@ -1560,6 +1668,7 @@ translate polish s11_03_accept_15e622e9:
 
     # voice voice_file.randolph(11,32)
     # randolph serious "\"If it's okay, I wouldn't mind asking some questions about the Rukai tribe...\" "
+    voice voice_file.randolph(11,32)
     randolph serious ""
 
 # game/script/11.rpy:818
@@ -1573,6 +1682,7 @@ translate polish s11_03_accept_58dd5001:
 
     # voice voice_file.randolph(11,33)
     # randolph serious "\"That is to say, Aidridringane sent you to Taipei?\" "
+    voice voice_file.randolph(11,33)
     randolph serious ""
 
 # game/script/11.rpy:826
@@ -1580,6 +1690,7 @@ translate polish s11_03_accept_fbac1f87:
 
     # voice voice_file.lpd(11,12)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(11,12)
     lpd normal ""
 
 # game/script/11.rpy:828
@@ -1587,6 +1698,7 @@ translate polish s11_03_accept_7f8e1971:
 
     # voice voice_file.randolph(11,34)
     # randolph serious "\"What kind of god is this Aidridringane?\" "
+    voice voice_file.randolph(11,34)
     randolph serious ""
 
 # game/script/11.rpy:832
@@ -1600,6 +1712,7 @@ translate polish s11_03_accept_cdc3b7b7:
 
     # voice voice_file.lpd(11,13)
     # lpd obsessed "\"Invisible god. Powerful... From a very powerful place...\" "
+    voice voice_file.lpd(11,13)
     lpd obsessed ""
 
 # game/script/11.rpy:838
@@ -1607,6 +1720,7 @@ translate polish s11_03_accept_119f9820:
 
     # voice voice_file.randolph(11,35)
     # randolph serious "\"A powerful place? Hmm... Tian-liao, do you know what that means?\" "
+    voice voice_file.randolph(11,35)
     randolph serious ""
 
 # game/script/11.rpy:840
@@ -1644,6 +1758,7 @@ translate polish s11_03_accept_be5fc656:
 
     # voice voice_file.randolph(11,36)
     # randolph laugh "\"Oh? Of course.\" "
+    voice voice_file.randolph(11,36)
     randolph laugh ""
 
 # game/script/11.rpy:856
@@ -1663,6 +1778,7 @@ translate polish s11_03_accept_888933bc:
 
     # voice voice_file.jiahao(11,1)
     # phone "\"No. What's the matter?\" "
+    voice voice_file.jiahao(11,1)
     phone ""
 
 # game/script/11.rpy:864
@@ -1676,6 +1792,7 @@ translate polish s11_03_accept_e66cc21b:
 
     # voice voice_file.jiahao(11,2)
     # phone "\"You mean that snake god? I got something but not much...\" "
+    voice voice_file.jiahao(11,2)
     phone ""
 
 # game/script/11.rpy:868
@@ -1683,6 +1800,7 @@ translate polish s11_03_accept_3c077904:
 
     # voice voice_file.jiahao(11,3)
     # phone "\"Why? Is it something urgent?\" "
+    voice voice_file.jiahao(11,3)
     phone ""
 
 # game/script/11.rpy:870
@@ -1697,6 +1815,7 @@ translate polish s11_03_accept_aa0ff537:
     # voice voice_file.jiahao(11,4)
     # phone "\"Alright, I didn't find out much on them but this should be important. \" "
     # phone "\"If I'm not mistaken, Aidridringane is a snake god who takes the form of a hundred-pacer snake. They also happen to be the husband of {font=tl/None/NotoSansCJKtc-Bold.otf}Princess Baleng{/font}.\" "
+    voice voice_file.jiahao(11,4)
     phone ""
 
 # game/script/11.rpy:877
@@ -1716,6 +1835,7 @@ translate polish s11_03_accept_4f64a4a9:
 
     # voice voice_file.jiahao(11,5)
     # phone "\"Yep, the same one. It's pretty cool! \" "
+    voice voice_file.jiahao(11,5)
     phone ""
 
 # game/script/11.rpy:883
@@ -1730,6 +1850,7 @@ translate polish s11_03_accept_ab5ff152:
     # voice voice_file.jiahao(11,6)
     # phone "\"Hmm? A place... Maybe what you're talking about is the Rukai tribe's sacred place.\" "
     # phone "\"I can't really remember what it's called right now... you probably don't know it do you? But anyway, Aidridringane is the god in charge of it.\" "
+    voice voice_file.jiahao(11,6)
     phone ""
 
 # game/script/11.rpy:887
@@ -1743,6 +1864,7 @@ translate polish s11_03_accept_0f00694f:
 
     # voice voice_file.lpd(11,14)
     # lpd happy "\"Yes, sacred place.\" "
+    voice voice_file.lpd(11,14)
     lpd happy ""
 
 # game/script/11.rpy:891
@@ -1769,6 +1891,7 @@ translate polish s11_03_accept_759a6bca:
     # voice voice_file.jiahao(11,7)
     # phone "\"Hey, it's not like I know much more than you do at this point! But if you wanted me to check anything else I'd be up for it.\" "
     # phone "\"Hold on... why is your friend doing an interview with you?\" "
+    voice voice_file.jiahao(11,7)
     phone ""
 
 # game/script/11.rpy:899
@@ -1789,6 +1912,7 @@ translate polish s11_03_accept_c6d50234:
 
     # voice voice_file.jiahao(11,8)
     # phone "\"It's not a problem at all. It's just...\" "
+    voice voice_file.jiahao(11,8)
     phone ""
 
 # game/script/11.rpy:908
@@ -1802,6 +1926,7 @@ translate polish s11_03_accept_844c8e07:
 
     # voice voice_file.jiahao(11,9)
     # phone "\"Wha—\" "
+    voice voice_file.jiahao(11,9)
     phone ""
 
 # game/script/11.rpy:916
@@ -1815,6 +1940,7 @@ translate polish s11_03_accept_b52cba5a:
 
     # voice voice_file.randolph(11,37)
     # randolph wry "\"Sorry to trouble you.\" "
+    voice voice_file.randolph(11,37)
     randolph wry ""
 
 # game/script/11.rpy:923
@@ -1828,6 +1954,7 @@ translate polish s11_03_accept_83fae1d5:
 
     # voice voice_file.randolph(11,38)
     # randolph serious "\"It doesn't seem like it'll be very convenient to interview Likulau here. So in this case, I'll just have to follow up with you another time.\" "
+    voice voice_file.randolph(11,38)
     randolph serious ""
 
 # game/script/11.rpy:927
@@ -1859,6 +1986,7 @@ translate polish s11_03_accept_d50e9b37:
 
     # voice voice_file.randolph(11,39)
     # randolph laugh "\"Now then, I'm very thankful for getting to speak to you today. Treating you to dinner is the least I can do. Please, have whatever you wish.\" "
+    voice voice_file.randolph(11,39)
     randolph laugh ""
 
 # game/script/11.rpy:939
@@ -1866,6 +1994,7 @@ translate polish s11_03_accept_d1756ea2:
 
     # voice voice_file.tig(11,38)
     # tig gaze "\"Then, I'll have that one...\" "
+    voice voice_file.tig(11,38)
     tig gaze ""
 
 # game/script/11.rpy:941
@@ -1879,6 +2008,7 @@ translate polish s11_03_accept_495cf055:
 
     # voice voice_file.tig(11,39)
     # tig embarrassed "\"Ah-haha— A mere joke of course.\" "
+    voice voice_file.tig(11,39)
     tig embarrassed ""
 
 # game/script/11.rpy:949
@@ -1929,6 +2059,7 @@ translate polish s11_04_bc05175e:
 
     # voice voice_file.tig(11,40)
     # tig normal "\"Liao, is something troubling you?\" "
+    voice voice_file.tig(11,40)
     tig normal ""
 
 # game/script/11.rpy:985
@@ -1948,6 +2079,7 @@ translate polish s11_04_c4a3b47c:
 
     # voice voice_file.tig(11,41)
     # tig normal "\"Such is the melancholy of youth. Sometimes it's normal to feel sad... Is it because of the kitten?\" "
+    voice voice_file.tig(11,41)
     tig normal ""
 
 # game/script/11.rpy:991
@@ -1962,6 +2094,7 @@ translate polish s11_04_d1027fef:
     # voice voice_file.tig(11,42)
     # tig normal "\"He chose to leave himself. I cannot understand why that upsets you...\" "
     # tig normal "\"Alas, one's mood is not always driven by reason.\" "
+    voice voice_file.tig(11,42)
     tig normal ""
 
 # game/script/11.rpy:995
@@ -1975,6 +2108,7 @@ translate polish cg_tig_touch_head_77c748c7:
 
     # voice voice_file.tig(11,43)
     # tig normal "\"Well. I don't wish to disturb you when you are already in a bad mood. We shall read separately.\" "
+    voice voice_file.tig(11,43)
     tig normal ""
 
 # game/script/11.rpy:1010
@@ -2007,6 +2141,7 @@ translate polish cg_tig_touch_head_24e10754:
 
     # voice voice_file.tig(11,44)
     # tig normal "\"...Liao.\" "
+    voice voice_file.tig(11,44)
     tig normal ""
 
 # game/script/11.rpy:1029
@@ -2020,6 +2155,7 @@ translate polish cg_tig_touch_head_e453b4ad:
 
     # voice voice_file.tig(11,45)
     # tig normal "\"Don't worry. No one is around. Just close your eyes, listen.\" "
+    voice voice_file.tig(11,45)
     tig normal ""
 
 # game/script/11.rpy:1037
@@ -2027,6 +2163,7 @@ translate polish cg_tig_touch_head_1ef1a152:
 
     # voice voice_file.tig(11,46)
     # tig disappointed "\"In all sincerity, seeing you so distraught over the kitten, it's very painful.\" "
+    voice voice_file.tig(11,46)
     tig disappointed ""
 
 # game/script/11.rpy:1039
@@ -2041,6 +2178,7 @@ translate polish cg_tig_touch_head_3696c6c2:
     # voice voice_file.tig(11,47)
     # tig normal "\"I'm not sure where this feeling comes from either. Perhaps because you are my worshipper, my worshipper who cares so much about those other two...\" "
     # tig normal "\"That kitten is a yaoguai as far as I am concerned. I feel that he has used your sympathy for his trivial cause to become closer to you and in turn it's evident how much you've grown to care about him.\" "
+    voice voice_file.tig(11,47)
     tig normal ""
 
 # game/script/11.rpy:1046
@@ -2048,6 +2186,7 @@ translate polish cg_tig_touch_head_3b5b7abf:
 
     # voice voice_file.tig(11,48)
     # tig disappointed "\"...If something were to happen to me, would you even wish to return home in my stead.\" "
+    voice voice_file.tig(11,48)
     tig disappointed ""
 
 # game/script/11.rpy:1056
@@ -2055,6 +2194,7 @@ translate polish cg_tig_touch_head_ffc854c5:
 
     # voice voice_file.tig(11,49)
     # tig normal "\"That was a joke. I don't mean to say that you must go back home.\" "
+    voice voice_file.tig(11,49)
     tig normal ""
 
 # game/script/11.rpy:1058
@@ -2068,6 +2208,7 @@ translate polish cg_tig_touch_head_5683e72a:
 
     # voice voice_file.tig(11,50)
     # tig disappointed "\"But... oh well.\" "
+    voice voice_file.tig(11,50)
     tig disappointed ""
 
 # game/script/11.rpy:1065

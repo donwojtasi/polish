@@ -11,6 +11,7 @@ translate polish s12_da064df9:
 
     # voice voice_file.lpdcat(12,1)
     # lpdcat laugh "\"Liao! It's the weekend tomorrow! Yooooou know what that means?\" "
+    voice voice_file.lpdcat(12,1)
     lpdcat laugh ""
 
 # game/script/12.rpy:15
@@ -24,6 +25,7 @@ translate polish s12_b7972935:
 
     # voice voice_file.lpdcat(12,2)
     # lpdcat happy "\"Well it means— that we should go on a date!\" "
+    voice voice_file.lpdcat(12,2)
     lpdcat happy ""
 
 # game/script/12.rpy:26
@@ -43,6 +45,7 @@ translate polish s12_e51188e9:
 
     # voice voice_file.lpdcat(12,3)
     # lpdcat normal "\"You should go on a date before you get in a relationship! Isn't that normal? You can't expect to date someone without getting to know them first.\" "
+    voice voice_file.lpdcat(12,3)
     lpdcat normal ""
 
 # game/script/12.rpy:34
@@ -56,6 +59,7 @@ translate polish s12_e101075c:
 
     # voice voice_file.lpdcat(12,4)
     # lpdcat laugh "\"Since I'm not staying at Liao's home, the least he could do is spend the weekend with me!\" "
+    voice voice_file.lpdcat(12,4)
     lpdcat laugh ""
 
 # game/script/12.rpy:45
@@ -63,6 +67,7 @@ translate polish s12_56980324:
 
     # voice voice_file.lpdcat(12,5)
     # lpdcat difficult "\"Liao... please?\" "
+    voice voice_file.lpdcat(12,5)
     lpdcat difficult ""
 
 # game/script/12.rpy:47
@@ -76,6 +81,7 @@ translate polish s12_b8c52b53:
 
     # voice voice_file.lpdcat(12,6)
     # lpdcat pout "\"This time, I want a date all alone with Liao! Without Kulau and the old man! Just me and you.\" "
+    voice voice_file.lpdcat(12,6)
     lpdcat pout ""
 
 # game/script/12.rpy:55
@@ -83,6 +89,7 @@ translate polish s12_a4a82f97:
 
     # voice voice_file.tig(12,1)
     # tig frown "\"I— That's unreasonable. I cannot let the two of you—\" "
+    voice voice_file.tig(12,1)
     tig frown ""
 
 # game/script/12.rpy:61
@@ -90,6 +97,7 @@ translate polish s12_a9cc059b:
 
     # voice voice_file.lpd(12,1)
     # lpd obsessed "\"...Liao go shopping. I want to come.\" "
+    voice voice_file.lpd(12,1)
     lpd obsessed ""
 
 # game/script/12.rpy:64
@@ -97,6 +105,7 @@ translate polish s12_30843752:
 
     # voice voice_file.lpdcat(12,7)
     # lpdcat pout "\"NO WAY.\" " with vshake
+    voice voice_file.lpdcat(12,7)
     lpdcat pout "" with vshake
 
 # game/script/12.rpy:66
@@ -104,6 +113,7 @@ translate polish s12_0eefb596:
 
     # voice voice_file.lpdcat(12,8)
     # lpdcat pout "\"I've been forced out of Liao's home, my family is against me, and I'm scared. All I want is a date with Liao! Please, I don't need a third and fourth wheel!\" "
+    voice voice_file.lpdcat(12,8)
     lpdcat pout ""
 
 # game/script/12.rpy:68
@@ -111,6 +121,7 @@ translate polish s12_dafdeb04:
 
     # voice voice_file.tig(12,2)
     # tig normal "\"What wheel? Liao doesn't fancy you.\" "
+    voice voice_file.tig(12,2)
     tig normal ""
 
 # game/script/12.rpy:70
@@ -118,6 +129,7 @@ translate polish s12_489515a2:
 
     # voice voice_file.lpdcat(12,9)
     # lpdcat pout "\"Wha— Well maybe not yet. But that's exactly {i}why{/i} \ I want to go on a date with him!\" "
+    voice voice_file.lpdcat(12,9)
     lpdcat pout ""
 
 # game/script/12.rpy:72
@@ -132,6 +144,7 @@ translate polish s12_45b6f374:
     # voice voice_file.lpdcat(12,10)
     # lpdcat normal "\"Nope, I'm right. After all, why should you be in a relationship before you even know if you get along together?\" "
     # lpdcat normal "\"Which is why we should have a nice date together before either of us makes a \ndecision!\" "
+    voice voice_file.lpdcat(12,10)
     lpdcat normal ""
 
 # game/script/12.rpy:84
@@ -145,6 +158,7 @@ translate polish s12_5e0fdc88:
 
     # voice voice_file.lpdcat(12,11)
     # lpdcat laugh "\"So, Liao! Let's have a date!\" "
+    voice voice_file.lpdcat(12,11)
     lpdcat laugh ""
 
 # game/script/12.rpy:110
@@ -158,6 +172,7 @@ translate polish s12_reject_42e05aa1:
 
     # voice voice_file.lpdcat(12,12)
     # lpdcat not_reconcile "\"Wha— Y-{w=0.2}You're turning me down?\" "
+    voice voice_file.lpdcat(12,12)
     lpdcat not_reconcile ""
 
 # game/script/12.rpy:119
@@ -172,6 +187,7 @@ translate polish s12_reject_b33d7fde:
 
     # voice voice_file.lpdcat(12,13)
     # lpdcat cry_2 "\"Waaa!\" " with vshake
+    voice voice_file.lpdcat(12,13)
     lpdcat cry_2 "" with vshake
 
 # game/script/12.rpy:129
@@ -179,6 +195,7 @@ translate polish s12_reject_d64c9c5c:
 
     # voice voice_file.lpdcat(12,14)
     # lpdcat not_reconcile "*sniffle* \"What about a date between two good friends?\" "
+    voice voice_file.lpdcat(12,14)
     lpdcat not_reconcile ""
 
 # game/script/12.rpy:131
@@ -192,6 +209,7 @@ translate polish s12_reject_837637f2:
 
     # voice voice_file.lpdcat(12,15)
     # lpdcat pout "\"How about, just spending time hanging out?\" "
+    voice voice_file.lpdcat(12,15)
     lpdcat pout ""
 
 # game/script/12.rpy:135
@@ -205,6 +223,7 @@ translate polish s12_reject_3b5ef851:
 
     # voice voice_file.lpdcat(12,16)
     # lpdcat not_reconcile "\"...Still no?\" "
+    voice voice_file.lpdcat(12,16)
     lpdcat not_reconcile ""
 
 # game/script/12.rpy:139
@@ -219,6 +238,7 @@ translate polish s12_reject_eb7b5691:
 
     # voice voice_file.lpdcat(12,17)
     # lpdcat pout "\"So... you'd agree to go to Miaoli as my friend?\" "
+    voice voice_file.lpdcat(12,17)
     lpdcat pout ""
 
 # game/script/12.rpy:143
@@ -232,6 +252,7 @@ translate polish s12_reject_13b35b41:
 
     # voice voice_file.lpdcat(12,18)
     # lpdcat pout "\"...Just say it. I {i}want{/i} \ to know.\" "
+    voice voice_file.lpdcat(12,18)
     lpdcat pout ""
 
 # game/script/12.rpy:147
@@ -245,6 +266,7 @@ translate polish s12_reject_7d81ee41:
 
     # voice voice_file.lpdcat(12,19)
     # lpdcat laugh "\"Fine. As I said, let's not rush it. If Liao doesn't want it now, I can wait.\" "
+    voice voice_file.lpdcat(12,19)
     lpdcat laugh ""
 
 # game/script/12.rpy:151
@@ -252,6 +274,7 @@ translate polish s12_reject_67378beb:
 
     # voice voice_file.lpdcat(12,20)
     # lpdcat pout "\"There's no point in me staying here, eating dinner and just pretending nothing happened. I'll be heading off now!\" "
+    voice voice_file.lpdcat(12,20)
     lpdcat pout ""
 
 # game/script/12.rpy:153
@@ -259,6 +282,7 @@ translate polish s12_reject_39e2a144:
 
     # voice voice_file.lpdcat(12,21)
     # lpdcat laugh "\"Alrighty Liao! See you on Monday!\" "
+    voice voice_file.lpdcat(12,21)
     lpdcat laugh ""
 
 # game/script/12.rpy:158
@@ -284,6 +308,7 @@ translate polish s12_reject_49214bce:
 
     # voice voice_file.tig(12,3)
     # tig normal "\"Regardless he wouldn't have stayed after being turned down. He said as much.\" "
+    voice voice_file.tig(12,3)
     tig normal ""
 
 # game/script/12.rpy:166
@@ -316,6 +341,7 @@ translate polish s12_accept_0ec5bfac:
 
     # voice voice_file.lpdcat(12,22)
     # lpdcat laugh "\"Yeah! You'll have heaps of fun going out with someone as super-duper adorable as \nme!\" "
+    voice voice_file.lpdcat(12,22)
     lpdcat laugh ""
 
 # game/script/12.rpy:197
@@ -329,6 +355,7 @@ translate polish s12_accept_42f02317:
 
     # voice voice_file.lpdcat(12,23)
     # lpdcat normal "\"Whaa— But I only say the truth~\" "
+    voice voice_file.lpdcat(12,23)
     lpdcat normal ""
 
 # game/script/12.rpy:203
@@ -343,6 +370,7 @@ translate polish s12_accept_bac18bf0:
 
     # voice voice_file.lpdcat(12,24)
     # lpdcat happy "\"Yep! You're always so nice Liao!\" " with vshake
+    voice voice_file.lpdcat(12,24)
     lpdcat happy "" with vshake
 
 # game/script/12.rpy:210
@@ -350,6 +378,7 @@ translate polish s12_accept_9d29d51d:
 
     # voice voice_file.lpdcat(12,25)
     # lpdcat laugh "\"I'm gonna go home and get ready! See you tomorrow Liao! Look forward to it!\" "
+    voice voice_file.lpdcat(12,25)
     lpdcat laugh ""
 
 # game/script/12.rpy:214
@@ -376,6 +405,7 @@ translate polish s12_accept_803b124a:
 
     # voice voice_file.tig(12,4)
     # tig normal "\"Liao, I don't wish to lecture you. Just remember to never go anywhere strange with that kitten, okay?\" "
+    voice voice_file.tig(12,4)
     tig normal ""
 
 # game/script/12.rpy:231
@@ -401,6 +431,7 @@ translate polish s12_accept_29be5af7:
 
     # voice voice_file.lpdcat(12,26)
     # lpdcat laugh "\"Because it's fun. You can't just go somewhere once and never again! Not to mention that old man was with us. There were so many places I couldn't show you. This time I'm gonna show you everything!\" "
+    voice voice_file.lpdcat(12,26)
     lpdcat laugh ""
 
 # game/script/12.rpy:249
@@ -414,6 +445,7 @@ translate polish s12_accept_a5ebae82:
 
     # voice voice_file.lpdcat(12,27)
     # lpdcat normal "\"Wha— Only one of impure heart would ever twist my words in such lecherous ways!\" "
+    voice voice_file.lpdcat(12,27)
     lpdcat normal ""
 
 # game/script/12.rpy:253
@@ -427,6 +459,7 @@ translate polish s12_accept_34f48ad7:
 
     # voice voice_file.lpdcat(12,28)
     # lpdcat laugh "\"He-heh. Whatever you think Liao. I'll just have to take you somewhere awesome then! Come with me!\" "
+    voice voice_file.lpdcat(12,28)
     lpdcat laugh ""
 
 # game/script/12.rpy:264
@@ -434,6 +467,7 @@ translate polish s12_accept_21f5b374:
 
     # voice voice_file.lpdcat(12,29)
     # lpdcat normal "\"Hehe— You've never been here before, right?\" "
+    voice voice_file.lpdcat(12,29)
     lpdcat normal ""
 
 # game/script/12.rpy:266
@@ -441,6 +475,7 @@ translate polish s12_accept_de08df56:
 
     # voice voice_file.lpdcat(12,30)
     # lpdcat laugh "\"There's a bunch of places I'd like to go... but I want to take you to this one first. We're gonna have such a great time together Liao!\" "
+    voice voice_file.lpdcat(12,30)
     lpdcat laugh ""
 
 # game/script/12.rpy:268
@@ -454,6 +489,7 @@ translate polish s12_accept_1aa6dfba:
 
     # voice voice_file.lpdcat(12,31)
     # lpdcat laugh "\"You'll find out soon enough!\" "
+    voice voice_file.lpdcat(12,31)
     lpdcat laugh ""
 
 # game/script/12.rpy:276
@@ -479,6 +515,7 @@ translate polish s12_accept_ea529fd1:
 
     # voice voice_file.lpdcat(12,32)
     # lpdcat normal "\"Liao, you play any arcade rhythm games?\" "
+    voice voice_file.lpdcat(12,32)
     lpdcat normal ""
 
 # game/script/12.rpy:290
@@ -493,6 +530,7 @@ translate polish s12_accept_2e5c610d:
 
     # voice voice_file.lpdcat(12,33)
     # lpdcat normal "\"Wha— What a sad, sheltered soul you are. How could a member of the dance club not know! Come on, this way!\" "
+    voice voice_file.lpdcat(12,33)
     lpdcat normal ""
 
 # game/script/12.rpy:304
@@ -548,6 +586,7 @@ translate polish cg_cat_play_dancing_machine_fa469a13:
 
     # voice voice_file.lpdcat(12,34)
     # lpdcat laugh "\"Alright, now it's your turn Liao!\" "
+    voice voice_file.lpdcat(12,34)
     lpdcat laugh ""
 
 # game/script/12.rpy:335
@@ -568,6 +607,7 @@ translate polish cg_cat_play_dancing_machine_200c269b:
 
     # voice voice_file.lpdcat(12,35)
     # lpdcat normal "\"It's {i}fiiiiine{/i}. It's not like I expect your first time to be good. Don't worry, I won't laugh!\" "
+    voice voice_file.lpdcat(12,35)
     lpdcat normal ""
 
 # game/script/12.rpy:344
@@ -581,6 +621,7 @@ translate polish cg_cat_play_dancing_machine_a0dd6686:
 
     # voice voice_file.lpdcat(12,36)
     # lpdcat laugh "\"There's a first time for everyone! COME! ON! LIAO!\" " with vshake
+    voice voice_file.lpdcat(12,36)
     lpdcat laugh "" with vshake
 
 # game/script/12.rpy:356
@@ -601,6 +642,7 @@ translate polish cg_cat_play_dancing_machine_ad387857:
 
     # voice voice_file.lpdcat(12,37)
     # lpdcat normal "\"Most people don't even pass their first go~\" "
+    voice voice_file.lpdcat(12,37)
     lpdcat normal ""
 
 # game/script/12.rpy:367
@@ -608,6 +650,7 @@ translate polish cg_cat_play_dancing_machine_44eb1a48:
 
     # voice voice_file.jiahao(12,1)
     # question "\"Oh hey, Liao and Shu-Chi? You guys sure look like you're having fun!\" "
+    voice voice_file.jiahao(12,1)
     question ""
 
 # game/script/12.rpy:370
@@ -621,6 +664,7 @@ translate polish cg_cat_play_dancing_machine_1ab841f1:
 
     # voice voice_file.jiahao(12,2)
     # jiahao "\"You did alright but Shu-Chi Senpai was awesome! I don't think I've ever seen anyone that good at the game before! How long have you been practicing?\" "
+    voice voice_file.jiahao(12,2)
     jiahao ""
 
 # game/script/12.rpy:380
@@ -628,6 +672,7 @@ translate polish cg_cat_play_dancing_machine_bf671e1e:
 
     # voice voice_file.lpdcat(12,38)
     # lpdcat laugh "\"Haha— I've practiced a bit at home. It's no big deal. It doesn't really need much space anyways.\" "
+    voice voice_file.lpdcat(12,38)
     lpdcat laugh ""
 
 # game/script/12.rpy:382
@@ -635,6 +680,7 @@ translate polish cg_cat_play_dancing_machine_81004c84:
 
     # voice voice_file.jiahao(12,3)
     # jiahao "\"Liao... that was your first time, right? You did pretty good.\" "
+    voice voice_file.jiahao(12,3)
     jiahao ""
 
 # game/script/12.rpy:385
@@ -648,6 +694,7 @@ translate polish cg_cat_play_dancing_machine_8c08916d:
 
     # voice voice_file.jiahao(12,4)
     # jiahao "\"I'm not trying to. Compared to this...\" "
+    voice voice_file.jiahao(12,4)
     jiahao ""
 
 # game/script/12.rpy:392
@@ -661,6 +708,7 @@ translate polish cg_cat_play_dancing_machine_4a9e5e59:
 
     # voice voice_file.jiahao(12,5)
     # jiahao "\"Liao, you said you weren't dating Shu-chi Senpai, right? Because you two here together totally looks like a date dude.\" "
+    voice voice_file.jiahao(12,5)
     jiahao ""
 
 # game/script/12.rpy:400
@@ -687,6 +735,7 @@ translate polish cg_cat_play_dancing_machine_49e8be2e:
     # voice voice_file.jiahao(12,6)
     # jiahao "\"Well Liao, it's not like I care. But you don't want people to think theres something between you guys, right?\" "
     # jiahao "\"People from the dance club come here all the time. See? Look over there.\" "
+    voice voice_file.jiahao(12,6)
     jiahao ""
 
 # game/script/12.rpy:410
@@ -718,6 +767,7 @@ translate polish cg_cat_play_dancing_machine_21090df7:
 
     # voice voice_file.jiahao(12,7)
     # jiahao "\"Just thought I'd let you know. Now behave yourself Liao. I'll see you later.\" "
+    voice voice_file.jiahao(12,7)
     jiahao ""
 
 # game/script/12.rpy:425
@@ -743,6 +793,7 @@ translate polish cg_cat_play_dancing_machine_845f7a08:
 
     # voice voice_file.lpdcat(12,39)
     # lpdcat normal "\"Wha— I thought you were having fun.\" "
+    voice voice_file.lpdcat(12,39)
     lpdcat normal ""
 
 # game/script/12.rpy:438
@@ -762,6 +813,7 @@ translate polish cg_cat_play_dancing_machine_b3c24fc7:
 
     # voice voice_file.lpdcat(12,40)
     # lpdcat laugh "\"Oh? That guy? Never mind them.\" "
+    voice voice_file.lpdcat(12,40)
     lpdcat laugh ""
 
 # game/script/12.rpy:445
@@ -775,6 +827,7 @@ translate polish cg_cat_play_dancing_machine_f8e49a76:
 
     # voice voice_file.lpdcat(12,41)
     # lpdcat normal "\"Okay— Okay— Stay here and wait.\" "
+    voice voice_file.lpdcat(12,41)
     lpdcat normal ""
 
 # game/script/12.rpy:451
@@ -794,6 +847,7 @@ translate polish cg_cat_play_dancing_machine_f1627642:
 
     # voice voice_file.lpdcat(12,42)
     # lpdcat laugh "\"Yep. Come on! Let's play~\" "
+    voice voice_file.lpdcat(12,42)
     lpdcat laugh ""
 
 # game/script/12.rpy:459
@@ -832,6 +886,7 @@ translate polish cg_cat_play_dancing_machine_02c09723:
 
     # voice voice_file.lpdcat(12,43)
     # lpdcat laugh "\"{i}Nothing{/i}. It's my rare chance to have a date with you Liao. I won't let anyone get in the way of that. And...\" "
+    voice voice_file.lpdcat(12,43)
     lpdcat laugh ""
 
 # game/script/12.rpy:475
@@ -839,6 +894,7 @@ translate polish cg_cat_play_dancing_machine_7b363b80:
 
     # voice voice_file.lpdcat(12,44)
     # lpdcat cute "\"...Maybe I'm leaving soon. So no matter what, I don't want to miss this chance.\" "
+    voice voice_file.lpdcat(12,44)
     lpdcat cute ""
 
 # game/script/12.rpy:479
@@ -852,6 +908,7 @@ translate polish cg_cat_play_dancing_machine_c35def9e:
 
     # voice voice_file.lpdcat(12,45)
     # lpdcat normal "\"It's no big deal. Hey, Liao! We should try that one!\" "
+    voice voice_file.lpdcat(12,45)
     lpdcat normal ""
 
 # game/script/12.rpy:485
@@ -871,6 +928,7 @@ translate polish cg_cat_play_dancing_machine_ddd6170d:
 
     # voice voice_file.lpdcat(12,46)
     # lpdcat laugh "\"It's nothing at all. Don't worry, you've got nothing to do with it. Just a bad joke.\" "
+    voice voice_file.lpdcat(12,46)
     lpdcat laugh ""
 
 # game/script/12.rpy:494
@@ -885,6 +943,7 @@ translate polish cg_cat_play_dancing_machine_d2b3b02a:
 
     # voice voice_file.lpdcat(12,47)
     # lpdcat normal "\"Really... It doesn't matter. I'll clear things up, no problem at all!\" "
+    voice voice_file.lpdcat(12,47)
     lpdcat normal ""
 
 # game/script/12.rpy:500
@@ -910,6 +969,7 @@ translate polish cg_cat_play_dancing_machine_21d240af:
 
     # voice voice_file.lpdcat(12,48)
     # lpdcat difficult "\"Wha— What are you talking about? Liao, you're overreacting. I'm... well, I'm just upset over leaving. It's no big deal!\" "
+    voice voice_file.lpdcat(12,48)
     lpdcat difficult ""
 
 # game/script/12.rpy:512
@@ -955,6 +1015,7 @@ translate polish cg_cat_play_dancing_machine_8a1f18a5:
 
     # voice voice_file.lpdcat(12,49)
     # lpdcat difficult "\"Liao...\" "
+    voice voice_file.lpdcat(12,49)
     lpdcat difficult ""
 
 # game/script/12.rpy:532
@@ -975,6 +1036,7 @@ translate polish cg_cat_play_dancing_machine_554e93ce:
 
     # voice voice_file.lpdcat(12,50)
     # lpdcat difficult "\"I— Sorry, Liao. It's not that I don't want to tell you. Just...\" "
+    voice voice_file.lpdcat(12,50)
     lpdcat difficult ""
 
 # game/script/12.rpy:543
@@ -982,6 +1044,7 @@ translate polish cg_cat_play_dancing_machine_c4a1d29c:
 
     # voice voice_file.lpdcat(12,51)
     # lpdcat difficult "\"I don't want to force you to go to Miaoli with me... I can take care of my own \nbusiness.\" "
+    voice voice_file.lpdcat(12,51)
     lpdcat difficult ""
 
 # game/script/12.rpy:545
@@ -995,6 +1058,7 @@ translate polish cg_cat_play_dancing_machine_8a637f9f:
 
     # voice voice_file.lpdcat(12,52)
     # lpdcat serious "\"Ok... I'll tell you. Just, promise me one thing.\" "
+    voice voice_file.lpdcat(12,52)
     lpdcat serious ""
 
 # game/script/12.rpy:549
@@ -1008,6 +1072,7 @@ translate polish cg_cat_play_dancing_machine_3bcfbc99:
 
     # voice voice_file.lpdcat(12,53)
     # lpdcat serious "\"Don't let what I tell you change your decision on helping me. It'd be best to forget what I say right away if you can. I know that you coming or not depends on your family back home...\" "
+    voice voice_file.lpdcat(12,53)
     lpdcat serious ""
 
 # game/script/12.rpy:553
@@ -1021,6 +1086,7 @@ translate polish cg_cat_play_dancing_machine_a8e5a40f:
 
     # voice voice_file.lpdcat(12,54)
     # lpdcat normal "\"Well. It's not a big deal.\" "
+    voice voice_file.lpdcat(12,54)
     lpdcat normal ""
 
 # game/script/12.rpy:561
@@ -1028,6 +1094,7 @@ translate polish cg_cat_play_dancing_machine_70df493b:
 
     # voice voice_file.lpdcat(12,55)
     # lpdcat serious "\"It's just that it won't be too long until my Fudegong looses the last of his divine power. I want to be there with him in his last days. That's all.\" "
+    voice voice_file.lpdcat(12,55)
     lpdcat serious ""
 
 # game/script/12.rpy:563
@@ -1043,6 +1110,7 @@ translate polish cg_cat_play_dancing_machine_821c84a2:
     # lpdcat difficult "\"They will... umm... degrade to an {font=tl/None/NotoSansCJKtc-Bold.otf}earth spirit{/font}, maybe.\" "
     # lpdcat difficult "\"They'll still be around somewhere even if he looses his godship, they just won't {i}exist{/i} \ anymore... After all, a God of Soil doesn't exist if no one believes they do.\" "
     # lpdcat difficult "\"One day they might recover if someone goes to worship them though.\" "
+    voice voice_file.lpdcat(12,56)
     lpdcat difficult ""
 
 # game/script/12.rpy:568
@@ -1050,6 +1118,7 @@ translate polish cg_cat_play_dancing_machine_a0229d08:
 
     # voice voice_file.lpdcat(12,57)
     # lpdcat difficult "\"But, even if they do come back, they'll probably end up losing all their memories...\" "
+    voice voice_file.lpdcat(12,57)
     lpdcat difficult ""
 
 # game/script/12.rpy:570
@@ -1070,6 +1139,7 @@ translate polish cg_cat_play_dancing_machine_e964a9d9:
     # voice voice_file.lpdcat(12,58)
     # lpdcat normal "\"I'll turn back to a yaoguai. Don't worry, it won't change who I am. I just won't be a guardian tiger anymore.\" "
     # lpdcat normal "\"Hmm... It's kind of like a company going bankrupt, isn't it? The boss takes the fall while everyone else goes their separate ways.\" "
+    voice voice_file.lpdcat(12,58)
     lpdcat normal ""
 
 # game/script/12.rpy:578
@@ -1083,6 +1153,7 @@ translate polish cg_cat_play_dancing_machine_01be4d96:
 
     # voice voice_file.lpdcat(12,59)
     # lpdcat serious "\"I'd say it takes about two years for a temple to gain a stable following. But as long as there's a priest taking care of the temple it's not hard to maintain.\" "
+    voice voice_file.lpdcat(12,59)
     lpdcat serious ""
 
 # game/script/12.rpy:582
@@ -1090,6 +1161,7 @@ translate polish cg_cat_play_dancing_machine_ec29959e:
 
     # voice voice_file.lpdcat(12,60)
     # lpdcat serious "\"After all there's a huge difference between a neglected temple and an deserted one. People think about it whether they want to pray or not. If they see someone there they'll assume the temple has an active god.\" "
+    voice voice_file.lpdcat(12,60)
     lpdcat serious ""
 
 # game/script/12.rpy:584
@@ -1103,6 +1175,7 @@ translate polish cg_cat_play_dancing_machine_ad91d9c4:
 
     # voice voice_file.lpdcat(12,61)
     # lpdcat serious "\"Pretty much.\" "
+    voice voice_file.lpdcat(12,61)
     lpdcat serious ""
 
 # game/script/12.rpy:588
@@ -1116,6 +1189,7 @@ translate polish cg_cat_play_dancing_machine_915d1c0c:
 
     # voice voice_file.lpdcat(12,62)
     # lpdcat difficult "\"I'm not sure. It's... getting close. Probably a month at most. So yeah, I'll have to go back in the next few days...\" "
+    voice voice_file.lpdcat(12,62)
     lpdcat difficult ""
 
 # game/script/12.rpy:592
@@ -1123,6 +1197,7 @@ translate polish cg_cat_play_dancing_machine_21765059:
 
     # voice voice_file.lpdcat(12,63)
     # lpdcat serious "\"I know you wanted to wait until summer break, but that can't happen. I don't expect you to give up your finals just to come with me. So... It's better we stop here.\" "
+    voice voice_file.lpdcat(12,63)
     lpdcat serious ""
 
 # game/script/12.rpy:596
@@ -1136,6 +1211,7 @@ translate polish cg_cat_play_dancing_machine_5df6a53c:
 
     # voice voice_file.lpdcat(12,64)
     # lpdcat normal "\"I've... just caused you trouble Liao. Even the old man would be happy to see me go.\" "
+    voice voice_file.lpdcat(12,64)
     lpdcat normal ""
 
 # game/script/12.rpy:601
@@ -1155,6 +1231,7 @@ translate polish cg_cat_play_dancing_machine_98ad3753:
 
     # voice voice_file.lpdcat(12,65)
     # lpdcat normal "\"If I said so earlier, would that have changed anything? Would you have come to Miaoli with me?\" "
+    voice voice_file.lpdcat(12,65)
     lpdcat normal ""
 
 # game/script/12.rpy:607
@@ -1169,6 +1246,7 @@ translate polish cg_cat_play_dancing_machine_adb3d9b5:
     # voice voice_file.lpdcat(12,66)
     # lpdcat normal "\"See. I didn't want to put you under more pressure.\" "
     # lpdcat normal "\"What? You want me to remind you every day? \"We're running out of time Liao!\" Oh, I'm {i}sure{/i} \ that would have been better.\" "
+    voice voice_file.lpdcat(12,66)
     lpdcat normal ""
 
 # game/script/12.rpy:615
@@ -1176,6 +1254,7 @@ translate polish cg_cat_play_dancing_machine_645c6577:
 
     # voice voice_file.lpdcat(12,67)
     # lpdcat difficult "\"And honestly, I did change. Before Ching Ming, sure I {i}had{/i} \ Yan Shu-chi's memories but that didn't mean I {i}felt{/i} \ them. I didn't understand how much family meant... The pressures you're under.\" "
+    voice voice_file.lpdcat(12,67)
     lpdcat difficult ""
 
 # game/script/12.rpy:617
@@ -1184,6 +1263,7 @@ translate polish cg_cat_play_dancing_machine_fadb3e27:
     # voice voice_file.lpdcat(12,68)
     # lpdcat difficult "\"Your family's carried on that temple for generations, right? I can't just expect you to pack up your ancestry and leave.\" "
     # lpdcat difficult "\"This isn't your problem and I shouldn't expect to make it yours... I've— I've just made things hard for Liao... That's all I've done...\" "
+    voice voice_file.lpdcat(12,68)
     lpdcat difficult ""
 
 # game/script/12.rpy:619
@@ -1191,6 +1271,7 @@ translate polish cg_cat_play_dancing_machine_2c8d50dc:
 
     # voice voice_file.lpdcat(12,69)
     # lpdcat difficult "\"Yan Shu-chi's family— they really don't like him. We really didn't get along during the break. So, I'm gonna use this as a chance to have Yan Shu-chi talk things over with his family for a few days. Then I'll be free to leave.\" "
+    voice voice_file.lpdcat(12,69)
     lpdcat difficult ""
 
 # game/script/12.rpy:621
@@ -1199,6 +1280,7 @@ translate polish cg_cat_play_dancing_machine_362f2912:
     # voice voice_file.lpdcat(12,70)
     # lpdcat difficult "\"I'm sorry Liao. I know I didn't talk to you before making this decision. But it's not like you being able to come to Miaoli is really your decision anyway.\" "
     # lpdcat difficult "\"I don't want to burden you anymore... It's better to just slowly fade away from your life...\" "
+    voice voice_file.lpdcat(12,70)
     lpdcat difficult ""
 
 # game/script/12.rpy:625
@@ -1212,6 +1294,7 @@ translate polish cg_cat_play_dancing_machine_6b1d08cc:
 
     # voice voice_file.lpdcat(12,71)
     # lpdcat wronged "\"I'm leaving... So I might as well try to give you a nice day to remember me by...\" "
+    voice voice_file.lpdcat(12,71)
     lpdcat wronged ""
 
 # game/script/12.rpy:629
@@ -1225,6 +1308,7 @@ translate polish cg_cat_play_dancing_machine_c5e973cd:
 
     # voice voice_file.lpdcat(12,72)
     # lpdcat serious "\"Liao... you okay?\" "
+    voice voice_file.lpdcat(12,72)
     lpdcat serious ""
 
 # game/script/12.rpy:635
@@ -1238,6 +1322,7 @@ translate polish cg_cat_play_dancing_machine_da4b6372:
 
     # voice voice_file.lpdcat(12,73)
     # lpdcat not_reconcile "\"...Of course it isn't! What else can I do? I can't stay here any longer. Liao can't come with me... S-{w=0.2}So I have too...\" " with hshake
+    voice voice_file.lpdcat(12,73)
     lpdcat not_reconcile "" with hshake
 
 # game/script/12.rpy:642
@@ -1251,6 +1336,7 @@ translate polish cg_cat_play_dancing_machine_f51b8b74:
 
     # voice voice_file.lpdcat(12,74)
     # lpdcat wronged "\"It's good that you came today. At least now I'm sure you care about me.\" "
+    voice voice_file.lpdcat(12,74)
     lpdcat wronged ""
 
 # game/script/12.rpy:651
@@ -1312,6 +1398,7 @@ translate polish s12_accept_02_comfort_14869e23:
 
     # voice voice_file.lpdcat(12,75)
     # lpdcat wronged "\"But... it'll be all over by summer break. You coming on the weekends won't help much. We need a priest, not some half-hearted shrine-hand. If you don't put your soul and faith into it, it's useless.\" "
+    voice voice_file.lpdcat(12,75)
     lpdcat wronged ""
 
 # game/script/12.rpy:703
@@ -1337,6 +1424,7 @@ translate polish s12_accept_02_comfort_2e1daf47:
 
     # voice voice_file.lpdcat(12,76)
     # lpdcat wronged "\"Hmm? Liao, I don't understand...\" "
+    voice voice_file.lpdcat(12,76)
     lpdcat wronged ""
 
 # game/script/12.rpy:714
@@ -1350,6 +1438,7 @@ translate polish s12_accept_02_comfort_edc19703:
 
     # voice voice_file.lpdcat(12,77)
     # lpdcat wronged "\"...Maybe. I've never thought about it.\" "
+    voice voice_file.lpdcat(12,77)
     lpdcat wronged ""
 
 # game/script/12.rpy:718
@@ -1358,6 +1447,7 @@ translate polish s12_accept_02_comfort_ed737c94:
     # voice voice_file.lpdcat(12,78)
     # lpdcat serious "\"But do you {i}really{/i} \ think I can do that? I'm not great, no one would follow me.\" "
     # lpdcat serious "\"And what temple? Who would be my priest? How is that easier than than trying to get a priest for my Fudegong?\" "
+    voice voice_file.lpdcat(12,78)
     lpdcat serious ""
 
 # game/script/12.rpy:720
@@ -1365,6 +1455,7 @@ translate polish s12_accept_02_comfort_a37d3c2d:
 
     # voice voice_file.lpdcat(12,79)
     # lpdcat wronged "\"Liao, if you don't have time...\" "
+    voice voice_file.lpdcat(12,79)
     lpdcat wronged ""
 
 # game/script/12.rpy:722
@@ -1378,6 +1469,7 @@ translate polish s12_accept_02_comfort_7da4d05a:
 
     # voice voice_file.lpdcat(12,80)
     # lpdcat surprise_1 "\"...In Taipei?\" " with flash
+    voice voice_file.lpdcat(12,80)
     lpdcat surprise_1 "" with flash
 
 # game/script/12.rpy:729
@@ -1397,6 +1489,7 @@ translate polish s12_accept_02_comfort_056b5964:
 
     # voice voice_file.lpdcat(12,81)
     # lpdcat surprise_2 "\"......\" "
+    voice voice_file.lpdcat(12,81)
     lpdcat surprise_2 ""
 
 # game/script/12.rpy:735
@@ -1404,6 +1497,7 @@ translate polish s12_accept_02_comfort_c6f93015:
 
     # voice voice_file.lpdcat(12,82)
     # lpdcat wronged "\"...I-{w=0.2}I see.\" "
+    voice voice_file.lpdcat(12,82)
     lpdcat wronged ""
 
 # game/script/12.rpy:739
@@ -1411,6 +1505,7 @@ translate polish s12_accept_02_comfort_c3785181:
 
     # voice voice_file.lpdcat(12,83)
     # lpdcat laugh "\"Maybe that really would work?\" "
+    voice voice_file.lpdcat(12,83)
     lpdcat laugh ""
 
 # game/script/12.rpy:741
@@ -1418,6 +1513,7 @@ translate polish s12_accept_02_comfort_54664bee:
 
     # voice voice_file.lpdcat(12,84)
     # lpdcat wronged "\"If I could rely on Liao's belief in me... I could live in Taipei...\" "
+    voice voice_file.lpdcat(12,84)
     lpdcat wronged ""
 
 # game/script/12.rpy:743
@@ -1431,6 +1527,7 @@ translate polish s12_accept_02_comfort_b32147e0:
 
     # voice voice_file.lpdcat(12,85)
     # lpdcat normal "\"...That's right.\" "
+    voice voice_file.lpdcat(12,85)
     lpdcat normal ""
 
 # game/script/12.rpy:747
@@ -1438,6 +1535,7 @@ translate polish s12_accept_02_comfort_46749051:
 
     # voice voice_file.lpdcat(12,86)
     # lpdcat laugh "\"Yep! I wouldn't {i}need{/i} \ to possess anyone anymore.\" "
+    voice voice_file.lpdcat(12,86)
     lpdcat laugh ""
 
 # game/script/12.rpy:751
@@ -1447,6 +1545,7 @@ translate polish s12_accept_02_comfort_f30b2da6:
     # lpdcat serious "\"But, even if I can stay here that won't stop me from going back to Miaoli. \" "
     # lpdcat serious "\"My Fudegong took me in as a yaoguai. I'm not about to just abandon them without saying thanks.\" "
     # lpdcat serious "\"That's why I've already decided that I'm going to see them, one last time.\" "
+    voice voice_file.lpdcat(12,87)
     lpdcat serious ""
 
 # game/script/12.rpy:753
@@ -1454,6 +1553,7 @@ translate polish s12_accept_02_comfort_f46a8c68:
 
     # voice voice_file.lpdcat(12,88)
     # lpdcat serious "\"I want to do everything I can until the end, so I can't stay in Taipei.\" "
+    voice voice_file.lpdcat(12,88)
     lpdcat serious ""
 
 # game/script/12.rpy:755
@@ -1462,6 +1562,7 @@ translate polish s12_accept_02_comfort_4fcf6a64:
     # voice voice_file.lpdcat(12,89)
     # lpdcat wronged "\"So... thank you for being so kind to me Liao. But, I have to leave.\" "
     # lpdcat wronged "\"I don't know how long I'll be gone.\" "
+    voice voice_file.lpdcat(12,89)
     lpdcat wronged ""
 
 # game/script/12.rpy:757
@@ -1469,6 +1570,7 @@ translate polish s12_accept_02_comfort_ca74c400:
 
     # voice voice_file.lpdcat(12,90)
     # lpdcat normal "\"If I ever get the chance, I'll come visit you. Then I'll be able to bother you for help as much as I like!\" "
+    voice voice_file.lpdcat(12,90)
     lpdcat normal ""
 
 # game/script/12.rpy:759
@@ -1482,6 +1584,7 @@ translate polish s12_accept_02_comfort_1421f252:
 
     # voice voice_file.lpdcat(12,91)
     # lpdcat laugh "\"Thanks Liao. I don't think it's gonna work... but I'm happy you found a way to try and help me.\" "
+    voice voice_file.lpdcat(12,91)
     lpdcat laugh ""
 
 # game/script/12.rpy:765
@@ -1489,6 +1592,7 @@ translate polish s12_accept_02_comfort_29dab567:
 
     # voice voice_file.lpdcat(12,92)
     # lpdcat wronged "\"...If only I wasn't a yaoguai.\" "
+    voice voice_file.lpdcat(12,92)
     lpdcat wronged ""
 
 # game/script/12.rpy:767
@@ -1496,6 +1600,7 @@ translate polish s12_accept_02_comfort_f5e28fe7:
 
     # voice voice_file.lpdcat(12,93)
     # lpdcat cry_1 "\"If I was just a human to begin with...\" "
+    voice voice_file.lpdcat(12,93)
     lpdcat cry_1 ""
 
 # game/script/12.rpy:769
@@ -1509,6 +1614,7 @@ translate polish s12_accept_02_comfort_e078c808:
 
     # voice voice_file.lpdcat(12,94)
     # lpdcat difficult "\"It's... nothing...\" "
+    voice voice_file.lpdcat(12,94)
     lpdcat difficult ""
 
 # game/script/12.rpy:777
@@ -1516,6 +1622,7 @@ translate polish s12_accept_02_comfort_05ef68a4:
 
     # voice voice_file.lpdcat(12,95)
     # lpdcat normal "\"Anyway... Thank you, Liao. Hehe.\" "
+    voice voice_file.lpdcat(12,95)
     lpdcat normal ""
 
 # game/script/12.rpy:783
@@ -1529,6 +1636,7 @@ translate polish s12_accept_02_comfort_3094ab52:
 
     # voice voice_file.lpdcat(12,96)
     # lpdcat wronged "\"Mm-hmm... Thank you.\" "
+    voice voice_file.lpdcat(12,96)
     lpdcat wronged ""
 
 # game/script/12.rpy:787
@@ -1548,6 +1656,7 @@ translate polish s12_accept_03_26f0205f:
 
     # voice voice_file.lpdcat(12,97)
     # lpdcat pout "\"How could I feel better!\" "
+    voice voice_file.lpdcat(12,97)
     lpdcat pout ""
 
 # game/script/12.rpy:798
@@ -1555,6 +1664,7 @@ translate polish s12_accept_03_415e966d:
 
     # voice voice_file.lpdcat(12,98)
     # lpdcat serious "\"...Yeah, I'm alright.\" "
+    voice voice_file.lpdcat(12,98)
     lpdcat serious ""
 
 # game/script/12.rpy:800
@@ -1562,6 +1672,7 @@ translate polish s12_accept_03_088aee46:
 
     # voice voice_file.lpdcat(12,99)
     # lpdcat wronged "\"Hey... Liao... it's a bit hard to ask... but...\" "
+    voice voice_file.lpdcat(12,99)
     lpdcat wronged ""
 
 # game/script/12.rpy:807
@@ -1569,6 +1680,7 @@ translate polish s12_accept_03_6f55c1cb:
 
     # voice voice_file.lpdcat(12,100)
     # lpdcat serious "\"Can you come home with me, just this once?\" "
+    voice voice_file.lpdcat(12,100)
     lpdcat serious ""
 
 # game/script/12.rpy:809
@@ -1582,6 +1694,7 @@ translate polish s12_accept_03_0a049141:
 
     # voice voice_file.lpdcat(12,101)
     # lpdcat serious "\"No— No, I mean my college apartment. If it's okay, I'd like you to come.\" "
+    voice voice_file.lpdcat(12,101)
     lpdcat serious ""
 
 # game/script/12.rpy:813
@@ -1607,6 +1720,7 @@ translate polish s12_accept_04_go_740953d0:
 
     # voice voice_file.lpdcat(12,102)
     # lpdcat wronged "\"Not in the mood...\" "
+    voice voice_file.lpdcat(12,102)
     lpdcat wronged ""
 
 # game/script/12.rpy:839
@@ -1620,6 +1734,7 @@ translate polish s12_accept_04_go_25f07809:
 
     # voice voice_file.lpdcat(12,103)
     # lpdcat serious "\"Yep.\" "
+    voice voice_file.lpdcat(12,103)
     lpdcat serious ""
 
 # game/script/12.rpy:847
@@ -1666,6 +1781,7 @@ translate polish s12_accept_04_go_f67fb560:
 
     # voice voice_file.lpdcat(12,104)
     # lpdcat normal "\"Oh... It's raining.\" "
+    voice voice_file.lpdcat(12,104)
     lpdcat normal ""
 
 # game/script/12.rpy:871
@@ -1679,6 +1795,7 @@ translate polish s12_accept_04_go_45bb16ab:
 
     # voice voice_file.lpdcat(12,105)
     # lpdcat laugh "\"Ha-hah... It really fits the mood doesn't it?\" "
+    voice voice_file.lpdcat(12,105)
     lpdcat laugh ""
 
 # game/script/12.rpy:877
@@ -1698,6 +1815,7 @@ translate polish s12_accept_04_go_0ddb3cdc:
 
     # voice voice_file.lpdcat(12,106)
     # lpdcat serious "\"Well, I can't really promise that. It's not like I'd have Yan Shu-Chi's money at that point. It'd be difficult...\" "
+    voice voice_file.lpdcat(12,106)
     lpdcat serious ""
 
 # game/script/12.rpy:885
@@ -1711,6 +1829,7 @@ translate polish s12_accept_04_go_ba9718a4:
 
     # voice voice_file.lpdcat(12,107)
     # lpdcat normal "\"Liao, you're coming to Miaoli with me?\" "
+    voice voice_file.lpdcat(12,107)
     lpdcat normal ""
 
 # game/script/12.rpy:889
@@ -1724,6 +1843,7 @@ translate polish s12_accept_04_go_24efd734:
 
     # voice voice_file.lpdcat(12,108)
     # lpdcat laugh "\"Because of what I just told you?\" "
+    voice voice_file.lpdcat(12,108)
     lpdcat laugh ""
 
 # game/script/12.rpy:895
@@ -1737,6 +1857,7 @@ translate polish s12_accept_04_go_1a4a8f63:
 
     # voice voice_file.lpdcat(12,109)
     # lpdcat normal "\"You've always known that I needed you help... but you didn't know what it really meant before now, huh?\" "
+    voice voice_file.lpdcat(12,109)
     lpdcat normal ""
 
 # game/script/12.rpy:899
@@ -1751,6 +1872,7 @@ translate polish s12_accept_04_go_43eb84cc:
     # voice voice_file.lpdcat(12,110)
     # lpdcat laugh "\"Liao, I'm really glad to hear that you're even thinking about it.\" "
     # lpdcat laugh "\"Just don't rush it, okay? To regret me is the last thing I want for you.\" "
+    voice voice_file.lpdcat(12,110)
     lpdcat laugh ""
 
 # game/script/12.rpy:903
@@ -1770,6 +1892,7 @@ translate polish s12_accept_04_go_268289ee:
 
     # voice voice_file.lpdcat(12,111)
     # lpdcat normal "\"Heck, it's getting heavier! My place isn't that far, come on slowpoke!\" "
+    voice voice_file.lpdcat(12,111)
     lpdcat normal ""
 
 # game/script/12.rpy:914
@@ -1796,6 +1919,7 @@ translate polish s12_accept_04_go_fe70c37e:
 
     # voice voice_file.lpdcat(12,112)
     # lpdcat2 "\"...!\" "
+    voice voice_file.lpdcat(12,112)
     lpdcat2 ""
 
 # game/script/12.rpy:958
@@ -1803,6 +1927,7 @@ translate polish s12_accept_04_go_0ddfef3a:
 
     # voice voice_file.lpdcat(12,113)
     # lpdcat2 "\"...Liao! Liao!\" "
+    voice voice_file.lpdcat(12,113)
     lpdcat2 ""
 
 # game/script/12.rpy:960
@@ -1810,6 +1935,7 @@ translate polish s12_accept_04_go_9004d00d:
 
     # voice voice_file.lpdcat(12,114)
     # lpdcat2 "\"I'm so sorry...\" "
+    voice voice_file.lpdcat(12,114)
     lpdcat2 ""
 
 # game/script/12.rpy:974
@@ -1817,6 +1943,7 @@ translate polish cg_cry_after_accident_80c6a625:
 
     # voice voice_file.lpdcat(12,115)
     # lpdcat2 "\"In the end I...\" "
+    voice voice_file.lpdcat(12,115)
     lpdcat2 ""
 
 # game/script/12.rpy:977
@@ -1824,6 +1951,7 @@ translate polish cg_cry_after_accident_97d20f46:
 
     # voice voice_file.lpdcat(12,116)
     # lpdcat2 "\"If only I was... enough...\" "
+    voice voice_file.lpdcat(12,116)
     lpdcat2 ""
 
 # game/script/12.rpy:979
@@ -1831,6 +1959,7 @@ translate polish cg_cry_after_accident_1e108016:
 
     # voice voice_file.lpdcat(12,117)
     # lpdcat2 "\"Why...\" "
+    voice voice_file.lpdcat(12,117)
     lpdcat2 ""
 
 # game/script/12.rpy:985
@@ -1838,6 +1967,7 @@ translate polish cg_cry_after_accident_36dba2fd:
 
     # voice voice_file.lpdcat(12,118)
     # lpdcat2 "\"Ha... Hehe-heh...\" "
+    voice voice_file.lpdcat(12,118)
     lpdcat2 ""
 
 # game/script/12.rpy:997
@@ -1845,6 +1975,7 @@ translate polish cg_cry_after_accident_82cb099a:
 
     # voice voice_file.lpdcat(12,119)
     # lpdcat2 "\"It's already... already...\" "
+    voice voice_file.lpdcat(12,119)
     lpdcat2 ""
 
 # game/script/12.rpy:999
@@ -1852,6 +1983,7 @@ translate polish cg_cry_after_accident_90702505:
 
     # voice voice_file.lpdcat(12,120)
     # lpdcat2 "\"I-{w=0.2}I'm so sorry... Thank you...\" "
+    voice voice_file.lpdcat(12,120)
     lpdcat2 ""
 
 # game/script/12.rpy:1008
@@ -1865,6 +1997,7 @@ translate polish s12_accept_04_dont_go_4f9ee32c:
 
     # voice voice_file.lpdcat(12,121)
     # lpdcat pout "\"Whaaa— What's that old man got to do with this. And coming to my place isn't wandering around at all~\" "
+    voice voice_file.lpdcat(12,121)
     lpdcat pout ""
 
 # game/script/12.rpy:1017
@@ -1879,6 +2012,7 @@ translate polish s12_accept_04_dont_go_ecfa2438:
 
     # voice voice_file.lpdcat(12,122)
     # lpdcat not_reconcile "\"I need some comfort now!\" " with vshake
+    voice voice_file.lpdcat(12,122)
     lpdcat not_reconcile "" with vshake
 
 # game/script/12.rpy:1023
@@ -1886,6 +2020,7 @@ translate polish s12_accept_04_dont_go_85ef9083:
 
     # voice voice_file.lpdcat(12,123)
     # lpdcat pout "\"Hmm... Fine... I know what you mean. It's something we can do when we're feeling better..\" "
+    voice voice_file.lpdcat(12,123)
     lpdcat pout ""
 
 # game/script/12.rpy:1025
@@ -1893,6 +2028,7 @@ translate polish s12_accept_04_dont_go_7014f983:
 
     # voice voice_file.lpdcat(12,124)
     # lpdcat wronged "\"Well, I don't really want to stay here... I don't really feel like playing games.\" "
+    voice voice_file.lpdcat(12,124)
     lpdcat wronged ""
 
 # game/script/12.rpy:1027
@@ -1906,6 +2042,7 @@ translate polish s12_accept_04_dont_go_d7e93e3a:
 
     # voice voice_file.lpdcat(12,125)
     # lpdcat wronged "\"Yeah.\" "
+    voice voice_file.lpdcat(12,125)
     lpdcat wronged ""
 
 # game/script/12.rpy:1035
@@ -1920,6 +2057,7 @@ translate polish s12_accept_04_dont_go_5c1df2df:
 
     # voice voice_file.lpdcat(12,126)
     # lpdcat wronged "\"I guess this is the end...\" "
+    voice voice_file.lpdcat(12,126)
     lpdcat wronged ""
 
 # game/script/12.rpy:1041
@@ -1939,6 +2077,7 @@ translate polish s12_accept_04_dont_go_5be9c12d:
 
     # voice voice_file.lpdcat(12,127)
     # lpdcat serious "\"You need to go, don't you? It's getting late. I'm sure that the old man would just get on your back about it anyways.\" "
+    voice voice_file.lpdcat(12,127)
     lpdcat serious ""
 
 # game/script/12.rpy:1047
@@ -1976,6 +2115,7 @@ translate polish s12_accept_04_dont_go_0e00a9a3:
 
     # voice voice_file.tig(12,5)
     # tig normal "\"Oh? I was just worried. Don't mind me. I figured the kitten had noticed me so there was no purpose in hiding further.\" "
+    voice voice_file.tig(12,5)
     tig normal ""
 
 # game/script/12.rpy:1067
@@ -1983,6 +2123,7 @@ translate polish s12_accept_04_dont_go_f93c4647:
 
     # voice voice_file.lpdcat(12,128)
     # lpdcat pout "\"Ehh... I noticed you {i}ages{/i} \ ago. If you came any closer I would have been supper \npissed.\" "
+    voice voice_file.lpdcat(12,128)
     lpdcat pout ""
 
 # game/script/12.rpy:1069
@@ -1990,6 +2131,7 @@ translate polish s12_accept_04_dont_go_09207d95:
 
     # voice voice_file.tig(12,6)
     # tig normal "\"Hahaha— Terribly sorry. As a god I should not be involving myself in the relations of humans but I'm just so used to watching over Liao I couldn't leave it be.\" "
+    voice voice_file.tig(12,6)
     tig normal ""
 
 # game/script/12.rpy:1071
@@ -1997,6 +2139,7 @@ translate polish s12_accept_04_dont_go_4705bd2a:
 
     # voice voice_file.lpdcat(12,129)
     # lpdcat pout "\"I'm a god {i}and{/i} \ a human, aren't I?\" "
+    voice voice_file.lpdcat(12,129)
     lpdcat pout ""
 
 # game/script/12.rpy:1073
@@ -2005,6 +2148,7 @@ translate polish s12_accept_04_dont_go_bd775dfe:
     # voice voice_file.lpdcat(12,130)
     # lpdcat normal "\"Fine, I might as well head home anyway. \" "
     # lpdcat normal "\"I'll be going back to Miaoli soon... Liao, don't be surprised if you don't see me for a while, okay?\" "
+    voice voice_file.lpdcat(12,130)
     lpdcat normal ""
 
 # game/script/12.rpy:1075
@@ -2018,6 +2162,7 @@ translate polish s12_accept_04_dont_go_b7485ab2:
 
     # voice voice_file.lpdcat(12,131)
     # lpdcat laugh "\"See you some other time Liao.\" "
+    voice voice_file.lpdcat(12,131)
     lpdcat laugh ""
 
 # game/script/12.rpy:1083
@@ -2031,6 +2176,7 @@ translate polish s12_accept_04_dont_go_e5387bea:
 
     # voice voice_file.tig(12,7)
     # tig normal "\"...I believe we should head off now as well.\" "
+    voice voice_file.tig(12,7)
     tig normal ""
 
 # game/script/12.rpy:1090

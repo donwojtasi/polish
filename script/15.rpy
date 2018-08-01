@@ -5,6 +5,7 @@ translate polish s15_branch2_e3cbd4ff:
 
     # voice voice_file.tig(15,1)
     # tig frown "\"As much as I wish to protect you by myself... I am afraid that is beyond my reach.\" "
+    voice voice_file.tig(15,1)
     tig frown ""
 
 # game/script/15.rpy:8
@@ -12,6 +13,7 @@ translate polish s15_branch2_68874a9e:
 
     # voice voice_file.tig(15,2)
     # tig frown "\"Liao, it may be wise to seek the assistance of the City God.\" "
+    voice voice_file.tig(15,2)
     tig frown ""
 
 # game/script/15.rpy:11
@@ -26,6 +28,7 @@ translate polish s15_branch2_b43b3412:
     # voice voice_file.tig(15,3)
     # tig normal "\"Correct. The fox spirit from earlier claimed to associate with a City God. Which City God I am not sure, but {font=tl/None/NotoSansCJKtc-Bold.otf}Xia-Hai{/font} is the most prominent in Taipei.\" "
     # tig normal "\"Some obscure aborigine god known by scarce few would have little chance against them.\" "
+    voice voice_file.tig(15,3)
     tig normal ""
 
 # game/script/15.rpy:16
@@ -45,6 +48,7 @@ translate polish s15_branch2_e8e78385:
 
     # voice voice_file.tig(15,4)
     # tig normal "\"No matter what a good person in need of help would not be ignored. Once you are there they should protect you as a matter of upholding the peace of the temple. A simple solution.\" "
+    voice voice_file.tig(15,4)
     tig normal ""
 
 # game/script/15.rpy:22
@@ -58,6 +62,7 @@ translate polish s15_branch2_8c6a9dde:
 
     # voice voice_file.tig(15,5)
     # tig frown "\"Not unless he causes trouble, which he would be wise to not do.\" "
+    voice voice_file.tig(15,5)
     tig frown ""
 
 # game/script/15.rpy:28
@@ -71,6 +76,7 @@ translate polish s15_branch2_ad294856:
 
     # voice voice_file.tig(15,6)
     # tig nervous "\"...Do we really have time for this now? Your safety is more—\" " with vshake
+    voice voice_file.tig(15,6)
     tig nervous "" with vshake
 
 # game/script/15.rpy:50
@@ -102,6 +108,7 @@ translate polish s15_02_go_2a2408e5:
 
     # voice voice_file.tig(15,7)
     # tig normal "\"He wouldn't be able to make a move in front of so many people, this is safer.\" "
+    voice voice_file.tig(15,7)
     tig normal ""
 
 # game/script/15.rpy:68
@@ -121,6 +128,7 @@ translate polish s15_02_go_c2ca3386:
 
     # voice voice_file.tig(15,8)
     # tig normal "\"Don't worry. He has no use for physical transport and he wouldn't be able to find us on this train regardless.\" "
+    voice voice_file.tig(15,8)
     tig normal ""
 
 # game/script/15.rpy:74
@@ -140,6 +148,7 @@ translate polish s15_02_go_376046ba:
 
     # voice voice_file.tig(15,9)
     # tig frown "\"Liao, stop fretting. He attacked you first. It's his right to be disciplined for such actions. Fair enough if he retreats, but if he insists on harming you... he's asking for it.\" "
+    voice voice_file.tig(15,9)
     tig frown ""
 
 # game/script/15.rpy:80
@@ -178,6 +187,7 @@ translate polish s15_02_go_8541d47f:
 
     # voice voice_file.tig(15,10)
     # tig frown "\"If you were wise, you would not attack us on this sacred land. Surely the City God's twelve have their eyes on you by now. If you do insist on attacking, that is on you...\" "
+    voice voice_file.tig(15,10)
     tig frown ""
 
 # game/script/15.rpy:110
@@ -191,6 +201,7 @@ translate polish s15_02_go_074ff6b3:
 
     # voice voice_file.lpd(15,1)
     # lpd normal "\"I need Liao.\" "
+    voice voice_file.lpd(15,1)
     lpd normal ""
 
 # game/script/15.rpy:116
@@ -198,6 +209,7 @@ translate polish s15_02_go_b5565736:
 
     # voice voice_file.tig(15,11)
     # tig frown "\"You can't have him.\" "
+    voice voice_file.tig(15,11)
     tig frown ""
 
 # game/script/15.rpy:118
@@ -211,6 +223,7 @@ translate polish s15_02_go_3402fbfa:
 
     # voice voice_file.lpd(15,2)
     # lpd disappointed "\"Liao...\" "
+    voice voice_file.lpd(15,2)
     lpd disappointed ""
 
 # game/script/15.rpy:129
@@ -218,6 +231,7 @@ translate polish s15_02_go_c1102225:
 
     # voice voice_file.lpd(15,3)
     # lpd beg "\"Please.\" "
+    voice voice_file.lpd(15,3)
     lpd beg ""
 
 # game/script/15.rpy:132
@@ -243,6 +257,7 @@ translate polish cg_lpd_retreat_14cf556b:
 
     # voice voice_file.tig(15,12)
     # tig angry "\"Liao, enough. He tried to hurt you. On this land—after all that's happened—are you really going give him the time of day? He can't take you away. I will not allow it!\" "
+    voice voice_file.tig(15,12)
     tig angry ""
 
 # game/script/15.rpy:169
@@ -280,6 +295,7 @@ translate polish cg_lpd_retreat_0944edc8:
 
     # voice voice_file.lpd(15,4)
     # lpd eyes_close "\"......Okay.\" "
+    voice voice_file.lpd(15,4)
     lpd eyes_close ""
 
 # game/script/15.rpy:197
@@ -287,6 +303,7 @@ translate polish cg_lpd_retreat_ffe44058:
 
     # voice voice_file.lpd(15,5)
     # lpd normal "\"Liao, goodbye.\" "
+    voice voice_file.lpd(15,5)
     lpd normal ""
 
 # game/script/15.rpy:207
@@ -336,6 +353,7 @@ translate polish s15_02_go_02_f4796125:
 
     # voice voice_file.lpd(15,6)
     # lpd normal "\"I must... have Liao.\" "
+    voice voice_file.lpd(15,6)
     lpd normal ""
 
 # game/script/15.rpy:238
@@ -349,6 +367,7 @@ translate polish s15_02_go_02_c813d1e6:
 
     # voice voice_file.tig(15,13)
     # tig angry "\"You fool!\" "
+    voice voice_file.tig(15,13)
     tig angry ""
 
 # game/script/15.rpy:245
@@ -382,6 +401,7 @@ translate polish s15_02_dont_go_a21207c9:
 
     # voice voice_file.tig(15,14)
     # tig angry "\"He just attacked you!\" " with vshake
+    voice voice_file.tig(15,14)
     tig angry "" with vshake
 
 # game/script/15.rpy:266
@@ -395,6 +415,7 @@ translate polish s15_02_dont_go_db71b93e:
 
     # voice voice_file.tig(15,15)
     # tig angry "\"What if we are not?\" "
+    voice voice_file.tig(15,15)
     tig angry ""
 
 # game/script/15.rpy:270
@@ -414,6 +435,7 @@ translate polish s15_02_dont_go_5f4eeac9:
 
     # voice voice_file.tig(15,16)
     # tig angry "\"Don't be a fool! Liao, you are risking your own life!\" "
+    voice voice_file.tig(15,16)
     tig angry ""
 
 # game/script/15.rpy:281
@@ -439,6 +461,7 @@ translate polish s15_02_dont_go_76ef762a:
 
     # voice voice_file.tig(15,17)
     # tig frown "\"...What a foolish move. As I said, I cannot defeat him. If he attacks you again, saving you may be beyond my ability.\" "
+    voice voice_file.tig(15,17)
     tig frown ""
 
 # game/script/15.rpy:320
@@ -458,6 +481,7 @@ translate polish s15_02_dont_go_02_f2ea568a:
 
     # voice voice_file.tig(15,18)
     # tig normal "*sigh* \"Fine. If that is what you insist, I will be here with you.\" "
+    voice voice_file.tig(15,18)
     tig normal ""
 
 # game/script/15.rpy:326
@@ -465,6 +489,7 @@ translate polish s15_02_dont_go_02_84a1ef6b:
 
     # voice voice_file.tig(15,19)
     # tig frown "\"For now, I must focus and gather my strength. Even if it only increases our chances a little, it is what I must do. So do leave me be in the meantime.\" "
+    voice voice_file.tig(15,19)
     tig frown ""
 
 # game/script/15.rpy:331
@@ -544,6 +569,7 @@ translate polish s15_02_dont_go_02_4dd9cb9d:
 
     # voice voice_file.lpd(15,7)
     # lpd normal "\"Sorry...\" "
+    voice voice_file.lpd(15,7)
     lpd normal ""
 
 # game/script/15.rpy:375
@@ -551,6 +577,7 @@ translate polish s15_02_dont_go_02_dd958621:
 
     # voice voice_file.lpd(15,8)
     # lpd normal "\"Bear with me. It won't hurt long.\" "
+    voice voice_file.lpd(15,8)
     lpd normal ""
 
 # game/script/15.rpy:382
@@ -564,6 +591,7 @@ translate polish s15_02_dont_go_02_ea5116ec:
 
     # voice voice_file.tig(15,20)
     # tig frown "\"Do not mess this up. Liao wishes to question your intentions but I have no such trust in you. Should you attack us today the Han gods shall bring reckoning down upon you. So consider your actions carefully aborigine.\" "
+    voice voice_file.tig(15,20)
     tig frown ""
 
 # game/script/15.rpy:386
@@ -571,6 +599,7 @@ translate polish s15_02_dont_go_02_0ef4d699:
 
     # voice voice_file.lpd(15,9)
     # lpd normal "\"Liao's power important.\" "
+    voice voice_file.lpd(15,9)
     lpd normal ""
 
 # game/script/15.rpy:388
@@ -578,6 +607,7 @@ translate polish s15_02_dont_go_02_e2b186b9:
 
     # voice voice_file.tig(15,21)
     # tig frown "\"His power has naught to do with you or your plans.\" "
+    voice voice_file.tig(15,21)
     tig frown ""
 
 # game/script/15.rpy:390
@@ -603,6 +633,7 @@ translate polish s15_02_dont_go_02_04b2b248:
 
     # voice voice_file.lpd(15,10)
     # lpd obsessed "\"If Liao wants to help...\" "
+    voice voice_file.lpd(15,10)
     lpd obsessed ""
 
 # game/script/15.rpy:398
@@ -616,6 +647,7 @@ translate polish s15_02_dont_go_02_8bd77d1c:
 
     # voice voice_file.lpd(15,11)
     # lpd disappointed "\"Then I have to...\" "
+    voice voice_file.lpd(15,11)
     lpd disappointed ""
 
 # game/script/15.rpy:402
@@ -629,6 +661,7 @@ translate polish s15_02_dont_go_02_8285db1a:
 
     # voice voice_file.tig(15,22)
     # tig angry "\"To thieve Liao's spirit power will result in nothing but his death!\" "
+    voice voice_file.tig(15,22)
     tig angry ""
 
 # game/script/15.rpy:406
@@ -636,6 +669,7 @@ translate polish s15_02_dont_go_02_31c7e58e:
 
     # voice voice_file.lpd(15,12)
     # lpd normal "\"Won't die. I have a way.\" "
+    voice voice_file.lpd(15,12)
     lpd normal ""
 
 # game/script/15.rpy:408
@@ -643,6 +677,7 @@ translate polish s15_02_dont_go_02_46060353:
 
     # voice voice_file.tig(15,23)
     # tig angry "\"Don't spout such impossible lies to me! You don't even know the basic properties of the spirit!\" "
+    voice voice_file.tig(15,23)
     tig angry ""
 
 # game/script/15.rpy:410
@@ -656,6 +691,7 @@ translate polish s15_02_dont_go_02_d5f1a99d:
 
     # voice voice_file.lpd(15,13)
     # lpd obsessed "\"He say you would not listen.\" "
+    voice voice_file.lpd(15,13)
     lpd obsessed ""
 
 # game/script/15.rpy:423
@@ -669,6 +705,7 @@ translate polish s15_02_dont_go_02_561811d5:
 
     # voice voice_file.tig(15,24)
     # tig angry "\"Stop!\" " with vshake
+    voice voice_file.tig(15,24)
     tig angry "" with vshake
 
 # game/script/15.rpy:428
@@ -709,6 +746,7 @@ translate polish s15_02_dont_go_02_48f11475:
 
     # voice voice_file.lpd(15,14)
     # lpd disappointed "\"...I'm sorry.\" "
+    voice voice_file.lpd(15,14)
     lpd disappointed ""
 
 # game/script/15.rpy:448
@@ -772,6 +810,7 @@ translate polish s15_02_dont_go_02_66561306:
 
     # voice voice_file.lpd(15,15)
     # lpd disappointed "\"I'm sorry.\" "
+    voice voice_file.lpd(15,15)
     lpd disappointed ""
 
 # game/script/15.rpy:493
@@ -847,6 +886,7 @@ translate polish s15_02_dont_go_02_lpd_high_3cb7a0d7:
 
     # voice voice_file.lpd(15,16)
     # lpd normal "\"Liao, you are awake.\" "
+    voice voice_file.lpd(15,16)
     lpd normal ""
 
 # game/script/15.rpy:549
@@ -860,6 +900,7 @@ translate polish s15_02_dont_go_02_lpd_high_7268260c:
 
     # voice voice_file.lpd(15,17)
     # lpd normal "\"A cave.\" "
+    voice voice_file.lpd(15,17)
     lpd normal ""
 
 # game/script/15.rpy:553
@@ -873,6 +914,7 @@ translate polish s15_02_dont_go_02_lpd_high_146b7a99:
 
     # voice voice_file.lpd(15,18)
     # lpd obsessed "\"I... brought you here.\" "
+    voice voice_file.lpd(15,18)
     lpd obsessed ""
 
 # game/script/15.rpy:557
@@ -886,6 +928,7 @@ translate polish s15_02_dont_go_02_lpd_high_73c51373:
 
     # voice voice_file.lpd(15,19)
     # lpd normal "\"Spirit path.\" "
+    voice voice_file.lpd(15,19)
     lpd normal ""
 
 # game/script/15.rpy:561
@@ -911,6 +954,7 @@ translate polish s15_02_dont_go_02_lpd_high_1d9200ea:
 
     # voice voice_file.lpd(15,20)
     # lpd normal "\"To convince you.\" "
+    voice voice_file.lpd(15,20)
     lpd normal ""
 
 # game/script/15.rpy:569
@@ -960,6 +1004,7 @@ translate polish s15_02_dont_go_02_lpd_high_31bc419f:
 
     # voice voice_file.lpd(15,21)
     # lpd normal "\"He's fine.\" "
+    voice voice_file.lpd(15,21)
     lpd normal ""
 
 # game/script/15.rpy:591
@@ -985,6 +1030,7 @@ translate polish s15_02_dont_go_02_lpd_high_af4644ce:
 
     # voice voice_file.lpd(15,22)
     # lpd normal "\"He's here.\" " with flash
+    voice voice_file.lpd(15,22)
     lpd normal "" with flash
 
 # game/script/15.rpy:600
@@ -998,6 +1044,7 @@ translate polish s15_02_dont_go_02_lpd_high_54de20f0:
 
     # voice voice_file.lpd(15,23)
     # lpd normal "\"Too weak. You can not see.\" "
+    voice voice_file.lpd(15,23)
     lpd normal ""
 
 # game/script/15.rpy:604
@@ -1030,6 +1077,7 @@ translate polish s15_02_dont_go_02_lpd_high_1b8b97ed:
 
     # voice  voice_file.lpd(15,21)
     # lpd obsessed "\"He's fine.\" "
+    voice  voice_file.lpd(15,21)
     lpd obsessed ""
 
 # game/script/15.rpy:618
@@ -1037,6 +1085,7 @@ translate polish s15_02_dont_go_02_lpd_high_db2a60cc:
 
     # voice voice_file.lpd(15,24)
     # lpd obsessed "\"His statue. Broken, but ok.\" "
+    voice voice_file.lpd(15,24)
     lpd obsessed ""
 
 # game/script/15.rpy:620
@@ -1044,6 +1093,7 @@ translate polish s15_02_dont_go_02_lpd_high_ff2efaca:
 
     # voice voice_file.lpd(15,25)
     # lpd obsessed "\"Just weak. You can not see.\" "
+    voice voice_file.lpd(15,25)
     lpd obsessed ""
 
 # game/script/15.rpy:622
@@ -1057,6 +1107,7 @@ translate polish s15_02_dont_go_02_lpd_high_fbac1f87:
 
     # voice voice_file.lpd(15,26)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(15,26)
     lpd normal ""
 
 # game/script/15.rpy:626
@@ -1088,6 +1139,7 @@ translate polish s15_02_dont_go_02_lpd_high_7bda2ff2:
 
     # voice voice_file.lpd(15,27)
     # lpd disappointed "\"Keep broken. Will disappear.\" "
+    voice voice_file.lpd(15,27)
     lpd disappointed ""
 
 # game/script/15.rpy:636
@@ -1101,6 +1153,7 @@ translate polish s15_02_dont_go_02_lpd_high_8bd441b6:
 
     # voice voice_file.lpd(15,28)
     # lpd normal "\"Takes long time. You remember him. You don't forget. He won't disappear. Don't worry.\" "
+    voice voice_file.lpd(15,28)
     lpd normal ""
 
 # game/script/15.rpy:643
@@ -1120,6 +1173,7 @@ translate polish s15_02_dont_go_02_lpd_high_de0d421f:
 
     # voice voice_file.lpd(15,29)
     # lpd normal "\"I want...\" "
+    voice voice_file.lpd(15,29)
     lpd normal ""
 
 # game/script/15.rpy:649
@@ -1127,6 +1181,7 @@ translate polish s15_02_dont_go_02_lpd_high_f356ae34:
 
     # voice voice_file.lpd(15,30)
     # lpd normal "\"Liao's power.\" "
+    voice voice_file.lpd(15,30)
     lpd normal ""
 
 # game/script/15.rpy:651
@@ -1140,6 +1195,7 @@ translate polish s15_02_dont_go_02_lpd_high_f9deba50:
 
     # voice voice_file.lpd(15,31)
     # lpd obsessed "\"Take power away. Liao can't see.\" "
+    voice voice_file.lpd(15,31)
     lpd obsessed ""
 
 # game/script/15.rpy:655
@@ -1153,6 +1209,7 @@ translate polish s15_02_dont_go_02_lpd_high_850055e3:
 
     # voice voice_file.lpd(15,32)
     # lpd obsessed "\"Can't see me.\" "
+    voice voice_file.lpd(15,32)
     lpd obsessed ""
 
 # game/script/15.rpy:659
@@ -1178,6 +1235,7 @@ translate polish s15_02_dont_go_02_lpd_high_75c7bf34:
 
     # voice voice_file.lpd(15,33)
     # lpd normal "\"I want Liao's power.\" "
+    voice voice_file.lpd(15,33)
     lpd normal ""
 
 # game/script/15.rpy:667
@@ -1185,6 +1243,7 @@ translate polish s15_02_dont_go_02_lpd_high_dd7573ce:
 
     # voice voice_file.lpd(15,34)
     # lpd normal "\"I also want Liao to see me.\" "
+    voice voice_file.lpd(15,34)
     lpd normal ""
 
 # game/script/15.rpy:669
@@ -1204,6 +1263,7 @@ translate polish s15_02_dont_go_02_lpd_high_cd996cfd:
 
     # voice voice_file.lpd(15,35)
     # lpd obsessed "\"I don't know. But I want.\" "
+    voice voice_file.lpd(15,35)
     lpd obsessed ""
 
 # game/script/15.rpy:678
@@ -1229,6 +1289,7 @@ translate polish s15_02_dont_go_02_lpd_high_3dc0c2e5:
 
     # voice voice_file.lpd(15,36)
     # lpd obsessed "\"Still... I want.\" "
+    voice voice_file.lpd(15,36)
     lpd obsessed ""
 
 # game/script/15.rpy:686
@@ -1236,6 +1297,7 @@ translate polish s15_02_dont_go_02_lpd_high_3a72c4f9:
 
     # voice voice_file.lpd(15,37)
     # lpd disappointed "\"Don't want... Never see Liao again.\" "
+    voice voice_file.lpd(15,37)
     lpd disappointed ""
 
 # game/script/15.rpy:688
@@ -1279,6 +1341,7 @@ translate polish s15_02_dont_go_02_lpd_high_f5814b5c:
 
     # voice voice_file.lpd(15,38)
     # lpd normal "\"Disappear\" "
+    voice voice_file.lpd(15,38)
     lpd normal ""
 
 # game/script/15.rpy:702
@@ -1292,6 +1355,7 @@ translate polish s15_02_dont_go_02_lpd_high_a8217497:
 
     # voice voice_file.lpd(15,39)
     # lpd normal "\"Liao disappear. Come to Wutai. They not know.\" "
+    voice voice_file.lpd(15,39)
     lpd normal ""
 
 # game/script/15.rpy:706
@@ -1317,6 +1381,7 @@ translate polish s15_02_dont_go_02_lpd_high_0847f8ee:
 
     # voice voice_file.lpd(15,40)
     # lpd surprise "\"Internet... important?\" "
+    voice voice_file.lpd(15,40)
     lpd surprise ""
 
 # game/script/15.rpy:719
@@ -1355,6 +1420,7 @@ translate polish s15_02_dont_go_02_lpd_high_27daafc6:
 
     # voice voice_file.lpd(15,41)
     # lpd disappointed "\"Liao... can't?\" "
+    voice voice_file.lpd(15,41)
     lpd disappointed ""
 
 # game/script/15.rpy:733
@@ -1380,6 +1446,7 @@ translate polish s15_02_dont_go_02_lpd_high_1faa9ca8:
 
     # voice voice_file.lpd(15,42)
     # lpd disappointed "\"Liao... won't accept...\" "
+    voice voice_file.lpd(15,42)
     lpd disappointed ""
 
 # game/script/15.rpy:741
@@ -1387,6 +1454,7 @@ translate polish s15_02_dont_go_02_lpd_high_d0967ea1:
 
     # voice voice_file.lpd(15,43)
     # lpd disappointed "\"Ask first.\" "
+    voice voice_file.lpd(15,43)
     lpd disappointed ""
 
 # game/script/15.rpy:743
@@ -1448,6 +1516,7 @@ translate polish s15_02_dont_go_02_lpd_high_6143cbb3:
 
     # voice voice_file.lpd(15,44)
     # lpd obsessed "\"No.\" " with flash
+    voice voice_file.lpd(15,44)
     lpd obsessed "" with flash
 
 # game/script/15.rpy:778
@@ -1461,6 +1530,7 @@ translate polish s15_02_dont_go_02_lpd_high_120ca8d1:
 
     # voice voice_file.lpd(15,45)
     # lpd normal "\"Liao goes to Wutai. Have to.\" "
+    voice voice_file.lpd(15,45)
     lpd normal ""
 
 # game/script/15.rpy:783
@@ -1474,6 +1544,7 @@ translate polish s15_02_dont_go_02_lpd_high_48399d1d:
 
     # voice voice_file.lpd(15,46)
     # lpd normal "\"I wait for Liao. Until Liao says yes.\" "
+    voice voice_file.lpd(15,46)
     lpd normal ""
 
 # game/script/15.rpy:787
@@ -1523,6 +1594,7 @@ translate polish s15_02_dont_go_02_lpd_high_32cb3022:
 
     # voice voice_file.lpd(15,47)
     # lpd normal "\"I hide Liao.\" "
+    voice voice_file.lpd(15,47)
     lpd normal ""
 
 # game/script/15.rpy:809
@@ -1530,6 +1602,7 @@ translate polish s15_02_dont_go_02_lpd_high_277ca6bd:
 
     # voice voice_file.lpd(15,48)
     # lpd normal "\"No internet.\" "
+    voice voice_file.lpd(15,48)
     lpd normal ""
 
 # game/script/15.rpy:811
@@ -1537,6 +1610,7 @@ translate polish s15_02_dont_go_02_lpd_high_97e9081c:
 
     # voice voice_file.lpd(15,49)
     # lpd normal "\"No one knows.\" "
+    voice voice_file.lpd(15,49)
     lpd normal ""
 
 # game/script/15.rpy:813
@@ -1550,6 +1624,7 @@ translate polish s15_02_dont_go_02_lpd_high_df36f0b3:
 
     # voice voice_file.lpd(15,50)
     # lpd normal "\"I find Liao. New oracle. Not a Han. They don't know.\" "
+    voice voice_file.lpd(15,50)
     lpd normal ""
 
 # game/script/15.rpy:817
@@ -1569,6 +1644,7 @@ translate polish s15_02_dont_go_02_lpd_high_50648d15:
 
     # voice voice_file.lpd(15,51)
     # lpd obsessed "\"Must be Liao.\" "
+    voice voice_file.lpd(15,51)
     lpd obsessed ""
 
 # game/script/15.rpy:823
@@ -1576,6 +1652,7 @@ translate polish s15_02_dont_go_02_lpd_high_da64f616:
 
     # voice voice_file.lpd(15,52)
     # lpd obsessed "\"Typhoon coming.\" "
+    voice voice_file.lpd(15,52)
     lpd obsessed ""
 
 # game/script/15.rpy:825
@@ -1595,6 +1672,7 @@ translate polish s15_02_dont_go_02_lpd_high_8e34f0f6:
 
     # voice voice_file.lpd(15,53)
     # lpd normal "\"No.\" "
+    voice voice_file.lpd(15,53)
     lpd normal ""
 
 # game/script/15.rpy:836
@@ -1651,6 +1729,7 @@ translate polish s15_02_dont_go_02_lpd_high_8c001a16:
 
     # voice voice_file.lpd(15,54)
     # lpd happy "\"Liao, take your time.\" "
+    voice voice_file.lpd(15,54)
     lpd happy ""
 
 # game/script/15.rpy:858
@@ -1658,6 +1737,7 @@ translate polish s15_02_dont_go_02_lpd_high_4cf7802b:
 
     # voice voice_file.lpd(15,55)
     # lpd happy "\"I find food for Liao.\" "
+    voice voice_file.lpd(15,55)
     lpd happy ""
 
 # game/script/15.rpy:863
@@ -1760,6 +1840,7 @@ translate polish s15_02_dont_go_02_lpd_high_773e2d94:
 
     # voice voice_file.lpd(15,56)
     # lpd obsessed "\"Liao, very cold?\" "
+    voice voice_file.lpd(15,56)
     lpd obsessed ""
 
 # game/script/15.rpy:907
@@ -1785,6 +1866,7 @@ translate polish s15_02_dont_go_02_lpd_high_c92ad286:
 
     # voice voice_file.lpd(15,57)
     # lpd normal "\"...Liao, wait for me.\" "
+    voice voice_file.lpd(15,57)
     lpd normal ""
 
 # game/script/15.rpy:927
@@ -1798,6 +1880,7 @@ translate polish s15_02_dont_go_02_lpd_high_616516a8:
 
     # voice voice_file.lpd(15,58)
     # lpd normal "\"Don't run.\" "
+    voice voice_file.lpd(15,58)
     lpd normal ""
 
 # game/script/15.rpy:939
@@ -2075,6 +2158,7 @@ translate polish s15_02_dont_go_02_runaway_b6fa3263:
 
     # voice voice_file.lpd(15,59)
     # lpd disappointed "\"Liao silly.\" "
+    voice voice_file.lpd(15,59)
     lpd disappointed ""
 
 # game/script/15.rpy:1099
@@ -2094,6 +2178,7 @@ translate polish s15_02_dont_go_02_runaway_cb5c5e27:
 
     # voice voice_file.lpd(15,60)
     # lpd disappointed "\"Liao silly. Want to go.\" "
+    voice voice_file.lpd(15,60)
     lpd disappointed ""
 
 # game/script/15.rpy:1105
@@ -2107,6 +2192,7 @@ translate polish s15_02_dont_go_02_runaway_ab0a8201:
 
     # voice voice_file.lpd(15,61)
     # lpd normal "\"Go home.\" "
+    voice voice_file.lpd(15,61)
     lpd normal ""
 
 # game/script/15.rpy:1109
@@ -2114,6 +2200,7 @@ translate polish s15_02_dont_go_02_runaway_6ce27bb5:
 
     # voice voice_file.lpd(15,62)
     # lpd normal "\"Let's go home.\" "
+    voice voice_file.lpd(15,62)
     lpd normal ""
 
 # game/script/15.rpy:1113
@@ -2207,6 +2294,7 @@ translate polish s15_02_dont_go_02_stay_89cc1469:
 
     # voice voice_file.lpd(15,63)
     # lpd normal "\"...Liao.\" "
+    voice voice_file.lpd(15,63)
     lpd normal ""
 
 # game/script/15.rpy:1160
@@ -2214,6 +2302,7 @@ translate polish s15_02_dont_go_02_stay_66561306:
 
     # voice voice_file.lpd(15,64)
     # lpd disappointed "\"Sorry.\" "
+    voice voice_file.lpd(15,64)
     lpd disappointed ""
 
 # game/script/15.rpy:1162
@@ -2227,6 +2316,7 @@ translate polish s15_02_dont_go_02_stay_8e34f0f6:
 
     # voice  voice_file.lpd(15,53)
     # lpd normal "\"No.\" "
+    voice  voice_file.lpd(15,53)
     lpd normal ""
 
 # game/script/15.rpy:1169
@@ -2240,6 +2330,7 @@ translate polish s15_02_dont_go_02_stay_d3fae10f:
 
     # voice voice_file.lpd(15,65)
     # lpd normal "\"Need Liao. Really.\" "
+    voice voice_file.lpd(15,65)
     lpd normal ""
 
 # game/script/15.rpy:1173
@@ -2271,6 +2362,7 @@ translate polish s15_02_dont_go_02_stay_67eabdc8:
 
     # voice voice_file.lpd(15,66)
     # lpd normal "\"Liao think in Wutai.\" "
+    voice voice_file.lpd(15,66)
     lpd normal ""
 
 # game/script/15.rpy:1183
@@ -2346,6 +2438,7 @@ translate polish s15_02_dont_go_02_stay_f573a3bf:
 
     # voice voice_file.tig(15,25)
     # question "\"......!\" " with flash
+    voice voice_file.tig(15,25)
     question "" with flash
 
 # game/script/15.rpy:1222
@@ -2353,6 +2446,7 @@ translate polish s15_02_dont_go_02_stay_288db13c:
 
     # voice voice_file.tig(15,26)
     # question "\"...Liao! Liao!\" " with flash
+    voice voice_file.tig(15,26)
     question "" with flash
 
 # game/script/15.rpy:1224
@@ -2372,6 +2466,7 @@ translate polish s15_02_dont_go_02_stay_54c538d0:
 
     # voice voice_file.tig(15,27)
     # tig frown "\"Liao, are you able to hear me?\" "
+    voice voice_file.tig(15,27)
     tig frown ""
 
 # game/script/15.rpy:1236
@@ -2385,6 +2480,7 @@ translate polish s15_02_dont_go_02_stay_18d30216:
 
     # voice voice_file.tig(15,28)
     # tig frown "\"It would be false to say that I was. But that is not vital right now. I lack the strength to appear through your dreams for long.\" "
+    voice voice_file.tig(15,28)
     tig frown ""
 
 # game/script/15.rpy:1242
@@ -2398,6 +2494,7 @@ translate polish s15_02_dont_go_02_stay_a6b51e20:
 
     # voice voice_file.tig(15,29)
     # tig frown "\"Yes. Listen carefully.\" "
+    voice voice_file.tig(15,29)
     tig frown ""
 
 # game/script/15.rpy:1249
@@ -2405,6 +2502,7 @@ translate polish s15_02_dont_go_02_stay_142e6443:
 
     # voice voice_file.tig(15,30)
     # tig frown "\"I've contacted the local {font=tl/None/NotoSansCJKtc-Bold.otf}god of soil{/font} and asked him to help disrupt the spirit paths in this area.\" "
+    voice voice_file.tig(15,30)
     tig frown ""
 
 # game/script/15.rpy:1251
@@ -2412,6 +2510,7 @@ translate polish s15_02_dont_go_02_stay_5a12b10f:
 
     # voice voice_file.tig(15,31)
     # tig normal "\"The aborigine may be able to use them by himself, but they're certainly too unstable to take you along with him.\" "
+    voice voice_file.tig(15,31)
     tig normal ""
 
 # game/script/15.rpy:1253
@@ -2419,6 +2518,7 @@ translate polish s15_02_dont_go_02_stay_ea98dd5c:
 
     # voice voice_file.tig(15,32)
     # tig normal "\"He cannot take you now. Just walk home yourself.\" "
+    voice voice_file.tig(15,32)
     tig normal ""
 
 # game/script/15.rpy:1255
@@ -2432,6 +2532,7 @@ translate polish s15_02_dont_go_02_stay_72e8f1ce:
 
     # voice voice_file.tig(15,33)
     # tig normal "\"You're in the {font=tl/None/NotoSansCJKtc-Bold.otf}Fuxing township in Taoyuan{/font}. Be careful and Head northwest for one hour and you will find buses.\" "
+    voice voice_file.tig(15,33)
     tig normal ""
 
 # game/script/15.rpy:1260
@@ -2439,6 +2540,7 @@ translate polish s15_02_dont_go_02_stay_a3e42a47:
 
     # voice voice_file.tig(15,34)
     # tig frown "\"After all, I just came that way. Now, watch out for road signs pointing back...\" "
+    voice voice_file.tig(15,34)
     tig frown ""
 
 # game/script/15.rpy:1265
@@ -2452,6 +2554,7 @@ translate polish s15_02_dont_go_02_stay_54ce6aa3:
 
     # voice voice_file.tig(15,35)
     # tig normal "\"Now, remember all that?\" "
+    voice voice_file.tig(15,35)
     tig normal ""
 
 # game/script/15.rpy:1272
@@ -2459,6 +2562,7 @@ translate polish s15_02_dont_go_02_stay_e9cfa647:
 
     # voice voice_file.tig(15,36)
     # tig normal "\"Leave at dawn and be careful Liao. The mountains are fraught with danger if you are not cautious.\" "
+    voice voice_file.tig(15,36)
     tig normal ""
 
 # game/script/15.rpy:1276
@@ -2466,6 +2570,7 @@ translate polish s15_02_dont_go_02_stay_c62f4c8e:
 
     # voice voice_file.tig(15,37)
     # tig normal "\"Well, it appears my time is up...\" "
+    voice voice_file.tig(15,37)
     tig normal ""
 
 # game/script/15.rpy:1278
@@ -2479,6 +2584,7 @@ translate polish s15_02_dont_go_02_stay_927d3894:
 
     # voice voice_file.tig(15,38)
     # tig laugh_1 "\"Just fix my statue when you are back. Remember to take it home. Then...\" "
+    voice voice_file.tig(15,38)
     tig laugh_1 ""
 
 # game/script/15.rpy:1284
@@ -2492,6 +2598,7 @@ translate polish s15_02_dont_go_02_stay_775645a7:
 
     # voice voice_file.tig(15,39)
     # tig normal "\"...until next time. Take care!\" "
+    voice voice_file.tig(15,39)
     tig normal ""
 
 # game/script/15.rpy:1288
@@ -2560,6 +2667,7 @@ translate polish s15_02_dont_go_02_stay_47ae4216:
 
     # voice voice_file.lpd(15,67)
     # lpd normal "\"Liao...\" "
+    voice voice_file.lpd(15,67)
     lpd normal ""
 
 # game/script/15.rpy:1326
@@ -2573,6 +2681,7 @@ translate polish s15_02_dont_go_02_stay_4f7d54c1:
 
     # voice voice_file.lpd(15,68)
     # lpd obsessed "\"Leave?\" "
+    voice voice_file.lpd(15,68)
     lpd obsessed ""
 
 # game/script/15.rpy:1333
@@ -2628,6 +2737,7 @@ translate polish s15_02_dont_go_02_stay_a4b504eb:
 
     # voice voice_file.lpd(15,69)
     # lpd panic "\"Liao......\" "
+    voice voice_file.lpd(15,69)
     lpd panic ""
 
 # game/script/15.rpy:1351
@@ -2635,6 +2745,7 @@ translate polish s15_02_dont_go_02_stay_e81a2a78:
 
     # voice voice_file.lpd(15,70)
     # lpd beg "\"Don't go.\" " with vshake
+    voice voice_file.lpd(15,70)
     lpd beg "" with vshake
 
 # game/script/15.rpy:1353
@@ -2901,6 +3012,7 @@ translate polish cg_lpd_cry_328d8255:
 
     # voice voice_file.lpd(15,72)
     # lpd cry "\"...Liao?\" "
+    voice voice_file.lpd(15,72)
     lpd cry ""
 
 # game/script/15.rpy:1499
@@ -2908,6 +3020,7 @@ translate polish cg_lpd_cry_26455ebc:
 
     # voice  voice_file.lpd(15,73)
     # lpd cry "\"Liao...\" "
+    voice  voice_file.lpd(15,73)
     lpd cry ""
 
 # game/script/15.rpy:1501
@@ -2921,6 +3034,7 @@ translate polish cg_lpd_cry_26455ebc_1:
 
     # voice  voice_file.lpd(15,73)
     # lpd cry "\"Liao...\" "
+    voice  voice_file.lpd(15,73)
     lpd cry ""
 
 # game/script/15.rpy:1505
@@ -2946,6 +3060,7 @@ translate polish cg_lpd_cry_2b3cdcc6:
 
     # voice voice_file.lpd(15,74)
     # lpd cry_laugh "\"Glad.\" "
+    voice voice_file.lpd(15,74)
     lpd cry_laugh ""
 
 # game/script/15.rpy:1513
@@ -3056,6 +3171,7 @@ translate polish cg_lpd_cry_fce5e9ba:
 
     # voice voice_file.lpd(15,75)
     # lpd cry_laugh "\"Yes.\" "
+    voice voice_file.lpd(15,75)
     lpd cry_laugh ""
 
 # game/script/15.rpy:1554
@@ -3063,6 +3179,7 @@ translate polish cg_lpd_cry_600236d0:
 
     # voice voice_file.lpd(15,76)
     # lpd cry_laugh "\"Whatever Liao says is good.\" "
+    voice voice_file.lpd(15,76)
     lpd cry_laugh ""
 
 # game/script/15.rpy:1556
@@ -3076,6 +3193,7 @@ translate polish cg_lpd_cry_e7d55859:
 
     # voice voice_file.lpd(15,77)
     # lpd cry_laugh "\"I am sorry.\" "
+    voice voice_file.lpd(15,77)
     lpd cry_laugh ""
 
 # game/script/15.rpy:1560
@@ -3101,6 +3219,7 @@ translate polish cg_lpd_cry_fce5e9ba_1:
 
     # voice voice_file.lpd(15,78)
     # lpd cry_laugh "\"Yes.\" "
+    voice voice_file.lpd(15,78)
     lpd cry_laugh ""
 
 # game/script/15.rpy:1568
@@ -3114,6 +3233,7 @@ translate polish cg_lpd_cry_0cf05407:
 
     # voice voice_file.lpd(15,79)
     # lpd cry_normal "\"No spirit path.\" "
+    voice voice_file.lpd(15,79)
     lpd cry_normal ""
 
 # game/script/15.rpy:1572
@@ -3145,6 +3265,7 @@ translate polish cg_lpd_cry_fbabc542:
 
     # voice voice_file.lpd(15,80)
     # lpd cry_normal "\"I carry you.\" "
+    voice voice_file.lpd(15,80)
     lpd cry_normal ""
 
 # game/script/15.rpy:1586
@@ -3158,6 +3279,7 @@ translate polish cg_lpd_cry_3fcf48a4:
 
     # voice voice_file.lpd(15,81)
     # lpd cry_normal "\"Tiring.\" "
+    voice voice_file.lpd(15,81)
     lpd cry_normal ""
 
 # game/script/15.rpy:1590
@@ -3165,6 +3287,7 @@ translate polish cg_lpd_cry_e97a2b1c:
 
     # voice voice_file.lpd(15,82)
     # lpd cry_normal "\"But okay. For Liao.\" "
+    voice voice_file.lpd(15,82)
     lpd cry_normal ""
 
 # game/script/15.rpy:1598
@@ -3184,6 +3307,7 @@ translate polish cg_lpd_cry_78df0914:
 
     # voice voice_file.lpd(15,83)
     # lpd happy "\"Will be okay.\" "
+    voice voice_file.lpd(15,83)
     lpd happy ""
 
 # game/script/15.rpy:1604

@@ -11,6 +11,7 @@ translate polish s17_branch4_r18_2cf81efc:
 
     # voice  voice_file.tig("17N",1)
     # tig frown "\"If I must say it— Leopard needs to amplify his powers. In order to accomplish this an oracle needs to act as his conduit. You are suitable for this role. But as I described before...\" "
+    voice  voice_file.tig("17N",1)
     tig frown ""
 
 # game/script/17_r18.rpy:7
@@ -18,6 +19,7 @@ translate polish s17_branch4_r18_d89429e7:
 
     # voice  voice_file.tig("17N",2)
     # tig frown "\"You need to trust Leopard and allow him to release his power... through your body. Which involves...\" "
+    voice  voice_file.tig("17N",2)
     tig frown ""
 
 # game/script/17_r18.rpy:9
@@ -25,6 +27,7 @@ translate polish s17_branch4_r18_65181481:
 
     # voice voice_file.tig("17L",1)
     # tig embarrassed "\"...You know. You need to do, {i}that{/i}.\" "
+    voice voice_file.tig("17L",1)
     tig embarrassed ""
 
 # game/script/17_r18.rpy:11
@@ -38,6 +41,7 @@ translate polish s17_branch4_r18_62020708:
 
     # voice voice_file.tig("17L",2)
     # tig frown "\"{i}That{/i}.\" "
+    voice voice_file.tig("17L",2)
     tig frown ""
 
 # game/script/17_r18.rpy:17
@@ -51,6 +55,7 @@ translate polish s17_branch4_r18_be03b2d4:
 
     # voice voice_file.tig("17L",3)
     # tig embarrassed "\"...Correct.\" "
+    voice voice_file.tig("17L",3)
     tig embarrassed ""
 
 # game/script/17_r18.rpy:21
@@ -76,6 +81,7 @@ translate polish s17_branch4_r18_ad3b0716:
 
     # voice voice_file.tig("17L",4)
     # tig embarrassed "\"Don't just glare at me! You know what I mean! I'd rather not have to say it...\" "
+    voice voice_file.tig("17L",4)
     tig embarrassed ""
 
 # game/script/17_r18.rpy:30
@@ -101,6 +107,7 @@ translate polish s17_branch4_r18_e0131caf:
 
     # voice voice_file.tig("17L",5)
     # tig frown "\"I should take my leave now. You wouldn't want me standing here, would you?\" "
+    voice voice_file.tig("17L",5)
     tig frown ""
 
 # game/script/17_r18.rpy:38
@@ -114,6 +121,7 @@ translate polish s17_branch4_r18_3afc7887:
 
     # voice voice_file.tig("17L",6)
     # tig disappointed "\"I shall return to my statue. You two... take your time.\" "
+    voice voice_file.tig("17L",6)
     tig disappointed ""
 
 # game/script/17_r18.rpy:47
@@ -193,6 +201,7 @@ translate polish cg_lpd_h_881a1d23:
 
     # voice voice_file.lpd("17L",1)
     # lpd normal "\"I do my best.... to keep Liao company.\" "
+    voice voice_file.lpd("17L",1)
     lpd normal ""
 
 # game/script/17_r18.rpy:85
@@ -248,6 +257,7 @@ translate polish cg_lpd_h_44ebed9e:
 
     # voice voice_file.lpd("17L",2)
     # lpd obsessed "\"The thing?\" "
+    voice voice_file.lpd("17L",2)
     lpd obsessed ""
 
 # game/script/17_r18.rpy:103
@@ -261,6 +271,7 @@ translate polish cg_lpd_h_7ea30c29:
 
     # voice voice_file.lpd("17L",3)
     # lpd normal "\"Yes. Didn't understand.\" "
+    voice voice_file.lpd("17L",3)
     lpd normal ""
 
 # game/script/17_r18.rpy:107
@@ -274,6 +285,7 @@ translate polish cg_lpd_h_79240943:
 
     # voice voice_file.lpd("17L",4)
     # lpd normal "\"Didn't understand... Why would they do that.\" "
+    voice voice_file.lpd("17L",4)
     lpd normal ""
 
 # game/script/17_r18.rpy:111
@@ -299,6 +311,7 @@ translate polish cg_lpd_h_041adac6:
 
     # voice voice_file.lpd("17L",5)
     # lpd obsessed "\"Then Liao would trust me?\" "
+    voice voice_file.lpd("17L",5)
     lpd obsessed ""
 
 # game/script/17_r18.rpy:119
@@ -312,6 +325,7 @@ translate polish cg_lpd_h_3951940e:
 
     # voice voice_file.lpd("17L",6)
     # lpd normal "\"Grow closer is good. I want to grow closer with Liao.\" "
+    voice voice_file.lpd("17L",6)
     lpd normal ""
 
 # game/script/17_r18.rpy:123
@@ -325,6 +339,7 @@ translate polish cg_lpd_h_e00a3809:
 
     # voice voice_file.lpd("17L",7)
     # lpd normal "\"...Yes. I want to do that for Liao.\" "
+    voice voice_file.lpd("17L",7)
     lpd normal ""
 
 # game/script/17_r18.rpy:134
@@ -368,6 +383,7 @@ translate polish cg_lpd_h_597c4258:
 
     # voice voice_file.lpd("17L",8)
     # lpd normal "\"I want to make love with Liao.\" "
+    voice voice_file.lpd("17L",8)
     lpd normal ""
 
 # game/script/17_r18.rpy:149
@@ -435,6 +451,7 @@ translate polish cg_lpd_h_9cbb5bcb:
 
     # voice voice_file.lpd("17L",9)
     # lpd_naked obsessed "\"Liao... you not need to take clothes off?\" "
+    voice voice_file.lpd("17L",9)
     lpd_naked obsessed ""
 
 # game/script/17_r18.rpy:177
@@ -466,6 +483,7 @@ translate polish cg_lpd_h_d426488a:
 
     # voice voice_file.lpd("17L",10)
     # lpd_naked obsessed "\"Does Liao want to do it in bed?\" "
+    voice voice_file.lpd("17L",10)
     lpd_naked obsessed ""
 
 # game/script/17_r18.rpy:191
@@ -551,6 +569,7 @@ translate polish cg_lpd_h_d61c2e13:
 
     # voice voice_file.lpd("17L",11)
     # lpd_naked Rnormal "\"Is this... not making love?\" "
+    voice voice_file.lpd("17L",11)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:226
@@ -564,6 +583,7 @@ translate polish cg_lpd_h_fece8720:
 
     # voice voice_file.lpd("17L",12)
     # lpd_naked Rnormal "\"I follow the many books on shelf.\" "
+    voice voice_file.lpd("17L",12)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:230
@@ -601,6 +621,7 @@ translate polish cg_lpd_h_a0b080e0:
 
     # voice voice_file.lpd("17L",13)
     # lpd_naked Rnormal "\"Liao, top or bottom?\" "
+    voice voice_file.lpd("17L",13)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:242
@@ -626,6 +647,7 @@ translate polish cg_lpd_h_b80edf63:
 
     # voice voice_file.lpd("17L",14)
     # lpd_naked Rnormal "\"Okay.\" "
+    voice voice_file.lpd("17L",14)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:253
@@ -663,6 +685,7 @@ translate polish cg_lpd_h_7bd00413:
 
     # voice voice_file.lpd("17L",15)
     # lpd_naked Robsessed "\"Relax?\" "
+    voice voice_file.lpd("17L",15)
     lpd_naked Robsessed ""
 
 # game/script/17_r18.rpy:270
@@ -802,6 +825,7 @@ translate polish cg_lpd_h_a7c00777:
 
     # voice voice_file.lpd("17L",16)
     # lpd_naked Rnormal "\"Liao, feel good?\" "
+    voice voice_file.lpd("17L",16)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:327
@@ -815,6 +839,7 @@ translate polish cg_lpd_h_268b52e0:
 
     # voice voice_file.lpd("17L",17)
     # lpd_naked Rnormal "\"Can move now?\" "
+    voice voice_file.lpd("17L",17)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:331
@@ -953,6 +978,7 @@ translate polish cg_lpd_h_ced7ec84:
 
     # voice voice_file.lpd("17L",18)
     # lpd_naked Reyes_close "\"......!\" "
+    voice voice_file.lpd("17L",18)
     lpd_naked Reyes_close ""
 
 # game/script/17_r18.rpy:396
@@ -985,6 +1011,7 @@ translate polish cg_lpd_h_a29a2b4f:
 
     # voice voice_file.lpd("17L",19)
     # lpd_naked Rnormal "\"Liao, feel good?\" "
+    voice voice_file.lpd("17L",19)
     lpd_naked Rnormal ""
 
 # game/script/17_r18.rpy:406
@@ -998,6 +1025,7 @@ translate polish cg_lpd_h_c073bbea:
 
     # voice voice_file.lpd("17L",20)
     # lpd_naked Rhappy "\"Liao...\" "
+    voice voice_file.lpd("17L",20)
     lpd_naked Rhappy ""
 
 # game/script/17_r18.rpy:410
@@ -1005,6 +1033,7 @@ translate polish cg_lpd_h_7a262c44:
 
     # voice voice_file.lpd("17L",21)
     # lpd_naked normal "\"Need me to help...?\" "
+    voice voice_file.lpd("17L",21)
     lpd_naked normal ""
 
 # game/script/17_r18.rpy:412
@@ -1048,6 +1077,7 @@ translate polish cg_lpd_h_8b2223b5:
 
     # voice voice_file.tig("17L",7)
     # tig frown "\"...About time we go forth and catch that fiendish cat, don't you agree?\" "
+    voice voice_file.tig("17L",7)
     tig frown ""
 
 # game/script/17_r18.rpy:439
@@ -1061,6 +1091,7 @@ translate polish cg_lpd_h_1a723d22:
 
     # voice voice_file.tig("17L",8)
     # tig frown "\"Hey— I didn't peep or anything. I just came out after you sounded done.\" "
+    voice voice_file.tig("17L",8)
     tig frown ""
 
 # game/script/17_r18.rpy:444
@@ -1074,6 +1105,7 @@ translate polish cg_lpd_h_ce6207da:
 
     # voice voice_file.tig("17L",9)
     # tig frown "\"You two seem calm enough to me. Procrastinating further would serve little purpose but make possessing you more difficult.\" "
+    voice voice_file.tig("17L",9)
     tig frown ""
 
 # game/script/17_r18.rpy:448
@@ -1099,6 +1131,7 @@ translate polish cg_lpd_h_1ec4fb85:
 
     # voice voice_file.tig("17L",10)
     # tig embarrassed "\"Leopard, you may now attempt to possess his body and see if you can release your power.\" "
+    voice voice_file.tig("17L",10)
     tig embarrassed ""
 
 # game/script/17_r18.rpy:459

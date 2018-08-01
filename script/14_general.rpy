@@ -5,6 +5,7 @@ translate polish s14_branch1_general_0bf4e66d:
 
     # voice voice_file.tig("14N",1)
     # tig normal "\"...You must trust me, to the degree that you would feel comfortable to give your body to me.\" "
+    voice voice_file.tig("14N",1)
     tig normal ""
 
 # game/script/14_general.rpy:5
@@ -48,6 +49,7 @@ translate polish s14_branch1_general_9317e89b:
 
     # voice voice_file.tig("14N",2)
     # tig normal "\"Let me put it another way. Your mind may trust me, but does that mean your body does? It is closer to intuition than thought.\" "
+    voice voice_file.tig("14N",2)
     tig normal ""
 
 # game/script/14_general.rpy:19
@@ -67,6 +69,7 @@ translate polish s14_branch1_general_b70ae19b:
 
     # voice voice_file.tig("14N",3)
     # tig embarrassed "\"...I shall begin.\" "
+    voice voice_file.tig("14N",3)
     tig embarrassed ""
 
 # game/script/14_general.rpy:25
@@ -75,6 +78,7 @@ translate polish s14_branch1_general_4dc0f053:
     # voice voice_file.tig("14N",4)
     # tig embarrassed "\"Firstly, you must get used to my form contacting your body... \" "
     # tig embarrassed "\"Alas, if I knew it would come to this I would have done other things to... well prepare you.\" "
+    voice voice_file.tig("14N",4)
     tig embarrassed ""
 
 # game/script/14_general.rpy:27
@@ -82,6 +86,7 @@ translate polish s14_branch1_general_cc3745be:
 
     # voice voice_file.tig("14N",5)
     # tig normal "\"As such, we are short on time. Liao, come forth.\" "
+    voice voice_file.tig("14N",5)
     tig normal ""
 
 # game/script/14_general.rpy:29
@@ -107,6 +112,7 @@ translate polish s14_branch1_general_07f81c27:
 
     # voice voice_file.tig("14N",6)
     # tig normal "\"It mayhap not be enough, but it's a start.\" "
+    voice voice_file.tig("14N",6)
     tig normal ""
 
 # game/script/14_general.rpy:42
@@ -126,6 +132,7 @@ translate polish cg_reveal_feelings_tig_13482cda:
 
     # voice voice_file.tig("14N",7)
     # tig normal "\"Liao?\" "
+    voice voice_file.tig("14N",7)
     tig normal ""
 
 # game/script/14_general.rpy:61
@@ -169,6 +176,7 @@ translate polish cg_reveal_feelings_tig_f5f96adb:
 
     # voice voice_file.tig("14N",8)
     # tig gentle "\"Liao, you getting used to it?\" "
+    voice voice_file.tig("14N",8)
     tig gentle ""
 
 # game/script/14_general.rpy:75
@@ -182,6 +190,7 @@ translate polish cg_reveal_feelings_tig_e4da28b5:
 
     # voice voice_file.tig("14N",9)
     # tig laugh_1 "\"Yes. Shall I proceed further?\" "
+    voice voice_file.tig("14N",9)
     tig laugh_1 ""
 
 # game/script/14_general.rpy:80
@@ -231,6 +240,7 @@ translate polish cg_reveal_feelings_tig_35322107:
 
     # voice voice_file.tig("14N",10)
     # tig gentle "\"Liao, you're a really good boy.\" "
+    voice voice_file.tig("14N",10)
     tig gentle ""
 
 # game/script/14_general.rpy:96
@@ -251,6 +261,7 @@ translate polish cg_reveal_feelings_tig_751e69b9:
     # voice voice_file.tig("14N",11)
     # tig laugh_1 "\"I'm very glad to be the one by your side, to protect you from harm. You are a gently boy, a bit timid and irresolute at times, but that's fine.\" "
     # tig laugh_1 "\"I know you do not wish to go back home, but even against our pleas you don't hate me or your older brother for it. You really are remarkable.\" "
+    voice voice_file.tig("14N",11)
     tig laugh_1 ""
 
 # game/script/14_general.rpy:114
@@ -259,6 +270,7 @@ translate polish cg_reveal_feelings_tig_c1591750:
     # voice voice_file.tig("14N",12)
     # tig laugh_1 "\"I admire you for upholding your dreams. Admittedly I still wish for you to go back home... but that isn't what matters.\" "
     # tig laugh_1 "\"What matters is that if possible, I would love to support you unconditionally.\" "
+    voice voice_file.tig("14N",12)
     tig laugh_1 ""
 
 # game/script/14_general.rpy:116
@@ -278,6 +290,7 @@ translate polish cg_reveal_feelings_tig_e8acae9f:
 
     # voice voice_file.tig("14N",13)
     # tig laugh_2 "\"Haha— Is this not the time to reveal our hearts to each other?\" "
+    voice voice_file.tig("14N",13)
     tig laugh_2 ""
 
 # game/script/14_general.rpy:125
@@ -291,6 +304,7 @@ translate polish cg_reveal_feelings_tig_0a75d375:
 
     # voice voice_file.tig("14N",14)
     # tig gentle "\"Exactly, to express our feelings for one another.\" "
+    voice voice_file.tig("14N",14)
     tig gentle ""
 
 # game/script/14_general.rpy:133
@@ -341,6 +355,7 @@ translate polish cg_reveal_feelings_tig_723f2d86:
 
     # voice voice_file.tig("14N",15)
     # tig surprise "\"...Why do you ask? You, and your spirit power is what makes is possible for me to talk to you, not your family.\" "
+    voice voice_file.tig("14N",15)
     tig surprise ""
 
 # game/script/14_general.rpy:158
@@ -348,6 +363,7 @@ translate polish cg_reveal_feelings_tig_c2d3f534:
 
     # voice voice_file.tig("14N",16)
     # tig normal "\"The Lin family is but a tie that connects my existence to yours, it has nothing to do with {i}why{/i} \ I like you. After all, many guardian tigers don't actually get along with their \nJitong.\" "
+    voice voice_file.tig("14N",16)
     tig normal ""
 
 # game/script/14_general.rpy:160
@@ -355,6 +371,7 @@ translate polish cg_reveal_feelings_tig_9f840d5d:
 
     # voice voice_file.tig("14N",17)
     # tig laugh_1 "\"In fact, possession does not have much to do with the extent to which we like each other. Some Jitong are possessed by guardian tigers even though their good relations are merely a facade.\" "
+    voice voice_file.tig("14N",17)
     tig laugh_1 ""
 
 # game/script/14_general.rpy:162
@@ -368,6 +385,7 @@ translate polish cg_reveal_feelings_tig_44aa46b8:
 
     # voice voice_file.tig("14N",18)
     # tig normal "\"In the end, what matters is that your body is willing to entrust itself to me. Communication on the matter can do nothing but help.\" "
+    voice voice_file.tig("14N",18)
     tig normal ""
 
 # game/script/14_general.rpy:166
@@ -381,6 +399,7 @@ translate polish cg_reveal_feelings_tig_ae331ae5:
 
     # voice voice_file.tig("14N",19)
     # tig laugh_1 "\"Of course. Although, as a child of the Lin family it remains my duty to protect you. But it's not necessary for me to...\" "
+    voice voice_file.tig("14N",19)
     tig laugh_1 ""
 
 # game/script/14_general.rpy:170
@@ -400,6 +419,7 @@ translate polish cg_reveal_feelings_tig_72e104c6:
 
     # voice voice_file.tig("14N",20)
     # tig gentle "\"For me to think you are a good boy.\" "
+    voice voice_file.tig("14N",20)
     tig gentle ""
 
 # game/script/14_general.rpy:176
@@ -413,6 +433,7 @@ translate polish cg_reveal_feelings_tig_07e242e2:
 
     # voice voice_file.tig("14N",21)
     # tig normal "\"No, it's...\" "
+    voice voice_file.tig("14N",21)
     tig normal ""
 
 # game/script/14_general.rpy:180
@@ -426,6 +447,7 @@ translate polish cg_reveal_feelings_tig_5ae2879a:
 
     # voice voice_file.tig("14N",22)
     # tig embarrassed "\"It's because I like you Liao.\" "
+    voice voice_file.tig("14N",22)
     tig embarrassed ""
 
 # game/script/14_general.rpy:187
@@ -445,6 +467,7 @@ translate polish cg_reveal_feelings_tig_0350b20e:
 
     # voice voice_file.tig("14N",23)
     # tig frown "\"How else would I put it? You are a boy of the Lin family... and I like you. So you are a very good boy. Is that strange to you?\" "
+    voice voice_file.tig("14N",23)
     tig frown ""
 
 # game/script/14_general.rpy:193
@@ -464,6 +487,7 @@ translate polish cg_reveal_feelings_tig_b1a893c9:
 
     # voice voice_file.tig("14N",24)
     # tig normal "\"I consider you...\" "
+    voice voice_file.tig("14N",24)
     tig normal ""
 
 # game/script/14_general.rpy:202
@@ -471,6 +495,7 @@ translate polish cg_reveal_feelings_tig_c16a66e4:
 
     # voice voice_file.tig("14N",25)
     # tig embarrassed "\"A son of the Lin family that I like.\" " with flash
+    voice voice_file.tig("14N",25)
     tig embarrassed "" with flash
 
 # game/script/14_general.rpy:204
@@ -496,6 +521,7 @@ translate polish cg_reveal_feelings_tig_6a513d60:
 
     # voice voice_file.tig("14N",26)
     # tig embarrassed "\"Alas. It appears as though I must spell it out... This was not in my plans, but...\" "
+    voice voice_file.tig("14N",26)
     tig embarrassed ""
 
 # game/script/14_general.rpy:213
@@ -509,6 +535,7 @@ translate polish cg_reveal_feelings_tig_74af5cfe:
 
     # voice voice_file.tig("14N",27)
     # tig normal "\"This.\" "
+    voice voice_file.tig("14N",27)
     tig normal ""
 
 # game/script/14_general.rpy:222
@@ -553,6 +580,7 @@ translate polish cg_reveal_feelings_tig_24e32b75:
 
     # voice voice_file.tig("14N",28)
     # tig embarrassed "\"So you understand now?\" "
+    voice voice_file.tig("14N",28)
     tig embarrassed ""
 
 # game/script/14_general.rpy:238
@@ -572,6 +600,7 @@ translate polish cg_reveal_feelings_tig_1c26cf4b:
 
     # voice voice_file.tig("14N",29)
     # tig frown "\"Only kind of? Was I not clear enough?\" "
+    voice voice_file.tig("14N",29)
     tig frown ""
 
 # game/script/14_general.rpy:244
@@ -580,6 +609,7 @@ translate polish cg_reveal_feelings_tig_792b08b4:
     # voice voice_file.tig("14N",30)
     # tig frown "\"You made me go that far and still do not believe me... Has all your confidence in me left you?\" "
     # tig frown "*sigh* \"You concern me sometimes.\" "
+    voice voice_file.tig("14N",30)
     tig frown ""
 
 # game/script/14_general.rpy:246
@@ -596,6 +626,7 @@ translate polish cg_reveal_feelings_tig_63380c13:
     # tig embarrassed "\"Liao, I like you a lot. I want to see you happy, and I don't want to see you harmed.\" "
     # tig embarrassed "\"Which is why I want you to be mine, to not share you with anyone else.\" "
     # tig embarrassed "\"Was that clear enough?\" "
+    voice voice_file.tig("14N",31)
     tig embarrassed ""
 
 # game/script/14_general.rpy:250
@@ -621,6 +652,7 @@ translate polish cg_reveal_feelings_tig_c50422be:
 
     # voice voice_file.tig("14N",32)
     # tig embarrassed "\"I don't know if it's enough to make you trust me, but...\" "
+    voice voice_file.tig("14N",32)
     tig embarrassed ""
 
 # game/script/14_general.rpy:258
@@ -628,6 +660,7 @@ translate polish cg_reveal_feelings_tig_483cd07f:
 
     # voice voice_file.tig("14N",33)
     # tig frown "\"I want to protect you. Protect you with my own hands.\" "
+    voice voice_file.tig("14N",33)
     tig frown ""
 
 # game/script/14_general.rpy:260
@@ -635,6 +668,7 @@ translate polish cg_reveal_feelings_tig_0fab9aef:
 
     # voice voice_file.tig("14N",34)
     # tig normal "\"These are my resolute desires...\" "
+    voice voice_file.tig("14N",34)
     tig normal ""
 
 # game/script/14_general.rpy:262
@@ -642,6 +676,7 @@ translate polish cg_reveal_feelings_tig_6dbd9337:
 
     # voice voice_file.tig("14N",35)
     # tig normal "\"So, Liao.\" "
+    voice voice_file.tig("14N",35)
     tig normal ""
 
 # game/script/14_general.rpy:264
@@ -655,6 +690,7 @@ translate polish cg_reveal_feelings_tig_40df756f:
 
     # voice voice_file.tig("14N",36)
     # tig gentle "\"Will you allow me to enter your body and protect you with my own hands?\" "
+    voice voice_file.tig("14N",36)
     tig gentle ""
 
 # game/script/14_general.rpy:268
@@ -692,6 +728,7 @@ translate polish cg_reveal_feelings_tig_044e8062:
 
     # voice voice_file.tig("14N",37)
     # tig gentle "\"It's fine. Even if it does not work, there are other—\" "
+    voice voice_file.tig("14N",37)
     tig gentle ""
 
 # game/script/14_general.rpy:282
@@ -717,6 +754,7 @@ translate polish cg_reveal_feelings_tig_f46ab304:
 
     # voice voice_file.tig("14N",38)
     # tig frown "\"It seems our time is up.\" "
+    voice voice_file.tig("14N",38)
     tig frown ""
 
 # game/script/14_general.rpy:290
@@ -724,6 +762,7 @@ translate polish cg_reveal_feelings_tig_c024dfa8:
 
     # voice voice_file.tig("14N",39)
     # tig frown "\"I was about to suggest also seeking aid from the City God, but as he's already at the door... I don't think we can escape.\" "
+    voice voice_file.tig("14N",39)
     tig frown ""
 
 # game/script/14_general.rpy:292

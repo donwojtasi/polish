@@ -24,6 +24,7 @@ translate polish s08_ad514d2f:
 
     # voice voice_file.tig(8,1)
     # tig normal "\"Liao, I understand your predicament, so I'll only ask once. Are you certain you don't want to go home during your break?\" "
+    voice voice_file.tig(8,1)
     tig normal ""
 
 # game/script/08.rpy:19
@@ -37,6 +38,7 @@ translate polish s08_928f89ed:
 
     # voice voice_file.tig(8,2)
     # tig disappointed "\"That's a shame. It would have been splendid to introduce to the other gods.\" "
+    voice voice_file.tig(8,2)
     tig disappointed ""
 
 # game/script/08.rpy:23
@@ -51,6 +53,7 @@ translate polish s08_4bce6f87:
     # voice voice_file.tig(8,3)
     # tig normal "\"Correct. As I've said before, each statue back home holds a guardian tiger.\" "
     # tig laugh_2 "\"With your affinity for beast-men, I would assume you'd be overjoyed to be surrounded by so many.\" "
+    voice voice_file.tig(8,3)
     tig normal ""
 
 # game/script/08.rpy:27
@@ -76,6 +79,7 @@ translate polish s08_de34ffa2:
 
     # voice voice_file.tig(8,4)
     # tig lift "\"I understand. Well, I can see them being a hassle... I'll just tell them in advance not to smother you all day, would that be acceptable?\" "
+    voice voice_file.tig(8,4)
     tig lift ""
 
 # game/script/08.rpy:35
@@ -91,6 +95,7 @@ translate polish s08_6c82b91b:
     # voice voice_file.tig(8,5)
     # tig normal "\"Very true... I'll do my best, but sometimes they do like to joke around.\" "
     # tig normal "\"Nevertheless, you must get used to them sooner or later.\" "
+    voice voice_file.tig(8,5)
     tig normal ""
 
 # game/script/08.rpy:39
@@ -104,6 +109,7 @@ translate polish s08_744304ee:
 
     # voice voice_file.tig(8,6)
     # tig frown "\"It would be best for that leopard to stay behind. Taking an aborigine spirit to a Han temple would be asking for trouble.\" "
+    voice voice_file.tig(8,6)
     tig frown ""
 
 # game/script/08.rpy:47
@@ -117,6 +123,7 @@ translate polish s08_803ae67a:
 
     # voice voice_file.tig(8,7)
     # tig normal "\"What about summer break? You cannot stay here for the whole summer.\" "
+    voice voice_file.tig(8,7)
     tig normal ""
 
 # game/script/08.rpy:51
@@ -130,6 +137,7 @@ translate polish s08_0354e114:
 
     # voice voice_file.tig(8,8)
     # tig frown "\"...Alright. If that's how it is, quickly make a decision so that the others can leave.\" "
+    voice voice_file.tig(8,8)
     tig frown ""
 
 # game/script/08.rpy:59
@@ -162,6 +170,7 @@ translate polish s08_5926e058:
 
     # voice voice_file.lpdcat(8,1)
     # lpdcat normal "\"Liao, you for sure aren't going back tomorrow?\" "
+    voice voice_file.lpdcat(8,1)
     lpdcat normal ""
 
 # game/script/08.rpy:80
@@ -175,6 +184,7 @@ translate polish s08_c0cb5aab:
 
     # voice voice_file.lpdcat(8,2)
     # lpdcat normal "\"Whaa— Who cares about midterms? What, you trying for a scholarship or somethin'?\" "
+    voice voice_file.lpdcat(8,2)
     lpdcat normal ""
 
 # game/script/08.rpy:84
@@ -189,6 +199,7 @@ translate polish s08_b449f421:
     # voice voice_file.lpdcat(8,3)
     # lpdcat laugh "\"There's {i}no way{/i} \ Liao could fail, I know that for sure!\" "
     # lpdcat laugh "\"Sooooo— Rather then study every day, let's go out and have some fun today instead!\" "
+    voice voice_file.lpdcat(8,3)
     lpdcat laugh ""
 
 # game/script/08.rpy:97
@@ -202,6 +213,7 @@ translate polish s08_f4fb304a:
 
     # voice voice_file.lpdcat(8,4)
     # lpdcat laugh "\"Can we please go out again, just this once?\" "
+    voice voice_file.lpdcat(8,4)
     lpdcat laugh ""
 
 # game/script/08.rpy:121
@@ -215,6 +227,7 @@ translate polish s08_02_disagree_fd52b335:
 
     # voice voice_file.lpdcat(8,5)
     # lpdcat normal "\"Seriously, you'll totally stop caring about cramming so hard during the break once you're in second year. There's really no need to be serious about it Liao.\" "
+    voice voice_file.lpdcat(8,5)
     lpdcat normal ""
 
 # game/script/08.rpy:127
@@ -228,6 +241,7 @@ translate polish s08_02_disagree_2051d72f:
 
     # voice voice_file.lpdcat(8,6)
     # lpdcat cry_2 "\"Liao is just looking for an excuse not to go out with me—\" " with hshake
+    voice voice_file.lpdcat(8,6)
     lpdcat cry_2 "" with hshake
 
 # game/script/08.rpy:131
@@ -241,6 +255,7 @@ translate polish s08_02_disagree_b2803495:
 
     # voice voice_file.lpdcat(8,7)
     # lpdcat not_reconcile "\"Wuuah— Fine. I get it.\" "
+    voice voice_file.lpdcat(8,7)
     lpdcat not_reconcile ""
 
 # game/script/08.rpy:135
@@ -248,6 +263,7 @@ translate polish s08_02_disagree_2e51ce25:
 
     # voice voice_file.lpdcat(8,8)
     # lpdcat wronged "\"Even if this is our last chance...\" "
+    voice voice_file.lpdcat(8,8)
     lpdcat wronged ""
 
 # game/script/08.rpy:137
@@ -261,6 +277,7 @@ translate polish s08_02_disagree_8730a6b0:
 
     # voice voice_file.lpdcat(8,9)
     # lpdcat normal "\"Nothing, nothing. Keep on studying!\" "
+    voice voice_file.lpdcat(8,9)
     lpdcat normal ""
 
 # game/script/08.rpy:141
@@ -274,6 +291,7 @@ translate polish s08_02_disagree_18184a6e:
 
     # voice voice_file.lpdcat(8,10)
     # lpdcat normal "\"I was just planning to go home and grab some stuff. So, I might as well let you know I'll probably be out till late. Don't worry about me.\" "
+    voice voice_file.lpdcat(8,10)
     lpdcat normal ""
 
 # game/script/08.rpy:145
@@ -287,6 +305,7 @@ translate polish s08_02_disagree_23bee263:
 
     # voice voice_file.lpdcat(8,11)
     # lpdcat laugh "\"Alrighty, see you tonight Liaaao~\" "
+    voice voice_file.lpdcat(8,11)
     lpdcat laugh ""
 
 # game/script/08.rpy:159
@@ -300,6 +319,7 @@ translate polish s08_02_agree_39e41fea:
 
     # voice voice_file.lpdcat(8,12)
     # lpdcat happy "\"Yay! I'll make all the arrangements!\" " with hshake
+    voice voice_file.lpdcat(8,12)
     lpdcat happy "" with hshake
 
 # game/script/08.rpy:163
@@ -313,6 +333,7 @@ translate polish s08_02_agree_118f4f4c:
 
     # voice voice_file.lpdcat(8,13)
     # lpdcat laugh "\"Ohh, that's a secret. Let's say it's a surprise for you Liao. So just leave it to me and I'll go home and get things ready!\" "
+    voice voice_file.lpdcat(8,13)
     lpdcat laugh ""
 
 # game/script/08.rpy:167
@@ -326,6 +347,7 @@ translate polish s08_02_agree_df16eb12:
 
     # voice voice_file.lpdcat(8,14)
     # lpdcat normal "\"Yup. Tonight.\" "
+    voice voice_file.lpdcat(8,14)
     lpdcat normal ""
 
 # game/script/08.rpy:181
@@ -339,6 +361,7 @@ translate polish s08_03_44e117e5:
 
     # voice voice_file.tig(8,9)
     # tig frown "\"What's that kitten up to at this hour?\" "
+    voice voice_file.tig(8,9)
     tig frown ""
 
 # game/script/08.rpy:187
@@ -364,6 +387,7 @@ translate polish s08_03_3ca6e7dc:
 
     # voice voice_file.tig(8,10)
     # tig normal "\"Hmm- Perhaps he fell sleep back at his home?\" "
+    voice voice_file.tig(8,10)
     tig normal ""
 
 # game/script/08.rpy:195
@@ -416,6 +440,7 @@ translate polish s08_04_tig_1dbc6e52:
 
     # voice voice_file.tig(8,11)
     # tig lift "\"Liao, are you still troubling yourself over that kitten?\" "
+    voice voice_file.tig(8,11)
     tig lift ""
 
 # game/script/08.rpy:250
@@ -429,6 +454,7 @@ translate polish s08_04_tig_fdf7a41e:
 
     # voice voice_file.tig(8,12)
     # tig normal "\"...I would prefer that you'd just forget about him, but that would be too much to ask.\" "
+    voice voice_file.tig(8,12)
     tig normal ""
 
 # game/script/08.rpy:254
@@ -444,6 +470,7 @@ translate polish s08_04_tig_55474993:
     # voice voice_file.tig(8,13)
     # tig normal "\"I don't believe it's something bad. He's somewhat of a guardian tiger after all.\" "
     # tig normal "\"Yaoguai wouldn't harm him, and most people cannot even see or touch him unless he's possessing a body.\" "
+    voice voice_file.tig(8,13)
     tig normal ""
 
 # game/script/08.rpy:258
@@ -457,6 +484,7 @@ translate polish s08_04_tig_9e99a41a:
 
     # voice voice_file.tig(8,14)
     # tig normal "\"I don't know and I care even less. I have no doubts that he's fine.\" "
+    voice voice_file.tig(8,14)
     tig normal ""
 
 # game/script/08.rpy:262
@@ -471,6 +499,7 @@ translate polish s08_04_tig_1cfbc509:
     # voice voice_file.tig(8,15)
     # tig normal "\"...Well there are no guarantees in this world.\" "
     # tig normal "\"If you do really care so much...\" "
+    voice voice_file.tig(8,15)
     tig normal ""
 
 # game/script/08.rpy:266
@@ -478,6 +507,7 @@ translate polish s08_04_tig_84f03e10:
 
     # voice voice_file.tig(8,16)
     # tig disappointed "\"I suppose I can help you look for him, if that's really what you wish.\" "
+    voice voice_file.tig(8,16)
     tig disappointed ""
 
 # game/script/08.rpy:268
@@ -491,6 +521,7 @@ translate polish s08_04_tig_cc68364f:
 
     # voice voice_file.tig(8,17)
     # tig normal "\"Usually I would enquire with Clairvoyant and Clairaudience for help on the matter but we are too far from home. Perhaps we can reach them from a temple here in Taipei...\" "
+    voice voice_file.tig(8,17)
     tig normal ""
 
 # game/script/08.rpy:276
@@ -505,6 +536,7 @@ translate polish s08_04_tig_f854cfcd:
     # voice voice_file.tig(8,18)
     # tig normal "\"Even if the temples are of the same religion, each one may house different gods. You could say it's something like a department store, set departments but a wide variety of products in each one.\" "
     # tig normal "\"It would be strange to bother an unfamiliar god with such a trifle matter.\" "
+    voice voice_file.tig(8,18)
     tig normal ""
 
 # game/script/08.rpy:280
@@ -513,6 +545,7 @@ translate polish s08_04_tig_826c53e2:
     # voice voice_file.tig(8,19)
     # tig normal "\"Although, even a non-Mazu temple could have a guardian tiger or two.\" "
     # tig normal "\"Such as the temple of the Taipei's highest City God. It would not be hard to ask a guardian tiger there for assistance.\" "
+    voice voice_file.tig(8,19)
     tig normal ""
 
 # game/script/08.rpy:282
@@ -526,6 +559,7 @@ translate polish s08_04_tig_92bb8722:
 
     # voice voice_file.tig(8,20)
     # tig normal "\"Yes. Most of us guardian tigers get along quite well. Thankfully, thankfully there are many temples with similar beliefs.\" "
+    voice voice_file.tig(8,20)
     tig normal ""
 
 # game/script/08.rpy:286
@@ -539,6 +573,7 @@ translate polish s08_04_tig_031e6244:
 
     # voice voice_file.tig(8,21)
     # tig normal "\"As you know, I still cannot travel far from from my statue. In which case I would need to ask them to contact said temple for me.\" "
+    voice voice_file.tig(8,21)
     tig normal ""
 
 # game/script/08.rpy:290
@@ -552,6 +587,7 @@ translate polish s08_04_tig_3c6c6521:
 
     # voice voice_file.tig(8,22)
     # tig normal "\"Yes.\" "
+    voice voice_file.tig(8,22)
     tig normal ""
 
 # game/script/08.rpy:294
@@ -571,6 +607,7 @@ translate polish s08_04_tig_7bb7bd3b:
 
     # voice voice_file.tig(8,23)
     # tig normal "\"It's either this or going around putting up missing persons posters and handing out leaflets. And I doubt the effort would be worth it.\" "
+    voice voice_file.tig(8,23)
     tig normal ""
 
 # game/script/08.rpy:304
@@ -584,6 +621,7 @@ translate polish s08_04_tig_3c149cde:
 
     # voice voice_file.tig(8,24)
     # tig normal "\"As you see, getting the gods involved is much more effective.\" "
+    voice voice_file.tig(8,24)
     tig normal ""
 
 # game/script/08.rpy:308
@@ -610,6 +648,7 @@ translate polish s08_04_tig_ask_098c80d6:
     # voice voice_file.tig(8,25)
     # tig normal "\"Then I shall head up to the roof.\" "
     # tig normal "\"This may take some time. Liao, please go back to your books.\" "
+    voice voice_file.tig(8,25)
     tig normal ""
 
 # game/script/08.rpy:334
@@ -636,6 +675,7 @@ translate polish s08_04_tig_ask_ba45bbc1:
 
     # voice voice_file.lpd(8,1)
     # lpd obsessed "\"...Liao, is upset?\" "
+    voice voice_file.lpd(8,1)
     lpd obsessed ""
 
 # game/script/08.rpy:347
@@ -688,6 +728,7 @@ translate polish s08_04_tig_ask_597c4258:
 
     # voice voice_file.lpd(8,2)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(8,2)
     lpd normal ""
 
 # game/script/08.rpy:378
@@ -707,6 +748,7 @@ translate polish s08_04_tig_ask_925551a4:
 
     # voice voice_file.tig(8,26)
     # tig normal "\"I don't require any dinner tonight Liao. Besides, I must take my leave for now.\" "
+    voice voice_file.tig(8,26)
     tig normal ""
 
 # game/script/08.rpy:390
@@ -720,6 +762,7 @@ translate polish s08_04_tig_ask_5bca0666:
 
     # voice voice_file.tig(8,27)
     # tig normal "\"I requested Clairvoyant to come pick me up and take me to a temple in Taipei.\" "
+    voice voice_file.tig(8,27)
     tig normal ""
 
 # game/script/08.rpy:394
@@ -734,6 +777,7 @@ translate polish s08_04_tig_ask_69805aa8:
     # voice voice_file.tig(8,28)
     # tig normal "\"Yes, that is why I require some help from Clairvoyant.\" "
     # tig normal "\"Luckily, the spiritual connections are very strong here in Taipei. That's more important to us than physical distances.\" "
+    voice voice_file.tig(8,28)
     tig normal ""
 
 # game/script/08.rpy:398
@@ -754,6 +798,7 @@ translate polish s08_04_tig_ask_0bb71997:
 
     # voice voice_file.tig(8,29)
     # tig normal "\"I likely won't come home tonight. It's worthwhile to ask the nocturnal yaoguai about our kitten after all. Please be sure you stay safe.\" "
+    voice voice_file.tig(8,29)
     tig normal ""
 
 # game/script/08.rpy:404
@@ -768,6 +813,7 @@ translate polish s08_04_tig_ask_e3396213:
     # voice voice_file.tig(8,30)
     # tig frown "\"If anything happens, you may place your hand on my statue and pray. I'll feel it. \" "
     # tig frown "\"Also, don't let the aborigine do anything while I'm gone.\" "
+    voice voice_file.tig(8,30)
     tig frown ""
 
 # game/script/08.rpy:414
@@ -775,6 +821,7 @@ translate polish s08_04_tig_ask_ad44f010:
 
     # voice voice_file.lpd(8,3)
     # lpd normal "\"...I won't.\" "
+    voice voice_file.lpd(8,3)
     lpd normal ""
 
 # game/script/08.rpy:416
@@ -788,6 +835,7 @@ translate polish s08_04_tig_ask_c49c21bd:
 
     # voice voice_file.tig(8,31)
     # tig normal "\"Now, Liao. I'm only doing this so you can forget about that kitten and focus on studying. Be sure to be studying when I get home, alright?\" "
+    voice voice_file.tig(8,31)
     tig normal ""
 
 # game/script/08.rpy:420
@@ -801,6 +849,7 @@ translate polish s08_04_tig_ask_0d009c9e:
 
     # voice voice_file.tig(8,32)
     # tig laugh_1 "\"Then, I'll be off.\" "
+    voice voice_file.tig(8,32)
     tig laugh_1 ""
 
 # game/script/08.rpy:428
@@ -826,6 +875,7 @@ translate polish s08_04_tig_ask_597c4258_1:
 
     # voice voice_file.lpd(8,2)
     # lpd normal "\"Ok.\" "
+    voice voice_file.lpd(8,2)
     lpd normal ""
 
 # game/script/08.rpy:444
@@ -899,6 +949,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_bef07fd1:
 
     # voice voice_file.lpd(8,4)
     # lpd normal "\"Liao?\" "
+    voice voice_file.lpd(8,4)
     lpd normal ""
 
 # game/script/08.rpy:496
@@ -932,6 +983,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_6eb1beee:
 
     # voice voice_file.lpd(8,5)
     # lpd normal "\"Liao, worry Shu-Chi?\" "
+    voice voice_file.lpd(8,5)
     lpd normal ""
 
 # game/script/08.rpy:509
@@ -958,6 +1010,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_ee0777a3:
 
     # voice voice_file.lpd(8,6)
     # lpd normal "\"Awkward?\" "
+    voice voice_file.lpd(8,6)
     lpd normal ""
 
 # game/script/08.rpy:517
@@ -971,6 +1024,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_7aaf0cc8:
 
     # voice voice_file.lpd(8,7)
     # lpd normal "\"Liao, cares for Shu-Chi?\" "
+    voice voice_file.lpd(8,7)
     lpd normal ""
 
 # game/script/08.rpy:521
@@ -984,6 +1038,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_42abd52c:
 
     # voice voice_file.lpd(8,8)
     # lpd obsessed "\"Not good without Shu-Chi?\" "
+    voice voice_file.lpd(8,8)
     lpd obsessed ""
 
 # game/script/08.rpy:525
@@ -997,6 +1052,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_999cfa27:
 
     # voice voice_file.lpd(8,9)
     # lpd normal "\"...Liao, wanna go help him?\" "
+    voice voice_file.lpd(8,9)
     lpd normal ""
 
 # game/script/08.rpy:529
@@ -1017,6 +1073,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_1bb01892:
 
     # voice voice_file.lpd(8,10)
     # lpd normal "\"What if Shu-Chi must rebuild temple to come back?\" "
+    voice voice_file.lpd(8,10)
     lpd normal ""
 
 # game/script/08.rpy:535
@@ -1061,6 +1118,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_4de70f4b:
 
     # voice voice_file.lpd(8,11)
     # lpd obsessed "\"Liao is upset.\" "
+    voice voice_file.lpd(8,11)
     lpd obsessed ""
 
 # game/script/08.rpy:557
@@ -1074,6 +1132,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_e2bc2f01:
 
     # voice voice_file.lpd(8,12)
     # lpd obsessed "\"I don't like to see Liao upset.\" "
+    voice voice_file.lpd(8,12)
     lpd obsessed ""
 
 # game/script/08.rpy:561
@@ -1087,6 +1146,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_bb69b571:
 
     # voice voice_file.lpd(8,13)
     # lpd normal "\"Liao comes to Wutai. Upset, I help.\" "
+    voice voice_file.lpd(8,13)
     lpd normal ""
 
 # game/script/08.rpy:568
@@ -1100,6 +1160,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_4ac618e9:
 
     # voice voice_file.lpd(8,20)
     # lpd happy "\"Liao and me in Wutai. Forever, I help when upset.\" "
+    voice voice_file.lpd(8,20)
     lpd happy ""
 
 # game/script/08.rpy:575
@@ -1113,6 +1174,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_fad1f025:
 
     # voice voice_file.lpd(8,14)
     # lpd happy "\"Liao, will you come with me? I make Liao happy forever.\" "
+    voice voice_file.lpd(8,14)
     lpd happy ""
 
 # game/script/08.rpy:581
@@ -1152,6 +1214,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_597c4258:
 
     # voice voice_file.lpd(8,15)
     # lpd normal "\"Ok.\" "
+    voice voice_file.lpd(8,15)
     lpd normal ""
 
 # game/script/08.rpy:593
@@ -1165,6 +1228,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_df7a3097:
 
     # voice voice_file.lpd(8,16)
     # lpd normal "\"...Hmm.\" "
+    voice voice_file.lpd(8,16)
     lpd normal ""
 
 # game/script/08.rpy:604
@@ -1229,6 +1293,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4b08b13c:
 
     # voice voice_file.lpd(8,17)
     # lpd normal "\"...I used to it.\" "
+    voice voice_file.lpd(8,17)
     lpd normal ""
 
 # game/script/08.rpy:658
@@ -1242,6 +1307,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7277a8b2:
 
     # voice voice_file.lpd(8,18)
     # lpd normal "\"...Liao wants me to come bed?\" "
+    voice voice_file.lpd(8,18)
     lpd normal ""
 
 # game/script/08.rpy:672
@@ -1309,6 +1375,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_6eb1beee:
 
     # voice voice_file.lpd(8,5)
     # lpd normal "\"Liao, worry Shu-Chi?\" "
+    voice voice_file.lpd(8,5)
     lpd normal ""
 
 # game/script/08.rpy:702
@@ -1335,6 +1402,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_ee0777a3:
 
     # voice voice_file.lpd(8,6)
     # lpd normal "\"Awkward?\" "
+    voice voice_file.lpd(8,6)
     lpd normal ""
 
 # game/script/08.rpy:710
@@ -1348,6 +1416,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7aaf0cc8:
 
     # voice voice_file.lpd(8,7)
     # lpd normal "\"Liao, cares for Shu-Chi?\" "
+    voice voice_file.lpd(8,7)
     lpd normal ""
 
 # game/script/08.rpy:714
@@ -1361,6 +1430,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_42abd52c:
 
     # voice voice_file.lpd(8,8)
     # lpd obsessed "\"Not good without Shu-Chi?\" "
+    voice voice_file.lpd(8,8)
     lpd obsessed ""
 
 # game/script/08.rpy:718
@@ -1374,6 +1444,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_999cfa27:
 
     # voice voice_file.lpd(8,9)
     # lpd normal "\"...Liao, wanna go help him?\" "
+    voice voice_file.lpd(8,9)
     lpd normal ""
 
 # game/script/08.rpy:722
@@ -1394,6 +1465,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1bb01892:
 
     # voice voice_file.lpd(8,10)
     # lpd normal "\"What if Shu-Chi must rebuild temple to come back?\" "
+    voice voice_file.lpd(8,10)
     lpd normal ""
 
 # game/script/08.rpy:728
@@ -1438,6 +1510,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4de70f4b:
 
     # voice voice_file.lpd(8,11)
     # lpd obsessed "\"Liao is upset.\" "
+    voice voice_file.lpd(8,11)
     lpd obsessed ""
 
 # game/script/08.rpy:750
@@ -1451,6 +1524,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_e2bc2f01:
 
     # voice voice_file.lpd(8,12)
     # lpd obsessed "\"I don't like to see Liao upset.\" "
+    voice voice_file.lpd(8,12)
     lpd obsessed ""
 
 # game/script/08.rpy:754
@@ -1464,6 +1538,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_bb69b571:
 
     # voice voice_file.lpd(8,13)
     # lpd normal "\"Liao comes to Wutai. Upset, I help.\" "
+    voice voice_file.lpd(8,13)
     lpd normal ""
 
 # game/script/08.rpy:761
@@ -1477,6 +1552,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4ac618e9:
 
     # voice voice_file.lpd(8,20)
     # lpd happy "\"Liao come. I make Liao happy.\" "
+    voice voice_file.lpd(8,20)
     lpd happy ""
 
 # game/script/08.rpy:768
@@ -1490,6 +1566,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_fad1f025:
 
     # voice voice_file.lpd(8,14)
     # lpd happy "\"Liao, will you come with me? I make Liao happy forever.\" "
+    voice voice_file.lpd(8,14)
     lpd happy ""
 
 # game/script/08.rpy:774
@@ -1529,6 +1606,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_597c4258:
 
     # voice voice_file.lpd(8,15)
     # lpd normal "\"Ok.\" "
+    voice voice_file.lpd(8,15)
     lpd normal ""
 
 # game/script/08.rpy:786
@@ -1542,6 +1620,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_df7a3097:
 
     # voice voice_file.lpd(8,16)
     # lpd normal "\"...Hmm.\" "
+    voice voice_file.lpd(8,16)
     lpd normal ""
 
 # game/script/08.rpy:790
@@ -1586,6 +1665,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_79607f28:
 
     # voice voice_file.lpd(8,21)
     # lpd normal "\"Liao cares about me?\" "
+    voice voice_file.lpd(8,21)
     lpd normal ""
 
 # game/script/08.rpy:812
@@ -1599,6 +1679,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_f7036679:
 
     # voice voice_file.lpd(8,22)
     # lpd normal "\"Thank you. But no.\" "
+    voice voice_file.lpd(8,22)
     lpd normal ""
 
 # game/script/08.rpy:816
@@ -1612,6 +1693,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_7ddace91:
 
     # voice voice_file.lpd(8,23)
     # lpd normal "\"Shu-Chi smell, on futon.\" "
+    voice voice_file.lpd(8,23)
     lpd normal ""
 
 # game/script/08.rpy:820
@@ -1625,6 +1707,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_db0455bf:
 
     # voice voice_file.lpd(8,24)
     # lpd normal "\"I like desk. Thank you.\" "
+    voice voice_file.lpd(8,24)
     lpd normal ""
 
 # game/script/08.rpy:824
@@ -1638,6 +1721,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_76c14855:
 
     # voice voice_file.lpd(8,25)
     # lpd normal "\"Good night.\" "
+    voice voice_file.lpd(8,25)
     lpd normal ""
 
 # game/script/08.rpy:828
@@ -1713,6 +1797,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_468b521d:
 
     # voice voice_file.lpd(8,26)
     # lpd normal "\"No need.\" "
+    voice voice_file.lpd(8,26)
     lpd normal ""
 
 # game/script/08.rpy:894
@@ -1726,6 +1811,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_e3a08116:
 
     # voice voice_file.lpd(8,27)
     # lpd normal "\"I used to it.\" "
+    voice voice_file.lpd(8,27)
     lpd normal ""
 
 # game/script/08.rpy:898
@@ -1739,6 +1825,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_e3a08116_1:
 
     # voice voice_file.lpd(8,27)
     # lpd normal "\"I used to it.\" "
+    voice voice_file.lpd(8,27)
     lpd normal ""
 
 # game/script/08.rpy:902
@@ -1752,6 +1839,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_66a7253d:
 
     # voice voice_file.lpd(8,28)
     # lpd normal "\"I don't mind.\" "
+    voice voice_file.lpd(8,28)
     lpd normal ""
 
 # game/script/08.rpy:906
@@ -1765,6 +1853,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_211de9e7:
 
     # voice voice_file.lpd(8,29)
     # lpd normal "\"Thank you. I sleep desk.\" "
+    voice voice_file.lpd(8,29)
     lpd normal ""
 
 # game/script/08.rpy:910
@@ -1778,6 +1867,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_76c14855:
 
     # voice voice_file.lpd(8,25)
     # lpd normal "\"Good night.\" "
+    voice voice_file.lpd(8,25)
     lpd normal ""
 
 # game/script/08.rpy:914
@@ -1809,6 +1899,7 @@ translate polish s08_04_tig_ask_02_537fbacd:
 
     # voice voice_file.tig(8,33)
     # tig normal "\"Liao.\" "
+    voice voice_file.tig(8,33)
     tig normal ""
 
 # game/script/08.rpy:945
@@ -1822,6 +1913,7 @@ translate polish s08_04_tig_ask_02_be25b623:
 
     # voice voice_file.tig(8,34)
     # tig disappointed "\"Very much so. It was an exhausting task, but I'm back.\" "
+    voice voice_file.tig(8,34)
     tig disappointed ""
 
 # game/script/08.rpy:949
@@ -1829,6 +1921,7 @@ translate polish s08_04_tig_ask_02_ff97f996:
 
     # voice voice_file.tig(8,35)
     # tig normal "\"It's like this. Most likely that kitten is currently visiting the hometown of the human he's possessing.\" "
+    voice voice_file.tig(8,35)
     tig normal ""
 
 # game/script/08.rpy:952
@@ -1843,6 +1936,7 @@ translate polish s08_04_tig_ask_02_529e528a:
     # voice voice_file.tig(8,36)
     # tig normal "\"Yes. Even Clairvoyant wasn't able to find his footprints.\" "
     # tig normal "\"It appears the house he's residing in has a strong... barrier. I was unable to locate a way to see inside or hear anything.\" "
+    voice voice_file.tig(8,36)
     tig normal ""
 
 # game/script/08.rpy:958
@@ -1856,6 +1950,7 @@ translate polish s08_04_tig_ask_02_38602504:
 
     # voice voice_file.tig(8,37)
     # tig normal "\"I cannot tell you. I queried everyone I saw but I couldn't find much of anything. Eventually I did find a witness, but all they could tell me is that he went inside a mansion in Keelung.\" "
+    voice voice_file.tig(8,37)
     tig normal ""
 
 # game/script/08.rpy:962
@@ -1863,6 +1958,7 @@ translate polish s08_04_tig_ask_02_a82fea16:
 
     # voice voice_file.tig(8,38)
     # tig normal "\"Liao, can you think of anything odd surrounding his situation at home?\" "
+    voice voice_file.tig(8,38)
     tig normal ""
 
 # game/script/08.rpy:964
@@ -1883,6 +1979,7 @@ translate polish s08_04_tig_ask_02_fdc9ecde:
     # voice voice_file.tig(8,39)
     # tig normal "\"There are many possibilities as to why a barrier could be present. Mayhap a due to a powerful person living there, a god, or even a yaoguai guarding the premises.\" "
     # tig normal "\"If it were not his home, I would doubt that he would go there.\" "
+    voice voice_file.tig(8,39)
     tig normal ""
 
 # game/script/08.rpy:970
@@ -1896,6 +1993,7 @@ translate polish s08_04_tig_ask_02_b4c6bb59:
 
     # voice voice_file.tig(8,40)
     # tig normal "\"Who could say. As far as I have gathered, he went in there himself. He wasn't kidnapped or anything.\" "
+    voice voice_file.tig(8,40)
     tig normal ""
 
 # game/script/08.rpy:974
@@ -1915,6 +2013,7 @@ translate polish s08_04_tig_ask_02_bedcfd7f:
 
     # voice voice_file.tig(8,41)
     # tig frown "\"Even if so, it's his own problem.\" "
+    voice voice_file.tig(8,41)
     tig frown ""
 
 # game/script/08.rpy:985
@@ -1929,6 +2028,7 @@ translate polish s08_04_tig_ask_02_b2ce6eb1:
     # voice voice_file.tig(8,42)
     # tig normal "\"Their property does have a barrier, so it's not too much of a leap to assume that his family might be able to force him out of Yan Shu-Chi's body.\" "
     # tig normal "\"If that were to occur, Yan Shu-Chi would probably not come back here.\" "
+    voice voice_file.tig(8,42)
     tig normal ""
 
 # game/script/08.rpy:989
@@ -1943,6 +2043,7 @@ translate polish s08_04_tig_ask_02_65508b10:
     # voice voice_file.tig(8,43)
     # tig frown "\"Whatever the reason is, it's not a problem. He's in his home. Even if the kitten is forced out of that body he's still not in any danger.\" "
     # tig frown "\"As such, there is no need for you to worry.\" "
+    voice voice_file.tig(8,43)
     tig frown ""
 
 # game/script/08.rpy:995
@@ -1957,6 +2058,7 @@ translate polish s08_04_tig_ask_02_0482ca11:
     # voice voice_file.tig(8,44)
     # tig normal "\"We just need to wait for the kitten to come calling. If he's driven out, people wouldn't kill a guardian tiger. \" "
     # tig normal "\"Now that that's done with, all that's important is focusing on your studies.\" "
+    voice voice_file.tig(8,44)
     tig normal ""
 
 # game/script/08.rpy:999
@@ -1988,6 +2090,7 @@ translate polish s08_04_tig_ask_wait_2a24a5ed:
 
     # voice voice_file.tig(8,45)
     # tig normal "\"Liao, please, you're overthinking this. Everything is alright, no harm could come to that kitten.\" "
+    voice voice_file.tig(8,45)
     tig normal ""
 
 # game/script/08.rpy:1027
@@ -2019,6 +2122,7 @@ translate polish s08_04_tig_ask_go_b338756b:
 
     # voice voice_file.tig(8,46)
     # tig frown "\"I know. You can never really let something go until you see it with your own eyes.\" "
+    voice voice_file.tig(8,46)
     tig frown ""
 
 # game/script/08.rpy:1050
@@ -2033,6 +2137,7 @@ translate polish s08_04_tig_ask_go_872f2843:
     # voice voice_file.tig(8,47)
     # tig frown "\"As I said, that place has a barrier.\" "
     # tig frown "\"If you really must... I suggest you just call them.\" "
+    voice voice_file.tig(8,47)
     tig frown ""
 
 # game/script/08.rpy:1057
@@ -2046,6 +2151,7 @@ translate polish s08_04_tig_ask_go_ca6b3fac:
 
     # voice voice_file.tig(8,48)
     # tig normal "\"Yes. Call the house.\" "
+    voice voice_file.tig(8,48)
     tig normal ""
 
 # game/script/08.rpy:1061
@@ -2059,6 +2165,7 @@ translate polish s08_04_tig_ask_go_5b3fd038:
 
     # voice voice_file.tig(8,49)
     # tig frown "\"What else do you propose? Knocking on their door? \" "
+    voice voice_file.tig(8,49)
     tig frown ""
 
 # game/script/08.rpy:1065
@@ -2072,6 +2179,7 @@ translate polish s08_04_tig_ask_go_df1b1770:
 
     # voice voice_file.tig(8,50)
     # tig normal "\"A bus ride to Keelung would be fairly out of the way from here.  "
+    voice voice_file.tig(8,50)
     tig normal ""
 
 # game/script/08.rpy:1069
@@ -2087,6 +2195,7 @@ translate polish s08_04_tig_ask_go_fcadf681:
     # tig normal "\"Help with what? I don't see a mischievous kitten like him falling into any traps.\" "
     # tig normal "\"Even if the family did find him out, they'd most likely just force him to leave.\" "
     # tig normal "\"After all, they wouldn't kill a guardian tiger.\" "
+    voice voice_file.tig(8,51)
     tig normal ""
 
 # game/script/08.rpy:1077
@@ -2126,6 +2235,7 @@ translate polish s08_04_tig_ask_go_5eb5ca43:
 
     # voice voice_file.tig(8,52)
     # tig normal "\"...If there is nothing to be done to stop you, then at least allow me to accompany \nyou.\" "
+    voice voice_file.tig(8,52)
     tig normal ""
 
 # game/script/08.rpy:1101
@@ -2139,6 +2249,7 @@ translate polish s08_04_tig_ask_go_ab9359e6:
 
     # voice voice_file.tig(8,53)
     # tig normal "\"Leopard, you should come as well. Or do you not worry about Liao's safety?\" "
+    voice voice_file.tig(8,53)
     tig normal ""
 
 # game/script/08.rpy:1109
@@ -2146,6 +2257,7 @@ translate polish s08_04_tig_ask_go_30606715:
 
     # voice voice_file.lpd(8,30)
     # lpd normal "\"I do.\" "
+    voice voice_file.lpd(8,30)
     lpd normal ""
 
 # game/script/08.rpy:1111
@@ -2153,6 +2265,7 @@ translate polish s08_04_tig_ask_go_f01ab7d9:
 
     # voice voice_file.tig(8,54)
     # tig normal "\"Then if we must go we should hurry.\" "
+    voice voice_file.tig(8,54)
     tig normal ""
 
 # game/script/08.rpy:1113
@@ -2197,6 +2310,7 @@ translate polish s08_04_tig_dont_ask_09afb708:
 
     # voice voice_file.tig(8,55)
     # tig frown "\"Liao, you're overthinking this. That kitten couldn't possibly be in any real trouble.\" "
+    voice voice_file.tig(8,55)
     tig frown ""
 
 # game/script/08.rpy:1148
@@ -2210,6 +2324,7 @@ translate polish s08_04_tig_dont_ask_2e7f7016:
 
     # voice voice_file.tig(8,56)
     # tig normal "\"At the very least it would feel nice to be free of him, wouldn't it?\" "
+    voice voice_file.tig(8,56)
     tig normal ""
 
 # game/script/08.rpy:1154
@@ -2223,6 +2338,7 @@ translate polish s08_04_tig_dont_ask_ba54f4f7:
 
     # voice voice_file.tig(8,57)
     # tig disappointed "\"I understand. He'll probably be back in a few days. It's ok Liao. Now you should stop worrying over this and study for your exams.\" "
+    voice voice_file.tig(8,57)
     tig disappointed ""
 
 # game/script/08.rpy:1158
@@ -2266,6 +2382,7 @@ translate polish s08_04_lpd_eb5245d5:
 
     # voice voice_file.tig(8,58)
     # tig normal "\"Liao? What's wrong?\" "
+    voice voice_file.tig(8,58)
     tig normal ""
 
 # game/script/08.rpy:1188
@@ -2280,6 +2397,7 @@ translate polish s08_04_lpd_38ac27c4:
     # voice voice_file.tig(8,59)
     # tig normal "\"That kitten... wherever he is, he'll be fine.\" "
     # tig normal "\"He is a guardian tiger after all, the other yaoguai wouldn't harm him.\" "
+    voice voice_file.tig(8,59)
     tig normal ""
 
 # game/script/08.rpy:1192
@@ -2293,6 +2411,7 @@ translate polish s08_04_lpd_f259d5d6:
 
     # voice voice_file.lpd(8,31)
     # lpd normal "\"Liao is upset.\" "
+    voice voice_file.lpd(8,31)
     lpd normal ""
 
 # game/script/08.rpy:1196
@@ -2318,6 +2437,7 @@ translate polish s08_04_lpd_f3f8c599:
 
     # voice voice_file.lpd(8,32)
     # lpd obsessed "\"I think, yes?\" "
+    voice voice_file.lpd(8,32)
     lpd obsessed ""
 
 # game/script/08.rpy:1204
@@ -2331,6 +2451,7 @@ translate polish s08_04_lpd_2279ee0d:
 
     # voice voice_file.lpd(8,33)
     # lpd normal "\"I know his scent. It difficult. It too close.\" "
+    voice voice_file.lpd(8,33)
     lpd normal ""
 
 # game/script/08.rpy:1208
@@ -2345,6 +2466,7 @@ translate polish s08_04_lpd_acda2211:
     # voice voice_file.lpd(8,34)
     # lpd normal "\"I don't have enough strength. No smell.\" "
     # lpd normal "\"Must go different place.\" "
+    voice voice_file.lpd(8,34)
     lpd normal ""
 
 # game/script/08.rpy:1216
@@ -2358,6 +2480,7 @@ translate polish s08_04_lpd_fbac1f87:
 
     # voice voice_file.lpd(8,35)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(8,35)
     lpd normal ""
 
 # game/script/08.rpy:1220
@@ -2371,6 +2494,7 @@ translate polish s08_04_lpd_167238cb:
 
     # voice voice_file.lpd(8,36)
     # lpd normal "\"It take time.\" "
+    voice voice_file.lpd(8,36)
     lpd normal ""
 
 # game/script/08.rpy:1224
@@ -2384,6 +2508,7 @@ translate polish s08_04_lpd_29e46f2d:
 
     # voice voice_file.tig(8,60)
     # tig frown "\"You two may do whatever you wish, but I don't think that kitten is someone you should make a fuss over.\" "
+    voice voice_file.tig(8,60)
     tig frown ""
 
 # game/script/08.rpy:1233
@@ -2403,6 +2528,7 @@ translate polish s08_04_lpd_597c4258:
 
     # voice voice_file.lpd(8,37)
     # lpd normal "\"Mm-hm.\" "
+    voice voice_file.lpd(8,37)
     lpd normal ""
 
 # game/script/08.rpy:1239
@@ -2410,6 +2536,7 @@ translate polish s08_04_lpd_059e9cf1:
 
     # voice voice_file.lpd(8,38)
     # lpd happy "\"I very happy to help Liao.\" "
+    voice voice_file.lpd(8,38)
     lpd happy ""
 
 # game/script/08.rpy:1241
@@ -2435,6 +2562,7 @@ translate polish s08_04_lpd_bcbe5d4a:
 
     # voice voice_file.tig(8,61)
     # tig frown "\"Well.\" " with vshake
+    voice voice_file.tig(8,61)
     tig frown "" with vshake
 
 # game/script/08.rpy:1257
@@ -2442,6 +2570,7 @@ translate polish s08_04_lpd_acd0fc37:
 
     # voice voice_file.tig(8,62)
     # tig frown "\"As long as he's out searching, you could keep studying.\" "
+    voice voice_file.tig(8,62)
     tig frown ""
 
 # game/script/08.rpy:1259
@@ -2486,6 +2615,7 @@ translate polish s08_04_lpd_98774fda:
 
     # voice voice_file.tig(8,63)
     # tig normal "\"Liao, you're concerned about Leopard, aren't you?\" "
+    voice voice_file.tig(8,63)
     tig normal ""
 
 # game/script/08.rpy:1285
@@ -2500,6 +2630,7 @@ translate polish s08_04_lpd_5834a5ab:
     # voice voice_file.tig(8,64)
     # tig disappointed "\"Really... there's no need. Just focus on studying. After all, he is much stronger than any yaoguai I know off. As much as I'd hate to admit, even stronger I am.\" "
     # tig disappointed "\"You absolutely don't need to worry about him.\" "
+    voice voice_file.tig(8,64)
     tig disappointed ""
 
 # game/script/08.rpy:1290
@@ -2513,6 +2644,7 @@ translate polish s08_04_lpd_b05e56fa:
 
     # voice voice_file.tig(8,65)
     # tig normal "\"Easily. Two of me couldn't kick him out. If it were possible, do you not think I would have done so already?\" "
+    voice voice_file.tig(8,65)
     tig normal ""
 
 # game/script/08.rpy:1294
@@ -2526,6 +2658,7 @@ translate polish s08_04_lpd_4af47c5f:
 
     # voice voice_file.tig(8,66)
     # tig normal "\"He did say that he needed some time. You can be rest assured that he'll be back once he's done whatever it is that he's doing.\" "
+    voice voice_file.tig(8,66)
     tig normal ""
 
 # game/script/08.rpy:1298
@@ -2557,6 +2690,7 @@ translate polish s08_04_lpd_day1sleep_tig_3c32cbd2:
 
     # voice voice_file.tig(8,67)
     # tig normal "\"...Liao, you really don't need to be so worried.\" "
+    voice voice_file.tig(8,67)
     tig normal ""
 
 # game/script/08.rpy:1330
@@ -2576,6 +2710,7 @@ translate polish s08_04_lpd_day1sleep_tig_d09fb6ce:
 
     # voice voice_file.tig(8,68)
     # tig disappointed "\"I don't wish to see you upset, but what can I do? You're really worrying over nothing.\" "
+    voice voice_file.tig(8,68)
     tig disappointed ""
 
 # game/script/08.rpy:1342
@@ -2589,6 +2724,7 @@ translate polish s08_04_lpd_day1sleep_tig_e7afec25:
 
     # voice voice_file.tig(8,69)
     # tig normal "\"Liao, you really do care about other people, but I'm afraid you do so too readily. One could just as easily take advantage of you.\" "
+    voice voice_file.tig(8,69)
     tig normal ""
 
 # game/script/08.rpy:1346
@@ -2609,6 +2745,7 @@ translate polish s08_04_lpd_day1sleep_tig_7d59e442:
     # voice voice_file.tig(8,70)
     # tig normal "\"Regardless of what I think of his morals, I'm sure he's fine.\" "
     # tig normal "\"What I do refer to are all the bad people in this world. You shouldn't be so quick to believe what people say.\" "
+    voice voice_file.tig(8,70)
     tig normal ""
 
 # game/script/08.rpy:1352
@@ -2623,6 +2760,7 @@ translate polish s08_04_lpd_day1sleep_tig_051948bc:
     # voice voice_file.tig(8,71)
     # tig normal "\"It's not something many realise until they've been tricked. If that ever happens, just remember that you are a son of the Lin family.\" "
     # tig normal "\"The Holy Mother, the guardian tigers, your entire family and many others including me will protect you. Whatever you need, I'm sure you'll be able to count on us.\" "
+    voice voice_file.tig(8,71)
     tig normal ""
 
 # game/script/08.rpy:1356
@@ -2636,6 +2774,7 @@ translate polish s08_04_lpd_day1sleep_tig_5989f69f:
 
     # voice voice_file.tig(8,72)
     # tig disappointed "\"In any case, you're such a good boy Liao. And... I cannot simply sit here and watch you worry without doing so myself.\" "
+    voice voice_file.tig(8,72)
     tig disappointed ""
 
 # game/script/08.rpy:1362
@@ -2674,6 +2813,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_40262376:
 
     # voice voice_file.tig(8,73)
     # tig normal "\"Hmm? What is it?\" "
+    voice voice_file.tig(8,73)
     tig normal ""
 
 # game/script/08.rpy:1406
@@ -2687,6 +2827,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_8ae21bc7:
 
     # voice voice_file.tig(8,74)
     # tig gaze "\"Oh?\" "
+    voice voice_file.tig(8,74)
     tig gaze ""
 
 # game/script/08.rpy:1413
@@ -2694,6 +2835,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_a811eac1:
 
     # voice voice_file.tig(8,75)
     # tig disappointed "\"Although, it's always a possibility that Leopard might return tonight, is it not?\" "
+    voice voice_file.tig(8,75)
     tig disappointed ""
 
 # game/script/08.rpy:1415
@@ -2707,6 +2849,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_03eb0388:
 
     # voice voice_file.tig(8,76)
     # tig frown "\"Hmm...\" "
+    voice voice_file.tig(8,76)
     tig frown ""
 
 # game/script/08.rpy:1419
@@ -2714,6 +2857,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_304c7b70:
 
     # voice voice_file.tig(8,77)
     # tig normal "\"But after everything that's happened, I'm more than happy to stay with you.\" "
+    voice voice_file.tig(8,77)
     tig normal ""
 
 # game/script/08.rpy:1424
@@ -2728,6 +2872,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_ff0d4acc:
 
     # voice voice_file.tig(8,78)
     # tig normal "\"You can lay down on me.\" "
+    voice voice_file.tig(8,78)
     tig normal ""
 
 # game/script/08.rpy:1428
@@ -2747,6 +2892,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_df75d93c:
 
     # voice voice_file.tig(8,79)
     # tig normal "\"Yes, how else would you have room to sleep comfortably?\" "
+    voice voice_file.tig(8,79)
     tig normal ""
 
 # game/script/08.rpy:1434
@@ -2772,6 +2918,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_fe763d2c:
 
     # voice voice_file.tig(8,80)
     # tig gentle "\"Oh, Liao...\" "
+    voice voice_file.tig(8,80)
     tig gentle ""
 
 # game/script/08.rpy:1450
@@ -2785,6 +2932,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_db383c45:
 
     # voice voice_file.tig(8,81)
     # tig gentle "\"Why do you always make me worry about you?\" "
+    voice voice_file.tig(8,81)
     tig gentle ""
 
 # game/script/08.rpy:1454
@@ -2800,6 +2948,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_5bc67623:
     # tig normal "\"You may not have noticed, but you always put your whole heart into things when it comes to helping others.\" "
     # tig normal "\"I've seen you turning yourself over in turmoil, worrying about those two. Your love and care is consuming you to the point where taking a small break just to study for yourself is beyond your ability.\" "
     # tig normal "\"You care about others more than you do so for yourself. That's why I worry about you.\" "
+    voice voice_file.tig(8,82)
     tig normal ""
 
 # game/script/08.rpy:1458
@@ -2813,6 +2962,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_dcd648ff:
 
     # voice voice_file.tig(8,83)
     # tig disappointed "\"I know. That's just how you are. You're a wonderful boy, alas...\" "
+    voice voice_file.tig(8,83)
     tig disappointed ""
 
 # game/script/08.rpy:1462
@@ -2820,6 +2970,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_e55057f4:
 
     # voice voice_file.tig(8,84)
     # tig normal "\"I only wish that you would garner more time to care for yourself. I hope that's not too much to ask.\" "
+    voice voice_file.tig(8,84)
     tig normal ""
 
 # game/script/08.rpy:1464
@@ -2847,6 +2998,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_f7d68014:
 
     # voice voice_file.tig(8,85)
     # tig gentle "\"Liao, you're a son of the Lin family, and my worshipper, so please don't make me have to worry so much.\" "
+    voice voice_file.tig(8,85)
     tig gentle ""
 
 # game/script/08.rpy:1475
@@ -2890,6 +3042,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_65477bc8:
 
     # voice voice_file.tig(8,86)
     # tig laugh_1 "\"Haha— As much as I would be honoured by you worrying about me, it would just make everyone around you worry as well. Please, do try not to overthink this.\" "
+    voice voice_file.tig(8,86)
     tig laugh_1 ""
 
 # game/script/08.rpy:1491
@@ -2903,6 +3056,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_b89e2d08:
 
     # voice voice_file.tig(8,87)
     # tig normal "\"Please, overthinking like this isn't healthy for you.\" "
+    voice voice_file.tig(8,87)
     tig normal ""
 
 # game/script/08.rpy:1495
@@ -2910,6 +3064,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_1d4e9a85:
 
     # voice voice_file.tig(8,88)
     # tig gentle "\"So let's just take this a few steps at a time. Try to not think so deeply about everything. Understood?\" "
+    voice voice_file.tig(8,88)
     tig gentle ""
 
 # game/script/08.rpy:1497
@@ -2923,6 +3078,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_1fba8e05:
 
     # voice voice_file.tig(8,89)
     # tig normal "\"It's alright. Just relax. It's time to sleep.\" "
+    voice voice_file.tig(8,89)
     tig normal ""
 
 # game/script/08.rpy:1501
@@ -2930,6 +3086,7 @@ translate polish s08_04_lpd_day1sleep_lpd_01_04225098:
 
     # voice voice_file.tig(8,90)
     # tig laugh_1 "\"It's been a while since I hugged you to sleep...\" "
+    voice voice_file.tig(8,90)
     tig laugh_1 ""
 
 # game/script/08.rpy:1503
@@ -2955,6 +3112,7 @@ translate polish s08_04_lpd_day1sleep_lpd_02_40262376:
 
     # voice voice_file.tig(8,73)
     # tig normal "\"Hmm?\" "
+    voice voice_file.tig(8,73)
     tig normal ""
 
 # game/script/08.rpy:1517
@@ -2968,6 +3126,7 @@ translate polish s08_04_lpd_day1sleep_lpd_02_2cf16f76:
 
     # voice voice_file.tig(8,91)
     # tig frown "\"..The futon?\" "
+    voice voice_file.tig(8,91)
     tig frown ""
 
 # game/script/08.rpy:1521
@@ -2981,6 +3140,7 @@ translate polish s08_04_lpd_day1sleep_lpd_02_49793745:
 
     # voice voice_file.tig(8,92)
     # tig angry "\"I refuse to sleep on the same futon as that kitten.\" "
+    voice voice_file.tig(8,92)
     tig angry ""
 
 # game/script/08.rpy:1534
@@ -2988,6 +3148,7 @@ translate polish s08_04_lpd_day1sleep_lpd_02_75585fee:
 
     # voice voice_file.tig(8,93)
     # tig angry "\"That I would sleep smelling his foul Chi everywhere... You must be joking.\" " with vshake
+    voice voice_file.tig(8,93)
     tig angry "" with vshake
 
 # game/script/08.rpy:1538
@@ -3001,6 +3162,7 @@ translate polish s08_04_lpd_day1sleep_lpd_02_dd7c5efc:
 
     # voice voice_file.tig(8,94)
     # tig frown "\"Humph— I would be ashamed to do so.\" "
+    voice voice_file.tig(8,94)
     tig frown ""
 
 # game/script/08.rpy:1544
@@ -3040,6 +3202,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_40262376:
 
     # voice voice_file.tig(8,73)
     # tig normal "\"Hmm?\" "
+    voice voice_file.tig(8,73)
     tig normal ""
 
 # game/script/08.rpy:1593
@@ -3053,6 +3216,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_07fef6c0:
 
     # voice voice_file.tig(8,95)
     # tig lift "\"A futon? What for?\" "
+    voice voice_file.tig(8,95)
     tig lift ""
 
 # game/script/08.rpy:1597
@@ -3066,6 +3230,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_ea555594:
 
     # voice voice_file.tig(8,96)
     # tig normal "\"I'm fine, but thank you\" "
+    voice voice_file.tig(8,96)
     tig normal ""
 
 # game/script/08.rpy:1601
@@ -3073,6 +3238,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_5c40b9c2:
 
     # voice voice_file.tig(8,97)
     # tig normal "\"Gods should rest in their statues. It's a lot of work to prepare the futon for no reason.\" "
+    voice voice_file.tig(8,97)
     tig normal ""
 
 # game/script/08.rpy:1603
@@ -3080,6 +3246,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_7a0b2fc6:
 
     # voice voice_file.tig(8,98)
     # tig normal "\"I'll see you tomorrow. Please try to get some sleep. Don't stay up worrying all night.\" "
+    voice voice_file.tig(8,98)
     tig normal ""
 
 # game/script/08.rpy:1605
@@ -3093,6 +3260,7 @@ translate polish s08_04_lpd_day1sleep_lpdcat_02_05ada93c:
 
     # voice voice_file.tig(8,99)
     # tig disappointed "\"...Good.\" "
+    voice voice_file.tig(8,99)
     tig disappointed ""
 
 # game/script/08.rpy:1609
@@ -3130,6 +3298,7 @@ translate polish s08_04_lpd_02_0899e157:
 
     # voice voice_file.tig(8,100)
     # tig frown "\"...Don't stand over him like that.\" "
+    voice voice_file.tig(8,100)
     tig frown ""
 
 # game/script/08.rpy:1643
@@ -3137,6 +3306,7 @@ translate polish s08_04_lpd_02_73bc488d:
 
     # voice voice_file.lpd(8,39)
     # lpd disappointed "\"...Sorry.\" "
+    voice voice_file.lpd(8,39)
     lpd disappointed ""
 
 # game/script/08.rpy:1645
@@ -3150,6 +3320,7 @@ translate polish s08_04_lpd_02_c49e6e0b:
 
     # voice voice_file.lpd(8,40)
     # lpd happy "\"I'm back.\" "
+    voice voice_file.lpd(8,40)
     lpd happy ""
 
 # game/script/08.rpy:1649
@@ -3163,6 +3334,7 @@ translate polish s08_04_lpd_02_b8de51b6:
 
     # voice voice_file.lpd(8,41)
     # lpd normal "\"I found him.\" "
+    voice voice_file.lpd(8,41)
     lpd normal ""
 
 # game/script/08.rpy:1653
@@ -3176,6 +3348,7 @@ translate polish s08_04_lpd_02_c9858ecf:
 
     # voice voice_file.lpd(8,42)
     # lpd normal "\"Big house.\" " with flash
+    voice voice_file.lpd(8,42)
     lpd normal "" with flash
 
 # game/script/08.rpy:1658
@@ -3213,6 +3386,7 @@ translate polish s08_04_lpd_02_0dd5cd1b:
 
     # voice voice_file.lpd(8,43)
     # lpd obsessed "\"Do not know.\" "
+    voice voice_file.lpd(8,43)
     lpd obsessed ""
 
 # game/script/08.rpy:1675
@@ -3226,6 +3400,7 @@ translate polish s08_04_lpd_02_047c8437:
 
     # voice voice_file.tig(8,101)
     # tig normal "\"If he's at home, then that means the kitten is fine.\" "
+    voice voice_file.tig(8,101)
     tig normal ""
 
 # game/script/08.rpy:1679
@@ -3245,6 +3420,7 @@ translate polish s08_04_lpd_02_03eb0388:
 
     # voice voice_file.tig(8,102)
     # tig frown "\"Hmm...\" "
+    voice voice_file.tig(8,102)
     tig frown ""
 
 # game/script/08.rpy:1685
@@ -3258,6 +3434,7 @@ translate polish s08_04_lpd_02_cfc19127:
 
     # voice voice_file.lpd(8,44)
     # lpd obsessed "\"No.\" "
+    voice voice_file.lpd(8,44)
     lpd obsessed ""
 
 # game/script/08.rpy:1689
@@ -3265,6 +3442,7 @@ translate polish s08_04_lpd_02_e44cf17b:
 
     # voice voice_file.lpd(8,45)
     # lpd obsessed "\"Big house... many people. Yaoguais, Han gods. Powerful. Can't go in.\" "
+    voice voice_file.lpd(8,45)
     lpd obsessed ""
 
 # game/script/08.rpy:1691
@@ -3284,6 +3462,7 @@ translate polish s08_04_lpd_02_dba500cb:
 
     # voice voice_file.tig(8,103)
     # tig normal "\"Hmm... Mayhap his family is very wealthy. It's not unexpected for such powerful families to call upon many gods with offerings to protect them.\" "
+    voice voice_file.tig(8,103)
     tig normal ""
 
 # game/script/08.rpy:1697
@@ -3297,6 +3476,7 @@ translate polish s08_04_lpd_02_c1bbb722:
 
     # voice voice_file.tig(8,104)
     # tig normal "\"Perhaps his parents don't send him money.\" "
+    voice voice_file.tig(8,104)
     tig normal ""
 
 # game/script/08.rpy:1701
@@ -3316,6 +3496,7 @@ translate polish s08_04_lpd_02_3eca0124:
 
     # voice voice_file.lpd(8,46)
     # lpd obsessed "\"I think yes.\" "
+    voice voice_file.lpd(8,46)
     lpd obsessed ""
 
 # game/script/08.rpy:1707
@@ -3329,6 +3510,7 @@ translate polish s08_04_lpd_02_a5346f70:
 
     # voice voice_file.tig(8,105)
     # tig frown "\"...Liao, you do not plan to go over there, do you?\" "
+    voice voice_file.tig(8,105)
     tig frown ""
 
 # game/script/08.rpy:1714
@@ -3342,6 +3524,7 @@ translate polish s08_04_lpd_02_2f460a0f:
 
     # voice voice_file.tig(8,106)
     # tig frown "\"It's his home, whatever his family decides to do is their own business. It's not your position to intrude on such matters.\" "
+    voice voice_file.tig(8,106)
     tig frown ""
 
 # game/script/08.rpy:1718
@@ -3355,6 +3538,7 @@ translate polish s08_04_lpd_02_c56b7688:
 
     # voice voice_file.tig(8,107)
     # tig frown "\"Even if they force the kitten out, he is still a guardian tiger. No harm would come to him.\" "
+    voice voice_file.tig(8,107)
     tig frown ""
 
 # game/script/08.rpy:1722
@@ -3368,6 +3552,7 @@ translate polish s08_04_lpd_02_b21adda1:
 
     # voice voice_file.tig(8,108)
     # tig frown "\"This is all but speculation. If he's home, he's fine. You're thinking too much into this... Right now, your time would be better spent on study.\" "
+    voice voice_file.tig(8,108)
     tig frown ""
 
 # game/script/08.rpy:1731
@@ -3375,6 +3560,7 @@ translate polish s08_04_lpd_02_fd0c6237:
 
     # voice voice_file.lpd(8,47)
     # lpd obsessed "\"Liao worried. I want to help.\" "
+    voice voice_file.lpd(8,47)
     lpd obsessed ""
 
 # game/script/08.rpy:1733
@@ -3388,6 +3574,7 @@ translate polish s08_04_lpd_02_99639d8b:
 
     # voice voice_file.tig(8,109)
     # tig frown "\"...What?\" "
+    voice voice_file.tig(8,109)
     tig frown ""
 
 # game/script/08.rpy:1737
@@ -3395,6 +3582,7 @@ translate polish s08_04_lpd_02_5c3c46c9:
 
     # voice voice_file.lpd(8,48)
     # lpd normal "\"I will find Shu-Chi.\" "
+    voice voice_file.lpd(8,48)
     lpd normal ""
 
 # game/script/08.rpy:1740
@@ -3402,6 +3590,7 @@ translate polish s08_04_lpd_02_1fe52d68:
 
     # voice voice_file.tig(8,110)
     # tig angry "\"So you would just storm into their home {i}unannounced{/i} \ and spirit him away from his family? All without {i}knowing{/i} \ what is really going on? If he's fine...\" " with vshake
+    voice voice_file.tig(8,110)
     tig angry "" with vshake
 
 # game/script/08.rpy:1744
@@ -3409,6 +3598,7 @@ translate polish s08_04_lpd_02_753937fc:
 
     # voice voice_file.lpd(8,49)
     # lpd normal "\"Liao wants.\" "
+    voice voice_file.lpd(8,49)
     lpd normal ""
 
 # game/script/08.rpy:1750
@@ -3416,6 +3606,7 @@ translate polish s08_04_lpd_02_3684a5ea:
 
     # voice voice_file.tig(8,111)
     # tig frown "\"...I can't stand you.\" "
+    voice voice_file.tig(8,111)
     tig frown ""
 
 # game/script/08.rpy:1752
@@ -3423,6 +3614,7 @@ translate polish s08_04_lpd_02_31809e46:
 
     # voice voice_file.tig(8,112)
     # tig angry "\"...Idiot.\" "
+    voice voice_file.tig(8,112)
     tig angry ""
 
 # game/script/08.rpy:1754
@@ -3436,6 +3628,7 @@ translate polish s08_04_lpd_02_5e2cae97:
 
     # voice voice_file.tig(8,113)
     # tig frown "\"...Alright\" "
+    voice voice_file.tig(8,113)
     tig frown ""
 
 # game/script/08.rpy:1760
@@ -3443,6 +3636,7 @@ translate polish s08_04_lpd_02_6ce9cb06:
 
     # voice voice_file.tig(8,114)
     # tig frown "\"If you two insist on acting like fools, then I might as well come along if only to save you from yourselves.\" "
+    voice voice_file.tig(8,114)
     tig frown ""
 
 # game/script/08.rpy:1762
@@ -3456,6 +3650,7 @@ translate polish s08_04_lpd_02_7887cf8d:
 
     # voice voice_file.tig(8,115)
     # tig frown "\"Well... I still don't agree with it, but I must do as I must to make sure you two won't make a mess.\" "
+    voice voice_file.tig(8,115)
     tig frown ""
 
 # game/script/08.rpy:1770
@@ -3463,6 +3658,7 @@ translate polish s08_04_lpd_02_4f6a9541:
 
     # voice voice_file.tig(8,116)
     # tig frown "\"My belief is still that the kitten is fine. If you must see for yourself, you may in fact be getting him in trouble. Just be cautious of that. In any case, do you still wish to go?\" "
+    voice voice_file.tig(8,116)
     tig frown ""
 
 # game/script/08.rpy:1790
@@ -3482,6 +3678,7 @@ translate polish s08_04_lpd_wait_799ae2a9:
 
     # voice voice_file.tig(8,117)
     # tig normal "\"That's right. There is no need to wildly imagine such things. Just take a step back for now and concentrate on the studying you should be doing.\" "
+    voice voice_file.tig(8,117)
     tig normal ""
 
 # game/script/08.rpy:1798
@@ -3513,6 +3710,7 @@ translate polish s08_04_lpd_wait_d226f92b:
 
     # voice voice_file.lpd(8,50)
     # lpd normal "\"Liao, not worry?\" "
+    voice voice_file.lpd(8,50)
     lpd normal ""
 
 # game/script/08.rpy:1808
@@ -3526,6 +3724,7 @@ translate polish s08_04_lpd_wait_33e37cd5:
 
     # voice voice_file.lpd(8,51)
     # lpd happy "\"Fine is good.\" "
+    voice voice_file.lpd(8,51)
     lpd happy ""
 
 # game/script/08.rpy:1812
@@ -3564,6 +3763,7 @@ translate polish s08_04_lpd_go_77f0c716:
 
     # voice voice_file.tig(8,118)
     # tig disappointed "\"...If you must.\" "
+    voice voice_file.tig(8,118)
     tig disappointed ""
 
 # game/script/08.rpy:1841
@@ -3571,6 +3771,7 @@ translate polish s08_04_lpd_go_0fb872dc:
 
     # voice voice_file.tig(8,119)
     # tig normal "\"I shall accompany you. Leopard, lead the way.\" "
+    voice voice_file.tig(8,119)
     tig normal ""
 
 # game/script/08.rpy:1843
@@ -3578,6 +3779,7 @@ translate polish s08_04_lpd_go_597c4258:
 
     # voice voice_file.lpd(8,52)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(8,52)
     lpd normal ""
 
 # game/script/08.rpy:1845
@@ -3591,6 +3793,7 @@ translate polish s08_04_lpd_go_ea2b45c7:
 
     # voice voice_file.tig(8,120)
     # tig normal "\"Whatever. Don't neglect to bring my statue. Let's be off.\" "
+    voice voice_file.tig(8,120)
     tig normal ""
 
 # game/script/08.rpy:1849

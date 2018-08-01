@@ -11,6 +11,7 @@ translate polish s17_branch4_296544e6:
 
     # voice voice_file.tig(17,1)
     # tig frown "\"Liao, why are you always...\" "
+    voice voice_file.tig(17,1)
     tig frown ""
 
 # game/script/17.rpy:15
@@ -24,6 +25,7 @@ translate polish s17_branch4_371fb728:
 
     # voice voice_file.tig(17,2)
     # tig frown "\"Has he not said enough?\" " with vshake
+    voice voice_file.tig(17,2)
     tig frown "" with vshake
 
 # game/script/17.rpy:20
@@ -43,6 +45,7 @@ translate polish s17_branch4_5026cc72:
 
     # voice voice_file.tig(17,3)
     # tig frown "\"I would call you naive, but I know this is just how you are...\" "
+    voice voice_file.tig(17,3)
     tig frown ""
 
 # game/script/17.rpy:30
@@ -51,6 +54,7 @@ translate polish s17_branch4_b26a5891:
     # voice voice_file.tig(17,4)
     # tig disappointed "\"So— Fine. Do what you must.\" "
     # tig disappointed "\"But first, how do you expect to find him? I don't see him ever coming back in a \nhurry.\" "
+    voice voice_file.tig(17,4)
     tig disappointed ""
 
 # game/script/17.rpy:32
@@ -83,6 +87,7 @@ translate polish s17_branch4_e76dd0fb:
     # voice voice_file.tig(17,5)
     # tig frown "\"I don't see that working. Finding that leopard's kind is an arduous task among gods.\" "
     # tig frown "\"If he chose to hide in the mountains even Clairvoyant and Clairaudience would not find him. Naturally their power is weaker where there are no humans.\" "
+    voice voice_file.tig(17,5)
     tig frown ""
 
 # game/script/17.rpy:42
@@ -96,6 +101,7 @@ translate polish s17_branch4_9201fc17:
 
     # voice voice_file.tig(17,6)
     # tig disappointed "\"What would make you think I have some yaoguai at my beck and call?\" "
+    voice voice_file.tig(17,6)
     tig disappointed ""
 
 # game/script/17.rpy:46
@@ -109,6 +115,7 @@ translate polish s17_branch4_e15dfbdd:
 
     # voice voice_file.tig(17,7)
     # tig frown "\"Liao, must you worry this much over him. He ran away safely, so I'm certain he will make it back to Wutai in due time.\" "
+    voice voice_file.tig(17,7)
     tig frown ""
 
 # game/script/17.rpy:50
@@ -117,6 +124,7 @@ translate polish s17_branch4_729413a2:
     # voice voice_file.tig(17,8)
     # tig frown "\"But if you are that dead set on finding him... you could always make a trip to Wutai, as much as I disapprove.\" "
     # tig frown "\"There would be no way to know whether his power would be strengthened there or if other gods will assist him. It's very reckless.\" "
+    voice voice_file.tig(17,8)
     tig frown ""
 
 # game/script/17.rpy:52
@@ -160,6 +168,7 @@ translate polish s17_branch4_56bd325e:
 
     # voice voice_file.jiahao(17,1)
     # phone "\"What's the matter?\" "
+    voice voice_file.jiahao(17,1)
     phone ""
 
 # game/script/17.rpy:68
@@ -173,6 +182,7 @@ translate polish s17_branch4_99fceac4:
 
     # voice voice_file.jiahao(17,2)
     # phone "\"...Why? Liao, even if you ask me I...\" "
+    voice voice_file.jiahao(17,2)
     phone ""
 
 # game/script/17.rpy:74
@@ -186,6 +196,7 @@ translate polish s17_branch4_867cc2b8:
 
     # voice voice_file.jiahao(17,3)
     # phone "\"It's going to be hard. If I had to guess, I don't think anyone in my family would know.\" "
+    voice voice_file.jiahao(17,3)
     phone ""
 
 # game/script/17.rpy:78
@@ -200,6 +211,7 @@ translate polish s17_branch4_5e457d89:
     # voice voice_file.jiahao(17,4)
     # phone "\"Ahh— Well my family have been Christians since my mum's generation, so most of the Rukai traditions were never passed down to us. \" "
     # phone "\"If you really need to know you'd probably have better luck in a library than with my family.\" "
+    voice voice_file.jiahao(17,4)
     phone ""
 
 # game/script/17.rpy:82
@@ -213,6 +225,7 @@ translate polish s17_branch4_03b7f323:
 
     # voice voice_file.jiahao(17,5)
     # phone "\"But, I can always ask my aunt and see if I can dig anything up. Juuuust don't expect anything.\" "
+    voice voice_file.jiahao(17,5)
     phone ""
 
 # game/script/17.rpy:86
@@ -226,6 +239,7 @@ translate polish s17_branch4_bc92e419:
 
     # voice voice_file.jiahao(17,6)
     # phone "\"So what's wrong anyway? You can tell me if you want to. Maybe I can help?\" "
+    voice voice_file.jiahao(17,6)
     phone ""
 
 # game/script/17.rpy:92
@@ -239,6 +253,7 @@ translate polish s17_branch4_27891903:
 
     # voice voice_file.jiahao(17,7)
     # phone "\"It's okay if you don't want to say...\" "
+    voice voice_file.jiahao(17,7)
     phone ""
 
 # game/script/17.rpy:96
@@ -271,6 +286,7 @@ translate polish s17_branch4_d00423ad:
 
     # voice voice_file.jiahao(17,8)
     # phone "\"Clouded leopard god? Who could that be... Huh— Well, I won't pry for details.\" "
+    voice voice_file.jiahao(17,8)
     phone ""
 
 # game/script/17.rpy:109
@@ -279,6 +295,7 @@ translate polish s17_branch4_a831c220:
     # voice voice_file.jiahao(17,9)
     # phone "\"I don't know any specific ceremony for this but usually the Rukai use wine and meat as offerings.\" "
     # phone "\"Get some {font=tl/None/NotoSansCJKtc-Bold.otf}millet wine{/font} and roasted pork belly and go to an open space and pray. That's the only way I can think of. Other than that... I'll ask around.\" "
+    voice voice_file.jiahao(17,9)
     phone ""
 
 # game/script/17.rpy:111
@@ -292,6 +309,7 @@ translate polish s17_branch4_f4f44788:
 
     # voice voice_file.jiahao(17,10)
     # phone "\"What'd I help with... Never mind, just... tell me when you're ready.\" "
+    voice voice_file.jiahao(17,10)
     phone ""
 
 # game/script/17.rpy:115
@@ -317,6 +335,7 @@ translate polish s17_branch4_798cac57:
 
     # voice voice_file.tig(17,9)
     # tig lift "\"If it were me, I would not be pleased by offerings from just {i}any{/i} \ market.\" "
+    voice voice_file.tig(17,9)
     tig lift ""
 
 # game/script/17.rpy:125
@@ -336,6 +355,7 @@ translate polish s17_branch4_964bfea4:
 
     # voice voice_file.tig(17,10)
     # tig lift "*sigh* \"Must we really go at this hour...\" "
+    voice voice_file.tig(17,10)
     tig lift ""
 
 # game/script/17.rpy:140
@@ -349,6 +369,7 @@ translate polish s17_branch4_5e3e1542:
 
     # voice voice_file.tig(17,11)
     # tig lift "\"...The tung blossoms are in bloom, how unexpected.\" "
+    voice voice_file.tig(17,11)
     tig lift ""
 
 # game/script/17.rpy:147
@@ -362,6 +383,7 @@ translate polish s17_branch4_6a70ddb2:
 
     # voice voice_file.tig(17,12)
     # tig normal "\"It's lovely here... Do you not think we should do it here?\" "
+    voice voice_file.tig(17,12)
     tig normal ""
 
 # game/script/17.rpy:152
@@ -375,6 +397,7 @@ translate polish s17_branch4_541a47df:
 
     # voice voice_file.tig(17,13)
     # tig normal "\"Haha— You're very right.\" "
+    voice voice_file.tig(17,13)
     tig normal ""
 
 # game/script/17.rpy:156
@@ -388,6 +411,7 @@ translate polish s17_branch4_12656433:
 
     # voice voice_file.tig(17,14)
     # tig frown "\"Well. If he does appear, he will not miss it.\" "
+    voice voice_file.tig(17,14)
     tig frown ""
 
 # game/script/17.rpy:160
@@ -580,6 +604,7 @@ translate polish s17_branch4_096353b7:
 
     # voice voice_file.lpd(17,1)
     # lpd disappointed "\"Liao is angry. Sorry.\" "
+    voice voice_file.lpd(17,1)
     lpd disappointed ""
 
 # game/script/17.rpy:244
@@ -599,6 +624,7 @@ translate polish s17_branch4_26fa99b5:
 
     # voice voice_file.lpd(17,2)
     # lpd disappointed "\"I'm back.\" "
+    voice voice_file.lpd(17,2)
     lpd disappointed ""
 
 # game/script/17.rpy:253
@@ -618,6 +644,7 @@ translate polish s17_branch4_3e43d204:
 
     # voice voice_file.tig(17,15)
     # tig lift "\"...Oh, have we started a game of charades? It may as well be if you don't speak.\" "
+    voice voice_file.tig(17,15)
     tig lift ""
 
 # game/script/17.rpy:262
@@ -631,6 +658,7 @@ translate polish s17_branch4_66561306:
 
     # voice voice_file.lpd(17,3)
     # lpd disappointed "\"Sorry...\" "
+    voice voice_file.lpd(17,3)
     lpd disappointed ""
 
 # game/script/17.rpy:270
@@ -656,6 +684,7 @@ translate polish s17_branch4_fd6ccafe:
 
     # voice voice_file.lpd(17,4)
     # lpd normal "\"Yan Shu-Chi said I could.\" " with flash
+    voice voice_file.lpd(17,4)
     lpd normal "" with flash
 
 # game/script/17.rpy:280
@@ -675,6 +704,7 @@ translate polish s17_branch4_c4f6b6fc:
 
     # voice voice_file.tig(17,16)
     # tig frown "\"That kitten? What did he claim?\" "
+    voice voice_file.tig(17,16)
     tig frown ""
 
 # game/script/17.rpy:291
@@ -683,6 +713,7 @@ translate polish s17_branch4_e5e2fe34:
     # voice voice_file.lpd(17,5)
     # lpd normal "\"How to take power. Liao's spirit power. Take it, for my people.\" "
     # lpd normal "\"Liao not see. People can see.\" "
+    voice voice_file.lpd(17,5)
     lpd normal ""
 
 # game/script/17.rpy:293
@@ -690,6 +721,7 @@ translate polish s17_branch4_7b61fb10:
 
     # voice voice_file.tig(17,17)
     # tig frown "\"...And you believed that?\" "
+    voice voice_file.tig(17,17)
     tig frown ""
 
 # game/script/17.rpy:295
@@ -697,6 +729,7 @@ translate polish s17_branch4_f590a044:
 
     # voice  voice_file.lpd(17,4)
     # lpd normal "\"Yan Shu-Chi said I could.\" "
+    voice  voice_file.lpd(17,4)
     lpd normal ""
 
 # game/script/17.rpy:297
@@ -704,6 +737,7 @@ translate polish s17_branch4_6aeb6ed9:
 
     # voice voice_file.tig(17,18)
     # tig disappointed "\"...Why {i}would{/i} \ you believe him?\" "
+    voice voice_file.tig(17,18)
     tig disappointed ""
 
 # game/script/17.rpy:299
@@ -711,6 +745,7 @@ translate polish s17_branch4_eef9b3a4:
 
     # voice voice_file.tig(17,19)
     # tig angry "\"Now, if that were true, would you not believe that he would do it for himself? Would he {i}really{/i} \ give that opportunity to you?\" "
+    voice voice_file.tig(17,19)
     tig angry ""
 
 # game/script/17.rpy:301
@@ -718,6 +753,7 @@ translate polish s17_branch4_b980db45:
 
     # voice voice_file.lpd(17,6)
     # lpd normal "\"I'm stronger. He can not do it. He leaves opportunity to me.\" "
+    voice voice_file.lpd(17,6)
     lpd normal ""
 
 # game/script/17.rpy:303
@@ -731,6 +767,7 @@ translate polish s17_branch4_01db15fe:
 
     # voice voice_file.tig(17,20)
     # tig disappointed "\"I'm speechless.\" "
+    voice voice_file.tig(17,20)
     tig disappointed ""
 
 # game/script/17.rpy:314
@@ -738,6 +775,7 @@ translate polish s17_branch4_0e6c20bc:
 
     # voice voice_file.tig(17,21)
     # tig angry "\"How could you not know how impossible that is!\" "
+    voice voice_file.tig(17,21)
     tig angry ""
 
 # game/script/17.rpy:316
@@ -745,6 +783,7 @@ translate polish s17_branch4_7cf7aa63:
 
     # voice voice_file.tig(17,22)
     # tig angry "\"Spirit power is that of the soul. You cannot take one and leave the other behind! They are one and the same! He would die!\" "
+    voice voice_file.tig(17,22)
     tig angry ""
 
 # game/script/17.rpy:318
@@ -752,6 +791,7 @@ translate polish s17_branch4_276076ad:
 
     # voice voice_file.lpd(17,7)
     # lpd obsessed "\"Yan Shu-Chi said...\" "
+    voice voice_file.lpd(17,7)
     lpd obsessed ""
 
 # game/script/17.rpy:321
@@ -760,6 +800,7 @@ translate polish s17_branch4_71af48ae:
     # voice voice_file.tig(17,23)
     # tig angry "\"I don't bloody care what he said, Liao {i}will{/i} \ die if you take away his spirit power! \" " with vshake
     # tig angry "\"Oh, so you wish to prove it? Go ahead, do it. What would you do if he died?\" " with vshake
+    voice voice_file.tig(17,23)
     tig angry "" with vshake
 
 # game/script/17.rpy:323
@@ -774,6 +815,7 @@ translate polish s17_branch4_3762a0ba:
     # voice voice_file.tig(17,24)
     # tig angry "\"Learn to scrutinise the truth for yourself! Liao would certainly {i}die{/i}!\" "
     # tig angry "\"What did you believe? That he would go to sleep and forget about everything?!\" "
+    voice voice_file.tig(17,24)
     tig angry ""
 
 # game/script/17.rpy:327
@@ -781,6 +823,7 @@ translate polish s17_branch4_915d4898:
 
     # voice voice_file.lpd(17,8)
     # lpd disappointed "\"Yan Shu-Chi said...\" "
+    voice voice_file.lpd(17,8)
     lpd disappointed ""
 
 # game/script/17.rpy:329
@@ -788,6 +831,7 @@ translate polish s17_branch4_e2928390:
 
     # voice voice_file.lpd(17,9)
     # lpd disappointed "\"Liao pass out. Look like dead. Be fine after a few days.\" "
+    voice voice_file.lpd(17,9)
     lpd disappointed ""
 
 # game/script/17.rpy:331
@@ -795,6 +839,7 @@ translate polish s17_branch4_761cf35b:
 
     # voice voice_file.tig(17,25)
     # tig angry "\"......\" "
+    voice voice_file.tig(17,25)
     tig angry ""
 
 # game/script/17.rpy:333
@@ -802,6 +847,7 @@ translate polish s17_branch4_93d575e3:
 
     # voice voice_file.tig(17,26)
     # tig disappointed "\"Can you really be that naive...\" "
+    voice voice_file.tig(17,26)
     tig disappointed ""
 
 # game/script/17.rpy:335
@@ -810,6 +856,7 @@ translate polish s17_branch4_5086e4e5:
     # voice voice_file.tig(17,27)
     # tig normal "\"Such a thinly veiled lie... A convenient ploy to have you believe his lifeless body is all fine and dandy. Whilst you return to your tribe, none the wiser. \" "
     # tig normal "\"Would you {i}really{/i} \ feel at ease to leave him in such a state?\" "
+    voice voice_file.tig(17,27)
     tig normal ""
 
 # game/script/17.rpy:337
@@ -817,6 +864,7 @@ translate polish s17_branch4_d1adaa51:
 
     # voice voice_file.tig(17,28)
     # tig frown "\"If not then, one day you would think to check up on Liao, just to return to Taipei and discover him dead. Naught left to do but regret {i}your{/i} \ actions.\" "
+    voice voice_file.tig(17,28)
     tig frown ""
 
 # game/script/17.rpy:340
@@ -824,6 +872,7 @@ translate polish s17_branch4_07e4514f:
 
     # voice voice_file.tig(17,29)
     # tig angry "\"Some people are gullible, but you're just a reckless idiot!\" " with flash
+    voice voice_file.tig(17,29)
     tig angry "" with flash
 
 # game/script/17.rpy:342
@@ -843,6 +892,7 @@ translate polish s17_branch4_e0b96862:
 
     # voice voice_file.tig(17,30)
     # tig frown "\"Hmmm?\" "
+    voice voice_file.tig(17,30)
     tig frown ""
 
 # game/script/17.rpy:348
@@ -856,6 +906,7 @@ translate polish s17_branch4_4b6a44e0:
 
     # voice voice_file.tig(17,31)
     # tig frown "\"Would it not be for your power?\" "
+    voice voice_file.tig(17,31)
     tig frown ""
 
 # game/script/17.rpy:352
@@ -876,6 +927,7 @@ translate polish s17_branch4_0964f693:
     # voice voice_file.tig(17,32)
     # tig frown "\"Well, I see no reason to trust him. After all, anyone can speak {i}words{/i}, but that doesn't mean they are true.\" "
     # tig frown "\"Have you seen this 'temple in Miaoli'? Have you met his Fudegong? He speaks of recruiting you as his new priest, but what if his intentions were to take you away, to use you for your power?\" "
+    voice voice_file.tig(17,32)
     tig frown ""
 
 # game/script/17.rpy:358
@@ -883,6 +935,7 @@ translate polish s17_branch4_141266a2:
 
     # voice voice_file.tig(17,33)
     # tig frown "\"I knew that fiendish kitten was no good.\" "
+    voice voice_file.tig(17,33)
     tig frown ""
 
 # game/script/17.rpy:360
@@ -908,6 +961,7 @@ translate polish s17_branch4_d15f609f:
 
     # voice voice_file.tig(17,34)
     # tig frown "\"Hey, aborigine. By any chance did that {i}fiend{/i} \ say he wanted to meet with you after the deed had been done?\" "
+    voice voice_file.tig(17,34)
     tig frown ""
 
 # game/script/17.rpy:369
@@ -922,6 +976,7 @@ translate polish s17_branch4_9760ed26:
     # voice voice_file.tig(17,35)
     # tig frown "\"Ha! As I guessed— He {i}knew{/i} \ he could pull the wool over your eyes. You would do {i}whatever{/i} \ he wanted.\" "
     # tig frown "\"I'm sure he would make a move to steal Liao's power from you. A flawless plan for a fool like you.\" "
+    voice voice_file.tig(17,35)
     tig frown ""
 
 # game/script/17.rpy:376
@@ -941,6 +996,7 @@ translate polish s17_branch4_530b907d:
 
     # voice voice_file.tig(17,36)
     # tig frown "\"Impossible. Even if there was a way, would he not have had to {i}test{/i} \ it first? \nIt's obviously wrong.\" "
+    voice voice_file.tig(17,36)
     tig frown ""
 
 # game/script/17.rpy:382
@@ -948,6 +1004,7 @@ translate polish s17_branch4_b6224862:
 
     # voice voice_file.tig(17,37)
     # tig frown "\"I bet he said to not mention it to me, that I would never have allowed it. That you should just use force instead. Am I not correct?\" "
+    voice voice_file.tig(17,37)
     tig frown ""
 
 # game/script/17.rpy:386
@@ -973,6 +1030,7 @@ translate polish s17_branch4_cd112a70:
 
     # voice voice_file.tig(17,38)
     # tig frown "\"Hmm. His sudden disappearance always struck me as odd. It's rather convenient.\" "
+    voice voice_file.tig(17,38)
     tig frown ""
 
 # game/script/17.rpy:394
@@ -986,6 +1044,7 @@ translate polish s17_branch4_f9d8ad9f:
 
     # voice voice_file.tig(17,39)
     # tig frown "\"Oh, this was absolutely premeditated.\" "
+    voice voice_file.tig(17,39)
     tig frown ""
 
 # game/script/17.rpy:398
@@ -1048,6 +1107,7 @@ translate polish s17_branch4_2051250d:
 
     # voice voice_file.lpd(17,10)
     # lpd angry_1 "\"...Shu-Chi lie?\" "
+    voice voice_file.lpd(17,10)
     lpd angry_1 ""
 
 # game/script/17.rpy:428
@@ -1055,6 +1115,7 @@ translate polish s17_branch4_aeda6244:
 
     # voice voice_file.tig(17,40)
     # tig normal "\"What else would it be?\" "
+    voice voice_file.tig(17,40)
     tig normal ""
 
 # game/script/17.rpy:430
@@ -1062,6 +1123,7 @@ translate polish s17_branch4_71ef5879:
 
     # voice voice_file.lpd(17,11)
     # lpd angry_1 "\"If I take spirit, Liao die?\" "
+    voice voice_file.lpd(17,11)
     lpd angry_1 ""
 
 # game/script/17.rpy:432
@@ -1069,6 +1131,7 @@ translate polish s17_branch4_7125772c:
 
     # voice voice_file.tig(17,41)
     # tig normal "\"Without a doubt.\" "
+    voice voice_file.tig(17,41)
     tig normal ""
 
 # game/script/17.rpy:434
@@ -1082,6 +1145,7 @@ translate polish s17_branch4_719f24c7:
 
     # voice voice_file.lpd(17,12)
     # lpd angry_1 "\"...Won't forgive.\" "
+    voice voice_file.lpd(17,12)
     lpd angry_1 ""
 
 # game/script/17.rpy:443
@@ -1089,6 +1153,7 @@ translate polish s17_branch4_f7e1f752:
 
     # voice voice_file.tig(17,42)
     # tig frown "\"Well, you can say that but what difference does it make?\" "
+    voice voice_file.tig(17,42)
     tig frown ""
 
 # game/script/17.rpy:445
@@ -1096,6 +1161,7 @@ translate polish s17_branch4_6e1facc1:
 
     # voice voice_file.tig(17,43)
     # tig frown "\"After the failure of such a heinous plan, I'll be damned sure that he has fled far, far away... There's nothing we can do.\" "
+    voice voice_file.tig(17,43)
     tig frown ""
 
 # game/script/17.rpy:448
@@ -1103,6 +1169,7 @@ translate polish s17_branch4_cfb5beeb:
 
     # voice voice_file.lpd(17,13)
     # lpd angry_1 "\"I can...\" " with flash
+    voice voice_file.lpd(17,13)
     lpd angry_1 "" with flash
 
 # game/script/17.rpy:450
@@ -1110,6 +1177,7 @@ translate polish s17_branch4_ac7d3db9:
 
     # voice voice_file.tig(17,44)
     # tig normal "\"Hmm?\" "
+    voice voice_file.tig(17,44)
     tig normal ""
 
 # game/script/17.rpy:452
@@ -1123,6 +1191,7 @@ translate polish s17_branch4_83a488af:
 
     # voice voice_file.lpd(17,14)
     # lpd obsessed "\"...Difficult.\" "
+    voice voice_file.lpd(17,14)
     lpd obsessed ""
 
 # game/script/17.rpy:460
@@ -1130,6 +1199,7 @@ translate polish s17_branch4_4653b567:
 
     # voice voice_file.tig(17,45)
     # tig laugh_1 "*chuckle* \"As I said.\" "
+    voice voice_file.tig(17,45)
     tig laugh_1 ""
 
 # game/script/17.rpy:462
@@ -1137,6 +1207,7 @@ translate polish s17_branch4_1a65cfdb:
 
     # voice voice_file.tig(17,46)
     # tig frown "\"As cross as I am at that fiend, I doubt there's any way to drive him out of hiding. He would have surely expected me to ask Clairvoyant to help, working out some countermeasure before hand.\" "
+    voice voice_file.tig(17,46)
     tig frown ""
 
 # game/script/17.rpy:464
@@ -1144,6 +1215,7 @@ translate polish s17_branch4_3c137b42:
 
     # voice voice_file.tig(17,47)
     # tig frown "\"If he desires Liao's power still, he most likely will turn up again. However...\" "
+    voice voice_file.tig(17,47)
     tig frown ""
 
 # game/script/17.rpy:466
@@ -1151,6 +1223,7 @@ translate polish s17_branch4_bbb5abfd:
 
     # voice voice_file.tig(17,48)
     # tig frown "\"He should now know every well that we'll kill him if we find him first. I doubt he'll take that risk blindly.\" "
+    voice voice_file.tig(17,48)
     tig frown ""
 
 # game/script/17.rpy:468
@@ -1159,6 +1232,7 @@ translate polish s17_branch4_dcea7b43:
     # voice voice_file.tig(17,49)
     # tig frown "\"But he is a troublesome kitten... He could be hiding away performing terrible acts as we speak.\" "
     # tig frown "*sigh* \"It would be wise to find him...\" "
+    voice voice_file.tig(17,49)
     tig frown ""
 
 # game/script/17.rpy:472
@@ -1166,6 +1240,7 @@ translate polish s17_branch4_378f28ab:
 
     # voice voice_file.lpd(17,15)
     # lpd normal "\"I know his smell.\" "
+    voice voice_file.lpd(17,15)
     lpd normal ""
 
 # game/script/17.rpy:474
@@ -1173,6 +1248,7 @@ translate polish s17_branch4_e7cdc47b:
 
     # voice voice_file.tig(17,50)
     # tig frown "\"Oh? How so?\" "
+    voice voice_file.tig(17,50)
     tig frown ""
 
 # game/script/17.rpy:479
@@ -1180,6 +1256,7 @@ translate polish s17_branch4_31404e56:
 
     # voice voice_file.lpd(17,16)
     # lpd normal "\"My power...\" "
+    voice voice_file.lpd(17,16)
     lpd normal ""
 
 # game/script/17.rpy:484
@@ -1187,6 +1264,7 @@ translate polish s17_branch4_ce5d2b1d:
 
     # voice voice_file.lpd(17,17)
     # lpd normal "\"Need... oracle to help. Then can find.\" "
+    voice voice_file.lpd(17,17)
     lpd normal ""
 
 # game/script/17.rpy:489
@@ -1206,6 +1284,7 @@ translate polish s17_branch4_de21d65b:
 
     # voice voice_file.tig(17,51)
     # tig normal "\"...Hmm. I think I understand.\" "
+    voice voice_file.tig(17,51)
     tig normal ""
 
 # game/script/17.rpy:495
@@ -1213,6 +1292,7 @@ translate polish s17_branch4_72cb9514:
 
     # voice voice_file.tig(17,52)
     # tig normal "\"In that case...\" "
+    voice voice_file.tig(17,52)
     tig normal ""
 
 # game/script/17.rpy:499
@@ -1226,6 +1306,7 @@ translate polish s17_branch4_a759a818:
 
     # voice voice_file.tig(17,53)
     # tig disappointed "\"We should return home... Now, Leopard, do you promise to never harm Liao again?\" "
+    voice voice_file.tig(17,53)
     tig disappointed ""
 
 # game/script/17.rpy:505
@@ -1233,6 +1314,7 @@ translate polish s17_branch4_8120969c:
 
     # voice voice_file.lpd(17,18)
     # lpd normal "\"I won't.\" "
+    voice voice_file.lpd(17,18)
     lpd normal ""
 
 # game/script/17.rpy:507
@@ -1240,6 +1322,7 @@ translate polish s17_branch4_1d8e7fd1:
 
     # voice voice_file.lpd(17,19)
     # lpd eyes_close "\"...I promise.\" "
+    voice voice_file.lpd(17,19)
     lpd eyes_close ""
 
 # game/script/17.rpy:509
@@ -1247,6 +1330,7 @@ translate polish s17_branch4_9e8c799d:
 
     # voice voice_file.tig(17,54)
     # tig normal "\"Very well...\" "
+    voice voice_file.tig(17,54)
     tig normal ""
 
 # game/script/17.rpy:513
@@ -1255,6 +1339,7 @@ translate polish s17_branch4_247aac25:
     # voice voice_file.tig(17,55)
     # tig disappointed "*sigh* \"Let's go.\" "
     # tig disappointed "\"Am I really destined to such bitter anguish...\" "
+    voice voice_file.tig(17,55)
     tig disappointed ""
 
 # game/script/17.rpy:515
@@ -1268,6 +1353,7 @@ translate polish s17_branch4_c40e87ab:
 
     # voice voice_file.tig(17,56)
     # tig disappointed "*chuckle* \"You have no idea. Many of us are far less fulfilled than I...\" "
+    voice voice_file.tig(17,56)
     tig disappointed ""
 
 # game/script/17.rpy:528
@@ -1281,6 +1367,7 @@ translate polish s17_branch4_05ada93c:
 
     # voice voice_file.tig(17,57)
     # tig disappointed "......*sigh* "
+    voice voice_file.tig(17,57)
     tig disappointed ""
 
 # game/script/17.rpy:532
@@ -1294,6 +1381,7 @@ translate polish s17_branch4_9235bebe:
 
     # voice voice_file.tig(17,58)
     # tig frown "\"I'm hesitant...\" "
+    voice voice_file.tig(17,58)
     tig frown ""
 
 # game/script/17.rpy:536
@@ -1307,6 +1395,7 @@ translate polish s17_branch4_3ecf4a16:
 
     # voice voice_file.tig(17,59)
     # tig frown "\"Finding that fiendish kitten.\" "
+    voice voice_file.tig(17,59)
     tig frown ""
 
 # game/script/17.rpy:540
@@ -1326,6 +1415,7 @@ translate polish s17_branch4_6c4ff560:
 
     # voice voice_file.tig(17,60)
     # tig frown "\"Hmm? Liao, do you still believe that fiend didn't intend to harm you?\" "
+    voice voice_file.tig(17,60)
     tig frown ""
 
 # game/script/17.rpy:549
@@ -1339,6 +1429,7 @@ translate polish s17_branch4_3bde948f:
 
     # voice voice_file.tig(17,61)
     # tig frown "\"Don't be so naive... but...\" "
+    voice voice_file.tig(17,61)
     tig frown ""
 
 # game/script/17.rpy:556
@@ -1347,6 +1438,7 @@ translate polish s17_branch4_a0a1abb4:
     # voice voice_file.tig(17,62)
     # tig frown "\"If we do find that kitten, I'd doubt he dare to cause trouble considering our power.\" "
     # tig frown "\"...If it makes you feel better, you can then ask him whatever you wish.\" "
+    voice voice_file.tig(17,62)
     tig frown ""
 
 # game/script/17.rpy:558
@@ -1354,6 +1446,7 @@ translate polish s17_branch4_5030824c:
 
     # voice voice_file.tig(17,63)
     # tig gentle "\"...After all, your unwavering belief in Leopard... brought us a long way.\" "
+    voice voice_file.tig(17,63)
     tig gentle ""
 
 # game/script/17.rpy:560
@@ -1379,6 +1472,7 @@ translate polish s17_branch4_c19f32e7:
 
     # voice voice_file.tig(17,64)
     # tig disappointed "*sigh* "
+    voice voice_file.tig(17,64)
     tig disappointed ""
 
 # game/script/17.rpy:572
@@ -1392,6 +1486,7 @@ translate polish s17_branch4_83e9e92f:
 
     # voice voice_file.tig(17,65)
     # tig disappointed "\"Well, I'll have to do something I would really rather not do...\" "
+    voice voice_file.tig(17,65)
     tig disappointed ""
 
 # game/script/17.rpy:583
@@ -1405,6 +1500,7 @@ translate polish s17_branch4_7010a5fd:
 
     # voice voice_file.tig(17,66)
     # tig normal "\"Let me put it this way. Liao, how much do you trust that leopard?\" "
+    voice voice_file.tig(17,66)
     tig normal ""
 
 # game/script/17.rpy:591
@@ -1424,6 +1520,7 @@ translate polish s17_branch4_d0886231:
 
     # voice voice_file.tig(17,67)
     # tig normal "\"Even though he attacked you?\" "
+    voice voice_file.tig(17,67)
     tig normal ""
 
 # game/script/17.rpy:597
@@ -1437,6 +1534,7 @@ translate polish s17_branch4_9ea2785c:
 
     # voice voice_file.tig(17,68)
     # tig normal "\"Even if he was fooled, he still attacked you. What if this were to happen again? Do you really {i}trust{/i} \ that he would never try harming you after that?\" "
+    voice voice_file.tig(17,68)
     tig normal ""
 
 # game/script/17.rpy:601
@@ -1456,6 +1554,7 @@ translate polish s17_branch4_8120969c_1:
 
     # voice  voice_file.lpd(17,18)
     # lpd normal "\"I won't.\" "
+    voice  voice_file.lpd(17,18)
     lpd normal ""
 
 # game/script/17.rpy:609
@@ -1463,6 +1562,7 @@ translate polish s17_branch4_101de797:
 
     # voice voice_file.lpd(17,20)
     # lpd normal "\"I won't harm Liao ever again.\" "
+    voice voice_file.lpd(17,20)
     lpd normal ""
 
 # game/script/17.rpy:616
@@ -1470,6 +1570,7 @@ translate polish s17_branch4_1d876c21:
 
     # voice voice_file.tig(17,69)
     # tig frown "\"I wasn't asking you, airhead.\" "
+    voice voice_file.tig(17,69)
     tig frown ""
 
 # game/script/17.rpy:618
@@ -1477,6 +1578,7 @@ translate polish s17_branch4_fc7160cb:
 
     # voice voice_file.tig(17,70)
     # tig disappointed "\Although you might convince Liao still... Perhaps. I'll leave it to the both of you.\" "
+    voice voice_file.tig(17,70)
     tig disappointed ""
 
 # game/script/17.rpy:622
@@ -1496,6 +1598,7 @@ translate polish s17_branch4_47ae4216:
 
     # voice voice_file.lpd(17,21)
     # lpd normal "\"Liao...\" "
+    voice voice_file.lpd(17,21)
     lpd normal ""
 
 # game/script/17.rpy:630
@@ -1503,6 +1606,7 @@ translate polish s17_branch4_66561306_1:
 
     # voice voice_file.lpd(17,22)
     # lpd disappointed "\"Sorry.\" "
+    voice voice_file.lpd(17,22)
     lpd disappointed ""
 
 # game/script/17.rpy:632
@@ -1522,6 +1626,7 @@ translate polish s17_branch4_743ab5f9:
 
     # voice voice_file.lpd(17,23)
     # lpd normal "\"...Need.\" "
+    voice voice_file.lpd(17,23)
     lpd normal ""
 
 # game/script/17.rpy:638
@@ -1529,6 +1634,7 @@ translate polish s17_branch4_372bdc62:
 
     # voice voice_file.lpd(17,24)
     # lpd eyes_close "\"Liao must know. I want to change.\" "
+    voice voice_file.lpd(17,24)
     lpd eyes_close ""
 
 # game/script/17.rpy:640
@@ -1542,6 +1648,7 @@ translate polish s17_branch4_d5b37b1a:
 
     # voice voice_file.lpd(17,25)
     # lpd normal "\"Change. I want Liao to know.\" "
+    voice voice_file.lpd(17,25)
     lpd normal ""
 
 # game/script/17.rpy:644
@@ -1555,6 +1662,7 @@ translate polish s17_branch4_6cb31b42:
 
     # voice voice_file.lpd(17,26)
     # lpd normal "\"Everything.\" "
+    voice voice_file.lpd(17,26)
     lpd normal ""
 
 # game/script/17.rpy:648
@@ -1568,6 +1676,7 @@ translate polish s17_branch4_1553364e:
 
     # voice voice_file.lpd(17,27)
     # lpd obsessed "\"......?\" "
+    voice voice_file.lpd(17,27)
     lpd obsessed ""
 
 # game/script/17.rpy:659
@@ -1575,6 +1684,7 @@ translate polish s17_branch4_e6021a8c:
 
     # voice voice_file.lpd(17,28)
     # lpd normal "\"Tell Liao... What I encountered.\" "
+    voice voice_file.lpd(17,28)
     lpd normal ""
 
 # game/script/17.rpy:664
@@ -1582,6 +1692,7 @@ translate polish s17_branch4_816db321:
 
     # voice voice_file.lpd(17,29)
     # lpd normal "\"What I saw. What I heard.\" "
+    voice voice_file.lpd(17,29)
     lpd normal ""
 
 # game/script/17.rpy:669
@@ -1589,6 +1700,7 @@ translate polish s17_branch4_7677aa42:
 
     # voice voice_file.lpd(17,30)
     # lpd normal "\"What I felt. What I thought. My... ideas changed. Many changes.\" "
+    voice voice_file.lpd(17,30)
     lpd normal ""
 
 # game/script/17.rpy:674
@@ -1596,6 +1708,7 @@ translate polish s17_branch4_975d51a1:
 
     # voice voice_file.lpd(17,31)
     # lpd normal "\"I want to let Liao know.\" "
+    voice voice_file.lpd(17,31)
     lpd normal ""
 
 # game/script/17.rpy:678
@@ -1609,6 +1722,7 @@ translate polish s17_branch4_c16c3508:
 
     # voice voice_file.lpd(17,32)
     # lpd normal "\"I want to see Liao. I want Liao to see me. I'm happy I not take Liao's spirit power.\" "
+    voice voice_file.lpd(17,32)
     lpd normal ""
 
 # game/script/17.rpy:685
@@ -1616,6 +1730,7 @@ translate polish s17_branch4_b6fc6744:
 
     # voice voice_file.lpd(17,33)
     # lpd normal "\"I'm happy Liao alive. I'm happy Liao can still see me.\" "
+    voice voice_file.lpd(17,33)
     lpd normal ""
 
 # game/script/17.rpy:690
@@ -1623,6 +1738,7 @@ translate polish s17_branch4_bf9884d2:
 
     # voice voice_file.lpd(17,34)
     # lpd normal "\"I don't want to leave. Liao is here. I won't go.\" "
+    voice voice_file.lpd(17,34)
     lpd normal ""
 
 # game/script/17.rpy:697
@@ -1630,6 +1746,7 @@ translate polish s17_branch4_05ca4eb0:
 
     # voice voice_file.lpd(17,35)
     # lpd normal "\"Tribe is important. Liao is important. I want to change.\" "
+    voice voice_file.lpd(17,35)
     lpd normal ""
 
 # game/script/17.rpy:699
@@ -1637,6 +1754,7 @@ translate polish s17_branch4_6a2e02e3:
 
     # voice voice_file.lpd(17,36)
     # lpd normal "\"Tiger say a lot, I understand. I want... A way, a way to stay with Liao.\" "
+    voice voice_file.lpd(17,36)
     lpd normal ""
 
 # game/script/17.rpy:704
@@ -1656,6 +1774,7 @@ translate polish s17_branch4_29641308:
 
     # voice voice_file.tig(17,71)
     # tig frown "\"Bugger off... sorry, I can't bear to listen to this.\" " with dissolve
+    voice voice_file.tig(17,71)
     tig frown "" with dissolve
 
 # game/script/17.rpy:727
@@ -1728,6 +1847,7 @@ translate polish s17_branch4_02_01111fd8:
 
     # voice voice_file.tig(17,72)
     # tig confused "\"What's going on?\" "
+    voice voice_file.tig(17,72)
     tig confused ""
 
 # game/script/17.rpy:785
@@ -1747,6 +1867,7 @@ translate polish s17_branch4_02_a425a8b4:
 
     # voice voice_file.tig(17,73)
     # tig frown "\"Oh, the fiend is still at home? Which home?\" "
+    voice voice_file.tig(17,73)
     tig frown ""
 
 # game/script/17.rpy:793
@@ -1860,6 +1981,7 @@ translate polish s17_branch4_02_28a5331d:
 
     # voice voice_file.tig(17,74)
     # tig2 "\"Liao! ...Liao!\" "
+    voice voice_file.tig(17,74)
     tig2 ""
 
 # game/script/17.rpy:892
@@ -1867,6 +1989,7 @@ translate polish s17_branch4_02_fdc95ed6:
 
     # voice voice_file.tig(17,75)
     # tig nervous "\"Liao! Are you okay?\" "
+    voice voice_file.tig(17,75)
     tig nervous ""
 
 # game/script/17.rpy:894
@@ -1880,6 +2003,7 @@ translate polish s17_branch4_02_84d47026:
 
     # voice voice_file.tig(17,76)
     # tig nervous "\"What happened? You pushed Likulau from your body. Were you taken by surprise?\" " with flash_black
+    voice voice_file.tig(17,76)
     tig nervous "" with flash_black
 
 # game/script/17.rpy:898
@@ -1893,6 +2017,7 @@ translate polish s17_branch4_02_fec462f9:
 
     # voice voice_file.lpd(17,37)
     # lpd worry "\"Dead.\" "
+    voice voice_file.lpd(17,37)
     lpd worry ""
 
 # game/script/17.rpy:906
@@ -1900,6 +2025,7 @@ translate polish s17_branch4_02_e2d066c2:
 
     # voice voice_file.tig(17,77)
     # tig nervous "\"...Dead?\" "
+    voice voice_file.tig(17,77)
     tig nervous ""
 
 # game/script/17.rpy:908
@@ -1907,6 +2033,7 @@ translate polish s17_branch4_02_c44ecc9c:
 
     # voice voice_file.lpd(17,38)
     # lpd worry "\"Yes.\" "
+    voice voice_file.lpd(17,38)
     lpd worry ""
 
 # game/script/17.rpy:910
@@ -1914,6 +2041,7 @@ translate polish s17_branch4_02_a16c0ef7:
 
     # voice voice_file.tig(17,78)
     # tig nervous "\"And what about our fiend?\" "
+    voice voice_file.tig(17,78)
     tig nervous ""
 
 # game/script/17.rpy:912
@@ -1921,6 +2049,7 @@ translate polish s17_branch4_02_dc7731c5:
 
     # voice voice_file.lpd(17,39)
     # lpd worry "\"Not see.\" "
+    voice voice_file.lpd(17,39)
     lpd worry ""
 
 # game/script/17.rpy:914
@@ -1929,6 +2058,7 @@ translate polish s17_branch4_02_76bba48d:
     # voice voice_file.tig(17,79)
     # tig pain "\"...I suppose our fiendish cat has run away, leaving the husk of your Senpai behind.\" "
     # tig pain "\"If it is as you say... how did he die? Could... Yan Shu-Chi's soul have been eaten...\" "
+    voice voice_file.tig(17,79)
     tig pain ""
 
 # game/script/17.rpy:916
@@ -1943,6 +2073,7 @@ translate polish s17_branch4_02_28db266e:
     # voice voice_file.tig(17,80)
     # tig pain "\"Well... if we say that {i}only{/i} \ his soul was taken... His body should be fine for the \npresent.\" "
     # tig pain "\"We might stand a chance if we could return his soul, but......\" "
+    voice voice_file.tig(17,80)
     tig pain ""
 
 # game/script/17.rpy:920
@@ -1956,6 +2087,7 @@ translate polish s17_branch4_02_d2172eaa:
 
     # voice voice_file.tig(17,81)
     # tig nervous "\"Which depends on whether we can find that fiendish cat or not. Likulau, can you find him?\" "
+    voice voice_file.tig(17,81)
     tig nervous ""
 
 # game/script/17.rpy:924
@@ -1963,6 +2095,7 @@ translate polish s17_branch4_02_e6efa015:
 
     # voice voice_file.lpd(17,40)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(17,40)
     lpd normal ""
 
 # game/script/17.rpy:926
@@ -1970,6 +2103,7 @@ translate polish s17_branch4_02_2ae04243:
 
     # voice voice_file.tig(17,82)
     # tig nervous "\"But Liao...\" "
+    voice voice_file.tig(17,82)
     tig nervous ""
 
 # game/script/17.rpy:929
@@ -1983,6 +2117,7 @@ translate polish s17_branch4_02_ed0ac9cb:
 
     # voice voice_file.tig(17,83)
     # tig nervous "\"He would need to possess your body again, issue being your the instability of your emotions. I'm worried...\" "
+    voice voice_file.tig(17,83)
     tig nervous ""
 
 # game/script/17.rpy:934
@@ -2008,6 +2143,7 @@ translate polish s17_branch4_02_52ac5b44:
 
     # voice voice_file.tig(17,84)
     # tig nervous "\"...Well. Do be careful.\" "
+    voice voice_file.tig(17,84)
     tig nervous ""
 
 # game/script/17.rpy:952
@@ -2015,6 +2151,7 @@ translate polish s17_branch4_02_46e84ba6:
 
     # voice voice_file.tig(17,85)
     # tig nervous "\"Now, Liao. Deep breaths, just calm yourself down. Slowly... slowly... good.\" "
+    voice voice_file.tig(17,85)
     tig nervous ""
 
 # game/script/17.rpy:954
@@ -2028,6 +2165,7 @@ translate polish s17_branch4_02_928887b0:
 
     # voice voice_file.lpd(17,41)
     # lpd normal "\"Liao, relax.\" "
+    voice voice_file.lpd(17,41)
     lpd normal ""
 
 # game/script/17.rpy:958
@@ -2035,6 +2173,7 @@ translate polish s17_branch4_02_b1174eaa:
 
     # voice voice_file.lpd(17,42)
     # lpd normal "\"I'm entering.\" "
+    voice voice_file.lpd(17,42)
     lpd normal ""
 
 # game/script/17.rpy:960
@@ -2104,6 +2243,7 @@ translate polish s17_branch4_02_09f43678:
 
     # voice voice_file.tig(17,86)
     # tig nervous "\"...Are you alright?\" "
+    voice voice_file.tig(17,86)
     tig nervous ""
 
 # game/script/17.rpy:1029
@@ -2124,6 +2264,7 @@ translate polish s17_branch4_02_08f5be61:
     # voice voice_file.tig(17,87)
     # tig nervous "\"That's completely fair. Now, what should we do?\" "
     # tig nervous "\"That kitten definitely took Yan Shu-chi's soul. If we could retrieve it quickly, his life might be saved... but to be honest...\" "
+    voice voice_file.tig(17,87)
     tig nervous ""
 
 # game/script/17.rpy:1035
@@ -2144,6 +2285,7 @@ translate polish s17_branch4_02_304b55e6:
     # voice voice_file.tig(17,88)
     # tig nervous "\"He would have most likely eaten it. In that case... we can't exactly {i}take{/i} \ it back.\" "
     # tig nervous "\"I could think of no reason for him to carry it around with him...\" "
+    voice voice_file.tig(17,88)
     tig nervous ""
 
 # game/script/17.rpy:1041
@@ -2163,6 +2305,7 @@ translate polish s17_branch4_02_1a868746:
 
     # voice voice_file.tig(17,89)
     # tig pain "\"...Sadly.\" "
+    voice voice_file.tig(17,89)
     tig pain ""
 
 # game/script/17.rpy:1055
@@ -2176,6 +2319,7 @@ translate polish s17_branch4_02_273a0988:
 
     # voice voice_file.tig(17,90)
     # tig pain "\"...Essentially, it would be pure dumb luck.\" "
+    voice voice_file.tig(17,90)
     tig pain ""
 
 # game/script/17.rpy:1059
@@ -2202,6 +2346,7 @@ translate polish s17_branch4_02_45ff8f65:
     # voice voice_file.tig(17,91)
     # tig nervous "\"Liao, please, make up your mind. He's running away from us.\" "
     # tig nervous "\"No matter what, Yan Shu-Chi's body won't last much longer... You must decide.\" "
+    voice voice_file.tig(17,91)
     tig nervous ""
 
 # game/script/17.rpy:1071
@@ -2233,6 +2378,7 @@ translate polish s17_branch4_02_6ed24d22:
 
     # voice voice_file.tig(17,92)
     # tig nervous "\"Every second matters. Liao, you...\" "
+    voice voice_file.tig(17,92)
     tig nervous ""
 
 # game/script/17.rpy:1086
@@ -2240,6 +2386,7 @@ translate polish s17_branch4_02_2da97e42:
 
     # voice voice_file.tig(17,93)
     # tig nervous "\"If we destroyed him, would you accept that?\" "
+    voice voice_file.tig(17,93)
     tig nervous ""
 
 # game/script/17.rpy:1088
@@ -2265,6 +2412,7 @@ translate polish s17_branch4_02_7442f35a:
 
     # voice voice_file.tig(17,94)
     # tig nervous "\"...Yes.\" "
+    voice voice_file.tig(17,94)
     tig nervous ""
 
 # game/script/17.rpy:1101
@@ -2272,6 +2420,7 @@ translate polish s17_branch4_02_ed4975b0:
 
     # voice voice_file.lpd(17,43)
     # lpd angry_1 "\"He hurt Liao.\" "
+    voice voice_file.lpd(17,43)
     lpd angry_1 ""
 
 # game/script/17.rpy:1103
@@ -2285,6 +2434,7 @@ translate polish s17_branch4_02_f73c329f:
 
     # voice voice_file.tig(17,95)
     # tig nervous "\"Likulau, are you able to catch up to him?\" "
+    voice voice_file.tig(17,95)
     tig nervous ""
 
 # game/script/17.rpy:1107
@@ -2292,6 +2442,7 @@ translate polish s17_branch4_02_aea11c58:
 
     # voice voice_file.lpd(17,44)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(17,44)
     lpd normal ""
 
 # game/script/17.rpy:1109
@@ -2299,6 +2450,7 @@ translate polish s17_branch4_02_8bef67c1:
 
     # voice voice_file.tig(17,96)
     # tig nervous "\"In that case... Go ahead and see if you can find Yan Shu-Chi's soul. If possible, bring it back. If not, destroy the fiend. Can you accomplish that?\" "
+    voice voice_file.tig(17,96)
     tig nervous ""
 
 # game/script/17.rpy:1111
@@ -2306,6 +2458,7 @@ translate polish s17_branch4_02_dbb64960:
 
     # voice voice_file.lpd(17,45)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(17,45)
     lpd normal ""
 
 # game/script/17.rpy:1113
@@ -2313,6 +2466,7 @@ translate polish s17_branch4_02_42beba6c:
 
     # voice voice_file.tig(17,97)
     # tig nervous "\"Well. Then...\" "
+    voice voice_file.tig(17,97)
     tig nervous ""
 
 # game/script/17.rpy:1115
@@ -2326,6 +2480,7 @@ translate polish s17_branch4_02_3a6511bd:
 
     # voice voice_file.tig(17,98)
     # tig nervous "\"Liao?\" "
+    voice voice_file.tig(17,98)
     tig nervous ""
 
 # game/script/17.rpy:1119
@@ -2339,6 +2494,7 @@ translate polish s17_branch4_02_33d25c29:
 
     # voice voice_file.tig(17,99)
     # tig nervous "\"Liao, why would you wish to do that? Considering your condition right now I—\" "
+    voice voice_file.tig(17,99)
     tig nervous ""
 
 # game/script/17.rpy:1123
@@ -2359,6 +2515,7 @@ translate polish s17_branch4_02_77f0c716:
 
     # voice voice_file.tig(17,100)
     # tig disappointed "\"...And that's how it is.\" "
+    voice voice_file.tig(17,100)
     tig disappointed ""
 
 # game/script/17.rpy:1133
@@ -2366,6 +2523,7 @@ translate polish s17_branch4_02_5c5106bd:
 
     # voice voice_file.tig(17,101)
     # tig laugh_1 "\"You're stronger than I ever could have imagined.\" "
+    voice voice_file.tig(17,101)
     tig laugh_1 ""
 
 # game/script/17.rpy:1135
@@ -2379,6 +2537,7 @@ translate polish s17_branch4_02_e2abff45:
 
     # voice voice_file.lpd(17,46)
     # lpd normal "\"...Go?\" "
+    voice voice_file.lpd(17,46)
     lpd normal ""
 
 # game/script/17.rpy:1140
@@ -2497,6 +2656,7 @@ translate polish s17_branch4_02_e42757ff:
 
     # voice voice_file.lpdcat(17,1)
     # lpdcat_true confused "\"?\" "
+    voice voice_file.lpdcat(17,1)
     lpdcat_true confused ""
 
 # game/script/17.rpy:1235
@@ -2504,6 +2664,7 @@ translate polish s17_branch4_02_0ae953db:
 
     # voice voice_file.lpdcat(17,2)
     # lpdcat_true serious "\"Is it...\" " with vshake
+    voice voice_file.lpdcat(17,2)
     lpdcat_true serious "" with vshake
 
 # game/script/17.rpy:1264
@@ -2517,6 +2678,7 @@ translate polish s17_branch4_02_ea51af3e:
 
     # voice voice_file.lpdcat(17,3)
     # lpdcat2 "\"?!\" " with flash_red
+    voice voice_file.lpdcat(17,3)
     lpdcat2 "" with flash_red
 
 # game/script/17.rpy:1274
@@ -2524,6 +2686,7 @@ translate polish s17_branch4_02_24da5ac1:
 
     # voice voice_file.lpdcat(17,4)
     # lpdcat2 "\"AAAAAAAAAAAAAAAAARRRGH!\" " with flash_red
+    voice voice_file.lpdcat(17,4)
     lpdcat2 "" with flash_red
 
 # game/script/17.rpy:1279
@@ -2585,6 +2748,7 @@ translate polish s17_branch4_02_f2b3bb5c:
 
     # voice voice_file.tig(17,102)
     # tig nervous "\"I suppose I don't need to ask.\" "
+    voice voice_file.tig(17,102)
     tig nervous ""
 
 # game/script/17.rpy:1307
@@ -2592,6 +2756,7 @@ translate polish s17_branch4_02_af55621a:
 
     # voice voice_file.tig(17,103)
     # tig nervous "\"Liao, if you ever want to talk... I'm here, always.\" "
+    voice voice_file.tig(17,103)
     tig nervous ""
 
 # game/script/17.rpy:1309

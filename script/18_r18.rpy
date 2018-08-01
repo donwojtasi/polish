@@ -11,6 +11,7 @@ translate polish cg_lpdcat_h_416de768:
 
     # voice voice_file.lpdcat("18L",1)
     # lpdcat_naked shy_2 "\"Woah! Ngh~\" "
+    voice voice_file.lpdcat("18L",1)
     lpdcat_naked shy_2 ""
 
 # game/script/18_r18.rpy:20
@@ -18,6 +19,7 @@ translate polish cg_lpdcat_h_5f857850:
 
     # voice voice_file.tig("18L",1)
     # tig laugh_1 "\"Huh, I suppose this should work. Now...\" "
+    voice voice_file.tig("18L",1)
     tig laugh_1 ""
 
 # game/script/18_r18.rpy:25
@@ -37,6 +39,7 @@ translate polish cg_lpdcat_h_28216395:
 
     # voice voice_file.tig("18L",2)
     # tig_naked normal "\"It isn't necessary, but since this is going to hurt anyway I might as well perform it in a way you are familiar with.\" "
+    voice voice_file.tig("18L",2)
     tig_naked normal ""
 
 # game/script/18_r18.rpy:33
@@ -44,6 +47,7 @@ translate polish cg_lpdcat_h_e9014a07:
 
     # voice voice_file.lpdcat("18L",2)
     # lpdcat_naked Rpanic "\"What way?! Damn it... you're going to fuck me...\" " with flash
+    voice voice_file.lpdcat("18L",2)
     lpdcat_naked Rpanic "" with flash
 
 # game/script/18_r18.rpy:35
@@ -51,6 +55,7 @@ translate polish cg_lpdcat_h_0d76d201:
 
     # voice voice_file.tig("18L",3)
     # tig_naked lift "\"You're going to be \"purified\". We're both fully aware that I could do it the old-fashioned way, but I figured you would enjoy this a lot more.\" "
+    voice voice_file.tig("18L",3)
     tig_naked lift ""
 
 # game/script/18_r18.rpy:37
@@ -64,6 +69,7 @@ translate polish cg_lpdcat_h_0896455f:
 
     # voice voice_file.tig("18L",4)
     # tig_naked lift "\"Don't worry Liao. To us gods, this is just a way to manifest the conduction of Chi. It may have several connotations to humans, but gods have no such quandaries.\" "
+    voice voice_file.tig("18L",4)
     tig_naked lift ""
 
 # game/script/18_r18.rpy:41
@@ -77,6 +83,7 @@ translate polish cg_lpdcat_h_b96df47f:
 
     # voice voice_file.tig("18L",5)
     # tig_naked lift "\"Ahem— Moving on. This may be painful to begin with.\" "
+    voice voice_file.tig("18L",5)
     tig_naked lift ""
 
 # game/script/18_r18.rpy:45
@@ -84,6 +91,7 @@ translate polish cg_lpdcat_h_de9600df:
 
     # voice voice_file.lpdcat("18L",3)
     # lpdcat_naked shy_2 "\"Waaaaaaaahhh!\" "
+    voice voice_file.lpdcat("18L",3)
     lpdcat_naked shy_2 ""
 
 # game/script/18_r18.rpy:48
@@ -122,6 +130,7 @@ translate polish cg_lpdcat_h_aff10be1:
 
     # voice voice_file.tig("18L",6)
     # tig_naked laugh_1 "\"Astounding, I tried to punish you, but you just ended up enjoying it, didn't you?\" "
+    voice voice_file.tig("18L",6)
     tig_naked laugh_1 ""
 
 # game/script/18_r18.rpy:62
@@ -159,6 +168,7 @@ translate polish cg_lpdcat_h_ccab949c:
 
     # voice voice_file.lpdcat("18L",4)
     # lpdcat_naked shy_pain "\"Mmmmph~\" " with flash
+    voice voice_file.lpdcat("18L",4)
     lpdcat_naked shy_pain "" with flash
 
 # game/script/18_r18.rpy:83
@@ -184,6 +194,7 @@ translate polish cg_lpdcat_h_204c563e:
 
     # voice voice_file.lpdcat("18L",5)
     # lpdcat_naked shy_pain "\"Argh!\" " with vshake
+    voice voice_file.lpdcat("18L",5)
     lpdcat_naked shy_pain "" with vshake
 
 # game/script/18_r18.rpy:96
@@ -191,6 +202,7 @@ translate polish cg_lpdcat_h_66b4e007:
 
     # voice voice_file.lpdcat("18L",6)
     # lpdcat_naked shy_pain "\"Hard! Too hard...\" " with vshake
+    voice voice_file.lpdcat("18L",6)
     lpdcat_naked shy_pain "" with vshake
 
 # game/script/18_r18.rpy:102
@@ -198,6 +210,7 @@ translate polish cg_lpdcat_h_d62a8785:
 
     # voice voice_file.tig("18L",7)
     # tig_naked Rfrown "\"You dare to complain!? This is the punishment you deserve!\" " with hshake
+    voice voice_file.tig("18L",7)
     tig_naked Rfrown "" with hshake
 
 # game/script/18_r18.rpy:104
@@ -235,6 +248,7 @@ translate polish cg_lpdcat_h_a519647a:
 
     # voice voice_file.lpdcat("18L",7)
     # lpdcat_naked shy_pain "\"Wuu... Mmmph~\" "
+    voice voice_file.lpdcat("18L",7)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:119
@@ -242,6 +256,7 @@ translate polish cg_lpdcat_h_f450d05e:
 
     # voice voice_file.tig("18L",8)
     # tig_naked Rlaugh_1 "\"Hmm, what a perverted kitten. You like this don't you?\" "
+    voice voice_file.tig("18L",8)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:122
@@ -255,6 +270,7 @@ translate polish cg_lpdcat_h_5ca91c19:
 
     # voice voice_file.tig("18L",9)
     # tig_naked Rlift "\"Is this punishment or a reward for you? I suppose I must be more ruthless in your discipline.\" "
+    voice voice_file.tig("18L",9)
     tig_naked Rlift ""
 
 # game/script/18_r18.rpy:130
@@ -269,6 +285,7 @@ translate polish cg_lpdcat_h_7ecc2634:
 
     # voice voice_file.lpdcat("18L",8)
     # lpdcat_naked shy_pain "\"Ahhhh! Mmmph~ Nnnhgh!\" "
+    voice voice_file.lpdcat("18L",8)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:134
@@ -288,6 +305,7 @@ translate polish cg_lpdcat_h_5237bdd1:
 
     # voice voice_file.lpdcat("18L",9)
     # lpdcat_naked shy_pain "\"Waaa... Slow down... please...\" "
+    voice voice_file.lpdcat("18L",9)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:140
@@ -295,6 +313,7 @@ translate polish cg_lpdcat_h_95838990:
 
     # voice voice_file.tig("18L",10)
     # tig_naked Rlaugh_1 "\"Oh, so now you start begging? I don't think this perverted kitten has had enough!\" "
+    voice voice_file.tig("18L",10)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:142
@@ -302,6 +321,7 @@ translate polish cg_lpdcat_h_899b7b7e:
 
     # voice voice_file.tig("18L",11)
     # tig_naked Rlaugh_1 "\"Will you ever commit such terrible acts again?\" "
+    voice voice_file.tig("18L",11)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:144
@@ -309,6 +329,7 @@ translate polish cg_lpdcat_h_f3fd3634:
 
     # voice voice_file.lpdcat("18L",10)
     # lpdcat_naked shy_2 "\"Wha— It's not...\" "
+    voice voice_file.lpdcat("18L",10)
     lpdcat_naked shy_2 ""
 
 # game/script/18_r18.rpy:146
@@ -316,6 +337,7 @@ translate polish cg_lpdcat_h_340d2647:
 
     # voice voice_file.tig("18L",12)
     # tig_naked Rfrown "\"Bite your tongue!\" "
+    voice voice_file.tig("18L",12)
     tig_naked Rfrown ""
 
 # game/script/18_r18.rpy:151
@@ -329,6 +351,7 @@ translate polish cg_lpdcat_h_fc2066aa:
 
     # voice voice_file.lpdcat("18L",11)
     # lpdcat_naked shy_pain "\"Wuuuahh! I didn't... I didn't talk back to you...\" "
+    voice voice_file.lpdcat("18L",11)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:156
@@ -336,6 +359,7 @@ translate polish cg_lpdcat_h_3e2d9f8c:
 
     # voice voice_file.tig("18L",13)
     # tig_naked Rfrown "\"Oh you didn't, did you?\" " with vshake
+    voice voice_file.tig("18L",13)
     tig_naked Rfrown "" with vshake
 
 # game/script/18_r18.rpy:158
@@ -343,6 +367,7 @@ translate polish cg_lpdcat_h_88900723:
 
     # voice voice_file.lpdcat("18L",12)
     # lpdcat_naked shy_pain "\"Mmmph...\" "
+    voice voice_file.lpdcat("18L",12)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:160
@@ -350,6 +375,7 @@ translate polish cg_lpdcat_h_02ca6f32:
 
     # voice voice_file.tig("18L",14)
     # tig_naked Rfrown "\"Now listen up, you fiendish kitten!\" "
+    voice voice_file.tig("18L",14)
     tig_naked Rfrown ""
 
 # game/script/18_r18.rpy:165
@@ -363,6 +389,7 @@ translate polish cg_lpdcat_h_6bceebef:
 
     # voice voice_file.lpdcat("18L",13)
     # lpdcat_naked shy_pain "\"Nnnngh!\" "
+    voice voice_file.lpdcat("18L",13)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:169
@@ -370,6 +397,7 @@ translate polish cg_lpdcat_h_c3fbc5e5:
 
     # voice voice_file.tig("18L",15)
     # tig_naked Rlaugh_1 "\"Do you really wish to do such terrible things?\" "
+    voice voice_file.tig("18L",15)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:171
@@ -377,6 +405,7 @@ translate polish cg_lpdcat_h_79e568a9:
 
     # voice voice_file.lpdcat("18L",14)
     # lpdcat_naked shy_pain "\"Nnnngh... Please...\" "
+    voice voice_file.lpdcat("18L",14)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:173
@@ -384,6 +413,7 @@ translate polish cg_lpdcat_h_09fd43e9:
 
     # voice voice_file.tig("18L",16)
     # tig_naked Rlaugh_1 "\"Answer me!\" "
+    voice voice_file.tig("18L",16)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:175
@@ -391,6 +421,7 @@ translate polish cg_lpdcat_h_1a3d9c88:
 
     # voice voice_file.lpdcat("18L",15)
     # lpdcat_naked shy_pain "\"No— No, I won't!\" "
+    voice voice_file.lpdcat("18L",15)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:177
@@ -398,6 +429,7 @@ translate polish cg_lpdcat_h_13f10cff:
 
     # voice voice_file.tig("18L",17)
     # tig_naked Rlaugh_1 "\"Good.\" "
+    voice voice_file.tig("18L",17)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:179
@@ -411,6 +443,7 @@ translate polish cg_lpdcat_h_6b43db3b:
 
     # voice voice_file.tig("18L",18)
     # tig_naked Rlaugh_1 "\"You'll be a good little yaoguai from now on. No bad things. No hurting people. Understand?\" "
+    voice voice_file.tig("18L",18)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:185
@@ -425,6 +458,7 @@ translate polish cg_lpdcat_h_af67f245:
 
     # voice voice_file.lpdcat("18L",16)
     # lpdcat_naked shy_pain "\"Wuuah... Mmmm~  I-{w=0.2}I'll be a good boy~\" "
+    voice voice_file.lpdcat("18L",16)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:189
@@ -432,6 +466,7 @@ translate polish cg_lpdcat_h_ff6fb803:
 
     # voice voice_file.tig("18L",19)
     # tig_naked Rlaugh_1 "\"See what a good boy you really are. I think such a boy as yourself deserves a treat.\" "
+    voice voice_file.tig("18L",19)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:199
@@ -439,6 +474,7 @@ translate polish cg_lpdcat_h_d3d0b7ae:
 
     # voice voice_file.tig("18L",20)
     # tig_naked Rlaugh_1 "\"So kitten, prepare yourself... to feel my spirit power!\" "
+    voice voice_file.tig("18L",20)
     tig_naked Rlaugh_1 ""
 
 # game/script/18_r18.rpy:201
@@ -452,6 +488,7 @@ translate polish cg_lpdcat_h_867a47ae:
 
     # voice voice_file.lpdcat("18L",17)
     # lpdcat_naked shy_pain "\"Mmmph~ Please... More! Nnngh~\" "
+    voice voice_file.lpdcat("18L",17)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:205
@@ -465,6 +502,7 @@ translate polish cg_lpdcat_h_95ba970c:
 
     # voice voice_file.tig("18L",21)
     # tig_naked Rfrown "\"Waaarrrrgh!\" "
+    voice voice_file.tig("18L",21)
     tig_naked Rfrown ""
 
 # game/script/18_r18.rpy:214
@@ -472,6 +510,7 @@ translate polish cg_lpdcat_h_892328b3:
 
     # voice voice_file.lpdcat("18L",18)
     # lpdcat_naked shy_pain "\"Wuuuurraaa—\" "
+    voice voice_file.lpdcat("18L",18)
     lpdcat_naked shy_pain ""
 
 # game/script/18_r18.rpy:216
@@ -492,6 +531,7 @@ translate polish cg_lpdcat_h_8c4d160d:
 
     # voice voice_file.lpdcat("18L",19)
     # lpdcat_naked cry_1 "\"Waa— Mmmmph...\" "
+    voice voice_file.lpdcat("18L",19)
     lpdcat_naked cry_1 ""
 
 # game/script/18_r18.rpy:226
@@ -499,6 +539,7 @@ translate polish cg_lpdcat_h_bcc82801:
 
     # voice voice_file.tig("18L",22)
     # tig_naked frown "\"Stop whining you little demon cat. You loved every second of that. \" "
+    voice voice_file.tig("18L",22)
     tig_naked frown ""
 
 # game/script/18_r18.rpy:228
@@ -506,6 +547,7 @@ translate polish cg_lpdcat_h_177a0546:
 
     # voice voice_file.lpdcat("18L",20)
     # lpdcat_naked cry_1 "\"Waa— It's not like that...\" "
+    voice voice_file.lpdcat("18L",20)
     lpdcat_naked cry_1 ""
 
 # game/script/18_r18.rpy:230
@@ -513,6 +555,7 @@ translate polish cg_lpdcat_h_6e556010:
 
     # voice voice_file.tig("18L",23)
     # tig_naked frown "\"I could scarcely imagine those noises you made being anything other than \npleasurable.\" "
+    voice voice_file.tig("18L",23)
     tig_naked frown ""
 
 # game/script/18_r18.rpy:232
@@ -520,6 +563,7 @@ translate polish cg_lpdcat_h_69c6a8c9:
 
     # voice voice_file.lpdcat("18L",21)
     # lpdcat_naked cry_1 "\"What are you talking about! It was... intense...\" " with vshake
+    voice voice_file.lpdcat("18L",21)
     lpdcat_naked cry_1 "" with vshake
 
 # game/script/18_r18.rpy:234
@@ -527,6 +571,7 @@ translate polish cg_lpdcat_h_d2bb5952:
 
     # voice voice_file.tig("18L",24)
     # tig_naked frown "\"Oh, are you to say that isn't what you like?\" "
+    voice voice_file.tig("18L",24)
     tig_naked frown ""
 
 # game/script/18_r18.rpy:237
@@ -534,6 +579,7 @@ translate polish cg_lpdcat_h_cb37fdc0:
 
     # voice voice_file.lpdcat("18L",22)
     # lpdcat_naked cry_2 "\"...I-{w=0.2}It's not like that!\" " with vshake
+    voice voice_file.lpdcat("18L",22)
     lpdcat_naked cry_2 "" with vshake
 
 # game/script/18_r18.rpy:239
@@ -541,6 +587,7 @@ translate polish cg_lpdcat_h_c057fa0b:
 
     # voice voice_file.tig("18L",25)
     # tig_naked laugh_1 "\"Well, I suppose it could be considered as making love with Liao. It must have been a dream come true to you.\" "
+    voice voice_file.tig("18L",25)
     tig_naked laugh_1 ""
 
 # game/script/18_r18.rpy:241
@@ -548,6 +595,7 @@ translate polish cg_lpdcat_h_ec7060d3:
 
     # voice voice_file.lpdcat("18L",23)
     # lpdcat_naked cry_2 "\"Even if it was, you can't just make up my dreams!\" "
+    voice voice_file.lpdcat("18L",23)
     lpdcat_naked cry_2 ""
 
 # game/script/18_r18.rpy:243
@@ -561,6 +609,7 @@ translate polish cg_lpdcat_h_476d2eb7:
 
     # voice voice_file.tig("18L",26)
     # tig_naked laugh_1 "\"Surely? Look at yourself.\" " with flash
+    voice voice_file.tig("18L",26)
     tig_naked laugh_1 "" with flash
 
 # game/script/18_r18.rpy:248
@@ -617,6 +666,7 @@ translate polish s18_branch5_r18_02_0232ccef:
 
     # voice  voice_file.lpdcat("18N",1)
     # lpdcat_naked cry_2 "\"Just say it.\" "
+    voice  voice_file.lpdcat("18N",1)
     lpdcat_naked cry_2 ""
 
 # game/script/18_r18.rpy:281
@@ -642,6 +692,7 @@ translate polish s18_branch5_r18_02_73b2ad69:
 
     # voice  voice_file.lpdcat("18N",2)
     # lpdcat_true difficult "\"I don't know... Is it really be this easy?\" "
+    voice  voice_file.lpdcat("18N",2)
     lpdcat_true difficult ""
 
 # game/script/18_r18.rpy:294
@@ -667,6 +718,7 @@ translate polish s18_branch5_r18_02_18a71fad:
 
     # voice  voice_file.lpdcat("18N",3)
     # lpdcat_true wronged "\"I... Yeah, I got it. It's not like I have a choice at this point.\" "
+    voice  voice_file.lpdcat("18N",3)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:302
@@ -674,6 +726,7 @@ translate polish s18_branch5_r18_02_29fefb82:
 
     # voice  voice_file.tig("18N",1)
     # tig normal "\"You can decide what you will.\" "
+    voice  voice_file.tig("18N",1)
     tig normal ""
 
 # game/script/18_r18.rpy:305
@@ -681,6 +734,7 @@ translate polish s18_branch5_r18_02_28d02683:
 
     # voice  voice_file.tig("18N",2)
     # tig laugh_1 "\"Although, if you do make your escape, my hand will be forced and Kulau will take you out.\" " with vshake
+    voice  voice_file.tig("18N",2)
     tig laugh_1 "" with vshake
 
 # game/script/18_r18.rpy:308
@@ -688,6 +742,7 @@ translate polish s18_branch5_r18_02_75fb1de6:
 
     # voice  voice_file.lpdcat("18N",4)
     # lpdcat_true pout "\"Yeah! And how is that a choice!\" "
+    voice  voice_file.lpdcat("18N",4)
     lpdcat_true pout ""
 
 # game/script/18_r18.rpy:310
@@ -697,6 +752,7 @@ translate polish s18_branch5_r18_02_6b17dc73:
     # lpdcat_true wronged "\"Whatever... I know... You want me to make up for Yan Shu-Chi, right?\" "
     # lpdcat_true wronged "\"I don't know why, but for some reason I understand you now... I mean, like I knew where you came from before.\" "
     # lpdcat_true wronged "\"But now I just... think I feel it too.\" "
+    voice  voice_file.lpdcat("18N",5)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:312
@@ -704,6 +760,7 @@ translate polish s18_branch5_r18_02_2399aacb:
 
     # voice  voice_file.lpdcat("18N",6)
     # lpdcat_true wronged "\"I... actually...\" "
+    voice  voice_file.lpdcat("18N",6)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:314
@@ -711,6 +768,7 @@ translate polish s18_branch5_r18_02_e1696ec1:
 
     # voice  voice_file.lpdcat("18N",7)
     # lpdcat_true wronged "\"I owe you so, so, much Liao.\" "
+    voice  voice_file.lpdcat("18N",7)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:316
@@ -718,6 +776,7 @@ translate polish s18_branch5_r18_02_54961950:
 
     # voice  voice_file.lpdcat("18N",8)
     # lpdcat_true wronged "\"Liao... I...\" "
+    voice  voice_file.lpdcat("18N",8)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:318
@@ -725,6 +784,7 @@ translate polish s18_branch5_r18_02_bbc152a8:
 
     # voice  voice_file.tig("18N",3)
     # tig frown "\"Alright now kitten. I'm sure the influx of all that power must be keeping you from thinking straight. Now do as you're meant to and take care of Yan Shu-Chi's body...\" "
+    voice  voice_file.tig("18N",3)
     tig frown ""
 
 # game/script/18_r18.rpy:320
@@ -732,6 +792,7 @@ translate polish s18_branch5_r18_02_2733480b:
 
     # voice  voice_file.lpdcat("18N",9)
     # lpdcat_true angry "\"Hey, zip it old man! I have to say this!\" "
+    voice  voice_file.lpdcat("18N",9)
     lpdcat_true angry ""
 
 # game/script/18_r18.rpy:322
@@ -739,6 +800,7 @@ translate polish s18_branch5_r18_02_a89bb42a:
 
     # voice  voice_file.lpdcat("18N",10)
     # b "Determined, he takes a deep breath and looks me straight in the eyes. "
+    voice  voice_file.lpdcat("18N",10)
     lpdcat_true wronged ""
 
 # game/script/18_r18.rpy:325
@@ -746,6 +808,7 @@ translate polish s18_branch5_r18_02_328c8d18:
 
     # voice voice_file.lpdcat("18L",24)
     # lpdcat_true cry_2 "\"Liao, please be my boyfriend!\" " with flash
+    voice voice_file.lpdcat("18L",24)
     lpdcat_true cry_2 "" with flash
 
 # game/script/18_r18.rpy:327
@@ -759,6 +822,7 @@ translate polish s18_branch5_r18_02_4817e24b:
 
     # voice  voice_file.tig("18N",5)
     # tig angry "\"Absolutely not!\" " with vshake
+    voice  voice_file.tig("18N",5)
     tig angry "" with vshake
 
 # game/script/18_r18.rpy:332
@@ -772,6 +836,7 @@ translate polish s18_branch5_r18_02_19d5e22e:
 
     # voice  voice_file.tig("18N",6)
     # tig frown "\"Kitten. How rude can you be?! Did Liao not just forgive you. You shouldn't push your luck...\" "
+    voice  voice_file.tig("18N",6)
     tig frown ""
 
 # game/script/18_r18.rpy:336
@@ -779,6 +844,7 @@ translate polish s18_branch5_r18_02_47d1e8e2:
 
     # voice voice_file.lpdcat("18N",39)
     # lpdcat_true serious "\"Well, if I act as Yan Shu-Chi— No, if I {i}become{/i} \ Yan Shu-Chi... That means I'm the only beast-man here with a physical body.\" "
+    voice voice_file.lpdcat("18N",39)
     lpdcat_true serious ""
 
 # game/script/18_r18.rpy:339
@@ -786,6 +852,7 @@ translate polish s18_branch5_r18_02_b5a0fe1e:
 
     # voice voice_file.lpdcat("18L",25)
     # lpdcat_true not_reconcile "\"And after everything we just did... A-{w=0.2}Are you saying you're not gonna be responsible for this...\" "
+    voice voice_file.lpdcat("18L",25)
     lpdcat_true not_reconcile ""
 
 # game/script/18_r18.rpy:341
@@ -799,4 +866,5 @@ translate polish s18_branch5_r18_02_5d2d7603:
 
     # voice voice_file.tig("18L",27)
     # tig angry "\"Didn't I tell you not to push your luck...\" "
+    voice voice_file.tig("18L",27)
     tig angry ""

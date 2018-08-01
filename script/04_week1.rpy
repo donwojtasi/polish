@@ -1837,7 +1837,7 @@ translate polish week1_saturday_lpd_6b92a23c:
 
     # b "This is all way too confusing. "
     # b "Although, this is the first time Leopard's ever asked for something, but why today? "
-    b "Po raz pierwszy Pantera mnie o cokolwiek prosi, tylko czemu akurat dzisiaj? "
+    b "Po raz pierwszy Pantera mnie o cokolwiek prosi, tylko czemu akurat dzisiaj? "
 
 # game/script/04_week1.rpy:905
 translate polish week1_saturday_lpd_4c39e888:

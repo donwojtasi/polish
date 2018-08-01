@@ -23,6 +23,7 @@ translate polish s14_eb0bb9c6:
 
     # voice voice_file.lpd(14,1)
     # lpd disappointed "\"...I return, apologise to Liao.\" "
+    voice voice_file.lpd(14,1)
     lpd disappointed ""
 
 # game/script/14.rpy:19
@@ -36,6 +37,7 @@ translate polish s14_858c9179:
 
     # voice voice_file.tig(14,1)
     # tig lift "\"Hmmmmm.\" " with vshake
+    voice voice_file.tig(14,1)
     tig lift "" with vshake
 
 # game/script/14.rpy:27
@@ -49,6 +51,7 @@ translate polish s14_9bf03e02:
 
     # voice voice_file.lpd(14,2)
     # lpd disappointed "\"Must still apologise.\" "
+    voice voice_file.lpd(14,2)
     lpd disappointed ""
 
 # game/script/14.rpy:31
@@ -62,6 +65,7 @@ translate polish s14_b98e74a5:
 
     # voice voice_file.lpd(14,3)
     # lpd obsessed "\"Liao, no class. Come with me?\" "
+    voice voice_file.lpd(14,3)
     lpd obsessed ""
 
 # game/script/14.rpy:35
@@ -75,6 +79,7 @@ translate polish s14_461a372c:
 
     # voice voice_file.lpd(14,4)
     # lpd obsessed "\"Apologise.\" "
+    voice voice_file.lpd(14,4)
     lpd obsessed ""
 
 # game/script/14.rpy:39
@@ -94,6 +99,7 @@ translate polish s14_09840ce6:
 
     # voice voice_file.lpd(14,5)
     # lpd obsessed "\"Liao... Bad dancer. Let Liao dance. Practise, become better dancer. \" "
+    voice voice_file.lpd(14,5)
     lpd obsessed ""
 
 # game/script/14.rpy:51
@@ -107,6 +113,7 @@ translate polish s14_fbac1f87:
 
     # voice voice_file.lpd(14,6)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd(14,6)
     lpd normal ""
 
 # game/script/14.rpy:57
@@ -114,6 +121,7 @@ translate polish s14_72573ae3:
 
     # voice voice_file.tig(14,2)
     # tig normal "\"...Not bad. If Liao can perform it himself there would be no reason for anyone to be suspicious. All he needs to say is that he's been practising in secret.\" "
+    voice voice_file.tig(14,2)
     tig normal ""
 
 # game/script/14.rpy:59
@@ -159,6 +167,7 @@ translate polish s14_5ac32375:
 
     # voice voice_file.tig(14,3)
     # tig normal "\"Liao cannot go any further. That's enough.\" "
+    voice voice_file.tig(14,3)
     tig normal ""
 
 # game/script/14.rpy:78
@@ -172,6 +181,7 @@ translate polish s14_20cd9c1f:
 
     # voice voice_file.lpd(14,7)
     # lpd obsessed "\"Yes.\" "
+    voice voice_file.lpd(14,7)
     lpd obsessed ""
 
 # game/script/14.rpy:89
@@ -247,6 +257,7 @@ translate polish s14_12f768f9:
 
     # voice voice_file.lpd(14,8)
     # lpd normal "\"Liao will worry, if not going home?\" " with flash
+    voice voice_file.lpd(14,8)
     lpd normal "" with flash
 
 # game/script/14.rpy:135
@@ -260,6 +271,7 @@ translate polish s14_dc2d39aa:
 
     # voice voice_file.tig(14,4)
     # tig frown "\"If you are referring to Liao going back to his hometown, of course he will. Even if he wants to help you, he must go back.\" "
+    voice voice_file.tig(14,4)
     tig frown ""
 
 # game/script/14.rpy:143
@@ -267,6 +279,7 @@ translate polish s14_e8bdee9d:
 
     # voice voice_file.lpd(14,9)
     # lpd normal "\"Go home, can not go to Wutai?\" "
+    voice voice_file.lpd(14,9)
     lpd normal ""
 
 # game/script/14.rpy:145
@@ -280,6 +293,7 @@ translate polish s14_f1e9c15d:
 
     # voice voice_file.tig(14,5)
     # tig frown "\"Not to mention his exams.\" "
+    voice voice_file.tig(14,5)
     tig frown ""
 
 # game/script/14.rpy:149
@@ -293,6 +307,7 @@ translate polish s14_94aedf7b:
 
     # voice voice_file.lpd(14,10)
     # lpd disappointed "\"...Can't be oracle?\" "
+    voice voice_file.lpd(14,10)
     lpd disappointed ""
 
 # game/script/14.rpy:153
@@ -324,6 +339,7 @@ translate polish cg_lpd_attack_fa618319:
 
     # voice voice_file.lpd(14,11)
     # lpd normal "\"Liao.\" "
+    voice voice_file.lpd(14,11)
     lpd normal ""
 
 # game/script/14.rpy:181
@@ -337,6 +353,7 @@ translate polish cg_lpd_attack_2702454b:
 
     # voice voice_file.lpd(14,12)
     # lpd normal "\"I need oracle.\" "
+    voice voice_file.lpd(14,12)
     lpd normal ""
 
 # game/script/14.rpy:185
@@ -350,6 +367,7 @@ translate polish cg_lpd_attack_992a37af:
 
     # voice voice_file.lpd(14,13)
     # lpd normal "\"Liao do not need to come.\" "
+    voice voice_file.lpd(14,13)
     lpd normal ""
 
 # game/script/14.rpy:189
@@ -363,6 +381,7 @@ translate polish cg_lpd_attack_ca8b4262:
 
     # voice voice_file.lpd(14,14)
     # lpd normal "\"I borrow power from Liao.\" "
+    voice voice_file.lpd(14,14)
     lpd normal ""
 
 # game/script/14.rpy:193
@@ -376,6 +395,7 @@ translate polish cg_lpd_attack_cd2ca577:
 
     # voice voice_file.lpd(14,15)
     # lpd normal "\"With power, I can communicate. It doesn't have to be Liao.\" "
+    voice voice_file.lpd(14,15)
     lpd normal ""
 
 # game/script/14.rpy:199
@@ -383,6 +403,7 @@ translate polish cg_lpd_attack_6a86bdb1:
 
     # voice voice_file.tig(14,6)
     # tig frown "\"Hey, what are you talking about? Liao's power is...\" "
+    voice voice_file.tig(14,6)
     tig frown ""
 
 # game/script/14.rpy:202
@@ -390,6 +411,7 @@ translate polish cg_lpd_attack_66561306:
 
     # voice voice_file.lpd(14,16)
     # lpd disappointed "\"Sorry.\" "
+    voice voice_file.lpd(14,16)
     lpd disappointed ""
 
 # game/script/14.rpy:204
@@ -397,6 +419,7 @@ translate polish cg_lpd_attack_b45da84a:
 
     # voice voice_file.lpd(14,17)
     # lpd disappointed "\"I need it. Liao.\" "
+    voice voice_file.lpd(14,17)
     lpd disappointed ""
 
 # game/script/14.rpy:206
@@ -404,6 +427,7 @@ translate polish cg_lpd_attack_18f2773e:
 
     # voice voice_file.lpd(14,18)
     # lpd disappointed "\"Please lend me...\" "
+    voice voice_file.lpd(14,18)
     lpd disappointed ""
 
 # game/script/14.rpy:216
@@ -417,6 +441,7 @@ translate polish cg_lpd_attack_144be417:
 
     # voice voice_file.tig(14,7)
     # tig angry "\"Stop!\" " with vshake
+    voice voice_file.tig(14,7)
     tig angry "" with vshake
 
 # game/script/14.rpy:249
@@ -430,6 +455,7 @@ translate polish cg_lpd_attack_90c885d9:
 
     # voice voice_file.tig(14,8)
     # tig angry "\"Arrrgh!\" " with vshake
+    voice voice_file.tig(14,8)
     tig angry "" with vshake
 
 # game/script/14.rpy:270
@@ -449,6 +475,7 @@ translate polish cg_lpd_attack_ec11b67c:
 
     # voice voice_file.tig(14,9)
     # tig pain2 "\"It's nothing, I'm fine...\" "
+    voice voice_file.tig(14,9)
     tig pain2 ""
 
 # game/script/14.rpy:276
@@ -462,6 +489,7 @@ translate polish cg_lpd_attack_178ee706:
 
     # voice voice_file.tig(14,10)
     # tig pain2 "\"Hey, you! What are you thinking! Are you aware that if you take Liao's power...\" "
+    voice voice_file.tig(14,10)
     tig pain2 ""
 
 # game/script/14.rpy:285
@@ -469,6 +497,7 @@ translate polish cg_lpd_attack_3a04bb59:
 
     # voice voice_file.lpd(14,19)
     # lpd normal "\"I know.\" "
+    voice voice_file.lpd(14,19)
     lpd normal ""
 
 # game/script/14.rpy:288
@@ -476,6 +505,7 @@ translate polish cg_lpd_attack_b046360e:
 
     # voice voice_file.tig(14,11)
     # tig pain2 "\"...Then why?!\" " with vshake
+    voice voice_file.tig(14,11)
     tig pain2 "" with vshake
 
 # game/script/14.rpy:290
@@ -489,6 +519,7 @@ translate polish cg_lpd_attack_2cd60a22:
 
     # voice voice_file.lpd(14,20)
     # lpd disappointed "\"No choice.\" "
+    voice voice_file.lpd(14,20)
     lpd disappointed ""
 
 # game/script/14.rpy:308
@@ -496,6 +527,7 @@ translate polish cg_lpd_attack_c41045cc:
 
     # voice voice_file.tig(14,12)
     # tig pain2 "\"...I was wrong about you, but I refuse to let you succeed!\" "
+    voice voice_file.tig(14,12)
     tig pain2 ""
 
 # game/script/14.rpy:315
@@ -503,6 +535,7 @@ translate polish cg_lpd_attack_07e53874:
 
     # voice voice_file.tig(14,13)
     # tig angry_scar "\"Liao is my worshipper, so don't even deem yourself worthy of taking advantage of \nhim!\" " with flash
+    voice voice_file.tig(14,13)
     tig angry_scar "" with flash
 
 # game/script/14.rpy:324
@@ -516,6 +549,7 @@ translate polish cg_lpd_attack_7c55583d:
 
     # voice voice_file.lpd(14,21)
     # lpd normal "\"You can not win.\" " with flash_cyan
+    voice voice_file.lpd(14,21)
     lpd normal "" with flash_cyan
 
 # game/script/14.rpy:351
@@ -523,6 +557,7 @@ translate polish cg_lpd_attack_6c8ef8b9:
 
     # voice voice_file.tig(14,14)
     # tig angry_scar "\"Ha— Even if that's the case... How could a god ever abandon their worshippers!\" " with flash
+    voice voice_file.tig(14,14)
     tig angry_scar "" with flash
 
 # game/script/14.rpy:353
@@ -530,6 +565,7 @@ translate polish cg_lpd_attack_41e67945:
 
     # voice voice_file.lpd(14,22)
     # lpd normal "\"...Neither will I.\" "
+    voice voice_file.lpd(14,22)
     lpd normal ""
 
 # game/script/14.rpy:355
@@ -549,6 +585,7 @@ translate polish cg_lpd_attack_18e117a2:
 
     # voice voice_file.lpd(14,23)
     # lpd normal "\"I am sorry.\" "
+    voice voice_file.lpd(14,23)
     lpd normal ""
 
 # game/script/14.rpy:371
@@ -562,6 +599,7 @@ translate polish cg_lpd_attack_a9ec5f14:
 
     # voice voice_file.tig(14,15)
     # tig angry_scar "\"Liao, move back!\" " with flash_cyan
+    voice voice_file.tig(14,15)
     tig angry_scar "" with flash_cyan
 
 # game/script/14.rpy:399
@@ -588,6 +626,7 @@ translate polish cg_lpd_attack_0aeaa437:
 
     # voice voice_file.tig(14,16)
     # tig pain2 "\"No!\" " with hshake
+    voice voice_file.tig(14,16)
     tig pain2 "" with hshake
 
 # game/script/14.rpy:441
@@ -601,6 +640,7 @@ translate polish cg_lpd_attack_8ed370e3:
 
     # voice voice_file.tig(14,17)
     # tig pain2 "\"Liao, run! I can't stop him...\" " with vshake
+    voice voice_file.tig(14,17)
     tig pain2 "" with vshake
 
 # game/script/14.rpy:446
@@ -620,6 +660,7 @@ translate polish cg_lpd_attack_252f2b30:
 
     # voice voice_file.tig(14,18)
     # tig pain2 "\"Don't worry. I'm a guardian tiger after all...\" "
+    voice voice_file.tig(14,18)
     tig pain2 ""
 
 # game/script/14.rpy:452
@@ -633,6 +674,7 @@ translate polish cg_lpd_attack_24924325:
 
     # voice voice_file.tig(14,19)
     # tig angry_scar "\"Run!\" "
+    voice voice_file.tig(14,19)
     tig angry_scar ""
 
 # game/script/14.rpy:458
@@ -640,6 +682,7 @@ translate polish cg_lpd_attack_811cf051:
 
     # voice voice_file.lpd(14,24)
     # lpd normal "\"I will not...\" "
+    voice voice_file.lpd(14,24)
     lpd normal ""
 
 # game/script/14.rpy:464
@@ -647,6 +690,7 @@ translate polish cg_lpd_attack_2a063862:
 
     # voice voice_file.xiunuosi(14,1)
     # question "\"Ouch. That you would hurt someone like this in broad daylight.\" "
+    voice voice_file.xiunuosi(14,1)
     question ""
 
 # game/script/14.rpy:466
@@ -654,6 +698,7 @@ translate polish cg_lpd_attack_8bfcf1d5:
 
     # voice voice_file.lpd(14,25)
     # lpd normal "\"...Who?\" "
+    voice voice_file.lpd(14,25)
     lpd normal ""
 
 # game/script/14.rpy:477
@@ -661,6 +706,7 @@ translate polish cg_lpd_attack_d6f7b90a:
 
     # voice voice_file.xiunuosi(14,2)
     # xiunuosi eyes_close "\"Hynos, on service to the City God's Twelve.\" " with flash
+    voice voice_file.xiunuosi(14,2)
     xiunuosi eyes_close "" with flash
 
 # game/script/14.rpy:480
@@ -668,6 +714,7 @@ translate polish cg_lpd_attack_80299a0f:
 
     # voice voice_file.xiunuosi(14,3)
     # xiunuosi eyes_close "\"Are you an aborigine god? Why do you battle with this guardian tiger? "
+    voice voice_file.xiunuosi(14,3)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:482
@@ -675,6 +722,7 @@ translate polish cg_lpd_attack_f78ce227:
 
     # voice voice_file.xiunuosi(14,4)
     # xiunuosi eyes_close "\"What terrible behavior... Are you attempting to hurt this young man?\" "
+    voice voice_file.xiunuosi(14,4)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:484
@@ -682,6 +730,7 @@ translate polish cg_lpd_attack_f1d62a9e:
 
     # voice voice_file.xiunuosi(14,5)
     # xiunuosi eyes_close "\"The middle of the day, and on a school campus none the less. Under these circumstances... are you not going too far?\" "
+    voice voice_file.xiunuosi(14,5)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:486
@@ -695,6 +744,7 @@ translate polish cg_lpd_attack_81db4541:
 
     # voice voice_file.lpd(14,26)
     # lpd normal "\"...I just.\" "
+    voice voice_file.lpd(14,26)
     lpd normal ""
 
 # game/script/14.rpy:490
@@ -702,6 +752,7 @@ translate polish cg_lpd_attack_7f5a38c6:
 
     # voice voice_file.lpd(14,27)
     # lpd normal "\"Want to help my people.\" "
+    voice voice_file.lpd(14,27)
     lpd normal ""
 
 # game/script/14.rpy:492
@@ -709,6 +760,7 @@ translate polish cg_lpd_attack_f944e712:
 
     # voice voice_file.xiunuosi(14,6)
     # xiunuosi eyes_close "\"How does that have anything to do with hurting others?\" "
+    voice voice_file.xiunuosi(14,6)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:494
@@ -716,6 +768,7 @@ translate polish cg_lpd_attack_4af92a48:
 
     # voice voice_file.lpd(14,28)
     # lpd normal "\"I need Liao's power. But Liao... does not come.\" "
+    voice voice_file.lpd(14,28)
     lpd normal ""
 
 # game/script/14.rpy:496
@@ -723,6 +776,7 @@ translate polish cg_lpd_attack_8464a501:
 
     # voice voice_file.xiunuosi(14,7)
     # xiunuosi eyes_close "\"That is to say you attacked, just because this young man refused to help you?\" "
+    voice voice_file.xiunuosi(14,7)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:498
@@ -730,6 +784,7 @@ translate polish cg_lpd_attack_65b52733:
 
     # voice voice_file.lpd(14,29)
     # lpd disappointed "\"I...\" "
+    voice voice_file.lpd(14,29)
     lpd disappointed ""
 
 # game/script/14.rpy:500
@@ -737,6 +792,7 @@ translate polish cg_lpd_attack_e1399e23:
 
     # voice voice_file.lpd(14,30)
     # lpd disappointed "\"Need Liao's power.\" "
+    voice voice_file.lpd(14,30)
     lpd disappointed ""
 
 # game/script/14.rpy:502
@@ -744,6 +800,7 @@ translate polish cg_lpd_attack_2e56e4d9:
 
     # voice voice_file.xiunuosi(14,8)
     # xiunuosi eyes_close "\"And to such end, you would rather be our enemy?\" "
+    voice voice_file.xiunuosi(14,8)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:504
@@ -751,6 +808,7 @@ translate polish cg_lpd_attack_3f056067:
 
     # voice voice_file.lpd(14,31)
     # lpd normal "\"I need Liao's power.\" "
+    voice voice_file.lpd(14,31)
     lpd normal ""
 
 # game/script/14.rpy:506
@@ -758,6 +816,7 @@ translate polish cg_lpd_attack_5e5d5bed:
 
     # voice voice_file.xiunuosi(14,9)
     # xiunuosi eyes_close "\"It appears as though you have nothing else to say. In which case...\" "
+    voice voice_file.xiunuosi(14,9)
     xiunuosi eyes_close ""
 
 # game/script/14.rpy:512
@@ -765,6 +824,7 @@ translate polish cg_lpd_attack_8c264edf:
 
     # voice voice_file.xiunuosi(14,10)
     # xiunuosi eyes_open "\"I shall be your opponent.\" " with flash
+    voice voice_file.xiunuosi(14,10)
     xiunuosi eyes_open "" with flash
 
 # game/script/14.rpy:516
@@ -778,6 +838,7 @@ translate polish cg_lpd_attack_24c5a740:
 
     # voice voice_file.tig(14,20)
     # tig pain2 "*pant* *pant* \"I knew it, that aborigine really was no good!\" "
+    voice voice_file.tig(14,20)
     tig pain2 ""
 
 # game/script/14.rpy:533
@@ -809,6 +870,7 @@ translate polish s14_branch1_9160d896:
 
     # voice voice_file.tig(14,21)
     # tig pain2 "\"That Hynos should be able to buy us some time. However... I don't think it will be very long.\" "
+    voice voice_file.tig(14,21)
     tig pain2 ""
 
 # game/script/14.rpy:558
@@ -822,6 +884,7 @@ translate polish s14_branch1_0b9c11fa:
 
     # voice voice_file.tig(14,22)
     # tig frown "\"The {font=tl/None/NotoSansCJKtc-Bold.otf}twelve subordinates{/font} are by no means a battle-ready group... Although with the aid of all twelve divisions they might be able to defeat him.\" "
+    voice voice_file.tig(14,22)
     tig frown ""
 
 # game/script/14.rpy:563
@@ -835,6 +898,7 @@ translate polish s14_branch1_10f435ee:
 
     # voice voice_file.tig(14,23)
     # tig frown "\"I wouldn't know for sure, but what I do know is that the subordinates are not easy targets. They would not die even if he defeated them.\" "
+    voice voice_file.tig(14,23)
     tig frown ""
 
 # game/script/14.rpy:567
@@ -843,6 +907,7 @@ translate polish s14_branch1_f2a75f4c:
     # voice voice_file.tig(14,24)
     # tig frown "\"I also spread my Chi off in different directions on my way back to confuse him. Hopefully it will provide us more time.\" "
     # tig frown "\"Now, I am no match for him, so we must decide what to do next.\" "
+    voice voice_file.tig(14,24)
     tig frown ""
 
 # game/script/14.rpy:569
@@ -868,6 +933,7 @@ translate polish s14_branch1_114e552e:
 
     # voice voice_file.tig(14,25)
     # tig lift "\"I wished to wait longer before mentioning this...\" "
+    voice voice_file.tig(14,25)
     tig lift ""
 
 # game/script/14.rpy:577
@@ -875,6 +941,7 @@ translate polish s14_branch1_88ab5a1d:
 
     # voice voice_file.tig(14,26)
     # tig normal "\"But we are out of time. Liao, you are aware that a Jitong can summon a god to possess his body, correct?\" "
+    voice voice_file.tig(14,26)
     tig normal ""
 
 # game/script/14.rpy:579
@@ -890,6 +957,7 @@ translate polish s14_branch1_f5cd6a69:
     # tig normal "\"Summoning a god to possess your body is not quite that simple. It requires the guardian tiger and Jitong in question to be very familiar with each other.\" "
     # tig normal "\"The Jitong needs to be willing to entrust his body into the guardian tiger's care.\" "
     # tig normal "\"Be certain, that even for the Lin family... a Jitong can only be possessed by one guardian tiger in his lifetime.\" "
+    voice voice_file.tig(14,27)
     tig normal ""
 
 # game/script/14.rpy:583
@@ -897,6 +965,7 @@ translate polish s14_branch1_6f6cf6cf:
 
     # voice voice_file.tig(14,28)
     # tig normal "\"And well... I don't believe we are familiar to that level. It has merely been a month since you could see me, even if I've known of you from a very young age...\" "
+    voice voice_file.tig(14,28)
     tig normal ""
 
 # game/script/14.rpy:585
@@ -916,6 +985,7 @@ translate polish s14_branch1_f722b39b:
 
     # voice voice_file.tig(14,29)
     # tig embarrassed "\"...We might still accomplish it.\" "
+    voice voice_file.tig(14,29)
     tig embarrassed ""
 
 # game/script/14.rpy:595
@@ -929,6 +999,7 @@ translate polish s14_branch1_b01ae6a5:
 
     # voice voice_file.tig(14,30)
     # tig embarrassed "\"A way to help us understand each other... Or otherwise put, to help you feel comfortable to have me possess you.\" "
+    voice voice_file.tig(14,30)
     tig embarrassed ""
 
 # game/script/14.rpy:599
@@ -948,6 +1019,7 @@ translate polish s14_branch1_74b8e30a:
 
     # voice voice_file.tig(14,31)
     # tig normal "\"If I could possess your body, my spirit power would protect you directly. Because his form is purely spiritual, Leopard would be unable to harm you no matter what.\" "
+    voice voice_file.tig(14,31)
     tig normal ""
 
 # game/script/14.rpy:605
@@ -961,6 +1033,7 @@ translate polish s14_branch1_b600b01f:
 
     # voice voice_file.tig(14,32)
     # tig normal "\"Through your body, my spirit power can influence objects effortlessly. Although that leopard's power may be stronger, this distinction means we'll defeat him easily.\" "
+    voice voice_file.tig(14,32)
     tig normal ""
 
 # game/script/14.rpy:614
@@ -974,6 +1047,7 @@ translate polish s14_branch1_d0740676:
 
     # voice voice_file.tig(14,33)
     # tig frown "\"You are still worried about him? Rest assured that a powerful spirit like him won't die so easily. Mayhap he retreat upon defeat, to Wutai or wherever.\" "
+    voice voice_file.tig(14,33)
     tig frown ""
 
 # game/script/14.rpy:618
@@ -981,6 +1055,7 @@ translate polish s14_branch1_8ec6d6b1:
 
     # voice voice_file.tig(14,34)
     # tig frown "\"His power may be weakened, but he'll be fine. I would be unable to hurt him to that extent.\" "
+    voice voice_file.tig(14,34)
     tig frown ""
 
 # game/script/14.rpy:622
@@ -1006,6 +1081,7 @@ translate polish cg_tig_possessing_fa618319:
 
     # voice voice_file.lpd(14,32)
     # lpd normal "\"Liao.\" "
+    voice voice_file.lpd(14,32)
     lpd normal ""
 
 # game/script/14.rpy:650
@@ -1019,6 +1095,7 @@ translate polish cg_tig_possessing_9347ed52:
 
     # voice voice_file.lpd(14,33)
     # lpd normal "\"I need your power.\" "
+    voice voice_file.lpd(14,33)
     lpd normal ""
 
 # game/script/14.rpy:654
@@ -1032,6 +1109,7 @@ translate polish cg_tig_possessing_15835563:
 
     # voice voice_file.lpd(14,34)
     # lpd normal "\"...I take by force. The guardian tiger can't defeat me.\" "
+    voice voice_file.lpd(14,34)
     lpd normal ""
 
 # game/script/14.rpy:663
@@ -1039,6 +1117,7 @@ translate polish cg_tig_possessing_72fd8d2e:
 
     # voice voice_file.tig(14,35)
     # tig frown "\"Oh? How {i}prudent{/i} \ of you. I would very much like to see you try.\" "
+    voice voice_file.tig(14,35)
     tig frown ""
 
 # game/script/14.rpy:665
@@ -1053,6 +1132,7 @@ translate polish cg_tig_possessing_05388cfd:
     # voice voice_file.tig(14,36)
     # tig frown "\"Come on, this is what you wish to do. I really wanted to believe you knew better.\" "
     # tig frown "\"But as I expected, you really are no good, aborigine. It was my fault to allow you to stay by Liao's side.\" "
+    voice voice_file.tig(14,36)
     tig frown ""
 
 # game/script/14.rpy:669
@@ -1060,6 +1140,7 @@ translate polish cg_tig_possessing_47f0a056:
 
     # voice voice_file.tig(14,37)
     # tig angry "\"So now is my chance to correct my faults!\" "
+    voice voice_file.tig(14,37)
     tig angry ""
 
 # game/script/14.rpy:671
@@ -1067,6 +1148,7 @@ translate polish cg_tig_possessing_eb643f25:
 
     # voice voice_file.lpd(14,35)
     # lpd normal "\"...You want fight?\" "
+    voice voice_file.lpd(14,35)
     lpd normal ""
 
 # game/script/14.rpy:673
@@ -1074,6 +1156,7 @@ translate polish cg_tig_possessing_94520e16:
 
     # voice voice_file.tig(14,38)
     # tig frown "\"It's you who is looking for a fight.\" "
+    voice voice_file.tig(14,38)
     tig frown ""
 
 # game/script/14.rpy:675
@@ -1081,6 +1164,7 @@ translate polish cg_tig_possessing_3418a25f:
 
     # voice voice_file.lpd(14,36)
     # lpd disappointed "\"I just want...\" "
+    voice voice_file.lpd(14,36)
     lpd disappointed ""
 
 # game/script/14.rpy:679
@@ -1088,6 +1172,7 @@ translate polish cg_tig_possessing_46423047:
 
     # voice voice_file.tig(14,39)
     # tig angry "\"Unfortunately you won't succeed. Liao is under my protection!\" " with vshake
+    voice voice_file.tig(14,39)
     tig angry "" with vshake
 
 # game/script/14.rpy:681
@@ -1095,6 +1180,7 @@ translate polish cg_tig_possessing_781beaf8:
 
     # voice voice_file.lpd(14,37)
     # lpd angry_1 "\"......\" "
+    voice voice_file.lpd(14,37)
     lpd angry_1 ""
 
 # game/script/14.rpy:683
@@ -1152,6 +1238,7 @@ translate polish cg_tig_possessing_d035dd09:
 
     # voice voice_file.lpd(14,38)
     # lpd surprise "\"......!\" " with vshake
+    voice voice_file.lpd(14,38)
     lpd surprise "" with vshake
 
 # game/script/14.rpy:714
@@ -1177,6 +1264,7 @@ translate polish cg_tig_possessing_b574045f:
 
     # voice voice_file.tig(14,40)
     # tig2 "\"You should realise now that you cannot win. Not now that Liao has let me within his body! Not now that our power can manifest physically!\" "
+    voice voice_file.tig(14,40)
     tig2 ""
 
 # game/script/14.rpy:727
@@ -1190,6 +1278,7 @@ translate polish cg_tig_possessing_c093e702:
 
     # voice voice_file.lpd(14,39)
     # lpd normal "\"I try\" "
+    voice voice_file.lpd(14,39)
     lpd normal ""
 
 # game/script/14.rpy:741
@@ -1215,6 +1304,7 @@ translate polish cg_tig_possessing_459bc12b:
 
     # voice voice_file.tig(14,41)
     # tig2 "\"Hah! I'm amazed.\" "
+    voice voice_file.tig(14,41)
     tig2 ""
 
 # game/script/14.rpy:767
@@ -1222,6 +1312,7 @@ translate polish cg_tig_possessing_81d8077b:
 
     # voice voice_file.lpd(14,40)
     # lpd normal "*pants* "
+    voice voice_file.lpd(14,40)
     lpd normal ""
 
 # game/script/14.rpy:773
@@ -1242,6 +1333,7 @@ translate polish cg_tig_possessing_5f154cc3:
 
     # voice voice_file.lpd(14,41)
     # lpd worry "*tch* "
+    voice voice_file.lpd(14,41)
     lpd worry ""
 
 # game/script/14.rpy:802
@@ -1267,6 +1359,7 @@ translate polish cg_tig_possessing_eacf9ab1:
 
     # voice voice_file.tig(14,42)
     # tig2 "\"The vines are only spiritual! Merely illusory!\" " with vshake
+    voice voice_file.tig(14,42)
     tig2 "" with vshake
 
 # game/script/14.rpy:812
@@ -1280,6 +1373,7 @@ translate polish cg_tig_possessing_3b9a428e:
 
     # voice voice_file.tig(14,43)
     # tig2 "\"That won't work!\" "
+    voice voice_file.tig(14,43)
     tig2 ""
 
 # game/script/14.rpy:816
@@ -1299,6 +1393,7 @@ translate polish cg_tig_possessing_5f9246fc:
 
     # voice voice_file.tig(14,44)
     # tig2 "\"Damn! He is still so very powerful... "
+    voice voice_file.tig(14,44)
     tig2 ""
 
 # game/script/14.rpy:826
@@ -1318,6 +1413,7 @@ translate polish cg_tig_possessing_46f727e9:
 
     # voice voice_file.lpd(14,42)
     # lpd angry_2 "\"...Humph!\" "
+    voice voice_file.lpd(14,42)
     lpd angry_2 ""
 
 # game/script/14.rpy:832
@@ -1325,6 +1421,7 @@ translate polish cg_tig_possessing_8458e2cb:
 
     # voice voice_file.tig(14,45)
     # tig2 "\"Rrrrrrrraaaaaaa...\" "
+    voice voice_file.tig(14,45)
     tig2 ""
 
 # game/script/14.rpy:835
@@ -1338,6 +1435,7 @@ translate polish cg_tig_possessing_6de2b6a2:
 
     # voice voice_file.tig(14,46)
     # tig2 "\"Raaagh— We're so close— We just— need— to break through!\" "
+    voice voice_file.tig(14,46)
     tig2 ""
 
 # game/script/14.rpy:842
@@ -1345,6 +1443,7 @@ translate polish cg_tig_possessing_7299d1e2:
 
     # voice voice_file.lpd(14,43)
     # lpd angry_2 "\"You, catch ...together!\" "
+    voice voice_file.lpd(14,43)
     lpd angry_2 ""
 
 # game/script/14.rpy:848
@@ -1388,6 +1487,7 @@ translate polish cg_tig_possessing_29a12c9b:
 
     # voice voice_file.tig(14,47)
     # tig2 "\"Rrrrrrrraaaaaaaaaaah!\" " with vshake
+    voice voice_file.tig(14,47)
     tig2 "" with vshake
 
 # game/script/14.rpy:868
@@ -1420,6 +1520,7 @@ translate polish cg_tig_possessing_73be1cd9:
 
     # voice voice_file.tig(14,48)
     # tig2 "\"!?\" "
+    voice voice_file.tig(14,48)
     tig2 ""
 
 # game/script/14.rpy:888
@@ -1469,6 +1570,7 @@ translate polish cg_tig_possessing_0d80d6fc:
 
     # voice voice_file.tig(14,49)
     # tig2 "\"......!\" " with vshake
+    voice voice_file.tig(14,49)
     tig2 "" with vshake
 
 # game/script/14.rpy:914
@@ -1476,6 +1578,7 @@ translate polish cg_tig_possessing_2828467a:
 
     # voice voice_file.tig(14,50)
     # tig2 "\"Then...\" "
+    voice voice_file.tig(14,50)
     tig2 ""
 
 # game/script/14.rpy:916
@@ -1483,6 +1586,7 @@ translate polish cg_tig_possessing_7ae7f74e:
 
     # voice voice_file.tig(14,51)
     # tig2 "\"As you wish!\" "
+    voice voice_file.tig(14,51)
     tig2 ""
 
 # game/script/14.rpy:922
@@ -1497,6 +1601,7 @@ translate polish cg_tig_possessing_b5610490:
 
     # voice voice_file.lpd(14,44)
     # lpd surprise "\"...!\" "
+    voice voice_file.lpd(14,44)
     lpd surprise ""
 
 # game/script/14.rpy:926
@@ -1540,6 +1645,7 @@ translate polish cg_tig_possessing_5bd4b387:
 
     # voice voice_file.tig(14,52)
     # tig normal "\"...Liao, are you alright?\" "
+    voice voice_file.tig(14,52)
     tig normal ""
 
 # game/script/14.rpy:962
@@ -1553,6 +1659,7 @@ translate polish cg_tig_possessing_17ce93ee:
 
     # voice voice_file.tig(14,53)
     # tig normal "\"Some people can be completely exhausted by the possessing ritual. If you don't feel well you may take a rest.\" "
+    voice voice_file.tig(14,53)
     tig normal ""
 
 # game/script/14.rpy:966
@@ -1590,6 +1697,7 @@ translate polish cg_tig_possessing_7ea435e5:
 
     # voice voice_file.tig(14,54)
     # tig gentle "\"Hmm?\" "
+    voice voice_file.tig(14,54)
     tig gentle ""
 
 # game/script/14.rpy:978
@@ -1603,6 +1711,7 @@ translate polish cg_tig_possessing_95a58a81:
 
     # voice voice_file.tig(14,55)
     # tig gentle "\"Of course I would say any name given to me by Liao would be wonderful, but...\" "
+    voice voice_file.tig(14,55)
     tig gentle ""
 
 # game/script/14.rpy:982
@@ -1610,6 +1719,7 @@ translate polish cg_tig_possessing_684adb3e:
 
     # voice voice_file.tig(14,56)
     # tig laugh_1 "\"Lin Hu, tiger of the Lin family. Simple and direct, I like it very much.\" "
+    voice voice_file.tig(14,56)
     tig laugh_1 ""
 
 # game/script/14.rpy:984
@@ -1641,6 +1751,7 @@ translate polish s14_branch1_03_26ac9381:
 
     # voice voice_file.tig(14,57)
     # tig frown "\"What of him? Did he not just flee from us?\" "
+    voice voice_file.tig(14,57)
     tig frown ""
 
 # game/script/14.rpy:1005
@@ -1654,6 +1765,7 @@ translate polish s14_branch1_03_af5cd687:
 
     # voice voice_file.tig(14,58)
     # tig frown "\"Why— Are you still worried over him leaving?\" "
+    voice voice_file.tig(14,58)
     tig frown ""
 
 # game/script/14.rpy:1009
@@ -1667,6 +1779,7 @@ translate polish s14_branch1_03_6ef6e765:
 
     # voice voice_file.tig(14,59)
     # tig frown "\"Harm? He wanted to kill you!\" " with vshake
+    voice voice_file.tig(14,59)
     tig frown "" with vshake
 
 # game/script/14.rpy:1014
@@ -1683,6 +1796,7 @@ translate polish s14_branch1_03_3884e287:
     # tig frown "\"One cannot divide the power of a spirit. To take that spirit away from you... Well...\" "
     # tig frown "\"Let me put it this way. It would be akin to formatting your computer's memory. Clearing {i}who{/i} \ you are from your body— your personality— your memories, gone.\" "
     # tig frown "\"It would be no different than killing the person known as Lin Tian-Liao.\" "
+    voice voice_file.tig(14,60)
     tig frown ""
 
 # game/script/14.rpy:1020
@@ -1697,6 +1811,7 @@ translate polish s14_branch1_03_6cdd526d:
     # voice voice_file.tig(14,61)
     # tig angry "\"What else would you believe? That you could take away your spirit power without it changing who you are?\" "
     # tig angry "\"Even RAM cannot retain information without power.\" "
+    voice voice_file.tig(14,61)
     tig angry ""
 
 # game/script/14.rpy:1024
@@ -1710,6 +1825,7 @@ translate polish s14_branch1_03_d766b8ec:
 
     # voice voice_file.tig(14,62)
     # tig frown "\"I was merely trying to convey it in a way that you would understand.\" "
+    voice voice_file.tig(14,62)
     tig frown ""
 
 # game/script/14.rpy:1030
@@ -1736,6 +1852,7 @@ translate polish s14_branch1_03_lpd_d3b2ce47:
     # voice voice_file.tig(14,63)
     # tig frown "\"Liao... that was only a metaphor. Such things are common sense to gods. \" "
     # tig frown "\"Besides, did I not ask him whether he knew what he was doing? He said as much.\" "
+    voice voice_file.tig(14,63)
     tig frown ""
 
 # game/script/14.rpy:1061
@@ -1749,6 +1866,7 @@ translate polish s14_branch1_03_lpd_9cb486ae:
 
     # voice voice_file.tig(14,64)
     # tig frown "\"Right.\" "
+    voice voice_file.tig(14,64)
     tig frown ""
 
 # game/script/14.rpy:1067
@@ -1763,6 +1881,7 @@ translate polish s14_branch1_03_lpd_44a40a78:
     # voice voice_file.tig(14,65)
     # tig angry "\"I would love to believe that, but even if he didn't know that it would kill you, he {i}absolutely{/i} \ knew it would harm you.\" "
     # tig angry "\"I cannot forgive him for that.\" "
+    voice voice_file.tig(14,65)
     tig angry ""
 
 # game/script/14.rpy:1073

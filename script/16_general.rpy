@@ -11,6 +11,7 @@ translate polish s16_branch3_general_01_4c8e7aae:
 
     # voice voice_file.tig("16N",1)
     # tig embarrassed "\"Well— Of course I'm serious. It's just...\" "
+    voice voice_file.tig("16N",1)
     tig embarrassed ""
 
 # game/script/16_general.rpy:10
@@ -24,6 +25,7 @@ translate polish s16_branch3_general_01_d15f3aa5:
 
     # voice voice_file.tig("16N",2)
     # tig embarrassed "\"How to put this... Of course, I like you Liao. But I also feel that the urgency of the situation caused me to act recklessly...\" "
+    voice voice_file.tig("16N",2)
     tig embarrassed ""
 
 # game/script/16_general.rpy:14
@@ -37,6 +39,7 @@ translate polish s16_branch3_general_01_5e3d13cc:
 
     # voice voice_file.tig("16N",3)
     # tig embarrassed "\"Just... I don't want you to think too much about it\" "
+    voice voice_file.tig("16N",3)
     tig embarrassed ""
 
 # game/script/16_general.rpy:18
@@ -50,6 +53,7 @@ translate polish s16_branch3_general_01_c490c075:
 
     # voice voice_file.tig("16N",4)
     # tig normal "\"...Umm, let's not discuss anything else on the matter. It's my duty to protect you, no matter my feelings. I have to—\" "
+    voice voice_file.tig("16N",4)
     tig normal ""
 
 # game/script/16_general.rpy:25
@@ -63,6 +67,7 @@ translate polish s16_branch3_general_01_a3836f00:
 
     # voice voice_file.tig("16N",5)
     # tig embarrassed "\"No, I just didn't expect you to take it this seriously...\" "
+    voice voice_file.tig("16N",5)
     tig embarrassed ""
 
 # game/script/16_general.rpy:30
@@ -89,6 +94,7 @@ translate polish s16_branch3_general_01_330ffa04:
 
     # voice voice_file.tig("16N",6)
     # tig embarrassed "\"...Liao, calm yourself.\" "
+    voice voice_file.tig("16N",6)
     tig embarrassed ""
 
 # game/script/16_general.rpy:38
@@ -108,6 +114,7 @@ translate polish s16_branch3_general_01_1b0800d4:
 
     # voice voice_file.tig("16N",7)
     # tig embarrassed "\"...It's true that I wished to possess you, but that was all to contend with that clouded leopard.\" "
+    voice voice_file.tig("16N",7)
     tig embarrassed ""
 
 # game/script/16_general.rpy:44
@@ -121,6 +128,7 @@ translate polish s16_branch3_general_01_65a95fb2:
 
     # voice voice_file.tig("16N",8)
     # tig frown "\"...It's not like that.\" "
+    voice voice_file.tig("16N",8)
     tig frown ""
 
 # game/script/16_general.rpy:50
@@ -165,6 +173,7 @@ translate polish s16_branch3_general_01_37622b60:
 
     # voice voice_file.tig("16N",9)
     # tig gentle "\"Of course I li—\" "
+    voice voice_file.tig("16N",9)
     tig gentle ""
 
 # game/script/16_general.rpy:70
@@ -178,6 +187,7 @@ translate polish s16_branch3_general_02_c7896993:
 
     # voice voice_file.tig("16N",10)
     # tig embarrassed "\"I shouldn't... become that intimate with you.\" "
+    voice voice_file.tig("16N",10)
     tig embarrassed ""
 
 # game/script/16_general.rpy:82
@@ -192,6 +202,7 @@ translate polish s16_branch3_general_04_c21ed13e:
     # voice voice_file.tig("16N",11)
     # tig laugh_2 "\"Don't worry. Only I can possess your body.\" "
     # tig laugh_2 "\"After all... I would never let anyone else have you.\" "
+    voice voice_file.tig("16N",11)
     tig laugh_2 ""
 
 # game/script/16_general.rpy:89
@@ -205,6 +216,7 @@ translate polish s16_branch3_general_04_ac35a3c3:
 
     # voice voice_file.tig("16N",12)
     # tig normal "\"I was merely, showing-off\" "
+    voice voice_file.tig("16N",12)
     tig normal ""
 
 # game/script/16_general.rpy:93

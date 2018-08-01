@@ -17,6 +17,7 @@ translate polish day1_after_01_tig_062d49d0:
 
     # voice voice_file.lpdcat(2,1)
     # lpdcat cry_2 "\"Aww~ You're too cruel Liao!\" "
+    voice voice_file.lpdcat(2,1)
     lpdcat cry_2 "\"Ohhh~ Jesteś okrutny Liao!\" "
 
 # game/script/02_day1_after.rpy:32
@@ -30,6 +31,7 @@ translate polish day1_after_01_tig_db927990:
 
     # voice voice_file.lpdcat(2,2)
     # lpdcat cry_2 "\"Aww— boohoo...\" "
+    voice voice_file.lpdcat(2,2)
     lpdcat cry_2 "\"Ooo- buuhuu...\" "
 
 # game/script/02_day1_after.rpy:37
@@ -43,6 +45,7 @@ translate polish day1_after_01_tig_ca335cca:
 
     # voice voice_file.lpdcat(2,3)
     # lpdcat wronged "\"Well, if its gotta be like this...\" "
+    voice voice_file.lpdcat(2,3)
     lpdcat wronged "\"Skoro tak musi być...\" "
 
 # game/script/02_day1_after.rpy:43
@@ -56,6 +59,7 @@ translate polish day1_after_01_tig_bb4952b2:
 
     # voice voice_file.lpdcat(2,4)
     # lpdcat cute "\"This is my territory now! No one else can trespass!\" " with flash
+    voice voice_file.lpdcat(2,4)
     lpdcat cute "\"Od teraz to moje terytorium! Nikt inny nie może go przekroczyć!\" " with flash
 
 # game/script/02_day1_after.rpy:50
@@ -81,6 +85,7 @@ translate polish day1_after_01_tig_a2079805:
 
     # voice voice_file.lpdcat(2,5)
     # lpdcat normal "\"Of course Liao gets a free pass! I welcome you into my territory, and even to sleep with me on the floor~\" "
+    voice voice_file.lpdcat(2,5)
     lpdcat normal "\"Oczywiście Liao dostaje darmową przepustkę! Jesteś mile widziany na moim terytorium, możesz też spać ze mną na podłodze~\" "
 
 # game/script/02_day1_after.rpy:60
@@ -102,6 +107,7 @@ translate polish day1_after_01_tig_fd071fbf:
 
     # voice voice_file.lpdcat(2,6)
     # lpdcat cute "\"Well it's not like I'm the one forcing you to stay awake~\" "
+    voice voice_file.lpdcat(2,6)
     lpdcat cute "\"To nie tak, że zmuszam cię do pozostania na nogach~\" "
 
 # game/script/02_day1_after.rpy:66
@@ -139,6 +145,7 @@ translate polish day1_after_01_tig_42cb276c:
 
     # voice voice_file.tig(2,1)
     # tig normal "\"Yes. Although, since you can see me, you can also feel me now. It does make it a bit... cramped.\" "
+    voice voice_file.tig(2,1)
     tig normal "\"Tak. Skoro możesz mnie teraz zobaczyć, możesz też mnie poczuć. To sprawia, że jest trochę... ciasno.\" "
 
 # game/script/02_day1_after.rpy:92
@@ -152,6 +159,7 @@ translate polish day1_after_01_tig_3aa556d1:
 
     # voice voice_file.tig(2,2)
     # tig normal "\"Just lie here. It's ok. I won't let you fall off the bed.\" "
+    voice voice_file.tig(2,2)
     tig normal "\"Połóż się tutaj. Tak będzie najwygodniej. Nie pozwolę ci spaść z łóżka.\" "
 
 # game/script/02_day1_after.rpy:96
@@ -173,6 +181,7 @@ translate polish day1_after_01_tig_c27300ed:
 
     # voice voice_file.lpdcat(2,7)
     # lpdcat none "\"Liao, it'd be a waste if we don't eat this stew. Mind if I finish it?\" "
+    voice voice_file.lpdcat(2,7)
     lpdcat none "\"Liao, gulasz się zmarnuje, jeśli go nie zjemy. Masz coś przeciwko temu, że go dokończę?\" "
 
 # game/script/02_day1_after.rpy:102
@@ -200,6 +209,7 @@ translate polish day1_after_01_tig_1aafc3b8:
 
     # voice voice_file.lpdcat(2,8)
     # lpdcat cute "\"Don't worry, I'll be really super careful!\" "
+    voice voice_file.lpdcat(2,8)
     lpdcat cute "\"Nie martw się, będę bardzo, bardzo uważał!\" "
 
 # game/script/02_day1_after.rpy:120
@@ -373,6 +383,7 @@ translate polish day1_after_01_tig_55daf759:
 
     # voice voice_file.tig(2,3)
     # tig normal "\"Yes. Well, gods don't exactly need to sleep.\" "
+    voice voice_file.tig(2,3)
     tig normal "\"Tak. Tak naprawdę to bogowie nie muszą spać.\" "
 
 # game/script/02_day1_after.rpy:175
@@ -389,6 +400,7 @@ translate polish day1_after_01_tig_7481c296:
     # tig normal "\"As for myself... Well, I've gotten used to this.\" "
     # tig normal "\"After all, theres nothing I can do while you're sleeping.\" "
     # tig normal "\"Is it surprising that a god can get bored?\" "
+    voice voice_file.tig(2,4)
     tig normal "\"Zgaduję, że kociak go chciał z powodu swojego fizycznego ciała. Nie mam pojęcia co tego aborygena.\" "
     tig normal "\"Co do mnie... Przyzwyczaiłem się do tego.\" "
     tig normal "Nie mam przecież nic do roboty, gdy śpisz.\" "
@@ -405,6 +417,7 @@ translate polish day1_after_01_tig_a3b30c65:
 
     # voice voice_file.tig(2,5)
     # tig normal "\"Well you weren't able to touch me then. However, you're just like a childhood sweetheart to me, as such it's quite normal for me to hold you and sleep with you.\" "
+    voice voice_file.tig(2,5)
     tig normal "\"Przecież nie mogłeś mnie wtedy poczuć. Mimo to jesteś dla mnie jak ukochany z dzieciństwa i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
 
 # game/script/02_day1_after.rpy:183
@@ -418,6 +431,7 @@ translate polish day1_after_01_tig_b655dbd9:
 
     # voice voice_file.tig(2,6)
     # tig laugh_2 "\"Whatever you think, you are my worshipper, so it's my responsibility to protect you, just as if you were a child.\" "
+    voice voice_file.tig(2,6)
     tig laugh_2 "\"Mniejsza co o tym myślisz, jesteś moim wyznawcą, a więc moim obowiązkiem jest cię chronić, jak małe dziecko.\" "
 
 # game/script/02_day1_after.rpy:187
@@ -425,6 +439,7 @@ translate polish day1_after_01_tig_7f7ef53d:
 
     # voice voice_file.tig(2,7)
     # tig laugh_2 "\"You've grown up next to me for years, I'm not that old after all. However you may call it, my playmate or childhood sweetheart.\" "
+    voice voice_file.tig(2,7)
     tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, nie jestem jednak taki stary. Możesz się nazywać moim kolegą lub ukochanym z dzieciństwa.\" "
 
 # game/script/02_day1_after.rpy:189
@@ -439,6 +454,7 @@ translate polish day1_after_01_tig_f0cb9830:
     # voice voice_file.tig(2,8)
     # tig normal "\"Correct, I'm just a {font=tl/None/NotoSansCJKtc-Bold.otf}Fenling{/font}, you know?\" "
     # tig normal "\"Well, precisely speaking I was born after you brought me to Taipei. I have no memories from my primal spirit.\" "
+    voice voice_file.tig(2,8)
     tig normal "\"Tak jest, jestem po prostu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
     tig normal "\"Cóż, mówiąc precyzyjnie, urodziłem się po tym, jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
 
@@ -453,6 +469,7 @@ translate polish day1_after_01_tig_82633901:
 
     # voice voice_file.tig(2,9)
     # tig lift "\"Although, I do remember everything about your childhood. Like, the last time you wet your bed was when you...\" "
+    voice voice_file.tig(2,9)
     tig lift "\"Mimo to, pamiętam wszystko związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko, kiedy...\" "
 
 # game/script/02_day1_after.rpy:198
@@ -467,6 +484,7 @@ translate polish day1_after_01_tig_69d9fd03:
     # voice voice_file.tig(2,10)
     # tig normal "\"Alright— Alright— Simply put, I know everything about you, and your family.\" "
     # tig normal "\"So, do you think I'm qualified to be your childhood sweetheart?\" "
+    voice voice_file.tig(2,10)
     tig normal "\Dobrze, już dobrze- Mówiąc krótko, wiem wszystko o tobie i twojej rodzinie.\" "
     tig normal "\"Czy myślisz więc, że kwalifikuję się do bycia twoim ukochanym z dzieciństwa?\" "
 
@@ -481,6 +499,7 @@ translate polish day1_after_01_tig_4d0817d2:
 
     # voice voice_file.tig(2,11)
     # tig laugh_2 "\"There is no more appropriate word to be found.\" "
+    voice voice_file.tig(2,11)
     tig laugh_2 "\"Nie ma dla tego lepszego określenia.\" "
 
 # game/script/02_day1_after.rpy:206
@@ -500,6 +519,7 @@ translate polish day1_after_01_tig_e18a4da3:
 
     # voice voice_file.tig(2,12)
     # tig normal "\"Really? I had no idea about the implications. However, if our relationship is that good it means I'll easily beat those two, or at least the kitten.\" "
+    voice voice_file.tig(2,12)
     tig normal "\"Naprawdę? Nie miałem pojęcia o konsekwencjach. Jeśli jednak nasza relacja jest tak dobra, oznacza to, że łatwo pokonam tą dwójkę, a przynajmniej kociaka.\" "
 
 # game/script/02_day1_after.rpy:212
@@ -513,6 +533,7 @@ translate polish day1_after_01_tig_edf0f55f:
 
     # voice voice_file.tig(2,13)
     # tig "\"Liao, don't be distracted by those two, understood? After all, you're a son of the Lin family.\" "
+    voice voice_file.tig(2,13)
     tig "\"Liao, nie daj się omamić tej dwójce, rozumiesz? Jesteś przecież synem rodziny Lin.\" "
 
 # game/script/02_day1_after.rpy:216
@@ -534,6 +555,7 @@ translate polish day1_after_01_tig_868b21ac:
 
     # voice voice_file.tig(2,14)
     # tig "\"Liao, don't you want to go home?\" "
+    voice voice_file.tig(2,14)
     tig "\"Liao, nie chciałbyś wrócić do domu?\" "
 
 # game/script/02_day1_after.rpy:222
@@ -558,6 +580,7 @@ translate polish day1_after_01_tig_8fcce49d:
     # voice voice_file.tig(2,15)
     # tig "\"How could I be angry at that. \" "
     # tig "\"However, I still want you to consider going back. It's not that boring, at least it wont be now that you can see us. \" "
+    voice voice_file.tig(2,15)
     tig "\"Czemu miałbym być zły.\" "
     tig "\"Mimo wszystko chciałbym, byś to jeszcze przemyślał. Nie jest tam aż tak nudno, a przynajmniej teraz już nie będzie, gdy możesz nas zobaczyć.\" "
 
@@ -566,6 +589,7 @@ translate polish day1_after_01_tig_9e68c7a3:
 
     # voice voice_file.tig(2,16)
     # tig laugh_2 "\"You could spend your whole life talking with all the other guardian tigers even.\" "
+    voice voice_file.tig(2,16)
     tig laugh_2 "\"Mógłbyś nawet spędzić całe swoje życie na rozmowach z innymi tygrysimi strażnikami.\" "
 
 # game/script/02_day1_after.rpy:230
@@ -591,6 +615,7 @@ translate polish day1_after_01_tig_689a9348:
 
     # voice voice_file.tig(2,17)
     # tig normal "\"It's all right, take your time. Theres no reason to decide right away.\" "
+    voice voice_file.tig(2,17)
     tig normal "\"Już dobrze, nie śpiesz się z tym. Nie ma powodu, by decydować o tym teraz.\" "
 
 # game/script/02_day1_after.rpy:238
@@ -604,6 +629,7 @@ translate polish day1_after_01_tig_366640ee:
 
     # voice voice_file.tig(2,18)
     # tig laugh_1 "\"I know you're a good boy. Don't worry, we'll take very good care of you once you get home.\" "
+    voice voice_file.tig(2,18)
     tig laugh_1 "\"Wiem, że dobry z ciebie chłopak. Nie martw się, bardzo dobrze się tobą zaopiekuję, gdy wrócisz do domu.\" "
 
 # game/script/02_day1_after.rpy:243
@@ -612,6 +638,7 @@ translate polish day1_after_01_tig_a4d32cbd:
     # voice voice_file.tig(2,19)
     # tig laugh_1 "\"As you must know, there are three guardian tigers protecting your family, but really there are more than three of them.\" "
     # tig laugh_1 "\"Those three are well known because they usually show up in {font=tl/None/NotoSansCJKtc-Bold.otf}Kaidao{/font} rites.\" "
+    voice voice_file.tig(2,19)
     tig laugh_1 "\"Jak zapewne wiesz jest trzech tygrysich strażników broni twojej, ale ogólnie to jest o wiele więcej.\" "
     tig laugh_1 "\"Ta trójka jest dobrze znana, ponieważ zazwyczaj ukazują się podczas obrzędów {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kaidao{/font}.\" "
 
@@ -622,6 +649,7 @@ translate polish day1_after_01_tig_4a6abaec:
     # tig laugh_1 "\"In fact there are many, many of us. Each statue holds it's own spirit after all.\" "
     # tig laugh_1 "\"There are even other gods in the temple. Although you may only be able to see the guardian tigers.\" "
     # tig laugh_1 "\"But you'll definitely be amazed by their magnificence...\" "
+    voice voice_file.tig(2,20)
     tig laugh_1 "\"Tak naprawdę to jest nas bardzo wielu. W końcu każdy posąg skrywa w sobie ducha.\" "
     tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek możliwe, że będziesz mógł zobaczyć tylko tygrysich strażników.\" "
     tig laugh_1 "\"Na pewno zdumnieje cię ich wspaniałość...\" "
@@ -659,6 +687,7 @@ translate polish day1_after_01_lpd_f6b6d2e1:
 
     # voice voice_file.tig(2,21)
     # tig frown "*humph* "
+    voice voice_file.tig(2,21)
     tig frown "*Hmmpf* "
 
 # game/script/02_day1_after.rpy:289
@@ -666,6 +695,7 @@ translate polish day1_after_01_lpd_aebc2e7f:
 
     # voice voice_file.lpdcat(2,9)
     # lpdcat cry_2 "\"Wha— Why him?! I'm also your guest you know!\" "
+    voice voice_file.lpdcat(2,9)
     lpdcat cry_2 "\"Co- Dlaczego on?! Wiesz przecież, że też jestem twoim gościem!\" "
 
 # game/script/02_day1_after.rpy:291
@@ -679,6 +709,7 @@ translate polish day1_after_01_lpd_9953901c:
 
     # voice voice_file.lpdcat(2,10)
     # lpdcat wronged "\"Why not! I came to you just like him... Right, so—\" "
+    voice voice_file.lpdcat(2,10)
     lpdcat wronged "\"Dlaczego nie! Przyszedłem do ciebie tak samo jak on... A więc-\" "
 
 # game/script/02_day1_after.rpy:298
@@ -686,6 +717,7 @@ translate polish day1_after_01_lpd_5a700c91:
 
     # voice voice_file.lpdcat(2,11)
     # lpdcat shy_3 "\"...That means I'm more than a guest, right? Liao thinks of me as family!\" "
+    voice voice_file.lpdcat(2,11)
     lpdcat shy_3 "\"...to znaczy, że jestem dla ciebie kimś więcej, niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
 
 # game/script/02_day1_after.rpy:307
@@ -707,6 +739,7 @@ translate polish day1_after_01_lpd_3f1d3d82:
 
     # voice voice_file.lpdcat(2,12)
     # lpdcat wronged "\"Wuu— if you say so...\" "
+    voice voice_file.lpdcat(2,12)
     lpdcat wronged "\"Ouu- skoro tak mówisz...\" "
 
 # game/script/02_day1_after.rpy:314
@@ -714,6 +747,7 @@ translate polish day1_after_01_lpd_e358c755:
 
     # voice voice_file.lpdcat(2,13)
     # lpdcat cute "\"Anyway~ I'm happy to grovel on the floor if Liao can help me rejuvenate my temple!\" "
+    voice voice_file.lpdcat(2,13)
     lpdcat cute "\"Mniejsza~ Leżenie na podłodze mi nie straszne tak długo jak Liao pomoże ożywić moją świątynię!\" "
 
 # game/script/02_day1_after.rpy:316
@@ -727,6 +761,7 @@ translate polish day1_after_01_lpd_ce6de70d:
 
     # voice voice_file.lpdcat(2,14)
     # lpdcat cry_2 "\"Wuu— That's so mean!\" " with hshake
+    voice voice_file.lpdcat(2,14)
     lpdcat cry_2 "\"Ouu- To takie niemiłe!\" " with hshake
 
 # game/script/02_day1_after.rpy:320
@@ -740,6 +775,7 @@ translate polish day1_after_01_lpd_44fefdea:
 
     # voice voice_file.lpdcat(2,15)
     # lpdcat laugh "\"How about the one on your bed?\" "
+    voice voice_file.lpdcat(2,15)
     lpdcat laugh "\"A co powiesz na tą z twojego łóżka?\" "
 
 # game/script/02_day1_after.rpy:324
@@ -769,6 +805,7 @@ translate polish day1_after_01_lpd_f5c01a84:
 
     # voice voice_file.lpdcat(2,16)
     # lpdcat normal "\"Liao, if I sleep here I'll block the door.\" "
+    voice voice_file.lpdcat(2,16)
     lpdcat normal "\"Liao, będę blokował drzwi śpiąc tutaj.\" "
 
 # game/script/02_day1_after.rpy:333
@@ -782,6 +819,7 @@ translate polish day1_after_01_lpd_40fcbbc4:
 
     # voice voice_file.lpdcat(2,17)
     # lpdcat difficult "\"Alright, just don't harass me in the middle of the night.\" "
+    voice voice_file.lpdcat(2,17)
     lpdcat difficult "\"Dobra, tylko nie przeszkadzaj mi w środku nocy.\" "
 
 # game/script/02_day1_after.rpy:337
@@ -795,6 +833,7 @@ translate polish day1_after_01_lpd_464cb1be:
 
     # voice voice_file.lpdcat(2,18)
     # lpdcat cute "\"I don't mind if you do during the day though~\" "
+    voice voice_file.lpdcat(2,18)
     lpdcat cute "\"Co innego za dnia~\" "
 
 # game/script/02_day1_after.rpy:343
@@ -852,6 +891,7 @@ translate polish day1_after_01_lpd_0f91145a:
 
     # voice voice_file.lpdcat(2,19)
     # lpdcat laugh "\"Liao, you didn't even have any of the food, you absolutely sure you don't want any?\" "
+    voice voice_file.lpdcat(2,19)
     lpdcat laugh "\"Liao, nic jeszcze nie jadłeś, jesteś absolutnie pewien, że nic nie chcesz?\" "
 
 # game/script/02_day1_after.rpy:379
@@ -865,6 +905,7 @@ translate polish day1_after_01_lpd_66641549:
 
     # voice voice_file.lpdcat(2,20)
     # lpdcat laugh "\"I couldn't care less, and it's not like you're fat. So why not?\" "
+    voice voice_file.lpdcat(2,20)
     lpdcat laugh "\"Nic mnie to nie obchodzi, a poza tym nie jesteś przecież gruby. Więc dlaczego nie?\" "
 
 # game/script/02_day1_after.rpy:383
@@ -878,6 +919,7 @@ translate polish day1_after_01_lpd_26f82385:
 
     # voice voice_file.lpdcat(2,21)
     # lpdcat panic "\"Waaa— But I bought it for you!\" "
+    voice voice_file.lpdcat(2,21)
     lpdcat panic "\"Cooo- Kupiłem to specjalnie dla ciebie!\" "
 
 # game/script/02_day1_after.rpy:394
@@ -885,6 +927,7 @@ translate polish day1_after_01_lpd_116bfca5:
 
     # voice voice_file.tig(2,22)
     # tig normal "\"Hey kitten! That's enough, stop bothering Liao.\" "
+    voice voice_file.tig(2,22)
     tig normal "\"Hej kociaku! Już wystarczy, przestań przeszkadzać Liao.\" "
 
 # game/script/02_day1_after.rpy:396
@@ -892,6 +935,7 @@ translate polish day1_after_01_lpd_d75baea7:
 
     # voice voice_file.lpdcat(2,22)
     # lpdcat panic "\"Hey! I didn't mean it like that...\" "
+    voice voice_file.lpdcat(2,22)
     lpdcat panic "\"Hej! Nie to miałem na myśli...\" "
 
 # game/script/02_day1_after.rpy:399
@@ -899,6 +943,7 @@ translate polish day1_after_01_lpd_1c020f89:
 
     # voice voice_file.tig(2,23)
     # tig normal "\"No more! Liao needs some rest. If you stop him from sleeping anymore I'll kick you out. Do you understand? \" " with hshake
+    voice voice_file.tig(2,23)
     tig normal "\"Wystarczy! Liao musi odpocząć. Jeśli dalej będziesz mu przeszkadzał to cię z tą wyrzucę. Zrozumiano?\" " with hshake
 
 # game/script/02_day1_after.rpy:401
@@ -906,6 +951,7 @@ translate polish day1_after_01_lpd_7f3c7727:
 
     # voice voice_file.lpdcat(2,23)
     # lpdcat wronged "\"...Okay.\" "
+    voice voice_file.lpdcat(2,23)
     lpdcat wronged "\"Tak...\" "
 
 # game/script/02_day1_after.rpy:410
@@ -1071,6 +1117,7 @@ translate polish day1_after_01_lpd_da59f907:
 
     # voice voice_file.lpd(2,1)
     # lpd normal "\"Coincidence.\" "
+    voice voice_file.lpd(2,1)
     lpd normal "\"Przypadek.\" "
 
 # game/script/02_day1_after.rpy:476
@@ -1084,6 +1131,7 @@ translate polish day1_after_01_lpd_6e563d0c:
 
     # voice voice_file.lpd(2,2)
     # lpd "\"Yes.\" "
+    voice voice_file.lpd(2,2)
     lpd "\"Tak.\" "
 
 # game/script/02_day1_after.rpy:480
@@ -1097,6 +1145,7 @@ translate polish day1_after_01_lpd_5031c723:
 
     # voice voice_file.lpd(2,3)
     # lpd "\"Spirits... went home. I... sent spirits home.\" "
+    voice voice_file.lpd(2,3)
     lpd "\"Duchy... poszły do domu. Ja... wysłałem je do domu.\" "
 
 # game/script/02_day1_after.rpy:484
@@ -1122,6 +1171,7 @@ translate polish day1_after_01_lpd_ac8e46fb:
 
     # voice voice_file.lpd(2,4)
     # lpd "{font=tl/None/NotoSansCJKtc-Bold.otf}\"Spirit Paths\"{/font}. "
+    voice voice_file.lpd(2,4)
     lpd "{font=tl/polish/NotoSans-SemiCondensedBold.ttf}\"Duchowe ścieżki\"{/font}. "
 
 # game/script/02_day1_after.rpy:494
@@ -1141,6 +1191,7 @@ translate polish day1_after_01_lpd_509c0bd0:
 
     # voice voice_file.lpd(2,5)
     # lpd "\"Yes, with me.\" "
+    voice voice_file.lpd(2,5)
     lpd "\"Tak, ze mną.\" "
 
 # game/script/02_day1_after.rpy:500
@@ -1214,6 +1265,7 @@ translate polish day1_after_01_lpd_34ffc578:
 
     # voice voice_file.lpd(2,6)
     # lpd "\"There is a way... should be.\" "
+    voice voice_file.lpd(2,6)
     lpd "\"Jest jakiś sposób... musi być.\" "
 
 # game/script/02_day1_after.rpy:522
@@ -1249,6 +1301,7 @@ translate polish day1_after_01_lpd_25173ffc:
 
     # voice voice_file.lpd(2,7)
     # lpd "\"I understand.\" "
+    voice voice_file.lpd(2,7)
     lpd "\"Rozumiem.\" "
 
 # game/script/02_day1_after.rpy:532
@@ -1262,6 +1315,7 @@ translate polish day1_after_01_lpd_74451ba6:
 
     # voice voice_file.lpd(2,8)
     # lpd "\"Think of you. I will.\" "
+    voice voice_file.lpd(2,8)
     lpd "\"Pomyśleć o tobie. Tak zrobię.\" "
 
 # game/script/02_day1_after.rpy:536
@@ -1301,6 +1355,7 @@ translate polish day1_after_01_lpd_b901942c:
 
     # voice voice_file.lpd(2,9)
     # lpd happy "\"...Good night.\" "
+    voice voice_file.lpd(2,9)
     lpd "\"...dobranoc.\" "
 
 # game/script/02_day1_after.rpy:548
@@ -1328,6 +1383,7 @@ translate polish day1_after_01_lpdcat_74626dc6:
 
     # voice voice_file.lpdcat(2,24)
     # lpdcat happy "\"Yeah! I knew I could trust your hospitality Liao!\" " with vpunch
+    voice voice_file.lpdcat(2,24)
     lpdcat happy "\"Dokładnie! Wiedziałem, że mogę zaufać twojej gościnności Liao!\" " with vpunch
 
 # game/script/02_day1_after.rpy:575
@@ -1341,6 +1397,7 @@ translate polish day1_after_01_lpdcat_ea2466e7:
 
     # voice voice_file.lpdcat(2,25)
     # lpdcat normal "\"But that's what you mean, right?\" "
+    voice voice_file.lpdcat(2,25)
     lpdcat normal "\"Ale to miałeś na myśli, prawda?\" "
 
 # game/script/02_day1_after.rpy:581
@@ -1354,6 +1411,7 @@ translate polish day1_after_01_lpdcat_dcd5822b:
 
     # voice voice_file.lpdcat(2,26)
     # lpdcat laugh "\"Thank you so, so much!\" "
+    voice voice_file.lpdcat(2,26)
     lpdcat laugh "\"Bardzo, bardzo ci dziękuję!\" "
 
 # game/script/02_day1_after.rpy:592
@@ -1367,6 +1425,7 @@ translate polish day1_after_01_lpdcat_d40d8fa2:
 
     # voice voice_file.tig(2,24)
     # tig frown "*tut-tut* "
+    voice voice_file.tig(2,24)
     tig frown "*fiu-fiu* "
 
 # game/script/02_day1_after.rpy:602
@@ -1380,6 +1439,7 @@ translate polish day1_after_01_lpdcat_841609fb:
 
     # voice voice_file.tig(2,25)
     # tig frown "\"I know. He's got a real body, does he? It's not my business.\" "
+    voice voice_file.tig(2,25)
     tig frown "\"Wiem. Ma prawdziwe ciało, tak? To nie moja sprawa.\" "
 
 # game/script/02_day1_after.rpy:610
@@ -1407,6 +1467,7 @@ translate polish day1_after_01_lpdcat_658d1e7e:
 
     # voice voice_file.tig(2,26)
     # tig none "\"I'm fine. So you're going to sleep with him, are you? I don't have a bed so I'm getting back inside the statue.\" "
+    voice voice_file.tig(2,26)
     tig none "\"Nic mi nie jest. A więc zamierzasz z nim spać, prawda? Nie mam dla siebie łóżka, więc wracam z powrotem do posążka.\" "
 
 # game/script/02_day1_after.rpy:618
@@ -1420,6 +1481,7 @@ translate polish day1_after_01_lpdcat_f63642d6:
 
     # voice voice_file.tig(2,27)
     # tig none "\"As I just said, I'm fine.\" "
+    voice voice_file.tig(2,27)
     tig none "\"Tak jak mówiłem, nic mi nie jest.\" "
 
 # game/script/02_day1_after.rpy:622
@@ -1441,6 +1503,7 @@ translate polish day1_after_01_lpdcat_848cca51:
 
     # voice voice_file.lpd(2,10)
     # lpd normal "\"...I find way.\" "
+    voice voice_file.lpd(2,10)
     lpd normal "\"...znajdę sposób.\" "
 
 # game/script/02_day1_after.rpy:654
@@ -1488,6 +1551,7 @@ translate polish day1_after_01_lpdcat_d02ae711:
 
     # voice voice_file.lpdcat(2,27)
     # lpdcat normal "\"What's wrong Liao? Oh, I know, you must be confused about why he can touch some things and not others.\" "
+    voice voice_file.lpdcat(2,27)
     lpdcat normal "\"Co się stało Liao? Och, już wiem. Ciekawi cię, dlaczego on może dotknąć niektórych rzeczy, a niektórych nie.\" "
 
 # game/script/02_day1_after.rpy:675
@@ -1501,6 +1565,7 @@ translate polish day1_after_01_lpdcat_b828f9d3:
 
     # voice voice_file.lpdcat(2,28)
     # lpdcat laugh "\"Because I know Liao better than anyone~\" "
+    voice voice_file.lpdcat(2,28)
     lpdcat laugh "\"Bo znam Liao lepiej, niż ktokolwiek inny~\" "
 
 # game/script/02_day1_after.rpy:681
@@ -1515,6 +1580,7 @@ translate polish day1_after_01_lpdcat_9a157f24:
     # voice voice_file.lpdcat(2,29)
     # lpdcat normal "\"It's not hard to understand. Powerful spirits are able to move things. Have you heard about poltergeists? It's something like that.\" "
     # lpdcat normal "\"Granted it was the first time I've seen someone use it to fetch clothes. "
+    voice voice_file.lpdcat(2,29)
     lpdcat normal "\"Nietrudno to zrozumieć. Potężne duchy mogą przenosić rzeczy. Słyszałeś kiedykolwiek o poltergeistach? To coś podobnego.\" "
     lpdcat normal "\"Na pewno po raz pierwszy widziałem, by ktoś używał tej mocy w celu przyniesienia ubrań.\" "
 
@@ -1523,6 +1589,7 @@ translate polish day1_after_01_lpdcat_d4716ce4:
 
     # voice voice_file.lpdcat(2,30)
     # lpdcat normal "\"Oh, If I could have that power, I wouldn't need to possess senpai's body anymore.\" "
+    voice voice_file.lpdcat(2,30)
     lpdcat normal "\"Och, gdybym tylko miał tę moc, nie musiałbym dłużej kontrolować ciała twojego senpai'a.\" "
 
 # game/script/02_day1_after.rpy:689
@@ -1537,6 +1604,7 @@ translate polish day1_after_01_lpdcat_63fe68fb:
     # voice voice_file.lpdcat(2,31)
     # lpdcat normal "\"You weren't able to see me before, so I needed to possess someone to talk to you.\" "
     # lpdcat normal "\"If I did have enough power though, I could just write to you with a pen.\" "
+    voice voice_file.lpdcat(2,31)
     lpdcat normal "\"Nie mogłeś mnie wcześniej zobaczyć, dlatego musiałem kogoś opętać, by móc z tobą porozmawiać.\" "
     lpdcat normal "\"Gdybym tylko miał wystarczająco mocy, mógłbym coś do ciebie napisać przy pomocy długopisu.\" "
 
@@ -1546,6 +1614,7 @@ translate polish day1_after_01_lpdcat_b5b89771:
     # voice voice_file.lpdcat(2,32)
     # lpdcat normal "\"Even then, it's not that convenient. It would take way too much energy and, what would you do if you just saw a pen writing by itself?\" "
     # lpdcat normal "\"So its probably for the best I possessed someone.\" "
+    voice voice_file.lpdcat(2,32)
     lpdcat normal "\"Nawet wtedy, byłoby to niezbyt wygodne. Musiałbym poświęcić na to dużo energii, a co ty byś zrobił na widok długopisu, który sam pisze?\" "
     lpdcat normal "\"Myślę, że dobrze się stało, że kogoś opętałem.\" "
 
@@ -1560,6 +1629,7 @@ translate polish day1_after_01_lpdcat_85221014:
 
     # voice voice_file.lpdcat(2,33)
     # lpdcat cry_2 "\"Waaa— Liao is bullying me again!\" "
+    voice voice_file.lpdcat(2,33)
     lpdcat cry_2 "\"Cooo- Liao znowu się nade mną znęca!\" "
 
 # game/script/02_day1_after.rpy:705
@@ -1573,6 +1643,7 @@ translate polish day1_after_01_lpdcat_c7493720:
 
     # voice voice_file.lpdcat(2,34)
     # lpdcat normal "\"Yeah I will. Don't you want any? I did buy it for you after all.\" "
+    voice voice_file.lpdcat(2,34)
     lpdcat normal "\"Tak, zamierzam. Nie chcesz trochę? Przecież kupiłem je dla ciebie.\" "
 
 # game/script/02_day1_after.rpy:709
@@ -1586,6 +1657,7 @@ translate polish day1_after_01_lpdcat_38abea64:
 
     # voice voice_file.lpdcat(2,35)
     # lpdcat difficult "\"Umm, but...\" "
+    voice voice_file.lpdcat(2,35)
     lpdcat difficult "\"Umm, ale...\" "
 
 # game/script/02_day1_after.rpy:713
@@ -1599,6 +1671,7 @@ translate polish day1_after_01_lpdcat_fbaef363:
 
     # voice voice_file.lpdcat(2,36)
     # lpdcat difficult "\"Well, if Liao doesn't want any, neither do I.\" "
+    voice voice_file.lpdcat(2,36)
     lpdcat difficult "\"Jeśli Liao nie chcę nic zjeść, to ja też.\" "
 
 # game/script/02_day1_after.rpy:717
@@ -1612,6 +1685,7 @@ translate polish day1_after_01_lpdcat_0d3ea4a0:
 
     # voice voice_file.lpdcat(2,37)
     # lpdcat pout "\"What? No, that would just be a massive waste.\" "
+    voice voice_file.lpdcat(2,37)
     lpdcat pout "\"Co? Nie, to było by marnotrawstwo.\" "
 
 # game/script/02_day1_after.rpy:725
@@ -1631,6 +1705,7 @@ translate polish day1_after_01_lpdcat_58cf3821:
 
     # voice voice_file.lpdcat(2,38)
     # lpdcat laugh "\"All right, this should do. You can just have it for breakfast!\" "
+    voice voice_file.lpdcat(2,38)
     lpdcat laugh "\"W porządku, tak będzie dobrze. Możesz to zjeść rano na śniadanie!\" "
 
 # game/script/02_day1_after.rpy:736
@@ -1644,6 +1719,7 @@ translate polish day1_after_01_lpdcat_5800e4cb:
 
     # voice voice_file.lpdcat(2,39)
     # lpdcat normal "\"Why not just wake up earlier?\" "
+    voice voice_file.lpdcat(2,39)
     lpdcat normal "\"Czemu by nie wstać wcześniej?\" "
 
 # game/script/02_day1_after.rpy:740
@@ -1657,6 +1733,7 @@ translate polish day1_after_01_lpdcat_a20224f0:
 
     # voice voice_file.lpdcat(2,40)
     # lpdcat normal "\"Liao, maintaining a proper sleep schedule is good for your health.\" "
+    voice voice_file.lpdcat(2,40)
     lpdcat normal "\"Liao, regularny i odpowiednio długi sen jest dobry dla twojego zdrowia.\" "
 
 # game/script/02_day1_after.rpy:744
@@ -1670,6 +1747,7 @@ translate polish day1_after_01_lpdcat_b753133e:
 
     # voice voice_file.lpdcat(2,41)
     # lpdcat laugh "\"Anyways— Come on, let's sleep~\" "
+    voice voice_file.lpdcat(2,41)
     lpdcat laugh "\"Mniejsza- Dobra, to śpijmy już~\" "
 
 # game/script/02_day1_after.rpy:752
@@ -1700,6 +1778,7 @@ translate polish day1_after_01_lpdcat_86665f32:
     # voice voice_file.lpdcat(2,42)
     # lpdcat not_reconcile "\"Aww— don't be so cruel...\" " with hshake
     # lpdcat not_reconcile "\"Am-Am I really... that bad...?\" "
+    voice voice_file.lpdcat(2,42)
     lpdcat not_reconcile "\"Ahhh- nie bądź taki okrutny...\nCzy-czy naprawdę... jestem aż tak zły...?" with hshake
 
 # game/script/02_day1_after.rpy:760
@@ -1715,6 +1794,7 @@ translate polish day1_after_01_lpdcat_67b4684b:
 
     # voice voice_file.lpdcat(2,43)
     # lpdcat laugh "\"Hehe— I knew you wouldn't abandon me~\" "
+    voice voice_file.lpdcat(2,43)
     lpdcat laugh "\"Hehe- Wiedziałem, że mnie nie zostawisz~\" "
 
 # game/script/02_day1_after.rpy:771
@@ -1782,6 +1862,7 @@ translate polish day1_after_01_lpdcat_ddffe41f:
 
     # voice voice_file.lpdcat(2,44)
     # lpdcat normal "\"Mmm? What's up?\" "
+    voice voice_file.lpdcat(2,44)
     lpdcat normal "\"Mmm? Co tam?\" "
 
 # game/script/02_day1_after.rpy:791
@@ -1795,6 +1876,7 @@ translate polish day1_after_01_lpdcat_f6cab1e8:
 
     # voice voice_file.lpdcat(2,45)
     # lpdcat difficult "\"Theres not much to say. It's just a rural village with no one around...\" "
+    voice voice_file.lpdcat(2,45)
     lpdcat difficult "\"Nie ma o czym gadać. To zwykła dziura zabita dechami...\" "
 
 # game/script/02_day1_after.rpy:795
@@ -1803,6 +1885,7 @@ translate polish day1_after_01_lpdcat_03caffc0:
     # voice voice_file.lpdcat(2,46)
     # lpdcat serious "\"I don't want to blame ourselves, but my Fudegong just really isn't that powerful. Otherwise why would he chose a small yaoguai like me to be the guardian tiger?\" "
     # lpdcat serious "\"Our temple is in disrepair, there's weeds everywhere. \nSome of them are even taller than me.\" "
+    voice voice_file.lpdcat(2,46)
     lpdcat serious "\"Nie chcę nas za to obwiniać, ale tak naprawdę mój Fudegong nie jest taki potężny. W innym wypadku, dlaczego wybrałby małego yaoguai takiego jak ja, by był tygrysim strażnikiem?\" "
     lpdcat serious "\"Nasza świątynia popada w ruinę, chwasty rosną dosłownie wszędzie. Niektóre są nawet wyższe ode mnie.\" "
 
@@ -1818,6 +1901,7 @@ translate polish day1_after_01_lpdcat_3a990038:
     # voice voice_file.lpdcat(2,47)
     # lpdcat normal "\"We just need some helping hands! You might have to do the housekeeping to start with... but if you advertise the power of our Fudegong...\" "
     # lpdcat normal "\"Making up stories, or even miracles, then visiting the locals house to house, asking if anyone needs our help.\" "
+    voice voice_file.lpdcat(2,47)
     lpdcat normal "\"Potrzebujemy tylko pomocnych dłoni! Być może będziesz musiał zacząć od sprzątania... ale jeśli dzięki tobie ludzie dowiedzą się o mocy naszego Fudegong'a...\" "
     lpdcat normal "\"Zmyślone historie, albo nawet cuda. Potem będziemy odwiedzać ludzi po domach, pytając czy nikt nie potrzebuje naszej pomocy.\" "
 
@@ -1832,6 +1916,7 @@ translate polish day1_after_01_lpdcat_86691f25:
 
     # voice voice_file.lpdcat(2,48)
     # lpdcat angry "\"Not at all! But how else do you gain power without getting people to believe?\" "
+    voice voice_file.lpdcat(2,48)
     lpdcat angry "\"Wcale nie! Jak niby chcesz zyskać moc, bez przekonania ludzi, by uwierzyli?\" "
 
 # game/script/02_day1_after.rpy:805
@@ -1845,6 +1930,7 @@ translate polish day1_after_01_lpdcat_3ebe7bde:
 
     # voice voice_file.lpdcat(2,49)
     # lpdcat normal "\"Ehh— basically.\" "
+    voice voice_file.lpdcat(2,49)
     lpdcat normal "\"Ehh- w sumie tak.\" "
 
 # game/script/02_day1_after.rpy:809
@@ -1858,6 +1944,7 @@ translate polish day1_after_01_lpdcat_3502255d:
 
     # voice voice_file.lpdcat(2,50)
     # lpdcat laugh "\"Haha— Well it isn't?\" "
+    voice voice_file.lpdcat(2,50)
     lpdcat laugh "\"Haha- Niczym?\" "
 
 # game/script/02_day1_after.rpy:813
@@ -1872,6 +1959,7 @@ translate polish day1_after_01_lpdcat_913751ef:
     # voice voice_file.lpdcat(2,51)
     # lpdcat cry_2 "\"Buuuut... you're the only one who can help me. We need someone to communicate to the locals, and how can we do that without someone to speak for us!\" " with hshake
     # lpdcat cry_2 "\"We're there to help all the locals more than anything.\" "
+    voice voice_file.lpdcat(2,51)
     lpdcat cry_2 "\"Aleeee... jesteś jedyną osobą, która może mi pomóc. Potrzebujemy kogoś do komunikacji z mieszkańcami, a jak mamy to osiągnąć bez kogoś, kto może mówić w naszym imieniu!\" " with hshake
     lpdcat cry_2 "\"Jesteśmy tam głównie po to, bym im wszystkim pomóc.\" "
 
@@ -1886,6 +1974,7 @@ translate polish day1_after_01_lpdcat_41857f75:
 
     # voice voice_file.lpdcat(2,52)
     # lpdcat cute "\"Well... Why not sacrifice yourself to help people?\" "
+    voice voice_file.lpdcat(2,52)
     lpdcat cute "\"No cóż... Czemu nie poświęcisz się dla pomocy ludziom?\" "
 
 # game/script/02_day1_after.rpy:821
@@ -1900,6 +1989,7 @@ translate polish day1_after_01_lpdcat_16fb8881:
     # voice voice_file.lpdcat(2,53)
     # lpdcat difficult "\"Waa— I know you're not willing to do so, but it'll only take one or two years if we do a good job. We only need your power until we have enough worshippers.\" "
     # lpdcat difficult "\"Just one or two years... please?\" "
+    voice voice_file.lpdcat(2,53)
     lpdcat difficult "\"Coo- Wiem, że nie chcesz tego robić, ale to zajmie nam tylko rok, góra dwa jeśli się postaramy. Będziemy potrzebowali twojej mocy tylko do czasu, aż będziemy mieć wystarczająco wyznawców.\ "
     lpdcat difficult "\"To tylko rok, albo dwa... proszę?\" "
 
@@ -1930,6 +2020,7 @@ translate polish day1_after_01_lpdcat_145d6613:
 
     # voice voice_file.lpdcat(2,54)
     # lpdcat serious "\"...Liao?\" "
+    voice voice_file.lpdcat(2,54)
     lpdcat serious "\"...Liao?\" "
 
 # game/script/02_day1_after.rpy:833
@@ -1943,6 +2034,7 @@ translate polish day1_after_01_lpdcat_90b9081f:
 
     # voice voice_file.lpdcat(2,55)
     # lpdcat normal "\"Um, yeah take your time, but also remember to sleep. We both need to get some.\" "
+    voice voice_file.lpdcat(2,55)
     lpdcat normal "\"Um, dobrze, nie śpiesz się. Musisz się wysypiać. Powinniśmy już spać.\" "
 
 # game/script/02_day1_after.rpy:837
@@ -1957,6 +2049,7 @@ translate polish day1_after_01_lpdcat_14b04132:
     # voice voice_file.lpdcat(2,56)
     # lpdcat laugh "\"Hehe— sorry about that. By the way, even though I'm here to seek your help, I'll do whatever I can to help you.\" "
     # lpdcat laugh "\"I am a god after all.\" "
+    voice voice_file.lpdcat(2,56)
     lpdcat laugh "\"Hehe- przepraszam za to. Tak w ogóle, mimo że jestem tu by prosić cię o pomoc, zrobię wszystko co w mojej mocy, by ci pomóc.\" "
     lpdcat laugh "\"Jestem przecież bogiem.\" "
 
@@ -1972,6 +2065,7 @@ translate polish day1_after_01_lpdcat_e77462ca:
     # voice voice_file.lpdcat(2,57)
     # lpdcat laugh "\"Hey— You meanie. \" "
     # lpdcat laugh "\"Anyway, let's go to sleep.\" "
+    voice voice_file.lpdcat(2,57)
     lpdcat laugh "\"Hej- Niegrzeczny ty.\" "
     lpdcat laugh "\"Dobra, śpijmy już.\" "
 

@@ -11,6 +11,7 @@ translate polish s16_branch3_r18_01_13381d32:
 
     # voice voice_file.tig("16L",1)
     # tig lift "\"Oh? But I'm a god. You can't exactly date a god now can you?\" "
+    voice voice_file.tig("16L",1)
     tig lift ""
 
 # game/script/16_r18.rpy:7
@@ -24,6 +25,7 @@ translate polish s16_branch3_r18_01_3b82d4a2:
 
     # voice voice_file.tig("16L",2)
     # tig normal "\"What responsibility? That does not matter. I plan to stay with you for the rest of your life regardless.\" "
+    voice voice_file.tig("16L",2)
     tig normal ""
 
 # game/script/16_r18.rpy:11
@@ -37,6 +39,7 @@ translate polish s16_branch3_r18_01_415803e7:
 
     # voice voice_file.tig("16L",3)
     # tig normal "\"Of course.\" "
+    voice voice_file.tig("16L",3)
     tig normal ""
 
 # game/script/16_r18.rpy:15
@@ -50,6 +53,7 @@ translate polish s16_branch3_r18_01_ac0634a5:
 
     # voice voice_file.tig("16L",4)
     # tig lift "\"That's correct.\" "
+    voice voice_file.tig("16L",4)
     tig lift ""
 
 # game/script/16_r18.rpy:20
@@ -76,6 +80,7 @@ translate polish s16_branch3_r18_01_f82fef6c:
 
     # voice voice_file.tig("16L",5)
     # tig confused "\"...Liao, are you alright?\" "
+    voice voice_file.tig("16L",5)
     tig confused ""
 
 # game/script/16_r18.rpy:28
@@ -95,6 +100,7 @@ translate polish s16_branch3_r18_01_1b0800d4:
 
     # voice  voice_file.tig("16N",7)
     # tig embarrassed "\"...It's true that I wished to possess you, but that was all to contend with that clouded leopard.\" "
+    voice  voice_file.tig("16N",7)
     tig embarrassed ""
 
 # game/script/16_r18.rpy:34
@@ -108,6 +114,7 @@ translate polish s16_branch3_r18_01_65a95fb2:
 
     # voice  voice_file.tig("16N",8)
     # tig frown "\"...It's not like that.\" "
+    voice  voice_file.tig("16N",8)
     tig frown ""
 
 # game/script/16_r18.rpy:45
@@ -152,6 +159,7 @@ translate polish s16_branch3_r18_01_37622b60:
 
     # voice  voice_file.tig("16N",9)
     # tig gentle "\"Of course I li—\" "
+    voice  voice_file.tig("16N",9)
     tig gentle ""
 
 # game/script/16_r18.rpy:63
@@ -165,6 +173,7 @@ translate polish s16_branch3_r18_02_eeb5085b:
 
     # voice voice_file.tig("16L",6)
     # tig embarrassed "\"I shouldn't... have done that with you.\" "
+    voice voice_file.tig("16L",6)
     tig embarrassed ""
 
 # game/script/16_r18.rpy:75
@@ -179,6 +188,7 @@ translate polish s16_branch3_r18_04_58213ad3:
     # voice voice_file.tig("16L",7)
     # tig laugh_2 "\"Don't worry. Only I can possess your body. \" "
     # tig laugh_2 "\"After all... I'm the only one who did that with you.\" "
+    voice voice_file.tig("16L",7)
     tig laugh_2 ""
 
 # game/script/16_r18.rpy:83
@@ -192,6 +202,7 @@ translate polish s16_branch3_r18_04_f5b3a736:
 
     # voice voice_file.tig("16L",8)
     # tig normal "\"No, I was merely showing-off.\" "
+    voice voice_file.tig("16L",8)
     tig normal ""
 
 # game/script/16_r18.rpy:91

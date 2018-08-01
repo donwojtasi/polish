@@ -11,6 +11,7 @@ translate polish s17_branch4_general_a1604d2b:
 
     # voice voice_file.tig("17N",1)
     # tig frown "\"If I must say it— Leopard needs to amplify his powers. In order to accomplish this an oracle needs to act as his conduit. You are suitable for this role. But as I described before...\" "
+    voice voice_file.tig("17N",1)
     tig frown ""
 
 # game/script/17_general.rpy:7
@@ -18,6 +19,7 @@ translate polish s17_branch4_general_2cb7bd1b:
 
     # voice voice_file.tig("17N",2)
     # tig frown "\"You need to trust Leopard and allow him to release his power... through your body. Which means...\" "
+    voice voice_file.tig("17N",2)
     tig frown ""
 
 # game/script/17_general.rpy:11
@@ -25,6 +27,7 @@ translate polish s17_branch4_general_af521c9c:
 
     # voice voice_file.tig("17N",3)
     # tig disappointed "\"You must let him possess your body.\" " with flash
+    voice voice_file.tig("17N",3)
     tig disappointed "" with flash
 
 # game/script/17_general.rpy:13
@@ -38,6 +41,7 @@ translate polish s17_branch4_general_10edc171:
 
     # voice voice_file.tig("17N",4)
     # tig normal "\"Exactly... But you must be willing to do so first.\" "
+    voice voice_file.tig("17N",4)
     tig normal ""
 
 # game/script/17_general.rpy:17
@@ -46,6 +50,7 @@ translate polish s17_branch4_general_7a674b41:
     # voice voice_file.tig("17N",5)
     # tig normal "\"And it's not only you, your body must trust him as well...\" "
     # tig normal "\"Alas, I would rather not even consider it... But this is the {i}only{/i} \ way we can confront him.\" "
+    voice voice_file.tig("17N",5)
     tig normal ""
 
 # game/script/17_general.rpy:19
@@ -53,6 +58,7 @@ translate polish s17_branch4_general_5cd7f5ce:
 
     # voice voice_file.tig("17N",6)
     # tig normal "\"Liao... after everything you've said about him, and after everything you've demonstrated. Are you okay with this?\" "
+    voice voice_file.tig("17N",6)
     tig normal ""
 
 # game/script/17_general.rpy:22
@@ -78,6 +84,7 @@ translate polish s17_branch4_general_bdce023a:
 
     # voice voice_file.tig("17N",7)
     # tig disappointed "*sigh* "
+    voice voice_file.tig("17N",7)
     tig disappointed ""
 
 # game/script/17_general.rpy:35
@@ -86,6 +93,7 @@ translate polish s17_branch4_general_76bf0d75:
     # voice voice_file.tig("17N",8)
     # tig disappointed "\"As you know, even if you accept it in your mind, that does not mean it will work.\" "
     # tig disappointed "\"If you want to do it, and if you make it happen... I will leave that for you two to \ndecide.\" "
+    voice voice_file.tig("17N",8)
     tig disappointed ""
 
 # game/script/17_general.rpy:37
@@ -93,6 +101,7 @@ translate polish s17_branch4_general_72e3ad4f:
 
     # voice voice_file.tig("17N",9)
     # tig normal "\"Take this opportunity to discuss anything you want. My presence would just meddle with the process, so I shall take my leave.\" "
+    voice voice_file.tig("17N",9)
     tig normal ""
 
 # game/script/17_general.rpy:39
@@ -167,6 +176,7 @@ translate polish s17_branch4_general_fbac1f87:
 
     # voice voice_file.lpd("17N",1)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd("17N",1)
     lpd normal ""
 
 # game/script/17_general.rpy:68
@@ -213,6 +223,7 @@ translate polish s17_branch4_general_8a28d2e8:
 
     # voice voice_file.lpd("17N",2)
     # lpd disappointed "\"I want... Liao. No spirit power, I want Liao.\" "
+    voice voice_file.lpd("17N",2)
     lpd disappointed ""
 
 # game/script/17_general.rpy:85
@@ -226,6 +237,7 @@ translate polish s17_branch4_general_0914855c:
 
     # voice voice_file.lpd("17N",3)
     # lpd disappointed "\"Liao has no spirit power. Give power to tribe. I still want Liao.\" "
+    voice voice_file.lpd("17N",3)
     lpd disappointed ""
 
 # game/script/17_general.rpy:89
@@ -239,6 +251,7 @@ translate polish s17_branch4_general_7dafd499:
 
     # voice voice_file.lpd("17N",4)
     # lpd disappointed "\"I take away Liao spirit power. If not dead, I come back to Liao. Take care of Liao.\" "
+    voice voice_file.lpd("17N",4)
     lpd disappointed ""
 
 # game/script/17_general.rpy:93
@@ -252,6 +265,7 @@ translate polish s17_branch4_general_d3dc6018:
 
     # voice voice_file.lpd("17N",5)
     # lpd normal "\"I'm fast. Go to Wutai, go to Taipei. Go back. But stay in Taipei. Stay with Liao. For life.\" "
+    voice voice_file.lpd("17N",5)
     lpd normal ""
 
 # game/script/17_general.rpy:101
@@ -271,6 +285,7 @@ translate polish s17_branch4_general_fbac1f87_1:
 
     # voice voice_file.lpd("17N",6)
     # lpd normal "\"Yes.\" "
+    voice voice_file.lpd("17N",6)
     lpd normal ""
 
 # game/script/17_general.rpy:109
@@ -284,6 +299,7 @@ translate polish s17_branch4_general_67bbf182:
 
     # voice voice_file.lpd("17N",7)
     # lpd normal "\"Liao can't see, but I stay with Liao.\" "
+    voice voice_file.lpd("17N",7)
     lpd normal ""
 
 # game/script/17_general.rpy:113
@@ -297,6 +313,7 @@ translate polish s17_branch4_general_f1897b61:
 
     # voice voice_file.lpd("17N",8)
     # lpd normal "\"No matter. Liao can't see, I keep Liao safe. No danger.\" "
+    voice voice_file.lpd("17N",8)
     lpd normal ""
 
 # game/script/17_general.rpy:117
@@ -310,6 +327,7 @@ translate polish s17_branch4_general_9021e888:
 
     # voice voice_file.lpd("17N",9)
     # lpd normal "\"I know. I would know.\" "
+    voice voice_file.lpd("17N",9)
     lpd normal ""
 
 # game/script/17_general.rpy:121
@@ -329,6 +347,7 @@ translate polish s17_branch4_general_b106163e:
 
     # voice voice_file.lpd("17N",10)
     # lpd disappointed "\"See...\" "
+    voice voice_file.lpd("17N",10)
     lpd disappointed ""
 
 # game/script/17_general.rpy:132
@@ -336,6 +355,7 @@ translate polish s17_branch4_general_959d63ec:
 
     # voice voice_file.lpd("17N",11)
     # lpd disappointed "\"I want to see Liao. I want Liao to see me.\" "
+    voice voice_file.lpd("17N",11)
     lpd disappointed ""
 
 # game/script/17_general.rpy:134
@@ -343,6 +363,7 @@ translate polish s17_branch4_general_83bcad51:
 
     # voice voice_file.lpd("17N",12)
     # lpd disappointed "\"I know... I was wrong.\" "
+    voice voice_file.lpd("17N",12)
     lpd disappointed ""
 
 # game/script/17_general.rpy:136
@@ -350,6 +371,7 @@ translate polish s17_branch4_general_a618495a:
 
     # voice voice_file.lpd("17N",13)
     # lpd disappointed "\"Not from trick.\" "
+    voice voice_file.lpd("17N",13)
     lpd disappointed ""
 
 # game/script/17_general.rpy:138
@@ -357,6 +379,7 @@ translate polish s17_branch4_general_d3f31205:
 
     # voice voice_file.lpd("17N",14)
     # lpd disappointed "\"I thought it fine if Liao can't see me. I would stay, take care of Liao. It fine.\" "
+    voice voice_file.lpd("17N",14)
     lpd disappointed ""
 
 # game/script/17_general.rpy:140
@@ -364,6 +387,7 @@ translate polish s17_branch4_general_6f707907:
 
     # voice voice_file.lpd("17N",15)
     # lpd disappointed "\"I was wrong.\" "
+    voice voice_file.lpd("17N",15)
     lpd disappointed ""
 
 # game/script/17_general.rpy:142
@@ -371,6 +395,7 @@ translate polish s17_branch4_general_efa0ec61:
 
     # voice voice_file.lpd("17N",16)
     # lpd disappointed "\"I don't want Liao to not see me. Even if Liao not die, I don't want.\" "
+    voice voice_file.lpd("17N",16)
     lpd disappointed ""
 
 # game/script/17_general.rpy:144
@@ -378,6 +403,7 @@ translate polish s17_branch4_general_f10d8088:
 
     # voice voice_file.lpd("17N",17)
     # lpd disappointed "\"...Thank you for stopping me.\" "
+    voice voice_file.lpd("17N",17)
     lpd disappointed ""
 
 # game/script/17_general.rpy:146
@@ -385,6 +411,7 @@ translate polish s17_branch4_general_a4d8fe9c:
 
     # voice voice_file.lpd("17N",18)
     # lpd happy "\"Liao can see, I'm happy.\" "
+    voice voice_file.lpd("17N",18)
     lpd happy ""
 
 # game/script/17_general.rpy:148
@@ -392,6 +419,7 @@ translate polish s17_branch4_general_7b216730:
 
     # voice voice_file.lpd("17N",19)
     # lpd happy "\"Thank you for looking for me.\" "
+    voice voice_file.lpd("17N",19)
     lpd happy ""
 
 # game/script/17_general.rpy:150
@@ -399,6 +427,7 @@ translate polish s17_branch4_general_a1bf073a:
 
     # voice voice_file.lpd("17N",20)
     # lpd happy "\"Liao...\" "
+    voice voice_file.lpd("17N",20)
     lpd happy ""
 
 # game/script/17_general.rpy:154
@@ -406,6 +435,7 @@ translate polish s17_branch4_general_206d969e:
 
     # voice voice_file.lpd("17N",21)
     # lpd disappointed "\"Thank you. I'm sorry.\" "
+    voice voice_file.lpd("17N",21)
     lpd disappointed ""
 
 # game/script/17_general.rpy:156
@@ -457,6 +487,7 @@ translate polish s17_branch4_general_7da98b49:
 
     # voice voice_file.lpd("17N",22)
     # lpd normal "\"I want to stay in Taipei.\" "
+    voice voice_file.lpd("17N",22)
     lpd normal ""
 
 # game/script/17_general.rpy:173
@@ -470,6 +501,7 @@ translate polish s17_branch4_general_47849b68:
 
     # voice voice_file.lpd("17N",23)
     # lpd normal "\"I want to stay in Taipei. Tell Liao what I think... I want Liao to know.\" "
+    voice voice_file.lpd("17N",23)
     lpd normal ""
 
 # game/script/17_general.rpy:177
@@ -478,6 +510,7 @@ translate polish s17_branch4_general_c89b3de9:
     # voice voice_file.lpd("17N",24)
     # lpd normal "\"Tribe is important. I want to help them. Liao can't go. I find other ways.\" "
     # lpd normal "\"Liao is important. I fast. I go to both often. It easy.\" "
+    voice voice_file.lpd("17N",24)
     lpd normal ""
 
 # game/script/17_general.rpy:179
@@ -485,6 +518,7 @@ translate polish s17_branch4_general_51da3388:
 
     # voice voice_file.lpd("17N",25)
     # lpd normal "\"I feel Liao is important. Not because of spirit power.\" "
+    voice voice_file.lpd("17N",25)
     lpd normal ""
 
 # game/script/17_general.rpy:181
@@ -492,6 +526,7 @@ translate polish s17_branch4_general_42cd0ea1:
 
     # voice voice_file.lpd("17N",26)
     # lpd normal "\"Not because Liao can see. I stay with Liao even if Liao can't see.\" "
+    voice voice_file.lpd("17N",26)
     lpd normal ""
 
 # game/script/17_general.rpy:183
@@ -499,6 +534,7 @@ translate polish s17_branch4_general_d0d6b5bc:
 
     # voice voice_file.lpd("17N",27)
     # lpd disappointed "\"I... feel...\" "
+    voice voice_file.lpd("17N",27)
     lpd disappointed ""
 
 # game/script/17_general.rpy:186
@@ -506,6 +542,7 @@ translate polish s17_branch4_general_14038bc6:
 
     # voice voice_file.lpd("17N",28)
     # lpd obsessed "\"...Love?\" " with flash
+    voice voice_file.lpd("17N",28)
     lpd obsessed "" with flash
 
 # game/script/17_general.rpy:188
@@ -561,6 +598,7 @@ translate polish s17_branch4_general_c723c265:
 
     # voice voice_file.lpd("17N",29)
     # lpd obsessed "\"So sudden.\" "
+    voice voice_file.lpd("17N",29)
     lpd obsessed ""
 
 # game/script/17_general.rpy:206
@@ -586,6 +624,7 @@ translate polish s17_branch4_general_fc504f35:
 
     # voice voice_file.lpd("17N",30)
     # lpd obsessed "\"...How to do?\" "
+    voice voice_file.lpd("17N",30)
     lpd obsessed ""
 
 # game/script/17_general.rpy:215
@@ -599,6 +638,7 @@ translate polish s17_branch4_general_9c4893b4:
 
     # voice voice_file.lpd("17N",31)
     # lpd normal "\"I don't know.\" "
+    voice voice_file.lpd("17N",31)
     lpd normal ""
 
 # game/script/17_general.rpy:219
@@ -772,6 +812,7 @@ translate polish cg_reveal_feelings_lpd_6e3a89c0:
 
     # voice voice_file.tig("17N",10)
     # tig disappointed "\"...It seems you were successful.\" "
+    voice voice_file.tig("17N",10)
     tig disappointed ""
 
 # game/script/17_general.rpy:322
@@ -779,6 +820,7 @@ translate polish cg_reveal_feelings_lpd_f9516f9b:
 
     # voice voice_file.lpd("17N",32)
     # lpd2 "\"...Hmm?\" "
+    voice voice_file.lpd("17N",32)
     lpd2 ""
 
 # game/script/17_general.rpy:324
@@ -792,6 +834,7 @@ translate polish cg_reveal_feelings_lpd_49159944:
 
     # voice voice_file.tig("17N",11)
     # tig normal "\"Now that you have succeeded, you might as well do as planned and try to find that fiendish cat.\" "
+    voice voice_file.tig("17N",11)
     tig normal ""
 
 # game/script/17_general.rpy:328
@@ -799,6 +842,7 @@ translate polish cg_reveal_feelings_lpd_71cfb272:
 
     # voice voice_file.tig("17N",12)
     # tig lift "\"Hurry up and end it... Ahem— It is not easy to watch my Jitong being possessed by another god.\" "
+    voice voice_file.tig("17N",12)
     tig lift ""
 
 # game/script/17_general.rpy:330

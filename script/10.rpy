@@ -5,6 +5,7 @@ translate polish s10_c184ff9b:
 
     # voice voice_file.tig(10,1)
     # tig lift "\"Liao, as much as I wish for you to focus on your studies, do you not think it's time to tidy up your room?\" "
+    voice voice_file.tig(10,1)
     tig lift ""
 
 # game/script/10.rpy:16
@@ -25,6 +26,7 @@ translate polish s10_eddba5cd:
 
     # voice voice_file.tig(10,2)
     # tig frown "\"It's {i}terrible{/i}. These clothes have been left here for three days. They'll smell soon enough. And your bin, it's well past it's brim with takeaway packaging. Must I implore you to even take out the garbage? \" "
+    voice voice_file.tig(10,2)
     tig frown ""
 
 # game/script/10.rpy:26
@@ -44,6 +46,7 @@ translate polish s10_e61ccbaa:
 
     # voice voice_file.tig(10,3)
     # tig frown "\"Well? Clean up quickly. Chop-chop.\" "
+    voice voice_file.tig(10,3)
     tig frown ""
 
 # game/script/10.rpy:34
@@ -69,6 +72,7 @@ translate polish s10_eeff9d2d:
 
     # voice voice_file.tig(10,4)
     # tig normal "\"Liao, you forgot to turn on the washing machine but don't worry, I did it for you.\" "
+    voice voice_file.tig(10,4)
     tig normal ""
 
 # game/script/10.rpy:48
@@ -88,6 +92,7 @@ translate polish s10_745451e8:
 
     # voice voice_file.tig(10,5)
     # tig normal "\"You need to take care of that kitten's possessions as well. They may be his, but it is still your room to keep tidy.\" "
+    voice voice_file.tig(10,5)
     tig normal ""
 
 # game/script/10.rpy:70
@@ -95,6 +100,7 @@ translate polish s10_02_buy_hat_1f93b9c4:
 
     # voice voice_file.tig(10,6)
     # tig frown "\"As such, this hat has just been left sitting out in the open, collecting dust. You would be better off to wash it and put it away for the time being.\" "
+    voice voice_file.tig(10,6)
     tig frown ""
 
 # game/script/10.rpy:72
@@ -120,6 +126,7 @@ translate polish s10_02_buy_hat_27b348e8:
 
     # voice voice_file.tig(10,7)
     # tig frown "\"Hmm? Is it not sensible to just clean it up and put it away? It's not like I suggested you throw it out, that would be pointless.\" "
+    voice voice_file.tig(10,7)
     tig frown ""
 
 # game/script/10.rpy:89
@@ -139,6 +146,7 @@ translate polish s10_02_buy_hat_02_d5919a64:
 
     # voice voice_file.tig(10,8)
     # tig disappointed "\"...Liao, are you not just being lazy?\" "
+    voice voice_file.tig(10,8)
     tig disappointed ""
 
 # game/script/10.rpy:123
@@ -152,6 +160,7 @@ translate polish s10_02_buy_hat_02_7b253e0f:
 
     # voice voice_file.tig(10,9)
     # tig frown "\"...Fine. If that's what you believe, but make sure to clean everywhere else!\" "
+    voice voice_file.tig(10,9)
     tig frown ""
 
 # game/script/10.rpy:127
@@ -189,6 +198,7 @@ translate polish s10_02_buy_hat_01_dffc46be:
 
     # voice voice_file.tig(10,10)
     # tig lift "\"....It appears delicate. The washing machine might be unsuitable for this, do you not think so? You should hand wash it.\" "
+    voice voice_file.tig(10,10)
     tig lift ""
 
 # game/script/10.rpy:157
@@ -232,6 +242,7 @@ translate polish s10_02_buy_hat_01_febf9d06:
 
     # voice voice_file.lpd(10,1)
     # lpd normal "\"I help.\" "
+    voice voice_file.lpd(10,1)
     lpd normal ""
 
 # game/script/10.rpy:180
@@ -293,6 +304,7 @@ translate polish s10_02_buy_hat_01_d22503a5:
 
     # voice voice_file.tig(10,11)
     # tig normal "\"Really... What a waste of spirit power... I cannot stand for this.\" "
+    voice voice_file.tig(10,11)
     tig normal ""
 
 # game/script/10.rpy:213
@@ -312,6 +324,7 @@ translate polish s10_02_buy_hat_01_164401c5:
 
     # voice voice_file.lpd(10,2)
     # lpd laugh "\"... No problem. Liao likes it.\" "
+    voice voice_file.lpd(10,2)
     lpd laugh ""
 
 # game/script/10.rpy:226
@@ -339,6 +352,7 @@ translate polish s10_02_sleep_floor_893ffdd9:
 
     # voice voice_file.tig(10,12)
     # tig frown "\"And the bedding on the floor, there is no need to keep that out while the kitten is not here. You have no need for it.\" "
+    voice voice_file.tig(10,12)
     tig frown ""
 
 # game/script/10.rpy:248
@@ -388,6 +402,7 @@ translate polish s10_02_sleep_floor_01_4b91093a:
 
     # voice voice_file.tig(10,13)
     # tig laugh_1 "\"Right? Now clean up your room more often, yes?\" "
+    voice voice_file.tig(10,13)
     tig laugh_1 ""
 
 # game/script/10.rpy:289
@@ -408,6 +423,7 @@ translate polish s10_02_sleep_floor_01_58e9e8ca:
     # voice voice_file.tig(10,14)
     # tig frown "\"You must! A clean and tidy environment is very important for your physical and mental health.\" "
     # tig frown "\"Instead of seeing you run yourself down and get sick, I'd rather you take care of yourself.\" "
+    voice voice_file.tig(10,14)
     tig frown ""
 
 # game/script/10.rpy:297
@@ -415,6 +431,7 @@ translate polish s10_02_sleep_floor_01_e135087d:
 
     # voice voice_file.tig(10,15)
     # tig frown "\"In short, I'll be reminding you to clean your room from now on. Understand?\" "
+    voice voice_file.tig(10,15)
     tig frown ""
 
 # game/script/10.rpy:300
@@ -434,6 +451,7 @@ translate polish s10_02_sleep_floor_01_3c1aacf7:
 
     # voice voice_file.lpd(10,3)
     # lpd normal "\"Liao is tired. I help.\" "
+    voice voice_file.lpd(10,3)
     lpd normal ""
 
 # game/script/10.rpy:310
@@ -472,6 +490,7 @@ translate polish s10_02_sleep_floor_02_80e374f4:
 
     # voice voice_file.tig(10,16)
     # tig frown "\"...If that kitten feels upset about such a trivial matter, I'll be speechless.\" "
+    voice voice_file.tig(10,16)
     tig frown ""
 
 # game/script/10.rpy:330
@@ -498,6 +517,7 @@ translate polish s10_02_sleep_floor_02_4b91093a:
 
     # voice voice_file.tig(10,13)
     # tig laugh_1 "\"Right? Now clean up your room more often, yes?\" "
+    voice voice_file.tig(10,13)
     tig laugh_1 ""
 
 # game/script/10.rpy:340
@@ -518,6 +538,7 @@ translate polish s10_02_sleep_floor_02_58e9e8ca:
     # voice voice_file.tig(10,14)
     # tig frown "\"You must! A clean and tidy environment is very important for your physical and mental health.\" "
     # tig frown "\"Instead of seeing you run yourself down and get sick, I'd rather you take care of yourself.\" "
+    voice voice_file.tig(10,14)
     tig frown ""
 
 # game/script/10.rpy:349
@@ -525,6 +546,7 @@ translate polish s10_02_sleep_floor_02_e135087d:
 
     # voice voice_file.tig(10,15)
     # tig frown "\"In short, I'll be reminding you to clean your room from now on. Understand?\" "
+    voice voice_file.tig(10,15)
     tig frown ""
 
 # game/script/10.rpy:351
@@ -544,6 +566,7 @@ translate polish s10_02_sleep_floor_02_3c1aacf7:
 
     # voice voice_file.lpd(10,3)
     # lpd normal "\"Liao is tired. I help.\" "
+    voice voice_file.lpd(10,3)
     lpd normal ""
 
 # game/script/10.rpy:361
@@ -576,6 +599,7 @@ translate polish s10_02_sleep_bed_4bf7621e:
 
     # voice voice_file.tig(10,17)
     # tig frown "\"We could probably do with packing away the folding table as well while the kitten is away. I don't see you making use of it, and it just takes up space.\" "
+    voice voice_file.tig(10,17)
     tig frown ""
 
 # game/script/10.rpy:381
@@ -625,6 +649,7 @@ translate polish s10_02_sleep_bed_01_4b91093a:
 
     # voice voice_file.tig(10,13)
     # tig laugh_1 "\"Right? Now clean up your room more often, yes?\" "
+    voice voice_file.tig(10,13)
     tig laugh_1 ""
 
 # game/script/10.rpy:421
@@ -645,6 +670,7 @@ translate polish s10_02_sleep_bed_01_58e9e8ca:
     # voice voice_file.tig(10,14)
     # tig frown "\"You must! A clean and tidy environment is very important for your physical and mental health.\" "
     # tig frown "\"Instead of seeing you run yourself down and get sick, I'd rather you take care of yourself.\" "
+    voice voice_file.tig(10,14)
     tig frown ""
 
 # game/script/10.rpy:430
@@ -652,6 +678,7 @@ translate polish s10_02_sleep_bed_01_e135087d:
 
     # voice voice_file.tig(10,15)
     # tig frown "\"In short, I'll be reminding you to clean your room from now on. Understand?\" "
+    voice voice_file.tig(10,15)
     tig frown ""
 
 # game/script/10.rpy:432
@@ -671,6 +698,7 @@ translate polish s10_02_sleep_bed_01_3c1aacf7:
 
     # voice voice_file.lpd(10,3)
     # lpd normal "\"Liao is tired. I help.\" "
+    voice voice_file.lpd(10,3)
     lpd normal ""
 
 # game/script/10.rpy:442
@@ -709,6 +737,7 @@ translate polish s10_02_sleep_bed_02_3739b65d:
 
     # voice voice_file.tig(10,30)
     # tig frown "\"...If that kitten feels upset about such a trivial matter, I'll be speechless.\" "
+    voice voice_file.tig(10,30)
     tig frown ""
 
 # game/script/10.rpy:462
@@ -736,6 +765,7 @@ translate polish s10_02_sleep_bed_02_4b91093a:
 
     # voice voice_file.tig(10,13)
     # tig laugh_1 "\"Right? Now clean up your room more often, yes?\" "
+    voice voice_file.tig(10,13)
     tig laugh_1 ""
 
 # game/script/10.rpy:472
@@ -756,6 +786,7 @@ translate polish s10_02_sleep_bed_02_58e9e8ca:
     # voice voice_file.tig(10,14)
     # tig frown "\"You must! A clean and tidy environment is very important for your physical and mental health.\" "
     # tig frown "\"Instead of seeing you run yourself down and get sick, I'd rather you take care of yourself.\" "
+    voice voice_file.tig(10,14)
     tig frown ""
 
 # game/script/10.rpy:481
@@ -763,6 +794,7 @@ translate polish s10_02_sleep_bed_02_e135087d:
 
     # voice voice_file.tig(10,15)
     # tig frown "\"In short, I'll be reminding you to clean your room from now on. Understand?\" "
+    voice voice_file.tig(10,15)
     tig frown ""
 
 # game/script/10.rpy:483
@@ -782,6 +814,7 @@ translate polish s10_02_sleep_bed_02_3c1aacf7:
 
     # voice voice_file.lpd(10,3)
     # lpd normal "\"Liao is tired. I help.\" "
+    voice voice_file.lpd(10,3)
     lpd normal ""
 
 # game/script/10.rpy:493
@@ -826,6 +859,7 @@ translate polish s10_04_help_012dbc49:
 
     # voice voice_file.lpdcat(10,1)
     # lpdcat normal "\"No-no! No matter what, they're my family. I may have overstepped my bounds with them, but they wouldn't hurt me. It's just...\" "
+    voice voice_file.lpdcat(10,1)
     lpdcat normal ""
 
 # game/script/10.rpy:535
@@ -833,6 +867,7 @@ translate polish s10_04_help_5505166d:
 
     # voice voice_file.lpdcat(10,2)
     # lpdcat wronged "\"Things are {i}kinda{/i} \ awkward at the moment.\" "
+    voice voice_file.lpdcat(10,2)
     lpdcat wronged ""
 
 # game/script/10.rpy:537
@@ -847,6 +882,7 @@ translate polish s10_04_help_1f33a285:
     # voice voice_file.lpdcat(10,3)
     # lpdcat pout "\"They don't want me to live with you. I'm not sure what their problem is...\" "
     # lpdcat pout "\"It's not like we're together doing lewd stuff all the time, but that's what they seem to think. It was rough hearing them talk to me like that... but I don't really have anything to fight back with.\" "
+    voice voice_file.lpdcat(10,3)
     lpdcat pout ""
 
 # game/script/10.rpy:542
@@ -860,6 +896,7 @@ translate polish s10_04_help_024e283c:
 
     # voice voice_file.lpdcat(10,4)
     # lpdcat serious "\"Yeah... I guess I have to. Need to lie low for a while.\" "
+    voice voice_file.lpdcat(10,4)
     lpdcat serious ""
 
 # game/script/10.rpy:546
@@ -873,6 +910,7 @@ translate polish s10_04_help_091162f9:
 
     # voice voice_file.tig(10,18)
     # tig frown "\"...Oh. Is the kitten leaving? Very well.\" "
+    voice voice_file.tig(10,18)
     tig frown ""
 
 # game/script/10.rpy:558
@@ -881,6 +919,7 @@ translate polish s10_04_help_718ed9f3:
     # voice voice_file.lpdcat(10,5)
     # lpdcat pout "\"Don't act so chuffed about it old man!\" "
     # lpdcat serious "\"...I just can't accept that I have to go.\" "
+    voice voice_file.lpdcat(10,5)
     lpdcat pout ""
 
 # game/script/10.rpy:560
@@ -888,6 +927,7 @@ translate polish s10_04_help_2c1d5ad1:
 
     # voice voice_file.lpdcat(10,6)
     # lpdcat serious "\"But there's no other way... I won't be gone for long. I'll just have to try and talk my family into it!\" "
+    voice voice_file.lpdcat(10,6)
     lpdcat serious ""
 
 # game/script/10.rpy:562
@@ -901,6 +941,7 @@ translate polish s10_04_help_1ddb910d:
 
     # voice voice_file.lpdcat(10,7)
     # lpdcat wronged "\"I don't know... but they'll be happier if I'm home. Things like this take time, so...\" "
+    voice voice_file.lpdcat(10,7)
     lpdcat wronged ""
 
 # game/script/10.rpy:566
@@ -908,6 +949,7 @@ translate polish s10_04_help_3e80958a:
 
     # voice voice_file.lpdcat(10,8)
     # lpdcat normal "\"I'll just have to get my stuff packed up and ready to go! You better not get sad Liao!\" "
+    voice voice_file.lpdcat(10,8)
     lpdcat normal ""
 
 # game/script/10.rpy:568
@@ -921,6 +963,7 @@ translate polish s10_04_help_32d3fec6:
 
     # voice voice_file.lpdcat(10,9)
     # lpdcat normal "\"Okaaaay— Here's this... and this... I'll need to take that too...\" "
+    voice voice_file.lpdcat(10,9)
     lpdcat normal ""
 
 # game/script/10.rpy:575
@@ -928,6 +971,7 @@ translate polish s10_04_help_b32d0be0:
 
     # voice voice_file.lpdcat(10,10)
     # lpdcat surprise_1 "\"Hmm? Liao, where's that hat you gave me?\" "
+    voice voice_file.lpdcat(10,10)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:577
@@ -947,6 +991,7 @@ translate polish s10_04_help_39dc2cee:
 
     # voice voice_file.lpdcat(10,11)
     # lpdcat laugh "\"Liao washed it for me... hehe. Thank you.\" "
+    voice voice_file.lpdcat(10,11)
     lpdcat laugh ""
 
 # game/script/10.rpy:587
@@ -960,6 +1005,7 @@ translate polish s10_04_help_f94770cc:
 
     # voice voice_file.lpdcat(10,12)
     # lpdcat laugh "\"Heheh— No wonder it's so clean!\" "
+    voice voice_file.lpdcat(10,12)
     lpdcat laugh ""
 
 # game/script/10.rpy:598
@@ -967,6 +1013,7 @@ translate polish s10_04_help_0632d1b8:
 
     # voice voice_file.lpdcat(10,13)
     # lpdcat surprise_1 "\"My stuff... Oh... Where'd my bed go?\" "
+    voice voice_file.lpdcat(10,13)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:600
@@ -980,6 +1027,7 @@ translate polish s10_04_help_6735b132:
 
     # voice voice_file.lpdcat(10,14)
     # lpdcat difficult "\"I see... Oh well, makes sense.\" "
+    voice voice_file.lpdcat(10,14)
     lpdcat difficult ""
 
 # game/script/10.rpy:607
@@ -987,6 +1035,7 @@ translate polish s10_04_help_be742275:
 
     # voice voice_file.lpdcat(10,15)
     # lpdcat surprise_1 "\"My stuff... OH... You packed up my table?\" "
+    voice voice_file.lpdcat(10,15)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:609
@@ -1006,6 +1055,7 @@ translate polish s10_04_help_6735b132_1:
 
     # voice voice_file.lpdcat(10,16)
     # lpdcat difficult "\"I see... Oh well, makes sense.\" "
+    voice voice_file.lpdcat(10,16)
     lpdcat difficult ""
 
 # game/script/10.rpy:618
@@ -1019,6 +1069,7 @@ translate polish cg_get_washed_hat_f9276dd2:
 
     # voice voice_file.lpdcat(10,17)
     # lpdcat normal "\"Okey-dokes, this should be everything, right?\" "
+    voice voice_file.lpdcat(10,17)
     lpdcat normal ""
 
 # game/script/10.rpy:632
@@ -1026,6 +1077,7 @@ translate polish cg_get_washed_hat_89544965:
 
     # voice voice_file.lpdcat(10,18)
     # lpdcat laugh "\"Well I'm off! See you tomorrow at school Liao!\" "
+    voice voice_file.lpdcat(10,18)
     lpdcat laugh ""
 
 # game/script/10.rpy:634
@@ -1051,6 +1103,7 @@ translate polish cg_get_washed_hat_ca2f99c5:
 
     # voice voice_file.lpdcat(10,19)
     # lpdcat normal "\"Hmm? I'll be fine. It's not like we're never going to see each other again. I'll have plenty of chances to see you Liao! Besides...\" "
+    voice voice_file.lpdcat(10,19)
     lpdcat normal ""
 
 # game/script/10.rpy:646
@@ -1058,6 +1111,7 @@ translate polish cg_get_washed_hat_1293f1ce:
 
     # voice voice_file.lpdcat(10,20)
     # lpdcat cute "\"Everything would just be solved if Liao agreed to go to Miaoli with me~ Liao, wanna come with me?\" "
+    voice voice_file.lpdcat(10,20)
     lpdcat cute ""
 
 # game/script/10.rpy:648
@@ -1071,6 +1125,7 @@ translate polish cg_get_washed_hat_81bf779b:
 
     # voice voice_file.lpdcat(10,21)
     # lpdcat normal "\"Alrighty. Liao still hasn't made up his mind, so it's useless asking right now. I'll just head off, see ya!\" "
+    voice voice_file.lpdcat(10,21)
     lpdcat normal ""
 
 # game/script/10.rpy:652
@@ -1084,6 +1139,7 @@ translate polish cg_get_washed_hat_1b55a7d2:
 
     # voice voice_file.lpd(10,4)
     # lpd normal "\"Bye, Shu-Chi.\" "
+    voice voice_file.lpd(10,4)
     lpd normal ""
 
 # game/script/10.rpy:663
@@ -1091,6 +1147,7 @@ translate polish cg_get_washed_hat_195b58df:
 
     # voice voice_file.tig(10,19)
     # tig frown "*humph* "
+    voice voice_file.tig(10,19)
     tig frown ""
 
 # game/script/10.rpy:668
@@ -1110,6 +1167,7 @@ translate polish s10_04_dont_help_2c349f4d:
 
     # voice voice_file.lpdcat(10,22)
     # lpdcat difficult "\"At first I just went back home to grab some stuff but my family ended up keeping me there... Sorry Liao.\" "
+    voice voice_file.lpdcat(10,22)
     lpdcat difficult ""
 
 # game/script/10.rpy:685
@@ -1123,6 +1181,7 @@ translate polish s10_04_dont_help_07d8e6b0:
 
     # voice voice_file.lpdcat(10,23)
     # lpdcat laugh "\"Liao was worried about me? Heheh— I'm happy to hear that!\" "
+    voice voice_file.lpdcat(10,23)
     lpdcat laugh ""
 
 # game/script/10.rpy:693
@@ -1136,6 +1195,7 @@ translate polish s10_04_dont_help_9842cda8:
 
     # voice voice_file.lpdcat(10,24)
     # lpdcat normal "\"I couldn't. My family took my phone away and cut the internet off. I couldn't contact anyone at all...\" "
+    voice voice_file.lpdcat(10,24)
     lpdcat normal ""
 
 # game/script/10.rpy:699
@@ -1150,6 +1210,7 @@ translate polish s10_04_dont_help_b00e673e:
     # voice voice_file.lpdcat(10,25)
     # lpdcat serious "\"Well they we're pretty rough this time. You know, it's just because they don't accept I'm gay.\" "
     # lpdcat serious "\"I've tried arguing about it a few times but it's never worked. Then they found out I've been staying with you... So it's like that.\" "
+    voice voice_file.lpdcat(10,25)
     lpdcat serious ""
 
 # game/script/10.rpy:704
@@ -1164,6 +1225,7 @@ translate polish s10_04_dont_help_4207c322:
     # voice voice_file.lpdcat(10,26)
     # lpdcat pout "\"They can't exactly accept me running away to stay with someone else... but this is my body and it's none of their business.\" "
     # lpdcat pout "\"But... I am speaking from Yan Shu-Chi's point of view. He's really upset over the whole thing.\" "
+    voice voice_file.lpdcat(10,26)
     lpdcat pout ""
 
 # game/script/10.rpy:713
@@ -1172,6 +1234,7 @@ translate polish s10_04_dont_help_3ecfc146:
     # voice voice_file.lpdcat(10,27)
     # lpdcat serious "\"Well with things as they are, I can't exactly insist on staying here. \" "
     # lpdcat serious "\"So, today I'm actually here to pack up my stuff. The family wants me to go move back into my dorm.\" "
+    voice voice_file.lpdcat(10,27)
     lpdcat serious ""
 
 # game/script/10.rpy:715
@@ -1191,6 +1254,7 @@ translate polish s10_04_dont_help_7d8d3771:
 
     # voice voice_file.lpdcat(10,28)
     # lpdcat normal "\"No problem. Even though I won't be here with you we can still see each other. We still go to school together after all!\" "
+    voice voice_file.lpdcat(10,28)
     lpdcat normal ""
 
 # game/script/10.rpy:721
@@ -1204,6 +1268,7 @@ translate polish s10_04_dont_help_9c9160cd:
 
     # voice voice_file.lpdcat(10,29)
     # lpdcat pout "\"Well it wouldn't matter if Liao agreed to help me rejuvenate the temple!\" "
+    voice voice_file.lpdcat(10,29)
     lpdcat pout ""
 
 # game/script/10.rpy:725
@@ -1218,6 +1283,7 @@ translate polish s10_04_dont_help_9e7256c1:
     # voice voice_file.lpdcat(10,30)
     # lpdcat normal "\"I'm absolutely serious. But I don't want to pressure you.\" "
     # lpdcat normal "\"Really though, I'm in a pretty bad situation now... in every possible way.\" "
+    voice voice_file.lpdcat(10,30)
     lpdcat normal ""
 
 # game/script/10.rpy:729
@@ -1225,6 +1291,7 @@ translate polish s10_04_dont_help_5c869b2f:
 
     # voice voice_file.lpdcat(10,31)
     # lpdcat laugh "\"But that doesn't mean I'm giving up! It's a matter of life or death. Would you {i}please{/i} think about it Liao?\" "
+    voice voice_file.lpdcat(10,31)
     lpdcat laugh ""
 
 # game/script/10.rpy:731
@@ -1239,6 +1306,7 @@ translate polish s10_04_dont_help_43aed137:
     # voice voice_file.lpdcat(10,32)
     # lpdcat normal "\"Well you need to think about a bunch of things. Like taking a break in your studies, finding a place to live in Miaoli, and then getting an income. But I'll try to help you as much as I can. I'll work something out.\" "
     # lpdcat normal "\"I just need you to make up your mind, if that's alright.\" "
+    voice voice_file.lpdcat(10,32)
     lpdcat normal ""
 
 # game/script/10.rpy:735
@@ -1259,6 +1327,7 @@ translate polish s10_04_dont_help_5adebbe7:
     # voice voice_file.lpdcat(10,33)
     # lpdcat serious "\"I know, it's not like we have many other choices though... \" "
     # lpdcat serious "\"I just thought I should go over it again so you can prepare. It'll just be harder the longer we wait.\" "
+    voice voice_file.lpdcat(10,33)
     lpdcat serious ""
 
 # game/script/10.rpy:741
@@ -1272,6 +1341,7 @@ translate polish s10_04_dont_help_b32d0be0:
 
     # voice voice_file.lpdcat(10,10)
     # lpdcat surprise_1 "\"Hmm? Liao, where that hat you gave me?\" "
+    voice voice_file.lpdcat(10,10)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:748
@@ -1291,6 +1361,7 @@ translate polish s10_04_dont_help_39dc2cee:
 
     # voice voice_file.lpdcat(10,11)
     # lpdcat laugh "\"Liao washed it for me... Hehe. Thank you.\" "
+    voice voice_file.lpdcat(10,11)
     lpdcat laugh ""
 
 # game/script/10.rpy:754
@@ -1304,6 +1375,7 @@ translate polish s10_04_dont_help_f94770cc:
 
     # voice voice_file.lpdcat(10,12)
     # lpdcat laugh "\"He-heh. No wonder it's so clean!\" "
+    voice voice_file.lpdcat(10,12)
     lpdcat laugh ""
 
 # game/script/10.rpy:763
@@ -1311,6 +1383,7 @@ translate polish s10_04_dont_help_0632d1b8:
 
     # voice voice_file.lpdcat(10,13)
     # lpdcat surprise_1 "\"My stuff... OH... Where'd my bed go?\" "
+    voice voice_file.lpdcat(10,13)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:765
@@ -1324,6 +1397,7 @@ translate polish s10_04_dont_help_6735b132:
 
     # voice voice_file.lpdcat(10,14)
     # lpdcat difficult "\"I see... Oh well, makes sense.\" "
+    voice voice_file.lpdcat(10,14)
     lpdcat difficult ""
 
 # game/script/10.rpy:772
@@ -1331,6 +1405,7 @@ translate polish s10_04_dont_help_be742275:
 
     # voice voice_file.lpdcat(10,15)
     # lpdcat surprise_1 "\"My stuff... OH... You packed up my table?\" "
+    voice voice_file.lpdcat(10,15)
     lpdcat surprise_1 ""
 
 # game/script/10.rpy:774
@@ -1350,6 +1425,7 @@ translate polish s10_04_dont_help_6735b132_1:
 
     # voice voice_file.lpdcat(10,16)
     # lpdcat difficult "\"I see... Oh well, makes sense.\" "
+    voice voice_file.lpdcat(10,16)
     lpdcat difficult ""
 
 # game/script/10.rpy:783
@@ -1364,6 +1440,7 @@ translate polish s10_04_dont_help_e6f47faa:
     # voice voice_file.lpdcat(10,34)
     # lpdcat laugh "\"Well, that should be everything. Liao, make sure to let me know when you decide.\" "
     # lpdcat laugh "\"Anyways, see you tomorrow~ \" "
+    voice voice_file.lpdcat(10,34)
     lpdcat laugh ""
 
 # game/script/10.rpy:793
@@ -1389,6 +1466,7 @@ translate polish s10_05_ac48a2a5:
 
     # voice voice_file.tig(10,20)
     # tig lift "\"I didn't know that kitten was so reasonable, he didn't even throw a tantrum before leaving. \" "
+    voice voice_file.tig(10,20)
     tig lift ""
 
 # game/script/10.rpy:812
@@ -1396,6 +1474,7 @@ translate polish s10_05_47c6c479:
 
     # voice voice_file.lpd(10,5)
     # lpd obsessed "\"Shu-Chi... not happy.\" "
+    voice voice_file.lpd(10,5)
     lpd obsessed ""
 
 # game/script/10.rpy:815
@@ -1423,6 +1502,7 @@ translate polish s10_06_tig_fa870a10:
     # tig frown "\"I know what you want to say. He wishes to leave, and that is the right decision to make.\" "
     # tig frown "\"Making him stay would just cause the both of you no end of troubles. And as he said, there is nothing stopping each of you from seeing the other.\" "
     # tig frown "\"Everything works out in the end.\" "
+    voice voice_file.tig(10,21)
     tig frown ""
 
 # game/script/10.rpy:849
@@ -1436,6 +1516,7 @@ translate polish s10_06_tig_e577defc:
 
     # voice voice_file.tig(10,22)
     # tig frown "\"What would you do? Beg his family to have him stay? I hardly think they care.\" "
+    voice voice_file.tig(10,22)
     tig frown ""
 
 # game/script/10.rpy:853
@@ -1451,6 +1532,7 @@ translate polish s10_06_tig_59c81811:
     # tig normal "\"That's right. How can {i}you{/i} stop him? This is a problem for his family to deal with by themselves.\" "
     # tig normal "\"Even magistrates find it hard to resolve such quarrels, the same goes for gods.\" "
     # tig normal "\"It is beyond even the powers of the Goddess Mazu to solve. You're better off leaving it be.\" "
+    voice voice_file.tig(10,23)
     tig normal ""
 
 # game/script/10.rpy:857
@@ -1464,6 +1546,7 @@ translate polish s10_06_tig_8ee8857e:
 
     # voice voice_file.tig(10,24)
     # tig disappointed "\"You were the one who wanted him to leave to begin with.\" "
+    voice voice_file.tig(10,24)
     tig disappointed ""
 
 # game/script/10.rpy:861
@@ -1479,6 +1562,7 @@ translate polish s10_06_tig_3b406339:
     # tig frown "\"Then what do you want? To happily have him around even though you {i}know{/i} \ you can't promise to go to Miaoli with him?\" "
     # tig frown "\"Right now you are ruled by the passions of your heart, but then what? This may as well be the best opportunity to say no to him.\" "
     # tig frown "\"If you feel guilty about it, just imagine that I kicked him out. Would that be fine with you?\" "
+    voice voice_file.tig(10,25)
     tig frown ""
 
 # game/script/10.rpy:869
@@ -1492,6 +1576,7 @@ translate polish s10_06_tig_d17e0d3e:
 
     # voice voice_file.tig(10,26)
     # tig frown "\"That's why I said to imagine. I'm asking you to let him go. If you regret this decision... you are free to blame {i}everything{/i} \ on me. Understand?\" "
+    voice voice_file.tig(10,26)
     tig frown ""
 
 # game/script/10.rpy:876
@@ -1505,6 +1590,7 @@ translate polish s10_06_tig_c19f32e7:
 
     # voice voice_file.tig(10,27)
     # tig disappointed "*sigh* "
+    voice voice_file.tig(10,27)
     tig disappointed ""
 
 # game/script/10.rpy:882
@@ -1512,6 +1598,7 @@ translate polish s10_06_tig_9d4dd610:
 
     # voice voice_file.tig(10,28)
     # tig frown "\"Liao, do you know how painful it is to see you be so indecisive?\" "
+    voice voice_file.tig(10,28)
     tig frown ""
 
 # game/script/10.rpy:884
@@ -1525,6 +1612,7 @@ translate polish s10_06_tig_c6defe1b:
 
     # voice voice_file.tig(10,29)
     # tig frown "\"That's good. Well, if there's anything you wish to say, you can tell him tomorrow in person.\" "
+    voice voice_file.tig(10,29)
     tig frown ""
 
 # game/script/10.rpy:888
@@ -1563,6 +1651,7 @@ translate polish s10_06_lpd_cce3ed02:
 
     # voice voice_file.lpd(10,6)
     # lpd obsessed "\"Liao, unhappy?\" "
+    voice voice_file.lpd(10,6)
     lpd obsessed ""
 
 # game/script/10.rpy:919
@@ -1576,6 +1665,7 @@ translate polish s10_06_lpd_c21cc398:
 
     # voice voice_file.lpd(10,7)
     # lpd obsessed "\"I call him back, for Liao?\" "
+    voice voice_file.lpd(10,7)
     lpd obsessed ""
 
 # game/script/10.rpy:923
@@ -1589,6 +1679,7 @@ translate polish s10_06_lpd_b7c5b56b:
 
     # voice voice_file.lpd(10,8)
     # lpd obsessed "\"Why? Stay if not want to leave.\" "
+    voice voice_file.lpd(10,8)
     lpd obsessed ""
 
 # game/script/10.rpy:927
@@ -1602,6 +1693,7 @@ translate polish s10_06_lpd_28ea54a3:
 
     # voice voice_file.lpd(10,9)
     # lpd obsessed "\"Don't get it.\" "
+    voice voice_file.lpd(10,9)
     lpd obsessed ""
 
 # game/script/10.rpy:931
@@ -1616,6 +1708,7 @@ translate polish s10_06_lpd_b88dfb29:
 
     # voice voice_file.lpd(10,10)
     # lpd obsessed "\"...Don't get it.\" "
+    voice voice_file.lpd(10,10)
     lpd obsessed ""
 
 # game/script/10.rpy:937

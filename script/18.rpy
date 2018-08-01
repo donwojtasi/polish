@@ -11,6 +11,7 @@ translate polish s18_branch5_73fecb45:
 
     # voice voice_file.lpdcat(18,1)
     # lpdcat2 "\"Ahh!\" "
+    voice voice_file.lpdcat(18,1)
     lpdcat2 ""
 
 # game/script/18.rpy:35
@@ -30,6 +31,7 @@ translate polish s18_branch5_ba71f7e6:
 
     # voice voice_file.lpdcat(18,2)
     # lpdcat_true surprise_2 "\"...Liao?\" " with flash
+    voice voice_file.lpdcat(18,2)
     lpdcat_true surprise_2 "" with flash
 
 # game/script/18.rpy:43
@@ -49,6 +51,7 @@ translate polish s18_branch5_f9c8eed2:
 
     # voice voice_file.lpd(18,1)
     # lpd2 "\"Liao's home— Wait for you.\" "
+    voice voice_file.lpd(18,1)
     lpd2 ""
 
 # game/script/18.rpy:49
@@ -155,6 +158,7 @@ translate polish s18_branch5_ed9ca5ff:
 
     # voice voice_file.tig(18,1)
     # tig gentle "\"Liao.\" "
+    voice voice_file.tig(18,1)
     tig gentle ""
 
 # game/script/18.rpy:201
@@ -168,6 +172,7 @@ translate polish s18_branch5_7d22331c:
 
     # voice voice_file.tig(18,2)
     # tig gentle "\"It's getting late. Should we eat?\" "
+    voice voice_file.tig(18,2)
     tig gentle ""
 
 # game/script/18.rpy:205
@@ -175,6 +180,7 @@ translate polish s18_branch5_908a1d6e:
 
     # voice voice_file.tig(18,3)
     # tig gentle "\"You haven't had anything since you returned. Even if you don't feel like it, you cannot go without food.\" "
+    voice voice_file.tig(18,3)
     tig gentle ""
 
 # game/script/18.rpy:207
@@ -200,6 +206,7 @@ translate polish s18_branch5_62f2a383:
 
     # voice voice_file.tig(18,4)
     # tig normal "\"...Hmm.\" "
+    voice voice_file.tig(18,4)
     tig normal ""
 
 # game/script/18.rpy:215
@@ -207,6 +214,7 @@ translate polish s18_branch5_072b77b4:
 
     # voice voice_file.tig(18,5)
     # tig normal "\"Do you have his room key?\" "
+    voice voice_file.tig(18,5)
     tig normal ""
 
 # game/script/18.rpy:217
@@ -227,6 +235,7 @@ translate polish s18_branch5_37fd22e5:
     # voice voice_file.tig(18,6)
     # tig normal "\"That's called breaking and entering.\" "
     # tig normal "\"As a god I wouldn't be able to do it even if I wished to help you.\" "
+    voice voice_file.tig(18,6)
     tig normal ""
 
 # game/script/18.rpy:223
@@ -240,6 +249,7 @@ translate polish s18_branch5_d0aad924:
 
     # voice voice_file.tig(18,7)
     # tig normal "\"Gods can't enter private property without the permission of the owner. Remember when Likulau first came here? He waited for you to allow him inside.\" "
+    voice voice_file.tig(18,7)
     tig normal ""
 
 # game/script/18.rpy:227
@@ -259,6 +269,7 @@ translate polish s18_branch5_cab959b5:
 
     # voice voice_file.tig(18,8)
     # tig normal "\"...It takes some time. People have to acknowledge he doesn't live there anymore.\" "
+    voice voice_file.tig(18,8)
     tig normal ""
 
 # game/script/18.rpy:233
@@ -272,6 +283,7 @@ translate polish s18_branch5_a19f3a4b:
 
     # voice voice_file.tig(18,9)
     # tig normal "\"...The death of Yan Shu-Chi has to be made known to many.\" "
+    voice voice_file.tig(18,9)
     tig normal ""
 
 # game/script/18.rpy:238
@@ -286,6 +298,7 @@ translate polish s18_branch5_d2d88a96:
     # voice voice_file.tig(18,10)
     # tig normal "\"There are other circumstances, for example the lease being terminated. Essentially if it's considered trespassing a god can't enter. \" "
     # tig normal "\"...Regardless taking care of the body will happen in due time, that and we have no idea when our fiend is going to show up. It would be best for you to get some sleep.\" "
+    voice voice_file.tig(18,10)
     tig normal ""
 
 # game/script/18.rpy:242
@@ -319,6 +332,7 @@ translate polish s18_branch5_1a7c0631:
 
     # voice voice_file.tig(18,11)
     # tig gentle "\"Liao?\" "
+    voice voice_file.tig(18,11)
     tig gentle ""
 
 # game/script/18.rpy:252
@@ -332,6 +346,7 @@ translate polish s18_branch5_c2b1d03b:
 
     # voice voice_file.tig(18,12)
     # tig gentle "\"Don't think too much.\" "
+    voice voice_file.tig(18,12)
     tig gentle ""
 
 # game/script/18.rpy:256
@@ -345,6 +360,7 @@ translate polish s18_branch5_edb3d5f7:
 
     # voice voice_file.lpd(18,2)
     # lpd obsessed "\"Liao is sad. Because of me?\" "
+    voice voice_file.lpd(18,2)
     lpd obsessed ""
 
 # game/script/18.rpy:264
@@ -358,6 +374,7 @@ translate polish s18_branch5_c353a9b5:
 
     # voice voice_file.lpd(18,3)
     # lpd obsessed "\"I shouldn't have attacked you.\" "
+    voice voice_file.lpd(18,3)
     lpd obsessed ""
 
 # game/script/18.rpy:268
@@ -371,6 +388,7 @@ translate polish s18_branch5_66561306:
 
     # voice voice_file.lpd(18,4)
     # lpd disappointed "\"Sorry...\" "
+    voice voice_file.lpd(18,4)
     lpd disappointed ""
 
 # game/script/18.rpy:274
@@ -390,6 +408,7 @@ translate polish s18_branch5_ac121261:
 
     # voice voice_file.tig(18,13)
     # tig gentle "\"Leave it Likulau. If you don't feel like dinner Liao, at the very least have a snack. We have plenty after all.\" "
+    voice voice_file.tig(18,13)
     tig gentle ""
 
 # game/script/18.rpy:280
@@ -417,6 +436,7 @@ translate polish s18_branch5_09dbb2d0:
 
     # voice voice_file.tig(18,14)
     # tig nervous "\"Liao...\" "
+    voice voice_file.tig(18,14)
     tig nervous ""
 
 # game/script/18.rpy:290
@@ -424,6 +444,7 @@ translate polish s18_branch5_db7e77d8:
 
     # voice voice_file.tig(18,15)
     # tig disappointed "\"...Oh. ...well, I'm sorry I can't help you...\" "
+    voice voice_file.tig(18,15)
     tig disappointed ""
 
 # game/script/18.rpy:302
@@ -450,6 +471,7 @@ translate polish s18_branch5_91292480:
 
     # voice voice_file.lpdcat(18,3)
     # question "*cough* "
+    voice voice_file.lpdcat(18,3)
     question ""
 
 # game/script/18.rpy:311
@@ -469,6 +491,7 @@ translate polish s18_branch5_a9c72199:
 
     # voice voice_file.lpdcat(18,4)
     # lpdcat2 "\"Yeah, it's me!\" "
+    voice voice_file.lpdcat(18,4)
     lpdcat2 ""
 
 # game/script/18.rpy:317
@@ -483,6 +506,7 @@ translate polish s18_branch5_6e18a889:
 
     # voice voice_file.lpdcat(18,5)
     # lpdcat_true laugh "\"Hey Liao, long time no see... "
+    voice voice_file.lpdcat(18,5)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:331
@@ -508,6 +532,7 @@ translate polish s18_branch5_5018f701:
 
     # voice voice_file.lpdcat(18,6)
     # lpdcat_true laugh "\"Well... does it really matter? You're just going to kill me no matter what I do.\" "
+    voice voice_file.lpdcat(18,6)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:347
@@ -522,6 +547,7 @@ translate polish s18_branch5_dc186908:
     # voice voice_file.lpdcat(18,7)
     # lpdcat_true laugh "\"Who cares... I don't see the difference at this point.\" "
     # lpdcat_true laugh "\"Well Liao, what do you want from me? What do you want me to tell you?\" "
+    voice voice_file.lpdcat(18,7)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:351
@@ -536,6 +562,7 @@ translate polish s18_branch5_12d289e5:
     # voice voice_file.lpdcat(18,8)
     # lpdcat_true smile "\"I'm sure you've heard all there is to know from those two. \" "
     # lpdcat_true smile "\"Buuuut— If you want me to me to say it to your face, I'll happily oblige.\" "
+    voice voice_file.lpdcat(18,8)
     lpdcat_true smile ""
 
 # game/script/18.rpy:356
@@ -543,6 +570,7 @@ translate polish s18_branch5_192dfaec:
 
     # voice voice_file.lpdcat(18,9)
     # lpdcat_true laugh "\"So yeah, it's all true. I lied to you the whole time. All I wanted was your life. That's just how it really is.\" " with flash_black2
+    voice voice_file.lpdcat(18,9)
     lpdcat_true laugh "" with flash_black2
 
 # game/script/18.rpy:358
@@ -562,6 +590,7 @@ translate polish s18_branch5_16e73f98:
 
     # voice voice_file.lpdcat(18,10)
     # lpdcat_true wronged "\"...I knew you'd ask that.\" "
+    voice voice_file.lpdcat(18,10)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:369
@@ -569,6 +598,7 @@ translate polish s18_branch5_91f40575:
 
     # voice voice_file.lpdcat(18,11)
     # lpdcat_true serious "\"Liao, tell me. Do you really {i}need{/i} \ to know why?\" "
+    voice voice_file.lpdcat(18,11)
     lpdcat_true serious ""
 
 # game/script/18.rpy:371
@@ -577,6 +607,7 @@ translate polish s18_branch5_7ef4d3c9:
     # voice voice_file.lpdcat(18,12)
     # lpdcat_true serious "\"No matter what I say, it's not going to change all the horrible things I've done.\" "
     # lpdcat_true serious "\"If I had a reason, some heartbreaking justification for my actions, would you really forgive me?\" "
+    voice voice_file.lpdcat(18,12)
     lpdcat_true serious ""
 
 # game/script/18.rpy:373
@@ -591,6 +622,7 @@ translate polish s18_branch5_816bfe6c:
     # voice voice_file.lpdcat(18,13)
     # lpdcat_true smile "\"Hmmmmmm— In that case I'll just have to make up something. Lemmie think...\" "
     # lpdcat_true smile "\"Oh— yeah. I got it. Sacrificing yourself to save others— oh how it touches the heart. Yeah Liao, I did it to save my tribe back home! Does that make you feel better?\" "
+    voice voice_file.lpdcat(18,13)
     lpdcat_true smile ""
 
 # game/script/18.rpy:382
@@ -598,6 +630,7 @@ translate polish s18_branch5_998f4425:
 
     # voice voice_file.lpd(18,5)
     # lpd angry_1 "\"...Don't joke.\" " with flash_cyan
+    voice voice_file.lpd(18,5)
     lpd angry_1 "" with flash_cyan
 
 # game/script/18.rpy:386
@@ -605,6 +638,7 @@ translate polish s18_branch5_84989f66:
 
     # voice voice_file.tig(18,16)
     # tig normal "\"Hey— Hey, calm down.\" "
+    voice voice_file.tig(18,16)
     tig normal ""
 
 # game/script/18.rpy:391
@@ -612,6 +646,7 @@ translate polish s18_branch5_a464530d:
 
     # voice voice_file.tig(18,17)
     # tig normal "\"So what are you trying to say, you fiendish cat?\" "
+    voice voice_file.tig(18,17)
     tig normal ""
 
 # game/script/18.rpy:395
@@ -619,6 +654,7 @@ translate polish s18_branch5_61fb11a1:
 
     # voice voice_file.lpdcat(18,14)
     # lpdcat_true laugh "\"Nothing. What, you want to find some reason to forgive me?\" "
+    voice voice_file.lpdcat(18,14)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:402
@@ -626,6 +662,7 @@ translate polish s18_branch5_5b80ab20:
 
     # voice voice_file.tig(18,18)
     # tig frown "\"What you did was unforgivable. Liao simply wants to know why...\" "
+    voice voice_file.tig(18,18)
     tig frown ""
 
 # game/script/18.rpy:406
@@ -633,6 +670,7 @@ translate polish s18_branch5_9f5b105a:
 
     # voice voice_file.lpdcat(18,15)
     # lpdcat_true laugh "\"So what difference does it make?\" "
+    voice voice_file.lpdcat(18,15)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:408
@@ -640,6 +678,7 @@ translate polish s18_branch5_583a4114:
 
     # voice voice_file.lpdcat(18,16)
     # lpdcat_true angry "\"Why does {i}my{/i} \ reason matter to you?\" "
+    voice voice_file.lpdcat(18,16)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:410
@@ -647,6 +686,7 @@ translate polish s18_branch5_7853754b:
 
     # voice voice_file.lpdcat(18,17)
     # lpdcat_true wronged "\"After all, you're just seeking resolution... some kind of peace of mind for what I did, right?\" "
+    voice voice_file.lpdcat(18,17)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:413
@@ -654,6 +694,7 @@ translate polish s18_branch5_a6c16aba:
 
     # voice voice_file.lpdcat(18,18)
     # lpdcat_true cute "\"Ok, I'll play along. I kinda suck at telling stories but I'm sure we can work together to make a nice one.\" " with flash_black
+    voice voice_file.lpdcat(18,18)
     lpdcat_true cute "" with flash_black
 
 # game/script/18.rpy:419
@@ -661,6 +702,7 @@ translate polish s18_branch5_5a640a57:
 
     # voice voice_file.lpd(18,6)
     # lpd angry_2 "\"......!\" "
+    voice voice_file.lpd(18,6)
     lpd angry_2 ""
 
 # game/script/18.rpy:421
@@ -668,6 +710,7 @@ translate polish s18_branch5_6b367609:
 
     # voice voice_file.tig(18,19)
     # tig frown "\"Calm down, Likulau. Can't you see he's just provoking us?\" "
+    voice voice_file.tig(18,19)
     tig frown ""
 
 # game/script/18.rpy:423
@@ -687,6 +730,7 @@ translate polish s18_branch5_b902c4bd:
 
     # voice voice_file.lpdcat(18,19)
     # lpdcat_true smile "\"Liao, you're such a good boy. Still trying to believe I {i}have{/i} \ a reason...\" "
+    voice voice_file.lpdcat(18,19)
     lpdcat_true smile ""
 
 # game/script/18.rpy:431
@@ -694,6 +738,7 @@ translate polish s18_branch5_ae2362e0:
 
     # voice voice_file.lpdcat(18,20)
     # lpdcat_true angry "\"I hate it.\" "
+    voice voice_file.lpdcat(18,20)
     lpdcat_true angry ""
 
 # game/script/18.rpy:434
@@ -707,6 +752,7 @@ translate polish s18_branch5_2737aa1a:
 
     # voice voice_file.lpdcat(18,21)
     # lpdcat_true laugh "\"No, I don't have a reason. I'm a yaoguai. It's my nature to do bad things. Why do you think I need a reason?\" "
+    voice voice_file.lpdcat(18,21)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:441
@@ -714,6 +760,7 @@ translate polish s18_branch5_7072cdb0:
 
     # voice voice_file.lpdcat(18,22)
     # lpdcat_true angry "\"I just want to eat you, consume your spirit power. That's all I want!\" "
+    voice voice_file.lpdcat(18,22)
     lpdcat_true angry ""
 
 # game/script/18.rpy:445
@@ -723,6 +770,7 @@ translate polish s18_branch5_1723f1d9:
     # lpdcat_true angry "\"I'm amazed you didn't figure it out earlier.\" "
     # lpdcat_true angry "\"You made me come {i}all{/i} \ the way here just {i}you{/i} \ can find some reason to pity me and forgive me?\" "
     # lpdcat_true angry "\"Let's stop wasting each other's time. How about {i}you{/i} \ just forgive me now? Get it over and done with so {i}you{/i} \ can feel better.\" "
+    voice voice_file.lpdcat(18,23)
     lpdcat_true angry ""
 
 # game/script/18.rpy:447
@@ -737,6 +785,7 @@ translate polish s18_branch5_c90c6fb0:
     # voice voice_file.lpdcat(18,24)
     # lpdcat_true happy "\"Ahhhh— Enough already. If you can't forgive me, I'm fine with that.\" " with vshake
     # lpdcat_true happy "\"Just kill me, won't you?\" " with vshake
+    voice voice_file.lpdcat(18,24)
     lpdcat_true happy "" with vshake
 
 # game/script/18.rpy:451
@@ -756,6 +805,7 @@ translate polish s18_branch5_f65d6429:
 
     # voice voice_file.lpdcat(18,25)
     # lpdcat_true wronged "\"That it?\" "
+    voice voice_file.lpdcat(18,25)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:457
@@ -764,6 +814,7 @@ translate polish s18_branch5_5d686b07:
     # voice voice_file.lpdcat(18,26)
     # lpdcat_true laugh "\"Makes sense. After all, Liao only cares about himself. Of course he doesn't have a \nclue.\" "
     # lpdcat_true laugh "\"Should I show mercy and explain this in some way that you can understand?\" "
+    voice voice_file.lpdcat(18,26)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:461
@@ -783,6 +834,7 @@ translate polish s18_branch5_3f0b7a7f:
 
     # voice voice_file.lpdcat(18,27)
     # lpdcat_true wronged "\"I'm a yaoguai.\" "
+    voice voice_file.lpdcat(18,27)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:474
@@ -790,6 +842,7 @@ translate polish s18_branch5_06e17368:
 
     # voice voice_file.lpdcat(18,28)
     # lpdcat_true wronged "\"...A yaoguai who grew up eating other creatures' souls.\" "
+    voice voice_file.lpdcat(18,28)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:476
@@ -798,6 +851,7 @@ translate polish s18_branch5_16e4ddd0:
     # voice voice_file.lpdcat(18,29)
     # lpdcat_true serious "\"When I consume a soul, I gain it's knowledge, experience, and instincts. You could say that being partially becomes a part of me.\" "
     # lpdcat_true serious "\"As I said, I {i}am{/i} \ Yan Shu-chi.\" "
+    voice voice_file.lpdcat(18,29)
     lpdcat_true serious ""
 
 # game/script/18.rpy:478
@@ -811,6 +865,7 @@ translate polish s18_branch5_941402ba:
 
     # voice voice_file.lpdcat(18,30)
     # lpdcat_true serious "\"Right, but let me finish first.\" "
+    voice voice_file.lpdcat(18,30)
     lpdcat_true serious ""
 
 # game/script/18.rpy:482
@@ -819,6 +874,7 @@ translate polish s18_branch5_e1418949:
     # voice voice_file.lpdcat(18,31)
     # lpdcat_true serious "\"In the very beginning... I don't really remember what I was back then. I was just suddenly there. \" "
     # lpdcat_true serious "\"Maybe I was a consciousness— no, less than that, an amoeba... a single something that just consumes other things.\" "
+    voice voice_file.lpdcat(18,31)
     lpdcat_true serious ""
 
 # game/script/18.rpy:484
@@ -827,6 +883,7 @@ translate polish s18_branch5_202f708e:
     # voice voice_file.lpdcat(18,32)
     # lpdcat_true serious "\"I was already a leopard cat in my earliest memory about myself. Maybe it was the first thing I ate that was big enough. Maybe I just ate a lot of them.\" "
     # lpdcat_true serious "\"Did you know that leopard cats are hit by cars in Miaoli all the time? After all, dying animals are the easiest targets for me...\" "
+    voice voice_file.lpdcat(18,32)
     lpdcat_true serious ""
 
 # game/script/18.rpy:491
@@ -835,6 +892,7 @@ translate polish s18_branch5_05e1efd4:
     # voice voice_file.lpdcat(18,33)
     # lpdcat_true serious "\"I was basically just an ordinary leopard cat back then. Slowly but surely I ate more powerful creatures, becoming smarter and smarter.\" "
     # lpdcat_true serious "\"Until I had my first human...\" "
+    voice voice_file.lpdcat(18,33)
     lpdcat_true serious ""
 
 # game/script/18.rpy:493
@@ -843,6 +901,7 @@ translate polish s18_branch5_438c02ea:
     # voice voice_file.lpdcat(18,34)
     # lpdcat_true wronged "\"I began to think like a human and after my first taste, I found the human soul... delicious.\" "
     # lpdcat_true wronged "\"After all, humans souls contain the richest density of knowledge and memories. They nourished me to grow more and more. Then I found you...\" "
+    voice voice_file.lpdcat(18,34)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:495
@@ -851,6 +910,7 @@ translate polish s18_branch5_e9ce052c:
     # voice voice_file.lpdcat(18,35)
     # lpdcat_true wronged "\"I first noticed you before your eyes were opened. I was waiting for a chance to eat you while your guardian tiger was away, but you barely left home let alone anywhere isolated from people.\" "
     # lpdcat_true wronged "\"And while I was waiting for that chance...\" "
+    voice voice_file.lpdcat(18,35)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:497
@@ -859,6 +919,7 @@ translate polish s18_branch5_67ede71c:
     # voice voice_file.lpdcat(18,36)
     # lpdcat_true wronged "\"Kulau opened your eyes. It messed everything up. There was no way to attack you even when you were alone.\" "
     # lpdcat_true wronged "\"So... I had to come up with another strategy. I had to come directly to you.\" "
+    voice voice_file.lpdcat(18,36)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:499
@@ -872,6 +933,7 @@ translate polish s18_branch5_dcc65a76:
 
     # voice voice_file.lpdcat(18,37)
     # lpdcat_true smile "\"Yep, he was a perfect fit. Close to you, good looking, gay, we even had similar personalities! I thought I'd have my way with you in no time...\" "
+    voice voice_file.lpdcat(18,37)
     lpdcat_true smile ""
 
 # game/script/18.rpy:505
@@ -880,6 +942,7 @@ translate polish s18_branch5_c68d02b9:
     # voice voice_file.lpdcat(18,38)
     # lpdcat_true laugh "\"But that didn't happen... To my surprise, these two were stronger than me.\" "
     # lpdcat_true laugh "\"For real though, you two stuck to Liao like glue.\" "
+    voice voice_file.lpdcat(18,38)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:507
@@ -887,6 +950,7 @@ translate polish s18_branch5_aefaa916:
 
     # voice voice_file.tig(18,20)
     # tig frown "\"Then that means ...Liao could have died long ago.\" "
+    voice voice_file.tig(18,20)
     tig frown ""
 
 # game/script/18.rpy:509
@@ -894,6 +958,7 @@ translate polish s18_branch5_d4a0546d:
 
     # voice voice_file.lpd(18,7)
     # lpd normal "\"I won't let you... I won't let you hurt Liao.\" "
+    voice voice_file.lpd(18,7)
     lpd normal ""
 
 # game/script/18.rpy:511
@@ -901,6 +966,7 @@ translate polish s18_branch5_49deaa55:
 
     # voice voice_file.lpdcat(18,39)
     # lpdcat_true pout "\"Well {i}obviously{/i} \ you didn't notice anything.\" "
+    voice voice_file.lpdcat(18,39)
     lpdcat_true pout ""
 
 # game/script/18.rpy:516
@@ -909,6 +975,7 @@ translate polish s18_branch5_166cfd39:
     # voice voice_file.lpdcat(18,40)
     # lpdcat_true laugh "\"So yeah, your Senpai— Yan Shu-Chi... I ate his soul a month ago, the very day your eyes were opened. \" "
     # lpdcat_true laugh "\"He's {i}long{/i} \ dead. I've absorbed his soul completely. Even if you kill me you can't save him.\" "
+    voice voice_file.lpdcat(18,40)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:520
@@ -922,6 +989,7 @@ translate polish s18_branch5_60cb45f0:
 
     # voice voice_file.lpdcat(18,41)
     # lpdcat_true smile "\"Yep. The very same day I moved in.\" "
+    voice voice_file.lpdcat(18,41)
     lpdcat_true smile ""
 
 # game/script/18.rpy:524
@@ -941,6 +1009,7 @@ translate polish s18_branch5_e5e60611:
 
     # voice voice_file.lpdcat(18,42)
     # lpdcat_true cute "\"Yep, it was all me.\" " with flash_black2
+    voice voice_file.lpdcat(18,42)
     lpdcat_true cute "" with flash_black2
 
 # game/script/18.rpy:531
@@ -954,6 +1023,7 @@ translate polish s18_branch5_1772bc25:
 
     # voice voice_file.lpdcat(18,43)
     # lpdcat_true laugh "\"Hmm? You're being a {i}bit{/i} \ dramatic...\" "
+    voice voice_file.lpdcat(18,43)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:535
@@ -961,6 +1031,7 @@ translate polish s18_branch5_83765ddf:
 
     # voice voice_file.lpdcat(18,44)
     # lpdcat_true normal "\"After all, I gain the memories of the souls I eat.\" "
+    voice voice_file.lpdcat(18,44)
     lpdcat_true normal ""
 
 # game/script/18.rpy:537
@@ -969,6 +1040,7 @@ translate polish s18_branch5_855e331b:
     # voice voice_file.lpdcat(18,45)
     # lpdcat_true normal "\"I'm... as close as you could ever get to Yan Shu-Chi. I always have been just like him.\" "
     # lpdcat_true normal "\"My feelings for you, and my desire to date you, they're all pretty much from him. How else do you think everyone picked up on us being together so fast?\" "
+    voice voice_file.lpdcat(18,45)
     lpdcat_true normal ""
 
 # game/script/18.rpy:540
@@ -977,6 +1049,7 @@ translate polish s18_branch5_f9a0aec4:
     # voice voice_file.lpdcat(18,46)
     # lpdcat_true laugh "\"I wanted to win your heart. A lot of his \"close\" friends inevitably questioned me when they saw us together.\" "
     # lpdcat_true laugh "\"I couldn't exactly just say I {i}just{/i} \ moved in with you so I had to tell them we were in a relationship... Even if it bothered you I didn't have a better excuse.\" " with flash_black2
+    voice voice_file.lpdcat(18,46)
     lpdcat_true laugh "" with flash_black2
 
 # game/script/18.rpy:543
@@ -984,6 +1057,7 @@ translate polish s18_branch5_2b2a432c:
 
     # voice voice_file.tig(18,21)
     # tig angry "\"It sounds like you don't feel sorry at all.\" " with vshake
+    voice voice_file.tig(18,21)
     tig angry "" with vshake
 
 # game/script/18.rpy:545
@@ -991,6 +1065,7 @@ translate polish s18_branch5_1213497d:
 
     # voice voice_file.lpdcat(18,47)
     # lpdcat_true cute "\"Of course not. I wanted to eat Liao. Why should I care if {i}that{/i} \ of all things upset him?\" "
+    voice voice_file.lpdcat(18,47)
     lpdcat_true cute ""
 
 # game/script/18.rpy:547
@@ -1022,6 +1097,7 @@ translate polish s18_branch5_a3c96e2e:
 
     # voice voice_file.lpdcat(18,48)
     # lpdcat_true angry "\"Why bother asking? I said I didn't care about your dumb sympathy.\" "
+    voice voice_file.lpdcat(18,48)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:566
@@ -1030,6 +1106,7 @@ translate polish s18_branch5_4a293b28:
     # voice voice_file.lpdcat(18,49)
     # lpdcat_true angry "\"Sure, I could tell you I had a really good time. Then what?\" "
     # lpdcat_true angry "\"Oh how about, \"I appreciate everything you've done for me but I sure do still want to kill you~\" How does that sound?\" "
+    voice voice_file.lpdcat(18,49)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:571
@@ -1037,6 +1114,7 @@ translate polish s18_branch5_04fe83f2:
 
     # voice voice_file.lpdcat(18,50)
     # lpdcat_true angry "\"If I told you I was happy, would you let go of me? ...Why bother asking if you won't?\" "
+    voice voice_file.lpdcat(18,50)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:575
@@ -1070,6 +1148,7 @@ translate polish s18_branch5_51bac5a3:
     # tig angry "\"Liao! What's wrong with you?! You heard him! He's eaten {i}numerous{/i} \ people.\" "
     # tig angry "\"He ate Yan Shu-Chi. You can't feign anonymity here. You can't just say that doesn't matter. How could you forgive him?\" "
     # tig angry "\"Fine, even if you don't care about other people. What about Yan Shu-Chi? What about his family and friends?\" "
+    voice voice_file.tig(18,22)
     tig angry ""
 
 # game/script/18.rpy:590
@@ -1083,6 +1162,7 @@ translate polish s18_branch5_1f0a6c24:
 
     # voice voice_file.lpdcat(18,51)
     # lpdcat_true angry "\"Hang on... I think we've got some misunderstandings here. I can live just fine with or without your power. I just find your spirit \"tasty\" and I {i}want{/i} \ to eat it.\" "
+    voice voice_file.lpdcat(18,51)
     lpdcat_true angry ""
 
 # game/script/18.rpy:600
@@ -1091,6 +1171,7 @@ translate polish s18_branch5_5ff33f2d:
     # voice voice_file.lpdcat(18,52)
     # lpdcat_true serious "\"After all, I've eaten so many humans that animals mean {i}nothing{/i} \ to me.\" "
     # lpdcat_true serious "\"If I want to grow stronger I need to eat other yaoguai and weaker gods. I just wanted your spirit power to defeat them...\" "
+    voice voice_file.lpdcat(18,52)
     lpdcat_true serious ""
 
 # game/script/18.rpy:602
@@ -1098,6 +1179,7 @@ translate polish s18_branch5_83df4680:
 
     # voice voice_file.lpdcat(18,53)
     # lpdcat_true laugh "\"I'm not gonna die without your power. Please don't make up excuses for me.\" "
+    voice voice_file.lpdcat(18,53)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:604
@@ -1112,6 +1194,7 @@ translate polish s18_branch5_35a8a120:
     # voice voice_file.lpdcat(18,54)
     # lpdcat_true normal "\"Hmm... I don't really know. I guess I might become weak and eventually vanish if I quit eating for like a decade.\" "
     # lpdcat_true normal "\"But I've never tried and I'm not planning to.\" "
+    voice voice_file.lpdcat(18,54)
     lpdcat_true normal ""
 
 # game/script/18.rpy:608
@@ -1125,6 +1208,7 @@ translate polish s18_branch5_02b46ea3:
 
     # voice voice_file.lpdcat(18,55)
     # lpdcat_true angry "\"I don't know! Even if there was, do you think I care?\" "
+    voice voice_file.lpdcat(18,55)
     lpdcat_true angry ""
 
 # game/script/18.rpy:612
@@ -1132,6 +1216,7 @@ translate polish s18_branch5_889adbd4:
 
     # voice voice_file.tig(18,23)
     # tig disappointed "\"......\" "
+    voice voice_file.tig(18,23)
     tig disappointed ""
 
 # game/script/18.rpy:614
@@ -1140,6 +1225,7 @@ translate polish s18_branch5_737ba951:
     # voice voice_file.tig(18,24)
     # tig normal "\"Well, there {i}are{/i} \ other ways. Yaoguai can also gain power through faith.\" "
     # tig normal "\"In fact many temples are built to please yaoguai as to stop them from causing \ntrouble.\" "
+    voice voice_file.tig(18,24)
     tig normal ""
 
 # game/script/18.rpy:616
@@ -1147,6 +1233,7 @@ translate polish s18_branch5_a3faaa87:
 
     # voice voice_file.lpdcat(18,56)
     # lpdcat_true angry "\"Haha— I'm not good enough for people to worship me...\" "
+    voice voice_file.lpdcat(18,56)
     lpdcat_true angry ""
 
 # game/script/18.rpy:618
@@ -1154,6 +1241,7 @@ translate polish s18_branch5_7160cbf2:
 
     # voice voice_file.tig(18,25)
     # tig normal "\"Faith works. It doesn't take much to stop you from vanishing. Even one worshipper \ncan—\" "
+    voice voice_file.tig(18,25)
     tig normal ""
 
 # game/script/18.rpy:624
@@ -1161,6 +1249,7 @@ translate polish s18_branch5_2804ad39:
 
     # voice voice_file.lpdcat(18,57)
     # lpdcat_true angry "\"So I'll be {i}this{/i} \ weak for the rest of my life? I don't want that.\" " with flash
+    voice voice_file.lpdcat(18,57)
     lpdcat_true angry "" with flash
 
 # game/script/18.rpy:629
@@ -1180,6 +1269,7 @@ translate polish s18_branch5_7dbf5495:
 
     # voice voice_file.lpdcat(18,58)
     # lpdcat_true smile "\"Liao, you don't know what you take for granted.\" "
+    voice voice_file.lpdcat(18,58)
     lpdcat_true smile ""
 
 # game/script/18.rpy:635
@@ -1189,6 +1279,7 @@ translate polish s18_branch5_44e45e2d:
     # lpdcat_true laugh "\"In the world of the yaoguai... the weak are eaten by the strong. It's worse than \nnature.\" "
     # lpdcat_true laugh "\"No matter what, a yaoguai will only live to one day be eaten by another. \" "
     # lpdcat_true laugh "\"No matter where you live, you'll always be killed by someone stronger than you.\" "
+    voice voice_file.lpdcat(18,59)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:637
@@ -1196,6 +1287,7 @@ translate polish s18_branch5_4f7a5b7f:
 
     # voice voice_file.lpdcat(18,60)
     # lpdcat_true wronged "\"Cities are worse. Gods won't leave us alone, a weak yaoguai just won't survive. So I want to become strong... strong enough to live.\" "
+    voice voice_file.lpdcat(18,60)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:639
@@ -1209,6 +1301,7 @@ translate polish s18_branch5_353a167e:
 
     # voice voice_file.lpdcat(18,61)
     # lpdcat_true laugh "\"They were born that way, but look at me, I'm just some fiendish yaoguai aren't I?\" " with flash_black
+    voice voice_file.lpdcat(18,61)
     lpdcat_true laugh "" with flash_black
 
 # game/script/18.rpy:648
@@ -1216,6 +1309,7 @@ translate polish s18_branch5_5fd23dad:
 
     # voice voice_file.lpdcat(18,62)
     # lpdcat_true laugh "\"A human-eating yaoguai like me... will just be killed at the whim of some god. Some don't even need a reason to kill. This is the only way I can protect myself.\" "
+    voice voice_file.lpdcat(18,62)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:654
@@ -1223,6 +1317,7 @@ translate polish s18_branch5_ba1f5217:
 
     # voice voice_file.lpdcat(18,63)
     # lpdcat_true laugh "\"Well, that kinda makes it sound like I'm forced into it. In reality I {i}also{/i} \ love eating humans, it just {i}happens{/i} \ to be the only way I can grow stronger.\" "
+    voice voice_file.lpdcat(18,63)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:656
@@ -1237,6 +1332,7 @@ translate polish s18_branch5_931dc8eb:
     # voice voice_file.lpdcat(18,64)
     # lpdcat_true smile "\"You can't undo what is already done. Yaoguai like me are no different than wild beasts until we eat a human.\" "
     # lpdcat_true smile "\"A beast doesn't know whether it's right or wrong to eat a human. \nBy the time they know it's already too late...\" "
+    voice voice_file.lpdcat(18,64)
     lpdcat_true smile ""
 
 # game/script/18.rpy:664
@@ -1244,6 +1340,7 @@ translate polish s18_branch5_cc4600ee:
 
     # voice voice_file.lpdcat(18,65)
     # lpdcat_true laugh "\"It's just our fate.\" "
+    voice voice_file.lpdcat(18,65)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:670
@@ -1252,6 +1349,7 @@ translate polish s18_branch5_1bef3df1:
     # voice voice_file.lpdcat(18,66)
     # lpdcat_true wronged "\"It could have been different... I could have been born as some other Yaoguai... I could have even been born a human...\" "
     # lpdcat_true wronged "\"But I wasn't.\" "
+    voice voice_file.lpdcat(18,66)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:676
@@ -1259,6 +1357,7 @@ translate polish s18_branch5_e668c779:
 
     # voice voice_file.lpdcat(18,67)
     # lpdcat_true laugh "\"So I have to do what I have to do...\" "
+    voice voice_file.lpdcat(18,67)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:682
@@ -1266,6 +1365,7 @@ translate polish s18_branch5_63ccf522:
 
     # voice voice_file.lpdcat(18,68)
     # lpdcat_true happy "\"If you don't want to kill me, I guess I'll have to eat you myself.\" "
+    voice voice_file.lpdcat(18,68)
     lpdcat_true happy ""
 
 # game/script/18.rpy:686
@@ -1273,6 +1373,7 @@ translate polish s18_branch5_723d0ef2:
 
     # voice  voice_file.lpd(18,6)
     # lpd angry_1 "\"!\" "
+    voice  voice_file.lpd(18,6)
     lpd angry_1 ""
 
 # game/script/18.rpy:709
@@ -1286,6 +1387,7 @@ translate polish s18_branch5_c17283c3:
 
     # voice voice_file.tig(18,26)
     # tig frown "\"Don't be so impetuous...\" "
+    voice voice_file.tig(18,26)
     tig frown ""
 
 # game/script/18.rpy:723
@@ -1299,6 +1401,7 @@ translate polish s18_branch5_3bc0e066:
 
     # voice voice_file.tig(18,27)
     # tig frown "\"He {i}wants{/i} \ you to attack. Kulau, bear it. If you can't put up with it, then leave. I'll take care of this.\" "
+    voice voice_file.tig(18,27)
     tig frown ""
 
 # game/script/18.rpy:727
@@ -1306,6 +1409,7 @@ translate polish s18_branch5_781beaf8_3:
 
     # voice  voice_file.lpd(18,6)
     # lpd angry_1 "\"......\" "
+    voice  voice_file.lpd(18,6)
     lpd angry_1 ""
 
 # game/script/18.rpy:729
@@ -1313,6 +1417,7 @@ translate polish s18_branch5_6582d767:
 
     # voice voice_file.lpd(18,8)
     # lpd angry_1 "\"Don't hurt Liao.\" "
+    voice voice_file.lpd(18,8)
     lpd angry_1 ""
 
 # game/script/18.rpy:731
@@ -1320,6 +1425,7 @@ translate polish s18_branch5_ddb5686d:
 
     # voice voice_file.lpdcat(18,69)
     # lpdcat_true cute "\"Sorry I can't. I'm here to eat him.\" "
+    voice voice_file.lpdcat(18,69)
     lpdcat_true cute ""
 
 # game/script/18.rpy:735
@@ -1327,6 +1433,7 @@ translate polish s18_branch5_47a5496a:
 
     # voice voice_file.lpd(18,9)
     # lpd angry_1 "\"You!\" "
+    voice voice_file.lpd(18,9)
     lpd angry_1 ""
 
 # game/script/18.rpy:738
@@ -1340,6 +1447,7 @@ translate polish s18_branch5_cfba9a7b:
 
     # voice voice_file.tig(18,28)
     # tig disappointed "\"You should stay away if you cannot handle his mere words.\" "
+    voice voice_file.tig(18,28)
     tig disappointed ""
 
 # game/script/18.rpy:742
@@ -1347,6 +1455,7 @@ translate polish s18_branch5_781beaf8_4:
 
     # voice voice_file.lpd(18,6)
     # lpd angry_1 "\"......\" "
+    voice voice_file.lpd(18,6)
     lpd angry_1 ""
 
 # game/script/18.rpy:751
@@ -1354,6 +1463,7 @@ translate polish s18_branch5_b2abcaff:
 
     # voice voice_file.lpd(18,10)
     # lpd angry_1 "\"I leave.\" "
+    voice voice_file.lpd(18,10)
     lpd angry_1 ""
 
 # game/script/18.rpy:753
@@ -1367,6 +1477,7 @@ translate polish s18_branch5_af695eb3:
 
     # voice voice_file.tig(18,29)
     # tig frown "\"Fiend, you want to die, don't you? Why goad Likulau? Are you a fan of his ire?\" "
+    voice voice_file.tig(18,29)
     tig frown ""
 
 # game/script/18.rpy:761
@@ -1374,6 +1485,7 @@ translate polish s18_branch5_58adc176:
 
     # voice voice_file.lpdcat(18,70)
     # lpdcat_true laugh "\"Hard to say. Maybe I do want to die. What would you think?\" "
+    voice voice_file.lpdcat(18,70)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:763
@@ -1381,6 +1493,7 @@ translate polish s18_branch5_86f3cb28:
 
     # voice voice_file.tig(18,30)
     # tig frown "\"Don't say such things like they only matter to you. {i}Liao{/i} \ is the one who will grieve over your loss. Do you not understand that?\" "
+    voice voice_file.tig(18,30)
     tig frown ""
 
 # game/script/18.rpy:765
@@ -1388,6 +1501,7 @@ translate polish s18_branch5_b013b6fe:
 
     # voice voice_file.lpdcat(18,71)
     # lpdcat_true confused "\"What's there to be sad over? I'm his enemy, I'm the one who ate his Senpai!\" "
+    voice voice_file.lpdcat(18,71)
     lpdcat_true confused ""
 
 # game/script/18.rpy:767
@@ -1395,6 +1509,7 @@ translate polish s18_branch5_a6b7207e:
 
     # voice voice_file.tig(18,31)
     # tig disappointed "\"Sure, {i}I{/i} \ would rather kill you, but deep down Liao still cares about you, for who you are and not what you've done... he'll be sad...\" "
+    voice voice_file.tig(18,31)
     tig disappointed ""
 
 # game/script/18.rpy:769
@@ -1402,6 +1517,7 @@ translate polish s18_branch5_e2647cc0:
 
     # voice voice_file.lpdcat(18,72)
     # lpdcat_true laugh "\"Liao is too nice...\" "
+    voice voice_file.lpdcat(18,72)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:771
@@ -1409,6 +1525,7 @@ translate polish s18_branch5_66cfe53f:
 
     # voice voice_file.tig(18,32)
     # tig disappointed "\"Yes. It worries me.\" "
+    voice voice_file.tig(18,32)
     tig disappointed ""
 
 # game/script/18.rpy:773
@@ -1416,6 +1533,7 @@ translate polish s18_branch5_feeedfe4:
 
     # voice voice_file.lpdcat(18,73)
     # lpdcat_true normal "\"It just means it was easy to fool him. I have no complaints.\" "
+    voice voice_file.lpdcat(18,73)
     lpdcat_true normal ""
 
 # game/script/18.rpy:777
@@ -1423,6 +1541,7 @@ translate polish s18_branch5_23025813:
 
     # voice voice_file.tig(18,33)
     # tig lift "\"Really? I'd say you have many.\" "
+    voice voice_file.tig(18,33)
     tig lift ""
 
 # game/script/18.rpy:780
@@ -1430,6 +1549,7 @@ translate polish s18_branch5_58f5c75e:
 
     # voice voice_file.tig(18,34)
     # tig lift "\"After all, you wouldn't be here if Liao wasn't so nice.\" " with flash
+    voice voice_file.tig(18,34)
     tig lift "" with flash
 
 # game/script/18.rpy:782
@@ -1443,6 +1563,7 @@ translate polish s18_branch5_1c15a82d:
 
     # voice voice_file.lpdcat(18,74)
     # lpdcat_true laugh "\"What are you talking about? I don't get it.\" "
+    voice voice_file.lpdcat(18,74)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:786
@@ -1450,6 +1571,7 @@ translate polish s18_branch5_3457b7c3:
 
     # voice voice_file.tig(18,35)
     # tig lift "\"You really are betting on this aren't you? Just to see if Liao would kill you in person or not.\" "
+    voice voice_file.tig(18,35)
     tig lift ""
 
 # game/script/18.rpy:788
@@ -1457,6 +1579,7 @@ translate polish s18_branch5_2668631f:
 
     # voice voice_file.lpdcat(18,75)
     # lpdcat_true smile "\"It's not like Liao's the one who will kill me...\" "
+    voice voice_file.lpdcat(18,75)
     lpdcat_true smile ""
 
 # game/script/18.rpy:792
@@ -1464,6 +1587,7 @@ translate polish s18_branch5_4f4ca49f:
 
     # voice voice_file.tig(18,36)
     # tig normal "\"Neither of us would do it without Liao's consent.\" "
+    voice voice_file.tig(18,36)
     tig normal ""
 
 # game/script/18.rpy:794
@@ -1471,6 +1595,7 @@ translate polish s18_branch5_552cc3f9:
 
     # voice voice_file.lpdcat(18,76)
     # lpdcat_true laugh "\"...Hmm, does that really stop you? Oh— since you haven't attacked me that just means you've forgiven me, right?\" "
+    voice voice_file.lpdcat(18,76)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:796
@@ -1478,6 +1603,7 @@ translate polish s18_branch5_a141e414:
 
     # voice voice_file.tig(18,37)
     # tig normal "\"What? No, I could never forgive you. But that's—\" "
+    voice voice_file.tig(18,37)
     tig normal ""
 
 # game/script/18.rpy:798
@@ -1491,6 +1617,7 @@ translate polish s18_branch5_d4217a69:
 
     # voice voice_file.tig(18,38)
     # tig lift "\"...Hmm?\" "
+    voice voice_file.tig(18,38)
     tig lift ""
 
 # game/script/18.rpy:802
@@ -1518,6 +1645,7 @@ translate polish s18_branch5_d10e1f8e:
 
     # voice voice_file.lpdcat(18,77)
     # lpdcat_true wronged "\"Hmm... But what does that change?\" "
+    voice voice_file.lpdcat(18,77)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:810
@@ -1527,6 +1655,7 @@ translate polish s18_branch5_0afd7c11:
     # lpdcat_true laugh "\"I took a bet... I lost.\" "
     # lpdcat_true laugh "\"But that's ok. Dying here, because of the bet I took— At least it means something.\" "
     # lpdcat_true laugh "\"At least I won't die just because someone killed because of {i}what{/i} \ I am.\" "
+    voice voice_file.lpdcat(18,78)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:812
@@ -1534,6 +1663,7 @@ translate polish s18_branch5_2ba35a65:
 
     # voice voice_file.lpdcat(18,79)
     # lpdcat_true wronged "\"At least... I...\" "
+    voice voice_file.lpdcat(18,79)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:814
@@ -1541,6 +1671,7 @@ translate polish s18_branch5_29431b55:
 
     # voice voice_file.lpdcat(18,80)
     # lpdcat_true wronged "\"Liao, I'm sorry. It's no use, even if I said I did fall in love with you... So, I...\" "
+    voice voice_file.lpdcat(18,80)
     lpdcat_true wronged ""
 
 # game/script/18.rpy:821
@@ -1548,6 +1679,7 @@ translate polish s18_branch5_591a5960:
 
     # voice voice_file.lpdcat(18,81)
     # lpdcat_true cute "\"—should just eat you while you're caught off guard~\" "
+    voice voice_file.lpdcat(18,81)
     lpdcat_true cute ""
 
 # game/script/18.rpy:831
@@ -1561,6 +1693,7 @@ translate polish s18_branch5_c05d5f4b:
 
     # voice voice_file.lpdcat(18,82)
     # lpdcat_true cry_2 "\"Waaa!\" "
+    voice voice_file.lpdcat(18,82)
     lpdcat_true cry_2 ""
 
 # game/script/18.rpy:835
@@ -1568,6 +1701,7 @@ translate polish s18_branch5_1a481786:
 
     # voice voice_file.tig(18,39)
     # tig frown "\"Well, you've come a bit far to think you'd get away with that.\" "
+    voice voice_file.tig(18,39)
     tig frown ""
 
 # game/script/18.rpy:837
@@ -1575,6 +1709,7 @@ translate polish s18_branch5_4bd15425:
 
     # voice voice_file.tig(18,40)
     # tig normal "\"Liao, some help?\" "
+    voice voice_file.tig(18,40)
     tig normal ""
 
 # game/script/18.rpy:839
@@ -1600,6 +1735,7 @@ translate polish s18_branch5_944df12e:
 
     # voice voice_file.tig(18,41)
     # tig frown "\"But of course.\" "
+    voice voice_file.tig(18,41)
     tig frown ""
 
 # game/script/18.rpy:848
@@ -1607,6 +1743,7 @@ translate polish s18_branch5_a07628c0:
 
     # voice voice_file.lpdcat(18,83)
     # lpdcat_true panic "\"Nnngh?!\" " with flash_red
+    voice voice_file.lpdcat(18,83)
     lpdcat_true panic "" with flash_red
 
 # game/script/18.rpy:850
@@ -1638,6 +1775,7 @@ translate polish s18_branch5_643b31d6:
 
     # voice voice_file.lpdcat(18,84)
     # lpdcat_true panic "\"Wha?!\" "
+    voice voice_file.lpdcat(18,84)
     lpdcat_true panic ""
 
 # game/script/18.rpy:860
@@ -1645,6 +1783,7 @@ translate polish s18_branch5_13b09f32:
 
     # voice voice_file.lpdcat(18,85)
     # lpdcat_true panic "\"What are you saying? I'm a yaoguai!\" "
+    voice voice_file.lpdcat(18,85)
     lpdcat_true panic ""
 
 # game/script/18.rpy:862
@@ -1659,6 +1798,7 @@ translate polish s18_branch5_546fc372:
 
     # voice voice_file.lpdcat(18,86)
     # lpdcat_true not_reconcile "\"No way... You're asking me to not eat {i}that long{/i}?\" "
+    voice voice_file.lpdcat(18,86)
     lpdcat_true not_reconcile ""
 
 # game/script/18.rpy:867
@@ -1666,6 +1806,7 @@ translate polish s18_branch5_27e4de89:
 
     # voice voice_file.tig(18,42)
     # tig lift "\"I don't see what's so bad about it. It's just like going vegan.\" " with vshake
+    voice voice_file.tig(18,42)
     tig lift "" with vshake
 
 # game/script/18.rpy:870
@@ -1673,6 +1814,7 @@ translate polish s18_branch5_8fbc29d7:
 
     # voice voice_file.lpdcat(18,87)
     # lpdcat_true angry "\"If it's so easy why don't you quit eating chicken?!\" " with flash_red
+    voice voice_file.lpdcat(18,87)
     lpdcat_true angry "" with flash_red
 
 # game/script/18.rpy:872
@@ -1680,6 +1822,7 @@ translate polish s18_branch5_bd25db92:
 
     # voice voice_file.tig(18,43)
     # tig normal "\"...It's not like, {i}I'm{/i} not the one who eats {i}people{/i}.\" "
+    voice voice_file.tig(18,43)
     tig normal ""
 
 # game/script/18.rpy:874
@@ -1688,6 +1831,7 @@ translate polish s18_branch5_d52d6f91:
     # voice voice_file.lpdcat(18,88)
     # lpdcat_true not_reconcile "\"I can't do it! Even if I made that promise right now, sooner or later I would...\" "
     # lpdcat_true not_reconcile "\"Don't you understand? I'm a yaoguai! If we could change that easily we would all be gods by now!\" "
+    voice voice_file.lpdcat(18,88)
     lpdcat_true not_reconcile ""
 
 # game/script/18.rpy:876
@@ -1696,6 +1840,7 @@ translate polish s18_branch5_a9b1a93b:
     # voice voice_file.tig(18,44)
     # tig normal "\"Indeed, it is hard for a yaoguai to change for good. You're formed of negative Chi after all. \" "
     # tig normal "\"However... controlling a yaoguai is another matter entirely.\" "
+    voice voice_file.tig(18,44)
     tig normal ""
 
 # game/script/18.rpy:878
@@ -1703,6 +1848,7 @@ translate polish s18_branch5_6289f044:
 
     # voice voice_file.lpdcat(18,89)
     # lpdcat_true panic "\"Control? Don't tell me...\" "
+    voice voice_file.lpdcat(18,89)
     lpdcat_true panic ""
 
 # game/script/18.rpy:880
@@ -1710,6 +1856,7 @@ translate polish s18_branch5_537fbacd:
 
     # voice voice_file.tig(18,45)
     # tig normal "\"Liao.\" "
+    voice voice_file.tig(18,45)
     tig normal ""
 
 # game/script/18.rpy:882
@@ -1741,6 +1888,7 @@ translate polish s18_branch5_c907409d:
 
     # voice voice_file.lpdcat(18,90)
     # lpdcat_true panic "\"You... What are you doing? I'm...\" " with flash
+    voice voice_file.lpdcat(18,90)
     lpdcat_true panic "" with flash
 
 # game/script/18.rpy:898
@@ -1766,6 +1914,7 @@ translate polish s18_branch5_5c367a1a:
 
     # voice voice_file.lpdcat(18,91)
     # lpdcat_true shy_3 "\"Mmmph?!\" " with vshake
+    voice voice_file.lpdcat(18,91)
     lpdcat_true shy_3 "" with vshake
 
 # game/script/18.rpy:911
@@ -1786,6 +1935,7 @@ translate polish s18_branch5_32ab0e52:
 
     # voice voice_file.tig(18,46)
     # tig laugh_1 "*phew* \"...I suppose our misbehaving kitten needs to be taught a lesson.\" "
+    voice voice_file.tig(18,46)
     tig laugh_1 ""
 
 # game/script/18.rpy:917
@@ -1800,6 +1950,7 @@ translate polish s18_branch5_02_abbb2e70:
 
     # voice voice_file.tig(18,47)
     # tig normal "\"Nothing. All I did was gift my Chi to him, changing his composition.\" "
+    voice voice_file.tig(18,47)
     tig normal ""
 
 # game/script/18.rpy:933
@@ -1809,6 +1960,7 @@ translate polish s18_branch5_02_43f4979c:
     # tig normal "\"A true yaoguai would never behave, as such I have transformed him.\" "
     # tig normal "\"For now, he will feel weak as my Chi settles with his negative energy.\" "
     # tig normal "\"However, once he gets used to it, he will become half-god-half-yaoguai.\" "
+    voice voice_file.tig(18,48)
     tig normal ""
 
 # game/script/18.rpy:935
@@ -1817,6 +1969,7 @@ translate polish s18_branch5_02_723f5293:
     # voice voice_file.tig(18,49)
     # tig normal "\"In fact it's just as if he had eaten my spirit power...\" "
     # tig normal "\"A yaoguai becomes whatever they eat. If he eats a god he becomes one. Today I gave him half of such energy.\" "
+    voice voice_file.tig(18,49)
     tig normal ""
 
 # game/script/18.rpy:937
@@ -1831,6 +1984,7 @@ translate polish s18_branch5_02_6687fa3a:
     # voice voice_file.tig(18,50)
     # tig laugh_1 "\"Oh? Yes I will also be weak for a while. There is always faith to remedy that.\" "
     # tig laugh_1 "\"Although, if you are worried, why not bring me some more offerings?\" "
+    voice voice_file.tig(18,50)
     tig laugh_1 ""
 
 # game/script/18.rpy:941
@@ -1850,6 +2004,7 @@ translate polish s18_branch5_02_a6ed9422:
 
     # voice voice_file.tig(18,51)
     # tig normal "\"Liao, did I make you happy?\" "
+    voice voice_file.tig(18,51)
     tig normal ""
 
 # game/script/18.rpy:947
@@ -1869,6 +2024,7 @@ translate polish s18_branch5_03_ec37c4d6:
 
     # voice voice_file.lpdcat(18,92)
     # lpdcat_true cute "\"Hey, old man! You know you can't win Liao over now unless you get a body for yourself~\" "
+    voice voice_file.lpdcat(18,92)
     lpdcat_true cute ""
 
 # game/script/18.rpy:960
@@ -1876,6 +2032,7 @@ translate polish s18_branch5_03_5e582417:
 
     # voice voice_file.tig(18,52)
     # tig frown "\"I'm no yaoguai. No bloody way!\" "
+    voice voice_file.tig(18,52)
     tig frown ""
 
 # game/script/18.rpy:963
@@ -1883,6 +2040,7 @@ translate polish s18_branch5_03_1ffd3c01:
 
     # voice voice_file.lpdcat(18,93)
     # lpdcat_true cute "\"Huhuhu— Then Liao is mine~\" " with flash
+    voice voice_file.lpdcat(18,93)
     lpdcat_true cute "" with flash
 
 # game/script/18.rpy:965
@@ -1890,6 +2048,7 @@ translate polish s18_branch5_03_bc473b87:
 
     # voice voice_file.tig(18,53)
     # tig disappointed "\"That's not for you to say... Liao must make that decision himself.\" "
+    voice voice_file.tig(18,53)
     tig disappointed ""
 
 # game/script/18.rpy:967
@@ -1915,6 +2074,7 @@ translate polish s18_branch5_03_d45826ae:
 
     # voice voice_file.lpd(18,11)
     # lpd obsessed "\"No... fight?\" "
+    voice voice_file.lpd(18,11)
     lpd obsessed ""
 
 # game/script/18.rpy:984
@@ -1922,6 +2082,7 @@ translate polish s18_branch5_03_15455c80:
 
     # voice voice_file.tig(18,54)
     # tig frown "\"It's somewhat more complicated...\" "
+    voice voice_file.tig(18,54)
     tig frown ""
 
 # game/script/18.rpy:986
@@ -1929,6 +2090,7 @@ translate polish s18_branch5_03_596f59f0:
 
     # voice voice_file.lpdcat(18,94)
     # lpdcat_true serious "\"Liaaaao, don't change the subject! Come on, you're gonna be my boyfriend now, \nright?\" "
+    voice voice_file.lpdcat(18,94)
     lpdcat_true serious ""
 
 # game/script/18.rpy:988
@@ -1948,6 +2110,7 @@ translate polish s18_branch5_03_8cd0f53f:
 
     # voice voice_file.lpdcat(18,95)
     # lpdcat_true laugh "\"Hehehe— Mm-hmm— I'm gonna be {i}your{/i} \ Shu-Chi Senpai forever~\" "
+    voice voice_file.lpdcat(18,95)
     lpdcat_true laugh ""
 
 # game/script/18.rpy:999
@@ -1955,6 +2118,7 @@ translate polish s18_branch5_03_a23d1302:
 
     # voice voice_file.tig(18,55)
     # tig angry "\"What do you mean by \"your\"?\" "
+    voice voice_file.tig(18,55)
     tig angry ""
 
 # game/script/18.rpy:1010
@@ -1962,6 +2126,7 @@ translate polish s18_branch5_03_8f9cd35f:
 
     # voice voice_file.lpdcat(18,96)
     # lpdcat_true cute "\"See you soon~\" "
+    voice voice_file.lpdcat(18,96)
     lpdcat_true cute ""
 
 # game/script/18.rpy:1016
@@ -1969,6 +2134,7 @@ translate polish s18_branch5_03_09d1fe2e:
 
     # voice voice_file.tig(18,56)
     # tig angry "\"Wait! You! Come back here right now!\" "
+    voice voice_file.tig(18,56)
     tig angry ""
 
 # game/script/18.rpy:1023
@@ -1976,6 +2142,7 @@ translate polish s18_branch5_03_9f2a2665:
 
     # voice voice_file.lpd(18,12)
     # lpd obsessed "\"...Liao.\" "
+    voice voice_file.lpd(18,12)
     lpd obsessed ""
 
 # game/script/18.rpy:1027
@@ -1983,6 +2150,7 @@ translate polish s18_branch5_03_57fb2a92:
 
     # voice voice_file.lpd(18,13)
     # lpd obsessed "\"Are they... green with envy?\" " with flash
+    voice voice_file.lpd(18,13)
     lpd obsessed "" with flash
 
 # game/script/18.rpy:1030
