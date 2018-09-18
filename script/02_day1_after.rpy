@@ -311,8 +311,8 @@ translate polish day1_after_01_tig_00a50629:
 
     # b "I only took the statue with me because Dad insisted. "
     # b "How could I know there was a real god in it?! "
-    b "Zabrałem ze sobą posążek tylko dlatego, że tata na to nalegał. "
-    b "Skąd mogłem wiedzieć, że w środku znajduje się prawdziwy bóg?! "
+    b "Zabrałem ze sobą posążek tylko dlatego, bo tata na to nalegał. "
+    b "Kto by pomyślał, że w środku znajduje się prawdziwy bóg?! "
 
 # game/script/02_day1_after.rpy:155
 translate polish day1_after_01_tig_0cb82592:
@@ -418,7 +418,7 @@ translate polish day1_after_01_tig_a3b30c65:
     # voice voice_file.tig(2,5)
     # tig normal "\"Well you weren't able to touch me then. However, you're just like a childhood sweetheart to me, as such it's quite normal for me to hold you and sleep with you.\" "
     voice voice_file.tig(2,5)
-    tig normal "\"Przecież nie mogłeś mnie wtedy poczuć. Mimo to jesteś dla mnie jak ukochany z dzieciństwa i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
+    tig normal "\"Przecież nie mogłeś mnie wtedy poczuć. Mimo to, jesteś dla mnie jak ukochany z dzieciństwa i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
 
 # game/script/02_day1_after.rpy:183
 translate polish day1_after_01_tig_6c29e1ce:

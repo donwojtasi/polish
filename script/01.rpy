@@ -143,8 +143,7 @@ translate polish start_e46d3cda:
     # tig frown "\"How rude of you to ask \"what\" I am. After all, I'm a {font=tl/None/NotoSansCJKtc-Bold.otf}guardian tiger{/font} of your family.\" "
     # tig frown "\"Hmm... you don't recognise me, do you?\" "
     voice voice_file.tig(1,2)
-    tig frown "\"To niegrzeczne z twej strony pytać \"czym\" ja jestem. Jestem w końcu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Tygrysim strażnikiem{/font} twojej rodziny.\" "
-    tig frown "\"Hmm... nie poznajesz mnie, prawda?\" "
+    tig frown "\"To niegrzeczne z twej strony pytać \"czym\" ja jestem. Jestem w końcu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Tygrysim strażnikiem{/font} twojej rodziny. Hmm... nie poznajesz mnie, prawda?\" "
 
 # game/script/01.rpy:723
 translate polish start_b2de64c5:
@@ -915,7 +914,7 @@ translate polish start_f468ed00:
     # tig angry "\"Hey, you. Be sure to remember that you never even asked before giving him these powers.\" "
     # tig angry "\"Now you've barged into his house, and the first thing you've done is demand him to leave with you!\" " with hshake
     voice voice_file.tig(1,23)
-    tig angry "Hej ty. Pamiętaj, że nikt cię nigdy nie prosił o danie mu tej mocy.\" "
+    tig angry "\"Hej, ty! Pamiętaj, że nikt cię nie prosił o danie mu tej mocy.\" "
     tig angry "\"A teraz wtargnąłeś do jego domu i pierwsze co robisz to żądasz od niego, by z tobą poszedł!\" " with hshake
 
 # game/script/01.rpy:1005
@@ -924,7 +923,7 @@ translate polish start_bc757992:
     # voice voice_file.tig(1,24)
     # tig frown "\"Even for the standards of aboriginies, don't you think that's rude?\" "
     voice voice_file.tig(1,24)
-    tig frown "\"Nie wiesz, że to niegrzeczne, nawet na standardy aborygenów?\" "
+    tig frown "\"Nie wiesz, że to niegrzeczne, nawet jak na aborygena?\" "
 
 # game/script/01.rpy:1007
 translate polish start_b201ea55:
@@ -940,7 +939,7 @@ translate polish start_9e9bc7a0:
     # voice voice_file.tig(1,25)
     # tig angry "\"Where's this spirit you speak of? I'm a genuine god!\" "
     voice voice_file.tig(1,25)
-    tig angry "\"Gdzie ten duch, o którym mówisz? Jestem prawdziwym bogiem!\" "
+    tig angry "\"Gdzie jest ten duch, o którym mówisz? Ja jestem prawdziwym bogiem!\" "
 
 # game/script/01.rpy:1016
 translate polish start_c237ee64:
@@ -1662,15 +1661,15 @@ translate polish start_9a85909c:
 translate polish start_a9174bf8:
 
     # avt "\"I don't want to go to Miaoli or Pingtung, or back home.\" "
-    avt "\"Nie chcę iść ani do Miaoli, ani do Pingtung, czy  nawet wracać do domu.\" "
+    avt "\"Nie chcę iść ani do Miaoli, ani do Pingtung, ani nawet wracać do domu.\" "
 
 # game/script/01.rpy:1370
 translate polish start_44c3fb97:
 
     # avt "\"I just want to study hard, dance, spend time with my friends, graduate, and finally get a city job.\" "
     # avt "\"I don't want to get involved with any of this, please!\" "
-    avt "\"Pragnę jedynie się ciężko się uczyć, tańczyć, spędzać czas z przyjaciółmi, ukończyć szkołę i znaleźć wreszcie pracę w mieście.\" "
-    avt "\"Proszę, nie chcę mieć z tym nic wspólnego!\" "
+    avt "\"Pragnę jedynie ciężko się uczyć, tańczyć, spędzać czas z przyjaciółmi, ukończyć szkołę i znaleźć wreszcie pracę w mieście.\" "
+    avt "\"Błagam, nie chcę mieć z tym nic wspólnego!\" "
 
 # game/script/01.rpy:1376
 translate polish start_9c46e4c9:
@@ -1870,7 +1869,7 @@ translate polish start_0b6dd27b:
     # voice voice_file.tig(1,43)
     # tig normal "\"Furthermore, I'm here, I will not let them disturb you...\" "
     voice voice_file.tig(1,43)
-    tig normal "\"Co więcej, jestem tutaj, więc nie pozwolę by ci przeszkadzali...\" "
+    tig normal "\"Co więcej, jestem tutaj i nie pozwolę by ci przeszkadzali...\" "
 
 # game/script/01.rpy:1470
 translate polish start_c833e931:
@@ -2388,7 +2387,7 @@ translate polish start_ea624081:
 translate polish start_0f8b09ec:
 
     # avt "\"Damn it, I know you're doing this on purpose Senpai!\" "
-    avt "\"Cholera, wiedziałem, że robisz to celowo Senpai!\" "
+    avt "\"Cholera. Wiedziałem, że robisz to celowo Senpai!\" "
 
 # game/script/01.rpy:1682
 translate polish start_971b57c4:
@@ -2396,7 +2395,7 @@ translate polish start_971b57c4:
     # voice voice_file.lpdcat(1,51)
     # lpdcat "\"What? Nah— I was just saying since you have to wait anyway, why don't you just think abo—\" "
     voice voice_file.lpdcat(1,51)
-    lpdcat "\"Co? Niee- Po prostu mówiłem, że skoro i tak czekasz, to czemu nie pomyślisz o...\" "
+    lpdcat "\"Co? Niee- Mówiłem tylko, że skoro i tak czekasz, to czemu nie pomyślisz o...\" "
 
 # game/script/01.rpy:1685
 translate polish start_6da501f2:
@@ -2422,7 +2421,7 @@ translate polish start_cb379000:
 translate polish start_62cf63c3:
 
     # b "What? I thought the door was locked! I hide behind it quickly, carefully taking the shorts from Leopard without exposing any of my bare skin to the three big cats in the other room." with hshake
-    b "Co? Myślałem, że drzwi są zamknięte! Szybko chowam się za nimi, ostrożnie biorąc spodnie od Pantery. Próbuję przy tym nie odsłonić nawet kawałka gołej skóry, trzem dużym kotom w pokoju obok. " with hshake
+    b "Co? Myślałem, że drzwi są zamknięte! Szybko chowam się za nimi i ostrożnie biorę spodnie od Pantery. Próbuję przy tym nie odsłonić nawet kawałka gołej skóry trzem dużym kotom w pokoju obok. " with hshake
 
 # game/script/01.rpy:1701
 translate polish start_851777ae_1:
@@ -2434,7 +2433,7 @@ translate polish start_851777ae_1:
 translate polish start_fad2f013:
 
     # b "After handing me my shorts, he leaves. I shut the door firmly behind him and slump against it, my heart pounding as I slide to the floor. "
-    b "Po tym wszystkim wychodzi bez słowa. Zamykam dokładnie drzwi i opieram się o nie. Moje serce łomocze, a ja powoli osuwam się na podłogę. "
+    b "Po przekazaniu mi spodni, wychodzi bez słowa. Szybko zamykam za nim drzwi i opieram się o nie. Moje serce łomocze, a ja zawstydzony osuwam się na podłogę. "
 
 # game/script/01.rpy:1708
 translate polish start_4fe2e827:
@@ -2442,23 +2441,23 @@ translate polish start_4fe2e827:
     # b "Didn't he just see my naked body? Who the heck would just fling open the bathroom door to pass clothes to someone inside! "
     # b "Wouldn't it render the whole \"bring me clothes\" thing pointless? "
     # b "...Seeing me didn't even faze him in the slightest. "
-    b "Nie zobaczył mnie nagiego? Kto do cholery otwiera drzwi łazienki na oścież, by podać komuś ubrania! "
-    b "Czy całe \"przynieś mi ubrania\" nie traci w tym wypadku sensu?"
-    b "Wcale nie ruszył go mój widok. "
+    b "Czy on właśnie zobaczył moje nagie ciało? Kto do cholery otwiera drzwi łazienki na oścież, by podać komuś ciuchy! "
+    b "Całe to \"przynieś mi ubrania\" traci w tym wypadku sens, prawda? "
+    b "...no i wcale nie zmieszał go mój widok. "
 
 # game/script/01.rpy:1710
 translate polish start_15737a37:
 
     # b "Is it because he's a spirit and doesn't care? Seems plausible... "
     # b "Well even if he was a bit forward about it, at least he got me out of that situation... "
-    b "Czy to dlatego, że jest duchem i nie obchodzi go to? Tak może być... "
-    b "Mimo że postąpił nierozważnie, to przynajmniej wyciągnął mnie z tej sytuacji... "
+    b "Czy to dlatego, że jest duchem i go to nie obchodzi? To możliwe... "
+    b "Przynajmniej wyciągnął mnie z opresji, mimo że postąpił trochę lekkomyślnie... "
 
 # game/script/01.rpy:1712
 translate polish start_3f273f59:
 
     # b "I look at my shorts haplessly. No shirt, but that will have to do. It's better than going out naked... I guess? "
-    b "Spoglądam niecierpliwie na spodenki. Nie ma koszulki, ale to musi mi wystarczyć.\nTo lepsze, niż wyjście stąd nago... prawda? "
+    b "Spoglądam zawiedziony na spodenki. Nie mam koszulki, ale muszą mi wystarczyć.\nTo lepsze, niż paradowanie nago... prawda? "
 
 # game/script/01.rpy:1714
 translate polish start_ff525a9f:
@@ -2478,7 +2477,7 @@ translate polish start_61e58d9d:
 translate polish start_780c5074:
 
     # b "Ignoring Senpai, I take a shirt from the closet. I usually only wear shorts in here, but naturally I couldn't do so in front of them. "
-    b "Wyjmuję z szafy koszulkę, ignorując Senpai'a. Zazwyczaj chodzę tu tylko w spodenkach, ale nie zrobię tego przy nich. "
+    b "Wyjmuję z szafy koszulkę, ignorując Senpai'a. Zazwyczaj chodzę tu tylko w spodenkach, ale przy nich nawet nie ma takiej opcji. "
 
 # game/script/01.rpy:1737
 translate polish start_1040061d:
@@ -2498,7 +2497,7 @@ translate polish start_f36a3ac3:
 translate polish start_9a28601e:
 
     # avt "\"I was already exhausted when I came back, not to mention all the trouble you three gave me. I could really use some sleep now.\" "
-    avt "\"Już gdy wróciłem byłem wykończony, a teraz jeszcze musiałem sobie z wami poradzić. Naprawdę bardzo chętnie położę się teraz spać.\" "
+    avt "\"Gdy wróciłem byłem już wykończony, nie wspominając o kłopocie jaki przysporzyła mi wasza trójka. Naprawdę, bardzo chcę się teraz położyć.\" "
 
 # game/script/01.rpy:1743
 translate polish start_844c2ca2:
@@ -2506,19 +2505,19 @@ translate polish start_844c2ca2:
     # voice voice_file.lpdcat(1,55)
     # lpdcat normal "\"Hey, but you still haven't had any food yet.\" "
     voice voice_file.lpdcat(1,55)
-    lpdcat normal "\"Hej, wciąż jeszcze nic nie jadłeś.\" "
+    lpdcat normal "\"Hej, ale nic jeszcze nie jadłeś.\" "
 
 # game/script/01.rpy:1745
 translate polish start_ab58cb1a:
 
     # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? ...That's like an indirect kiss! "
-    b "Senpai podniósł na wpół zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ... To przecież jak pośredni pocałunek! "
+    b "Senpai podniósł swoją do połowy zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ...to jak pośredni pocałunek! "
 
 # game/script/01.rpy:1747
 translate polish start_20cd605c:
 
     # avt "\"...I-I don't really care for it at the moment.\" "
-    avt "\"...n-naprawdę nie obchodzi to w tej chwili.\" "
+    avt "\"...n-naprawdę nie mam teraz ochoty.\" "
 
 # game/script/01.rpy:1749
 translate polish start_ba523aa4:
@@ -2526,7 +2525,7 @@ translate polish start_ba523aa4:
     # voice voice_file.lpdcat(1,56)
     # lpdcat cry_2 "\"Aww— But I bought it for you~\" "
     voice voice_file.lpdcat(1,56)
-    lpdcat cry_2 "\"Oooo- Kupiłem to też dla ciebie~\" "
+    lpdcat cry_2 "\"Ooooh- Ale kupiłem to dla ciebie~\" "
 
 # game/script/01.rpy:1757
 translate polish start_d0929f82:
@@ -2548,7 +2547,7 @@ translate polish start_8270b80a:
     # voice voice_file.lpdcat(1,57)
     # lpdcat cry_2 "\"Aww... I got it.\" "
     voice voice_file.lpdcat(1,57)
-    lpdcat cry_2 "Ooo... Rozumiem.\" "
+    lpdcat cry_2 "Oooh... Rozumiem.\" "
 
 # game/script/01.rpy:1768
 translate polish start_bafa61bd:
@@ -2564,15 +2563,15 @@ translate polish start_e10730f9:
     # voice voice_file.lpdcat(1,59)
     # lpdcat normal "\"Unlike them, I DO have a physical body that can't float around in the air.\" "
     voice voice_file.lpdcat(1,59)
-    lpdcat normal "\"W przeciwieństwie do nich MAM fizyczne ciało, które nie może unosić się w powietrzu.\" "
+    lpdcat normal "\"W przeciwieństwie do nich MAM fizyczne ciało, które nie potrafi unosić się w powietrzu.\" "
 
 # game/script/01.rpy:1772
 translate polish start_66488c8b:
 
     # avt "\"Uhh— Senpai... I still don't know what's going on with you.\" "
     # avt "\"Before I awakened, you were just an ordinary guy. Now, all of a sudden, you're like this...\" "
-    avt "\"Yyy- Senpai... Wciąż nie wiem, co się z tobą dzieje.\" "
-    avt "\"Przed obudzeniem moich mocy, byłeś zwyczajnym gościem. Teraz tak nagle, zmieniłeś się nie do poznania...\" "
+    avt "\"Yyy- Senpai... Tak naprawdę to wciąż nie wiem co się z tobą dzieje.\" "
+    avt "\"Przed moim przebudzeniem, byłeś zwyczajnym gościem. Tak nagle zmieniłeś się nie do poznania...\" "
 
 # game/script/01.rpy:1774
 translate polish start_c6a9b04b:
@@ -2580,7 +2579,7 @@ translate polish start_c6a9b04b:
     # voice voice_file.lpdcat(1,60)
     # lpdcat normal "\"Well as you said, it was caused by your awakening. After all, I'm just possessing Yan Shu-Chi right now.\" "
     voice voice_file.lpdcat(1,60)
-    lpdcat normal "\"Tak jak mówiłeś, to z powodu obudzenia twoich mocy. Tak naprawdę, to opętałem przecież Yan Shu-Chi.\" "
+    lpdcat normal "\"Jak mówiłeś, to z powodu twoich mocy. Ostatecznie, ja tylko opętałem Yan Shu-Chi.\" "
 
 # game/script/01.rpy:1776
 translate polish start_f7b97a5a:
@@ -2588,13 +2587,13 @@ translate polish start_f7b97a5a:
     # voice voice_file.tig(1,46)
     # tig frown "\"No wonder I found your scent strange.\" "
     voice voice_file.tig(1,46)
-    tig frown "\"Teraz już wiem, czemu twój zapach wydawał mi się dziwny.\" "
+    tig frown "\"Nic dziwnego, że twój zapach wydawał mi się dziwny.\" "
 
 # game/script/01.rpy:1778
 translate polish start_4acd34bf:
 
     # avt "\"So you're not {i}actually{/i} \ Yan Shu-Chi Senpai?\" "
-    avt "\"Więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpai?\" "
+    avt "\" A więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpai'em?\" "
 
 # game/script/01.rpy:1782
 translate polish start_4e65aa8f:
@@ -2603,8 +2602,8 @@ translate polish start_4e65aa8f:
     # lpdcat normal "\"You could say that I'm not. However, for lack of a better term, I am him in every way from his personality to his memories.\" "
     # lpdcat normal "\"There's no need to treat me any different to how you would treat him.\" "
     voice voice_file.lpdcat(1,61)
-    lpdcat normal "\"Mógłbyś powiedzieć, że nie jestem. Jednak z braku lepszego określenia, jestem nim pod każdym względem, od jego osobowości do wspomnień.\" "
-    lpdcat normal "\"Nie ma potrzeby, byś traktował mnie jakkolwiek inaczej.\" "
+    lpdcat normal "\"Można powiedzieć, że nie jestem. Jednak z braku lepszego określenia, jestem nim pod każdym względem, od osobowości do wspomnień.\" "
+    lpdcat normal "\"Nie ma powodu byś traktował mnie inaczej niż jego.\" "
 
 # game/script/01.rpy:1784
 translate polish start_718c4b6b:
@@ -2619,14 +2618,14 @@ translate polish start_b0ec67e6:
     # lpdcat normal "\"When I leave I'll return his body to him.\" "
     # lpdcat normal "\"Don't worry, I've done everything like he would have done, and at most he'll only have vague memories of what's happened.\" "
     voice voice_file.lpdcat(1,62)
-    lpdcat normal "\"Zwrócę mu to ciało, gdy odejdę.\" "
-    lpdcat normal "\"Nie martw się, postępowałem zgodnie z jego wolą, a po wszystkim będzie miał tylko mgliste wspomnienia odnośnie tego, co się stało.\" "
+    lpdcat normal "\"Zwrócę mu jego ciało, gdy odejdę.\" "
+    lpdcat normal "\"Nie martw się, postępowałem zgodnie z jego wolą, a po gdy już będzie po wszystkim zostaną mu tylko mgliste wspomnienia odnośnie tego, co się stało.\" "
 
 # game/script/01.rpy:1788
 translate polish start_12c0aef2:
 
     # avt "\"So you only give him back his body only when you want to? ...Isn't that some kind of consciousness kidnapping?\" "
-    avt "\"A więc oddasz mu jego ciało, ale tylko wtedy gdy będziesz tego chciał? ... Czy nie jest to swego rodzaju porwanie?\"  "
+    avt "\"W takim razie oddanie mu ciała zależy tylko i wyłącznie od twojej decyzji? ... Czy nie jest to swego rodzaju porwanie świadomości?\"  "
 
 # game/script/01.rpy:1792
 translate polish start_69caced6:
@@ -2668,7 +2667,7 @@ translate polish start_db9b3888:
     # voice voice_file.tig(1,47)
     # tig normal "\"That won't do. Liao and I usually sleep on the bed, and there is no way I will relinquish it to you. You are a mere kitten, there should be enough space for you to sleep in the corridor.\" "
     voice voice_file.tig(1,47)
-    tig normal "\"Nawet o tym nie myśl. Liao zazwyczaj śpi ze mną w łóżku i nie ma opcji, bym zrzekł się tego miejsca dla ciebie. Na korytarzu powinno być wystarczająco dużo miejsca dla takiego pospolitego kociaka jak ty.\" "
+    tig normal "\"To się nie uda. Zazwyczaj to ja śpię z Liao w łóżku i nie ma opcji, bym zrzekł się tego miejsca. Na korytarzu powinno być wystarczająco dużo miejsca dla takiego podrzędnego kociaka jak ty.\" "
 
 # game/script/01.rpy:1826
 translate polish start_56c75a53:
@@ -2676,7 +2675,7 @@ translate polish start_56c75a53:
     # voice voice_file.lpdcat(1,64)
     # lpdcat angry "\"Hey! What do you mean by {i}kitten!{/i}\" "
     voice voice_file.lpdcat(1,64)
-    lpdcat angry "\"Hej! Co masz na myśli nazywając mnie {i}kociakiem!\"{/i} "
+    lpdcat angry "\"Hej! Co masz na myśli przez {i}kociaka!\"{/i} "
 
 # game/script/01.rpy:1828
 translate polish start_035e0a05:
@@ -2684,7 +2683,7 @@ translate polish start_035e0a05:
     # voice voice_file.lpdcat(1,65)
     # lpdcat angry "\"And I'm the only one who has a body. It doesn't matter where you sleep. If I sleep out there I'll just catch a cold!\" "
     voice voice_file.lpdcat(1,65)
-    lpdcat angry "\"I ja jako jedyny posiadam fizyczne ciało. Dla ciebie to bez znaczenia, gdzie śpisz. Tylko się przeziębię, jeśli będę tam spał!\" "
+    lpdcat angry "\"I to ja jako jedyny posiadam fizyczne ciało. Dla ciebie nie ma znaczenia, gdzie śpisz. Tylko się przeziębię, jeśli będę tam spał!\" "
 
 # game/script/01.rpy:1833
 translate polish start_f8ebc7b5:
@@ -2700,13 +2699,13 @@ translate polish start_9a52c6b9:
     # voice voice_file.lpdcat(1,66)
     # lpdcat cry_2 "\"Aww— Liao... won't you stand up for me, pleaaaase~\" "
     voice voice_file.lpdcat(1,66)
-    lpdcat cry_2 "\"Oooo- Liao... Obstań za mną, prooooszę~\" "
+    lpdcat cry_2 "\"Ooooch- Liao... Obstań za mną, prooooszę~\" "
 
 # game/script/01.rpy:1843
 translate polish start_3b23b615_2:
 
     # avt  "\"Uh...\" "
-    avt "\"Yyy...\" "
+    avt "\"Yyyh...\" "
 
 # game/script/01.rpy:1845
 translate polish start_e2f11661:
@@ -2732,7 +2731,7 @@ translate polish start_29d4a8bf:
 translate polish start_ab94483c:
 
     # avt "\"W-{w=0.2}Wait, since when has this started?\" " with hshake
-    avt "\"Cz-{w=0.2}Czekaj, od kiedy to się zaczęło?\" " with hshake
+    avt "\"Cz-{w=0.2}Czekaj, a kiedy to się zaczęło?\" " with hshake
 
 # game/script/01.rpy:1855
 translate polish start_9912a135:
@@ -2746,7 +2745,7 @@ translate polish start_9912a135:
 translate polish start_c4309168:
 
     # b "So, even though I couldn't see it before, this whole time I've been sleeping in the same bed as a big tiger-man? Should I be happy? "
-    b "Mimo że nie mogłem tego wcześniej zobaczyć, to przez cały ten czas spałem w jednym łóżku z wielkim, człekopodobnym tygrysem? Czy powinienem się cieszyć? "
+    b "Mimo że nie mogłem tego wcześniej zobaczyć, przez cały ten czas spałem w jednym łóżku z wielkim, człekopodobnym tygrysem? Czy powinienem się cieszyć? "
 
 # game/script/01.rpy:1866
 translate polish start_fbe62fcd:
