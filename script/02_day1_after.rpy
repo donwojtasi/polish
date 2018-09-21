@@ -384,13 +384,13 @@ translate polish day1_after_01_tig_55daf759:
     # voice voice_file.tig(2,3)
     # tig normal "\"Yes. Well, gods don't exactly need to sleep.\" "
     voice voice_file.tig(2,3)
-    tig normal "\"Tak. Cóż, bogowie właściwie nie muszą spać.\" "
+    tig normal "\"Tak. Właściwie to bogowie wcale nie muszą spać.\" "
 
 # game/script/02_day1_after.rpy:175
 translate polish day1_after_01_tig_4257efe7:
 
     # avt "\"...Then why have you all been fighting over my bed?\" "
-    avt "\"To czemu wszyscy kłóciliście się o moje łóżko?\" "
+    avt "\"To czemu kłóciliście się o moje łóżko?\" "
 
 # game/script/02_day1_after.rpy:177
 translate polish day1_after_01_tig_7481c296:
@@ -401,10 +401,9 @@ translate polish day1_after_01_tig_7481c296:
     # tig normal "\"After all, theres nothing I can do while you're sleeping.\" "
     # tig normal "\"Is it surprising that a god can get bored?\" "
     voice voice_file.tig(2,4)
-    tig normal "\"Zgaduję, że kociak go chce dlatego, że ma fizyczne ciało. Za to nie mam pojęcia co do tego aborygena.\" "
-    tig normal "\"A co do mnie... Przyzwyczaiłem się do tego...\" "
-    tig normal "\"Przecież nie mam nic do roboty, gdy śpisz.\" "
-    tig normal "\"Czy to dziwne, że bóg może się nudzić?\" "
+    tig normal "\"Kociak chce go dlatego, że ma fizyczne ciało. A co do tego aborygena to nie mam pojęcia.\" "
+    tig normal "\"Jeśli o mnie chodzi... Przyzwyczaiłem się do tego...\" "
+    tig normal "\"Nie mam nic do roboty, gdy śpisz. Czy to dziwne, że bóg może się nudzić?\" "
 
 # game/script/02_day1_after.rpy:179
 translate polish day1_after_01_tig_bea55c00:
@@ -418,13 +417,13 @@ translate polish day1_after_01_tig_a3b30c65:
     # voice voice_file.tig(2,5)
     # tig normal "\"Well you weren't able to touch me then. However, you're just like a childhood sweetheart to me, as such it's quite normal for me to hold you and sleep with you.\" "
     voice voice_file.tig(2,5)
-    tig normal "\"Przecież nie mogłeś mnie wtedy poczuć. Mimo to, jesteś dla mnie jak ukochany z dzieciństwa i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
+    tig normal "\"Wtedy nie byłeś w stanie mnie dotknąć. Mimo wszystko jesteś dla mnie jak dziecięca miłość i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
 
 # game/script/02_day1_after.rpy:183
 translate polish day1_after_01_tig_6c29e1ce:
 
     # avt "\"Oh so I'm your childhood sweetheart now?\" " with hshake
-    avt "\"Och, to teraz jestem twoim ukochanym z dzieciństwa?\" " with hshake
+    avt "\"Och, to teraz jestem twoją dziecięcą miłością?\" " with hshake
 
 # game/script/02_day1_after.rpy:185
 translate polish day1_after_01_tig_b655dbd9:
@@ -432,7 +431,7 @@ translate polish day1_after_01_tig_b655dbd9:
     # voice voice_file.tig(2,6)
     # tig laugh_2 "\"Whatever you think, you are my worshipper, so it's my responsibility to protect you, just as if you were a child.\" "
     voice voice_file.tig(2,6)
-    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą, a więc moim obowiązkiem jest cię chronić jak dziecko.\" "
+    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą, a więc moim obowiązkiem jest cię chronić, tak jakbyś był małym dzieckiem.\" "
 
 # game/script/02_day1_after.rpy:187
 translate polish day1_after_01_tig_7f7ef53d:
@@ -440,13 +439,13 @@ translate polish day1_after_01_tig_7f7ef53d:
     # voice voice_file.tig(2,7)
     # tig laugh_2 "\"You've grown up next to me for years, I'm not that old after all. However you may call it, my playmate or childhood sweetheart.\" "
     voice voice_file.tig(2,7)
-    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, a bądź co bądź nie jestem taki stary. Możesz się nazywać moim kolegą lub ukochanym z dzieciństwa.\" "
+    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Możesz się nazywać moim kolegą lub dziecięcą miłością.\" "
 
 # game/script/02_day1_after.rpy:189
 translate polish day1_after_01_tig_9db82579:
 
     # avt "\"Not old at all, huh?\" "
-    avt "\"Nie jesteś tak stary, tak?\" "
+    avt "\"Nie jesteś tak stary, hę?\" "
 
 # game/script/02_day1_after.rpy:192
 translate polish day1_after_01_tig_f0cb9830:
@@ -455,14 +454,14 @@ translate polish day1_after_01_tig_f0cb9830:
     # tig normal "\"Correct, I'm just a {font=tl/None/NotoSansCJKtc-Bold.otf}Fenling{/font}, you know?\" "
     # tig normal "\"Well, precisely speaking I was born after you brought me to Taipei. I have no memories from my primal spirit.\" "
     voice voice_file.tig(2,8)
-    tig normal "\"Tak jest, jestem po prostu {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
-    tig normal "\"Cóż, mówiąc precyzyjnie, urodziłem się po tym, jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
+    tig normal "\"Tak jest, po prostu jestem {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
+    tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym, jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
 
 # game/script/02_day1_after.rpy:194
 translate polish day1_after_01_tig_22fea153:
 
     # avt "\"You can't be my childhood sweetheart if you were only born a year ago!\" "
-    avt "\"Nie możesz być moim ukochanym z dzieciństwa, jeśli urodziłeś się tylko rok temu!\" "
+    avt "\"Nie możesz być moim dziecięcą miłością, jeśli urodziłeś się tylko rok temu!\" "
 
 # game/script/02_day1_after.rpy:196
 translate polish day1_after_01_tig_82633901:
@@ -470,7 +469,7 @@ translate polish day1_after_01_tig_82633901:
     # voice voice_file.tig(2,9)
     # tig lift "\"Although, I do remember everything about your childhood. Like, the last time you wet your bed was when you...\" "
     voice voice_file.tig(2,9)
-    tig lift "\"Mimo to, pamiętam wszystko związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko, kiedy...\" "
+    tig lift "\"A jednak pamiętam wszystko co jest związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko gdy...\" "
 
 # game/script/02_day1_after.rpy:198
 translate polish day1_after_01_tig_af233900:
@@ -485,8 +484,8 @@ translate polish day1_after_01_tig_69d9fd03:
     # tig normal "\"Alright— Alright— Simply put, I know everything about you, and your family.\" "
     # tig normal "\"So, do you think I'm qualified to be your childhood sweetheart?\" "
     voice voice_file.tig(2,10)
-    tig normal "\Dobrze, już dobrze- Mówiąc krótko, wiem wszystko o tobie i twojej rodzinie.\" "
-    tig normal "\"Czy myślisz więc, że kwalifikuję się do bycia twoim ukochanym z dzieciństwa?\" "
+    tig normal "\Dobrze, już dobrze- Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
+    tig normal "\"To co myślisz? Kwalifikuję się do bycia twoją dziecięcą miłością?\" "
 
 # game/script/02_day1_after.rpy:202
 translate polish day1_after_01_tig_88d4f28e:
@@ -500,13 +499,13 @@ translate polish day1_after_01_tig_4d0817d2:
     # voice voice_file.tig(2,11)
     # tig laugh_2 "\"There is no more appropriate word to be found.\" "
     voice voice_file.tig(2,11)
-    tig laugh_2 "\"Nie ma dla tego lepszego określenia.\" "
+    tig laugh_2 "\"Nie udało mi się znaleźć nic bardziej odpowiedniego.\" "
 
 # game/script/02_day1_after.rpy:206
 translate polish day1_after_01_tig_c11fa9c6:
 
     # avt "\"You've definitely misunderstood it... Where in the world do you learn these words?\" "
-    avt "\"Na pewno coś źle zrozumiałeś... Gdzie nauczyłeś się tych słów?\" "
+    avt "\"Na pewno coś źle zrozumiałeś... Gdzieś ty się nauczył tych słów?\" "
 
 # game/script/02_day1_after.rpy:208
 translate polish day1_after_01_tig_43a107b2:

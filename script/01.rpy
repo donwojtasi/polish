@@ -4,7 +4,7 @@
 translate polish start_22088c7d:
 
     # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath... "
-    b "Wyczerpany i zdyszany, ciężkim krokiem wdrapuje się po schodach do mojego pokoju. "
+    b "Wyczerpany i zdyszany, ciężkim krokiem wdrapuje się po schodach do mojego pokoju... "
 
 # game/script/01.rpy:675
 translate polish start_962737b4:
