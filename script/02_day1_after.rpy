@@ -24,7 +24,7 @@ translate polish day1_after_01_tig_062d49d0:
 translate polish day1_after_01_tig_2d0da8a1:
 
     # avt "\"Sorry, Senpai... I'll go get you a quilt, it's the least I can do to make up for it.\" "
-    avt "\"Przepraszam Senpai... Poszukam ci jakiejś kołdry, przynajmniej tyle mogę dla ciebie zrobić.\" "
+    avt "\"Wybacz, Senpai... Poszukam ci jakiejś kołdry, tylko tyle mogę dla ciebie zrobić.\" "
 
 # game/script/02_day1_after.rpy:34
 translate polish day1_after_01_tig_db927990:
@@ -52,7 +52,7 @@ translate polish day1_after_01_tig_ca335cca:
 translate polish day1_after_01_tig_0ae6d1fe:
 
     # b "Senpai quickly rolls out the quilt on the ground. "
-    b "Senpai szybko rozkłada sobie posłanie na podłodze. "
+    b "Senpai rozkłada sobie posłanie na podłodze w mgnieniu oka. "
 
 # game/script/02_day1_after.rpy:48
 translate polish day1_after_01_tig_bb4952b2:
@@ -292,7 +292,7 @@ translate polish day1_after_01_tig_c04cbdf7:
 translate polish day1_after_01_tig_9e479889:
 
     # b "I mean how can I be sure. I'm the only person who can see or touch him... What if I pluck out some fur... {w=0.5}No, that would be incredibly disrespectful. "
-    b "W sumie, to jak mam być tego pewien. Jestem jedyną osobą, która może go zobaczyć lub dotknąć... Co jeśli wyrwę trochę futra... {w=0.5}Nie, to byłoby bardzo nie na miejscu. "
+    b "W sumie, to jak mam być tego pewien. Jestem jedyną osobą, która może go zobaczyć lub dotknąć... A gdyby tak wyrwać trochę futra... {w=0.5}Nie, to byłoby bardzo nie na miejscu. "
 
 # game/script/02_day1_after.rpy:149
 translate polish day1_after_01_tig_738d288c:
@@ -469,7 +469,7 @@ translate polish day1_after_01_tig_82633901:
     # voice voice_file.tig(2,9)
     # tig lift "\"Although, I do remember everything about your childhood. Like, the last time you wet your bed was when you...\" "
     voice voice_file.tig(2,9)
-    tig lift "\"A jednak pamiętam wszystko co jest związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko gdy...\" "
+    tig lift "\"A mimo to pamiętam wszystko co jest związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko, gdy...\" "
 
 # game/script/02_day1_after.rpy:198
 translate polish day1_after_01_tig_af233900:
@@ -505,13 +505,13 @@ translate polish day1_after_01_tig_4d0817d2:
 translate polish day1_after_01_tig_c11fa9c6:
 
     # avt "\"You've definitely misunderstood it... Where in the world do you learn these words?\" "
-    avt "\"Na pewno coś źle zrozumiałeś... Gdzieś ty się nauczył tych słów?\" "
+    avt "\"Musiałeś coś źle zrozumieć... Gdzieś ty się nauczył takich słów?\" "
 
 # game/script/02_day1_after.rpy:208
 translate polish day1_after_01_tig_43a107b2:
 
     # avt "\"Like, in stories the childhood sweethearts typically get married to each other. \nYou know that right?\" "
-    avt "\"Mam przez to na myśli, że w opowieściach ukochani z dzieciństwa zazwyczaj się pobierają. Wiesz o tym, prawda?\" "
+    avt "\"Zazwyczaj w najróżniejszych opowieściach dziecięca miłość kończy się na ślubie. Wiesz o tym, prawda?\" "
 
 # game/script/02_day1_after.rpy:210
 translate polish day1_after_01_tig_e18a4da3:
@@ -519,7 +519,7 @@ translate polish day1_after_01_tig_e18a4da3:
     # voice voice_file.tig(2,12)
     # tig normal "\"Really? I had no idea about the implications. However, if our relationship is that good it means I'll easily beat those two, or at least the kitten.\" "
     voice voice_file.tig(2,12)
-    tig normal "\"Naprawdę? Nie miałem pojęcia o konsekwencjach. Jeśli jednak nasza relacja jest tak dobra, oznacza to, że łatwo pokonam tą dwójkę, a przynajmniej kociaka.\" "
+    tig normal "\"Naprawdę? Nie miałem o tym pojęcia. Wszak, jeśli nasza relacja jest tak dobra oznacza to, że z łatwością pokonam tę dwójkę, a już na pewno tego kociaka.\" "
 
 # game/script/02_day1_after.rpy:212
 translate polish day1_after_01_tig_5b256b5e:
@@ -533,15 +533,15 @@ translate polish day1_after_01_tig_edf0f55f:
     # voice voice_file.tig(2,13)
     # tig "\"Liao, don't be distracted by those two, understood? After all, you're a son of the Lin family.\" "
     voice voice_file.tig(2,13)
-    tig "\"Liao, nie daj się omamić tej dwójce, rozumiesz? Jesteś przecież synem rodziny Lin.\" "
+    tig "\"Liao, nie daj się omamić tej dwójce, zrozumiano? Jesteś przecież synem rodziny Lin.\" "
 
 # game/script/02_day1_after.rpy:216
 translate polish day1_after_01_tig_a9d3bf50:
 
     # b "I didn't reply. I know where he's coming from, and I know if I don't get a job after I graduate I'll have to go home. "
     # b "But I don't want to think about that right now. "
-    b "Nie opowiedziałem. Wiem do czego zmierza i wiem też, że jeśli nie znajdę pracy po ukończeniu studiów, będę musiał wrócić do domu. "
-    b "Jednak nie chcę o tym teraz myśleć. "
+    b "Nie odniosłem się do tego. Wiem skąd pochodzi i wiem też, że będę musiał tam wrócić, jeśli nie znajdę pracy po ukończeniu studiów. "
+    b "Ale nie chcę o tym teraz myśleć. "
 
 # game/script/02_day1_after.rpy:218
 translate polish day1_after_01_tig_21eb6419:
@@ -561,7 +561,7 @@ translate polish day1_after_01_tig_868b21ac:
 translate polish day1_after_01_tig_5e49e626:
 
     # b "I never thought he'd ask me straight out like this. "
-    b "Nie sądziłem, że zapyta się mnie o to tak bezpośrednio. "
+    b "Nie przypuszczałem, że zapyta się mnie o to tak bezpośrednio. "
 
 # game/script/02_day1_after.rpy:224
 translate polish day1_after_01_tig_63c3331e:
@@ -570,8 +570,8 @@ translate polish day1_after_01_tig_63c3331e:
     # avt "\"Honestly... I think it's boring back home. \" "
     # avt "\"Are you going to be angry at me?\" "
     avt "\"...nie wiem.\" "
-    avt "\"Tak szczerze... Myślę, że w domu jest nudno.\" "
-    avt "\"Będziesz na mnie zły?\" "
+    avt "\"Tak szczerze... myślę, że w domu jest nudno.\" "
+    avt "\"Czy będziesz na mnie zły z tego powodu?\" "
 
 # game/script/02_day1_after.rpy:226
 translate polish day1_after_01_tig_8fcce49d:
@@ -580,8 +580,8 @@ translate polish day1_after_01_tig_8fcce49d:
     # tig "\"How could I be angry at that. \" "
     # tig "\"However, I still want you to consider going back. It's not that boring, at least it wont be now that you can see us. \" "
     voice voice_file.tig(2,15)
-    tig "\"Czemu miałbym być zły.\" "
-    tig "\"Mimo wszystko chciałbym, byś to jeszcze przemyślał. Nie jest tam aż tak nudno, a przynajmniej teraz już nie będzie, gdy możesz nas zobaczyć.\" "
+    tig "\"Czemu miałbym być zły?\" "
+    tig "\"Niemniej chciałbym, abyś przynajmniej rozważył powrót. Nie jest tam aż tak nudno, a przynajmniej teraz już nie będzie, gdy możesz nas zobaczyć.\" "
 
 # game/script/02_day1_after.rpy:228
 translate polish day1_after_01_tig_9e68c7a3:
@@ -589,7 +589,7 @@ translate polish day1_after_01_tig_9e68c7a3:
     # voice voice_file.tig(2,16)
     # tig laugh_2 "\"You could spend your whole life talking with all the other guardian tigers even.\" "
     voice voice_file.tig(2,16)
-    tig laugh_2 "\"Mógłbyś nawet spędzić całe swoje życie na rozmowach z innymi tygrysimi strażnikami.\" "
+    tig laugh_2 "\"Mógłbyś spędzić całe swoje życie na rozmowach z innymi tygrysimi strażnikami.\" "
 
 # game/script/02_day1_after.rpy:230
 translate polish day1_after_01_tig_ed874ff5:
