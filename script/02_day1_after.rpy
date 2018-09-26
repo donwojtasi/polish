@@ -615,13 +615,13 @@ translate polish day1_after_01_tig_689a9348:
     # voice voice_file.tig(2,17)
     # tig normal "\"It's all right, take your time. Theres no reason to decide right away.\" "
     voice voice_file.tig(2,17)
-    tig normal "\"Już dobrze, nie śpiesz się z tym. Nie ma powodu, by decydować o tym teraz.\" "
+    tig normal "\"Spokojnie, nie musisz się z tym śpieszyć. Nie ma potrzeby, by teraz o tym decydować.\" "
 
 # game/script/02_day1_after.rpy:238
 translate polish day1_after_01_tig_6dcb46ff:
 
     # avt "\"I'll consider it seriously.\" "
-    avt "\"Poważnie się nad tym zastanowię.\" "
+    avt "\"Na pewno nad tym pomyślę.\" "
 
 # game/script/02_day1_after.rpy:240
 translate polish day1_after_01_tig_366640ee:
@@ -629,7 +629,7 @@ translate polish day1_after_01_tig_366640ee:
     # voice voice_file.tig(2,18)
     # tig laugh_1 "\"I know you're a good boy. Don't worry, we'll take very good care of you once you get home.\" "
     voice voice_file.tig(2,18)
-    tig laugh_1 "\"Wiem, że dobry z ciebie chłopak. Nie martw się, bardzo dobrze się tobą zaopiekuję, gdy wrócisz do domu.\" "
+    tig laugh_1 "\"Wiem, że dobry z ciebie chłopiec. Nie martw się, dobrze się tobą zaopiekuję, gdy wrócisz do domu.\" "
 
 # game/script/02_day1_after.rpy:243
 translate polish day1_after_01_tig_a4d32cbd:
@@ -638,8 +638,8 @@ translate polish day1_after_01_tig_a4d32cbd:
     # tig laugh_1 "\"As you must know, there are three guardian tigers protecting your family, but really there are more than three of them.\" "
     # tig laugh_1 "\"Those three are well known because they usually show up in {font=tl/None/NotoSansCJKtc-Bold.otf}Kaidao{/font} rites.\" "
     voice voice_file.tig(2,19)
-    tig laugh_1 "\"Jak zapewne wiesz jest trzech tygrysich strażników broni twojej, ale ogólnie to jest o wiele więcej.\" "
-    tig laugh_1 "\"Ta trójka jest dobrze znana, ponieważ zazwyczaj ukazują się podczas obrzędów {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kaidao{/font}.\" "
+    tig laugh_1 "\"Jak zapewne wiesz, trzech tygrysich strażników opiekuje się twoją rodziną, ale naprawdę jest ich o wiele więcej.\" "
+    tig laugh_1 "\"Ta trójka jest dobrze znana, ponieważ na ogół biorą udział w obrzędach {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kaidao{/font}.\" "
 
 # game/script/02_day1_after.rpy:245
 translate polish day1_after_01_tig_4a6abaec:
@@ -649,31 +649,31 @@ translate polish day1_after_01_tig_4a6abaec:
     # tig laugh_1 "\"There are even other gods in the temple. Although you may only be able to see the guardian tigers.\" "
     # tig laugh_1 "\"But you'll definitely be amazed by their magnificence...\" "
     voice voice_file.tig(2,20)
-    tig laugh_1 "\"Tak naprawdę to jest nas bardzo wielu. W końcu każdy posąg skrywa w sobie ducha.\" "
-    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek możliwe, że będziesz mógł zobaczyć tylko tygrysich strażników.\" "
-    tig laugh_1 "\"Na pewno zdumnieje cię ich wspaniałość...\" "
+    tig laugh_1 "\"Doprawdy, jest nas bardzo, bardzo wielu, a to dlatego, że każdy posąg skrywa w sobie jakiegoś ducha.\" "
+    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek możliwe, że będziesz mógł zobaczyć jedynie tygrysich strażników.\" "
+    tig laugh_1 "\"Na pewno zdumnieje cię ich majestatyczność...\" "
 
 # game/script/02_day1_after.rpy:247
 translate polish day1_after_01_tig_0c43718c:
 
     # b "Tiger softly continues to tell stories about the many gods of our temple... "
     # b "His words slowly fading away as I close my eyes. "
-    b "Tygrys cichutko opowiada mi historie o wielu bogach naszej świątyni... "
-    b "Jego słowa powoli gdzieś mi umykają, gdy zamykam oczy. "
+    b "Tygrys szepcze mi historie o wielu bogach naszej świątyni... "
+    b "Jego słowa zaczynają mi gdzieś umykać, a ja powoli zamykam oczy. "
 
 # game/script/02_day1_after.rpy:249
 translate polish day1_after_01_tig_4c18bf91:
 
     # b "...The last thing I could remember was being hugged tightly by my guardian tiger. "
     # b "Immersed in his low, warm voice, as I fall sleep. "
-    b "...ostatnie co pamiętam to mocny uścisk mojego tygrysiego strażnika. "
-    b "Usypiam pogrążony w jego niskim, ciepłym głosie. "
+    b "...ostatnie co pamiętam to bycie tulonym w objęciach mojego tygrysiego strażnika. "
+    b "Wkrótce zasypiam pogrążony w jego niskim, ciepłym głosie. "
 
 # game/script/02_day1_after.rpy:264
 translate polish day1_after_01_lpd_6a59ba88:
 
     # avt "\"Well... Leopard's my guest, I can't exactly let him go without somewhere to sleep.\" "
-    avt "\"W sumie to Pantera jest moim gościem... Nie mogę pozwolić mu odejść bez miejsca do spania.\" "
+    avt "\"W sumie... To Pantera jest moim gościem... Nie mogę zostawić go bez miejsca do spania.\" "
 
 # game/script/02_day1_after.rpy:271
 translate polish day1_after_01_lpd_2a276520:
@@ -695,13 +695,13 @@ translate polish day1_after_01_lpd_aebc2e7f:
     # voice voice_file.lpdcat(2,9)
     # lpdcat cry_2 "\"Wha— Why him?! I'm also your guest you know!\" "
     voice voice_file.lpdcat(2,9)
-    lpdcat cry_2 "\"Co- Dlaczego on?! Wiesz przecież, że też jestem twoim gościem!\" "
+    lpdcat cry_2 "\"Co- Dlaczego on?! Dobrze wiesz, że też jestem twoim gościem!\" "
 
 # game/script/02_day1_after.rpy:291
 translate polish day1_after_01_lpd_56629900:
 
     # avt "\"You're not exactly my guest at this point Senpai.\" "
-    avt "\"Na ten moment to nie bardzo, Senpai.\" "
+    avt "\"No nie do końca tak to bym ujął, Senpai.\" "
 
 # game/script/02_day1_after.rpy:293
 translate polish day1_after_01_lpd_9953901c:
@@ -709,7 +709,7 @@ translate polish day1_after_01_lpd_9953901c:
     # voice voice_file.lpdcat(2,10)
     # lpdcat wronged "\"Why not! I came to you just like him... Right, so—\" "
     voice voice_file.lpdcat(2,10)
-    lpdcat wronged "\"Dlaczego nie! Przyszedłem do ciebie tak samo jak on... A więc-\" "
+    lpdcat wronged "\"Dlaczego nie! Przyszedłem tu do ciebie tak samo jak on... A więc-\" "
 
 # game/script/02_day1_after.rpy:298
 translate polish day1_after_01_lpd_5a700c91:
@@ -717,7 +717,7 @@ translate polish day1_after_01_lpd_5a700c91:
     # voice voice_file.lpdcat(2,11)
     # lpdcat shy_3 "\"...That means I'm more than a guest, right? Liao thinks of me as family!\" "
     voice voice_file.lpdcat(2,11)
-    lpdcat shy_3 "\"...to znaczy, że jestem dla ciebie kimś więcej, niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
+    lpdcat shy_3 "\"...czy to oznacza, że jestem dla ciebie kimś więcej, niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
 
 # game/script/02_day1_after.rpy:307
 translate polish day1_after_01_lpd_1a41e84a:
@@ -730,7 +730,7 @@ translate polish day1_after_01_lpd_a3eed574:
 
     # avt "\"But seriously, Mister Leopard here took a long trip to get here... I'd be rude not to make him comfortable.\" "
     # avt "\"Sorry Senpai.\" "
-    avt "\"Bądźmy przez chwilę poważni. Pan Pantera przebył długą drogę... Niegrzecznie byłoby odmówić mu odrobiny wygody.\" "
+    avt "\"A tak serio, Pan Pantera przebył długą drogę, by tu dotrzeć... Niegrzecznie byłoby odmówić mu odrobiny wygody.\" "
     avt "\"Wybacz Senpai.\" "
 
 # game/script/02_day1_after.rpy:311
@@ -747,7 +747,7 @@ translate polish day1_after_01_lpd_e358c755:
     # voice voice_file.lpdcat(2,13)
     # lpdcat cute "\"Anyway~ I'm happy to grovel on the floor if Liao can help me rejuvenate my temple!\" "
     voice voice_file.lpdcat(2,13)
-    lpdcat cute "\"Mniejsza~ Leżenie na podłodze mi nie straszne tak długo jak Liao pomoże ożywić moją świątynię!\" "
+    lpdcat cute "\"Mniejsza~ Mogę czołgać się po podłodze, jeśli Liao pomoże odnowić moją świątynię!\" "
 
 # game/script/02_day1_after.rpy:316
 translate polish day1_after_01_lpd_cc63ef4b:
@@ -761,13 +761,13 @@ translate polish day1_after_01_lpd_ce6de70d:
     # voice voice_file.lpdcat(2,14)
     # lpdcat cry_2 "\"Wuu— That's so mean!\" " with hshake
     voice voice_file.lpdcat(2,14)
-    lpdcat cry_2 "\"Ouu- To takie niemiłe!\" " with hshake
+    lpdcat cry_2 "\"Ouu- To było wredne!\" " with hshake
 
 # game/script/02_day1_after.rpy:320
 translate polish day1_after_01_lpd_30bed828:
 
     # avt "\"If you do this for me, I'll get you a quilt.\" "
-    avt "\"Skoro tak, to znajdę dla ciebie kołdrę.\" "
+    avt "\"Skoro tak się zachowujesz, to będę musiał znaleźć ci jakąś kołdrę.\" "
 
 # game/script/02_day1_after.rpy:322
 translate polish day1_after_01_lpd_44fefdea:
@@ -775,13 +775,13 @@ translate polish day1_after_01_lpd_44fefdea:
     # voice voice_file.lpdcat(2,15)
     # lpdcat laugh "\"How about the one on your bed?\" "
     voice voice_file.lpdcat(2,15)
-    lpdcat laugh "\"A co powiesz na tą z twojego łóżka?\" "
+    lpdcat laugh "\"Co powiesz na tę z twojego łóżka?\" "
 
 # game/script/02_day1_after.rpy:324
 translate polish day1_after_01_lpd_390a2bb1:
 
     # avt "\"...Gross. Just take it.\" "
-    avt "\"To obrzydliwe... Weź tę.\" "
+    avt "\"...fuj. Nawet nie ma opcji.\" "
 
 # game/script/02_day1_after.rpy:327
 translate polish day1_after_01_lpd_1c37c892:
@@ -789,15 +789,15 @@ translate polish day1_after_01_lpd_1c37c892:
     # b "I take a quilt out of the wardrobe and put it down on the ground for him. "
     # b "Eventually after making a fuss, Senpai gives up and starts to make his futon. "
     b "Wyjmuję zapasową pościel z szafy i kładę przed nim na ziemi. "
-    b "Wreszcie, po małym zamieszaniu, Senpai poddaje się i zaczyna przygotowywać sobie miejsce do spania. "
+    b "Wreszcie, po małym zamieszaniu, Senpai poddaje się i zaczyna szykować sobie miejsce do spania. "
 
 # game/script/02_day1_after.rpy:329
 translate polish day1_after_01_lpd_61ea426c:
 
     # b "My room isn't that big, the only free space is near the door. "
     # b "Basically, that means I'll have to step over his bed if I ever want to get out. "
-    b "Mój pokój nie zbyt duży, jedne wolne miejsce jest przy drzwiach. "
-    b "Oznacza to, że za każdym razem, gdy będę chciał wyjść, będę musiał przejść nad jego posłaniem. "
+    b "Mój pokój nie zbyt duży, a jedyny skrawek wolnej przestrzeni znajduje się przy drzwiach. "
+    b "To znaczy, że będę musiał przechodzić nad jego posłaniem za każdym razem, gdy chcę wyjść. "
 
 # game/script/02_day1_after.rpy:331
 translate polish day1_after_01_lpd_f5c01a84:
@@ -805,7 +805,7 @@ translate polish day1_after_01_lpd_f5c01a84:
     # voice voice_file.lpdcat(2,16)
     # lpdcat normal "\"Liao, if I sleep here I'll block the door.\" "
     voice voice_file.lpdcat(2,16)
-    lpdcat normal "\"Liao, będę blokował drzwi śpiąc tutaj.\" "
+    lpdcat normal "\"Liao, zablokuję przejście, jeśli będę tutaj spał.\" "
 
 # game/script/02_day1_after.rpy:333
 translate polish day1_after_01_lpd_38834154:
@@ -825,7 +825,7 @@ translate polish day1_after_01_lpd_40fcbbc4:
 translate polish day1_after_01_lpd_0e4ce0f5:
 
     # avt "\"As if I would!\" "
-    avt "\"Jakbym chciał!\" "
+    avt "\"Jakbym miał taki zamiar!\" "
 
 # game/script/02_day1_after.rpy:341
 translate polish day1_after_01_lpd_464cb1be:
@@ -833,13 +833,13 @@ translate polish day1_after_01_lpd_464cb1be:
     # voice voice_file.lpdcat(2,18)
     # lpdcat cute "\"I don't mind if you do during the day though~\" "
     voice voice_file.lpdcat(2,18)
-    lpdcat cute "\"Co innego za dnia~\" "
+    lpdcat cute "\"Za dnia to co innego~\" "
 
 # game/script/02_day1_after.rpy:343
 translate polish day1_after_01_lpd_d28def82:
 
     # avt "\"...Do I have to say it twice?\" "
-    avt "\"Czy muszę dwa razy się powtarzać?\" "
+    avt "\"Czy muszę się dwa razy powtarzać?\" "
 
 # game/script/02_day1_after.rpy:349
 translate polish day1_after_01_lpd_7e507417:
@@ -857,13 +857,13 @@ translate polish day1_after_01_lpd_851777ae:
 translate polish day1_after_01_lpd_62008062:
 
     # b "Leopard turns his head to me. I suddenly feel really embarrassed. "
-    b "Pantera odwraca się w moją stronę. Nagle zrobiło mi się trochę głupio. "
+    b "Pantera odwraca się w moją stronę. Nagle zrobiło mi się naprawdę głupio. "
 
 # game/script/02_day1_after.rpy:358
 translate polish day1_after_01_lpd_3e0f0185:
 
     # b "I did offer him the bed out of courtesy, but is he okay with it? Not to mention this is my first time sleeping with someone else... "
-    b "Z grzeczności zaoferowałem mu spanie w łóżku, ale czy to mu pasuje? Nie wspominając o tym, że po raz pierwszy nie będę spał sam... "
+    b "Zaproponowałem mu łóżko z grzeczności, ale czy to mu pasuje? Nie wspominając o tym, że po raz pierwszy nie będę spał sam... "
 
 # game/script/02_day1_after.rpy:360
 translate polish day1_after_01_lpd_17f48fa6:
@@ -876,8 +876,8 @@ translate polish day1_after_01_lpd_1c693d28:
 
     # b "He definitely doesn't feel embarrassed. It's just like when he opened the door to my bathroom. "
     # b "Maybe he doesn't feel these things because he's a god? That could be it... "
-    b "Zdecydowanie nie jest zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
-    b "Może nie czuje takich rzeczy, ponieważ jest bogiem? To może być to... "
+    b "Na pewno nie jest tym zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
+    b "Może nie czuje takich rzeczy, ponieważ jest bogiem? Kto wie... "
 
 # game/script/02_day1_after.rpy:364
 translate polish day1_after_01_lpd_cb98865d:
