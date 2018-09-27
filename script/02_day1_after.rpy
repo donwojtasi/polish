@@ -869,21 +869,21 @@ translate polish day1_after_01_lpd_3e0f0185:
 translate polish day1_after_01_lpd_17f48fa6:
 
     # b "He walks over while I'm lost in thought. He steps beside the bed, picks up the quilt, gets into my bed and curls up in a heap. "
-    b "Zamyślony, nie zauważam kiedy podchodzi do łóżka. Podnosi kołdrę, kładzie się na materacu i zwija w kłębek. "
+    b "Jestem pogrążony w myślach, gdy podchodzi bliżej. Podnosi kołdrę, wchodzi na łóżko i zwija się w kłębek. "
 
 # game/script/02_day1_after.rpy:362
 translate polish day1_after_01_lpd_1c693d28:
 
     # b "He definitely doesn't feel embarrassed. It's just like when he opened the door to my bathroom. "
     # b "Maybe he doesn't feel these things because he's a god? That could be it... "
-    b "Na pewno nie jest tym zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
+    b "I na pewno nie jest tym zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
     b "Może nie czuje takich rzeczy, ponieważ jest bogiem? Kto wie... "
 
 # game/script/02_day1_after.rpy:364
 translate polish day1_after_01_lpd_cb98865d:
 
     # b "I'm wondering if I should go turn off the light when Senpai suddenly calls out to me. "
-    b "Zastanawiam się, czy powinienem już zgasić światło, gdy nagle Senpai odzywa się do mnie. "
+    b "Zastanawiam się nad zgaszeniem światła, gdy nagle Senpai odzywa się do mnie. "
 
 # game/script/02_day1_after.rpy:377
 translate polish day1_after_01_lpd_0f91145a:
@@ -897,7 +897,7 @@ translate polish day1_after_01_lpd_0f91145a:
 translate polish day1_after_01_lpd_57cc4288:
 
     # avt "\"...Senpai, you'll gain weight if you eat too much before sleeping, you know?\" "
-    avt "\"... Czy wiesz, że możesz przytyć, jeśli będziesz jadł za dużo przed snem?\" "
+    avt "\"...Senpai, przytyjesz, jeśli będziesz się obżerał przed snem, wiesz o tym?\" "
 
 # game/script/02_day1_after.rpy:381
 translate polish day1_after_01_lpd_66641549:
@@ -905,13 +905,13 @@ translate polish day1_after_01_lpd_66641549:
     # voice voice_file.lpdcat(2,20)
     # lpdcat laugh "\"I couldn't care less, and it's not like you're fat. So why not?\" "
     voice voice_file.lpdcat(2,20)
-    lpdcat laugh "\"Nic mnie to nie obchodzi, a poza tym nie jesteś przecież gruby. Więc dlaczego nie?\" "
+    lpdcat laugh "\"Mnie to nie rusza, a poza tym nie jesteś przecież gruby. Czemu nie zjesz ze mną?\" "
 
 # game/script/02_day1_after.rpy:383
 translate polish day1_after_01_lpd_ea774fc5:
 
     # avt "\"I just want to sleep... Do I look like I have the energy to eat?\" "
-    avt "\"Chcę już spać... Czy wyglądam jakbym miał jeszcze siłę na jedzenie?\" "
+    avt "\"Po prostu chcę już spać... Czy wyglądam jakbym miał ochotę na jedzenie?\" "
 
 # game/script/02_day1_after.rpy:387
 translate polish day1_after_01_lpd_26f82385:
@@ -919,7 +919,7 @@ translate polish day1_after_01_lpd_26f82385:
     # voice voice_file.lpdcat(2,21)
     # lpdcat panic "\"Waaa— But I bought it for you!\" "
     voice voice_file.lpdcat(2,21)
-    lpdcat panic "\"Cooo- Kupiłem to specjalnie dla ciebie!\" "
+    lpdcat panic "\"Cooo- Ale kupiłem to specjalnie dla ciebie!\" "
 
 # game/script/02_day1_after.rpy:394
 translate polish day1_after_01_lpd_116bfca5:
@@ -935,7 +935,7 @@ translate polish day1_after_01_lpd_d75baea7:
     # voice voice_file.lpdcat(2,22)
     # lpdcat panic "\"Hey! I didn't mean it like that...\" "
     voice voice_file.lpdcat(2,22)
-    lpdcat panic "\"Hej! Nie to miałem na myśli...\" "
+    lpdcat panic "\"Hej! Nie o to mi chodziło...\" "
 
 # game/script/02_day1_after.rpy:399
 translate polish day1_after_01_lpd_1c020f89:
@@ -943,7 +943,7 @@ translate polish day1_after_01_lpd_1c020f89:
     # voice voice_file.tig(2,23)
     # tig normal "\"No more! Liao needs some rest. If you stop him from sleeping anymore I'll kick you out. Do you understand? \" " with hshake
     voice voice_file.tig(2,23)
-    tig normal "\"Wystarczy! Liao musi odpocząć. Jeśli dalej będziesz mu przeszkadzał to cię z tą wyrzucę. Zrozumiano?\" " with hshake
+    tig normal "\"Wystarczy! Liao musi odpocząć. Jeśli dalej będziesz mu przeszkadzał, wyrzucę cię stąd. Zrozumiano?\" " with hshake
 
 # game/script/02_day1_after.rpy:401
 translate polish day1_after_01_lpd_7f3c7727:
@@ -951,19 +951,19 @@ translate polish day1_after_01_lpd_7f3c7727:
     # voice voice_file.lpdcat(2,23)
     # lpdcat wronged "\"...Okay.\" "
     voice voice_file.lpdcat(2,23)
-    lpdcat wronged "\"Tak...\" "
+    lpdcat wronged "\"...tak.\" "
 
 # game/script/02_day1_after.rpy:410
 translate polish day1_after_01_lpd_e51dcfe6:
 
     # b "Tiger seems like he's in a bad mood. Guess he's grumpy over not getting the bed. It's not like a guardian tiger like him needs it to sleep... "
-    b "Zdaje się, że Tygrys jest w złym humorze. Pewnie zrzędzi, bo nie dostał łóżka. Tygrysi strażnik taki jak on i tak nie potrzebuje go do snu... "
+    b "Zdaje się, że Tygrys jest w złym humorze. Pewnie jest nadąsany, bo nie dostał łóżka. Tygrysi strażnik taki przecież nie potrzebuje go do snu... "
 
 # game/script/02_day1_after.rpy:412
 translate polish day1_after_01_lpd_a5df2795:
 
     # b "I still feel a little guilty as I turn out the lights. Lying myself down onto the bed. "
-    b "Nadal czuję się trochę winny, gdy gaszę światło oraz kładę się wreszcie do łóżka. "
+    b "Nadal czuję się trochę winny, gdy gaszę światło i kładę się wreszcie do łóżka. "
 
 # game/script/02_day1_after.rpy:419
 translate polish day1_after_01_lpd_acdbc99f:
@@ -976,8 +976,8 @@ translate polish day1_after_01_lpd_f32aad70:
 
     # b "We're so close, I can even feel his body temperature... Why does a god give off heat? His body isn't real, right? "
     # b "Could it just be some kind of illusion? Like can I touch him? "
-    b "Leży tak blisko mnie, mogę nawet poczuć temperaturę jego ciała... Czemu bóg wydziela z siebie ciepło? Przecież jego ciało nie prawdziwe, racja? "
-    b "A może to jakaś iluzja? Czy mogę go dotknąć? "
+    b "Leży tak blisko mnie, mogę nawet poczuć temperaturę jego ciała... Czemu bóg wydziela z siebie ciepło? Przecież jego ciało nie prawdziwe? "
+    b "A może to jakaś iluzja? Mogę go w ogóle dotknąć? "
 
 # game/script/02_day1_after.rpy:423
 translate polish day1_after_01_lpd_cbba8706:
