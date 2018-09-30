@@ -977,25 +977,25 @@ translate polish day1_after_01_lpd_f32aad70:
     # b "We're so close, I can even feel his body temperature... Why does a god give off heat? His body isn't real, right? "
     # b "Could it just be some kind of illusion? Like can I touch him? "
     b "Leży tak blisko mnie, mogę nawet poczuć temperaturę jego ciała... Czemu bóg wydziela z siebie ciepło? Przecież jego ciało nie prawdziwe? "
-    b "A może to jakaś iluzja? Mogę go w ogóle dotknąć? "
+    b "A może to jakaś iluzja? Czy tak naprawdę mogę go dotknąć? "
 
 # game/script/02_day1_after.rpy:423
 translate polish day1_after_01_lpd_cbba8706:
 
     # b "I gently move myself, pulling up the quilt a bit. Despite my curiosity, I try to be respectful and not get to close to him. "
-    b "Delikatnie się odsuwam, ciągnąć nieco za kołdrę. Mimo mojej ciekawości, próbuję okazać mu należyty szacunek i nie zbliżać się za bardzo. "
+    b "Delikatnie się odsuwam, ciągnąc nieco za kołdrę. Mimo mojej ciekawości, próbuję okazać mu należyty szacunek i nie zbliżać się za nadto. "
 
 # game/script/02_day1_after.rpy:425
 translate polish day1_after_01_lpd_c2715b5c:
 
     # b "But how should I sleep? I mean, I usually sprawl all over the bed. But what if I kick him while sleeping... "
-    b "Jak mam teraz zasnąć? Zazwyczaj rozkładam się na całym łóżku. Co jeśli niechcący kopnę go podczas snu... "
+    b "Jak mam teraz zasnąć? Zazwyczaj rozkładam się na całym łóżku. A co jeśli kopnę go podczas snu... "
 
 # game/script/02_day1_after.rpy:428
 translate polish day1_after_01_lpd_2d5c0b0e:
 
     # b "Trying to keep my distance, I move back a bit but suddenly Leopard moves his arms to grab me tight. " with hshake
-    b "Próbując zachować dystans, odsuwam się jeszcze trochę, gdy nagle Pantera wyciąga ręce i ściska mnie mocno. " with hshake
+    b "Próbuję zachować dystans i odsuwam się jeszcze trochę, gdy nagle Pantera wyciąga ręce i mocno mnie ściska. " with hshake
 
 # game/script/02_day1_after.rpy:434
 translate polish day1_after_01_lpd_ac9f412e:
@@ -1057,13 +1057,13 @@ translate polish day1_after_01_lpd_428e399d:
 translate polish day1_after_01_lpd_d47a21bd:
 
     # b "I try to relax as well. His arms are still holding me and I don't want to risk falling by moving back again. "
-    b "Próbuję zrobić to samo. Wciąż trzyma mnie w ramionach, a ja nie chcę ryzykować, że spadnę odsuwając się ponownie. "
+    b "Próbuję zrobić to samo. Wciąż trzyma mnie w ramionach, a ja nie chcę ryzykować, że spadnę ponownie się odsuwając. "
 
 # game/script/02_day1_after.rpy:457
 translate polish day1_after_01_lpd_e12212b7:
 
     # b "So, I have no other option but to lie here in his arms, the feel of his warmth, and his heartbeat. Could this really not be an illusion after all? "
-    b "Nie mam więc innego wyboru. Leżę w jego ramionach, czując jego ciepło i bicie serca. Czy to naprawdę może nie być złudzeniem? "
+    b "No to nie mam innego wyboru. Leżąc w jego ramionach, czuję jego ciepło i bicie serca. Czy to naprawdę może nie być złudzeniem? "
 
 # game/script/02_day1_after.rpy:459
 translate polish day1_after_01_lpd_2df2df10:
@@ -1076,20 +1076,20 @@ translate polish day1_after_01_lpd_7fdc2e6e:
 
     # b "It's my first time sharing a bed with someone else... {w=0.5}although sleeping with a god sounds awesome, Leopard doesn't exactly {i}feel{/i} \ that spiritual. "
     # b "The fur on his arms feels soft and gentle, and his body radiates heat. I can even hear his soft breathing... "
-    b "Po raz pierwszy dzielę z kimś łóżko... {w=0.5}mimo że spanie z bogiem brzmi wspaniale, Pantera nie do końca {i}sprawia wrażenie{/i} \ bycia duchem. "
-    b "Futro na jego ramionach wydaje się takie miękkie i delikatne, a jego ciało promieniuje ciepłem. Mogę nawet usłyszeć jego spokojny oddech... "
+    b "Po raz pierwszy dzielę z kimś łóżko... {w=0.5}mimo że spanie z bogiem brzmi wspaniale, Pantera nie za bardzo {i}sprawia wrażenie{/i} \ niematerialnego. "
+    b "Futro na jego ramionach jest takie miękkie, a jego ciało promieniuje ciepłem. Mogę nawet usłyszeć jego spokojny oddech... "
 
 # game/script/02_day1_after.rpy:463
 translate polish day1_after_01_lpd_a15ee2ce:
 
     # b "It's too hard to ignore! "
-    b "Zbyt trudno to zignorować! "
+    b "Ciężko to zignorować! "
 
 # game/script/02_day1_after.rpy:466
 translate polish day1_after_01_lpd_c10a8195:
 
     # b "Sadly, there's no way I'll be able to sleep like this. Even though I'm really exhausted... {w=0.5}all this thinking is keeping me awake. " with hshake
-    b "Niestety nie ma opcji, bym mógł spać w ten sposób. Nawet jeśli jestem bardzo zmęczony... {w=0.5}myślenie o tym wszystkim nie pozwala mi zmrużyć oka. " with hshake
+    b "Niestety nie ma szans, bym mógł spać w ten sposób. Nawet jeśli jestem bardzo zmęczony... {w=0.5}to wszystko nie pozwala mi zmrużyć oka. " with hshake
 
 # game/script/02_day1_after.rpy:468
 translate polish day1_after_01_lpd_df833418:
@@ -1108,7 +1108,7 @@ translate polish day1_after_01_lpd_f5d7306e:
 
     # avt "\"Are you still awake? I-I'm very sorry to bother you, but can I ask a few questions...\" "
     # avt "\"Why did you come to find me?\" "
-    avt "\"Dlaczego wciąż nie śpisz? B-bardzo przepraszam że przeszkadzam, ale czy mogę zadać ci parę pytań...\" "
+    avt "\"Wciąż nie śpisz? B-bardzo przepraszam że przeszkadzam, ale czy mogę zadać ci parę pytań...\" "
     avt "\"Dlaczego przybyłeś tu, by mnie odnaleźć?\" "
 
 # game/script/02_day1_after.rpy:474

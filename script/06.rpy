@@ -4,7 +4,7 @@
 translate polish s06_686be3a3:
 
     # b "Since speaking with Randolph, I've been thinking over what he said... about trying to find some other solution with the cats. "
-    b ""
+    b "Po rozmowie z Randolfem, zastanawiałem się nad tym co powiedział... o próbie znalezienia innego wyjścia z . "
 
 # game/script/06.rpy:14
 translate polish s06_2d1ad297:
