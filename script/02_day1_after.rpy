@@ -1137,7 +1137,7 @@ translate polish day1_after_01_lpd_6e563d0c:
 translate polish day1_after_01_lpd_a219a0b2:
 
     # avt "\"But I thought you saw me at the show? Why didn't you talk to me until I got home?\" "
-    avt "\"Myślałem, że zobaczyłeś mnie na występie? Dlaczego nie zagadałeś do mnie w drodze to domu?\" "
+    avt "\"Ale ja myślałem, że zobaczyłeś mnie na występie? Dlaczego nie zagadałeś do mnie w drodze to domu?\" "
 
 # game/script/02_day1_after.rpy:482
 translate polish day1_after_01_lpd_5031c723:
@@ -1145,19 +1145,19 @@ translate polish day1_after_01_lpd_5031c723:
     # voice voice_file.lpd(2,3)
     # lpd "\"Spirits... went home. I... sent spirits home.\" "
     voice voice_file.lpd(2,3)
-    lpd "\"Duchy... poszły do domu. Ja... wysłałem je do domu.\" "
+    lpd "\"Duchy... odeszły do domu. Ja... wysłałem je do domu.\" "
 
 # game/script/02_day1_after.rpy:484
 translate polish day1_after_01_lpd_307d5782:
 
     # avt "\"Sent spirits home? You mean you went to Pingtung and came back?\" "
-    avt "\"Wysłałeś je do domu? Masz na myśli, że udałeś się do Pingtung i wróciłeś tu z powrotem?\" "
+    avt "\"Wysłałeś je do domu? Mówisz, że udałeś się do Pingtung i z powrotem?\" "
 
 # game/script/02_day1_after.rpy:486
 translate polish day1_after_01_lpd_746b2666:
 
     # b "Again he moves slightly, I guess that's a yes. "
-    b "Znowu porusza się nieznacznie. Myślę, że na znak potwierdzenia. "
+    b "Znowu porusza się nieznacznie. Myślę, że na tak. "
 
 # game/script/02_day1_after.rpy:488
 translate polish day1_after_01_lpd_fa02fa7f:
