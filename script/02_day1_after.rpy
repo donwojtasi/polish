@@ -1157,7 +1157,7 @@ translate polish day1_after_01_lpd_307d5782:
 translate polish day1_after_01_lpd_746b2666:
 
     # b "Again he moves slightly, I guess that's a yes. "
-    b "Znowu porusza się nieznacznie. Myślę, że na tak. "
+    b "Znowu porusza się nieznacznie. Chyba oznacza to tak. "
 
 # game/script/02_day1_after.rpy:488
 translate polish day1_after_01_lpd_fa02fa7f:
@@ -1183,7 +1183,7 @@ translate polish day1_after_01_lpd_4ba1b4c2:
 translate polish day1_after_01_lpd_264d2511:
 
     # avt "\"So... am I able to use these spirit paths?\" "
-    avt "\"A więc... Czy mogę używać tych duchowych ścieżek?\" "
+    avt "\"To... Mogę używać tych duchowych ścieżek?\" "
 
 # game/script/02_day1_after.rpy:498
 translate polish day1_after_01_lpd_509c0bd0:
@@ -1198,14 +1198,14 @@ translate polish day1_after_01_lpd_ad39ff8c:
 
     # b "It sounds like I can use them as long as he's around. With that we'd get to Pingtung in a flash... {w=0.5}but, I still don't want to go. "
     # b "After all, getting there isn't the problem. "
-    b "Zdaje się, że mogę ich używać, tak długo jak jest przy mnie. Tym sposobem dodarlibyśmy do Pintung w mgnieniu oka... {w=0.5}wciąż jednak nie chcę tam iść. "
-    b "Dotarcie tam to przecież nie problem. "
+    b "Zdaje się, że mogę tak długo jak w pobliżu. Tym sposobem dodarlibyśmy do Pintung w mgnieniu oka... {w=0.5}ale ja wciąż nie chcę iść. "
+    b "I tak problemem nie było dotarcie tam. "
 
 # game/script/02_day1_after.rpy:502
 translate polish day1_after_01_lpd_12b3678c:
 
     # avt "\"So why do you need me? Do you need someone to... uh... be your oracle?\" "
-    avt "\"Dlaczego więc mnie potrzebujesz? Czy potrzebny ci ktoś, kto... uch... będzie twoją wyrocznią?\" "
+    avt "\"To dlaczego mnie potrzebujesz? Czy potrzebny ci ktoś, kto... uch... będzie twoją wyrocznią?\" "
 
 # game/script/02_day1_after.rpy:504
 translate polish day1_after_01_lpd_9007ec55_1:
@@ -1218,14 +1218,14 @@ translate polish day1_after_01_lpd_76103575:
 
     # b "I think it would be to hard for him to explain. "
     # b "Judging by his poor Mandarin, asking complex questions won't get me anywhere. "
-    b "Myślę, że ciężko byłoby mu to wytłumaczyć. "
+    b "Czuję, że może być mu ciężko wytłumaczyć mi to wszystko. "
     b "Sądząc po jego słabym mandaryńskim, zadawanie złożonych pytań do niczego mnie nie zaprowadzi."
 
 # game/script/02_day1_after.rpy:508
 translate polish day1_after_01_lpd_ddda5183:
 
     # avt "\"Is your village not doing well?\" "
-    avt "\"Czy twoja wioska dobrze sobie radzi?\" "
+    avt "\"Czy twoja wioska ma jakieś problemy?\" "
 
 # game/script/02_day1_after.rpy:510
 translate polish day1_after_01_lpd_9007ec55_2:
@@ -1238,7 +1238,7 @@ translate polish day1_after_01_lpd_24379374:
 
     # avt "\"Is it bad? Are the people not listening to their gods?\" "
     # avt "\"Discarding their traditions? Destroying the forest?\" "
-    avt "\"Czy jest źle? Czy ludzie nie słuchają swych bogów?\" "
+    avt "\"Dzieje się coś złego? Ludzie nie słuchają swych bogów?\" "
     avt "\"A może odrzucają tradycję? Albo niszczą las?\" "
 
 # game/script/02_day1_after.rpy:514
@@ -1251,13 +1251,13 @@ translate polish day1_after_01_lpd_58f42dd6:
 translate polish day1_after_01_lpd_f14cb706:
 
     # avt "\"Okay, I can get the picture... but what can I do? I don't think they'll trust a Han outsider...\" "
-    avt "\"Dobrze, mogę to sobie wyobrazić... ale co ja mogę zrobić? Nie wydaje mi się, że zaufają Hanowi z zewnątrz...\" "
+    avt "\"Powiedzmy, że wiem o co chodzi... ale co ja mogę zrobić? Nie wydaje mi się, by zaufali Hanowi z zewnątrz...\" "
 
 # game/script/02_day1_after.rpy:518
 translate polish day1_after_01_lpd_efdcf8e6:
 
     # b "Not to mention my family worship Mazu. "
-    b "Nie wspominając o tym, że moja rodzina oddaje cześć Mazu. "
+    b "O tym, że moja rodzina oddaje cześć Mazu, nie wspominając. "
 
 # game/script/02_day1_after.rpy:520
 translate polish day1_after_01_lpd_34ffc578:
@@ -1265,21 +1265,21 @@ translate polish day1_after_01_lpd_34ffc578:
     # voice voice_file.lpd(2,6)
     # lpd "\"There is a way... should be.\" "
     voice voice_file.lpd(2,6)
-    lpd "\"Jest jakiś sposób... musi być.\" "
+    lpd "\"Jest sposób... musi być.\" "
 
 # game/script/02_day1_after.rpy:522
 translate polish day1_after_01_lpd_d83f8914:
 
     # b "He doesn't seem very confident. "
-    b "Nie zdaje się być zbyt pewny siebie. "
+    b "Nie wygląda na zbyt pewnego siebie. "
 
 # game/script/02_day1_after.rpy:524
 translate polish day1_after_01_lpd_3ced4ef8:
 
     # avt "\"That doesn't mean I'm not willing to help you. Even with the Spirit Paths it's a big commitment.\" "
     # avt "\"I have my own life and I don't want to spend it in the mountains of Pingtung.\" "
-    avt "\"To nie oznacza, że nie chcę ci pomóc. Nawet z pomocą duchowych ścieżek to wielkie poświęcenie.\" "
-    avt "\"Mam swoje własne życie i nie chcę go spędzić w górach Pingtung.\" "
+    avt "\"To nie znaczy, że nie chcę ci pomóc. Pomoc ci, nawet z duchowymi ścieżkami, to wielkie poświęcenie.\" "
+    avt "\"Mam swoje własne życie i nie chcę go spędzić w górach Pingtung'a.\" "
 
 # game/script/02_day1_after.rpy:526
 translate polish day1_after_01_lpd_9007ec55_3:
@@ -1292,8 +1292,8 @@ translate polish day1_after_01_lpd_5ec230d1:
 
     # b "I feel pretty embarrassed refusing him, it's the only reason he came here after all. "
     # b "It's just that living with an aboriginal tribe isn't an option to me... "
-    b "Trochę mi głupio mu odmawiać, to przecież jedyny powód dla którego tu przyszedł. "
-    b "Po prostu życie w jakimś aborygeńskim plemieniu nie jest dla mnie... "
+    b "Trochę mi głupio mu odmawiać, to jedyny powód dla którego tu przyszedł. "
+    b "Zycie w jakimś aborygeńskim plemieniu po prostu nie jest dla mnie... "
 
 # game/script/02_day1_after.rpy:530
 translate polish day1_after_01_lpd_25173ffc:
@@ -1315,13 +1315,13 @@ translate polish day1_after_01_lpd_74451ba6:
     # voice voice_file.lpd(2,8)
     # lpd "\"Think of you. I will.\" "
     voice voice_file.lpd(2,8)
-    lpd "\"Pomyśleć o tobie. Tak zrobię.\" "
+    lpd "\"Pomyśleć o tobie. Spróbować.\" "
 
 # game/script/02_day1_after.rpy:536
 translate polish day1_after_01_lpd_e0c0a671:
 
     # avt "\"Hmm... Do you really understand what I said?\" "
-    avt "\"Hmmm... Na pewno dobrze mnie zrozumiałeś?\" "
+    avt "\"Hmmm... Czy na pewno dobrze mnie zrozumiałeś?\" "
 
 # game/script/02_day1_after.rpy:538
 translate polish day1_after_01_lpd_6256af1a:
@@ -1333,14 +1333,14 @@ translate polish day1_after_01_lpd_6256af1a:
 translate polish day1_after_01_lpd_5cd641fb:
 
     # b "He didn't reply. He's either not sure, or maybe he doesn't know how to express it. "
-    b "Nie odpowiedział. Albo nie jest tego pewien, albo nie wie jak to wyrazić. "
+    b "Nie odpowiedział. Albo nie jest co do tego pewien, albo nie potrafi się wysłowić. "
 
 # game/script/02_day1_after.rpy:542
 translate polish day1_after_01_lpd_3f5e3f0b:
 
     # b "I really don't know what he's thinking... It's probably not worth trying to ask. "
     # b "All this talking has got me feeling tired anyway.... "
-    b "Naprawdę nie wiem co on sobie myśli... Teraz raczej nie warto zawracać sobie tym głowy. "
+    b "Naprawdę nie wiem co miał na myśli... Teraz pewnie nie warto zawracać sobie tym głowy. "
     b "Ta cała rozmowa bardzo mnie zmęczyła... "
 
 # game/script/02_day1_after.rpy:544
@@ -1368,14 +1368,14 @@ translate polish day1_after_01_lpd_d894f500:
 
     # b "He said nothing more before letting me go to sleep. "
     # b "I couldn't help but think about the last expression he had on his face as I close my \neyes... "
-    b "Nie powiedział już nic więcej i pozwolił mi zasnąć. "
-    b "Zamykając oczy, nie mogłem przestać myśleć o wyrazie jego twarzy, gdy mówił te słowa... "
+    b "Nic już więcej nie powiedział pozwalając mi zasnąć. "
+    b "Nie mogłem przestać myśleć o wyrazie twarzy, który miał, gdy zamykałem oczy... "
 
 # game/script/02_day1_after.rpy:566
 translate polish day1_after_01_lpdcat_5f5b897d:
 
     # avt "\"...All right. Senpai's the only one here with a real body, and I'm not about to let him catch a cold.\" "
-    avt "\"Dobra... Senpai jako jedyny tutaj ma prawdziwe ciało i nie chcę by się przeziębił.\" "
+    avt "\"No dobra... Senpai jako jedyny ma prawdziwe ciało i nie chcę by się przeziębił.\" "
 
 # game/script/02_day1_after.rpy:573
 translate polish day1_after_01_lpdcat_74626dc6:
@@ -1383,7 +1383,7 @@ translate polish day1_after_01_lpdcat_74626dc6:
     # voice voice_file.lpdcat(2,24)
     # lpdcat happy "\"Yeah! I knew I could trust your hospitality Liao!\" " with vpunch
     voice voice_file.lpdcat(2,24)
-    lpdcat happy "\"Dokładnie! Wiedziałem, że mogę zaufać twojej gościnności Liao!\" " with vpunch
+    lpdcat happy "\"Dokładnie! Wiedziałem, że mogę wierzyć w twą gościnność Liao!\" " with vpunch
 
 # game/script/02_day1_after.rpy:575
 translate polish day1_after_01_lpdcat_74b7dc1f:
@@ -1397,13 +1397,13 @@ translate polish day1_after_01_lpdcat_ea2466e7:
     # voice voice_file.lpdcat(2,25)
     # lpdcat normal "\"But that's what you mean, right?\" "
     voice voice_file.lpdcat(2,25)
-    lpdcat normal "\"Ale to miałeś na myśli, prawda?\" "
+    lpdcat normal "\"Ale o to właśnie ci chodziło, co nie?\" "
 
 # game/script/02_day1_after.rpy:581
 translate polish day1_after_01_lpdcat_8928089d:
 
     # avt "{cps=*0.2}\"Right...\"{/cps}"
-    avt "{cps=*0.2}\"Prawda...\"{/cps}"
+    avt "{cps=*0.2}\"Tak...\"{/cps}"
 
 # game/script/02_day1_after.rpy:583
 translate polish day1_after_01_lpdcat_dcd5822b:
