@@ -1755,7 +1755,7 @@ translate polish day1_after_01_lpdcat_69c59582:
     # b "Senpai tucks himself under my bedsheets and shyly pats the mattress next to him trying to invite me. "
     # b "His face is clearly flustered as if he was thinking something lewd... "
     # b "Does he {i}really{/i} \ have to be like this? "
-    b "Senpai okrywa się kołdrą i nieśmiało klepie materac obok, chcąc mnie zaprosić. "
+    b "Senpai okrywa się kołdrą i zaprasza mnie do siebie, niespokojnie klepiąc miejsce obok. "
     b "Ma figlarny wyraz twarzy, jakby myślał o czymś sprośnym... "
     b "Czy {i}naprawdę{/i} \ musi się tak zachowywać? "
 
@@ -1763,13 +1763,13 @@ translate polish day1_after_01_lpdcat_69c59582:
 translate polish day1_after_01_lpdcat_bf4e8f1f:
 
     # b "Honestly, I think it might even be better if it was anyone other than Senpai on my bed. "
-    b "Szczerze mówiąc, to nie wiem, czy nie byłoby mi nawet lepiej z kimś innym na łóżku. "
+    b "Teraz to nie wiem, czy nie byłoby mi lepiej z kimkolwiek innym na łóżku. "
 
 # game/script/02_day1_after.rpy:756
 translate polish day1_after_01_lpdcat_19a10ab4:
 
     # avt "\"Senpai... I'm going to sleep on the floor at this rate.\" "
-    avt "\"Senpai... Skoro tak, to wolę spać sam na podłodze.\" "
+    avt "\"Senpai... W takim razie będę spał na podłodze.\" "
 
 # game/script/02_day1_after.rpy:758
 translate polish day1_after_01_lpdcat_86665f32:
@@ -1785,8 +1785,8 @@ translate polish day1_after_01_lpdcat_4923fd95:
 
     # b "Senpai looks like he's about to cry... He's not going to back down now. "
     # b "I'm not going to bother reassuring him, so I just lay down in the bed next to him and pull up the quilt. "
-    b "Senpai wygląda jakby miał się zaraz rozpłakać... Nie zamierza się teraz wycofać. "
-    b "Nie zamierzam go uspokajać, więc po prostu kładę się na łóżku obok niego i przykrywam kołdrą. "
+    b "Senpai wygląda jakby miał się zaraz rozpłakać... Teraz na pewno się nie wycofa. "
+    b "Nie chcę męczyć się z uspokajaniem go, a więc ulegam temu co mówi. "
 
 # game/script/02_day1_after.rpy:762
 translate polish day1_after_01_lpdcat_67b4684b:
@@ -1800,26 +1800,26 @@ translate polish day1_after_01_lpdcat_67b4684b:
 translate polish day1_after_01_lpdcat_2fb2567f:
 
     # b "After turning off the light, I lay myself into the bed and get cosy under the quilt. Senpai lies down next to me. "
-    b "Po zgaszeniu światła, kładę się do łóżka i wygodnie rozkładam pod kołdrą. Senpai leży tuż przy mnie. "
+    b "Po zgaszeniu światła, kładę się do łóżka i przykrywam ciepłą kołdrą. Senpai leży tuż przy mnie. "
 
 # game/script/02_day1_after.rpy:773
 translate polish day1_after_01_lpdcat_8d445410:
 
     # b "The bed isn't that large we have no choice but to have our bodies touch. Surprisingly Senpai doesn't make any moves. "
-    b "Łóżko nie jest zbyt duże, więc mimo wszystko nasze ciała się dotykają. O dziwo Senpai wcale się nie wierci. "
+    b "Łóżko nie jest zbyt duże, więc mimo wszystko nasze ciała ocierają się o siebie. O dziwo Senpai wcale się nie rusza. "
 
 # game/script/02_day1_after.rpy:775
 translate polish day1_after_01_lpdcat_642a655d:
 
     # b "Well, at least he was joking about earlier... I mean I might have been ok— "
-    b "Dobrze, że tylko sobie żartował... Nawet mi to tak nie przeszka- "
+    b "Dobrze, że tylko sobie żartował... Powinno nie być tak źle- "
 
 # game/script/02_day1_after.rpy:777
 translate polish day1_after_01_lpdcat_5a18e69a:
 
     # b "No, he's just making fun of me! Does he think acting like this will make me want to help him? "
     # b "...I wonder if he's just like this with every guy he dates. "
-    b "Nie, po prostu stroi sobie ze mnie żarty! Czy on myśli, że takim zachowaniem przekona mnie do pomocy? "
+    b "Nie, on po prostu stroi sobie ze mnie żarty! Czy on myśli, że takim zachowaniem nakłoni mnie do pomocy mu? "
     b "Ciekawe, czy traktuje tak każdego gościa z którym się spotyka... "
 
 # game/script/02_day1_after.rpy:779
@@ -1828,27 +1828,27 @@ translate polish day1_after_01_lpdcat_b9a763ee:
     # b "But really, he's pretty into this, I'm starting to think he might be serious about his request for help. "
     # b "I doubt he would be kidding around with something important to him, but... "
     # b "What should I do? I've never considered living at a countryside temple. "
-    b "Jest bardzo zdeterminowany, zaczynam pomału myśleć, że naprawdę może potrzebować mojej pomocy. "
-    b "Wątpię, że żartowałby o ważnym dla niego temacie, ale... "
-    b "Co powinienem zrobić? Nigdy nie myślałem o życiu w wiejskiej świątyni. "
+    b "Naprawdę, jest bardzo zdeterminowany. Powoli zaczynam myśleć, że poważnie potrzebna mu moja pomoc. "
+    b "Raczej nie żartowałby z tak ważnej sprawy, ale... "
+    b "Co ja powinienem zrobić? Nigdy nie myślałem o życiu w wiejskiej świątyni. "
 
 # game/script/02_day1_after.rpy:781
 translate polish day1_after_01_lpdcat_6940dd3e:
 
     # b "And what about the real Senpai? He wont be possessed forever. "
-    b "A co z prawdziwym Senpai'em? Nie będzie na zawsze opętany. "
+    b "A co z prawdziwym Senpai'em? Nie będzie opętany na zawsze. "
 
 # game/script/02_day1_after.rpy:783
 translate polish day1_after_01_lpdcat_f0111186:
 
     # b "I don't want to live in the country alone! Even if that leopard cat finds another body... wait, what about their lives? Would he always use human bodies? "
-    b "Nie chcę tam żyć sam! Nawet jeśli bengalski kotek znajdzie kolejne ciało... Chwila, a co z ich życiem? Czy zawsze będzie musiał korzystać z ludzkich ciał? "
+    b "Nie chcę tam żyć sam! Nawet jeśli bengalski kotek znajdzie kolejne ciało... Chwila, a co z życiem innych ludzi? Czy już zawsze korzystałby z ludzkich ciał? "
 
 # game/script/02_day1_after.rpy:785
 translate polish day1_after_01_lpdcat_1a0f270b:
 
     # b "Ahhh— I don't know. I keep asking myself these questions... I should probably just ask him. "
-    b "Achhh- Nic już nie wiem. Cały czas zadaję sobie te pytania... Lepiej będzie, jeśli go o to zapytam. "
+    b "Achhh- Sam już nie wiem. Przez cały czas zadaję sobie te pytania... Powinienem się go o to spytać. "
 
 # game/script/02_day1_after.rpy:787
 translate polish day1_after_01_lpdcat_60531533:
@@ -1876,7 +1876,7 @@ translate polish day1_after_01_lpdcat_f6cab1e8:
     # voice voice_file.lpdcat(2,45)
     # lpdcat difficult "\"Theres not much to say. It's just a rural village with no one around...\" "
     voice voice_file.lpdcat(2,45)
-    lpdcat difficult "\"Nie ma o czym gadać. To zwykła dziura zabita dechami...\" "
+    lpdcat difficult "\"Co tu dużo gadać. To zwykła dziura zabita dechami...\" "
 
 # game/script/02_day1_after.rpy:795
 translate polish day1_after_01_lpdcat_03caffc0:
@@ -1885,7 +1885,7 @@ translate polish day1_after_01_lpdcat_03caffc0:
     # lpdcat serious "\"I don't want to blame ourselves, but my Fudegong just really isn't that powerful. Otherwise why would he chose a small yaoguai like me to be the guardian tiger?\" "
     # lpdcat serious "\"Our temple is in disrepair, there's weeds everywhere. \nSome of them are even taller than me.\" "
     voice voice_file.lpdcat(2,46)
-    lpdcat serious "\"Nie chcę nas za to obwiniać, ale tak naprawdę mój Fudegong nie jest taki potężny. W innym wypadku, dlaczego wybrałby małego yaoguai takiego jak ja, by był tygrysim strażnikiem?\" "
+    lpdcat serious "\"Nie chcę składać winy na nas, ale tak naprawdę mój Fudegong nie jest zbyt potężny. W innym wypadku, dlaczego wybrałby małego yaoguai takiego jak ja, by był tygrysim strażnikiem?\" "
     lpdcat serious "\"Nasza świątynia popada w ruinę, chwasty rosną dosłownie wszędzie. Niektóre są nawet wyższe ode mnie.\" "
 
 # game/script/02_day1_after.rpy:797
@@ -1901,14 +1901,14 @@ translate polish day1_after_01_lpdcat_3a990038:
     # lpdcat normal "\"We just need some helping hands! You might have to do the housekeeping to start with... but if you advertise the power of our Fudegong...\" "
     # lpdcat normal "\"Making up stories, or even miracles, then visiting the locals house to house, asking if anyone needs our help.\" "
     voice voice_file.lpdcat(2,47)
-    lpdcat normal "\"Potrzebujemy tylko pomocnych dłoni! Być może będziesz musiał zacząć od sprzątania... ale jeśli dzięki tobie ludzie dowiedzą się o mocy naszego Fudegong'a...\" "
-    lpdcat normal "\"Zmyślone historie, albo nawet cuda. Potem będziemy odwiedzać ludzi po domach, pytając czy nikt nie potrzebuje naszej pomocy.\" "
+    lpdcat normal "\"Potrzebujemy tylko trochę pomocy! Być może będziesz musiał zacząć od sprzątania... ale jeśli dzięki tobie ludzie dowiedzą się o mocy naszego Fudegong'a...\" "
+    lpdcat normal "\"Zmyślanie historii, albo nawet cudów. Potem będziemy chodzić po domach, pytając czy nikt nie potrzebuje naszej pomocy.\" "
 
 # game/script/02_day1_after.rpy:801
 translate polish day1_after_01_lpdcat_41702b96:
 
     # avt "\"...Sounds like we're bilking people and making them our worshippers.\" "
-    avt "\"...brzmi jak oszukiwanie ludzi i robienie z nich naszych wyznawców.\" "
+    avt "\"...brzmi jak oszukiwanie ludzi, by zrobić z nich naszych wyznawców.\" "
 
 # game/script/02_day1_after.rpy:803
 translate polish day1_after_01_lpdcat_86691f25:
@@ -1916,13 +1916,13 @@ translate polish day1_after_01_lpdcat_86691f25:
     # voice voice_file.lpdcat(2,48)
     # lpdcat angry "\"Not at all! But how else do you gain power without getting people to believe?\" "
     voice voice_file.lpdcat(2,48)
-    lpdcat angry "\"Wcale nie! Jak niby chcesz zyskać moc, bez przekonania ludzi, by uwierzyli?\" "
+    lpdcat angry "\"To nie tak! A jak niby chcesz uzyskać moc, bez przekonania ludzi, by uwierzyli?\" "
 
 # game/script/02_day1_after.rpy:805
 translate polish day1_after_01_lpdcat_3e0469de:
 
     # avt "\"So, I just have to... make up stories and play volunteer?\" "
-    avt "\"A więc muszę tylko... opowiadać zmyślone historie i działać jak wolontariusz?\" "
+    avt "\"A więc muszę tylko... opowiadać zmyślone historie i pomagać ludziom?\" "
 
 # game/script/02_day1_after.rpy:807
 translate polish day1_after_01_lpdcat_3ebe7bde:
@@ -1950,7 +1950,7 @@ translate polish day1_after_01_lpdcat_3502255d:
 translate polish day1_after_01_lpdcat_192989b9:
 
     # avt "\"...So why am i the only one who can do that.\" "
-    avt "\"To czemu tylko ja mogę to zrobić...\" "
+    avt "\"To czemu tylko ja się do tego nadaję...\" "
 
 # game/script/02_day1_after.rpy:815
 translate polish day1_after_01_lpdcat_913751ef:
@@ -1959,14 +1959,14 @@ translate polish day1_after_01_lpdcat_913751ef:
     # lpdcat cry_2 "\"Buuuut... you're the only one who can help me. We need someone to communicate to the locals, and how can we do that without someone to speak for us!\" " with hshake
     # lpdcat cry_2 "\"We're there to help all the locals more than anything.\" "
     voice voice_file.lpdcat(2,51)
-    lpdcat cry_2 "\"Aleeee... jesteś jedyną osobą, która może mi pomóc. Potrzebujemy kogoś do komunikacji z mieszkańcami, a jak mamy to osiągnąć bez kogoś, kto może mówić w naszym imieniu!\" " with hshake
-    lpdcat cry_2 "\"Jesteśmy tam głównie po to, bym im wszystkim pomóc.\" "
+    lpdcat cry_2 "\"Boooo... tylko ty możesz mi pomóc. Potrzebujemy kogoś do komunikacji z mieszkańcami, a jak mamy to osiągnąć bez kogoś, kto może mówić w naszym imieniu!\" " with hshake
+    lpdcat cry_2 "\"Pomoc im to nasz główny cel.\" "
 
 # game/script/02_day1_after.rpy:817
 translate polish day1_after_01_lpdcat_30be6872:
 
     # avt "\"But it doesn't help me at all.\" "
-    avt "\"Ale to nie wcale mi nie pomaga.\" "
+    avt "\"Ale mi to nie wcale nie pomaga.\" "
 
 # game/script/02_day1_after.rpy:819
 translate polish day1_after_01_lpdcat_41857f75:
@@ -1974,7 +1974,7 @@ translate polish day1_after_01_lpdcat_41857f75:
     # voice voice_file.lpdcat(2,52)
     # lpdcat cute "\"Well... Why not sacrifice yourself to help people?\" "
     voice voice_file.lpdcat(2,52)
-    lpdcat cute "\"No cóż... Czemu nie poświęcisz się dla pomocy ludziom?\" "
+    lpdcat cute "\"Oj tam... Czemu nie chcesz poświęcić się pomocy ludziom?\" "
 
 # game/script/02_day1_after.rpy:821
 translate polish day1_after_01_lpdcat_0ccf79a4:
@@ -1989,7 +1989,7 @@ translate polish day1_after_01_lpdcat_16fb8881:
     # lpdcat difficult "\"Waa— I know you're not willing to do so, but it'll only take one or two years if we do a good job. We only need your power until we have enough worshippers.\" "
     # lpdcat difficult "\"Just one or two years... please?\" "
     voice voice_file.lpdcat(2,53)
-    lpdcat difficult "\"Coo- Wiem, że nie chcesz tego robić, ale to zajmie nam tylko rok, góra dwa jeśli się postaramy. Będziemy potrzebowali twojej mocy tylko do czasu, aż będziemy mieć wystarczająco wyznawców.\ "
+    lpdcat difficult "\"Coo- Wiem, że nie bardzo chcesz o zrobić, ale to zajmie nam tylko rok, góra dwa jeśli się postaramy. Potrzebujemy twojej mocy tylko do czasu, aż będziemy mieć wystarczająco wyznawców.\ "
     lpdcat difficult "\"To tylko rok, albo dwa... proszę?\" "
 
 # game/script/02_day1_after.rpy:825
@@ -2004,9 +2004,9 @@ translate polish day1_after_01_lpdcat_a9eb4661:
     # b "And on top of that I have my mandatory military service after graduation... "
     # b "It's not easy to get a dancing related job either... I still need to practice really hard to get good enough. "
     # b "I really don't have a way to spend two years as a priest... "
-    b "A do tego, po skończeniu studiów, muszą odbyć obowiązkową służbę wojskową... "
-    b "Nie jest też tak łatwo, by dostać pracę związaną z tańcem... Muszę ciężko ćwiczyć by stać się wystarczająco dobry. "
-    b "Nie ma szans, bym spędził dwa lata jako kapłan... "
+    b "Co gorsza, po skończeniu studiów, muszę odbyć obowiązkową służbę wojskową... "
+    b "Dostać pracę związaną z tańcem też nie jest łatwo... Muszę ciężko ćwiczyć by stać się wystarczająco dobry. "
+    b "Nie ma szans na to, bym spędził dwa lata jako kapłan... "
 
 # game/script/02_day1_after.rpy:829
 translate polish day1_after_01_lpdcat_70e43052:
@@ -2034,13 +2034,13 @@ translate polish day1_after_01_lpdcat_90b9081f:
     # voice voice_file.lpdcat(2,55)
     # lpdcat normal "\"Um, yeah take your time, but also remember to sleep. We both need to get some.\" "
     voice voice_file.lpdcat(2,55)
-    lpdcat normal "\"Um, dobrze, nie śpiesz się. Musisz się wysypiać. Powinniśmy już spać.\" "
+    lpdcat normal "\"Um, no dobrze, nie śpiesz się. I pamiętaj, że musisz się wysypiać. Powinniśmy już spać.\" "
 
 # game/script/02_day1_after.rpy:837
 translate polish day1_after_01_lpdcat_88001d3b:
 
     # avt "\"Says the guy who's keeping me from sleeping...\" "
-    avt "\"Mówi gość, który nie pozwala mi zasnąć...\" "
+    avt "\"I mówi ktoś, kto nie pozwala mi zasnąć...\" "
 
 # game/script/02_day1_after.rpy:839
 translate polish day1_after_01_lpdcat_14b04132:
@@ -2049,7 +2049,7 @@ translate polish day1_after_01_lpdcat_14b04132:
     # lpdcat laugh "\"Hehe— sorry about that. By the way, even though I'm here to seek your help, I'll do whatever I can to help you.\" "
     # lpdcat laugh "\"I am a god after all.\" "
     voice voice_file.lpdcat(2,56)
-    lpdcat laugh "\"Hehe- przepraszam za to. Tak w ogóle, mimo że jestem tu by prosić cię o pomoc, zrobię wszystko co w mojej mocy, by ci pomóc.\" "
+    lpdcat laugh "\"Hehe- przepraszam za to. A tak w ogóle, chociaż muszę prosić cię o pomoc, zrobię wszystko co w mojej mocy, by ci się jakoś odwdzięczyć.\" "
     lpdcat laugh "\"Jestem przecież bogiem.\" "
 
 # game/script/02_day1_after.rpy:841
@@ -2073,8 +2073,8 @@ translate polish day1_after_01_lpdcat_7abf5046:
 
     # b "Senpai gently rubs my arm, then holds the back of my head with this paw. "
     # b "Surprisingly, I don't feel awkward, even with the warmth of his body against mine. "
-    b "Senpai delikatnie ociera się o moje ramię, a następnie chwyta swą łapą za tył głowy. "
-    b "O dziwo, nie czuję się niezręcznie, czując ciepło jego ciała. "
+    b "Senpai delikatnie ociera się o moje ramię, a następnie chwyta łapą tył mojej głowy. "
+    b "O dziwo, nie czuję się niezręcznie, mimo ciepła jego ciała przy moim. "
 
 # game/script/02_day1_after.rpy:848
 translate polish day1_after_01_lpdcat_d813ebbf:
@@ -2086,4 +2086,4 @@ translate polish day1_after_01_lpdcat_d813ebbf:
 translate polish day1_after_01_lpdcat_2232e12e:
 
     # b "Tired, I close my eyes. I fall asleep soon after, felling the soft touch of his arms around my body... "
-    b "Zmęczony, zamykam oczy. Szybko zasypiam, czując jak jego ręce delikatnie dotykają mego ciała... "
+    b "Zmęczony, zamykam oczy. Szybko zasypiam, czując na swoim ciele delikatny dotyk jego ramion... "

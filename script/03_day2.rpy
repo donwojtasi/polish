@@ -10,7 +10,7 @@ translate polish day2_01_tig_a51df5ce:
 translate polish day2_01_tig_e823d87d:
 
     # b "Soooo heavy... Something is definitely pinning me down, suffocating me with its entire mass. I uselessly try to struggle against it. "
-    b "Baaaardzo ciężko... Coś zdecydowanie mnie przygniata, dusząc całą swoją masą. Bezskutecznie staram się od tego uwolnić. "
+    b "Taaaak ciężko... Coś mnie przygniata, dusząc całą swą masą. Bezskutecznie staram się od tego uwolnić. "
 
 # game/script/03_day2.rpy:12
 translate polish day2_01_tig_43214818:
@@ -18,23 +18,23 @@ translate polish day2_01_tig_43214818:
     # b "I can't even lift my arms, or move my feet. I don't bother trying to turn myself over. "
     # b "A cool breeze hits my face, but it doesn't help with the heat everywhere else. "
     # b "What's going on? I take a deep breath, and then open my eyes. "
-    b "Nie mogę nawet podnieść ręki, ani ruszyć stopą. Nawet nie próbuję się obrócić. "
-    b "Chłodny podmuch uderza w moją twarz, ale niewiele to pomaga na ciepło wszędzie indziej. "
+    b "Nawet nie mogę ruszyć ręką, ani nogą. A co dopiero się obrócić. "
+    b "Chłodny podmuch uderza w moją twarz, ale niewiele się to zdaje wobec ciepła wszędzie indziej. "
     b "Co się dzieje? Biorę głęboki oddech i otwieram oczy. "
 
 # game/script/03_day2.rpy:14
 translate polish day2_01_tig_8b8ad312:
 
     # b "In front of my face I see a large shadow. I blink hard, trying to make out it's form... A wall of muscle covered with soft, fluffy, orange fur. It looks so nice. I mean... If it's not trying to kill me. "
-    b "Widzę duży cień przed moją twarzą. Mrugam zawzięcie, próbując dostrzec jego kształt... Ściana mięśni, pokryta miękkim, puszystym, pomarańczowym futrem. Wygląda tak fajnie. To znaczy... jeśli nie próbuje mnie zabić. "
+    b "Przed moją twarzą znajduje się duży cień. Mrugam zawzięcie, próbując dostrzec jego kształt... Ściana mięśni pokryta miękkim, puszystym, pomarańczowym futrem. To wspaniały widok. O ile tylko... nie próbuje mnie zabić. "
 
 # game/script/03_day2.rpy:16
 translate polish day2_01_tig_c7ad99e2:
 
     # b "Sadly, I can't really enjoy the view while being suffocated. "
     # b "I muster the strength to move my head and tap on my guardian tiger's arm. "
-    b "Niestety nie mogę nacieszyć się tym widokiem, będąc podduszanym. "
-    b "Ostatkiem sił ruszam głową i stukam mojego tygrysiego strażnika w ramię. "
+    b "Niestety będąc duszonym, nie mogę nacieszyć się tym widokiem. "
+    b "Ostatkiem sił przesuwam głowę i stukam mojego tygrysiego strażnika w ramię. "
 
 # game/script/03_day2.rpy:18
 translate polish day2_01_tig_9682e8a9:
