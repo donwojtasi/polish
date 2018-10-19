@@ -4,43 +4,43 @@
 translate polish s06_686be3a3:
 
     # b "Since speaking with Randolph, I've been thinking over what he said... about trying to find some other solution with the cats. "
-    b "Po rozmowie z Randolfem, zastanawiałem się nad tym co powiedział... o próbie znalezienia innego wyjścia z . "
+    b "Po rozmowie z Randolfem, zastanawiałem się nad tym co powiedział... o próbie znalezienia innego wyjścia z naszych problemów. "
 
 # game/script/06.rpy:14
 translate polish s06_2d1ad297:
 
     # b "I'm worried that if I just went and asked them about it they'll just think I actually intend to help them then and there. It'd be mean to get their hopes up... "
-    b ""
+    b "Boję się, że gdybym po prostu poszedł i spytał ich o to, pomyśleliby sobie, że mam zamiar im pomóc. To nie w porządku robić im niepotrzebnie nadzieje... "
 
 # game/script/06.rpy:16
 translate polish s06_1aeb43ba:
 
     # b "But if I just keep ignoring it... wouldn't they end up pressuring me about it anyway? "
-    b ""
+    b "Jednak jeśli nadal będę to ignorował... czy i tak nie zaczną wywierać na mnie presji? "
 
 # game/script/06.rpy:18
 translate polish s06_43d140a6:
 
     # b "...I guess I've got no choice but to talk. Talk to each of them and try to understand everything. "
-    b ""
+    b "...chyba nie mam innego wyboru. Muszę porozmawiać z każdym z nich i spróbować wszystko zrozumieć. "
 
 # game/script/06.rpy:20
 translate polish s06_272f4908:
 
     # b "I just have to think of how to time it... "
-    b ""
+    b "Potrzebuję tylko odpowiedniego momentu... "
 
 # game/script/06.rpy:31
 translate polish s06_f73c6f1f:
 
     # b "It'd be easy to talk to Tiger privately at least. Since we're in the bookstore, Senpai's in class and Leopard can't read anyway so he's be off gallivanting somewhere. "
-    b ""
+    b "Przynajmniej nie będzie problemu, by porozmawiać z Tygrysem sam na sam. Gdy jesteśmy w księgarni, Senpai ma zajęcia, a Pantera i tak nie umie czytać, więc gdzieś się włóczy. "
 
 # game/script/06.rpy:33
 translate polish s06_8de25c4c:
 
     # b "...Tiger loves this place so much he'd probably live here if he could. "
-    b ""
+    b "...Tygrys tak kocha te miejsce, że najchętniej by w nim zamieszkał. "
 
 # game/script/06.rpy:37
 translate polish s06_ad6ad326:
@@ -48,25 +48,25 @@ translate polish s06_ad6ad326:
     # voice voice_file.tig(6,1)
     # tig gaze "Liao, not reading anything today? "
     voice voice_file.tig(6,1)
-    tig gaze ""
+    tig gaze "\"Liao, nic dzisiaj nie czytasz?\" "
 
 # game/script/06.rpy:39
 translate polish s06_fdec9179:
 
     # b "His voice sounds absent as he focuses on skimming the textbooks before him without looking up. It's as if he doesn't really care about how I would answer. "
-    b ""
+    b "Jego głos wydaje się nieobecny, gdy bez odrywania wzroku skupia się na przeglądaniu podręczników. Tak jakby moja odpowiedź wcale go nie obchodziła. "
 
 # game/script/06.rpy:41
 translate polish s06_d0ebcb4a:
 
     # avt "Um— Well... I just have something on my mind... "
-    avt ""
+    avt "\"Um- No cóż... Coś chodzi mi po głowie... "
 
 # game/script/06.rpy:43
 translate polish s06_e0383bb8:
 
     # b "A vague answer leaves me as I stumble my thoughts. Not that he seems too interested in listening anyway. "
-    b ""
+    b "Udzielam nieco niejasnej odpowiedzi, gubiąc się w myślach. I tak nie wydaje się by bardzo go interesowała. "
 
 # game/script/06.rpy:50
 translate polish s06_e05a28c8:
@@ -74,20 +74,21 @@ translate polish s06_e05a28c8:
     # voice voice_file.tig(6,2)
     # tig gaze "\"This one... interesting. That one... Oh, this must be new? But it doesn't look very decent...\" "
     voice voice_file.tig(6,2)
-    tig gaze ""
+    tig gaze "\"Ta... całkiem ciekawa. A tamta... Och, to musi być jakaś nowość? Ale nie wygląda na dobrą lekturę...\" "
 
 # game/script/06.rpy:52
 translate polish s06_55d0934e:
 
     # b "I've definitely never seen anyone this deeply invested in the quality of textbooks before. (He'd make a good school teacher at the very least.) "
     # b "But back to the point... "
-    b ""
+    b "Nigdy przedtem nie widziałem kogoś tak bardzo zainteresowanego jakością szkolnych podręczników. (Byłby z niego co najmniej dobry nauczyciel.) "
+    b "Wracając do tematu... "
 
 # game/script/06.rpy:54
 translate polish s06_64930abf:
 
     # avt "\"Um— Tiger, you know...\" "
-    avt ""
+    avt "\"Em- Tygrysie, wiesz co...\" "
 
 # game/script/06.rpy:58
 translate polish s06_b9da53b2:
@@ -96,13 +97,14 @@ translate polish s06_b9da53b2:
     # tig normal "\"Hmm? Oh, right, don't worry. I don't intend to buy any of them. They are far too expensive.\" "
     # tig normal "\"While it's true they contain a lot of information, they simply use too many glossy photograph pages. It just serves to drive up printing costs. Quite unnecessary. \" "
     voice voice_file.tig(6,3)
-    tig normal ""
+    tig normal "\"Hmm? Och racja, nie martw się. Nie zamierzam żadnej z nich kupować. Są o wiele za drogie.\" "
+    tig normal "\"To prawda, że zawierają dużo informacji, ale mają też za dużo błyszczących stron ze zdjęciami. Chyba tylko po to, by podnieść koszty druku. Kompletnie niepotrzebnie.\" "
 
 # game/script/06.rpy:60
 translate polish s06_34f69b40:
 
     # avt "\"Even if they were two dollars there's no way I could buy enough to keep you \nsatisfied!\" "
-    avt ""
+    avt "\"Nawet gdybym płacił dwa dolary za sztukę, nie mógłbym kupić ci wystarczająco dużo, by cię zadowolić.\" "
 
 # game/script/06.rpy:62
 translate polish s06_cea70f31:
@@ -110,13 +112,13 @@ translate polish s06_cea70f31:
     # voice voice_file.tig(6,4)
     # tig laugh_1 "\"Hahaha— Very true. I also think there must be a better way to acquire all this information.\" "
     voice voice_file.tig(6,4)
-    tig laugh_1 ""
+    tig laugh_1 "\"Hahaah- Święta prawda. Myślę też, że musi być jakiś lepszy sposób na zdobycie tych wszystkich informacji.\" "
 
 # game/script/06.rpy:64
 translate polish s06_9024528c:
 
     # avt "\"Other than reading books? Uhh, hmm... What about the internet?\" "
-    avt ""
+    avt "\"Inny niż czytanie książek? Yhh, hmm, co powiesz na internet?\" "
 
 # game/script/06.rpy:66
 translate polish s06_827570d6:
@@ -124,13 +126,13 @@ translate polish s06_827570d6:
     # voice voice_file.tig(6,5)
     # tig surprise "\"The internet? Would that contain information as detailed as these books?\" "
     voice voice_file.tig(6,5)
-    tig surprise ""
+    tig surprise "\"Internet? Czy zawierałby informacje tak samo dokładne jak te książki?\" "
 
 # game/script/06.rpy:68
 translate polish s06_7fa9ba32:
 
     # avt "\"Well, you probably won't find everything as neatly organised, but at least using the internet is free.\" "
-    avt ""
+    avt "\"No pewnie nie wszystko co znajdziesz będzie tak zgrabnie posortowane, ale przynajmniej korzystanie z internetu jest darmowe.\" "
 
 # game/script/06.rpy:70
 translate polish s06_0bf131f6:
@@ -139,20 +141,22 @@ translate polish s06_0bf131f6:
     # tig gaze "\"As far as your wallet is concerned, it's significantly better to not spend money.\" "
     # tig gaze "\"Talking about the internet... some of these books do discuss something called forums...\" "
     voice voice_file.tig(6,6)
-    tig gaze ""
+    tig gaze "\"Jeśli twój portfel na tym zyska, o wiele lepiej jest nie wydawać pieniędzy.\" "
+    tig gaze "\"Wracając do internetu... niektóre z tych książek wspominają o tak zwanych forach...\" "
 
 # game/script/06.rpy:74
 translate polish s06_72cf9889:
 
     # b "Tiger seems to be lost in thought, pondering to himself... "
     # b "Wait, I still have to talk to him! "
-    b ""
+    b "Tygrys zdaje się być pogrążony w myślach, mówiąc sam do siebie... "
+    b "Chwila, wciąż muszę z nim porozmawiać! "
 
 # game/script/06.rpy:76
 translate polish s06_828a2e9f:
 
     # avt "\"Hey, Tiger...\" "
-    avt ""
+    avt "\"Hej, Tygrysie...\" "
 
 # game/script/06.rpy:82
 translate polish s06_e47ba5d4:
@@ -160,25 +164,25 @@ translate polish s06_e47ba5d4:
     # voice voice_file.tig(6,7)
     # tig gaze "\"Hmm? What is it?\" "
     voice voice_file.tig(6,7)
-    tig gaze ""
+    tig gaze "\"Hmm? Co to jest?\" "
 
 # game/script/06.rpy:84
 translate polish s06_e893afcd:
 
     # b "He's so engrossed in his book he doesn't even look up. Come-on give me some attention already! "
-    b ""
+    b "Jest tak pogrążony w swojej książce, że nawet na mnie nie spojrzał. Ej no, okaż mi trochę uwagi! "
 
 # game/script/06.rpy:86
 translate polish s06_fdcde9b4:
 
     # avt "\"It's just that, I wanted to ask...\" "
-    avt ""
+    avt "\"Jest coś o co chciałem cię zapytać...\" "
 
 # game/script/06.rpy:90
 translate polish s06_730e4e71:
 
     # avt "\"If I don't go home, is there any other way I can help you?\" "
-    avt ""
+    avt "\"Czy jest jakiś inny sposób, w jaki mogę ci pomóc, jeśli nie wrócę do domu?\" "
 
 # game/script/06.rpy:92
 translate polish s06_320ab646:
@@ -186,13 +190,13 @@ translate polish s06_320ab646:
     # voice voice_file.tig(6,8)
     # tig surprise "\"Oh? What do you mean by that?\" "
     voice voice_file.tig(6,8)
-    tig surprise ""
+    tig surprise "\"Och? Co masz przez to na myśli?\" "
 
 # game/script/06.rpy:100
 translate polish s06_04a344a0:
 
     # b "Finally, I've got his attention. "
-    b ""
+    b "Wreszcie udało mi się zwrócić jego uwagę. "
 
 # game/script/06.rpy:102
 translate polish s06_dd1b6343:
@@ -200,13 +204,13 @@ translate polish s06_dd1b6343:
     # voice voice_file.tig(6,9)
     # tig normal "\"Help me? What would I need help with... are you trying to discuss becoming the Jitong of our temple?\" "
     voice voice_file.tig(6,9)
-    tig normal ""
+    tig normal "\"Pomóc mi? A w mógłbym potrzebować pomocy... Czy chcesz porozmawiać o zostaniu Jitong'iem w naszej świątyni?\" "
 
 # game/script/06.rpy:104
 translate polish s06_7e0455c6:
 
     # avt "\"Yes. Is there any way that I {i}don't{/i} \ have to go home and become a Jitong?\" "
-    avt ""
+    avt "\"Tak. Czy jest jakiś sposób, bym {i}nie{/i} \ musiał wracać do domu i zostać Jitong'iem?\" "
 
 # game/script/06.rpy:106
 translate polish s06_8dae540a:
@@ -216,13 +220,15 @@ translate polish s06_8dae540a:
     # tig normal "\"I am certain that both your family and the Holy Mother herself would be delighted to see you choose that path.\" "
     # tig normal "\"But I am aware of your wishes to stay in Taipei. You needn't make such decisions now. There are plenty of semesters left until your graduation after all. \" "
     voice voice_file.tig(6,10)
-    tig normal ""
+    tig normal "\"Twoja moc komunikacji z duchami jest dość niespotykana, posiadasz coś rzadkiego i bardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
+    tig normal "\"Jestem przekonany, że zarówno twoja rodzina jaki i sama Święta Matka byłaby zachwycona, gdybyś wybrał tę drogę.\" "
+    tig normal "\"Zdaję sobie sprawę z twojego pragnienia pozostania w Tajpej. Jednak nie podejmuj teraz takich decyzji. Do ukończenia studiów pozostało jeszcze wiele semestrów.\" "
 
 # game/script/06.rpy:108
 translate polish s06_1d554d77:
 
     # avt "\"I know... but what if I really do stay in Taipei and never go back home?\" "
-    avt ""
+    avt "\"Wiem... a co gdybym naprawdę został w Tajpej i nigdy nie wrócił do domu?\" "
 
 # game/script/06.rpy:112
 translate polish s06_36a9721a:
@@ -230,7 +236,7 @@ translate polish s06_36a9721a:
     # voice voice_file.tig(6,11)
     # tig frown "\"...That would be a shame.\" "
     voice voice_file.tig(6,11)
-    tig frown ""
+    tig frown "\"To byłaby wielka szkoda...\" "
 
 # game/script/06.rpy:114
 translate polish s06_3245a812:

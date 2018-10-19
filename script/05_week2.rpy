@@ -4,7 +4,7 @@
 translate polish week2_01_c6e15a2b:
 
     # b "After that weekend, my new college life living with three big cat spirits pretty much began for real. "
-    b "Po weekendzie, moje studenckie życie z duchami dużych kotów, na dobre się rozpoczyna. "
+    b "Po weekendzie, moje studenckie życie z duchami dużych kotów rozpoczyna się na dobre. "
 
 # game/script/05_week2.rpy:11
 translate polish week2_01_00d3fa82:
@@ -4626,13 +4626,13 @@ translate polish week2_08_36bbb643:
     # randolph wry "\"Especially with how expensive it is to even live here... life is hard.\" "
     voice voice_file.randolph(5,39)
     randolph wry "\"Większości yaoguai to się nie udaje... Ten pokręcony świat wygrywa z nimi tę walkę.\" "
-    randolph wry "\"Szczególnie patrząc jak drogo jest się tutaj utrzymać... Życie jest trudne.\" "
+    randolph wry "\"Szczególności dlatego jak drogo jest się tutaj utrzymać... Życie jest ciężkie.\" "
 
 # game/script/05_week2.rpy:2048
 translate polish week2_08_87efb91b:
 
     # avt "\"It's hard to imagine that even yaoguai have to work hard for a salary.\" "
-    avt "\"Ciężko sobie wyobrazić, że nawet yaoguai musi ciężko pracować na swoją wypłatę.\" "
+    avt "\"Trudno sobie wyobrazić, że nawet yaoguai musi ciężko pracować na swoją wypłatę.\" "
 
 # game/script/05_week2.rpy:2050
 translate polish week2_08_fc53fe63:
