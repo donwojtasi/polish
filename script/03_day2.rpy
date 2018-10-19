@@ -3548,7 +3548,7 @@ translate polish day2_04_e9081d5a:
     # voice voice_file.lpdcat(3,95)
     # lpdcat cute "\"It's all because I like you Liao~\" "
     voice voice_file.lpdcat(3,95)
-    lpdcat cute "\"To wszystko dlatego, że bardzo cię lubię Liao~\" "
+    lpdcat cute "\"A wszystko to, bo bardzo cię lubię Liao~\" "
 
 # game/script/03_day2.rpy:1657
 translate polish day2_04_2bc015e8:
@@ -3557,8 +3557,8 @@ translate polish day2_04_2bc015e8:
     # b "Senpai then invites himself into my room, humming a cheery tune while he begins making himself at home."
     # b "Before I know it, he's finished setting up his stuff and is off to the bathroom. "
     b "Co to ma być za odpowiedź? Poddaję się, nie będę próbował się z nim sprzeczać... "
-    b "Senpai wprasza się do pokoju, nucąc radosną melodię, podczas gdy zaczyna się rozpakowywać. "
-    b "Zanim się spostrzegłem, kończy rozkładać swoje rzeczy i wybiera się do łazienki. "
+    b "Senpai wprasza się do pokoju, nucąc radosną melodię podczas rozpakowywania swych rzeczy. "
+    b "Skończył zanim się spostrzegłem i wybiera się do łazienki. "
 
 # game/script/03_day2.rpy:1659
 translate polish day2_04_372e9e7c:
@@ -3578,7 +3578,7 @@ translate polish day2_04_d1d8ad77:
     # voice voice_file.tig(3,58)
     # tig frown "\"Liao, I'm not sure if I'm worrying too much... but I believe you should watch out for that kitten.\" "
     voice voice_file.tig(3,58)
-    tig frown "\"Liao, może i za bardzo się tym wszystkim martwię... ale sądzę, że powinieneś uważać na tego kociaka.\" "
+    tig frown "\"Liao, już sam nie wiem, czy nie za bardzo się martwię... ale uważam, że powinieneś uważać na tego kociaka.\" "
 
 # game/script/03_day2.rpy:1670
 translate polish day2_04_e847dba9:
@@ -3607,7 +3607,7 @@ translate polish day2_04_acc414fe:
     # tig normal "\"Correct. Although, I've never heard about any {font=tl/None/NotoSansCJKtc-Bold.otf}leopard cat{/font} guardian tigers.\" "
     # tig normal "\"Even if he was genuine, he would have once been a leopard cat yaoguai who had been subdued and taken in by a local god of soil. But an ex-yaoguai is still a yaoguai, keep that in mind.\" "
     voice voice_file.tig(3,60)
-    tig normal "\"Dokładnie. Niemniej jednak, nie słyszałem nigdy o żadnych {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kotkach bengalskich{/font}, które są tygrysimi strażnikami.\" "
+    tig normal "\"Dokładnie. Nigdy wcześniej nie słyszałem o żadnych {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kotkach bengalskich{/font}, które są tygrysimi strażnikami.\" "
     tig normal "\"Nawet jeśli był z tobą szczery, musiał być kiedyś yaoguai, który został poskromiony i wzięty w opiekę przez miejscowego boga ziemi. Były yaoguai to wciąż yaoguai, miej to na uwadze.\" "
 
 # game/script/03_day2.rpy:1679
@@ -3620,15 +3620,15 @@ translate polish day2_04_b06826e7:
 translate polish day2_04_f72ee3ca:
 
     # b "I mean I can't say his actions haven't been weird. I'm still not sure how I feel about him possessing Shu-Chi senpai... "
-    b "Nie mogę powiedzieć, że nie zachowuje się czasem dziwnie. Wciąż nie wiem co mam myśleć to tym, że opętał Shu-Chi senpai'a... "
+    b "Ciężko powiedzieć, że nie zachowuje się czasem dziwnie. Wciąż nie wiem co mam myśleć o tym, że opętał Shu-Chi senpai'a... "
 
 # game/script/03_day2.rpy:1683
 translate polish day2_04_ccce8250:
 
     # b "I mean, he's Shu-Chi for now, but what happens to the real Yan Shu-Chi?"
     # b "On top of that people are starting to think we're in a relationship... I feel bad for Yan Shu-Chi, this will be his problem too once it's all over. "
-    b "Na ten moment nim jest, ale co się dzieje z prawdziwym Yan Shu-Chi? "
-    b "Poza tym ludzie zaczynają myśleć, że jesteśmy w związku... Trochę mi szkoda Yan Shu-Chi, to będzie też jego problem, gdy wszystko się skończy. "
+    b "Teraz nim jest, ale co dzieje się z prawdziwym Yan Shu-Chi? "
+    b "Poza tym ludzie zaczynają myśleć, że jesteśmy w związku... Trochę mi szkoda Yan Shu-Chi, bo będzie to też jego problem, gdy wszystko się skończy. "
 
 # game/script/03_day2.rpy:1685
 translate polish day2_04_145fdf39:
@@ -3648,7 +3648,7 @@ translate polish day2_04_e8dc4aa5:
     # b "I don't really care about who's sleeping with me. "
     # b "To avoid the fight, I just pull up my quilt and close my eyes. "
     b "Nie obchodzi mnie kto będzie ze mną spał. "
-    b "Chcąc uniknąć kłótni, przykrywam się kołdrą i zamykam oczy. "
+    b "Chcąc uniknąć kłótni, bez słowa przykrywam się kołdrą i zamykam oczy. "
 
 # game/script/03_day2.rpy:1691
 translate polish day2_04_3f96b96a:
@@ -3656,7 +3656,7 @@ translate polish day2_04_3f96b96a:
     # b "Senpai will probably turn off the light anyway... "
     # b "I close my eyes and think. "
     # b "Everything that's happened, everything I could do, and the things I didn't do. They all weigh on my mind as I fall sleep... "
-    b "Senpai pewnie zgasi światło... "
-    b "Zamykając oczy, zaczynam rozmyślać. "
-    b "O wszystkim co się stało, o wszystkim co mogłem zrobić i czego nie mogłem. Wszystko to ciąży mi w myślach, gdy zasypiam... "
+    b "I tak Senpai pewnie zgasi światło... "
+    b "Zaczynam rozmyślać zamykając oczy. "
+    b "O wszystkim co się stało, o wszystkim co mogłem zrobić i to czego nie mogłem. Wszystko ciąży mi w głowie, gdy zasypiam... "
 
