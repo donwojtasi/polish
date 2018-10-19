@@ -2306,7 +2306,7 @@ translate polish day2_02_fc5c379c:
 translate polish day2_02_50681b67:
 
     # b "\"So all this time I've been serving my guardian tiger? But by that logic... I've done... {w=0.5}embarrassing things in the temple. Is that even okay?\" "
-    b "To przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem rozumowania... Robiłem... {w=0.5}okropne rzeczy w świątyni. Czy to w porządku? "
+    b "Przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem rozumowania... Robiłem... {w=0.5}okropne rzeczy w jego świątyni. Czy to w porządku? "
 
 # game/script/03_day2.rpy:1175
 translate polish day2_02_fbbe1302:
@@ -2314,7 +2314,7 @@ translate polish day2_02_fbbe1302:
     # b "That and I've never worshiped Tiger's statue properly, not to mention sacrifices. "
     # b "I don't really like the family traditions, but now I feel like I've treated him unfairly because I ignored them... "
     b "I nigdy nie oddałem należytej czci posążkowi Tygrysa, nie wspominając o ofiarach. "
-    b "Naprawdę nie lubię rodzinnych tradycji, ale czuję że byłem wobec niego nie w porządku ignorując je... "
+    b "Naprawdę nie lubię rodzinnych tradycji, ale czuję że źle go potraktowałem ignorując je... "
 
 # game/script/03_day2.rpy:1177
 translate polish day2_02_69e0d463:
@@ -2322,13 +2322,13 @@ translate polish day2_02_69e0d463:
     # voice voice_file.tig(3,56)
     # tig normal "\"It's all right. I am not really hungry. I just wanted a try.\" "
     voice voice_file.tig(3,56)
-    tig normal "\"Nic się nie stało. Nie jestem naprawdę głodny. Chciałem tylko spróbować.\" "
+    tig normal "\"Nic się nie stało. Naprawdę nie jestem głodny. Chciałem tylko spróbować.\" "
 
 # game/script/03_day2.rpy:1179
 translate polish day2_02_e6cf47ef:
 
     # b "I've never even offered him a sacrifice before, I can't just say no the first time he's ever actually asked for something. "
-    b "Nigdy wcześniej nie złożyłem mu żadnej ofiary, nie mogę od tak mu odmówić, gdy po raz pierwszy mnie o coś prosi. "
+    b "Nigdy wcześniej nie złożyłem mu żadnej ofiary. Teraz nie mogę mu odmówić, gdy po raz pierwszy mnie o coś prosi. "
 
 # game/script/03_day2.rpy:1181
 translate polish day2_02_2da1e9b9:
@@ -2351,8 +2351,8 @@ translate polish day2_02_13f4af8d:
     # lpdcat normal "\"That's right. You can get one tomorrow and eat it for dinner. Now that you can see him, you can just buy him whatever he wants anyway.\" "
     # lpdcat normal "\"However, you know god will punish you if you waste food.\" "
     voice voice_file.lpdcat(3,52)
-    lpdcat normal "\"To racja. Kupisz go sobie jutro i zjesz na obiad. Możesz mu kupić cokolwiek będzie chciał, teraz gdy potrafisz go zobaczyć.\" "
-    lpdcat normal "\"Wiedz jednak, że bóg cię ukarze jeśli będziesz marnował jedzenie.\" "
+    lpdcat normal "\"To racja. Kupisz go sobie jutro i zjesz na obiad. Teraz, gdy potrafisz go zobaczyć, możesz mu kupić co tylko będzie chciał.\" "
+    lpdcat normal "\"Wiedz, że bóg cię ukarze jeśli będziesz marnował jedzenie.\" "
 
 # game/script/03_day2.rpy:1187
 translate polish day2_02_7ad63a3f:
@@ -2370,51 +2370,51 @@ translate polish day2_02_c0b50faf:
 translate polish day2_02_c2183ba0:
 
     # b "Now that I think about it, maybe Leopard wants something to eat as well? I look around to find him staring at drink bar. "
-    b "Jak tak się zastanowię, może Pantera też chciałby coś zjeść? Rozglądam się i widzę jak wpatruje się na bar z napojami. "
+    b "Jak tak się zastanowię, może Pantera też chciałby coś zjeść? Rozglądam się i widzę jak wpatruje się w bar z napojami. "
 
 # game/script/03_day2.rpy:1193
 translate polish day2_02_a1124f24:
 
     # b "Uhh— Never mind, I think he's good. "
     # b "Returning to my dinner, I finish off my chicken-thigh rice, return my tray, and head off to club with Senpai. "
-    b "Yhh- Mniejsza, myślę że wszystko z nim dobrze. "
-    b "Wracam do jedzenia moich udek z kurczaka, oddaję tacę i wybieram się do klubu z Senpai'em. "
+    b "Yhh- Mniejsza, raczej wszystko z nim w porządku. "
+    b "Wracam do moich udek z kurczaka, oddaję tacę i udaję się do klubu z Senpai'em. "
 
 # game/script/03_day2.rpy:1206
 translate polish day2_02_69f2966d:
 
     # b "The venue for dance club is a place we call {i}the mirror wall{/i}. It's basically an open veranda room with the back wall covered in mirrors. "
     # b "We find a corner to drop off our things while the other club members stand around and talk to each other. "
-    b "Miejsce spotkań klubu tanecznego nazywamy {i}ścianą luster{/i}. Jest to w zasadzie otwarta weranda z tylną ścianą pokrytą lustrami."
-    b "Znajdujemy się w rogu, gdzie zostawiamy swoje rzeczy, a inni członkowie klubu stoją wokoło i rozmawiają w najlepsze. "
+    b "Miejsce spotkań klubu tanecznego nazywamy {i}ścianą luster{/i}. To w zasadzie otwarta weranda z tylną ścianą pokrytą lustrami."
+    b "Znajdujemy róg w którym zostawiamy swoje rzeczy. Inni członkowie klubu stoją wokoło i rozmawiają w najlepsze. "
 
 # game/script/03_day2.rpy:1208
 translate polish day2_02_66b7946f:
 
     # b "Tiger leans against a pillar, watching us from the other side of the crowd. Leopard seems enamoured with the mirror wall itself. I don't think he's ever seen such a big mirror before. "
     # b "He must be pretty happy to watch us practising after the show last night. "
-    b "Tygrys opiera się o kolumnę, oglądając nas z drugiej strony tłumu. Pantera zdaje się być zakochany w samej ścianie luster. Nie wydaje mi się, żeby widział wcześniej tak duże lustro. "
-    b "Pewnie cieszy się, że może obejrzeć nasze ćwiczenia po wczorajszym występie. "
+    b "Tygrys opiera się o kolumnę, oglądając nas z drugiej strony tłumu. Pantera zdaje się być zafascynowany ścianą luster. Myślę, że mógł wcześniej nie widzieć tak dużego lustra. "
+    b "Pewnie cieszy się na myśl o naszych ćwiczeniach po wczorajszym występie. "
 
 # game/script/03_day2.rpy:1210
 translate polish day2_02_f42cdebc:
 
     # b "Usually, I would hang around with the other freshmen, but I just decide to keep an eye on Senpai. "
     # b "Everyone around us is in high spirits after last night's show. "
-    b "Zazwyczaj pokręciłbym się z resztą pierwszoroczniaków, ale postanowiłem mieć Senpai'a na oku. "
-    b "Wszyscy wokół nas są w świetnym humorze po wczorajszym show. "
+    b "Powałęsałbym się z resztą pierwszoroczniaków tak jak zwykle, ale tym razem postanowiłem mieć Senpai'a na oku. "
+    b "Po wczorajszym show wszyscy wokół są w świetnych nastrojach. "
 
 # game/script/03_day2.rpy:1212
 translate polish day2_02_555f7463:
 
     # b "Then our club leader arrives to give us a rousing speech about the show. The whole club echo's their excitement, and I feel it too. "
-    b "Lider naszego klubu przychodzi, by dać nam porywającą przemowę o wczoraj. Cały klub rozbrzmiewa echem ekscytacji i ja też to czuję. "
+    b "Lider naszego klubu przychodzi, by dać nam porywającą przemowę. Cały klub rozbrzmiewa echem ekscytacji i ja też to czuję. "
 
 # game/script/03_day2.rpy:1214
 translate polish day2_02_13ede138:
 
     # b "I share this honor with my fellow club members, our success, and our failures, are all felt as one. It's just how we are. "
-    b "Podzielam ten honor z innymi członkami klubu, nasze sukcesy i porażki, wszyscy czujemy jedno i to samo. Tacy po prostu jesteśmy. "
+    b "Mam w tym udział wraz z całą resztą klubu. Nasze sukcesy, porażki, wszyscy czujemy się jak jedno. Tacy już jesteśmy. "
 
 # game/script/03_day2.rpy:1225
 translate polish day2_02_e0516d81:
@@ -2428,7 +2428,7 @@ translate polish day2_02_e0516d81:
 translate polish day2_02_8e4cc5e1:
 
     # avt "\"Senpai? Are you all right? You don't seem yourself. Did you get a cold?\" "
-    avt "\"Senpai? Wszystko z tobą dobrze? Nie jesteś sobą. Czy złapałeś przeziębienie?\" "
+    avt "\"Senpai? Wszystko dobrze? Nie jesteś sobą. Złapałeś przeziębienie?\" "
 
 # game/script/03_day2.rpy:1229
 translate polish day2_02_5c4eb099:
@@ -2436,13 +2436,13 @@ translate polish day2_02_5c4eb099:
     # voice voice_file.lpdcat(3,54)
     # lpdcat angry "\"No! Why, can't I be sentimental sometimes?\" "
     voice voice_file.lpdcat(3,54)
-    lpdcat angry "\"Nie! Czy nie mogę być czasem sentymentalny?\" "
+    lpdcat angry "\"Nie! Czemu nie mogę być czasem sentymentalny?\" "
 
 # game/script/03_day2.rpy:1231
 translate polish day2_02_3c31607b:
 
     # avt "\"I didn't mean it like that, but what's wrong? Has anything happened to you?\" "
-    avt "\"Nie to miałem na myśli, ale co jest nie tak? Czy coś ci się stało?\" "
+    avt "\"Nie to miałem na myśli. Powiedz co jest nie tak. Czy coś ci się stało?\" "
 
 # game/script/03_day2.rpy:1233
 translate polish day2_02_de42b902:
@@ -2450,7 +2450,7 @@ translate polish day2_02_de42b902:
     # voice voice_file.lpdcat(3,55)
     # lpdcat serious "\"Well— I was talking as a guardian tiger. Because you know, I'll have to leave school if you decide to go to Miaoli with me.\" "
     voice voice_file.lpdcat(3,55)
-    lpdcat serious "\"Cóż- Mówiłem to jako tygrysi strażnik. Bo wiesz... Będę musiał rzucić szkołę, jeśli zdecydujesz się iść ze mną do Miaoli.\" "
+    lpdcat serious "\"Cóż- Mówiłem to jako tygrysi strażnik. Bo wiesz... Będę musiał rzucić szkołę, gdy zdecydujesz się iść ze mną do Miaoli.\" "
 
 # game/script/03_day2.rpy:1235
 translate polish day2_02_704db4a3:
@@ -2458,13 +2458,13 @@ translate polish day2_02_704db4a3:
     # voice voice_file.lpdcat(3,56)
     # lpdcat serious "\"Well really, I have to leave anyway even if you don't take my offer.\" "
     voice voice_file.lpdcat(3,56)
-    lpdcat serious "\"W sumie to będę musiał odejść nawet jeśli nie spełnisz mojej prośby.\" "
+    lpdcat serious "\"Tak naprawdę, będę musiał odejść nawet jeśli nie spełnisz mej prośby.\" "
 
 # game/script/03_day2.rpy:1237
 translate polish day2_02_64915fac:
 
     # avt "\"...That's right. You have to go back anyway.\" "
-    avt "\"To racja... I tak musisz wrócić.\" "
+    avt "\"Racja... I tak musisz wrócić.\" "
 
 # game/script/03_day2.rpy:1239
 translate polish day2_02_809674da:
@@ -2472,7 +2472,7 @@ translate polish day2_02_809674da:
     # voice voice_file.lpdcat(3,57)
     # lpdcat serious "\"Yeah... Though, after being in this body for so long... I've started thinking that being a human isn't that bad.\" "
     voice voice_file.lpdcat(3,57)
-    lpdcat serious "\"Dokładnie... A jednak będąc w tym ciele przez tak długo... Zacząłem myśleć, że bycie człowiekiem nie jest takie złe.\" "
+    lpdcat serious "\"Dokładnie... A jednak będąc w tym ciele przez tak długi czas... Zacząłem myśleć, że bycie człowiekiem wcale nie jest takie złe.\" "
 
 # game/script/03_day2.rpy:1241
 translate polish day2_02_83158c8c:
@@ -2480,7 +2480,7 @@ translate polish day2_02_83158c8c:
     # voice voice_file.lpdcat(3,58)
     # lpdcat serious "\"It's such a lovely club. It's pretty rare, right? After all, based on my memories... Well, that's not a good topic.\" "
     voice voice_file.lpdcat(3,58)
-    lpdcat serious "\"To taki kochany klub. Rzadko się to zdarza, nie? Przecież, w oparciu o moje wspomnienia... Ehh, to nie jest dobry temat do rozmowy.\" "
+    lpdcat serious "\"To taki kochany klub. Nie często się taki zdarza, nie? Przecież, w oparciu o moje wspomnienia... Ehh, to nie najlepszy temat.\" "
 
 # game/script/03_day2.rpy:1243
 translate polish day2_02_d45b0786:
@@ -2494,7 +2494,7 @@ translate polish day2_02_7a382f40:
     # voice voice_file.lpdcat(3,59)
     # lpdcat normal "\"It's nothing. So, talking about coming to Miaoli, what do you think about it at the moment?\" "
     voice voice_file.lpdcat(3,59)
-    lpdcat normal "\"Nic takiego. Wracając do tematu podróży do Miaoli, co o tym myślisz na ten moment?\" "
+    lpdcat normal "\"To nic takiego. Wracając do tematu Miaoli, co o tym myślisz na ten moment?\" "
 
 # game/script/03_day2.rpy:1247
 translate polish day2_02_48c8d086:
@@ -2506,7 +2506,7 @@ translate polish day2_02_48c8d086:
 translate polish day2_02_9c813d87:
 
     # avt "\"It's really not that easy, all three of you want my help...\" "
-    avt "\"To wcale nie jest takie łatwe, cała wasza trójka chce mojej pomocy...\" "
+    avt "\"To nie takie łatwe, cała wasza trójka chce mojej pomocy...\" "
 
 # game/script/03_day2.rpy:1253
 translate polish day2_02_ab06a876:
@@ -2529,8 +2529,8 @@ translate polish day2_03_lpdcat_6797ac68:
     # lpdcat normal "\"Is that really impossible? Did I mention that rejuvenating my temple will take at most like three years? Sure, your Guardian Tiger wants you go back home, but it's not like he said when.\" "
     # lpdcat normal "\"You can do that after helping me and that clouded leopard, right?\" "
     voice voice_file.lpdcat(3,61)
-    lpdcat normal "\"Czy to naprawdę niemożliwe? Czy wspominałem, że odnowienie mojej świątyni zajmie co najwyżej trzy lata? Pewnie, twój Tygrysi Strażnik chce byś wrócił do domu, ale przecież nie powiedział kiedy.\" "
-    lpdcat normal "\"Możesz to zrobić, gdy pomożesz mi i mglistej panterze, prawda?\" "
+    lpdcat normal "\"Czy to naprawdę niemożliwe? Czy wspominałem już, że odnowienie mojej świątyni zajmie co najwyżej trzy lata? Pewnie, twój Tygrysi Strażnik chce byś wrócił do domu, ale przecież nie powiedział kiedy.\" "
+    lpdcat normal "\"Możesz to zrobić, gdy już pomożesz mi i mglistej panterze, prawda?\" "
 
 # game/script/03_day2.rpy:1272
 translate polish day2_03_lpdcat_55513d32:
@@ -2550,7 +2550,7 @@ translate polish day2_03_lpdcat_c9004785:
     # voice voice_file.lpdcat(3,62)
     # lpdcat cute "\"Then... couldn't you just help me?\" "
     voice voice_file.lpdcat(3,62)
-    lpdcat cute "\"A nie mógłbyś pomóc tylko mnie?\" "
+    lpdcat cute "\"W takim razie... Może mógłbyś pomóc tylko mnie?\" "
 
 # game/script/03_day2.rpy:1280
 translate polish day2_03_lpdcat_fabf6005:
@@ -2563,8 +2563,8 @@ translate polish day2_03_lpdcat_95011ac8:
 
     # avt "\"If I choose to take two years off, I need to perform my military service before that. And then two years with you?\" "
     # avt "\"That's probably the end of my dancing career as it is.\" "
-    avt "\"Jeśli będę chciał zrobić przerwę od szkoły, wpierw będę musiał odbyć służbę wojskową. A potem spędzić z tobą dwa lata?\" "
-    avt "\"To pewnie będzie koniec mojej kariery tanecznej.\" "
+    avt "\"Jeśli zrobię sobie dwuletnią przerwę, wpierw będę musiał odbyć służbę wojskową. A potem spędzić z tobą dwa lata?\" "
+    avt "\"To pewnie byłby koniec mojej kariery tanecznej.\" "
 
 # game/script/03_day2.rpy:1286
 translate polish day2_03_lpdcat_7500a0be:
@@ -2572,7 +2572,7 @@ translate polish day2_03_lpdcat_7500a0be:
     # voice voice_file.lpdcat(3,63)
     # lpdcat serious "\"I know. But seriously speaking... it's not easy to feed yourself by dancing anyway.\" "
     voice voice_file.lpdcat(3,63)
-    lpdcat serious "\"Wiem to. Ale szczerze mówiąc... tak czy owak nie jest łatwo wyżyć z tańca.\" "
+    lpdcat serious "\"Wiem o tym. Ale szczerze mówiąc... nie jest łatwo wyżyć z tańca.\" "
 
 # game/script/03_day2.rpy:1288
 translate polish day2_03_lpdcat_7cecd102:
@@ -2580,13 +2580,13 @@ translate polish day2_03_lpdcat_7cecd102:
     # voice voice_file.lpdcat(3,64)
     # lpdcat serious "\"Even I— I mean Yan Shu-Chi, never considered dancing as a real career option. Do you think you could really manage that?\" "
     voice voice_file.lpdcat(3,64)
-    lpdcat serious "\"Nawet ja- Mam na myśli Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
+    lpdcat serious "\"Nawet ja- To znaczy Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
 
 # game/script/03_day2.rpy:1290
 translate polish day2_03_lpdcat_7e88561a:
 
     # avt "\"But... I can't just give up all the effort I've put into this and all the lengths I've gone to so far.\" "
-    avt "\"Ale przecież... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
+    avt "\"Ale... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
 
 # game/script/03_day2.rpy:1292
 translate polish day2_03_lpdcat_4947e296:
@@ -2594,13 +2594,13 @@ translate polish day2_03_lpdcat_4947e296:
     # voice voice_file.lpdcat(3,65)
     # lpdcat difficult "\"Well honestly, haven't you only been dancing for like half a year?\" "
     voice voice_file.lpdcat(3,65)
-    lpdcat difficult "\"To nie tak, że tańczysz dopiero jakieś pół roku?\" "
+    lpdcat difficult "\"A to nie tak, że tańczysz dopiero jakieś pół roku?\" "
 
 # game/script/03_day2.rpy:1294
 translate polish day2_03_lpdcat_cb8ce7ae:
 
     # avt "\"Hell no, I've wanted to do this since high school!\" "
-    avt "\"Pewnie że nie, chciałem to zrobić od szkoły średniej!\" "
+    avt "\"Do diabła, chciałem tego już od szkoły średniej!\" "
 
 # game/script/03_day2.rpy:1296
 translate polish day2_03_lpdcat_924ab2e3:
@@ -2647,8 +2647,8 @@ translate polish day2_03_normal_05abb4c5:
     # lpdcat normal "\"Is it really impossible? I know it's not easy, but it's not like it's gonna take like five years or something. I'm sure that guardian tiger doesn't need you home right away.\" "
     # lpdcat normal "\"So I'm sure theres some way you can do that {i}and{/i} \ manage to help me as well as that leopard.\" "
     voice voice_file.lpdcat(3,68)
-    lpdcat normal "\"Czy to naprawdę niemożliwe? Wiem, że to trudne, ale nie zajmie ci to pięciu lat, czy coś w tym stylu. Jestem przekonany, że ten tygrysi strażnik nie potrzebuje teraz twojej pomocy.\" "
-    lpdcat normal "\"Jestem też pewien, że jest jakiś sposób {i}dzięki któremu{/i} \ uda ci się pomóc i mnie i panterze.\" "
+    lpdcat normal "\"Czy to naprawdę niemożliwe? Wiem, że to trudne, ale nie zajmie ci to pięciu lat, czy coś w tym stylu. Pewien jestem, że ten tygrysi strażnik nie potrzebuje twojej pomocy już teraz.\" "
+    lpdcat normal "\"Na pewno jest jakiś sposób, żeby to zrobić {i}i{/i} \ przy okazji pomóc mnie i panterze.\" "
 
 # game/script/03_day2.rpy:1314
 translate polish day2_03_normal_7528614b:
@@ -2662,7 +2662,7 @@ translate polish day2_03_normal_1c97b500:
     # voice voice_file.lpdcat(3,62)
     # lpdcat cute "\"Then... couldn't you just help me?\" "
     voice voice_file.lpdcat(3,62)
-    lpdcat cute "\"A nie mógłbyś pomóc tylko mnie?\" "
+    lpdcat cute "\"W takim razie... Może mógłbyś pomóc tylko mnie?\" "
 
 # game/script/03_day2.rpy:1320
 translate polish day2_03_normal_65b27a94:
@@ -2694,7 +2694,7 @@ translate polish day2_03_normal_7af6df19:
     # voice voice_file.lpdcat(3,71)
     # lpdcat normal "\"More specifically, you gotta do the housekeeping, advertise for the temple, talk to people to see if we can help them, and so on...\" "
     voice voice_file.lpdcat(3,71)
-    lpdcat normal "\"A dokładniej, musisz robić porządki, reklamować świątynię, pytać ludzi, czy możemy im jakoś pomóc i tak dalej...\" "
+    lpdcat normal "\"Dokładniej, musisz zrobić porządki, zareklamować świątynię, popytać ludzi, czy możemy im jakoś pomóc i tak dalej...\" "
 
 # game/script/03_day2.rpy:1330
 translate polish day2_03_normal_4cabdbe7:
@@ -2708,7 +2708,7 @@ translate polish day2_03_normal_839b5754:
     # voice voice_file.lpdcat(3,72)
     # lpdcat serious "\"Well, those are all the petty things. But we have to build people's confidence in us step by step.\" "
     voice voice_file.lpdcat(3,72)
-    lpdcat serious "\"To wszystko drobne sprawy. Ale musimy zbudować zaufanie ludzi do nas krok po kroku.\" "
+    lpdcat serious "\"To wszystko drobne sprawy. Musimy zbudować zaufanie ludzi do nas krok po kroku.\" "
 
 # game/script/03_day2.rpy:1334
 translate polish day2_03_normal_424fc640:
@@ -2716,7 +2716,7 @@ translate polish day2_03_normal_424fc640:
     # voice voice_file.lpdcat(3,73)
     # lpdcat serious "\"It's never easy to convince people, so I can't tell you how long it's going to take...\" "
     voice voice_file.lpdcat(3,73)
-    lpdcat serious "\"Przekonanie ludzi nigdy nie jest łatwe, więc nie mogę ci powiedzieć ile to zajmie czasu...\" "
+    lpdcat serious "\"A to nigdy nie jest łatwe, więc nie mogę ci powiedzieć ile to zajmie czasu...\" "
 
 # game/script/03_day2.rpy:1336
 translate polish day2_03_normal_cc98a5a3:
@@ -2736,7 +2736,7 @@ translate polish day2_03_normal_8d3254fd:
 translate polish day2_03_normal_54ab841f:
 
     # avt "\"There's no way that will work, and you know that well Senpai. I'd have no tutor, or clubmates. So I wouldn't get anywhere.\" "
-    avt "\"Nie ma szans, by to zadziałało i dobrze o tym wiesz Senpai. Nie miałbym nauczyciela, ani kolegów z klubu. Nic bym nie osiągnął w ten sposób.\""
+    avt "\"Nie ma szans, by to zadziałało i dobrze o tym wiesz Senpai. Nie miałbym nauczyciela, ani kolegów z klubu. W ten sposób nic bym nie osiągnął.\""
 
 # game/script/03_day2.rpy:1344
 translate polish day2_03_normal_1c22f76b:
@@ -2750,21 +2750,21 @@ translate polish day2_03_normal_1c22f76b:
 translate polish day2_03_normal_78769784:
 
     # avt "\"But Senpai, I couldn't do all this while I'm at school, could I?\" "
-    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, racja?\" "
+    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, prawda?\" "
 
 # game/script/03_day2.rpy:1350
 translate polish day2_03_normal_daa40741:
 
     # avt "\"Since I can't just drop out of school, will you wait until I graduate?\" "
-    avt "A skoro nie mogę od tak wszystkiego porzucić, mógłbyś poczekać, aż skończę szkołę?"
+    avt "\"Skoro nie mogę od tak wszystkiego porzucić, czy poczekasz aż skończę szkołę?\" "
 
 # game/script/03_day2.rpy:1352
 translate polish day2_03_normal_61f26a74:
 
     # avt "\"Even then if I choose to take two years off, I'd need to perform my military service before that.\" "
     # avt "\"And then two years with you? That's probably the end of my dancing career as it is.\" "
-    avt "\"Jeśli będę chciał zrobić przerwę od szkoły, wpierw będę musiał odbyć służbę wojskową.\" "
-    avt "\"A potem spędzić z tobą dwa lata? To pewnie będzie koniec mojej kariery tanecznej.\" "
+    avt "\"Nawet jeśli będę chciał zrobić przerwę od szkoły, wpierw muszę odbyć służbę wojskową.\" "
+    avt "\"A potem spędzić z tobą dwa lata? To pewnie byłby koniec mojej kariery tanecznej.\" "
 
 # game/script/03_day2.rpy:1354
 translate polish day2_03_normal_7500a0be:
@@ -2772,7 +2772,7 @@ translate polish day2_03_normal_7500a0be:
     # voice voice_file.lpdcat(3,63)
     # lpdcat serious "\"I know. But seriously speaking... it's not easy to feed yourself by dancing anyway.\" "
     voice voice_file.lpdcat(3,63)
-    lpdcat serious "\"Wiem to. Ale szczerze mówiąc... tak czy owak nie jest łatwo wyżyć z tańca.\" "
+    lpdcat serious "\"Wiem o tym. Ale szczerze mówiąc... nie jest łatwo wyżyć z tańca.\" "
 
 # game/script/03_day2.rpy:1356
 translate polish day2_03_normal_7cecd102:
@@ -2780,13 +2780,13 @@ translate polish day2_03_normal_7cecd102:
     # voice voice_file.lpdcat(3,64)
     # lpdcat serious "\"Even I— I mean Yan Shu-Chi, never considered dancing as a real career option. Do you think you could really manage that?\" "
     voice voice_file.lpdcat(3,64)
-    lpdcat serious "\"Nawet ja- Mam na myśli Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
+    lpdcat serious "\"Nawet ja- To znaczy Yan Shu-Chi, nigdy nie myślał o tańcu jako sposobie na życie. Myślisz, że naprawdę mógłbyś tego dokonać?\" "
 
 # game/script/03_day2.rpy:1358
 translate polish day2_03_normal_7e88561a:
 
     # avt "\"But... I can't just give up all the effort I've put into this and all the lengths I've gone to so far.\" "
-    avt "\"Ale przecież... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
+    avt "\"Ale... Nie mogę tak po prostu zrezygnować z całego wysiłku, jaki w to włożyłem i z wszystkiego co udało mi się osiągnąć.\" "
 
 # game/script/03_day2.rpy:1360
 translate polish day2_03_normal_4947e296:
@@ -2794,13 +2794,13 @@ translate polish day2_03_normal_4947e296:
     # voice voice_file.lpdcat(3,65)
     # lpdcat difficult "\"Well honestly, haven't you only been dancing for like half a year?\" "
     voice voice_file.lpdcat(3,65)
-    lpdcat difficult "\"To nie tak, że tańczysz dopiero jakieś pół roku?\" "
+    lpdcat difficult "\"A to nie tak, że tańczysz dopiero jakieś pół roku?\" "
 
 # game/script/03_day2.rpy:1362
 translate polish day2_03_normal_cb8ce7ae:
 
     # avt "\"Hell no, I've wanted to do this since high school!\" "
-    avt "\"Pewnie że nie, chciałem to zrobić od szkoły średniej!\" "
+    avt "\"Do diabła, chciałem tego już od szkoły średniej!\" "
 
 # game/script/03_day2.rpy:1364
 translate polish day2_03_normal_924ab2e3:
@@ -2864,7 +2864,7 @@ translate polish day2_04_d78355eb:
 translate polish day2_04_25cd9518:
 
     # b "Senpai heads off immediately, it seems like they're going to have a meeting. After all, Senpai is pretty important around here. He's practically the backbone of our club. "
-    b "Senpai natychmiast się oddala, wygląda na to, że chcą coś omówić. W końcu Senpai jest tutaj bardzo ważny. Stanowi praktycznie trzon naszego klubu. "
+    b "Senpai natychmiast się oddala. Wygląda na to, że chcą coś omówić. W końcu Senpai jest tutaj bardzo ważny, bo stanowi praktycznie trzon naszego klubu. "
 
 # game/script/03_day2.rpy:1392
 translate polish day2_04_1ef0ffd0:
@@ -2895,14 +2895,14 @@ translate polish day2_04_1af4ea85:
     # clubmate "\"You two seem pretty weird today.\" "
     # clubmate "\"You come to practice together, then spend heaps of time all buddy-buddy with him? So what? You dating him? What a bad boy~\" "
     voice voice_file.clubmate(3,2)
-    clubmate "\"Wyglądacie dzisiaj jakoś dziwnie.\" "
-    clubmate "\"Przychodzicie razem na ćwiczenia, a potem spędzacie mnóstwo czasu sam na sam? No to co? Spotykasz się z nim? Co za niegrzeczny chłopiec~\" "
+    clubmate "\"Zachowujecie się dzisiaj jakoś dziwnie.\" "
+    clubmate "\"Przychodzicie tu razem, a potem spędzacie mnóstwo czasu sam na sam? No to jak to jest? Spotykasz się z nim? Co za niegrzeczny chłopiec~\" "
 
 # game/script/03_day2.rpy:1400
 translate polish day2_04_d39efb61:
 
     # avt "\"What the hell! No, that's nonsense! We're not in that kind of relationship.\" "
-    avt "\"Co do diabła! Nie, to kompletna bzdura! Nie jesteśmy w tego rodzaju relacji.\" "
+    avt "\"Co do diabła! Nie, to kompletna bzdura! Nie jesteśmy w takiej relacji.\" "
 
 # game/script/03_day2.rpy:1402
 translate polish day2_04_eab5c6a0:
@@ -2916,13 +2916,13 @@ translate polish day2_04_eab5c6a0:
 translate polish day2_04_f26c7bc9:
 
     # avt "\"We were just talking normally!\" "
-    avt "\"Po prostu zwyczajnie rozmawiamy!\" "
+    avt "\"Najzwyczajniej w świecie rozmawialiśmy!\" "
 
 # game/script/03_day2.rpy:1406
 translate polish day2_04_d1262de9:
 
     # b "Honestly, it was a serious conversation. How could that be taken as 'romantic'? "
-    b "Serio, to była poważna rozmowa. Jak mogło to zostać odebrane jak cokolwiek \"romantycznego\"? "
+    b "Serio, to była poważna rozmowa. Jak ktoś mógł wciąć to za coś \"romantycznego\"? "
 
 # game/script/03_day2.rpy:1408
 translate polish day2_04_222202db:
