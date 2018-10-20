@@ -4626,7 +4626,7 @@ translate polish week2_08_36bbb643:
     # randolph wry "\"Especially with how expensive it is to even live here... life is hard.\" "
     voice voice_file.randolph(5,39)
     randolph wry "\"Większości yaoguai to się nie udaje... Ten pokręcony świat wygrywa z nimi tę walkę.\" "
-    randolph wry "\"Szczególności dlatego jak drogo jest się tutaj utrzymać... Życie jest ciężkie.\" "
+    randolph wry "\"Szczególnie dlatego, że drogo jest się tutaj utrzymać... Życie jest ciężkie.\" "
 
 # game/script/05_week2.rpy:2048
 translate polish week2_08_87efb91b:
