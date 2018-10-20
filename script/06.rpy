@@ -236,7 +236,7 @@ translate polish s06_36a9721a:
     # voice voice_file.tig(6,11)
     # tig frown "\"...That would be a shame.\" "
     voice voice_file.tig(6,11)
-    tig frown "\"To byłaby wielka szkoda...\" "
+    tig frown "\"To byłaby ogromna strata...\" "
 
 # game/script/06.rpy:114
 translate polish s06_3245a812:
