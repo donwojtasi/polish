@@ -4,7 +4,7 @@
 translate polish ending_tig_bad1_c4bd3cbf:
 
     # b2 "That day Leopard left and didn't return. Afterwards I went home and I cleaned up my room like usual. The next day I went to college like usual... but things weren't like usual. Leopard is gone, gone like he was never here to begin with. Every now and then I still wonder about him and what happened. I still wonder if he gave up. I still wonder what happened to his tribe.{nw}"
-    b2 ""
+    b2 "TODO"
 
 # game/script/ending.rpy:85
 translate polish ending_tig_bad1_52aefee5:
