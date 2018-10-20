@@ -1821,7 +1821,7 @@ translate polish day2_02_0b81f096:
     # lpdcat serious "\"All right, sure, you're a guardian tiger from a high temple, but why be so strict?\" "
     # lpdcat serious "\"I mean, I'm a Han god as well but Likulau doesn't bother me...\" "
     voice voice_file.lpdcat(3,30)
-    lpdcat serious "\"No tak, pewnie. Jesteś tygrysim strażnikiem wysokiej świątyni, ale czemu jesteś aż tam stanowczy?\" "
+    lpdcat serious "\"No tak, pewnie. Jesteś tygrysim strażnikiem wysokiej świątyni, ale czemu jesteś aż taki stanowczy?\" "
     lpdcat serious "\"Też jestem bogiem takim jak ty, a Likulau wcale mi nie przeszkadza...\" "
 
 # game/script/03_day2.rpy:974
@@ -2265,7 +2265,7 @@ translate polish day2_02_f820c1b6:
     # lpdcat serious "\"I'm not that lucky since my Fudegong doesn't have any worshipers these days...\" "
     voice voice_file.lpdcat(3,49)
     lpdcat serious "\"Tak potrzebujemy jej, ale bogom nie skończy się Chi tak długo jak mają swoich wyznawców.\" "
-    lpdcat serious "\"Praktycznie jesteś praktycznie dla tego staruszka, a więc nie zgłodnieje tak długo jak tu jesteś.\" "
+    lpdcat serious "\"Praktycznie jesteś kapłanem dla tego staruszka, a więc nie zgłodnieje tak długo przy nim jesteś.\" "
     lpdcat serious "\"Ja nie mam aż tyle szczęścia, ponieważ mój Fudegong nie ma już żadnych wyznawców...\" "
 
 # game/script/03_day2.rpy:1158
@@ -2334,7 +2334,7 @@ translate polish day2_02_e6cf47ef:
 translate polish day2_02_2da1e9b9:
 
     # avt "\"So I'll just go get one...\" "
-    avt "\"Wezmę dla ciebie jednego.\" "
+    avt "\"Wezmę dla ciebie jednego...\" "
 
 # game/script/03_day2.rpy:1183
 translate polish day2_02_111c2bba:

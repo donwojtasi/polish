@@ -4139,7 +4139,7 @@ translate polish week1_04_lpdcat_f4956b56:
     # voice voice_file.lpdcat(4,74)
     # lpdcat serious "\"Miaoli isn't nearly the same as Taipei! Miaoli is pretty much just countryside while Taipei has all these cool shops! And Miaoli has a lot of nice places too!\" "
     voice voice_file.lpdcat(4,74)
-    lpdcat serious "\"Miaoli nie jest nawet trochę podobne do Tajpej! Miaoli to praktycznie wieś, kiedy Tajpej ma te wszystkie fajne sklepy! Mimo to są tam miejsca, które warto zobaczyć!\" "
+    lpdcat serious "\"Miaoli nie jest nawet trochę podobne do Tajpej! Miaoli to praktycznie wieś, a Tajpej ma te wszystkie fajne sklepy! Mimo to są tam miejsca, które warto zobaczyć!\" "
 
 # game/script/04_week1.rpy:2026
 translate polish week1_04_lpdcat_cb8a1768:
