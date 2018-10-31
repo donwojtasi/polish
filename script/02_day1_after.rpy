@@ -401,7 +401,7 @@ translate polish day1_after_01_tig_7481c296:
     # tig normal "\"After all, theres nothing I can do while you're sleeping.\" "
     # tig normal "\"Is it surprising that a god can get bored?\" "
     voice voice_file.tig(2,4)
-    tig normal "\"Kociak chce go dlatego, że ma fizyczne ciało. A co do tego aborygena to nie mam pojęcia.\" "
+    tig normal "\"Kociak chce go dlatego, że ma fizyczne ciało. Nie mam pojęcia co do tego aborygena.\" "
     tig normal "\"Jeśli o mnie chodzi... Przyzwyczaiłem się do tego...\" "
     tig normal "\"Nie mam nic do roboty, gdy śpisz. Czy to dziwne, że bóg może się nudzić?\" "
 
@@ -431,7 +431,7 @@ translate polish day1_after_01_tig_b655dbd9:
     # voice voice_file.tig(2,6)
     # tig laugh_2 "\"Whatever you think, you are my worshipper, so it's my responsibility to protect you, just as if you were a child.\" "
     voice voice_file.tig(2,6)
-    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą, a więc moim obowiązkiem jest cię chronić, tak jakbyś był małym dzieckiem.\" "
+    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą, a więc moim obowiązkiem jest cię chronić,\ntak jakbyś był małym dzieckiem.\" "
 
 # game/script/02_day1_after.rpy:187
 translate polish day1_after_01_tig_7f7ef53d:
@@ -439,13 +439,13 @@ translate polish day1_after_01_tig_7f7ef53d:
     # voice voice_file.tig(2,7)
     # tig laugh_2 "\"You've grown up next to me for years, I'm not that old after all. However you may call it, my playmate or childhood sweetheart.\" "
     voice voice_file.tig(2,7)
-    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Możesz się nazywać moim kolegą lub dziecięcą miłością.\" "
+    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Jak tego nie nazwiesz, jesteś moim kolegą albo dziecięcą miłością.\" "
 
 # game/script/02_day1_after.rpy:189
 translate polish day1_after_01_tig_9db82579:
 
     # avt "\"Not old at all, huh?\" "
-    avt "\"Nie jesteś tak stary, hę?\" "
+    avt "\"Nie taki stary, hę?\" "
 
 # game/script/02_day1_after.rpy:192
 translate polish day1_after_01_tig_f0cb9830:
@@ -454,7 +454,7 @@ translate polish day1_after_01_tig_f0cb9830:
     # tig normal "\"Correct, I'm just a {font=tl/None/NotoSansCJKtc-Bold.otf}Fenling{/font}, you know?\" "
     # tig normal "\"Well, precisely speaking I was born after you brought me to Taipei. I have no memories from my primal spirit.\" "
     voice voice_file.tig(2,8)
-    tig normal "\"Tak jest, po prostu jestem {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
+    tig normal "\"Istotnie, po prostu jestem {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
     tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym, jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
 
 # game/script/02_day1_after.rpy:194
@@ -499,7 +499,7 @@ translate polish day1_after_01_tig_4d0817d2:
     # voice voice_file.tig(2,11)
     # tig laugh_2 "\"There is no more appropriate word to be found.\" "
     voice voice_file.tig(2,11)
-    tig laugh_2 "\"Nie udało mi się znaleźć nic bardziej odpowiedniego.\" "
+    tig laugh_2 "\"Nie znam bardziej odpowiedniego słowa.\" "
 
 # game/script/02_day1_after.rpy:206
 translate polish day1_after_01_tig_c11fa9c6:
@@ -511,7 +511,7 @@ translate polish day1_after_01_tig_c11fa9c6:
 translate polish day1_after_01_tig_43a107b2:
 
     # avt "\"Like, in stories the childhood sweethearts typically get married to each other. \nYou know that right?\" "
-    avt "\"Zazwyczaj w najróżniejszych opowieściach dziecięca miłość kończy się na ślubie. Wiesz o tym, prawda?\" "
+    avt "\"W opowieściach dziecięca miłość zazwyczaj kończy się na ślubie. Wiesz o tym, prawda?\" "
 
 # game/script/02_day1_after.rpy:210
 translate polish day1_after_01_tig_e18a4da3:
@@ -519,7 +519,7 @@ translate polish day1_after_01_tig_e18a4da3:
     # voice voice_file.tig(2,12)
     # tig normal "\"Really? I had no idea about the implications. However, if our relationship is that good it means I'll easily beat those two, or at least the kitten.\" "
     voice voice_file.tig(2,12)
-    tig normal "\"Naprawdę? Nie miałem o tym pojęcia. Wszak, jeśli nasza relacja jest tak dobra oznacza to, że z łatwością pokonam tę dwójkę, a już na pewno tego kociaka.\" "
+    tig normal "\"Naprawdę? Nie miałem pojęcia o implikacjach. Jeśli jednak nasza relacja jest tak dobra to na pewno z łatwością pokonam tę dwójkę, a już na pewno kociaka.\" "
 
 # game/script/02_day1_after.rpy:212
 translate polish day1_after_01_tig_5b256b5e:
@@ -533,14 +533,14 @@ translate polish day1_after_01_tig_edf0f55f:
     # voice voice_file.tig(2,13)
     # tig "\"Liao, don't be distracted by those two, understood? After all, you're a son of the Lin family.\" "
     voice voice_file.tig(2,13)
-    tig "\"Liao, nie daj się omamić tej dwójce, zrozumiano? Jesteś przecież synem rodziny Lin.\" "
+    tig "\"Liao, nie daj się im omamić, zrozumiano? Jesteś przecież synem rodziny Lin.\" "
 
 # game/script/02_day1_after.rpy:216
 translate polish day1_after_01_tig_a9d3bf50:
 
     # b "I didn't reply. I know where he's coming from, and I know if I don't get a job after I graduate I'll have to go home. "
     # b "But I don't want to think about that right now. "
-    b "Nie odniosłem się do tego. Wiem skąd pochodzi i wiem też, że będę musiał tam wrócić, jeśli nie znajdę pracy po ukończeniu studiów. "
+    b "Nie odpowiedziałem. Wiem skąd pochodzi i wiem też, że będę musiał tam wrócić, jeśli nie znajdę pracy po ukończeniu studiów. "
     b "Ale nie chcę o tym teraz myśleć. "
 
 # game/script/02_day1_after.rpy:218
@@ -581,7 +581,7 @@ translate polish day1_after_01_tig_8fcce49d:
     # tig "\"However, I still want you to consider going back. It's not that boring, at least it wont be now that you can see us. \" "
     voice voice_file.tig(2,15)
     tig "\"Czemu miałbym być zły?\" "
-    tig "\"Niemniej chciałbym, abyś przynajmniej rozważył powrót. Nie jest tam aż tak nudno, a przynajmniej teraz już nie będzie, gdy możesz nas zobaczyć.\" "
+    tig "\"Niemniej, chciałbym abyś przynajmniej rozważył powrót. Nie jest tam aż tak nudno,\na przynajmniej teraz już nie będzie, gdy możesz nas zobaczyć.\" "
 
 # game/script/02_day1_after.rpy:228
 translate polish day1_after_01_tig_9e68c7a3:
@@ -589,7 +589,7 @@ translate polish day1_after_01_tig_9e68c7a3:
     # voice voice_file.tig(2,16)
     # tig laugh_2 "\"You could spend your whole life talking with all the other guardian tigers even.\" "
     voice voice_file.tig(2,16)
-    tig laugh_2 "\"Mógłbyś spędzić całe swoje życie na rozmowach z innymi tygrysimi strażnikami.\" "
+    tig laugh_2 "\"Mógłbyś nawet spędzić całe życie na rozmowach z innymi tygrysimi strażnikami.\" "
 
 # game/script/02_day1_after.rpy:230
 translate polish day1_after_01_tig_ed874ff5:
@@ -638,7 +638,7 @@ translate polish day1_after_01_tig_a4d32cbd:
     # tig laugh_1 "\"As you must know, there are three guardian tigers protecting your family, but really there are more than three of them.\" "
     # tig laugh_1 "\"Those three are well known because they usually show up in {font=tl/None/NotoSansCJKtc-Bold.otf}Kaidao{/font} rites.\" "
     voice voice_file.tig(2,19)
-    tig laugh_1 "\"Jak zapewne wiesz, trzech tygrysich strażników opiekuje się twoją rodziną, ale naprawdę jest ich o wiele więcej.\" "
+    tig laugh_1 "\"Jak zapewne wiesz, trzech tygrysich strażników opiekuje się twoją rodziną, ale tak naprawdę jest ich więcej.\" "
     tig laugh_1 "\"Ta trójka jest dobrze znana, ponieważ na ogół biorą udział w obrzędach {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kaidao{/font}.\" "
 
 # game/script/02_day1_after.rpy:245
@@ -650,7 +650,7 @@ translate polish day1_after_01_tig_4a6abaec:
     # tig laugh_1 "\"But you'll definitely be amazed by their magnificence...\" "
     voice voice_file.tig(2,20)
     tig laugh_1 "\"Doprawdy, jest nas bardzo, bardzo wielu, a to dlatego, że każdy posąg skrywa w sobie jakiegoś ducha.\" "
-    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek możliwe, że będziesz mógł zobaczyć jedynie tygrysich strażników.\" "
+    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek jest możliwe, że będziesz mógł zobaczyć jedynie tygrysich strażników.\" "
     tig laugh_1 "\"Na pewno zdumnieje cię ich majestatyczność...\" "
 
 # game/script/02_day1_after.rpy:247
@@ -666,7 +666,7 @@ translate polish day1_after_01_tig_4c18bf91:
 
     # b "...The last thing I could remember was being hugged tightly by my guardian tiger. "
     # b "Immersed in his low, warm voice, as I fall sleep. "
-    b "...ostatnie co pamiętam to bycie tulonym w objęciach mojego tygrysiego strażnika. "
+    b "...ostatnie co pamiętam to mocne objęcia mojego tygrysiego strażnika. "
     b "Wkrótce zasypiam pogrążony w jego niskim, ciepłym głosie. "
 
 # game/script/02_day1_after.rpy:264
