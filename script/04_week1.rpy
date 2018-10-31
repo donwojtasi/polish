@@ -1242,19 +1242,19 @@ translate polish cg_01_54d31fe4:
     # voice voice_file.tig(4,42)
     # tig frown "\"...Say, could you make a stir-fry on this?\" "
     voice voice_file.tig(4,42)
-    tig frown "\"...powiedz, czy możesz na tym smażyć w ruchu?\" "
+    tig frown "\"...powiedz, dałbyś radę usmażyć na tym warzywa?\" "
 
 # game/script/04_week1.rpy:645
 translate polish cg_01_8e3148a2:
 
     # avt "\"Hmm... This ones probably not big enough. You could boil some food though.\" "
-    avt "\"Hmm... Ta pewnie jest za mała. Da się na niej zagotować wodę.\" "
+    avt "\"Hmm... Ta pewnie jest za mała. Mógłbyś co najwyżej zagotować na niej wodę.\" "
 
 # game/script/04_week1.rpy:647
 translate polish cg_01_0e1e7786:
 
     # b "Really, I don't know if it could do a stir-fry or not. It's not like I've used one before. ...Maybe, it might be possible. "
-    b "Tak naprawdę to nie wiem, czy mogę ugotować na tym stir-fry, czy nie. Z żadnej wcześniej nie korzystałem... Może jest to możliwe. "
+    b "Tak naprawdę to nie wiem, czy użyłbym na niej woka. Z żadnej wcześniej nie korzystałem... Może jest to do zrobienia. "
 
 # game/script/04_week1.rpy:649
 translate polish cg_01_a9b67b0c:

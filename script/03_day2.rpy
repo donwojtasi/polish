@@ -2265,7 +2265,7 @@ translate polish day2_02_f820c1b6:
     # lpdcat serious "\"I'm not that lucky since my Fudegong doesn't have any worshipers these days...\" "
     voice voice_file.lpdcat(3,49)
     lpdcat serious "\"Tak potrzebujemy jej, ale bogom nie skończy się Chi tak długo jak mają swoich wyznawców.\" "
-    lpdcat serious "\"Praktycznie jesteś kapłanem dla tego staruszka, a więc nie zgłodnieje tak długo przy nim jesteś.\" "
+    lpdcat serious "\"Praktycznie jesteś kapłanem dla tego staruszka, a więc nie zgłodnieje tak długo jak tu jesteś.\" "
     lpdcat serious "\"Ja nie mam aż tyle szczęścia, ponieważ mój Fudegong nie ma już żadnych wyznawców...\" "
 
 # game/script/03_day2.rpy:1158
