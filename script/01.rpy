@@ -58,7 +58,7 @@ translate polish start_46435378:
 
     # b "Oh hey! Finally, there they are! "
 
-    b "Tak! są wreszcie! "
+    b "Tak! Są wreszcie! "
 
 
 
@@ -258,7 +258,7 @@ translate polish start_d82b9833:
 
     # b "H-{w=0.2}He can talk? He called me Liao... So he knows my name too? "
 
-    b "O-{w=0.2}Potrafi mówić? I nazwał mnie Liao... A więc zna moje imię?"
+    b "P-{w=0.2}Potrafi mówić? I nazwał mnie Liao... A więc zna moje imię?"
 
 
 
@@ -1132,7 +1132,7 @@ translate polish start_f99b9f07:
 
     # b "I didn't even hear them buzz the front door... Hopefully it's not a neigbhour coming to complain... I haven't been that noisy, have I? "
 
-    b "Nie słyszałem nikogo dzwoniącego do drzwi wejściowych... Mam nadzieję, że to nie sąsiad przyszedł się poskarżyć... Nie byłem aż taki głośny, prawda? "
+    b "Nie słyszałem nikogo dzwoniącego do drzwi wejściowych... Mam nadzieję, że to nie sąsiadka przyszła się poskarżyć... Nie byłem aż taki głośny, prawda? "
 
 
 
@@ -1492,7 +1492,7 @@ translate polish start_8c96b8a5:
 
     voice voice_file.lpd(1,9)
 
-    lpd normal "\"Duch mglistej pantery. \" "
+    lpd normal "\"Duch mglistej pantery.\" "
 
 
 
@@ -1576,7 +1576,7 @@ translate polish start_373e1d4f:
 
     voice voice_file.lpd(1,11)
 
-    lpd normal "\"Ty...móc widzieć.\" "
+    lpd normal "\"Ty... móc widzieć.\" "
 
 
 
@@ -2158,7 +2158,7 @@ translate polish start_53dca347:
 
     voice voice_file.lpdcat(1,1)
 
-    senpai "\"Hej Liao, dzwonię by sprawdzić co z tobą, bo przed wyjściem  bardzo słabo wyglądałeś. Trochę się martwiliśmy. Czy czujesz się już lepiej?\" "
+    senpai "\"Hej Liao, dzwonię by sprawdzić co z tobą, bo przed wyjściem bardzo słabo wyglądałeś. Trochę się martwiliśmy. Czy czujesz się już lepiej?\" "
 
     senpai "\"Pomyślałem, że będziesz głodny, więc kupiłem dla nas co nieco. Zjedzmy razem obiad!\" "
 
@@ -2812,7 +2812,7 @@ translate polish start_e71b8846:
 
     voice voice_file.tig(1,33)
 
-    tig laugh_2 "\"Ukochanym z dzieciństwa, nieprawdaż?\" " with flash
+    tig laugh_2 "\"Dziecięcą sympatią, nieprawdaż?\" " with flash
 
 
 
@@ -2972,7 +2972,7 @@ translate polish start_ffe3c9ed:
 
     voice voice_file.lpdcat(1,20)
 
-    lpdcat difficult "\"Tak naprawdę to jestem tygrysim strażnikiem małej świątyni w Miaoli... \" "
+    lpdcat difficult "\"Tak naprawdę to jestem tygrysim strażnikiem małej świątyni w Miaoli...\" "
 
 
 
@@ -3636,7 +3636,7 @@ translate polish start_fb123749:
 
     # b "My neighbor's ground-shaking roar thunders through the walls... Crap... "
 
-    b "Wstrząsający ryk mojego sąsiada dochodzi zza ściany... Cholera... "
+    b "Wstrząsający ryk mojej sąsiadki dochodzi zza ściany... Cholera... "
 
 
 
@@ -3936,7 +3936,7 @@ translate polish start_cf9e2f72:
 
     # b "Granted, within the club it's no secret that me and Senpai are gay. Senpai himself is quite the charmer and cute to boot. His potential suitors alone could fill a whole classroom. "
 
-    b "Pewnie, w klubie to żadna tajemnica, że ja i Senpai jesteśmy gejami. Sam Senpai jest całkiem uroczy i słodki aż do bólu. Jego wielbiciele mogliby pełnić całą klasę. "
+    b "Pewnie, w klubie to żadna tajemnica, że ja i Senpai jesteśmy gejami. Sam Senpai jest całkiem uroczy i słodki aż do bólu. Jego wielbiciele mogliby zapełnić całą klasę. "
 
 
 
@@ -5188,7 +5188,7 @@ translate polish start_4acd34bf:
 
     # avt "\"So you're not {i}actually{/i} \ Yan Shu-Chi Senpai?\" "
 
-    avt "\" A więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpai'em?\" "
+    avt "\"A więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpai'em?\" "
 
 
 
@@ -5352,7 +5352,7 @@ translate polish start_56c75a53:
 
     voice voice_file.lpdcat(1,64)
 
-    lpdcat angry "\"Hej! Co masz na myśli przez {i}kociaka!\"{/i} "
+    lpdcat angry "\"Hej! Co masz na myśli przez {i}kociaka!{/i}\" "
 
 
 
