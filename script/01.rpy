@@ -896,7 +896,7 @@ translate polish start_a99dd369:
 
     # b "The only thing is me being exhausted, but considering how much I was running around at the performance tonight, it's not like I shouldn't be tired anyway. "
 
-    b "Do głowy przychodzi mi jedynie fakt, że jestem zmęczony, ale tak pewnie powinno być\nbiorąc pod uwagę ile nalatałem się przy dzisiejszym występie. "
+    b "Do głowy przychodzi mi jedynie fakt, że jestem zmęczony; ale tak pewnie powinno być\nbiorąc pod uwagę ile nalatałem się przy dzisiejszym występie. "
 
 
 
