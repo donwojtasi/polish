@@ -242,7 +242,7 @@ translate polish s06_36a9721a:
 translate polish s06_3245a812:
 
     # avt "\"And that means that the only way you'll be happy is if I go home?\" "
-    avt ""
+    avt "\"A to oznacza, że będziesz szczęśliwy tylko wtedy, gdy wrócę do domu?\" "
 
 # game/script/06.rpy:116
 translate polish s06_03a33fe7:
