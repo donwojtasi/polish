@@ -36,13 +36,13 @@ translate polish week2_01_881eb04f:
     # b "As far as club goes, the other guys still don't buy that there's nothing going on between me and Senpai. "
     # b "I don't even bother taking them on about it anymore. I've just learned to be okay about it. After all, getting rid of Senpai is mission impossible. "
     b "Chłopaki w klubie wciąż nie chcą uwierzyć, że między mną a Senpai'em nic nie zaszło. "
-    b "Już więcej nie próbuję im tego tłumaczyć. Nauczyłem się tym nie przejmować. Pozbycie się Senpai'a jest przecież niemożliwe. "
+    b "Już nie próbuję im tego tłumaczyć. Nauczyłem się tym nie przejmować. Pozbycie się Senpai'a jest przecież niemożliwe. "
 
 # game/script/05_week2.rpy:21
 translate polish week2_01_58f01429:
 
     # b "All in all, I still can't say living with these cats is something I've gotten used to. "
-    b "W sumie to wciąż nie mogę powiedzieć, że przywykłem do życia z tymi kotami. "
+    b "W sumie to wciąż nie mogę powiedzieć, że życie z tymi kotami to coś do czego przywykłem. "
 
 # game/script/05_week2.rpy:23
 translate polish week2_01_3fd7162a:
@@ -54,7 +54,7 @@ translate polish week2_01_3fd7162a:
 translate polish week2_01_170185c7:
 
     # b "In the end there's nothing else I can do but to try and survive this. Besides, it's not like everything is to hate about it. "
-    b "Koniec końców, nie mogę zrobić nic innego, niż spróbować to jakoś znieść. Zresztą, to nie tak, że w wszystko w obecnej sytuacji mi przeszkadza. "
+    b "Koniec końców, mogę jedynie próbować to jakoś znieść. Zresztą, to nie tak, że wszystko w obecnej sytuacji mi przeszkadza. "
 
 # game/script/05_week2.rpy:27
 translate polish week2_01_0912708c:
@@ -66,7 +66,7 @@ translate polish week2_01_0912708c:
 translate polish s05_5_633401d9:
 
     # b "That day, I was going to the bookstore to see if there was anything I would want to pick up and read, for myself and partially at the request of a certain guardian tiger. "
-    b "Tego dnia wybrałem się do księgarni by zobaczyć, czy jest coś co akurat chciałbym przeczytać. Częściowo dla siebie, a częściowo na prośbę pewnego tygrysiego strażnika. "
+    b "Tego dnia wybrałem się do księgarni by zobaczyć, czy znajdę coś co akurat chciałbym przeczytać. Częściowo dla siebie, a częściowo na prośbę pewnego tygrysiego strażnika. "
 
 # game/script/05_week2.rpy:41
 translate polish s05_5_1bc03641:
@@ -80,21 +80,21 @@ translate polish s05_5_1bc03641:
 translate polish s05_5_a1138ca6:
 
     # b "So it was just Tiger and I, browsing about the literature section as usual. "
-    b "Tak więc tylko ja i Tygrys przeglądaliśmy dział z literaturą. "
+    b "Tak więc tylko my dwaj przeglądaliśmy dział z literaturą. "
 
 # game/script/05_week2.rpy:45
 translate polish s05_5_07e7f8fc:
 
     # b "I was keeping an eye out for a certain collection of short stories, but I couldn't find see it on the shelves. "
     # b "Instead I resorted to looking around for anything that catches my interest. "
-    b "Szukałem pewnego zbioru krótkich opowiadań, ale nie mogłem go nigdzie znaleźć na półkach. "
+    b "Miałem na oku pewien zbiór krótkich opowiadań, ale nie mogłem go nigdzie znaleźć. "
     b "Postanowiłem, że rozejrzę się za czymkolwiek, co mnie zainteresuje. "
 
 # game/script/05_week2.rpy:47
 translate polish s05_5_b58b64a0:
 
     # b "I check over a few book covers, but none struck my tastes. So I kept browsing along down the shop, finding myself in a corner that I don't recall ever paying attention to before. "
-    b "Przeleciałem wzrokiem po kilku okładkach, ale nic nie trafiło w mój gust. Buszowałem dalej wśród półek, niespodzianie znajdując się w zakamarku, na który wcześniej nie zwracałem uwagi. "
+    b "Przeleciałem wzrokiem po kilku okładkach, ale nic nie trafiło w mój gust. Buszowałem dalej wśród półek, niespodzianie znajdując się w zakamarku na który wcześniej nie zwracałem uwagi. "
 
 # game/script/05_week2.rpy:52
 translate polish s05_5_64358128:
@@ -128,7 +128,7 @@ translate polish s05_5_ee853f05:
 translate polish s05_5_1c46e06c:
 
     # b "I'm surprised at Tiger's interest in these school textbooks. It just looks like boring study material tome.. "
-    b "Zdziwiło mnie, że Tygrys zainteresował się szkolnymi podręcznikami. Przecież wyglądają jak nudne książki do nauki... "
+    b "Zdziwiło mnie, że Tygrys zainteresował się szkolnymi podręcznikami. To przecież tylko nudny materiał do wkucia... "
 
 # game/script/05_week2.rpy:62
 translate polish s05_5_61d54ce0:
@@ -164,7 +164,7 @@ translate polish s05_5_ca981441:
 translate polish s05_5_8cb99e55:
 
     # b "I'm not too sure about Tiger's grasp on physics, but it seems like the explanations are given through analogous stories. He'll probably get the gist of it. "
-    b "Nie jestem pewien jak dużo Tygrys wie o fizyce ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać o co chodzi. "
+    b "W sumie nie wiem jak dużo Tygrys wie o fizyce, ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać o co chodzi. "
 
 # game/script/05_week2.rpy:72
 translate polish s05_5_b5a958a9:
@@ -208,7 +208,7 @@ translate polish s05_5_3e46cb3d:
     # voice voice_file.tig(5,7)
     # tig laugh_2 "\"I believe I'll keep flipping through this one for now, good luck.\" "
     voice voice_file.tig(5,7)
-    tig laugh_2 "Dobrze, powodzenia. Myślę, że przejrzę sobie tę w międzyczasie.\" "
+    tig laugh_2 "\"Dobrze, powodzenia. Myślę, że przejrzę sobie tę w międzyczasie.\" "
 
 # game/script/05_week2.rpy:84
 translate polish s05_5_b4821494:
@@ -2754,7 +2754,7 @@ translate polish cg_04_b20bf773:
 translate polish cg_04_9181ec33:
 
     # b "The staff member shows us where to find some robes, towels, and drinking water. Then they remind us of the time limit, wish us to enjoy our time time and leave us be. "
-    b "Obsługa pokazuje nam gdzie znaleźć okrycia wierzchnie, ręczniki i wodę do picia. Przypominają nam o limicie czasowym, życzą miłego pobytu i zostawiają nas samych. "
+    b "Obsługa pokazuje nam gdzie znaleźć szlafroki, ręczniki i wodę do picia. Przypominają nam o limicie czasowym, życzą miłego pobytu i zostawiają nas samych sobie. "
 
 # game/script/05_week2.rpy:1247
 translate polish cg_04_024c3669:
@@ -2768,7 +2768,7 @@ translate polish cg_04_f59e00be:
     # voice voice_file.lpdcat(5,42)
     # lpdcat normal "\"Alright Liao, the clock's ticking. So let's get started!\" "
     voice voice_file.lpdcat(5,42)
-    lpdcat normal "\"Dobra Liao, czas ucieka. Zacznijmy się przygotowywać!\" "
+    lpdcat normal "\"Dobra Liao, czas ucieka. Szykuj się!\" "
 
 # game/script/05_week2.rpy:1256
 translate polish cg_04_7666ecb7:
@@ -2776,7 +2776,7 @@ translate polish cg_04_7666ecb7:
     # voice voice_file.lpdcat(5,43)
     # lpdcat normal "\"You can store your clothes here and your robe is hanging up over there. I don't normally use the slippers but you can use them if you want.\" "
     voice voice_file.lpdcat(5,43)
-    lpdcat normal "\"Możesz przechować tutaj swoje ubrania, a twoje okrycie wisi w tym miejscu. Zazwyczaj nie noszę kapci, ale możesz je założyć jeśli chcesz.\" "
+    lpdcat normal "\"Możesz tu schować swoje ubrania, a twój szlafrok wisi tam. Zazwyczaj nie noszę kapci, ale możesz je założyć jeśli chcesz.\" "
 
 # game/script/05_week2.rpy:1258
 translate polish cg_04_33523882:
@@ -3416,7 +3416,7 @@ translate polish cg_04_21eb6419:
 translate polish cg_04_4af32c05:
 
     # b "I get out of the pool and notice the temperature difference instantly as a wave of cool air spreads over my body. I quickly grab my robe and a bottle of water. "
-    b "Wychodzę z basenu i od razu odczuwam różnicę temperatury. Mojego ciała dosięga fala zimnego powietrza. Szybko podnoszę moje okrycie i butelkę wody. "
+    b "Wychodzę z basenu i od razu odczuwam różnicę temperatury. Fala zimnego powietrza uderza w moje ciało. Szybko podnoszę szlafrok i butelkę wody. "
 
 # game/script/05_week2.rpy:1505
 translate polish cg_04_ea231368:
@@ -3436,7 +3436,7 @@ translate polish cg_04_d9647bdb:
 translate polish cg_04_71c5f1d5:
 
     # b "Senpai's left the bath as well. He walks around with a robe on which is too large for him, the lower hem dragging across the ground behind his feet. "
-    b "Senpai też wychodzi z kąpieli. Chodzi wokoło zakryty okryciem, które jest dla niego za duże, jego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
+    b "Senpai też wychodzi z kąpieli. Krąży wokoło w zbyt dużym szlafroku, którego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
 
 # game/script/05_week2.rpy:1511
 translate polish cg_04_184883a6:
@@ -3598,7 +3598,7 @@ translate polish week2_08_048ae27d:
     # voice voice_file.lpdcat(5,72)
     # lpdcat pu "\"You asked for it. I told you not to order so much for those two gluttons.\" "
     voice voice_file.lpdcat(5,72)
-    lpdcat pu "\"Sam się o to prosiłeś. Mówiłem ci, żebyś nie zamawiał tak dużo dla tych dwóch łakomczuchów.\" "
+    lpdcat pu "\"Sam się o to prosiłeś. Mówiłem ci, żebyś nie zamawiał tak dużo tym dwóm łakomczuchom.\" "
 
 # game/script/05_week2.rpy:1648
 translate polish week2_08_18c0192e:
