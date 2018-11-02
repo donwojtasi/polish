@@ -1104,7 +1104,7 @@ translate polish s06_c9dc8ac1:
 
     # b "\"And Leopard, he's determined to get {i}something{/i} \ across to his tribe.\" "
 
-    b "Pewnie, są takie rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy, ale to nie tyczy się wszystkiego...\" "
+    b "Pewnie, są rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy, ale to nie tyczy się wszystkiego...\" "
 
     b "Może Pantera potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu?\" "
 
@@ -1120,9 +1120,9 @@ translate polish s06_a170659b:
 
     # b "Being Han Chinese makes being trusted by his Aboriginal tribe hard enough as it is. Being a voice on the phone wouldn't help one bit... "
 
-    b ""
+    b "Równie ważny jest fakt, że muszą zaufać mi jako wyroczni. "
 
-    b ""
+    b "Bycie chińczykiem Han samo w sobie to utrudnia. Jako głos w słuchawce miałbym jeszcze mniejsze szanse... "
 
 
 
@@ -1138,7 +1138,7 @@ translate polish s06_b0a1ef66:
 
     voice voice_file.lpdcat(6,1)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Liaaaaao- Liao! Zmęczony? Chcesz odpocząć? Zróbmy sobie przerwę!\" "
 
 
 
@@ -1150,7 +1150,7 @@ translate polish s06_041c0d8d:
 
     # avt "\"Huh? Oh, I'm fine...\" "
 
-    avt ""
+    avt "\"Hę? Och, nic mi nie jest...\" "
 
 
 
@@ -1162,7 +1162,7 @@ translate polish s06_6e957ef1:
 
     # b "\"What's he on about? I'm already resting!\" "
 
-    b ""
+    b "O co mu chodzi? Przecież już odpoczywam! "
 
 
 
@@ -1178,7 +1178,7 @@ translate polish s06_cc89f667:
 
     voice voice_file.lpdcat(6,2)
 
-    lpdcat normal ""
+    lpdcat normal "\"Będziesz miał coś przeciwko, jeśli się tu wcisnę? Zdaje się, że ty i Kulau macie tu sami mnóstwo frajdy.\" "
 
 
 
@@ -1190,7 +1190,7 @@ translate polish s06_97b38a0a:
 
     # avt "\"No, not at all. In fact, it's a pretty serious discussion.\" "
 
-    avt ""
+    avt "\"Nie, wcale nie. Naprawdę to dość poważna rozmowa.\" "
 
 
 
@@ -1206,7 +1206,7 @@ translate polish s06_8b76fd29:
 
     voice voice_file.lpdcat(6,3)
 
-    lpdcat normal ""
+    lpdcat normal "\"O pójściu do Wutai?\" "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish s06_46ca5187:
 
     # avt "\"Yeah, that...\" "
 
-    avt ""
+    avt "\"Tak, o tym...\" "
 
 
 
@@ -1234,7 +1234,7 @@ translate polish s06_15332af7:
 
     voice voice_file.lpdcat(6,4)
 
-    lpdcat normal ""
+    lpdcat normal "\"To co, mógłbym do was dołączyć?\" "
 
 
 
@@ -1246,7 +1246,7 @@ translate polish s06_e0996ae1:
 
     # avt "\"Is that even a good idea? Aren't you two basically opponents over me?\" "
 
-    avt ""
+    avt "\"Czy to na pewno dobry pomysł? Nie jesteście obaj rywalami w sporze o mnie?\" "
 
 
 
@@ -1264,7 +1264,9 @@ translate polish s06_7c188729:
 
     voice voice_file.lpdcat(6,5)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Tak {i}bym{/i} \ tego nie ujął. Jeśli nie wrócisz do domu- mógłbyś pomóc mi w odnowieniu świątyni, a {i}potem{/i} \ iść do Wutai. Bułka z masłem!\" "
+
+    lpdcat laugh "\"Wiem, że Kulau chciałby tam iść JAK NAJSZYBCIEJ, ale przecież możemy to jeszcze przedyskutować, prawda? A więc jak na razie jesteśmy kumplami!\" "
 
 
 
