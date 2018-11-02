@@ -1544,7 +1544,7 @@ translate polish s06_95a1311a:
 
     # b "I know it wont give me much time, but it's better than nothing. "
 
-    b "Ale dzisiaj wpadłem na chytry plan, który {i}powinien{/i} \ zadziałać... Sprowadza się do rozproszenia uwagi Tygrysa i Pantery ogromem jedzenia, które można zaleźć na stołówce. W tym czasie ukradkiem zadam Senpai'owi parę pytań. "
+    b "Ale dzisiaj wpadłem na chytry plan, który {i}powinien{/i} \ zadziałać... Sprowadza się do rozproszenia uwagi Tygrysa i Pantery ogromem jedzenia na stołówce. W tym czasie ukradkiem zadam Senpai'owi parę pytań. "
 
     b "Wiem, że nie zyskam w ten sposób dużo czasu, ale to lepsze niż nic. "
 
@@ -1598,7 +1598,7 @@ translate polish s06_da55dea0:
 
     # avt "\"You know— about what you want— about going with you to Miaoli to help restore your temple...\" "
 
-    avt "\"Wiesz co- chcę porozmawiać- o pójściu z tobą do Miaoli by pomóc ci odnowić twoją świątynię...\" "
+    avt "\"Wiesz co- chcę porozmawiać- o pójściu z tobą do Miaoli w celu pomocy z odnową twojej świątyni...\" "
 
 
 
