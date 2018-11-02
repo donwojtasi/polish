@@ -252,7 +252,9 @@ translate polish s06_03a33fe7:
     # tig normal "\"But truly, it would seem like a waste. A waste of something that makes you special.\" "
     # tig normal "\"I can foresee how your parents would react if they knew. The other guardian tigers surely would wish the same for you Liao.\" "
     voice voice_file.tig(6,12)
-    tig normal ""
+    tig normal "\"Wiem, że nie chcesz tam wracać Liao. Jeśli do tego dojdzie, będę cię wspierał.\" "
+    tig normal "\"To doprawdy byłoby marnotrawstwo. Marnotrawstwo czegoś co czyni cię wyjątkowym.\" "
+    tig normal "\"Mogę przewidzieć, jak zareagowaliby twoi rodzice, gdyby o tym wiedzieli. Inni tygrysi strażnicy z pewnością życzyliby ci tego samego Liao.\" "
 
 # game/script/06.rpy:118
 translate polish s06_a1c638b3:
@@ -261,14 +263,16 @@ translate polish s06_a1c638b3:
     # tig normal "\"If you did choose to stay in Taipei... I suppose you could always open a small temple.\" "
     # tig normal "\"But if that's not what you wish. Then there's nothing me or anyone else can do about it.\" "
     voice voice_file.tig(6,13)
-    tig normal ""
+    tig normal "\"Gdybyś jednak postanowił zostać w Tajpej... Przypuszczam, że mógłbyś otworzyć tu małą świątynię.\" "
+    tig normal "\"A jeśli nie jest to tym, czego pragniesz- ani ja, ani nikt inny nie stanie ci na drodze.\" "
 
 # game/script/06.rpy:120
 translate polish s06_cc2dda03:
 
     # avt "\"......\" "
     # avt "\"So that's how it is...\" "
-    avt ""
+    avt "\"......\" "
+    avt "\"A więc tak to wygląda...\" "
 
 # game/script/06.rpy:122
 translate polish s06_151d3f3d:
@@ -277,13 +281,14 @@ translate polish s06_151d3f3d:
     # tig normal "\"It's as I said earlier. There's no need to rush, you have plenty of time to think this \nover.\" "
     # tig laugh_1 "\"Just don't go promising your life away to some kitten and there won't be a problem. \" "
     voice voice_file.tig(6,14)
-    tig normal ""
+    tig normal "\"Tak jak mówiłem wcześniej. Nie ma się po co śpieszyć, masz sporo czasu by to wszystko przemyśleć.\" "
+    tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie jakimś kociakom i nie będzie żadnego problemu.\" "
 
 # game/script/06.rpy:124
 translate polish s06_a336dfd9:
 
     # avt "\"...Yeah, I-{w=0.2}I'll think about it.\" "
-    avt ""
+    avt "\"...tak, p-{w=0.2}pomyślę nad tym.\" "
 
 # game/script/06.rpy:126
 translate polish s06_48eef401:
@@ -291,20 +296,21 @@ translate polish s06_48eef401:
     # voice voice_file.tig(6,15)
     # tig normal "\"...That's good.\" "
     voice voice_file.tig(6,15)
-    tig normal ""
+    tig normal "\"To dobrze...\" "
 
 # game/script/06.rpy:128
 translate polish s06_bda77211:
 
     # b "For a while, an uneasy silence dwelled over us, so I decided to try and change the \nsubject. "
-    b ""
+    b "Na moment nastała pomiędzy nami nieprzyjemna cisza, zatem postanowiłem zmienić temat. "
 
 # game/script/06.rpy:130
 translate polish s06_20477842:
 
     # avt "\"...What kind of things would you like to look up? On the internet that is.\" "
     # avt "\"Do you want to have a look together when we get back?\" "
-    avt ""
+    avt "\"...jakich rzeczy chciałbyś poszukać? To jest- w internecie.\" "
+    avt "\"Może chcesz poszukać razem ze mną gdy wrócimy?\" "
 
 # game/script/06.rpy:136
 translate polish s06_d3410449:
@@ -312,13 +318,13 @@ translate polish s06_d3410449:
     # voice voice_file.tig(6,16)
     # tig gaze "\"Really?\" "
     voice voice_file.tig(6,16)
-    tig gaze ""
+    tig gaze "\"Naprawdę?\" "
 
 # game/script/06.rpy:138
 translate polish s06_5147e7d8:
 
     # b "I think that brought up his mood a bit. "
-    b ""
+    b "Myślę, że trochę poprawiło mu to nastrój. "
 
 # game/script/06.rpy:141
 translate polish s06_617f052c:
@@ -327,51 +333,54 @@ translate polish s06_617f052c:
     # tig gaze "\"Ok, so see these books here? I wish to look up this topic, and this one... most likely that one too...\" "
     # tig gaze "\"Liao, should you not be using your phone to write these down?\" "
     voice voice_file.tig(6,17)
-    tig gaze ""
+    tig gaze "\"Dobrze, widzisz te książki tutaj? Chciałbym przejrzeć ten temat, i ten też... i najprawdopodobniej tamten...\" "
+    tig gaze "\Liao, czy nie powinieneś ich sobie zapisać w telefonie?\" "
 
 # game/script/06.rpy:143
 translate polish s06_63604fb2:
 
     # b "Oh, he's caught on to people using phones to keep notes now... These books look pretty technical. How the heck does he make sense of all this? "
-    b ""
+    b "Och, załapał, że ludzie używają teraz telefonów by robić notatki... Te książki wyglądają dość technicznie. Jak on potrafi cokolwiek z tego zrozumieć? "
 
 # game/script/06.rpy:145
 translate polish s06_9f611634:
 
     # b "In short, I end up spending the rest of the night looking up stuff for him on the internet... I wanted to play games tonight too... "
-    b ""
+    b "Krótko mówiąc- koniec końców spędzam resztę nocy szukając w internecie rzeczy o które prosił... A chciałem sobie pograć w jakieś gry... "
 
 # game/script/06.rpy:160
 translate polish s06_d5cebe46:
 
     # b "I spend the next few days trying to get some alone time with Leopard to speak with him, which is easier said than done. "
     # b "I can't exactly talk to him during class... and afterwards Tiger always joins us. "
-    b ""
+    b "Przez następne kilka dni próbuję pogadać sam na sam z Panterą, co nie jest najłatwiejszym zadaniem. "
+    b "Nie mogę rozmawiać z nim na zajęciach... a po nich Tygrys dołącza do nas. "
 
 # game/script/06.rpy:162
 translate polish s06_5ed77db6:
 
     # b "But dance practice is going to be my best chance! "
-    b ""
+    b "Myślę, że podczas ćwiczeń tanecznych nadarzy się najlepsza okazja! "
 
 # game/script/06.rpy:164
 translate polish s06_555bbd83:
 
     # b "Leopard always comes to dance practice, Tiger's always off to the side brooding and Senpai's usually busy with the other Senior students. "
     # b "Today, I make sure to go to a corner away from Senpai and Tiger to practise. Leopard followed me so this should be as good of a time as any. "
-    b ""
+    b "Pantera zawsze na nie przychodzi, podczas gdy Tygrys stoi na uboczu, a Senpai zazwyczaj jest zajęty swoimi rówieśnikami. "
+    b "Dzisiaj upewniam się, że stoję gdzieś na rogu z dala od Senpai'a i Tygrysa. Pantera idzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
 
 # game/script/06.rpy:166
 translate polish s06_947f98a3:
 
     # b "As much as it's never boaring to watch Leopard dance... "
-    b ""
+    b "Tak dobry jak taniec Pantery, którego oglądanie nigdy mi się nie nudzi... "
 
 # game/script/06.rpy:170
 translate polish s06_58f5fe5f:
 
     # avt "\"Hey Leopard, I've been meaning to ask you...\" "
-    avt ""
+    avt "\"Hej Pantero, chciałem cię o coś zapytać...\" "
 
 # game/script/06.rpy:172
 translate polish s06_6a584982:
