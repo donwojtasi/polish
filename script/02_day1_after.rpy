@@ -836,7 +836,7 @@ translate polish day1_after_01_tig_a3b30c65:
 
     voice voice_file.tig(2,5)
 
-    tig normal "\"Wtedy nie byłeś w stanie mnie dotknąć. Mimo wszystko jesteś dla mnie jak dziecięca miłość i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
+    tig normal "\"Wtedy nie byłeś w stanie mnie dotknąć. Mimo wszystko jesteś dla mnie jak dziecięca sympatia i dlatego to dla mnie normalne, by cię obejmować i z tobą spać.\" "
 
 
 
@@ -848,7 +848,7 @@ translate polish day1_after_01_tig_6c29e1ce:
 
     # avt "\"Oh so I'm your childhood sweetheart now?\" " with hshake
 
-    avt "\"Och, to teraz jestem twoją dziecięcą miłością?\" " with hshake
+    avt "\"Och, to teraz jestem twoją dziecięcą sympatią?\" " with hshake
 
 
 
@@ -880,7 +880,7 @@ translate polish day1_after_01_tig_7f7ef53d:
 
     voice voice_file.tig(2,7)
 
-    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Jak tego nie nazwiesz, jesteś moim kolegą albo dziecięcą miłością.\" "
+    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Jak tego nie nazwiesz, jesteś moim kolegą albo dziecięcą sympatią.\" "
 
 
 
@@ -912,7 +912,7 @@ translate polish day1_after_01_tig_f0cb9830:
 
     tig normal "\"Istotnie, po prostu jestem {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
 
-    tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym, jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
+    tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mojej pierwotnej formy.\" "
 
 
 
@@ -924,7 +924,7 @@ translate polish day1_after_01_tig_22fea153:
 
     # avt "\"You can't be my childhood sweetheart if you were only born a year ago!\" "
 
-    avt "\"Nie możesz być moim dziecięcą miłością, jeśli urodziłeś się tylko rok temu!\" "
+    avt "\"Nie możesz być moim dziecięcą sympatią, jeśli urodziłeś się tylko rok temu!\" "
 
 
 
@@ -972,7 +972,7 @@ translate polish day1_after_01_tig_69d9fd03:
 
     tig normal "\Dobrze, już dobrze- Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
 
-    tig normal "\"To co myślisz? Kwalifikuję się do bycia twoją dziecięcą miłością?\" "
+    tig normal "\"To co myślisz? Kwalifikuję się do bycia twoją dziecięcą sympatią?\" "
 
 
 
@@ -1024,7 +1024,7 @@ translate polish day1_after_01_tig_43a107b2:
 
     # avt "\"Like, in stories the childhood sweethearts typically get married to each other. \nYou know that right?\" "
 
-    avt "\"W opowieściach dziecięca miłość zazwyczaj kończy się na ślubie. Wiesz o tym, prawda?\" "
+    avt "\"W opowieściach dziecięca sympatia zazwyczaj kończy się na ślubie. Wiesz o tym, prawda?\" "
 
 
 

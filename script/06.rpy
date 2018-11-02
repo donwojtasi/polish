@@ -386,7 +386,7 @@ translate polish s06_58f5fe5f:
 translate polish s06_6a584982:
 
     # b "I get out my words between breaks in the routine I was working on. "
-    b ""
+    b "Wypowiadam te słowa pomiędzy "
 
 # game/script/06.rpy:174
 translate polish s06_00fe0a70:
