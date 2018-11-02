@@ -1278,7 +1278,7 @@ translate polish s06_3bc0cae9:
 
     # b "Senpai grabs Leopard's paw in his to emphasise his point. Leopard doesn't seem to object to the move, but his face is {i}always{/i} \ the same, so I can't really tell either way. "
 
-    b ""
+    b "Senpai chwyta Panterę za łapę by podkreślić swój wywód. Nie wydaje się, żeby Pantera miał coś przeciwko temu, ale jego wyraz twarzy jest {i}zawsze{/i} \ taki sam, więc ciężko mi to stwierdzić. "
 
 
 
@@ -1290,7 +1290,7 @@ translate polish s06_2d24582b:
 
     # avt "\"Ehh... Alright. But Senpai, what's with you calling him Kulau?\" "
 
-    avt ""
+    avt "\"Ehh... No dobra. Ale Senpai- czemu cały czas nazywasz go \"Kulau\"?\" "
 
 
 
@@ -1302,7 +1302,7 @@ translate polish s06_bb69225c:
 
     # avt "\"His name is Likulau. 'Li' isn't his family name or anything, that's just how the Rukai language works.\" "
 
-    avt ""
+    avt "\"Jego imię to Likulau. \"Li\" nie jest nazwiskiem jego rodziny, ani niczym w tym stylu. Tak po prostu działa język Rukai.\" "
 
 
 
@@ -1318,7 +1318,7 @@ translate polish s06_9ae7d685:
 
     voice voice_file.lpdcat(6,6)
 
-    lpdcat normal ""
+    lpdcat normal "\"H-{w=0.2}hej, wiem to! Po prostu pomyślałem, że skoro cały czas nazywamy naszych kumpli po imieniu, \"Kulau\" brzmiałoby fajnie.\"  "
 
 
 
@@ -1330,7 +1330,7 @@ translate polish s06_d1e1c9d5:
 
     # avt "\"Isn't that a bit disrespectful?\" "
 
-    avt ""
+    avt "\"Nie jest to oznaka braku szacunku?\" "
 
 
 
@@ -1342,7 +1342,7 @@ translate polish s06_e0b55215:
 
     # b "I'm kinda worried that Leopard would take offense to Senpai's new nickname for him... but his expression never changes. "
 
-    b ""
+    b "Trochę się martwię, iż Pantera mógłby wziąć swoje nowe przezwisko za obrazę... ale wyraz jego twarzy nigdy się nie zmienia. "
 
 
 
@@ -1354,7 +1354,7 @@ translate polish s06_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -1366,7 +1366,7 @@ translate polish s06_76e8bb67:
 
     # b "I don't really know what to make of it, but at least doesn't seem to disapprove. "
 
-    b ""
+    b "Nie wiem co mam o tym myśleć, ale przynajmniej nie wydaje się by miał coś przeciwko. "
 
 
 
@@ -1382,7 +1382,7 @@ translate polish s06_98c1f4c2:
 
     voice voice_file.lpdcat(6,7)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"A zatem od teraz Kulau i ja jesteśmy kumplami!\" "
 
 
 
@@ -1394,7 +1394,7 @@ translate polish s06_9d88945f:
 
     # b "It seems like an overly one-sided friendship at the very least... "
 
-    b ""
+    b "To mi wygląda na bardzo jednostronną przyjaźń... "
 
 
 
@@ -1406,7 +1406,7 @@ translate polish s06_673b7a00:
 
     # avt "\"Well, then— You know Senpai, it's pretty rude to cut into other people's \nconversations.\" "
 
-    avt ""
+    avt "\"W takim razie- Wiesz Senpai, to trochę nie na miejscu wtrącać się w rozmowy innych.\" "
 
 
 
@@ -1422,7 +1422,7 @@ translate polish s06_bcaf4a48:
 
     voice voice_file.lpdcat(6,8)
 
-    lpdcat normal ""
+    lpdcat normal "\"Och? No dobra, później sprawdzę co tam u Kulau, na razie!\" "
 
 
 
@@ -1434,7 +1434,7 @@ translate polish s06_54657660:
 
     # b "Aaaand— There he goes off again... {w=0.5}a classic Senpai move. "
 
-    b ""
+    b "Nooooo i- Znowu sobie gdzieś idzie... {w=0.5}typowe posunięcie Senpai'a. "
 
 
 
@@ -1446,7 +1446,7 @@ translate polish s06_47ef9663:
 
     # avt "\"Anyway... I guess we should probably continue talking about this later then?\" "
 
-    avt ""
+    avt "\"Nieważne... Myślę, że najlepiej będzie jeśli dokończymy tę rozmowę później, zgoda?\" "
 
 
 
@@ -1458,7 +1458,7 @@ translate polish s06_1c1d4e55_1:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -1474,7 +1474,7 @@ translate polish s06_d7121180:
 
     voice voice_file.lpd(6,10)
 
-    lpd normal ""
+    lpd normal "\"...tak.\" "
 
 
 
@@ -1486,7 +1486,7 @@ translate polish s06_25305bd6:
 
     # b "Leopard takes a while to respond. I guess he's got his mind on something else... {w=0.5}I wonder what. "
 
-    b ""
+    b "Pantera czeka chwilę z odpowiedzią. Pewnie jego myśli błądzą gdzie indziej... {w=0.5}Zastanawia mnie to. "
 
 
 
@@ -1498,7 +1498,7 @@ translate polish s06_5ff062ab:
 
     # b "I can never tell with him... "
 
-    b ""
+    b "Nigdy nie można go rozszyfrować... "
 
 
 
