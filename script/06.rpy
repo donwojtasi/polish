@@ -2262,7 +2262,7 @@ translate polish s06_aab2f13e:
 
     voice voice_file.lpdcat(6,23)
 
-    lpdcat pout ""
+    lpdcat pout "\"Nawet jeśli nie jest- nie ma opcji bym pomagał mojemu {i}wrogowi!{/i}\" "
 
 
 
@@ -2278,7 +2278,7 @@ translate polish s06_54753f8c:
 
     voice voice_file.tig(6,30)
 
-    tig frown ""
+    tig frown "\"Nawet przez wzgląd na ciebie Liao, nie zaufałbym temu kociakowi.\" "
 
 
 
@@ -2290,7 +2290,7 @@ translate polish s06_5d1c4380:
 
     # b "They really do have it out for each other don't they? ...Should I do something? "
 
-    b ""
+    b "Naprawdę mają coś do siebie, prawda? ...czy powinienem coś z tym zrobić? "
 
 
 
@@ -2302,7 +2302,7 @@ translate polish s06_02_dont_convince_42279666:
 
     # avt "\"Okay— Okay— stop. Please, what is it really between you two?\" "
 
-    avt ""
+    avt "\"Dobrze- Dobrze- wystarczy. Proszę, co jest tak naprawdę między wami?\" "
 
 
 
@@ -2318,7 +2318,7 @@ translate polish s06_02_dont_convince_2423a0b7:
 
     voice voice_file.tig(6,31)
 
-    tig frown ""
+    tig frown "\"Ten mały kociak powinien odejść. Sprawy tym bardziej się skomplikują, im dłużej tu zostanie.\" "
 
 
 
@@ -2334,7 +2334,7 @@ translate polish s06_02_dont_convince_90276946:
 
     voice voice_file.lpdcat(6,24)
 
-    lpdcat pout ""
+    lpdcat pout "\"Och, a co z tobą, staruszku? Zawsze depczesz Liao po piętach. Oczekujesz, że cię posłucha, bo jesteś jakimś tam {i}opiekunem{/i} rodziny Lin!\" "
 
 
 
@@ -2346,7 +2346,7 @@ translate polish s06_02_dont_convince_1f423cbe:
 
     # avt "\"Hey— That's enough. Don't start fighting...\" "
 
-    avt ""
+    avt "\"Hej- Wystarczy już. Nie zaczynajcie walczyć...\" "
 
 
 
@@ -2362,7 +2362,7 @@ translate polish s06_02_dont_convince_1a7ba4e4:
 
     voice voice_file.tig(6,32)
 
-    tig frown ""
+    tig frown "\"Trzymaj się z dala od spraw naszej rodziny.\" "
 
 
 
@@ -2378,7 +2378,7 @@ translate polish s06_02_dont_convince_6b28ff1c:
 
     voice voice_file.lpdcat(6,25)
 
-    lpdcat pout ""
+    lpdcat pout "\"Tu chodzi o Liao, a nie o jego rodzinę! Liao to moja sprawa! Nie mieszaj się w to!\" "
 
 
 
@@ -2390,7 +2390,7 @@ translate polish s06_02_dont_convince_b6064780:
 
     # avt "\"Please... don't fight...\" "
 
-    avt ""
+    avt "\"Proszę... uspokójcie się...\" "
 
 
 
@@ -2404,7 +2404,9 @@ translate polish s06_02_dont_convince_841702d7:
 
     # b "Eventually, their voices died down, and we just sat there in an awkward silence... "
 
-    b ""
+    b "Na nic się zdał mój sprzeciw- wcale nie zwracali na mnie uwagi. Przerzucali się argumentami, mówiąc w kółko i w kółko o tym samym. "
+
+    b "Wreszcie ich głosy cichną i pogrążamy się w niezręcznej ciszy... "
 
 
 
@@ -2416,7 +2418,7 @@ translate polish s06_02_dont_convince_e326ceb8:
 
     # b "At first I felt helpless, but then I learnt to at least enjoy the brief peace and and quiet. "
 
-    b ""
+    b "Początkowo czułem się bezradny, ale z czasem nauczyłem się cieszyć każdą chwilą ciszy i spokoju. "
 
 
 
@@ -2428,7 +2430,7 @@ translate polish s06_02_convince_09636209:
 
     # avt "\"Hey, how about we take this from a different angle...\" "
 
-    avt ""
+    avt "\"Hej, a jakby tak spojrzeć na to z innej perspektywy...\" "
 
 
 
@@ -2440,7 +2442,7 @@ translate polish s06_02_convince_11dd25cb:
 
     # avt "\"Senpai, if you and Tiger can get used to helping each other out on the computer, then maybe he'd stop asking you to leave.\" "
 
-    avt ""
+    avt "\"Senpai, jeżeli ty i Tygrys przywykniecie do pomagania sobie nawzajem przy komputerze, to może on wreszcie przestanie kazać ci stąd odejść.\" "
 
 
 
@@ -2456,7 +2458,7 @@ translate polish s06_02_convince_c1ee19d1:
 
     voice voice_file.lpdcat(6,26)
 
-    lpdcat confused ""
+    lpdcat confused "\"Och, a co jeśli nie zmieni zdania...\" "
 
 
 
@@ -2468,7 +2470,7 @@ translate polish s06_02_convince_e1b67b34:
 
     # avt "\"Tiger, if I refuse to help— you won't have any other option but work with Senpai.\" "
 
-    avt ""
+    avt "\"Tygrysie, gdybym przestał ci pomagać, nie miałbyś innego wyjścia- potrzebowałbyś pomocy Senpai'a.\" "
 
 
 
@@ -2484,7 +2486,7 @@ translate polish s06_02_convince_fc76fccb:
 
     voice voice_file.tig(6,33)
 
-    tig frown ""
+    tig frown "\"Wcale nie. Jeśli Liao odmówiłby mi pomocy, po prostu przestałbym korzystać z komputera.\" "
 
 
 
@@ -2496,7 +2498,7 @@ translate polish s06_02_convince_5dc07503:
 
     # avt "\"Wouldn't that be a shame? It's only help clicking the mouse. It's not like you need to be friends, he just has to do what you say.\" "
 
-    avt ""
+    avt "\"To byłaby wielka szkoda, prawda? To jednie pomoc w klikaniu myszką. Nie musicie od razu zostawać przyjaciółmi, on ma tylko robić to co mu karzesz.\" "
 
 
 
@@ -2512,7 +2514,7 @@ translate polish s06_02_convince_338205fe:
 
     voice voice_file.tig(6,34)
 
-    tig frown ""
+    tig frown "\"Odpowiedź nadal brzmi nie...\" "
 
 
 
@@ -2524,7 +2526,7 @@ translate polish s06_02_convince_91cd0bd1:
 
     # avt "\"Hey, you don't {i}need{/i} \ to do it right now but please, promise me you two will think about it.\" "
 
-    avt ""
+    avt "\"Hej, nie {i}musicie{/i} \ robić tego teraz, ale proszę- obiecajcie mi, że to przemyślicie.\"  "
 
 
 
@@ -2540,7 +2542,7 @@ translate polish s06_02_convince_192b3262:
 
     voice voice_file.lpdcat(6,27)
 
-    lpdcat pout ""
+    lpdcat pout "\"Zgoda, jeśli to dla ciebie takie ważne, pomyślę o tym.\" "
 
 
 
@@ -2556,7 +2558,7 @@ translate polish s06_02_convince_af2bfe21:
 
     voice voice_file.tig(6,35)
 
-    tig frown ""
+    tig frown "\"Hmpf. Może później.\" "
 
 
 
@@ -2568,7 +2570,7 @@ translate polish s06_02_convince_e4ab3e6b:
 
     # b "They really don't intend on getting along any time soon, but what else can I do? I just have to ride it out and see how they go, I guess. "
 
-    b ""
+    b "Jak na razie naprawdę nie chcą się ze sobą dogadać, ale co jeszcze mogę zrobić? Muszę po prostu poczekać, by przekonać się jak sprawy potoczą się dalej. "
 
 
 
@@ -2580,7 +2582,7 @@ translate polish s06_03_d4bd4b29:
 
     # avt "\"Huh? Who could it be at this time...\" "
 
-    avt ""
+    avt "\"Hę? Kto to może być o tej godzinie...\" "
 
 
 
@@ -2592,7 +2594,7 @@ translate polish s06_03_7b549563:
 
     # b "I take out my phone... Oh, a call from home. "
 
-    b ""
+    b "Podnoszę telefon... Och, dzwonią do mnie z domu. "
 
 
 
@@ -2604,7 +2606,7 @@ translate polish s06_03_2f0269a6:
 
     # b "...This is totally going to be bad news isn't it? "
 
-    b ""
+    b "...to na pewno będą jakieś złe wieści, prawda? "
 
 
 
@@ -2616,7 +2618,7 @@ translate polish s06_03_dd060a87:
 
     # avt "\"Let me get this.\" "
 
-    avt ""
+    avt "\"Dajcie mi to odebrać.\" "
 
 
 
@@ -2628,7 +2630,7 @@ translate polish s06_03_25f484e9:
 
     # b "Well at least they stop bickering while I'm on the phone. "
 
-    b ""
+    b "Przynajmniej przestają się sprzeczać, kiedy rozmawiam przez telefon."
 
 
 
@@ -2640,7 +2642,7 @@ translate polish s06_03_fb443c61:
 
     # avt "\"Hello? Dad?\" "
 
-    avt ""
+    avt "\"Halo? Tata?\" "
 
 
 
@@ -2656,7 +2658,7 @@ translate polish s06_03_dce8c6d2:
 
     voice voice_file.brother(6,1)
 
-    phone "" with flash
+    phone "\"Liao, to ja.\" " with flash
 
 
 
@@ -2668,7 +2670,7 @@ translate polish s06_03_eb5a79e3:
 
     # avt "\"What? Bro?\" "
 
-    avt ""
+    avt "\"Co? To ty bracie?\" "
 
 
 
@@ -2684,7 +2686,7 @@ translate polish s06_03_40ee70e8:
 
     voice voice_file.brother(6,2)
 
-    phone ""
+    phone "\"Noooo- Liao, zaskoczyłem cię dzwoniąc o tej porze?\" "
 
 
 
@@ -2696,7 +2698,7 @@ translate polish s06_03_ffb4a25a:
 
     # avt "\"Hey, Dad's the only one who {i}ever{/i} \ calls me. So, yeah it's surprising to hear you bro!\" "
 
-    avt ""
+    avt "\"Hej, tata jako {i}jedyny{/i} \ do mnie dzwoni. A więc tak, to zaskakujące słyszeć cię bracie!\" "
 
 
 
@@ -2712,7 +2714,7 @@ translate polish s06_03_53341a76:
 
     voice voice_file.brother(6,3)
 
-    phone ""
+    phone "\"Dobrze wiesz, że nie lubię rozmawiać przez telefon. Tata powiedział mi o tym, że widzisz tygrysich strażników. Nie przegapiłbym okazji by cię o to zapytać.\" "
 
 
 
@@ -2724,7 +2726,7 @@ translate polish s06_03_29e87311:
 
     # avt "\"Huh!? No, I haven't...\" "
 
-    avt ""
+    avt "\"Hę?! Nie, ja wcale...\" "
 
 
 
