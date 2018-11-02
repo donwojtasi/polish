@@ -1290,7 +1290,7 @@ translate polish s06_2d24582b:
 
     # avt "\"Ehh... Alright. But Senpai, what's with you calling him Kulau?\" "
 
-    avt "\"Ehh... No dobra. Ale Senpai- czemu cały czas nazywasz go \"Kulau\"?\" "
+    avt "\"Ehh... No dobra. Ale Senpai- dlaczego przez cały czas nazywasz go \"Kulau\"?\" "
 
 
 
@@ -1302,7 +1302,7 @@ translate polish s06_bb69225c:
 
     # avt "\"His name is Likulau. 'Li' isn't his family name or anything, that's just how the Rukai language works.\" "
 
-    avt "\"Jego imię to Likulau. \"Li\" nie jest nazwiskiem jego rodziny, ani niczym w tym stylu. Tak po prostu działa język Rukai.\" "
+    avt "\"Nazywa się Likulau. \"Li\" nie jest nazwiskiem jego rodziny, ani niczym w tym stylu. Tak po prostu działa język Rukai.\" "
 
 
 
@@ -1318,7 +1318,7 @@ translate polish s06_9ae7d685:
 
     voice voice_file.lpdcat(6,6)
 
-    lpdcat normal "\"H-{w=0.2}hej, wiem to! Po prostu pomyślałem, że skoro cały czas nazywamy naszych kumpli po imieniu, \"Kulau\" brzmiałoby fajnie.\"  "
+    lpdcat normal "\"H-{w=0.2}hej, wiem to! Po prostu pomyślałem, że skoro zwracamy się do naszych kumpli po imieniu, \"Kulau\" brzmiałoby fajnie.\"  "
 
 
 
@@ -1330,7 +1330,7 @@ translate polish s06_d1e1c9d5:
 
     # avt "\"Isn't that a bit disrespectful?\" "
 
-    avt "\"Nie jest to oznaka braku szacunku?\" "
+    avt "\"A nie jest to oznaką braku szacunku?\" "
 
 
 
@@ -1486,7 +1486,7 @@ translate polish s06_25305bd6:
 
     # b "Leopard takes a while to respond. I guess he's got his mind on something else... {w=0.5}I wonder what. "
 
-    b "Pantera czeka chwilę z odpowiedzią. Pewnie jego myśli błądzą gdzie indziej... {w=0.5}Zastanawia mnie to. "
+    b "Pantera czeka chwilę z odpowiedzią. Pewnie jego myśli gdzieś błądzą... {w=0.5}Zastanawia mnie to. "
 
 
 
@@ -1498,7 +1498,7 @@ translate polish s06_5ff062ab:
 
     # b "I can never tell with him... "
 
-    b "Nigdy nie można go rozszyfrować... "
+    b "Nie potrafię go rozszyfrować... "
 
 
 
@@ -1510,7 +1510,7 @@ translate polish s06_55451ffa:
 
     # b "After that day, I keep on trying to talk one-on-one with Senpai again and again but the opportunity never comes up... (I didn't expect him to be such a hard cat to catch.) "
 
-    b ""
+    b "Później tego samego dnia- Próbuję kilkukrotnie porozmawiać w cztery oczy z Senpai'em, ale nigdy nie nadarza się okazja... (Nie pomyślałbym, że tak ciężko będzie złapać tego kota.) "
 
 
 
@@ -1526,7 +1526,11 @@ translate polish s06_4c5e01dc:
 
     # b "It's not any better at home at all. With all three of them there I can't just go have privacy with one of them. "
 
-    b ""
+    b "Tygrys i Pantera zawsze towarzyszą mi podczas zajęć. "
+
+    b "Podczas zajęć klubu tanecznego, odciągnięcie Senpai'a od grona jego wielbicieli graniczy z cudem. "
+
+    b "W domu też nie jest wcale lepiej. Z całą ich trójką w pobliżu, nie mam szans na prywatną rozmowę z którymkolwiek z nich. "
 
 
 
@@ -1540,7 +1544,9 @@ translate polish s06_95a1311a:
 
     # b "I know it wont give me much time, but it's better than nothing. "
 
-    b ""
+    b "Ale dzisiaj wpadłem na chytry plan, który {i}powinien{/i} \ zadziałać... Sprowadza się do rozproszenia uwagi Tygrysa i Pantery ogromem jedzenia, które można zaleźć na stołówce. W tym czasie ukradkiem zadam Senpai'owi parę pytań. "
+
+    b "Wiem, że nie zyskam w ten sposób dużo czasu, ale to lepsze niż nic. "
 
 
 
@@ -1552,7 +1558,7 @@ translate polish s06_83e6fc6c:
 
     # avt "\"You know, Senpai...\" "
 
-    avt ""
+    avt "\"Wiesz co Senpai...\" "
 
 
 
@@ -1568,7 +1574,7 @@ translate polish s06_ea838a11:
 
     voice voice_file.lpdcat(6,9)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hmm?\" *siorb* "
 
 
 
@@ -1580,7 +1586,7 @@ translate polish s06_82b7dd4f:
 
     # b "He was eating pork rib noodles... The school cafeteria is famous for having the best fried ribs around, and they're even better when dipped in rich soupy broth! ...But now's not the time to shill my college."
 
-    b ""
+    b "Zajadał się makaronem z żeberkami... Nasz szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone we intensywnym bulionie są jeszcze lepsze! ...ale nie czas teraz na wychwalanie mojej uczelni. "
 
 
 
@@ -1592,7 +1598,7 @@ translate polish s06_da55dea0:
 
     # avt "\"You know— about what you want— about going with you to Miaoli to help restore your temple...\" "
 
-    avt ""
+    avt "\"Wiesz co- chcę porozmawiać- o pójściu z tobą do Miaoli by pomóc ci odnowić twoją świątynię...\" "
 
 
 
@@ -1608,7 +1614,7 @@ translate polish s06_9f0859b4:
 
     voice voice_file.lpdcat(6,10)
 
-    lpdcat happy "" with flash
+    lpdcat happy "\"Mm?! \"" with flash
 
 
 
