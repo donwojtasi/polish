@@ -3274,7 +3274,7 @@ translate polish s06_04_confess_723b9e16:
 
     # avt "\"Huh, wouldn't that be impossible?! There's no way people can {i}really{/i} \ see the guardian \ntigers...\" "
 
-    avt ""
+    avt "\"Hę, nie byłoby to niemożliwe?! Nie ma mowy, by ludzie {i}naprawdę{/i} \ mogli zobaczyć tygrysich strażników...\" "
 
 
 
@@ -3290,7 +3290,7 @@ translate polish s06_04_confess_1616f589:
 
     voice voice_file.brother(6,16)
 
-    phone ""
+    phone "\"Serio? Nie wiesz, że to jednak może być możliwe?\" "
 
 
 
@@ -3302,7 +3302,7 @@ translate polish s06_04_confess_7ec6775d:
 
     # avt "\"No, I mean, how could I?\" "
 
-    avt ""
+    avt "\"Nie- To znaczy, jak ja mógłbym?\" "
 
 
 
@@ -3318,7 +3318,7 @@ translate polish s06_04_confess_91fbee64:
 
     voice voice_file.brother(6,17)
 
-    phone ""
+    phone "\"Czy jest inny powód dla którego rozmawiałeś o tym z tatą?\" "
 
 
 
@@ -3330,7 +3330,7 @@ translate polish s06_04_confess_e07cf306:
 
     # avt "\"Well...\" "
 
-    avt ""
+    avt "\"Cóż...\" "
 
 
 
@@ -3342,7 +3342,7 @@ translate polish s06_04_confess_8a5330d3:
 
     # avt "\"I just wanted to know about our family... If we had that kind of history.\" "
 
-    avt ""
+    avt "\"Chciałem lepiej poznać naszą rodzinę... Skoro mamy taką przeszłość.\" "
 
 
 
@@ -3358,7 +3358,7 @@ translate polish s06_04_confess_de2f8b96:
 
     voice voice_file.brother(6,18)
 
-    phone ""
+    phone "\"W więc {i}jakiegoś{/i} widziałeś?!\" "
 
 
 
@@ -3370,7 +3370,7 @@ translate polish s06_04_confess_e381c548:
 
     # avt "\"Uhh...\" "
 
-    avt ""
+    avt "\"Uhh...\" "
 
 
 
@@ -3386,7 +3386,7 @@ translate polish s06_04_confess_62ae8e0d:
 
     voice voice_file.brother(6,19)
 
-    phone ""
+    phone "\"A może to tylko wytwór twojej wyobraźni?\" "
 
 
 
@@ -3398,7 +3398,7 @@ translate polish s06_04_confess_276a5477:
 
     # avt "\"It's... not my imagination, but all too real... Yeah, the guardian tiger is actually right here next to me— he can speak too.\" "
 
-    avt ""
+    avt "\"To... nie jest moja wyobraźnia, to wszystko jest zbyt prawdziwe... Tak, tygrysi strażnik siedzi tuż obok mnie- i potrafi mówić.\" "
 
 
 
@@ -3414,7 +3414,7 @@ translate polish s06_04_confess_89a6fb2d:
 
     voice voice_file.brother(6,20)
 
-    phone "" with hshake
+    phone "\"Mówić! Naprawdę?!\" " with hshake
 
 
 
@@ -3430,7 +3430,7 @@ translate polish s06_04_confess_c70ede3a:
 
     voice voice_file.brother(6,21)
 
-    phone ""
+    phone "\"Liao- braciszku, dobrze się czujesz? Masz może gorączkę?\" "
 
 
 
@@ -3442,7 +3442,7 @@ translate polish s06_04_confess_af92735e:
 
     # avt "\"I know it sounds hard to believe, so I'd understand if you don't...\" "
 
-    avt ""
+    avt "\"Wiem, że ciężko w to uwierzyć. Zrozumiem jeżli uznasz to za brednie...\" "
 
 
 
@@ -3454,7 +3454,7 @@ translate polish s06_04_confess_c82ac7bc:
 
     # avt "\"I also couldn't believe it at first so I wanted to ask Dad about it.\" "
 
-    avt ""
+    avt "\"Na początku też w to nie wierzyłem, więc chciałem się o to spytać taty.\" "
 
 
 
@@ -3466,7 +3466,7 @@ translate polish s06_04_confess_0c69a1dd:
 
     # avt "\"But he just said it's impossible...\" "
 
-    avt ""
+    avt "\"Ale on powiedział, że to niemożliwe...\" "
 
 
 
@@ -3482,7 +3482,7 @@ translate polish s06_04_confess_654867f0:
 
     voice voice_file.tig(6,42)
 
-    tig normal ""
+    tig normal "\"Liao- wiesz, że dla większości ludzi to normalne by myśleć w ten sposób. Jesteś wyjątkowy, a oni nie widzą tego co ty.\" "
 
 
 
@@ -3494,7 +3494,7 @@ translate polish s06_04_confess_068bc611:
 
     # avt "\"I know, but that doesn't mean I'm not stressed out because it's {i}only{/i} \  me!\" "
 
-    avt ""
+    avt "\"Wiem, ale to nie znaczy, że się tym nie przejmuję, bo w końcu {i}tylko{/i} \ ja taki jestem!\" "
 
 
 
@@ -3510,7 +3510,7 @@ translate polish s06_04_confess_8a3e73c6:
 
     voice voice_file.brother(6,22)
 
-    phone ""
+    phone "\"Liao... do kogo ty mówisz?\" "
 
 
 
@@ -3522,7 +3522,7 @@ translate polish s06_04_confess_4f1864f9:
 
     # avt "\"It's nothing, I was just... talking to the guardian tiger.\" "
 
-    avt ""
+    avt "\"To nic takiego, ja tylko... rozmawiałem z tygrysim strażnikiem.\" "
 
 
 
@@ -3538,7 +3538,7 @@ translate polish s06_04_confess_26dbb347:
 
     voice voice_file.brother(6,23)
 
-    phone ""
+    phone "\"Na serio? ...To dziwne.\" "
 
 
 
@@ -3550,7 +3550,7 @@ translate polish s06_04_confess_00058744:
 
     # avt "\"What do you mean?\" "
 
-    avt ""
+    avt "\Co masz na myśli?\" "
 
 
 
@@ -3568,7 +3568,9 @@ translate polish s06_04_confess_15ef130d:
 
     voice voice_file.brother(6,24)
 
-    phone ""
+    phone "\"W takim razie, czemu to ja nie mogę zobaczyć żadnych tygrysich strażników?\" "
+
+    phone "\"Hmm... Czy to ten posążek, który zabrałeś do Tajpej?\" "
 
 
 
@@ -3580,7 +3582,7 @@ translate polish s06_04_confess_79a00924:
 
     # avt "\"It is, yes.\" "
 
-    avt ""
+    avt "\"Tak, to on.\" "
 
 
 
@@ -3596,7 +3598,7 @@ translate polish s06_04_confess_b39fc274:
 
     voice voice_file.brother(6,25)
 
-    phone ""
+    phone "\"W takim razie, twój tygrysi strażnik jest bardzo mały?\" "
 
 
 
@@ -3608,7 +3610,7 @@ translate polish s06_04_confess_465ce4d9:
 
     # avt "\"No, actually— he's huge— at least two meters tall.\" "
 
-    avt ""
+    avt "\"Wcale nie- jest ogromny- ma przynajmniej dwa metry wzrostu.\" "
 
 
 
