@@ -1614,7 +1614,7 @@ translate polish s06_9f0859b4:
 
     voice voice_file.lpdcat(6,10)
 
-    lpdcat happy "\"Mm?! \"" with flash
+    lpdcat happy "\"Mm?! *łyk* A więc Liao, zdecydowałeś się iść!\"" with flash
 
 
 
@@ -1626,7 +1626,7 @@ translate polish s06_84c99acb:
 
     # avt "\"I haven't! Please don't jump to conclusions!\" "
 
-    avt ""
+    avt "\"Wcale nie! Proszę, nie wyciągaj pochopnych wniosków!\" "
 
 
 
@@ -1642,7 +1642,7 @@ translate polish s06_ea738e98:
 
     voice voice_file.lpdcat(6,11)
 
-    lpdcat panic "" with hshake
+    lpdcat panic "\"Dooooobra- Liao, to o co chciałeś się mnie zapytać?\" " with hshake
 
 
 
@@ -1654,7 +1654,7 @@ translate polish s06_ba1b9e9d:
 
     # avt "\"Well, say I wanted to stay here in Taipei, is there any way I can still help you?\" "
 
-    avt ""
+    avt "\"No cóż- Powiedzmy, że chciałbym tu zostać, w Tajpej. Czy jest jakiś sposób bym wciąż mógł ci pomóc?\" "
 
 
 
@@ -1670,7 +1670,7 @@ translate polish s06_8cf7f6c6:
 
     voice voice_file.lpdcat(6,12)
 
-    lpdcat serious ""
+    lpdcat serious "\"Otóż... to tak nie działa. Są ceremonie świątynne, które trzeba odprawić. Jak namówiłbyś ludzi do czczenia nas, skoro nawet by cię tam nie było?\" "
 
 
 
@@ -1682,7 +1682,7 @@ translate polish s06_e50039ef:
 
     # avt "\"Like, passing along spiritual messages?\" "
 
-    avt ""
+    avt "\"Może- przesyłając jakieś duchowe wiadomości?\" "
 
 
 
@@ -1698,7 +1698,7 @@ translate polish s06_82bbe264:
 
     voice voice_file.lpdcat(6,13)
 
-    lpdcat serious ""
+    lpdcat serious "\"I tak musielibyśmy najpierw uprzątnąć to miejsce, czyż nie?\"  "
 
 
 
@@ -1710,7 +1710,7 @@ translate polish s06_75120d36:
 
     # avt "\"What about if I came over on weekends and help out with that?\" "
 
-    avt ""
+    avt "\"A gdybym przyjeżdżał tam w weekendy, by ci z tym pomóc?\" "
 
 
 
@@ -1726,7 +1726,7 @@ translate polish s06_32a6ef75:
 
     voice voice_file.lpdcat(6,14)
 
-    lpdcat serious ""
+    lpdcat serious "\"Ale... wciąż musiałbyś być kapłanem! To bardziej... skomplikowane niż tylko wysyłanie wiernym naszego orędzia, wiesz?\" "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish s06_0c69b38d:
 
     voice voice_file.lpdcat(6,15)
 
-    lpdcat normal ""
+    lpdcat normal "\"Może to dziwnie zabrzmi, ale myślę, że jeśli o to chodzi- musisz traktować to śmiertelnie poważnie.\" "
 
 
 
@@ -1754,7 +1754,7 @@ translate polish s06_bcd88c3d:
 
     # avt "\"Your reasoning isn't very convincing Senpai...\" "
 
-    avt ""
+    avt "\"Twoje rozumowanie nie jest zbyt przekonujące, Senpai...\""
 
 
 
@@ -1770,7 +1770,7 @@ translate polish s06_2adca14e:
 
     voice voice_file.lpdcat(6,16)
 
-    lpdcat pout ""
+    lpdcat pout "\"Coo- Jak możesz! Co z okazaniem odrobiny szacunku twojemu Senpai'owi?!\" "
 
 
 
@@ -1782,7 +1782,7 @@ translate polish s06_c915bb9b:
 
     # avt "\"Well, maybe you should work on being more respectable first.\" "
 
-    avt ""
+    avt "\"Cóż, może powinieneś najpierw popracować nad byciem osobą godną szacunku.\" "
 
 
 
@@ -1798,7 +1798,7 @@ translate polish s06_3d3a2b10:
 
     voice voice_file.lpdcat(6,17)
 
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Pfff~ Ja-{w=0.2}Nie ma takiej potrzeby!\" "
 
 
 
@@ -1814,7 +1814,7 @@ translate polish s06_c4cec57d:
 
     voice voice_file.tig(6,18)
 
-    tig normal ""
+    tig normal "\"Och, czyżby mały kotek kłócił się z Liao?\" "
 
 
 
@@ -1830,7 +1830,7 @@ translate polish s06_c940408a:
 
     voice voice_file.lpdcat(6,18)
 
-    lpdcat angry "" with hshake
+    lpdcat angry "\"Wcale się nie kłócimy!\" " with hshake
 
 
 
@@ -1846,7 +1846,7 @@ translate polish s06_03e9050f:
 
     voice voice_file.lpdcat(6,19)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Jesteśmy z Liao {i}najlepszymi{/i} przyjaciółmi, czy nie mam racji?\" "
 
 
 
@@ -1858,7 +1858,7 @@ translate polish s06_3b23b615:
 
     # avt "\"Eh...\" "
 
-    avt ""
+    avt "\"Eh...\" "
 
 
 
@@ -1870,7 +1870,7 @@ translate polish s06_cc4946b0:
 
     # avt "\"Really?\" "
 
-    avt ""
+    avt "\"Serio?\" "
 
 
 
@@ -1886,7 +1886,7 @@ translate polish s06_d25fe53e:
 
     voice voice_file.tig(6,19)
 
-    tig frown ""
+    tig frown "\"Jak uważasz. Możesz robić co zechcesz. Ale nie zdziw się jak odeślę cię z powrotem do Miaoli.\" "
 
 
 
@@ -1902,7 +1902,7 @@ translate polish s06_238e41a4:
 
     voice voice_file.lpdcat(6,20)
 
-    lpdcat pout ""
+    lpdcat pout "\"Zrzęda z ciebie staruszku!\" "
 
 
 
@@ -1918,7 +1918,7 @@ translate polish s06_e44e2830:
 
     voice voice_file.tig(6,20)
 
-    tig normal ""
+    tig normal "\"Skoro ci się coś nie podoba- to dlaczego po prostu nie odejdziesz?\" "
 
 
 
@@ -1934,7 +1934,7 @@ translate polish s06_ffa2c45b:
 
     voice voice_file.lpdcat(6,21)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Jak mógłbym to zrobić? Staruszek jest najlepszy!\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish s06_cb30dc8d:
 
     voice voice_file.tig(6,21)
 
-    tig disappointed ""
+    tig disappointed "\"...musisz zwracać się do mnie w ten sposób.\" "
 
 
 
@@ -1966,7 +1966,7 @@ translate polish s06_1da0f2f7:
 
     voice voice_file.lpd(6,11)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Tygrysi Strażnik, staruszek?\" "
 
 
 
@@ -1982,7 +1982,7 @@ translate polish s06_9ace3090:
 
     voice voice_file.tig(6,22)
 
-    tig frown ""
+    tig frown "\"Tylko nie obaj!\" "
 
 
 
@@ -1994,7 +1994,7 @@ translate polish s06_e656181a:
 
     # b "And that's how this conversation ended in an argument... "
 
-    b ""
+    b "I tak oto nasza rozmowa skończyła się na kłótni... "
 
 
 
@@ -2006,7 +2006,7 @@ translate polish s06_d14505ca:
 
     # b "That night, I was browsing through some tech forums with Tiger. "
 
-    b ""
+    b "Tej nocy, przeglądałem z Tygrysem techniczne fora. "
 
 
 
@@ -2022,7 +2022,7 @@ translate polish s06_1bab5f72:
 
     voice voice_file.tig(6,23)
 
-    tig normal ""
+    tig normal "\"Dobrze- przewijaj dalej."
 
 
 
@@ -2034,7 +2034,7 @@ translate polish s06_6c2c953b:
 
     # b "Following his orders I scroll down the page, his eyes peering over my shoulder. "
 
-    b ""
+    b "Wykonując jego polecania, przewijam w dół strony, a jego oczy spoglądają mi przez ramię. "
 
 
 
@@ -2050,7 +2050,7 @@ translate polish s06_e3e4e4c5:
 
     voice voice_file.tig(6,24)
 
-    tig normal ""
+    tig normal "\"Hmm... a więc to tak... Teraz poprzednią stronę.\" "
 
 
 
@@ -2062,7 +2062,7 @@ translate polish s06_2514b272:
 
     # b "I click to go back a page. "
 
-    b ""
+    b "Klikam by wrócić się o stronę do tyłu. "
 
 
 
@@ -2078,7 +2078,7 @@ translate polish s06_198bbb09:
 
     voice voice_file.tig(6,25)
 
-    tig gaze ""
+    tig gaze "\"Tak, tę- proszę otwórz ją.\" "
 
 
 
@@ -2090,7 +2090,7 @@ translate polish s06_e1d3379c:
 
     # b "I click on the article he's pointing at. "
 
-    b ""
+    b "Klikam na artykuł na który wskazuje. "
 
 
 
@@ -2106,7 +2106,7 @@ translate polish s06_f7290da5:
 
     voice voice_file.tig(6,26)
 
-    tig gaze ""
+    tig gaze "\"Hmm...\" "
 
 
 
@@ -2118,7 +2118,7 @@ translate polish s06_53552d4d:
 
     # avt "*sigh* "
 
-    avt ""
+    avt "*wzdycha* "
 
 
 
@@ -2134,7 +2134,7 @@ translate polish s06_bb253a17:
 
     voice voice_file.tig(6,27)
 
-    tig embarrassed ""
+    tig embarrassed "\"Och, wybacz Liao, musisz być już tym zmęczony.\" "
 
 
 
@@ -2146,7 +2146,7 @@ translate polish s06_7b068d1a:
 
     # avt "\"...A little bit.\" "
 
-    avt ""
+    avt "\"...trochę.\" "
 
 
 
@@ -2160,7 +2160,9 @@ translate polish s06_fd262606:
 
     # b "If only he didn't need my hands to work the computer for him... "
 
-    b ""
+    b "Nie chciałem marudzić, ale to trochę męczące tak czekać, aż skończy czytać daną stronę, a potem przechodzić do następnej i następnej... "
+
+    b "Gdyby tylko nie potrzebował moich rąk do pracy z komputerem... "
 
 
 
@@ -2172,7 +2174,7 @@ translate polish s06_3cfbc7b8:
 
     # avt "\"Isn't there a better way to do this? ...I'm pretty bored just sitting here watching you \nread.\" "
 
-    avt ""
+    avt "\"Nie ma na to jakiegoś lepszego sposobu? ...trochę mnie nudzi siedzenie tutaj i obserwowanie jak czytasz.\"  "
 
 
 
@@ -2188,7 +2190,7 @@ translate polish s06_d0324192:
 
     voice voice_file.tig(6,28)
 
-    tig normal ""
+    tig normal "\"Hmm...\" "
 
 
 
@@ -2200,7 +2202,7 @@ translate polish s06_14064921:
 
     # avt "\"Why not ask Senpai to help you use the mouse?\" "
 
-    avt ""
+    avt "\"Czemu nie spytasz Senpai'a o pomoc w użyciu myszki?\" "
 
 
 
@@ -2216,7 +2218,7 @@ translate polish s06_5d4e87f8:
 
     voice voice_file.lpdcat(6,22)
 
-    lpdcat pout ""
+    lpdcat pout "\"Że co?! Czemu miałbym pomagać temu staruszkowi? To on zawsze naciska bym odszedł!\" "
 
 
 
@@ -2232,7 +2234,7 @@ translate polish s06_3e3758c9:
 
     voice voice_file.tig(6,29)
 
-    tig frown ""
+    tig frown "\"Wolałbym nie korzystać z pomocy tego małego kociaka. Czyli w jednym się zgadzamy.\" "
 
 
 
@@ -2244,7 +2246,7 @@ translate polish s06_3d54f038:
 
     # avt "\"But this is no fun for me.\" "
 
-    avt ""
+    avt "\"Ale dla mnie to nie jest zabawne.\" "
 
 
 
