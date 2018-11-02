@@ -10,7 +10,7 @@ translate polish day2_01_tig_a51df5ce:
 
     # b "Nngh... Heavy... "
 
-    b "Nnbh... Ciężko... "
+    b "Nnh... Ciężko... "
 
 
 
@@ -38,9 +38,9 @@ translate polish day2_01_tig_43214818:
 
     # b "What's going on? I take a deep breath, and then open my eyes. "
 
-    b "Nawet nie mogę ruszyć ręką, ani nogą. A co dopiero się obrócić. "
+    b "Nie mogę ruszyć ani ręką, ani nogą. A co dopiero się obrócić. "
 
-    b "Chłodny podmuch uderza w moją twarz, ale niewiele się to zdaje wobec ciepła wszędzie indziej. "
+    b "Chłodny podmuch uderza w moją twarz, ale na niewiele się to zdaje wobec wszechobecnego gorąca. "
 
     b "Co się dzieje? Biorę głęboki oddech i otwieram oczy. "
 
@@ -54,7 +54,7 @@ translate polish day2_01_tig_8b8ad312:
 
     # b "In front of my face I see a large shadow. I blink hard, trying to make out it's form... A wall of muscle covered with soft, fluffy, orange fur. It looks so nice. I mean... If it's not trying to kill me. "
 
-    b "Przed moją twarzą znajduje się duży cień. Mrugam zawzięcie, próbując dostrzec jego kształt... Ściana mięśni pokryta miękkim, puszystym, pomarańczowym futrem. To wspaniały widok. O ile tylko... nie próbuje mnie zabić. "
+    b "Naprzeciw mojej twarzy wyrasta ogromny cień. Mrugam zawzięcie, próbując dostrzec jego kształt... Ściana mięśni pokryta miękkim, puszystym, pomarańczowym futrem. To wspaniały widok. O ile tylko... nie próbuje mnie zabić. "
 
 
 
@@ -128,7 +128,7 @@ translate polish day2_01_tig_af30e230:
 
     # b "Getting crushed to death by my own guardian tiger is a pretty stupid way to do so... "
 
-    b "Wreszcie schodzi z łóżka, oszczędzając moje życie. Myślałem że tam umrę! "
+    b "Wreszcie schodzi z łóżka, ocalając moje życie. Już myślałem że tam umrę! "
 
     b "Bycie zmiażdżonym przez własnego tygrysiego strażnika to dość głupi sposób na śmierć... "
 
@@ -146,7 +146,7 @@ translate polish day2_01_tig_7c14fd51:
 
     voice voice_file.tig(3,3)
 
-    tig normal "\"...w porządku?\" "
+    tig normal "\"...wszystko w porządku?\" "
 
 
 
@@ -174,7 +174,7 @@ translate polish day2_01_tig_4ec05a5a:
 
     voice voice_file.tig(3,4)
 
-    tig laugh_2 "\"Bardzo przepraszam. Zapomniałem, że możesz mnie teraz poczuć... Więc położyłem się na tobie tak jak zwykle.\" "
+    tig laugh_2 "\"Bardzo cię przepraszam. Zapomniałem, że możesz mnie teraz poczuć... Więc położyłem się na tobie tak jak zwykle.\" "
 
 
 
@@ -186,7 +186,7 @@ translate polish day2_01_tig_802e162a:
 
     # b "\"So he's been sleeping on me all this time?! Even if I couldn't feel him before, It's kind of a miracle that I'm not dead already!\" "
 
-    b "\"To on przez cały ten czas spał na mnie?! Nawet jeśli nie mogłem go wcześniej poczuć, to chyba jakiś cud, że jeszcze żyję!\" "
+    b "\"To on przez cały ten czas spał na mnie?! Nawet jeśli go wcześniej nie czułem, to chyba jakiś cud że jeszcze żyję!\" "
 
 
 
@@ -250,7 +250,7 @@ translate polish day2_01_tig_c547cd66:
 
     # b "So this is the smell of my guardian tiger? It's so incredible to think that he's standing in front of me when I know he doesn't physically exist. "
 
-    b "A więc to tak pachnie mój tygrysi strażnik? To niesamowite. I pomyśleć tylko, że jest tutaj przy mnie, mimo iż fizycznie nie istnieje. "
+    b "A więc to tak pachnie mój tygrysi strażnik? To niesamowite. I pomyśleć tylko, że jest tutaj przy mnie- mimo, iż fizycznie nie istnieje. "
 
 
 
@@ -264,9 +264,9 @@ translate polish day2_01_tig_b553a230:
 
     # b "It's almost enough to forget the way he almost crushed me last night. "
 
-    b "Ale dokładnie tu, jest silna klatka piersiowa na której można się oprzeć, a jego futro ogrzewa mnie w ten rześki, wiosenny poranek. "
+    b "Ale czuć tu dokładnie silną klatkę piersiową na której można się oprzeć, gdy jego futro ogrzewa mnie w ten rześki, wiosenny poranek. "
 
-    b "Już prawie zapomniałem, że ubiegłej nocy niemal mnie zgniótł. "
+    b "Już prawie zapomniałem, że tej nocy niemal mnie zgniótł. "
 
 
 
@@ -318,7 +318,7 @@ translate polish day2_01_tig_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpai siedzi na swoim łóżku, patrząc na nas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpai sadowi się na swoim posłaniu, patrząc na nas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -346,7 +346,7 @@ translate polish day2_01_tig_7f14f811:
 
     # b "Senpai looks for his phone, and I pick up mine. "
 
-    b "Senpai szuka swojego telefonu, a ja podnoszę mój. "
+    b "Senpai szuka swojego telefonu, gdy podnoszę mój własny. "
 
 
 
@@ -358,7 +358,7 @@ translate polish day2_01_tig_f7f49483:
 
     # b "It's ten o'clock, wow... {w=0.5}I can't believe I woke up this late. I must have been exhausted last night. "
 
-    b "Już dziesiąta rano, uau... {w=0.5}Nie mogę uwierzyć, że wstałem tak późno. Wczoraj musiałem być wykończony. "
+    b "Już dziesiąta rano, wow... {w=0.5}Nie mogę uwierzyć, że wstałem tak późno. Musiałem być wczoraj wykończony. "
 
 
 
@@ -398,7 +398,7 @@ translate polish day2_01_tig_59ece71f:
 
     # b "What?! I know a some people skip morning classes on Monday, but you can't say ten o'clock is {i}early{/i}! "
 
-    b "Co?! Wiem, że niektórzy opuszczają poranne zajęcia w poniedziałek, ale nikt mi nie wmówi, że dziesiąta rano to {i}wcześnie{/i}! "
+    b "Co?! Wiem, że niektórzy opuszczają poranne zajęcia w poniedziałek, ale nikt mi nie wmówi że dziesiąta rano to {i}wcześnie{/i}! "
 
 
 
@@ -426,11 +426,11 @@ translate polish day2_01_tig_951e65bc:
 
     # b "When did he wake up? ...And why does he have to stare at me like that? "
 
-    b "Tygrys schodzi z łóżka, a ja mogę zrobić wreszcie to samo. "
+    b "Tygrys schodzi z łóżka, i nareszcie mogę zrobić to samo. "
 
-    b "Natychmiast zauważam Panterę, który stoi przed moim biurkiem i wpatruje się we mnie. "
+    b "Natychmiast zauważam Panterę, który stoi przed moim biurkiem wpatrując się we mnie. "
 
-    b "Kiedy wstał? I czemu tak się na mnie patrzy? "
+    b "Kiedy wstał? I dlaczego tak się na mnie patrzy? "
 
 
 
@@ -486,7 +486,7 @@ translate polish day2_01_tig_2a843fce:
 
     # b "I just had to slap the tiger in the belly to get him to reply. He was being impolite but damn, his rock-solid abs hurt my hand. "
 
-    b "Musiałem zdzielić tygrysa w brzuch, by zmusić go do odpowiedzi. Był nieuprzejmy, ale cholera - rozbolała mnie ręka od jego twardych jak skała mięśni. "
+    b "Musiałem zdzielić tygrysa w brzuch, by zmusić go do odpowiedzi. Był nieuprzejmy, ale cholera- rozbolała mnie ręka od jego twardych jak skała mięśni. "
 
 
 
@@ -546,7 +546,7 @@ translate polish day2_01_lpd_f47aca0a:
 
     b "Zawsze zanim otworzę oczy, próbuję rozgrzać swe ciało, owijając się kołdrą jak naleśnik i pchając się w kierunku ściany. "
 
-    b "Tym razem coś jest nie tak. Zamiast ściany, czuję coś miękkiego. Próbuję to odepchnąć, ale to wraca na swoje miejsce. "
+    b "Tym razem coś tu nie gra. Zamiast ściany, wyczuwam coś miękkiego. Próbuję to odepchnąć- ale stawia opór, wracając na swoje miejsce. "
 
 
 
@@ -560,9 +560,9 @@ translate polish day2_01_lpd_430f85ee:
 
     # b "I give the quilt a few hard tugs and finally get it around me. Great, finally. "
 
-    b "Chłodny powiew wpada do pokoju. Próbuję powstrzymać go przed dostaniem się pod kołdrę, ale gdzieś utknęła. "
+    b "Chłodny powiew wpada do pokoju. Próbuję powstrzymać go przed dostaniem się pod kołdrę, ale ta gdzieś utknęła. "
 
-    b "Szarpię mocno parę razy i wreszcie udaje mi się nią owinąć. No w końcu. "
+    b "Szarpię zawzięcie parę razy- i wreszcie udaje mi się nią owinąć. No, w końcu. "
 
 
 
@@ -574,7 +574,7 @@ translate polish day2_01_lpd_96f7b7ad:
 
     # b "...Wait, why did I have to pull so hard? "
 
-    b "...chwila, czemu musiałem tak mocno ciągnąć? "
+    b "...chwila, dlaczego musiałem tak mocno ciągnąć? "
 
 
 
@@ -634,7 +634,7 @@ translate polish day2_01_lpd_4cfe41bb:
 
     # b "I'm so surprised I throw myself backwards nearly falling off the bed as Leopard catches me again, saving me from my untimely fall. "
 
-    b "Jestem tak zaskoczony, że rzucam się do tyłu i prawie spadam z łóżka. Ma szczęście Pantera znów mnie łapie, ratując mnie przed niechybnym upadkiem. "
+    b "Jestem tak zaskoczony, że rzucam się do tyłu i nieomal spadam z łóżka. Ma szczęście Pantera znów mnie łapie, ratując przed niechybnym upadkiem. "
 
 
 
@@ -646,7 +646,7 @@ translate polish day2_01_lpd_4aefcf74:
 
     # avt "\"Woa— Uh... sorry...\" "
 
-    avt "\"Łał- Uch... wybacz...\" "
+    avt "\"Wow- Uch... wybacz...\" "
 
 
 
@@ -658,7 +658,7 @@ translate polish day2_01_lpd_a3a0c9b8:
 
     # b "Half my body hangs off the bed while the other half is held in place by Leopards arms. It's a strange, uncomfortable position. "
 
-    b "Połowa mego ciała zwisa z łóżka, a resztę trzyma w swych ramionach Pantera. To dziwna i niewygodna pozycja. "
+    b "Połowa mego ciała zwisa z łóżka, a resztę trzyma w swych ramionach Pantera. To dość dziwna, i niezbyt wygodna pozycja. "
 
 
 
@@ -686,7 +686,7 @@ translate polish day2_01_lpd_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpai siedzi na swoim łóżku, patrząc na nas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpai sadowi się na swoim posłaniu, patrząc na nas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -714,7 +714,7 @@ translate polish day2_01_lpd_da84b50c:
 
     # b "Senpai starts looking for his phone, while I break loose from the clouded leopard's \ngrasp. "
 
-    b "Senpai szuka swojego telefonu, a uwalniam się spod uścisku mglistej pantery.  "
+    b "Senpai szuka swojego telefonu, podczas gdy ja uwalniam się spod uścisku mglistej pantery.  "
 
 
 
@@ -784,9 +784,9 @@ translate polish day2_01_lpd_3f436787:
 
     # b "He's sprawled out, lying on the floor with his blankets tossed to the side. Damn, he's going to get a cold like that. "
 
-    b "Zaczynałem się zastanawiać, czy znalazł już swój telefon, a on po prostu znowu zasnął. "
+    b "Zacząłem się zastanawiać, czy odnalazł już swój telefon- a on po prostu znowu zasnął. "
 
-    b "Rozłożył się, leżąc na podłodze i odrzucając na bok koce. Cholera, przeziębi się w ten sposób. "
+    b "Rozłożył się na podłodze, odrzucając na bok koce. Cholera, przeziębi się w ten sposób. "
 
 
 
@@ -798,7 +798,7 @@ translate polish day2_01_lpd_7dea1925:
 
     # b "I go over and grab Senpai's quilt and throw it over his body for him. When I turn around I see Tiger staring at me. "
 
-    b "Podchodzę bliżej, podnoszę jego kołdrę i rozkładam ją na nim. Gdy się odwracam, spostrzegam jak Tygrys się we mnie wpatruje. "
+    b "Podchodzę bliżej, i okrywam go kołdrą. Gdy się odwracam, dostrzegam Tygrysa wpatrującego się we mnie. "
 
 
 
@@ -834,7 +834,7 @@ translate polish day2_01_lpd_aac3a1b9:
 
     # b "I should be nice and wish him a good morning, but with the way he's looking at me... I'm too embarrassed. Did I do something wrong? "
 
-    b "Powinienem być miły i życzyć mu dobrego dnia, ale sposób w jaki na mnie patrzy... Za bardzo się wstydzę. Czy zrobiłem coś nie tak? "
+    b "Powinienem być miły i życzyć mu dobrego dnia- ale ten sposób, w jaki się na mnie patrzy... Za bardzo się wstydzę. Czy zrobiłem coś nie tak? "
 
 
 
@@ -878,7 +878,7 @@ translate polish day2_01_lpd_9fa176bd:
 
     voice voice_file.tig(3,8)
 
-    tig frown "\"Jesteś pewien, że chcesz by tu zostali?\" "
+    tig frown "\"Czy na pewno chcesz, by ta dwójka tu została?\" "
 
 
 
@@ -892,9 +892,9 @@ translate polish day2_01_lpd_3c62f9b0:
 
     # avt "\"As for the other one... \" "
 
-    avt "\"Przecież... Nie mogę wyrzucić stąd Senpai'a kiedy śpi. Wiem, że przysparza mi to sporo problemów, ale tak właśnie trzeba zrobić.\" "
+    avt "\"Przecież... Nie mogę stąd wyrzucić Senpai'a kiedy śpi. Mimo że przysparza mi problemów- nie wypada tak postępować.\" "
 
-    avt "\"A co do mojego drugiego gościa...\" "
+    avt "\"Co do mojego drugiego gościa...\" "
 
 
 
@@ -946,7 +946,7 @@ translate polish day2_01_lpd_900a9fe3:
 
     # avt "\"As you can see, I can't throw either of them out right now anyway. Might as well leave them be.\" "
 
-    avt "\"Jak widzisz, teraz nie mogę ich tak po prostu stąd wyrzucić. Równie dobrze mogą tu zostać.\" "
+    avt "\"Jak widzisz, nie mogę ich już teraz tak po prostu stąd wyrzucić. Równie dobrze mogą tu zostać.\" "
 
 
 
@@ -990,7 +990,7 @@ translate polish day2_01_lpd_600b7f1a:
 
     voice voice_file.tig(3,10)
 
-    tig normal "\"Wychodzi na to, że wciąż muszę cię pilnować. Nie zdziwiłbym się, gdyby ten aborygen spróbował zrobić coś dziwnego.\" "
+    tig normal "\"Wygląda na to, że wciąż muszę cię pilnować. Nie zdziwiłbym się, gdyby ten aborygen spróbował zrobić coś dziwnego.\" "
 
 
 
@@ -1024,7 +1024,7 @@ translate polish day2_01_lpd_e931909e:
 
     voice voice_file.tig(3,11)
 
-    tig normal "\"Będę mieć cię na oku.\" "
+    tig normal "\"Będę cię miał na oku.\" "
 
     tig normal "\"A teraz, Liao.... Wstałeś o wiele później niż zwykle. Nie spałeś za dobrze?\" "
 
@@ -1038,7 +1038,7 @@ translate polish day2_01_lpd_ace63020:
 
     # avt "\"I mean I was totally exhausted yesterday. At least I'm a lot better this morning...\" "
 
-    avt "\"Wczoraj byłem naprawdę wykończony. Przynajmniej teraz czuję się o wiele lepiej...\" "
+    avt "\"Wczoraj byłem naprawdę wykończony. Przynajmniej teraz czuję się już o wiele lepiej...\" "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish day2_01_lpd_1c993e3c:
 
     # b "\"I take a look at my phone. It's just past ten. I mean, it's later than I would usually wake up but my Monday mornings are free anyway.\" "
 
-    b "Spoglądam na telefon. Jest już po dziesiątej. Wstałem później niż zwykle, ale to nie problem, ponieważ w poniedziałki rano mam wolne. "
+    b "Spoglądam na telefon. Jest już po dziesiątej. Wstałem później niż zwykle- na szczęście to nie problem, ponieważ w poniedziałki rano mam wolne. "
 
 
 
