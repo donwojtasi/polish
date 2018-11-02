@@ -1564,7 +1564,7 @@ translate polish day1_after_01_lpd_390a2bb1:
 
     # avt "\"...Gross. Just take it.\" "
 
-    avt "\"...fuj. Nawet nie ma opcji.\" "
+    avt "\"...fuj. Nie ma takiej opcji.\" "
 
 
 
