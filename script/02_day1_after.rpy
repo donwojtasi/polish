@@ -1392,7 +1392,7 @@ translate polish day1_after_01_lpd_aebc2e7f:
 
     voice voice_file.lpdcat(2,9)
 
-    lpdcat cry_2 "\"Co- Dlaczego on?! Dobrze wiesz, że też jestem twoim gościem!\" "
+    lpdcat cry_2 "\"Co- Dlaczego on?! Przecież też jestem twoim gościem!\" "
 
 
 
@@ -1404,7 +1404,7 @@ translate polish day1_after_01_lpd_56629900:
 
     # avt "\"You're not exactly my guest at this point Senpai.\" "
 
-    avt "\"No nie do końca tak to bym ujął, Senpai.\" "
+    avt "\"Noo, nie do końca tak to bym ujął, Senpai.\" "
 
 
 
@@ -1436,7 +1436,7 @@ translate polish day1_after_01_lpd_5a700c91:
 
     voice voice_file.lpdcat(2,11)
 
-    lpdcat shy_3 "\"...czy to oznacza, że jestem dla ciebie kimś więcej, niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
+    lpdcat shy_3 "\"...czy to oznacza, że jestem dla ciebie kimś więcej niż tylko gościem? Liao myśli o mnie jak o członku swojej rodziny!\" "
 
 
 
@@ -1462,7 +1462,7 @@ translate polish day1_after_01_lpd_a3eed574:
 
     # avt "\"Sorry Senpai.\" "
 
-    avt "\"A tak serio, Pan Pantera przebył długą drogę, by tu dotrzeć... Niegrzecznie byłoby odmówić mu odrobiny wygody.\" "
+    avt "\"Ale tak na serio; Pan Pantera przebył długą drogę, by tutaj dotrzeć... Niegrzecznie byłoby odmówić mu odrobiny wygody.\" "
 
     avt "\"Wybacz Senpai.\" "
 
@@ -1496,7 +1496,7 @@ translate polish day1_after_01_lpd_e358c755:
 
     voice voice_file.lpdcat(2,13)
 
-    lpdcat cute "\"Mniejsza~ Mogę czołgać się po podłodze, jeśli Liao pomoże odnowić moją świątynię!\" "
+    lpdcat cute "\"Mniejsza~ Mogę się nawet czołgać po podłodze, jeśli Liao pomoże odnowić moją świątynię!\" "
 
 
 
@@ -1508,7 +1508,7 @@ translate polish day1_after_01_lpd_cc63ef4b:
 
     # avt "\"You're free to get lost.\" "
 
-    avt "\"Możesz spadać.\" "
+    avt "\"Możesz nawet stąd spadać.\" "
 
 
 
@@ -1536,7 +1536,7 @@ translate polish day1_after_01_lpd_30bed828:
 
     # avt "\"If you do this for me, I'll get you a quilt.\" "
 
-    avt "\"Skoro tak się zachowujesz, to będę musiał znaleźć ci jakąś kołdrę.\" "
+    avt "\"Skoro tu zostajesz, to będę musiał znaleźć ci jakąś kołdrę.\" "
 
 
 
@@ -1578,7 +1578,7 @@ translate polish day1_after_01_lpd_1c37c892:
 
     # b "Eventually after making a fuss, Senpai gives up and starts to make his futon. "
 
-    b "Wyjmuję zapasową pościel z szafy i kładę przed nim na ziemi. "
+    b "Wyjmuję zapasową pościel z szafy i kładę ją na podłodze przed nim. "
 
     b "Wreszcie, po małym zamieszaniu, Senpai poddaje się i zaczyna szykować sobie miejsce do spania. "
 
@@ -1594,9 +1594,9 @@ translate polish day1_after_01_lpd_61ea426c:
 
     # b "Basically, that means I'll have to step over his bed if I ever want to get out. "
 
-    b "Mój pokój nie zbyt duży, a jedyny skrawek wolnej przestrzeni znajduje się przy drzwiach. "
+    b "Mój pokój nie jest zbyt duży, a jedyny skrawek wolnej przestrzeni znajduje się przy drzwiach. "
 
-    b "To znaczy, że będę musiał przechodzić nad jego posłaniem za każdym razem, gdy chcę wyjść. "
+    b "To znaczy, że będę musiał przechodzić nad jego posłaniem za każdym razem, gdy będę chciał wyjść. "
 
 
 
@@ -1612,7 +1612,7 @@ translate polish day1_after_01_lpd_f5c01a84:
 
     voice voice_file.lpdcat(2,16)
 
-    lpdcat normal "\"Liao, zablokuję przejście, jeśli będę tutaj spał.\" "
+    lpdcat normal "\"Liao- zablokuję przejście, jeśli będę tutaj spał.\" "
 
 
 
@@ -1680,7 +1680,7 @@ translate polish day1_after_01_lpd_d28def82:
 
     # avt "\"...Do I have to say it twice?\" "
 
-    avt "\"Czy muszę się dwa razy powtarzać?\" "
+    avt "\"...Czy naprawdę muszę to powtarzać?\" "
 
 
 
@@ -1728,7 +1728,7 @@ translate polish day1_after_01_lpd_3e0f0185:
 
     # b "I did offer him the bed out of courtesy, but is he okay with it? Not to mention this is my first time sleeping with someone else... "
 
-    b "Zaproponowałem mu łóżko z grzeczności, ale czy to mu pasuje? Nie wspominając o tym, że po raz pierwszy nie będę spał sam... "
+    b "Zaproponowałem mu łóżko z grzeczności, ale czy to mu odpowiada? Nie wspominając o tym, że po raz pierwszy będę spał przy kimś... "
 
 
 
@@ -1754,7 +1754,7 @@ translate polish day1_after_01_lpd_1c693d28:
 
     # b "Maybe he doesn't feel these things because he's a god? That could be it... "
 
-    b "I na pewno nie jest tym zakłopotany. To tak jak wtedy, gdy otworzył drzwi do łazienki. "
+    b "I wcale nie wygląda na zakłopotanego. Jak wtedy, gdy otworzył drzwi do łazienki. "
 
     b "Może nie czuje takich rzeczy, ponieważ jest bogiem? Kto wie... "
 
@@ -1784,7 +1784,7 @@ translate polish day1_after_01_lpd_0f91145a:
 
     voice voice_file.lpdcat(2,19)
 
-    lpdcat laugh "\"Liao, nic jeszcze nie jadłeś, jesteś absolutnie pewien, że nic nie chcesz?\" "
+    lpdcat laugh "\"Liao, nic jeszcze nie jadłeś- jesteś absolutnie pewien, że nic nie chcesz?\" "
 
 
 
@@ -1796,7 +1796,7 @@ translate polish day1_after_01_lpd_57cc4288:
 
     # avt "\"...Senpai, you'll gain weight if you eat too much before sleeping, you know?\" "
 
-    avt "\"...Senpai, przytyjesz, jeśli będziesz się obżerał przed snem, wiesz o tym?\" "
+    avt "\"...Senpai- przytyjesz, jeśli będziesz się obżerał przed snem- wiesz o tym?\" "
 
 
 
@@ -1812,7 +1812,7 @@ translate polish day1_after_01_lpd_66641549:
 
     voice voice_file.lpdcat(2,20)
 
-    lpdcat laugh "\"Mnie to nie rusza, a poza tym nie jesteś przecież gruby. Czemu nie zjesz ze mną?\" "
+    lpdcat laugh "\"Mnie to nie rusza, a poza tym- nie jesteś przecież gruby. Czemu nie zjesz ze mną?\" "
 
 
 
@@ -1824,7 +1824,7 @@ translate polish day1_after_01_lpd_ea774fc5:
 
     # avt "\"I just want to sleep... Do I look like I have the energy to eat?\" "
 
-    avt "\"Po prostu chcę już spać... Czy wyglądam jakbym miał ochotę na jedzenie?\" "
+    avt "\"Po prostu już mi się chce spać... Czy wyglądam jakbym miał ochotę na jedzenie?\" "
 
 
 
@@ -1916,7 +1916,7 @@ translate polish day1_after_01_lpd_e51dcfe6:
 
     # b "Tiger seems like he's in a bad mood. Guess he's grumpy over not getting the bed. It's not like a guardian tiger like him needs it to sleep... "
 
-    b "Zdaje się, że Tygrys jest w złym humorze. Pewnie jest nadąsany, bo nie dostał łóżka. Tygrysi strażnik taki przecież nie potrzebuje go do snu... "
+    b "Zdaje się, że Tygrys jest w złym humorze. Pewnie jest nadąsany, że nie dostał łóżka. Przecież taki tygrysi strażnik nie potrzebuje go do snu... "
 
 
 
@@ -1928,7 +1928,7 @@ translate polish day1_after_01_lpd_a5df2795:
 
     # b "I still feel a little guilty as I turn out the lights. Lying myself down onto the bed. "
 
-    b "Nadal czuję się trochę winny, gdy gaszę światło i kładę się wreszcie do łóżka. "
+    b "Jednak nadal czuję się trochę winny, gdy gaszę światło i kładę się wreszcie do łóżka. "
 
 
 
@@ -1940,7 +1940,7 @@ translate polish day1_after_01_lpd_acdbc99f:
 
     # b "I pull up the quilt and try to find a space for myself. The bed is small for the both of us. "
 
-    b "Podnoszę kołdrę i próbuję znaleźć sobie miejsce. Łóżko jest trochę małe dla nas dwóch. "
+    b "Podnoszę kołdrę i próbuję znaleźć sobie miejsce. To łóżko jest trochę małe dla nas dwóch. "
 
 
 
@@ -1954,9 +1954,9 @@ translate polish day1_after_01_lpd_f32aad70:
 
     # b "Could it just be some kind of illusion? Like can I touch him? "
 
-    b "Leży tak blisko mnie, mogę nawet poczuć temperaturę jego ciała... Czemu bóg wydziela z siebie ciepło? Przecież jego ciało nie prawdziwe? "
+    b "Leży tak blisko mnie, że mogę nawet poczuć temperaturę jego ciała... Dlaczego bóg emanuje ciepłem? Przecież jego ciało nie jest chyba prawdziwe? "
 
-    b "A może to jakaś iluzja? Czy tak naprawdę mogę go dotknąć? "
+    b "A może to jakaś iluzja? Czy naprawdę mogę go dotknąć? "
 
 
 
@@ -1968,7 +1968,7 @@ translate polish day1_after_01_lpd_cbba8706:
 
     # b "I gently move myself, pulling up the quilt a bit. Despite my curiosity, I try to be respectful and not get to close to him. "
 
-    b "Delikatnie się odsuwam, ciągnąc nieco za kołdrę. Mimo mojej ciekawości, próbuję okazać mu należyty szacunek i nie zbliżać się za nadto. "
+    b "Delikatnie się odsuwam, ciągnąc nieco za kołdrę. Mimo mojej ciekawości, próbuję okazać mu należyty szacunek i nie zbliżać się zanadto. "
 
 
 
@@ -1980,7 +1980,7 @@ translate polish day1_after_01_lpd_c2715b5c:
 
     # b "But how should I sleep? I mean, I usually sprawl all over the bed. But what if I kick him while sleeping... "
 
-    b "Jak mam teraz zasnąć? Zazwyczaj rozkładam się na całym łóżku. A co jeśli kopnę go podczas snu... "
+    b "Jakby tu teraz zasnąć? Zazwyczaj rozkładam się na całym łóżku. A co jeśli kopnę go podczas snu... "
 
 
 
@@ -2008,7 +2008,7 @@ translate polish day1_after_01_lpd_ac9f412e:
 
     b "Przyciąga mnie do siebie w mocnym uścisku. Co się właśnie stało? Nie spodziewałem się, że będzie taki asertywny. "
 
-    b "Odwracam głowę, by na niego spojrzeć. Wpatruje się we mnie z tym swoim poważnym spojrzeniem. "
+    b "Odwracam głowę, by na niego spojrzeć. Wpatruje się we mnie tym swoim poważnym spojrzeniem. "
 
 
 
@@ -2044,7 +2044,7 @@ translate polish day1_after_01_lpd_102c6e72:
 
     # b "{cps=*0.2}Something isn't right.{/cps} "
 
-    b "{cps=*0.2}Coś jest nie tak.{/cps} "
+    b "{cps=*0.2}Coś tu nie gra.{/cps} "
 
 
 
@@ -2056,7 +2056,7 @@ translate polish day1_after_01_lpd_7e77895a:
 
     # b "I turn back around just to find I'm actually partially hanging outside the bed. If he didn't catch me,  I would have definitely fallen. "
 
-    b "Odwracając ponownie głowę zauważam, że tak naprawdę częściowo zwisam nad podłogą. Na pewno bym spadł, gdyby mnie nie złapał. "
+    b "Odwracając ponownie głowę zauważam, że tak naprawdę zwisam częściowo nad podłogą. Na pewno bym spadł, gdyby mnie nie złapał. "
 
 
 
@@ -2116,7 +2116,7 @@ translate polish day1_after_01_lpd_d47a21bd:
 
     # b "I try to relax as well. His arms are still holding me and I don't want to risk falling by moving back again. "
 
-    b "Próbuję zrobić to samo. Wciąż trzyma mnie w ramionach, a ja nie chcę ryzykować, że spadnę ponownie się odsuwając. "
+    b "Próbuję pójść za jego przykładem. Mimo że wciąż trzyma mnie w ramionach, nie chcę ryzykować upadkiem ponownie się odsuwając. "
 
 
 
@@ -2128,7 +2128,7 @@ translate polish day1_after_01_lpd_e12212b7:
 
     # b "So, I have no other option but to lie here in his arms, the feel of his warmth, and his heartbeat. Could this really not be an illusion after all? "
 
-    b "No to nie mam innego wyboru. Leżąc w jego ramionach, czuję jego ciepło i bicie serca. Czy to naprawdę może nie być złudzeniem? "
+    b "Chyba nie mam innego wyboru. Leżąc w jego ramionach, czuję jego ciepło i bicie serca. Czy to naprawdę może nie być złudzeniem? "
 
 
 
@@ -2140,7 +2140,7 @@ translate polish day1_after_01_lpd_2df2df10:
 
     # b "It... {w=0.5}It... {w=0.5}feels pretty good to get this close with his fuzzy body, but how can I sleep like this? "
 
-    b "To... {w=0.5}To... {w=0.5}całkiem przyjemne, być tak blisko jego miękkiego ciała, ale jak mam zasnąć w ten sposób? "
+    b "To... {w=0.5}To... {w=0.5}całkiem przyjemne, być tak blisko jego miękkiego ciała- ale jak mam w ten sposób zasnąć? "
 
 
 
@@ -2156,7 +2156,7 @@ translate polish day1_after_01_lpd_7fdc2e6e:
 
     b "Po raz pierwszy dzielę z kimś łóżko... {w=0.5}mimo że spanie z bogiem brzmi wspaniale, Pantera nie za bardzo {i}sprawia wrażenie{/i} \ niematerialnego. "
 
-    b "Futro na jego ramionach jest takie miękkie, a jego ciało promieniuje ciepłem. Mogę nawet usłyszeć jego spokojny oddech... "
+    b "Futro na jego ramionach jest takie miękkie, a ciało promieniuje ciepłem. Mogę nawet usłyszeć jego spokojny oddech... "
 
 
 
@@ -2180,7 +2180,7 @@ translate polish day1_after_01_lpd_c10a8195:
 
     # b "Sadly, there's no way I'll be able to sleep like this. Even though I'm really exhausted... {w=0.5}all this thinking is keeping me awake. " with hshake
 
-    b "Niestety nie ma szans, bym mógł spać w ten sposób. Nawet jeśli jestem bardzo zmęczony... {w=0.5}to wszystko nie pozwala mi zmrużyć oka. " with hshake
+    b "Niestety, nie ma szans bym mógł zasnąć w ten sposób. Nawet jeśli jestem bardzo zmęczony... {w=0.5}to wszystko nie pozwala mi zmrużyć oka. " with hshake
 
 
 
@@ -2218,7 +2218,7 @@ translate polish day1_after_01_lpd_f5d7306e:
 
     # avt "\"Why did you come to find me?\" "
 
-    avt "\"Wciąż nie śpisz? B-bardzo przepraszam że przeszkadzam, ale czy mogę zadać ci parę pytań...\" "
+    avt "\"Wciąż nie śpisz? B-bardzo przepraszam że przeszkadzam, ale czy mógłbym zadać ci parę pytań?...\" "
 
     avt "\"Dlaczego przybyłeś tu, by mnie odnaleźć?\" "
 
@@ -2276,7 +2276,7 @@ translate polish day1_after_01_lpd_a219a0b2:
 
     # avt "\"But I thought you saw me at the show? Why didn't you talk to me until I got home?\" "
 
-    avt "\"Ale ja myślałem, że zobaczyłeś mnie na występie? Dlaczego nie zagadałeś do mnie w drodze to domu?\" "
+    avt "\"Ale, myślałem, że zobaczyłeś mnie na występie? Dlaczego nie zagadałeś do mnie w drodze do domu?\" "
 
 
 
@@ -2316,7 +2316,7 @@ translate polish day1_after_01_lpd_746b2666:
 
     # b "Again he moves slightly, I guess that's a yes. "
 
-    b "Znowu porusza się nieznacznie. Chyba oznacza to tak. "
+    b "Znowu porusza się nieznacznie. Chyba oznacza to "tak". "
 
 
 
@@ -2398,9 +2398,9 @@ translate polish day1_after_01_lpd_ad39ff8c:
 
     # b "After all, getting there isn't the problem. "
 
-    b "Zdaje się, że mogę tak długo jak w pobliżu. Tym sposobem dodarlibyśmy do Pintung w mgnieniu oka... {w=0.5}ale ja wciąż nie chcę iść. "
+    b "Zdaje się, że mogę ich używać tak długo jak jest w pobliżu. Tym sposobem dotarlibyśmy do Pintung w mgnieniu oka... {w=0.5}ale ja wciąż nie chcę tam iść. "
 
-    b "I tak problemem nie było dotarcie tam. "
+    b "Samo dotarcie nie było głównym problemem. "
 
 
 
@@ -2440,7 +2440,7 @@ translate polish day1_after_01_lpd_76103575:
 
     b "Czuję, że może być mu ciężko wytłumaczyć mi to wszystko. "
 
-    b "Sądząc po jego słabym mandaryńskim, zadawanie złożonych pytań do niczego mnie nie zaprowadzi."
+    b "Sądząc po jego słabym mandaryńskim, zadawanie złożonych pytań do niczego mnie nie doprowadzi."
 
 
 
@@ -2504,7 +2504,7 @@ translate polish day1_after_01_lpd_f14cb706:
 
     # avt "\"Okay, I can get the picture... but what can I do? I don't think they'll trust a Han outsider...\" "
 
-    avt "\"Powiedzmy, że wiem o co chodzi... ale co ja mogę zrobić? Nie wydaje mi się, by zaufali Hanowi z zewnątrz...\" "
+    avt "\"Powiedzmy, że wiem o co chodzi... ale co właściwie mogę zrobić? Nie sądzę, by zaufali Hanowi z zewnątrz...\" "
 
 
 
@@ -2558,7 +2558,7 @@ translate polish day1_after_01_lpd_3ced4ef8:
 
     # avt "\"I have my own life and I don't want to spend it in the mountains of Pingtung.\" "
 
-    avt "\"To nie znaczy, że nie chcę ci pomóc. Pomoc ci, nawet z duchowymi ścieżkami, to wielkie poświęcenie.\" "
+    avt "\"To nie znaczy, że nie chcę ci pomóc. Ale taka pomoc, nawet z duchowymi ścieżkami, to wielkie poświęcenie.\" "
 
     avt "\"Mam swoje własne życie i nie chcę go spędzić w górach Pingtung'a.\" "
 
@@ -2586,9 +2586,9 @@ translate polish day1_after_01_lpd_5ec230d1:
 
     # b "It's just that living with an aboriginal tribe isn't an option to me... "
 
-    b "Trochę mi głupio mu odmawiać, to jedyny powód dla którego tu przyszedł. "
+    b "Trochę mi głupio odmawiać, w końcu to jedyny powód dla którego tu przyszedł. "
 
-    b "Zycie w jakimś aborygeńskim plemieniu po prostu nie jest dla mnie... "
+    b "Życie w jakimś aborygeńskim plemieniu po prostu nie jest dla mnie... "
 
 
 
@@ -2644,7 +2644,7 @@ translate polish day1_after_01_lpd_e0c0a671:
 
     # avt "\"Hmm... Do you really understand what I said?\" "
 
-    avt "\"Hmmm... Czy na pewno dobrze mnie zrozumiałeś?\" "
+    avt "\"Hmm... Czy na pewno dobrze mnie zrozumiałeś?\" "
 
 
 
@@ -2738,9 +2738,9 @@ translate polish day1_after_01_lpd_d894f500:
 
     # b "I couldn't help but think about the last expression he had on his face as I close my \neyes... "
 
-    b "Nic już więcej nie powiedział pozwalając mi zasnąć. "
+    b "Nic więcej już nie powiedział, pozwalając mi zasnąć. "
 
-    b "Nie mogłem przestać myśleć o wyrazie twarzy, który miał, gdy zamykałem oczy... "
+    b "Zamykając oczy wciąż nie mogłem przestać myśleć o jego wyrazie twarzy... "
 
 
 
@@ -2752,7 +2752,7 @@ translate polish day1_after_01_lpdcat_5f5b897d:
 
     # avt "\"...All right. Senpai's the only one here with a real body, and I'm not about to let him catch a cold.\" "
 
-    avt "\"No dobra... Senpai jako jedyny ma prawdziwe ciało i nie chcę by się przeziębił.\" "
+    avt "\"No dobra... Senpai jako jedyny ma prawdziwe ciało i nie pozwolę by się przeziębił.\" "
 
 
 
@@ -2796,7 +2796,7 @@ translate polish day1_after_01_lpdcat_ea2466e7:
 
     voice voice_file.lpdcat(2,25)
 
-    lpdcat normal "\"Ale o to właśnie ci chodziło, co nie?\" "
+    lpdcat normal "\"Ale o to ci właśnie chodziło, co nie?\" "
 
 
 
@@ -2880,7 +2880,7 @@ translate polish day1_after_01_lpdcat_841609fb:
 
     voice voice_file.tig(2,25)
 
-    tig frown "\"Wiem. Ma prawdziwe ciało, tak? To nie moja sprawa.\" "
+    tig frown "\"Wiem. Ma prawdziwe ciało, czyż nie? Nic mi do tego.\" "
 
 
 
@@ -2896,7 +2896,7 @@ translate polish day1_after_01_lpdcat_d5f7fa81:
 
     b "Podchodzi do półki z książkami i nagle znika. Czyżby wrócił do swojego posążka? " with flash
 
-    b "Choć jest bogiem, to zaskakujące jak coś tak wielkiego może po prostu zniknąć na moich oczach. "
+    b "Nawet jeśli jest bogiem- to wciąż zaskakujące, jak coś tak wielkiego może po prostu zniknąć na moich oczach. "
 
 
 
@@ -2920,7 +2920,7 @@ translate polish day1_after_01_lpdcat_5da32e76:
 
     # b "I can hear him speak back from the statue. "
 
-    b "Słyszę jak przemawia do mnie z posążka. "
+    b "Słyszę, jak przemawia do mnie z posążka. "
 
 
 
@@ -2936,7 +2936,7 @@ translate polish day1_after_01_lpdcat_658d1e7e:
 
     voice voice_file.tig(2,26)
 
-    tig none "\"Nic mi nie jest. A więc zamierzasz z nim spać, prawda? Nie ma dla mnie łóżka, a więc wracam z powrotem do posążka.\" "
+    tig none "\"Nic mi nie jest. Zamierzasz z nim spać, prawda? Nie ma dla mnie łóżka, tak więc wracam z powrotem do posążka.\" "
 
 
 
@@ -2964,7 +2964,7 @@ translate polish day1_after_01_lpdcat_f63642d6:
 
     voice voice_file.tig(2,27)
 
-    tig none "\"Przecież mówiłem. Nic mi nie jest.\" "
+    tig none "\"Jak już mówiłem, nic mi nie jest.\" "
 
 
 
@@ -2978,9 +2978,9 @@ translate polish day1_after_01_lpdcat_be53942b:
 
     # b "I sigh and sit on the corner of my bed. "
 
-    b "Nie brzmiał zbyt przekonująco, ale nic więcej nie mogę zrobić. "
+    b "Nie brzmiało to zbyt przekonująco, ale nic więcej nie mogę zrobić. "
 
-    b "Wzdychając siadam na rogu łózka. "
+    b "Wzdychając siadam na rogu łóżka. "
 
 
 
@@ -3044,7 +3044,7 @@ translate polish day1_after_01_lpdcat_f908f9b3:
 
     # b "I'm about to stop him... The desk is pretty messy and worse case scenario he could break my keyboard... "
 
-    b "Muszę go zatrzymać... Biurko jest trochę zaśmiecone. W najgorszym wypadku może połamać mi klawiaturę... "
+    b "Już miałem go zatrzymać... Biurko jest trochę zaśmiecone, do tego w najgorszym wypadku może połamać mi klawiaturę... "
 
 
 
@@ -3058,9 +3058,9 @@ translate polish day1_after_01_lpdcat_40a6d84b:
 
     # b "Some of them even look like... they're phasing though his body. "
 
-    b "Pomimo że tam leży, rzeczy pod nim nie drgną nawet o milimetr. "
+    b "Jednak pomimo że tam leży, rzeczy pod nim nie drgną nawet o milimetr. "
 
-    b "Część z nich wygląda jakby... przenikały przez jego ciało. "
+    b "Część z nich wygląda jakby... przenikało przez jego ciało. "
 
 
 
@@ -3074,9 +3074,9 @@ translate polish day1_after_01_lpdcat_28a925d5:
 
     # b "Hold on, he got my pants for me earlier. How did he do that? "
 
-    b "Racja, skoro jest duchem, to nie powinien móc niczego dotknąć... "
+    b "Racja, skoro jest duchem, to nie powinien być w stanie niczego dotknąć... "
 
-    b "Zaraz, zaraz. Przyniósł mi wcześniej spodnie. Jak tego dokonał? "
+    b "Zaraz, zaraz. Przecież przyniósł mi wcześniej spodnie. Jak tego dokonał? "
 
 
 
@@ -3144,7 +3144,7 @@ translate polish day1_after_01_lpdcat_e25e5f39:
 
     # avt "\"...Shut it. Just explain it.\" "
 
-    avt "\"...daj spokój. Po prostu to wytłumacz.\" "
+    avt "\"...daj spokój. Po prostu mi wytłumacz.\" "
 
 
 
@@ -3164,7 +3164,7 @@ translate polish day1_after_01_lpdcat_9a157f24:
 
     lpdcat normal "\"Nietrudno to zrozumieć. Potężne duchy potrafią przenosić przedmioty. Słyszałeś kiedykolwiek o poltergeistach? To coś w tym stylu.\" "
 
-    lpdcat normal "\"No ale po raz pierwszy widziałem jak ktoś tego używa, by podać komuś ubranie.\" "
+    lpdcat normal "\"No, ale po raz pierwszy widziałem jak ktoś to robi, by przynieść ubrania.\" "
 
 
 
@@ -3210,9 +3210,9 @@ translate polish day1_after_01_lpdcat_63fe68fb:
 
     voice voice_file.lpdcat(2,31)
 
-    lpdcat normal "\"Wcześniej nie mogłeś mnie zobaczyć, dlatego musiałem kogoś opętać, by z tobą porozmawiać.\" "
+    lpdcat normal "\"Wcześniej nie mogłeś mnie zobaczyć- dlatego musiałem kogoś opętać, by z tobą porozmawiać.\" "
 
-    lpdcat normal "\"Gdybym tylko miał wystarczająco dużo mocy, mógłbym do ciebie napisać przy pomocy długopisu.\" "
+    lpdcat normal "\"Gdybym tylko miał wystarczająco dużo mocy, mógłbym do ciebie napisać za pomocą długopisu.\" "
 
 
 
@@ -3230,7 +3230,7 @@ translate polish day1_after_01_lpdcat_b5b89771:
 
     voice voice_file.lpdcat(2,32)
 
-    lpdcat normal "\"A i tak nie byłoby to najlepsze rozwiązanie. Musiałbym na to poświęcić dużo energii. Ciekawe co byś zrobił na widok długopisu, który sam pisze po kartce?\" "
+    lpdcat normal "\"A i tak nie byłoby to najlepsze rozwiązanie. Musiałbym na to poświęcić dużo energii. Zresztą ciekawe co byś zrobił na widok długopisu, który sam pisze po kartce?\" "
 
     lpdcat normal "\"Myślę, że dobrze się stało, że kogoś opętałem.\" "
 
@@ -3272,7 +3272,7 @@ translate polish day1_after_01_lpdcat_469db899:
 
     # avt "\"Come on, I'm bullying you? Besides, are you going to finish your lou mei? I need to sleep.\" "
 
-    avt "\"Daj spokój, niby w jaki sposób? A tak w ogóle, masz zamiar skończyć swoje lou mei? Muszę już iść spać.\" "
+    avt "\"Daj spokój, niby w jaki sposób? A tak w ogóle, masz zamiar skończyć to swoje lou mei? Muszę już iść spać.\" "
 
 
 
@@ -3288,7 +3288,7 @@ translate polish day1_after_01_lpdcat_c7493720:
 
     voice voice_file.lpdcat(2,34)
 
-    lpdcat normal "\"Tak, zamierzam. Nie chcesz trochę? Przecież kupiłem je dla ciebie.\" "
+    lpdcat normal "\"Tak, zamierzam. Nie chcesz trochę? W końcu kupiłem je dla ciebie.\" "
 
 
 
@@ -3356,7 +3356,7 @@ translate polish day1_after_01_lpdcat_231612f7:
 
     # avt "\"...You're just gonna throw it away?\" "
 
-    avt "\"...chcesz to po prostu wyrzucić?\" "
+    avt "\"...chcesz to tak po prostu wyrzucić?\" "
 
 
 
@@ -3372,7 +3372,7 @@ translate polish day1_after_01_lpdcat_0d3ea4a0:
 
     voice voice_file.lpdcat(2,37)
 
-    lpdcat pout "\"Co? Nie, to było by zwykłe marnotrawstwo.\" "
+    lpdcat pout "\"Co? Nie, to byłoby zwykłe marnotrawstwo.\" "
 
 
 
@@ -3384,7 +3384,7 @@ translate polish day1_after_01_lpdcat_dabcda37:
 
     # b "Senpai gets up, seals the bowl with a plastic bag and puts in inside the fridge... Yeah I feel dumb for not thinking of that. "
 
-    b "Senpai wstaje, owija miskę plastikową torbą i wkłada do lodówki... Czuję się głupio, że o tym nie pomyślałem. "
+    b "Senpai wstaje, owija miskę plastikową torbą i wkłada ją do lodówki... Czuję się głupio, że o tym nie pomyślałem. "
 
 
 
@@ -3424,7 +3424,7 @@ translate polish day1_after_01_lpdcat_6a33a37c:
 
     # avt "\"There won't be any time to cook anything.\" "
 
-    avt "\"Nawet nie będzie czasu, by to podgrzać.\" "
+    avt "\"Nawet nie będzie czasu żeby to podgrzać.\" "
 
 
 
@@ -3480,7 +3480,7 @@ translate polish day1_after_01_lpdcat_7fde1083:
 
     # avt "\"I know that! And you're one to talk, you're actually keeping me from sleeping right now...\" "
 
-    avt "\"Wiem o tym! I kto to mówi, w sumie to właśnie przez ciebie jeszcze nie śpię...\" "
+    avt "\"Wiem o tym! I kto to mówi- w sumie to właśnie przez ciebie jeszcze nie śpię...\" "
 
 
 
@@ -3540,7 +3540,7 @@ translate polish day1_after_01_lpdcat_19a10ab4:
 
     # avt "\"Senpai... I'm going to sleep on the floor at this rate.\" "
 
-    avt "\"Senpai... W takim razie będę spał na podłodze.\" "
+    avt "\"Senpai... Jak tak dalej pójdzie, będę spał na podłodze.\" "
 
 
 
@@ -3572,9 +3572,9 @@ translate polish day1_after_01_lpdcat_4923fd95:
 
     # b "I'm not going to bother reassuring him, so I just lay down in the bed next to him and pull up the quilt. "
 
-    b "Senpai wygląda jakby miał się zaraz rozpłakać... Teraz na pewno się nie wycofa. "
+    b "Senpai wygląda jakby miał się zaraz rozpłakać... Teraz na pewno się nie powstrzyma. "
 
-    b "Nie chcę męczyć się z uspokajaniem go, a więc ulegam temu co mówi. "
+    b "Nie chcę się męczyć z jego uspokajaniem, a więc ulegam temu co mówi. "
 
 
 
@@ -3626,7 +3626,7 @@ translate polish day1_after_01_lpdcat_642a655d:
 
     # b "Well, at least he was joking about earlier... I mean I might have been ok— "
 
-    b "Dobrze, że tylko sobie żartował... Powinno nie być tak źle- "
+    b "Dobrze, że tylko sobie żartował... Choć w sumie nie miałbym nic przeciw- "
 
 
 
@@ -3640,7 +3640,7 @@ translate polish day1_after_01_lpdcat_5a18e69a:
 
     # b "...I wonder if he's just like this with every guy he dates. "
 
-    b "Nie, on po prostu stroi sobie ze mnie żarty! Czy on myśli, że takim zachowaniem nakłoni mnie do pomocy mu? "
+    b "Nie, on po prostu stroi sobie ze mnie żarty! Czy naprawdę myśli, że takim zachowaniem nakłoni mnie do pomocy? "
 
     b "Ciekawe, czy traktuje tak każdego gościa z którym się spotyka... "
 
@@ -3658,11 +3658,11 @@ translate polish day1_after_01_lpdcat_b9a763ee:
 
     # b "What should I do? I've never considered living at a countryside temple. "
 
-    b "Naprawdę, jest bardzo zdeterminowany. Powoli zaczynam myśleć, że poważnie potrzebna mu moja pomoc. "
+    b "Naprawdę, jest bardzo zdeterminowany. Powoli zaczynam myśleć, że poważnie potrzebuje mojej pomocy. "
 
     b "Raczej nie żartowałby z tak ważnej sprawy, ale... "
 
-    b "Co ja powinienem zrobić? Nigdy nie myślałem o życiu w wiejskiej świątyni. "
+    b "Co powinienem zrobić? Nigdy nie rozważałem życia w wiejskiej świątyni. "
 
 
 
@@ -3674,7 +3674,7 @@ translate polish day1_after_01_lpdcat_6940dd3e:
 
     # b "And what about the real Senpai? He wont be possessed forever. "
 
-    b "A co z prawdziwym Senpai'em? Nie będzie opętany na zawsze. "
+    b "A co z prawdziwym Senpai'em? Nie będzie przecież wiecznie opętany. "
 
 
 
@@ -3686,7 +3686,7 @@ translate polish day1_after_01_lpdcat_f0111186:
 
     # b "I don't want to live in the country alone! Even if that leopard cat finds another body... wait, what about their lives? Would he always use human bodies? "
 
-    b "Nie chcę tam żyć sam! Nawet jeśli bengalski kotek znajdzie kolejne ciało... Chwila, a co z życiem innych ludzi? Czy już zawsze korzystałby z ludzkich ciał? "
+    b "Nie chcę tam żyć samotnie! Nawet jeśli bengalski kotek znajdzie kolejne ciało... Chwila, a co z życiem tych ludzi? Czy już zawsze korzystałby z ludzkich ciał? "
 
 
 
@@ -3698,7 +3698,7 @@ translate polish day1_after_01_lpdcat_1a0f270b:
 
     # b "Ahhh— I don't know. I keep asking myself these questions... I should probably just ask him. "
 
-    b "Achhh- Sam już nie wiem. Przez cały czas zadaję sobie te pytania... Powinienem się go o to spytać. "
+    b "Achhh- Sam już nie wiem. Przez cały czas zadaję sobie te pytania... Powinienem się go o to zapytać. "
 
 
 
@@ -3772,7 +3772,7 @@ translate polish day1_after_01_lpdcat_03caffc0:
 
     voice voice_file.lpdcat(2,46)
 
-    lpdcat serious "\"Nie chcę składać winy na nas, ale tak naprawdę mój Fudegong nie jest zbyt potężny. W innym wypadku, dlaczego wybrałby małego yaoguai takiego jak ja, by był tygrysim strażnikiem?\" "
+    lpdcat serious "\"Nie chcę nas obwiniać, ale tak naprawdę mój Fudegong nie jest zbyt potężny. W innym wypadku, dlaczego wybrałby małego yaoguai takiego jak ja, by był tygrysim strażnikiem?\" "
 
     lpdcat serious "\"Nasza świątynia popada w ruinę, chwasty rosną dosłownie wszędzie. Niektóre są nawet wyższe ode mnie.\" "
 
@@ -3786,7 +3786,7 @@ translate polish day1_after_01_lpdcat_425fb4e7:
 
     # avt "\"Hmm... So what can I do to help?\" "
 
-    avt "\"Hmm... Co mogę zrobić by pomóc?\" "
+    avt "\"Hmm... A co mógłbym zrobić by pomóc?\" "
 
 
 
@@ -3804,9 +3804,9 @@ translate polish day1_after_01_lpdcat_3a990038:
 
     voice voice_file.lpdcat(2,47)
 
-    lpdcat normal "\"Potrzebujemy tylko trochę pomocy! Być może będziesz musiał zacząć od sprzątania... ale jeśli dzięki tobie ludzie dowiedzą się o mocy naszego Fudegong'a...\" "
+    lpdcat normal "\"Potrzebujemy tylko trochę rąk do pracy! Być może będziesz musiał zacząć od sprzątania... ale jeśli dzięki tobie ludzie dowiedzą się o mocy naszego Fudegong'a...\" "
 
-    lpdcat normal "\"Zmyślanie historii, albo nawet cudów. Potem będziemy chodzić po domach, pytając czy nikt nie potrzebuje naszej pomocy.\" "
+    lpdcat normal "\"Przyda się zmyślanie historii, albo nawet cudów. Potem będziemy chodzić po domach, pytając czy nikt nie potrzebuje naszej pomocy.\" "
 
 
 
@@ -3834,7 +3834,7 @@ translate polish day1_after_01_lpdcat_86691f25:
 
     voice voice_file.lpdcat(2,48)
 
-    lpdcat angry "\"To nie tak! A jak niby chcesz uzyskać moc, bez przekonania ludzi, by uwierzyli?\" "
+    lpdcat angry "\"To nie tak! A jak niby chcesz uzyskać moc- bez przekonania ludzi, by uwierzyli?\" "
 
 
 
@@ -3846,7 +3846,7 @@ translate polish day1_after_01_lpdcat_3e0469de:
 
     # avt "\"So, I just have to... make up stories and play volunteer?\" "
 
-    avt "\"A więc muszę tylko... opowiadać zmyślone historie i pomagać ludziom?\" "
+    avt "\"A więc musiałbym tylko... opowiadać zmyślone historie i pomagać ludziom?\" "
 
 
 
@@ -3902,7 +3902,7 @@ translate polish day1_after_01_lpdcat_192989b9:
 
     # avt "\"...So why am i the only one who can do that.\" "
 
-    avt "\"To czemu tylko ja się do tego nadaję...\" "
+    avt "\"To dlaczego potrzebujesz akurat mnie...\" "
 
 
 
@@ -3920,9 +3920,9 @@ translate polish day1_after_01_lpdcat_913751ef:
 
     voice voice_file.lpdcat(2,51)
 
-    lpdcat cry_2 "\"Boooo... tylko ty możesz mi pomóc. Potrzebujemy kogoś do komunikacji z mieszkańcami, a jak mamy to osiągnąć bez kogoś, kto może mówić w naszym imieniu!\" " with hshake
+    lpdcat cry_2 "\"Boooo... tylko ty możesz mi pomóc. Potrzebujemy kogoś do komunikacji z mieszkańcami, a jak mamy to osiągnąć bez kogoś kto może mówić w naszym imieniu!\" " with hshake
 
-    lpdcat cry_2 "\"Pomoc im to nasz główny cel.\" "
+    lpdcat cry_2 "\"Pomoc miejscowym to nasz główny cel.\" "
 
 
 
@@ -3934,7 +3934,7 @@ translate polish day1_after_01_lpdcat_30be6872:
 
     # avt "\"But it doesn't help me at all.\" "
 
-    avt "\"Ale mi to nie wcale nie pomaga.\" "
+    avt "\"Tylko mnie wcale to nie pomaga.\" "
 
 
 
@@ -3962,7 +3962,7 @@ translate polish day1_after_01_lpdcat_0ccf79a4:
 
     # avt "\"I'm not noble like that.\" "
 
-    avt "\"Nie jestem taki szlachetny.\" "
+    avt "\"Nie jestem aż tak szlachetny.\" "
 
 
 
@@ -3980,7 +3980,7 @@ translate polish day1_after_01_lpdcat_16fb8881:
 
     voice voice_file.lpdcat(2,53)
 
-    lpdcat difficult "\"Coo- Wiem, że nie bardzo chcesz o zrobić, ale to zajmie nam tylko rok, góra dwa jeśli się postaramy. Potrzebujemy twojej mocy tylko do czasu, aż będziemy mieć wystarczająco wyznawców.\ "
+    lpdcat difficult "\"Coo- Wiem, że nie bardzo chciałbyś to robić, ale to zajmie nam tylko rok, góra dwa- jeśli się postaramy. Potrzebujemy twojej mocy tylko do czasu; aż będziemy mieć wystarczająco wyznawców.\ "
 
     lpdcat difficult "\"To tylko rok, albo dwa... proszę?\" "
 
@@ -3994,7 +3994,7 @@ translate polish day1_after_01_lpdcat_7dccfa97:
 
     # b "\"One or two years doesn't sound that bad by itself, but I'm in college now and I can't drop out just for this.\" "
 
-    b "Rok, czy dwa nie brzmi aż tak źle, ale jestem teraz na studiach i nie mogę ich przerwać tylko z tego powodu. "
+    b "Rok czy dwa nie brzmi aż tak źle, ale jestem teraz na studiach i nie mogę ich przerwać z takiego powodu. "
 
 
 
@@ -4010,11 +4010,11 @@ translate polish day1_after_01_lpdcat_a9eb4661:
 
     # b "I really don't have a way to spend two years as a priest... "
 
-    b "Co gorsza, po skończeniu studiów, muszę odbyć obowiązkową służbę wojskową... "
+    b "Co gorsza, po skończeniu studiów muszę odbyć obowiązkową służbę wojskową... "
 
-    b "Dostać pracę związaną z tańcem też nie jest łatwo... Muszę ciężko ćwiczyć by stać się wystarczająco dobry. "
+    b "Dostać pracę związaną z tańcem też nie jest tak łatwo... Muszę ciężko ćwiczyć by stać się wystarczająco dobry. "
 
-    b "Nie ma szans na to, bym spędził dwa lata jako kapłan... "
+    b "Nie ma szans, bym spędził dwa lata jako kapłan... "
 
 
 
@@ -4026,7 +4026,7 @@ translate polish day1_after_01_lpdcat_70e43052:
 
     # b "This decision is really going to completely change my life... "
 
-    b "Ta decyzja całkowicie zmieni moje życie... "
+    b "Ta decyzja całkowicie zmieniłaby moje życie... "
 
 
 
@@ -4082,7 +4082,7 @@ translate polish day1_after_01_lpdcat_88001d3b:
 
     # avt "\"Says the guy who's keeping me from sleeping...\" "
 
-    avt "\"I mówi ktoś, kto nie pozwala mi zasnąć...\" "
+    avt "\"I mówi to ktoś, kto nie pozwala mi zasnąć...\" "
 
 
 
@@ -4100,7 +4100,7 @@ translate polish day1_after_01_lpdcat_14b04132:
 
     voice voice_file.lpdcat(2,56)
 
-    lpdcat laugh "\"Hehe- przepraszam za to. A tak w ogóle, chociaż muszę prosić cię o pomoc, zrobię wszystko co w mojej mocy, by ci się jakoś odwdzięczyć.\" "
+    lpdcat laugh "\"Hehe- przepraszam za to. A tak w ogóle- chociaż muszę prosić cię o pomoc, to zrobię wszystko co w mojej mocy, by ci się jakoś odwdzięczyć.\" "
 
     lpdcat laugh "\"Jestem przecież bogiem.\" "
 
@@ -4148,7 +4148,7 @@ translate polish day1_after_01_lpdcat_7abf5046:
 
     # b "Surprisingly, I don't feel awkward, even with the warmth of his body against mine. "
 
-    b "Senpai delikatnie ociera się o moje ramię, a następnie chwyta łapą tył mojej głowy. "
+    b "Senpai delikatnie ociera się o moje ramię, a następnie obejmuje łapą tył mojej głowy. "
 
     b "O dziwo, nie czuję się niezręcznie, mimo ciepła jego ciała przy moim. "
 
