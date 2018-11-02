@@ -2922,7 +2922,7 @@ translate polish s06_04_lie_666de361:
 
     # avt "\"Yeah. I know. I'll make sure to get some things together for worship tomorrow.\" "
 
-    avt "\"Tak, wiem. Dopilnuję, by wszystko przygotować na jutrzejszą modlitwę.\" "
+    avt "\"Tak, wiem. Dopilnuję, by przygotować wszystko na jutrzejszą adorację.\" "
 
 
 
@@ -3058,7 +3058,7 @@ translate polish s06_04_lie_69b0d41e:
 
     # b "So... he found some of the books I brought home? I mean that's not a big deal, right? "
 
-    b ""
+    b "On... znalazł część książek, które przywiozłem do domu? Chyba nie ma co się przejmować, prawda? "
 
 
 
@@ -3070,7 +3070,7 @@ translate polish s06_04_lie_47b8bd26:
 
     # b "My bookshelf in Taipei if filled to the brim. If I didn't send some home, how would I be able to buy more?! "
 
-    b ""
+    b "Moja półka w Tajpej jest zapełniona po brzegi. Jak mógłbym kupić ich więcej, gdybym nie wywiózł części z nich do domu?! "
 
 
 
@@ -3086,7 +3086,7 @@ translate polish s06_04_lie_278d26a6:
 
     voice voice_file.tig(6,36)
 
-    tig normal ""
+    tig normal "\"Liao, co cię trapi?\" "
 
 
 
@@ -3098,7 +3098,7 @@ translate polish s06_04_lie_2a6e14e3:
 
     # avt "\"Nothing much... it's just about those comics...\" "
 
-    avt ""
+    avt "\"Nic takiego... to tylko te komiksy...\" "
 
 
 
@@ -3114,7 +3114,7 @@ translate polish s06_04_lie_435f7900:
 
     voice voice_file.tig(6,37)
 
-    tig disappointed ""
+    tig disappointed "\"Och, a co z moimi ofiarami?\" "
 
 
 
@@ -3126,7 +3126,7 @@ translate polish s06_04_lie_7830d3e9:
 
     # avt "\"What— Are you saying I don't feed you enough?\" "
 
-    avt ""
+    avt "\"Co- Chcesz powiedzieć, że nie karmię cię dostatecznie dużo?\" "
 
 
 
@@ -3142,7 +3142,7 @@ translate polish s06_04_lie_04e05c2d:
 
     voice voice_file.tig(6,38)
 
-    tig normal ""
+    tig normal "\"Liao, wspomniałeś o adoracji, prawda? To dwie całkowicie różne rzeczy.\" "
 
 
 
@@ -3154,7 +3154,7 @@ translate polish s06_04_lie_b2fe55c0:
 
     # avt "\"Um... so how about getting a family bucket for dinner then?\" "
 
-    avt ""
+    avt "\"Ym... To co powiesz na duży kubełek ze skrzydełkami na obiad?\" "
 
 
 
@@ -3170,7 +3170,7 @@ translate polish s06_04_lie_ee69a099:
 
     voice voice_file.tig(6,39)
 
-    tig normal ""
+    tig normal "\"...tak.\" "
 
 
 
@@ -3186,7 +3186,7 @@ translate polish s06_04_lie_16a6d85c:
 
     voice voice_file.lpdcat(6,28)
 
-    lpdcat pout ""
+    lpdcat pout "\"Urrh- Znowu kurczak?! Nie chcę tego!\" "
 
 
 
@@ -3202,7 +3202,7 @@ translate polish s06_04_lie_89e5fec0:
 
     voice voice_file.tig(6,40)
 
-    tig normal ""
+    tig normal "\"Co jest złego w kurczaku?\" "
 
 
 
@@ -3218,7 +3218,7 @@ translate polish s06_04_lie_76adc9fd:
 
     voice voice_file.lpdcat(6,29)
 
-    lpdcat pout ""
+    lpdcat pout "\"To zawsze musi być kurczak! Codziennie! Bengalski kotek, taki jak ja, nie może dzień w dzień tolerować tego samego, nawet jeśli jest to soczysty - pyszny kurczak!\" "
 
 
 
@@ -3234,7 +3234,7 @@ translate polish s06_04_lie_b9479bb0:
 
     voice voice_file.tig(6,41)
 
-    tig lift ""
+    tig lift "\"Jeśli nic nie chcesz- nikt cię nie zmusi do jedzenia.\" "
 
 
 
@@ -3250,7 +3250,7 @@ translate polish s06_04_lie_320799c5:
 
     voice voice_file.lpdcat(6,30)
 
-    lpdcat not_reconcile "" with vshake
+    lpdcat not_reconcile "\"Staruszek znowu się nade mną znęca!\" " with vshake
 
 
 
@@ -3262,7 +3262,7 @@ translate polish s06_04_lie_13f5f71f:
 
     # avt "\"...Keep it down guys. I'm calling to order some now.\" "
 
-    avt ""
+    avt "\"...bądźcie cicho. Już dzwonię po zamówienie.\" "
 
 
 
