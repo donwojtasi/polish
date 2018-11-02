@@ -2714,7 +2714,7 @@ translate polish s06_03_53341a76:
 
     voice voice_file.brother(6,3)
 
-    phone "\"Dobrze wiesz, że nie lubię rozmawiać przez telefon. Tata powiedział mi o tym, że widzisz tygrysich strażników. Nie przegapiłbym okazji by cię o to zapytać.\" "
+    phone "\"Dobrze wiesz, że nie lubię rozmawiać przez telefon. Tata powiedział mi o tym, że widziałeś tygrysich strażników. Nie przegapiłbym okazji by cię o to zapytać.\" "
 
 
 
@@ -2738,7 +2738,7 @@ translate polish s06_04_lie_520ead2e:
 
     # avt "\"I-I haven't seen any! I just heard that our family Jitongs can see them.\" "
 
-    avt ""
+    avt "\"N-nie widziałem ani jednego! Po prostu usłyszałem, że Jitong'owie z naszej rodziny mogą ich zobaczyć.\"  "
 
 
 
@@ -2754,7 +2754,7 @@ translate polish s06_04_lie_afd713f2:
 
     voice voice_file.brother(6,4)
 
-    phone ""
+    phone "\"Och? Kto tak powiedział?\" "
 
 
 
@@ -2768,7 +2768,9 @@ translate polish s06_04_lie_8572cc82:
 
     # avt "\"So, is it real? What would I do if I want to see one?\" "
 
-    avt ""
+    avt "\"Nie pamiętam dokładnie. Myślę, że przeczytałem coś na ten temat w internecie... coś o wyjątkowych tygrysich strażnikach naszej rodziny i Jitong'ach, którzy mogą ich zobaczyć.\" "
+
+    avt "\"Czy to prawda? Co musiałbym zrobić by dostrzec któregoś z nich?\" "
 
 
 
@@ -2784,7 +2786,7 @@ translate polish s06_04_lie_6eb98623:
 
     voice voice_file.brother(6,5)
 
-    phone ""
+    phone "\"Ach tak- słyszałem tego typu historie. Dziadek opowiadał mi je, gdy byłem mały. Ale nie mogę ich zobaczyć, więc ty pewnie też nie.\" "
 
 
 
@@ -2800,7 +2802,7 @@ translate polish s06_04_lie_1513aee2:
 
     voice voice_file.brother(6,6)
 
-    phone ""
+    phone "\"Tata powiedział mi, że nie wolno nam nikomu o tym rozpowiadać. Myślę jednak, że fajnie byłoby jakiegoś zobaczyć.\" "
 
 
 
@@ -2816,7 +2818,7 @@ translate polish s06_04_lie_bcd2b18b:
 
     voice voice_file.brother(6,7)
 
-    phone ""
+    phone "\"Hmm, przecież przyniosłeś ze sobą do Tajpej mały posążek tygrysa. Kto wie, może pewnego dnia go zobaczysz.\" "
 
 
 
@@ -2828,7 +2830,7 @@ translate polish s06_04_lie_946e1b9e:
 
     # avt "\"Haha... probably not.\" "
 
-    avt ""
+    avt "\"Haha... raczej nie.\" "
 
 
 
@@ -2844,7 +2846,7 @@ translate polish s06_04_lie_f55da30a:
 
     voice voice_file.brother(6,8)
 
-    phone ""
+    phone "\"Ale taka umiejętność była by naprawdę super! Nie zgodziłbyś się?\" "
 
 
 
@@ -2862,7 +2864,9 @@ translate polish s06_04_lie_c5778902:
 
     voice voice_file.brother(6,9)
 
-    phone ""
+    phone "\"Nieważne, po twojej ostatniej rozmowie z tatą, powiedział bardzo stanowczo, żeby nie rozpowiadać wokoło takich rzeczy. Nie żartował i dlatego zorientowałem się, że coś mogło się stać.\" "
+
+    phone "\"Okazało się, że to nic takiego, więc wszystko jest w porządku.\" "
 
 
 
@@ -2878,7 +2882,7 @@ translate polish s06_04_lie_c423e90f:
 
     voice voice_file.brother(6,10)
 
-    phone ""
+    phone "\"Opiekuj się swoim posążkiem i nie zapominaj oddać mu czci od czasu do czasu.\" "
 
 
 
@@ -2890,7 +2894,7 @@ translate polish s06_04_lie_53580882:
 
     # avt "\"I know, haha...\" "
 
-    avt ""
+    avt "\"Wiem, haha...\" "
 
 
 
@@ -2906,7 +2910,7 @@ translate polish s06_04_lie_e8c599d3:
 
     voice voice_file.brother(6,11)
 
-    phone ""
+    phone "\"Dobrze wiem, że wcale się nie modliłeś. Skoro go ze sobą zabrałeś to poświęć mu chodź trochę uwagi.\" "
 
 
 
@@ -2918,7 +2922,7 @@ translate polish s06_04_lie_666de361:
 
     # avt "\"Yeah. I know. I'll make sure to get some things together for worship tomorrow.\" "
 
-    avt ""
+    avt "\"Tak, wiem. Dopilnuję, by wszystko przygotować na jutrzejszą modlitwę.\" "
 
 
 
@@ -2930,7 +2934,7 @@ translate polish s06_04_lie_641b1da2:
 
     # b "In the corner of my eye I can see said guardian tiger shooting a fierce glare at me... "
 
-    b ""
+    b "Kątem oka dostrzegam jak wspomniany tygrysi strażnik posła w moim kierunku ostre spojrzenie... "
 
 
 
@@ -2946,7 +2950,7 @@ translate polish s06_04_lie_c44e5372:
 
     voice voice_file.brother(6,12)
 
-    phone ""
+    phone "\"Ok, nie będę ci przeszkadzał tak długo jak wiesz co robisz. W każdym razie, muszę już iść. Porozmawiamy innym razem.\" "
 
 
 
@@ -2958,7 +2962,7 @@ translate polish s06_04_lie_046b91a3:
 
     # avt "\"Yeah, OK. See you later, Bro.\" "
 
-    avt ""
+    avt "\"Dobrze. To na razie bracie.\" "
 
 
 
@@ -2974,7 +2978,7 @@ translate polish s06_04_lie_941b9d89:
 
     voice voice_file.brother(6,13)
 
-    phone ""
+    phone "\"A tak w ogóle. Ta twoja skrytka pod łóżkiem. Powinieneś to lepiej schować. Znalazłem to w sekundę.\"  "
 
 
 
@@ -2986,7 +2990,7 @@ translate polish s06_04_lie_91bc866f:
 
     # avt "\"Ah! Bro...\" " with hshake
 
-    avt "" with hshake
+    avt "\"O brachu...\" " with hshake
 
 
 
@@ -3002,7 +3006,7 @@ translate polish s06_04_lie_ac21c45c:
 
     voice voice_file.brother(6,14)
 
-    phone ""
+    phone "\"Nie przejmuj się, pomogę ci to schować. Zaufaj mi, kiedyś nawet tata chował swoje rzeczy pod łóżkiem. Może później powiem ci, gdzie to ukryłem.\" "
 
 
 
@@ -3014,7 +3018,7 @@ translate polish s06_04_lie_f4e3af3d:
 
     # avt "\"Oh, ok, thanks...\" "
 
-    avt ""
+    avt "\"Och, ok. Dzięki...\" "
 
 
 
@@ -3030,7 +3034,7 @@ translate polish s06_04_lie_532978b0:
 
     voice voice_file.brother(6,15)
 
-    phone ""
+    phone "\"W porządku, pa.\" "
 
 
 
@@ -3042,7 +3046,7 @@ translate polish s06_04_lie_f54cbc4e:
 
     # b "My big brother hangs up the phone. "
 
-    b ""
+    b "Mój starszy brat się rozłącza. "
 
 
 
