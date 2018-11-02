@@ -2316,7 +2316,7 @@ translate polish day1_after_01_lpd_746b2666:
 
     # b "Again he moves slightly, I guess that's a yes. "
 
-    b "Znowu porusza się nieznacznie. Chyba oznacza to "tak". "
+    b "Znowu porusza się nieznacznie. Chyba oznacza to \"tak\". "
 
 
 
