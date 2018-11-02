@@ -1334,7 +1334,7 @@ translate polish day1_after_01_tig_4c18bf91:
 
     # b "Immersed in his low, warm voice, as I fall sleep. "
 
-    b "...ostatnie, co pamiętam to mocne objęcia mojego tygrysiego strażnika. "
+    b "...ostatnie co pamiętam, to mocne objęcia mojego tygrysiego strażnika. "
 
     b "Wkrótce zasypiam, pogrążony w jego niskim, ciepłym głosie. "
 
