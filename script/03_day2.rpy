@@ -1098,7 +1098,7 @@ translate polish day2_01_lpdcat_e430100c:
 
     # b "Those fried basils look so appetizing. Mmmm— five pieces of chicken? Man, I'm feeling hungry...\" "
 
-    b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm- pięć kawałków kurczaka? Rety, teraz czuję się głodny... "
+    b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm- pięć kawałków kurczaka? Rety, teraz to dopiero czuję się głodny... "
 
 
 
@@ -1122,7 +1122,7 @@ translate polish day2_01_lpdcat_45a64606:
 
     # b "I realise there's a moist tongue licking my arm... {w=0.5}It's cold... "
 
-    b "Zdaję sobie sprawę, że mokry język liże mnie po ramieniu... {w=0.5}Jest zimny... "
+    b "Zdaję sobie sprawę, że jakiś mokry język liże mnie po ramieniu... {w=0.5}Jest zimny... "
 
 
 
@@ -1134,7 +1134,7 @@ translate polish day2_01_lpdcat_0ea67903:
 
     # b "Suddenly, I wake up. "
 
-    b "Budzę się nagle. "
+    b "Nagle wyrywam się ze snu. "
 
 
 
@@ -1146,7 +1146,7 @@ translate polish day2_01_lpdcat_db6e50eb:
 
     # b "I open my eyes to find saliva dripping down my arm... Okaaay— Weird? "
 
-    b "Otwieram oczy i widzę ślinę spływającą mi po ręce... Dooobra- To dziwne? "
+    b "Otwieram oczy i widzę ślinę spływającą mi po ręce... Dooobra- To trochę dziwne... "
 
 
 
@@ -1198,7 +1198,7 @@ translate polish day2_01_lpdcat_34f9afa8:
 
     # avt "\"Senpai! Hey, damn it...\" "
 
-    avt "\"Senpai! Hej, cholera...\" "
+    avt "\"Senpai! Hej- ...cholera.\" "
 
 
 
@@ -1250,7 +1250,7 @@ translate polish day2_01_lpdcat_602b2cf6:
 
     # b "He stands before me, sun shining down on him through the window... I can't keep staring much longer, or it'll look weird. "
 
-    b "Stoi prze mną, a słońce świeci na niego przez okno... Nie mogę dłużej się tak wpatrywać, bo dziwnie to będzie wyglądać. "
+    b "Stoi prze mną, w blasku wpadającego przez okno słońca... Nie mogę tak się dłużej wpatrywać, bo dziwnie to będzie wyglądać. "
 
 
 
@@ -1266,7 +1266,7 @@ translate polish day2_01_lpdcat_a279c662:
 
     voice voice_file.tig(3,13)
 
-    tig lift "Liao, wstałeś dzisiaj późno. Dobrze ci się z nim spało? "
+    tig lift "Liao, późno dziś wstałeś. Dobrze ci się z nim spało? "
 
 
 
@@ -1278,7 +1278,7 @@ translate polish day2_01_lpdcat_aa1edcfa:
 
     # avt "\"Nice? Yeah— No, I mean...\" "
 
-    avt "\"DObrze? Tak- Nie, to znaczy...\" "
+    avt "\"Dobrze? Tak- Nie- to znaczy...\" "
 
 
 
@@ -1292,7 +1292,7 @@ translate polish day2_01_lpdcat_2496d514:
 
     # b "I just decide to get out of bed. "
 
-    b "Czemu musi się mnie o to pytać? Nie mogę jasno powiedzieć, że dobrze mi się spało z Senpai'em, ale i nie mogę znieść spojrzenia Tygrysa. "
+    b "Dlaczego musi się mnie o to pytać? Nie mogę do końca powiedzieć, że dobrze mi się spało z Senpai'em- a spojrzenie Tygrysa zdecydowanie nie pomaga. "
 
     b "Postanawiam, że wstanę już z łóżka. "
 
@@ -1334,7 +1334,7 @@ translate polish day2_01_lpdcat_822d3eca:
 
     # b "\"I still feel a little bit awkward about all this.\" "
 
-    b "Wciąż trochę dziwnie się czuję po tym wszystkim. "
+    b "Wciąż trochę dziwnie się czuję z tym wszystkim. "
 
 
 
@@ -1346,7 +1346,7 @@ translate polish day2_01_lpdcat_41beaf67:
 
     # avt "\"Um, well, you...\" "
 
-    avt "\"No cóż, ty...\" "
+    avt "\"A więc, ty...\" "
 
 
 
@@ -1386,7 +1386,7 @@ translate polish day2_01_lpdcat_d724a3f9:
 
     # b "I look these two... {w=0.5}cats, up and down while they're standing beside my desk. My little room is now getting pretty crowded I suppose. "
 
-    b "Mierzę wzrokiem z góry na dół oba... {w=0.5}koty, gdy tak stoją przy moim biurku. Myślę, że mój mały pokój staje się całkiem tłoczny. "
+    b "Wodzę wzrokiem z góry na dół po obudwu... {w=0.5}kotach, gdy tak stoją przy moim biurku. Myślę, że mój mały pokój staje się dość zatłoczony. "
 
 
 
@@ -1398,7 +1398,7 @@ translate polish day2_01_lpdcat_2e99f1f5:
 
     # b "Then there's Senpai curled up under my quilt, his fluffy little head poking out of the \nend. "
 
-    b "No i pod kołdrą zwinięty jest Senpai, a jego puszysta główka wystaje z samego końca. "
+    b "Do tego jest jeszcze zwinięty pod kołdrą Senpai- i tylko jego puszysta główka wystaje z samego końca. "
 
 
 
@@ -1426,7 +1426,7 @@ translate polish day2_01_lpdcat_baf3cbf4:
 
     voice voice_file.tig(3,15)
 
-    tig frown "\"Hmm— Nic dziwnego dla mnie, niedługo się przyzwyczaisz. No może po za tym, że dzisiaj nie ma dla mnie miejsca w twoim łóżku.\" "
+    tig frown "\"Hmm— Nie taki znów dziwny jak na moje standardy- wkrótce się przyzwyczaisz. Choć istotną różnicą jest fakt, że dzisiaj nie ma dla mnie miejsca w twoim łóżku.\" "
 
 
 
@@ -1438,7 +1438,7 @@ translate polish day2_01_lpdcat_968c7ece:
 
     # b "So Tiger really is bothered about that... There's not really much I can do since I already let Senpai use the bed. "
 
-    b "A więc Tygrys wciąż jest zły z tego powodu... Teraz nic na to nie poradzę, skoro już pozwoliłem Senpai'owi korzystać z łóżka. "
+    b "A więc Tygrys ciągle jest zły z tego powodu... Cóż, teraz już nic na to nie poradzę, skoro pozwoliłem Senpai'owi korzystać z łóżka. "
 
 
 
@@ -1478,7 +1478,7 @@ translate polish day2_01_lpdcat_ea9ef7c4:
 
     # b "Tiger points to my phone on the bedside table... It's already ten. I usually get up around nine. "
 
-    b "Tygrys wskazuje na mój telefon leżący na nocnym stoliku... Jest już dziesiąta. Zazwyczaj wstaję godzinę wcześniej. "
+    b "Tygrys wskazuje na mój telefon leżący na nocnym stoliku... Jest już dziesiąta. Zazwyczaj wstaję dobrą godzinę wcześniej... "
 
 
 
@@ -1504,9 +1504,9 @@ translate polish day2_02_353424e6:
 
     # b "So what should I do? "
 
-    b "I tak moje zajęcia zaczynają się dopiero po południu, a kampus jest dosłownie za rogiem... Zdążę jeśli wyjdę pół godziny przed czasem. "
+    b "Chociaż- i tak moje zajęcia zaczynają się dopiero po południu, a kampus jest dosłownie za rogiem... Zdążę jeśli wyjdę pół godziny przed czasem. "
 
-    b "Co powinienem teraz robić? "
+    b "Co by tu teraz porobić? "
 
 
 
@@ -1518,7 +1518,7 @@ translate polish day2_02_f2617502:
 
     # b "Usually I would just surf the internet, but with everyone here... "
 
-    b "Zazwyczaj po prostu przeglądam internet, ale gdy oni są tutaj... "
+    b "Zazwyczaj po prostu przeglądam internet, ale z nimi w pobliżu... "
 
 
 
@@ -1532,9 +1532,9 @@ translate polish day2_02_e3451c2b:
 
     # b "I should probably wait until Senpai's up though. He'd want food as well. "
 
-    b "Mówiąc o rzeczach do zrobienia, jestem już trochę głodny. "
+    b "Mówiąc o rzeczach do zrobienia, zrobiłem się już trochę głodny. "
 
-    b "Raczej powinienem poczekać na Senpai'a. Też będzie chciał coś zjeść. "
+    b "Chociaż powinienem raczej poczekać na Senpai'a. Też będzie chciał coś zjeść. "
 
 
 
@@ -1546,7 +1546,7 @@ translate polish day2_02_506f66e6:
 
     # b "I decide to just use my computer to pass the time. Turning it on and opening up my social media pages... Wait, something feels strange. "
 
-    b "Postanawiam przesiedzieć ten czas przed komputerem. Włączam go i otwieram moje media społecznościowe... Chwila, coś jest nie tak. "
+    b "Postanawiam przesiedzieć ten czas przed komputerem. Włączam go i otwieram moje media społecznościowe... Chwila, coś tu nie gra. "
 
 
 
@@ -1570,7 +1570,7 @@ translate polish day2_02_e1bc70af:
 
     # avt "\"Uhh, excuse me. What are you two doing?\" "
 
-    avt "\"Uhh, przepraszam bardzo. Co wy robicie?\" "
+    avt "\"Uhh, przepraszam bardzo- co wy właściwie robicie?\" "
 
 
 
@@ -1586,7 +1586,7 @@ translate polish day2_02_7f414c52:
 
     voice voice_file.tig(3,17)
 
-    tig normal "\"Hmm? Co? To jest to co robię zazwyczaj.\" "
+    tig normal "\"Hmm? To, co robię zazwyczaj.\" "
 
 
 
@@ -1598,7 +1598,7 @@ translate polish day2_02_96d9a05d:
 
     # avt "\"Spying on me while I use the computer?\" "
 
-    avt "\"Śledzenie mnie, gdy korzystam z komputera?\" "
+    avt "\"Podglądasz mnie, gdy korzystam z komputera?\" "
 
 
 
@@ -1614,7 +1614,7 @@ translate polish day2_02_23048207:
 
     voice voice_file.tig(3,18)
 
-    tig normal "\"Dokładnie.\" "
+    tig normal "\"Właśnie tak.\" "
 
 
 
@@ -1626,7 +1626,7 @@ translate polish day2_02_61d8e4e2:
 
     # avt "\"...Could you stop, please? I-It makes me uncomfortable.\" "
 
-    avt "\"A mógłbyś proszę przestać? Cz-czuję się przez to niezręcznie.\" "
+    avt "\"A mógłbyś proszę przestać? Cz-czuję się przez to trochę niezręcznie.\" "
 
 
 
@@ -1642,7 +1642,7 @@ translate polish day2_02_39216b72:
 
     voice voice_file.tig(3,19)
 
-    tig normal "\"Niezręcznie? Niby czemu?\" "
+    tig normal "\"Niezręcznie? A to niby dlaczego?\" "
 
 
 
@@ -1654,7 +1654,7 @@ translate polish day2_02_e3d4dfb9:
 
     # avt "\"I mean... It's strange to have someone watching you.\" "
 
-    avt "\"Dlatego że... To trochę dziwne jak ktoś cały czas stoi ci za plecami.\" "
+    avt "\"Dlatego że... To trochę dziwne, gdy ktoś cały czas stoi za twoimi plecami.\" "
 
 
 
@@ -1670,7 +1670,7 @@ translate polish day2_02_c77d77b5:
 
     voice voice_file.tig(3,20)
 
-    tig normal "\"Dziwne? Przecież przez cały czas cię obserwuję. Jak już mówiłem, znam wszystkie pliki w twoim komputerze.\" "
+    tig normal "\"Dziwne? Przecież przez cały czas cię obserwuję. Jak już mówiłem, znam wszystkie pliki na twoim komputerze.\" "
 
 
 
@@ -1682,7 +1682,7 @@ translate polish day2_02_4c6d08b5:
 
     # avt "\"Even then, it's a bit different when I actually know you're doing it...\" "
 
-    avt "\"Ale teraz jest trochę inaczej, gdy zadaję sobie sprawę z tego, że to robisz...\" "
+    avt "\"Sprawa wygląda inaczej gdy jestem świadom tego, że to robisz...\" "
 
 
 
@@ -1696,7 +1696,7 @@ translate polish day2_02_222f0848:
 
     # b "Granted, am I really in a position to discuss my privacy with gods... "
 
-    b "To nie znaczy, że nie przeszkadza mi fakt, że robił to wcześniej! Czy oni znają moje prawo do prywatności? "
+    b "To nie znaczy, że nie przeszkadza mi fakt, że robił to wcześniej! Czy oni wiedzą o moim prawie do prywatności? "
 
     b "Znaczy się, czy ja w ogóle mogę dyskutować o tym z bogami... "
 
@@ -1710,7 +1710,7 @@ translate polish day2_02_c06cf7b3:
 
     # avt "\"How can I relax while being watched? Sorry, but could you two just move away while I'm using my computer?\" "
 
-    avt "\"Jak mam się odprężyć, gdy ktoś mnie obserwuje? Przepraszam, ale czy możecie się odsunąć, gdy używam komputera?\" "
+    avt "\"Jak mam się niby odprężyć, gdy ktoś mnie obserwuje? Przepraszam, ale czy nie moglibyście się odsunąć, gdy używam komputera?\" "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish day2_02_84a4197e:
 
     voice voice_file.tig(3,22)
 
-    tig lift "\"Czy to dlatego, że nie chcesz by inni wiedzieli co robisz, czy może dlatego, że nie czujesz się komfortowo, gdy ktoś cię obserwuje?\" "
+    tig lift "\"Czy to dlatego, że nie chcesz by inni wiedzieli co robisz? Czy może dlatego, że nie czujesz się komfortowo, gdy ktoś cię obserwuje?\" "
 
 
 
@@ -1798,7 +1798,7 @@ translate polish day2_02_3ba32469:
 
     # b "Never mind, it's not important to me. Meanwhile, Leopard seems to have left of his own volition. "
 
-    b "Mniejsza, to nic bardzo ważnego. W międzyczasie Pantera odszedł z własnej woli. "
+    b "Mniejsza, w tej chwili to nic ważnego. Tymczasem Pantera odszedł najwyraźniej z własnej woli. "
 
 
 
@@ -1812,7 +1812,7 @@ translate polish day2_02_2959637f:
 
     # b "With nothing else to do, I spend my time on the internet until twelve. "
 
-    b "Dobrze, teraz mam spokój. To znaczy- Wciąż są {i}pewne{/i} \ rzeczy, których nie mogę otworzyć będąc z nimi w jednym pokoju, ale jakoś to przeżyję. "
+    b "Dobrze- teraz mam spokój. To znaczy- Wciąż są {i}pewne{/i} \ rzeczy, których nie mogę otworzyć będąc z nimi w jednym pokoju, ale jakoś to przeżyję. "
 
     b "Nie mając nic lepszego do roboty, spędzam czas korzystając z internetu do dwunastej. "
 
@@ -1882,7 +1882,7 @@ translate polish day2_02_6de20b7f:
 
     # avt "\"Oh... So that's how you waste your life away.\" "
 
-    avt "\"Och... A więc to w taki sposób marnujesz swe życie.\" "
+    avt "\"Och... A więc to w taki sposób marnujesz swoje życie.\" "
 
 
 
@@ -1910,7 +1910,7 @@ translate polish day2_02_7ea62281:
 
     # b "He doesn't really care does he... People say the further you get in college the less you care about it. Surely the code of honor my senpai lives by. "
 
-    b "Nic go to nie obchodzi... Ludzie mówią, że im dłużej jesteś na studiach, tym mniej cię one obchodzą. Zdaję się, że mój senpai żyje zgodnie z tą zasadą. "
+    b "Nic sobie z tego nie robi... Ludzie mówią, że im dłużej jesteś na studiach, tym mniej cię one obchodzą. Zdaję się, że mój senpai żyje zgodnie z tą zasadą. "
 
 
 
@@ -1922,7 +1922,7 @@ translate polish day2_02_03b8e5d7:
 
     # avt "\"Anyway, get up and have lunch. Otherwise we're gonna miss class.\" "
 
-    avt "\"Dobra, wstawaj już i zjedzmy coś. Inaczej opuścimy zajęcia.\" "
+    avt "\"Dobra, wstawaj już i zjedzmy coś. W przeciwnym razie opuścimy zajęcia.\" "
 
 
 
@@ -1938,7 +1938,7 @@ translate polish day2_02_a778b919:
 
     voice voice_file.lpdcat(3,10)
 
-    lpdcat laugh "\"Taaaak, w porządku. Pozwól, że najpierw przemyję twarz...\" "
+    lpdcat laugh "\"Taaaak, w porządku. Pozwól, że tylko przemyję twarz...\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish day2_02_e95d67e3:
 
     # b "\"Senpai slides out of the bed and meanders his way into the bathroom.\" "
 
-    b "Senpai zsuwa się z łóżka i człapie do łazienki. "
+    b "Senpai wysuwa się spod kołdry i człapie do łazienki. "
 
 
 
@@ -2046,7 +2046,7 @@ translate polish day2_02_6a68ccc5:
 
     voice voice_file.lpdcat(3,13)
 
-    lpdcat "\"Żeby móc z tobą zostać, oczywiście.\" "
+    lpdcat "\"Żeby z tobą pobyć, oczywiście.\" "
 
 
 
@@ -2114,7 +2114,7 @@ translate polish day2_02_43a336f0:
 
     voice voice_file.lpdcat(3,15)
 
-    lpdcat cute "\"Oj tam, wyluzuj. Przecież nie mogę zamknąć się na cały dzień w twoim pokoju, no i nie mam do niego klucza. To czemu by nie iść razem do szkoły?\" "
+    lpdcat cute "\"Oj tam, wyluzuj. Przecież nie mogę zamknąć się na cały dzień w twoim pokoju- no i nie mam do niego klucza. To czemu by nie pójść razem do szkoły?\" "
 
 
 
@@ -2222,7 +2222,7 @@ translate polish day2_02_888b9c3e:
 
     voice voice_file.lpdcat(3,18)
 
-    lpdcat cute "\"Pewnie, chętnie zjem coś z tobą Liao~\" "
+    lpdcat cute "\"Pewnie, chętnie coś z tobą zjem Liao~\" "
 
 
 
@@ -2250,7 +2250,7 @@ translate polish day2_02_1918ff6c:
 
     voice voice_file.lpdcat(3,19)
 
-    lpdcat panic "\"Cooo- Daj spokój Liao! Nie bierz jakiejś tam kanapki. Nie ma w tym ani krzty romantyzmu.\" "
+    lpdcat panic "\"Cooo- Daj spokój Liao! Jakaś tam kanapka- nie ma w tym ani krzty romantyzmu!\" "
 
 
 
@@ -2262,7 +2262,7 @@ translate polish day2_02_13fa9010:
 
     # avt "\"Why is that all you care about...\" "
 
-    avt "\"A co cię to obchodzi...\" "
+    avt "\"A ty tylko o jednym...\" "
 
 
 
@@ -2286,7 +2286,7 @@ translate polish day2_02_87c5d4ff:
 
     # avt "\"Ok, I'll just grab something to eat before class. If you want a proper lunch, just go and get it now. I'll wait and keep the door for you.\" "
 
-    avt "\"No dobra, wezmę tylko coś na szybko do zjedzenia przed zajęciami. Możesz iść teraz sam, jeśli chcesz zjeść coś konkretnego. Zaczekam na ciebie tutaj, by nie zamykać drzwi.\" "
+    avt "\"No dobra, to wezmę tylko coś na szybko do zjedzenia przed zajęciami. Jeśli chcesz zjeść coś konkretnego, to idź samemu. Zaczekam na ciebie tutaj, by nie zamykać drzwi.\" "
 
 
 
@@ -2302,7 +2302,7 @@ translate polish day2_02_60857492:
 
     voice voice_file.lpdcat(3,20)
 
-    lpdcat wronged "\"Łuu- Jeśli nie zjeść razem ze mną, to wolę nic nie jeść.\" "
+    lpdcat wronged "\"Buu- Jeśli nie chcesz zjeść razem ze mną, to wolę nic nie jeść.\" "
 
 
 
@@ -2358,7 +2358,7 @@ translate polish day2_02_61cf6837:
 
     voice voice_file.lpdcat(3,22)
 
-    lpdcat laugh "\"Tak, poradzę sobie sam, niczym się nie przejmuj!\" "
+    lpdcat laugh "\"Tak, poradzę sobie sam- niczym się nie przejmuj!\" "
 
 
 
@@ -2370,7 +2370,7 @@ translate polish day2_02_43023c66:
 
     # b "Senpai sits back on the mattress, pulls up the quilt to cover his legs and starts to play with his phone. All right, now that's sorted... "
 
-    b "Senpai siada z powrotem na materacu, okrywa nogi kołdrą i zaczyna bawić się telefonem. Dobrze, to mam na razie z głowy... "
+    b "Senpai siada z powrotem na materacu, okrywa nogi kołdrą i zaczyna bawić się telefonem. Dobrze, to jego mam na razie z głowy... "
 
 
 
@@ -2434,7 +2434,7 @@ translate polish day2_02_cdb91bb9:
 
     # avt "\"Alright, I'm heading out. Tiger, look after the house while I'm gone.\" "
 
-    avt "\"Dobra, wychodzę. Tygrysie, zaopiekuj się pokojem, gdy mnie nie będzie.\" "
+    avt "\"Dobra, wychodzę. Tygrysie- zaopiekuj się pokojem, gdy mnie nie będzie.\" "
 
 
 
@@ -2450,7 +2450,7 @@ translate polish day2_02_c5084780:
 
     voice voice_file.tig(3,24)
 
-    tig none "\"Czekaj Liao! Pójdę z tobą!\" " with flash
+    tig none "\"Zaczekaj Liao! Pójdę z tobą!\" " with flash
 
 
 
@@ -2462,7 +2462,7 @@ translate polish day2_02_b1bbc5d3:
 
     # avt "\"What?! You mean you want to come to school with me? For what reason?\" "
 
-    avt "\"Co?! Mówisz, że chcesz pójść ze mną do szkoły? Z jakiego powodu?\" "
+    avt "\"Co?! Masz na myśli, że chcesz iść ze mną do szkoły? Z jakiego powodu?\" "
 
 
 
@@ -2478,7 +2478,7 @@ translate polish day2_02_ed09da8d:
 
     voice voice_file.tig(3,25)
 
-    tig lift "\"By cię chronić.\" "
+    tig lift "\"Żeby cię chronić.\" "
 
 
 
@@ -2490,7 +2490,7 @@ translate polish day2_02_c024f0f4:
 
     # avt "\"Really, it's school. I don't need any protection.\" " with hshake
 
-    avt "\"Przecież to tylko szkoła. Nie potrzebuję żadnej ochrony.\" " with hshake
+    avt "\"Przecież to tylko szkoła. Nie potrzebuję tam żadnej ochrony.\" " with hshake
 
 
 
@@ -2594,7 +2594,7 @@ translate polish day2_02_b28f054f:
 
     # avt "\"Why!\" " with hshake
 
-    avt "\"Czemu!\" " with hshake
+    avt "\"Czemu?!\" " with hshake
 
 
 
@@ -2610,7 +2610,7 @@ translate polish day2_02_1789ef2b:
 
     voice voice_file.lpdcat(3,25)
 
-    lpdcat laugh "\"Nie przegapię tej okazji, by iść razem z tobą do szkoły!\" "
+    lpdcat laugh "\"Nie przegapię okazji, by iść razem z tobą do szkoły!\" "
 
 
 
@@ -2654,7 +2654,7 @@ translate polish day2_02_1f9441c5:
 
     # avt "\"Putting your reason aside, Tiger. Didn't you say that you can't be too far from the statue?\" "
 
-    avt "\"Odkładając na bok twój powód, Tygrysie. Nie mówiłeś przypadkiem, że za bardzo nie możesz oddalać się od posążka?\" "
+    avt "\"Pomijając twoje motywy, Tygrysie. Nie wspominałeś, że nie możesz za bardzo oddalać się od posążka?\" "
 
 
 
@@ -2670,7 +2670,7 @@ translate polish day2_02_f2a1b465:
 
     voice voice_file.tig(3,28)
 
-    tig normal "\"Och, nic mi nie będzie w otoczeniu bliskiego wyznawcy, takiego jak ty. Wstydem byłoby, gdybym nie mógł chronić swojego Jitonga.\"  "
+    tig normal "\"Och, nic mi nie będzie w pobliżu gorliwego wyznawcy takiego jak ty. Wstydem byłoby, gdybym nie mógł nawet chronić swojego Jitong'a.\"  "
 
 
 
@@ -2710,7 +2710,7 @@ translate polish day2_02_70893b15:
 
     # b "Really! My karma must be pretty crap if I can't even get some peace and quiet at \nschool! "
 
-    b "Serio! Moja karma musi być naprawdę do kitu, skoro nawet w szkole nie mogę nawet zaznać odrobiny ciszy i spokoju! "
+    b "Serio! Moja karma musi być naprawdę do kitu, skoro nawet w szkole nie mogę zaznać odrobiny ciszy i spokoju! "
 
 
 
@@ -2722,7 +2722,7 @@ translate polish day2_02_2222d5cd:
 
     # b "I mean, it's not {i}that{/i} \ bad to be around three beast-men, but where's my freedom? Where's my right to privacy? "
 
-    b "W sumie, towarzystwo trzech zwierzoludzi nie jest {i}takie{/i} \ złe, ale gdzie moja wolność? Gdzie moje prawo do prywatności? "
+    b "Może i towarzystwo trzech zwierzoludzi nie jest {i}takie{/i} \ złe, ale gdzie moja wolność? Gdzie moja prywatność? "
 
 
 
@@ -2742,7 +2742,7 @@ translate polish day2_02_994ccb48:
 
     tig normal "\"Musisz się do tego przyzwyczaić.\" "
 
-    tig normal "\"Zawsze byłem przy tobie, po prostu nie mogłeś mnie zobaczyć. Może udaj, że mnie tam nie ma?\" "
+    tig normal "\"Zawsze byłem przy tobie, po prostu nie mogłeś mnie wcześniej zobaczyć. Może udawaj, że mnie tam nie ma?\" "
 
 
 
@@ -2754,7 +2754,7 @@ translate polish day2_02_7f59b97e:
 
     # avt "\"It's not that easy! And how do you expect me to deal with these two?\" "
 
-    avt "\"To nie takie łatwe! I co myślisz, jak mam poradzić sobie z tymi dwoma?\" "
+    avt "\"To nie takie łatwe! I jak według ciebie mam sobie poradzić z tymi dwoma?\" "
 
 
 
@@ -2838,7 +2838,7 @@ translate polish day2_02_43e1f11d:
 
     # avt "\"...You really are cunning.\" "
 
-    avt "\"...ale jesteś cwany.\" "
+    avt "\"...ty to jesteś cwany.\" "
 
 
 
@@ -2854,7 +2854,7 @@ translate polish day2_02_3dff8d0a:
 
     voice voice_file.lpdcat(3,28)
 
-    lpdcat cute "\"Uznam to za tak~ Heheh- poddaj się swoim wewnętrznym pragnieniom...\" "
+    lpdcat cute "\"Uznam to za \"tak\"~ Heheh- ulegnij swoim wewnętrznym pragnieniom...\" "
 
 
 
@@ -2882,7 +2882,7 @@ translate polish day2_02_a532c917:
 
     # b "I get my things and open the door, letting the others out before locking it behind \nthem. "
 
-    b "Zbieramy się do wyjścia. Przepuszczam resztę przodem, zamykając za nami drzwi. "
+    b "Zbieramy się do wyjścia. Przepuszczam resztę, zamykając za nami drzwi. "
 
 
 
@@ -2908,7 +2908,7 @@ translate polish day2_02_7272fa30:
 
     # b "Thankfully, there's a lot of people here today so he won't be noticed. "
 
-    b "Senpai przychodzi na moje zajęcia tak jak sobie życzył. Przecież to nie jest jego przedmiot. Nie ma powodu dla którego miałby tu siedzieć. "
+    b "Senpai przychodzi na moje zajęcia, tak jak sobie życzył. Mimo że nie jest to nawet jego przedmiot. Nie ma powodu dla którego miałby tu siedzieć. "
 
     b "Na szczęście dzisiaj jest tu mnóstwo ludzi, więc nikt go nie zauważy. "
 
@@ -2938,7 +2938,7 @@ translate polish day2_02_6d723708:
 
     # b "My gaze turns to them, Tiger looks calm and used to it, but Leopard's on edge. Ever since we got onto the campus, he's been looking at pretty much everything as if he's in some crazy new world. "
 
-    b "Spoglądam na nich. Tygrys siedzi spokojnie i wygląda na oswojonego z sytuacją, ale Pantera jest bardzo przejęty. Od kiedy weszliśmy do kampusu interesuje go wszystko, jakby był w jakimś zupełnie nowym, szalonym świecie. "
+    b "Spoglądam na nich. Tygrys siedzi spokojnie i wygląda na oswojonego z sytuacją, ale Pantera jest bardzo przejęty. Od kiedy weszliśmy na teren kampusu interesuje go wszystko- jakby był w jakimś zupełnie nowym, szalonym świecie. "
 
 
 
@@ -2962,7 +2962,7 @@ translate polish day2_02_c6de57ab:
 
     # b "Although I'm curious, he hasn't spoken a word. So I ignore him for now and get ready for class. "
 
-    b "Pomimo mojej ciekawości, nie odezwał się ani słowem. W takim razie nie przejmuję się tym zbytnio i szykuję się do zajęć. "
+    b "Pomimo mojej ciekawości, nie odezwał się ani słowem. W takim razie nie przejmuję się nim zbytnio i szykuję się do zajęć. "
 
 
 
@@ -2974,7 +2974,7 @@ translate polish day2_02_27ddfcda:
 
     # b "Class begins, I start making notes while Senpai plays with his phone. All goes as expected. Well except for Leopard, who to my surprise is leaning over onto my desk to see what I'm writing. "
 
-    b "Lekcja się rozpoczyna. Robię notatki, a Senpai bawi się telefonem. Wszystko idzie jak trzeba. No może poza Panterą, który ku mojemu zaskoczeniu nachyla się nad moją ławką, by zobaczyć co piszę. "
+    b "Lekcja się rozpoczyna. Robię notatki, a Senpai bawi się telefonem. Wszystko idzie jak trzeba. No, jeśli nie licząc Pantery- który ku mojemu zaskoczeniu nachyla się nad ławką, żeby zobaczyć co piszę. "
 
 
 
@@ -2986,7 +2986,7 @@ translate polish day2_02_9ef6d394:
 
     # b "It's a little weird having someone read over my shoulder like this... I mean unlike earlier this morning on the computer, I don't mind him watching me... "
 
-    b "To trochę dziwne, gdy ktoś tak czyta mi przez ramię... Ale w przeciwieństwie do porannej sytuacji z komputerem, nie mam nic przeciwko... "
+    b "To trochę dziwne, gdy ktoś tak czyta mi przez ramię... Ale w przeciwieństwie do porannej sytuacji z komputerem, nie mam obiekcji... "
 
 
 
@@ -3002,7 +3002,7 @@ translate polish day2_02_f8e57086:
 
     voice voice_file.tig(3,31)
 
-    tig frown "\"Hej aborygenie, przestań przeszkadzać Liao.\" "
+    tig frown "\"Hej, aborygenie- przestań przeszkadzać Liao.\" "
 
 
 
@@ -3034,7 +3034,7 @@ translate polish day2_02_728c2b23:
 
     voice voice_file.tig(3,32)
 
-    tig frown "\"To chociaż się trochę odsuń. Rozpraszasz go podczas nauki, wiesz?\" "
+    tig frown "\"To chociaż się trochę odsuń. Rozpraszasz go podczas nauki, wiesz o tym?\" "
 
 
 
@@ -3046,7 +3046,7 @@ translate polish day2_02_fb830872:
 
     # b "It is a little distracting to have a big cat face right next to your notebook, but I don't mind. "
 
-    b "Duża kocia buzia tuż przy zeszycie może trochę rozpraszać, ale nie mam nic przeciwko. "
+    b "Duża kocia buzia tuż przy zeszycie może faktycznie trochę rozpraszać, ale nie mam nic przeciwko temu. "
 
 
 
@@ -3088,9 +3088,9 @@ translate polish day2_02_11885967:
 
     voice voice_file.tig(3,33)
 
-    tig frown "\"I nie powinieneś kręcić się tutaj jak przygłup, czy wiesz jak bardzo to nieznośne?\" "
+    tig frown "\"I nie powinieneś kręcić się tutaj jak przygłup, czy wiesz jakie to nieznośne?\" "
 
-    tig frown "\"Jeśli chcesz zostać, to zostań. Jeśli jednak będziesz przeszkadzać innym, jesteś po prostu żałosny.\" "
+    tig frown "\"Jeśli chcesz zostać, to zostań. Ale przeszkadzanie innym w ten sposób jest żałosne.\" "
 
 
 
@@ -3106,7 +3106,7 @@ translate polish day2_02_dc094b2e:
 
     voice voice_file.lpd(3,8)
 
-    lpd angry_1 "\"...nie przeszkadzać. Bóg Hana, prosić się o kłopoty.\" "
+    lpd angry_1 "\"...nie przeszkadzać. Bóg Han, prosić się o kłopoty.\" "
 
 
 
@@ -3124,9 +3124,9 @@ translate polish day2_02_30bd3481:
 
     voice voice_file.tig(3,34)
 
-    tig frown "\"Ja się proszę o kłopoty? Sam jesteś chodzącym kłopotem. Od tak wparowujesz do życia innych ludzi i nie zdajesz sobie z tego sprawy!\" "
+    tig frown "\"Mówisz, że proszę o kłopoty? Sam jesteś chodzącym kłopotem. Od tak wparowujesz do życia innych ludzi i nawet nie zdajesz sobie z tego sprawy!\" "
 
-    tig frown "\"Nie mam nic przeciwko, jeśli nalegasz by zostać, ale przynajmniej zachowuj się rozważnie. Usiądź i trzymaj się z dala od Liao na tyle na ile to możliwe.\" "
+    tig frown "\"Nie mam nic przeciwko, jeśli nalegasz by zostać- ale przynajmniej zachowuj się rozważnie. Usiądź i trzymaj się z dala od Liao na tyle, na ile to możliwe.\" "
 
 
 
@@ -3154,7 +3154,7 @@ translate polish day2_02_043a3236:
 
     # b "What? Are they seriously going to argue over this? "
 
-    b "Co? Naprawdę chcą się o to pokłócić? "
+    b "Coo? Czy oni naprawdę chcą się o to kłócić? "
 
 
 
@@ -3182,7 +3182,7 @@ translate polish day2_02_7846c28f:
 
     voice voice_file.tig(3,35)
 
-    tig frown "\"Dokładnie, jestem bogiem Hanów oraz opiekunem Liao. Słuchaj się mnie, jeśli chcesz jego pomocy. To podstawowe maniery.\" "
+    tig frown "\"Właśnie, jestem bogiem Hanów oraz opiekunem Liao. Słuchaj się mnie, jeśli chcesz jego pomocy. To podstawowe maniery.\" "
 
 
 
@@ -3214,7 +3214,7 @@ translate polish day2_02_09acb2a0:
 
     voice voice_file.tig(3,36)
 
-    tig frown "\"Teraz proszę się o kłopoty! Jeśli nie...\" "
+    tig frown "\"A teraz proszę się niby o kłopoty! Jeśli nie...\" "
 
 
 
@@ -3252,9 +3252,9 @@ translate polish day2_02_594618d8:
 
     # b "Expectedly, everyone in the room stares at me. "
 
-    b "Uświadamiam sobie, że wykrzyczałem to głośno- w klasie- gdzie nikt poza mną nie ma pojęcia o czym ja do cholery mówię... "
+    b "Uświadamiam sobie, że wykrzyczałem to głośno- w klasie- gdzie nikt poza mną nie ma pojęcia o czym do diaska mówię... "
 
-    b "Oczywiście każdy się na mnie teraz gapi. "
+    b "Oczywiście, każdy się teraz na mnie gapi. "
 
 
 
@@ -3282,7 +3282,7 @@ translate polish day2_02_ea44843f:
 
     # avt "\"No... it was nothing, I'm so sorry. I was just dreaming.\" "
 
-    avt "\"Nie.. to nic takiego, bardzo przepraszam. Chyba przysnąłem.\" "
+    avt "\"Nie.. to nic takiego- bardzo przepraszam. Najwyraźniej przysnąłem.\" "
 
 
 
@@ -3310,7 +3310,7 @@ translate polish day2_02_686882c8:
 
     voice voice_file.teacher(3,2)
 
-    teacher "\"Nie zasypiaj na moich zajęciach. Nie powinno cię tu być, jeśli chcesz spać. To twoja ostatnia szansa, zrozumiano?\" "
+    teacher "\"Nie zasypiaj na moich zajęciach. Nie powinno cię na nich być, jeśli chcesz spać. To twoja ostatnia szansa, zrozumiano?\" "
 
 
 
@@ -3334,7 +3334,7 @@ translate polish day2_02_674ef18d:
 
     # b "Damn it, I'm completely lost with my notes now! ...Those two cats! "
 
-    b "Cholera, teraz już komletnie pogubiłem się w moich notatkach! ...ach te dwa koty! "
+    b "Cholera, teraz to już kompletnie pogubiłem się w moich notatkach! ...ach te dwa koty! "
 
 
 
@@ -3350,7 +3350,7 @@ translate polish day2_02_67a2a7e2:
 
     voice voice_file.tig(3,37)
 
-    tig normal "\"Przepraszam Liao... Nie przywykłem do tego... aborygena i zapomniałem, że możesz nas usłyszeć.\" "
+    tig normal "\"Przepraszam Liao... Nie przywykłem do tego... aborygena i zapomniałem, że możesz nas teraz usłyszeć.\" "
 
 
 
@@ -3366,7 +3366,7 @@ translate polish day2_02_6d6d4c9c:
 
     voice voice_file.tig(3,38)
 
-    tig normal "\"Jak już wcześniej mówiłem, inni nie mogą nas usłyszeć. Takich sytuacji może przydarzyć się więcej. Powinieneś się do tego przyzwyczaić.\" "
+    tig normal "\"Gdyż jak już wcześniej mówiłem- inni nie mogą. Takich sytuacji może przydarzyć się więcej. Powinieneś się do tego przyzwyczaić.\" "
 
 
 
@@ -3378,7 +3378,7 @@ translate polish day2_02_efa6c71d:
 
     # b "Yeah, I realise that now! I just need some time to be accustomed to this. And you're in no place to criticize me! "
 
-    b "Tak, teraz już rozumiem! Potrzebuję tylko trochę czasu. W tej sytuacji nie możesz mnie tak krytykować! "
+    b "Tak, już rozumiem! Potrzebuję tylko \"trochę\" czasu. W tej sytuacji nie możesz mnie krytykować! "
 
 
 
@@ -3390,7 +3390,7 @@ translate polish day2_02_eadbda68:
 
     # b "I feel ashamed and angry as I bury my face in my arms. I can't even listen to the class at this point. " with vpunch
 
-    b "Czuję wstyd i złość, chowając twarz między rękami. Teraz nie potrafię już skupić się na lekcji. " with vpunch
+    b "Czuję wstyd i złość, chowając twarz między rękami. Teraz, to już nie mogę skupić się na lekcji. " with vpunch
 
 
 
@@ -3404,9 +3404,9 @@ translate polish day2_02_e63c08f8:
 
     # b "I have to drag myself out of class. At least Senpai gives me a reassuring pat on the shoulder. "
 
-    b "Dwie gaduły siedzą już cicho... Niewiele to pomaga, bo aż do końca zajęć czuję, że uwaga wszystkich jest skupiona na mnie. "
+    b "Dwie gaduły siedzą już cicho... Niewiele to pomaga- bo do końca zajęć czuję, że uwaga wszystkich skupia się na mnie. "
 
-    b "Muszę jakoś wypełznąć z sali. Przynajmniej Senpai klepie mnie po ramieniu na pocieszenie. "
+    b "Muszę jakoś wymknąć się z sali. Przynajmniej Senpai klepie mnie po ramieniu na pocieszenie. "
 
 
 
@@ -3422,7 +3422,7 @@ translate polish day2_02_88a02ade:
 
     voice voice_file.lpdcat(3,29)
 
-    lpdcat normal "\"Wszystko w porządku Liao? To naprawdę mogło potoczyć się lepiej.\" "
+    lpdcat normal "\"Wszystko w porządku Liao? Szczerze, to mogło wyjść lepiej.\" "
 
 
 
@@ -3434,7 +3434,7 @@ translate polish day2_02_d3abeb6e:
 
     # avt "\"It really could have, what the hell was I thinking...\" "
 
-    avt "\"Pewnie że tak. Co ja sobie do cholery myślałem...\" "
+    avt "\"Pewnie że mogło. Co ja sobie do cholery myślałem...\" "
 
 
 
@@ -3490,7 +3490,7 @@ translate polish day2_02_38eee4da:
 
     # b "\"I just remembered that I'm talking to nothing again. Thankfully, this time I'm walking in the corridor and it looks like I'm just talking to Senpai.\" "
 
-    b "Właśnie przypomniałem sobie, że gadam sam do siebie. Na szczęście, tym razem idę korytarzem i wygląda to jakbym rozmawiał z Senpai'em. "
+    b "Właśnie przypomniałem sobie, że znów gadam sam do siebie. Na szczęście, tym razem idę korytarzem i wygląda to jakbym rozmawiał z Senpai'em. "
 
 
 
@@ -3518,7 +3518,7 @@ translate polish day2_02_fe8b46b7:
 
     # avt "\"Could you stop calling him aborigine? It's really not appropriate these days.\" "
 
-    avt "\"Czy mógłbyś przestać go tak nazywać? W dzisiejszych czasach to bardzo nie na miejscu.\" "
+    avt "\"Czy mógłbyś przestać go tak nazywać? W dzisiejszych czasach to słowo jest nie na miejscu.\" "
 
 
 
@@ -3542,7 +3542,7 @@ translate polish day2_02_bc5c9986:
 
     # avt "\"There's no need to play the race card now, and he didn't really bother me to begin with. So don't just lay the blame on him.\" "
 
-    avt "\"Nie ma potrzeby wyciągać argument rasowy, a poza tym wcale mi nie przeszkadzał. Nie zwalaj całej winy na niego.\" "
+    avt "\"Nie ma potrzeby wyzywać nikogo z powodu rasy, a zresztą wcale mi nie przeszkadzał. Nie zwalaj całej winy na niego.\" "
 
 
 
@@ -3558,7 +3558,7 @@ translate polish day2_02_4f6143b9:
 
     voice voice_file.tig(3,41)
 
-    tig angry "\"Po pierwsze, nazwał mnie bogiem Hanów. Po drugie, aborygen to odpowiednie słowo. To nie tak, że nazywałem go jakimś barbarzyńcą.\" "
+    tig angry "\"Po pierwsze, nazwał mnie bogiem Hanów. Po drugie, aborygen to jest odpowiednie słowo. To nie to samo, co wyzywanie go od barbarzyńców.\" "
 
 
 
@@ -3582,7 +3582,7 @@ translate polish day2_02_37f9a54c:
 
     # avt "\"It's not your words. It's... your attitude.\" "
 
-    avt "\"Nie chodzi mi o twoje słowa. Tylko o... twoje nastawienie.\" "
+    avt "\"Nie chodzi mi nawet o twoje słowa. Tylko o... twoje nastawienie.\" "
 
 
 
@@ -3598,7 +3598,7 @@ translate polish day2_02_89c72033:
 
     voice voice_file.tig(3,42)
 
-    tig frown "\"Więc sądzisz, że nie powinienem nim gardzić?\" "
+    tig frown "\"A więc sądzisz, że nie powinienem nim gardzić?\" "
 
 
 
@@ -3626,7 +3626,7 @@ translate polish day2_02_decf5772:
 
     voice voice_file.tig(3,43)
 
-    tig frown "\"Nie mogę tego zrobić.\" "
+    tig frown "\"To wykluczone.\" "
 
 
 
@@ -3644,9 +3644,9 @@ translate polish day2_02_0b81f096:
 
     voice voice_file.lpdcat(3,30)
 
-    lpdcat serious "\"No tak, pewnie. Jesteś tygrysim strażnikiem wysokiej świątyni, ale czemu jesteś aż taki stanowczy?\" "
+    lpdcat serious "\"No tak, pewnie. Jesteś tygrysim strażnikiem wysokiej świątyni- ale czemu musisz być aż tak stanowczy?\" "
 
-    lpdcat serious "\"Też jestem bogiem takim jak ty, a Likulau wcale mi nie przeszkadza...\" "
+    lpdcat serious "\"Też jestem bogiem, takim jak ty- a Likulau wcale mi nie przeszkadza...\" "
 
 
 
@@ -3662,7 +3662,7 @@ translate polish day2_02_648809e7:
 
     voice voice_file.tig(3,44)
 
-    tig angry "\"Nie masz najmniejszego prawa ze mną dyskutować, kociaku!\" " with vpunch
+    tig angry "\"Nie masz prawa ze mną dyskutować, kociaku!\" " with vpunch
 
 
 
@@ -3736,13 +3736,13 @@ translate polish day2_02_8e31dbdc:
 
     # b "Just as soon I step outside, Senpai comes around in front of me and blocks my way dramatically. "
 
-    b "Widzę jak kilkoro ludzi z poprzednich zajęć się na mnie patrzy... "
+    b "Widzę, że kilkoro ludzi z poprzednich zajęć mi się przygląda... "
 
-    b "Zawstydzony, próbuję unikać ich spojrzeń wiedząc, że nie będę mógł się od nich uwolnić aż do końca lekcji. "
+    b "Zawstydzony, próbuję unikać ich spojrzeń- wiedząc, że nie będę mógł się od nich uwolnić aż do końca lekcji. "
 
-    b "Na szczęście do końca zajęć nie zostało już dużo czasu i mogę wreszcie dać odpocząć skołatanym nerwom. "
+    b "Na szczęście do końca zajęć nie zostało już wiele czasu i wreszcie mogę dać odpocząć skołatanym nerwom. "
 
-    b "Gdy tylko wychodzę na zewnątrz, Senpai staje przede mną i blokuje mi drogę. "
+    b "Gdy tylko wychodzę na zewnątrz, Senpai staje przede mną blokując mi drogę. "
 
 
 
@@ -3814,7 +3814,7 @@ translate polish day2_02_4065a227:
 
     voice voice_file.lpdcat(3,34)
 
-    lpdcat normal "\"W każdym razie i tak musimy coś zjeść~\" "
+    lpdcat normal "\"Tak czy siak musimy coś zjeść~\" "
 
 
 
@@ -3828,9 +3828,9 @@ translate polish day2_02_1a550784:
 
     # b "And that's not the only issue. For starters, a hot pot would be way too filling. And secondly, we wouldn't have the time to eat one to begin with. "
 
-    b "Obaj należymy do klubu tanecznego i jakby na to nie patrzeć, to nie jest dobry pomysł, by tańczyć z pełnym żołądkiem. "
+    b "Obaj należymy do klubu tanecznego- i jakby nie patrzeć, tańczenie z pełnym żołądkiem nie jest dobrym pomysłem. "
 
-    b "I to nie jedyny problem. Tak- po pierwsze, hot pot jest zbyt zapychający, a po drugie nie mielibyśmy czasu by na niego iść. "
+    b "A to nie jedyny problem. Po pierwsze- hot pot jest zbyt zapychający. Do tego nie mielibyśmy nawet tyle czasu, by się z nim uporać. "
 
 
 
@@ -3858,7 +3858,7 @@ translate polish day2_02_fe2e2267:
 
     voice voice_file.lpdcat(3,35)
 
-    lpdcat cry_2 "\"Łuu- To taka dobra okazja, by zjeść coś z tobą Liao...\" "
+    lpdcat cry_2 "\"Buu- To taka dobra okazja, by zjeść coś z tobą Liao...\" "
 
 
 
@@ -3870,7 +3870,7 @@ translate polish day2_02_b0f0f13a:
 
     # avt "\"It's alright, we'll have lots of chances. There's no need to hurry.\" "
 
-    avt "\"W porządku, będziemy mieli jeszcze mnóstwo takich okazji. Nie ma co się śpieszyć.\" "
+    avt "\"Spokojnie, będziemy mieli jeszcze mnóstwo takich okazji. Nie ma się co śpieszyć.\" "
 
 
 
@@ -3898,7 +3898,7 @@ translate polish day2_02_01e5afb3:
 
     # avt "\"Mm-hmm— I will. So for now, how about we just head off to the cafeteria?\" "
 
-    avt "\"Yyy-hmm- Dotrzymam. A na razie, co powiesz na pójście na stołówkę?\" "
+    avt "\"Yyy-hmm- Dotrzymam. A na razie, co powiesz na pójście do stołówki?\" "
 
 
 
@@ -3914,7 +3914,7 @@ translate polish day2_02_bf4ca739:
 
     voice voice_file.lpdcat(3,37)
 
-    lpdcat laugh "\"Dobrze!\" "
+    lpdcat laugh "\"Dobra!\" "
 
 
 
@@ -3926,7 +3926,7 @@ translate polish day2_02_2edea488:
 
     # b "We move to the cafeteria and find a table for four. It's kind of a waste, even though technically there's four of us. "
 
-    b "Idziemy na stołówkę i siadamy przy stoliku dla czterech osób. To trochę marnowanie miejsca, mimo że teoretycznie jest nas czterech. "
+    b "Idziemy do stołówki i zasiadamy przy czteroosobowym stoliku. Marnujemy sporo miejsca- mimo, że teoretycznie jest nas czterech. "
 
 
 
@@ -3940,9 +3940,9 @@ translate polish day2_02_ae9cc03c:
 
     # b "Tiger on the other hand follows Leopard, probably just wanting to keep an eye on him. "
 
-    b "Po zajęciu stołu, podchodzę z Senpai'em do lady. Pantera chyba nigdy nie był w takim miejscu, więc też z nami idzie. "
+    b "Po zajęciu stołu, podchodzę z Senpai'em do lady. Pantera chyba nigdy nie był w takim miejscu, więc idzie z nami. "
 
-    b "Natomiast Tygrys podąża za nim, prawdopodobnie by mieć go na oku. "
+    b "Tygrys natomiast podąża za nim- prawdopodobnie by mieć go na oku. "
 
 
 
@@ -3956,9 +3956,9 @@ translate polish day2_02_1200f5cf:
 
     # b "Since we don't have much time I go for something simple, a chicken-thigh rice. "
 
-    b "Nasza uczelnia ma olbrzymią stołówkę. Mają tu wszystko- Zestawy bento, kluski, mięso, hamburgery, desery, jest nawet bar z napojami. Można tu znaleźć wszystko na co ma się ochotę. "
+    b "Nasza uczelnia ma olbrzymią stołówkę. Mają tu wszystko- Zestawy bento, kluski, mięso, hamburgery, desery, jest nawet bar z napojami. Można tu znaleźć praktycznie wszystko, na co przyjdzie ochota. "
 
-    b "Nie mamy za dużo czasu, więc postanawiam wybrać coś prostego, udka kurczaka z ryżem. "
+    b "Nie mamy za wiele czasu, więc postanawiam wybrać coś prostego- udka kurczaka z ryżem. "
 
 
 
@@ -3970,7 +3970,7 @@ translate polish day2_02_ff3b1603:
 
     # b "Senpai ends up getting himself some pork rib noodles... and well, an extra-large soft drink. "
 
-    b "Senpai bierze dla siebie makaron z żeberkami wieprzowymi... no i super duży napój. "
+    b "Senpai bierze dla siebie makaron z żeberkami wieprzowymi... no i super-duży napój gazowany. "
 
 
 
@@ -3982,7 +3982,7 @@ translate polish day2_02_8ba50f43:
 
     # avt "\"Senpai, are you really going to drink that much before practice?\" "
 
-    avt "\"Senpai, jesteś aby pewien, że chcesz wypić tak dużo przed samymi ćwiczeniami?\" "
+    avt "\"Senpai, jesteś aby pewien, że chcesz wypić tak dużo chwilę przed ćwiczeniami?\" "
 
 
 
@@ -4010,7 +4010,7 @@ translate polish day2_02_55fb30c9:
 
     # b "Right, we're not supposed to have full club practice today. There's only a recitation for the show yesterday, it should be over in couple minutes. "
 
-    b "Racja, nie powinniśmy mieć pełnowymiarowych zajęć. Omówienie wczorajszego występu powinno się skończyć w kilkanaście minut. "
+    b "Racja, nie powinniśmy mieć pełnowymiarowych zajęć. Omówienie wczorajszego występu powinno zająć nie więcej jak kilkanaście minut. "
 
 
 
@@ -4054,7 +4054,7 @@ translate polish day2_02_c599ea01:
 
     # avt "\"A hamburger? It's just a hamburger... You know like; meat, salad, and sauce, between two sesame seed buns? There should be a picture over there on the menu.\" "
 
-    avt "\"Hamburger? To tylko hamburger... No wiesz: mięso, sałata i sos w środku bułki z sezamem? Powinno być tu jakieś zdjęcie w menu.\" "
+    avt "\"Hamburger? To tylko hamburger... No wiesz: mięso, sałata i sos w środku bułki z sezamem? W menu powinno być jakieś zdjęcie.\" "
 
 
 
@@ -4070,7 +4070,7 @@ translate polish day2_02_1039d72c:
 
     voice voice_file.tig(3,46)
 
-    tig normal "\"Wygląda na to, że mają naprawdę duży wybór posiłków.\" "
+    tig normal "\"Wygląda na to, że mają tu naprawdę szeroki wybór mięs.\" "
 
 
 
@@ -4082,7 +4082,7 @@ translate polish day2_02_d151b089:
 
     # avt "\"Oh yeah, mostly pork or beef, or chicken though.\" "
 
-    avt "\"Ach tak, głównie z wieprzowiną, wołowiną albo kurczakiem.\" "
+    avt "\"Ach, tak- głównie wieprzowinę, wołowinę i kurczaka.\" "
 
 
 
@@ -4126,7 +4126,7 @@ translate polish day2_02_4c21ac63:
 
     # avt "\"Traditionally speaking, he's right to not have seen one...\" "
 
-    avt "\"Zgodnie z obowiązującą tradycją, mógł ich nigdy nie widzieć...\" "
+    avt "\"Zgodnie z obowiązującą tradycją, faktycznie mógł ich nigdy nie widzieć...\" "
 
 
 
@@ -4154,7 +4154,7 @@ translate polish day2_02_e9609f89:
 
     # avt "\"Hey, it's not like I live under a rock too! I love hamburgers! I even have egg burgers for breakfast all the time!\" "
 
-    avt "\"Hej, to nie znaczy, że ja też urwałem się z choinki! Uwielbiam hamburgery! I cały czas jem eggburgery na śniadanie!\" "
+    avt "\"Hej, to nie znaczy że ja też urwałem się z choinki! Uwielbiam hamburgery! I ciągle jem eggburgery na śniadanie!\" "
 
 
 
@@ -4182,7 +4182,7 @@ translate polish day2_02_44314e65:
 
     # avt "\"Well kinda. It's meat between two buns, but with a fried egg.\" "
 
-    avt "\"No prawie. Mięso w bułce, ale dodatkowo z jajkiem sadzonym.\" "
+    avt "\"Noo, prawie. Mięso w bułce, ale dodatkowo z jajkiem sadzonym.\" "
 
 
 
@@ -4198,7 +4198,7 @@ translate polish day2_02_1609f525:
 
     voice voice_file.tig(3,49)
 
-    tig frown "\"Nie brzmi aż tak dobrze jak ukazują to zdjęcia w menu.\" "
+    tig frown "\"Nie brzmi to aż tak dobrze jak sugerują zdjęcia w menu.\" "
 
 
 
@@ -4250,7 +4250,7 @@ translate polish day2_02_fc8af7d4:
 
     lpdcat normal "\"Dawno temu? Masz na myśli, zanim opętałem to ciało?\" "
 
-    lpdcat normal "\"Nie jestem pewien. Mam jego wszystkie wspomnienia, ale ciężko mi powiedzieć, czy te są jego, czy moje. Być może wcześniej o tym nie wiedziałem.\" "
+    lpdcat normal "\"Nie jestem pewien. Mam jego wszystkie wspomnienia- ale ciężko mi powiedzieć, czy te są jego, czy moje. Być może wcześniej o tym nie wiedziałem.\" "
 
 
 
@@ -4350,7 +4350,7 @@ translate polish day2_02_481a1b58:
 
     # avt "\"...So how about I get one for you?\" "
 
-    avt "\"Co powiesz na to, jeśli wezmę jednego dla ciebie?\" "
+    avt "\"Co powiesz na to, żebym wziął jednego dla ciebie?\" "
 
 
 
@@ -4366,7 +4366,7 @@ translate polish day2_02_5fb2ef6b:
 
     voice voice_file.tig(3,54)
 
-    tig embarrassed "\"Nie, nie trzeba...\" "
+    tig embarrassed "\"Nie, nie ma takiej potrzeby...\" "
 
 
 
@@ -4438,7 +4438,7 @@ translate polish day2_02_1aa70186:
 
     voice voice_file.lpdcat(3,46)
 
-    lpdcat surprise_1 "\"Łał Liao... I ty nazywasz siebie Jitong'iem? Twój tygrysi strażnik jest duchem. Nie je rzeczy w dosłownym tego znaczeniu.\" "
+    lpdcat surprise_1 "\"Wow Liao... I ty nazywasz siebie Jitong'iem? Twój tygrysi strażnik jest duchem. Nie je rzeczy w dosłownym tego znaczeniu.\" "
 
 
 
@@ -4468,9 +4468,9 @@ translate polish day2_02_c65d2371:
 
     voice voice_file.lpdcat(3,47)
 
-    lpdcat serious "\"Eh... Jak by ci to wytłumaczyć? A więc, gdy bóg coś zjada, pochłania jedynie zawartą w tym energię {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Chi{/font}. Naprawdę nie zjadają samego jedzenia.\"  "
+    lpdcat serious "\"Eh... Jak by ci to wytłumaczyć? A więc- gdy bóg coś zjada, pochłania jedynie zawartą w tym energię {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Chi{/font}. Nie zjada naprawdę samego jedzenia.\"  "
 
-    lpdcat serious "\"Generalnie ludzie nie zauważą różnicy.\" "
+    lpdcat serious "\"Generalnie, ludzie nie zauważą różnicy.\" "
 
 
 
@@ -4482,7 +4482,7 @@ translate polish day2_02_6eb17c5d:
 
     # avt "\"So... It's more like an offering?\" "
 
-    avt "\"Więc... to coś w rodzaju ofiary?\' "
+    avt "\"Więc... to bardziej coś w rodzaju ofiary?\' "
 
 
 
@@ -4498,7 +4498,7 @@ translate polish day2_02_e8d74fd4:
 
     voice voice_file.lpdcat(3,48)
 
-    lpdcat serious "\"Dokładnie. Jeśli kupisz hamburgera dla staruszka, będzie mógł nacieszyć się jego smakiem. Ale i tak będziesz to musiał zjeść. W przeciwnym wypadku będziemy musieli to wyrzucić\" "
+    lpdcat serious "\"Dokładnie. Jeśli kupisz hamburgera dla staruszka, będzie mógł nacieszyć się jego smakiem. Ale i tak będziesz musiał go później zjeść- w przeciwnym wypadku się zmarnuje\" "
 
 
 
@@ -4510,7 +4510,7 @@ translate polish day2_02_a7316378:
 
     # avt "\"Okay... So this 'Chi' you mentioned. Is that something gods need?\" "
 
-    avt "\"No dobra... Ta energia \"Chi\" o której wspomniałeś... Czy to coś potrzebnego bogom?\" "
+    avt "\"No dobra... Więc ta energia \"Chi\" o której wspomniałeś... Czy to coś niezbędnego bogom?\" "
 
 
 
@@ -4530,9 +4530,9 @@ translate polish day2_02_f820c1b6:
 
     voice voice_file.lpdcat(3,49)
 
-    lpdcat serious "\"Tak potrzebujemy jej, ale bogom nie skończy się Chi tak długo jak mają swoich wyznawców.\" "
+    lpdcat serious "\"Tak, potrzebujemy jej- ale bogom nie skończy się Chi, dopóki mają swoich wyznawców.\" "
 
-    lpdcat serious "\"Praktycznie jesteś kapłanem dla tego staruszka, a więc nie zgłodnieje tak długo jak tu jesteś.\" "
+    lpdcat serious "\"A ty jesteś praktycznie kapłanem dla tego staruszka, więc nie zgłodnieje tak długo jak jesteś w pobliżu.\" "
 
     lpdcat serious "\"Ja nie mam aż tyle szczęścia, ponieważ mój Fudegong nie ma już żadnych wyznawców...\" "
 
@@ -4552,7 +4552,7 @@ translate polish day2_02_13df6904:
 
     voice voice_file.lpdcat(3,50)
 
-    lpdcat serious "\"Chociaż bóg może zachować swą moc w obecności kapłana, to lepiej podarować mu trochę ofiar.\" "
+    lpdcat serious "\"Chociaż bóg może zachować swoją moc w obecności kapłana, to lepiej podarować mu trochę ofiar.\" "
 
     lpdcat serious "\"Ofiary to przecież najlepszy sposób na pozyskanie Chi i ludzkiej wiary.\" "
 
@@ -4566,7 +4566,7 @@ translate polish day2_02_9684cc8e:
 
     # avt "\"So I'm the priest?\" "
 
-    avt "\"To ja jestem kapłanem?\" "
+    avt "\"To ja jestem niby kapłanem?\" "
 
 
 
@@ -4586,7 +4586,7 @@ translate polish day2_02_f0df48f4:
 
     tig normal "\"Postawiłeś mój posążek na półce, nieprawdaż?\" "
 
-    tig normal "\"Jesteś też moim wyznawcą, a twój pokój można uznać za moją świątynię. Dlatego też jesteś moim kapłanem.\" "
+    tig normal "\"Jesteś też moim wyznawcą- a twój pokój można uznać za moją świątynię. Dlatego też jesteś moim kapłanem.\" "
 
 
 
@@ -4602,7 +4602,7 @@ translate polish day2_02_fc5c379c:
 
     voice voice_file.lpdcat(3,51)
 
-    lpdcat cute "\"Co za brudna świątynia~\" "
+    lpdcat cute "\"Co za syfiasta świątynia~\" "
 
 
 
@@ -4614,7 +4614,7 @@ translate polish day2_02_50681b67:
 
     # b "\"So all this time I've been serving my guardian tiger? But by that logic... I've done... {w=0.5}embarrassing things in the temple. Is that even okay?\" "
 
-    b "Przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem rozumowania... Robiłem... {w=0.5}okropne rzeczy w jego świątyni. Czy to w porządku? "
+    b "Przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem rozumowania... Robiłem... {w=0.5}okropne rzeczy w jego świątyni. Czy to aby w porządku? "
 
 
 
@@ -4628,9 +4628,9 @@ translate polish day2_02_fbbe1302:
 
     # b "I don't really like the family traditions, but now I feel like I've treated him unfairly because I ignored them... "
 
-    b "I nigdy nie oddałem należytej czci posążkowi Tygrysa, nie wspominając o ofiarach. "
+    b "I nigdy nie oddałem należytej czci posążkowi Tygrysa, nie wspominając już o ofiarach. "
 
-    b "Naprawdę nie lubię rodzinnych tradycji, ale czuję że źle go potraktowałem ignorując je... "
+    b "Nie przepadam za rodzinnymi tradycjami, ale czuję że źle go potraktowałem ignorując je... "
 
 
 
@@ -4658,7 +4658,7 @@ translate polish day2_02_e6cf47ef:
 
     # b "I've never even offered him a sacrifice before, I can't just say no the first time he's ever actually asked for something. "
 
-    b "Nigdy wcześniej nie złożyłem mu żadnej ofiary. Teraz nie mogę mu odmówić, gdy po raz pierwszy mnie o coś prosi. "
+    b "Nigdy wcześniej nie złożyłem mu żadnej ofiary. Nie mogę mu teraz odmówić- gdy po raz pierwszy mnie o coś prosi. "
 
 
 
@@ -4704,9 +4704,9 @@ translate polish day2_02_13f4af8d:
 
     voice voice_file.lpdcat(3,52)
 
-    lpdcat normal "\"To racja. Kupisz go sobie jutro i zjesz na obiad. Teraz, gdy potrafisz go zobaczyć, możesz mu kupić co tylko będzie chciał.\" "
+    lpdcat normal "\"Co racja to racja. Kupisz go sobie jutro i zjesz na obiad. Teraz, gdy możesz go zobaczyć, możesz mu kupić co tylko zechce.\" "
 
-    lpdcat normal "\"Wiedz, że bóg cię ukarze jeśli będziesz marnował jedzenie.\" "
+    lpdcat normal "\"Z kolei bogowie cię pokarają, jeśli będziesz marnował jedzenie.\" "
 
 
 
@@ -4730,7 +4730,7 @@ translate polish day2_02_c0b50faf:
 
     # b "I've pretty much decided now to buy my guardian tiger whatever he wants. He's a guardian tiger of my family, it's the least I can do for him after ignoring him for so \nlong. "
 
-    b "Postanowiłem, że będę kupował mojemu tygrysiemu strażnikowi wszystko czego sobie zażyczy. Należy do mojej rodziny, przynajmniej tyle mogę zrobić po ignorowaniu go przez tak długi czas. "
+    b "Postanowiłem, że będę kupował mojemu tygrysiemu strażnikowi wszystko czego sobie zażyczy. Należy do mojej rodziny- przynajmniej tyle mogę zrobić po ignorowaniu go przez tak długi czas. "
 
 
 
@@ -4742,7 +4742,7 @@ translate polish day2_02_c2183ba0:
 
     # b "Now that I think about it, maybe Leopard wants something to eat as well? I look around to find him staring at drink bar. "
 
-    b "Jak tak się zastanowię, może Pantera też chciałby coś zjeść? Rozglądam się i widzę jak wpatruje się w bar z napojami. "
+    b "Jak tak się zastanowię, to może Pantera też chciałby coś zjeść? Rozglądam się, i widzę jak wpatruje się w bar z napojami. "
 
 
 
@@ -4758,7 +4758,7 @@ translate polish day2_02_a1124f24:
 
     b "Yhh- Mniejsza, raczej wszystko z nim w porządku. "
 
-    b "Wracam do moich udek z kurczaka, oddaję tacę i udaję się do klubu z Senpai'em. "
+    b "Wracam do swoich udek z kurczaka, po czym oddaję tacę i udaję się do klubu z Senpai'em. "
 
 
 
