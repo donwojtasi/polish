@@ -2922,7 +2922,7 @@ translate polish s06_04_lie_666de361:
 
     # avt "\"Yeah. I know. I'll make sure to get some things together for worship tomorrow.\" "
 
-    avt "\"Tak, wiem. Dopilnuję, by przygotować wszystko na jutrzejszą adorację.\" "
+    avt "\"Tak, wiem. Dopilnuję, by przygotować wszystko na jutrzejsze uwielbienie.\" "
 
 
 
@@ -3142,7 +3142,7 @@ translate polish s06_04_lie_04e05c2d:
 
     voice voice_file.tig(6,38)
 
-    tig normal "\"Liao, wspomniałeś o adoracji, prawda? To dwie całkowicie różne rzeczy.\" "
+    tig normal "\"Liao, wspomniałeś o uwielbieniu, prawda? To dwie całkowicie różne rzeczy.\" "
 
 
 
@@ -3626,7 +3626,7 @@ translate polish s06_04_confess_854baa30:
 
     voice voice_file.brother(6,26)
 
-    phone ""
+    phone "\"Hę, taki wielki wyszedł z takiej małego posążka? Uhh- Co jeszcze? O tak, jak ma na imię?\" "
 
 
 
@@ -3638,7 +3638,7 @@ translate polish s06_04_confess_fa318803:
 
     # avt "\"Name? I don't know...\" "
 
-    avt ""
+    avt "\"Na imię? Nie wiem...\" "
 
 
 
@@ -3654,7 +3654,7 @@ translate polish s06_04_confess_2df53ccd:
 
     voice voice_file.tig(6,43)
 
-    tig lift ""
+    tig lift "\"Nie noszę żadnego imienia. Bogowie zazwyczaj otrzymują imiona nadane im przez ludzi.\" "
 
 
 
@@ -3666,7 +3666,7 @@ translate polish s06_04_confess_a62994f4:
 
     # avt "\"He says that he doesn't have a name. Names are given by humans.\" "
 
-    avt ""
+    avt "\"Mówi, że nie ma imienia. Imiona nadawane są im przez ludzi.\" "
 
 
 
@@ -3682,7 +3682,7 @@ translate polish s06_04_confess_975cea33:
 
     voice voice_file.brother(6,27)
 
-    phone ""
+    phone "\"Naprawdę? To... czemu mu jakiegoś nie nadasz?\" "
 
 
 
@@ -3694,7 +3694,7 @@ translate polish s06_04_confess_6928fc5c:
 
     # avt "\"Uhh? Well, I never thought to do that...\" "
 
-    avt ""
+    avt "\"Uhh? Cóż, nigdy o tym nie pomyślałem...\" "
 
 
 
@@ -3710,7 +3710,7 @@ translate polish s06_04_confess_2638d778:
 
     voice voice_file.brother(6,28)
 
-    phone ""
+    phone "\"On naprawdę nie ma imienia?\" "
 
 
 
@@ -3722,7 +3722,7 @@ translate polish s06_04_confess_ec9e0ae8:
 
     # avt "\"As far as he's telling me.\" "
 
-    avt ""
+    avt "\"Według tego co mi powiedział, nie.\" "
 
 
 
@@ -3734,7 +3734,7 @@ translate polish s06_04_confess_3e52eb15:
 
     # avt "\"Uhh, Guardian Tiger, do you want a name?\" "
 
-    avt ""
+    avt "\"Uhh, Tygrysi Strażniku, chciałbyś dostać jakieś imię?\" "
 
 
 
@@ -3750,7 +3750,7 @@ translate polish s06_04_confess_2ea2fcac:
 
     voice voice_file.tig(6,44)
 
-    tig lift ""
+    tig lift "\"Hmm...\" "
 
 
 
@@ -3766,7 +3766,7 @@ translate polish s06_04_confess_6d647b03:
 
     voice voice_file.lpdcat(6,31)
 
-    lpdcat pout ""
+    lpdcat pout "\"Pewnie, że chce! Też jestem tygrysim strażnikiem. To mega dziwne, gdy za każdym razem nazywasz staruszka w ten sposób.\" "
 
 
 
@@ -3778,7 +3778,7 @@ translate polish s06_04_confess_9eb42f3e:
 
     # avt "\"Oh? But Senpai...\" "
 
-    avt ""
+    avt "\"Och? Ale Senpai...\" "
 
 
 
@@ -3796,7 +3796,9 @@ translate polish s06_04_confess_6a1c9bf7:
 
     voice voice_file.tig(6,45)
 
-    tig normal ""
+    tig normal "\"Zaiste, mało mnie to interesuje. Jestem tylko małym bogiem, przyzwyczaiłem się już do braku imienia.\" "
+
+    tig normal "\"Jeżeli ten mały kociak czuje się z tym niezręcznie- tym lepiej!\" "
 
 
 
@@ -3812,7 +3814,7 @@ translate polish s06_04_confess_12d17c16:
 
     voice voice_file.lpdcat(6,32)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hę- Znowu próbujesz mi dokuczać?\" "
 
 
 
@@ -3828,7 +3830,7 @@ translate polish s06_04_confess_9c45f4d6:
 
     voice voice_file.tig(6,46)
 
-    tig lift ""
+    tig lift "\"Aczkolwiek sądzę, że nadanie mi imienia przez Liao też nie byłoby złe. To znak silnej więzi pomiędzy bogiem, a jego wyznawcą.\" "
 
 
 
@@ -3844,7 +3846,7 @@ translate polish s06_04_confess_73756f96:
 
     voice voice_file.lpdcat(6,33)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Och, jak tak to przedstawiasz. Wolałbym, żeby Liao nie dawał ci imienia. Już wiem! Liao, czemu nie nazwiesz mnie zamiast niego?!\" "
 
 
 
@@ -3856,7 +3858,7 @@ translate polish s06_04_confess_33b3566e:
 
     # avt "\"Aren't you already Yan Shu-Chi...?\" "
 
-    avt ""
+    avt "\"Czy już przypadkiem nie jesteś Yan Shu-Chi...?\" "
 
 
 
@@ -3874,7 +3876,9 @@ translate polish s06_04_confess_93fd4b3a:
 
     voice voice_file.lpdcat(6,34)
 
-    lpdcat pout ""
+    lpdcat pout "\"To imię twojego Senpai'a, a nie {i}MOJE!{/i}\" "
+
+    lpdcat pout "\"Liaaaao, proszę pomóż w wyborze jakiegoś dla mnie~\" "
 
 
 
@@ -3890,7 +3894,7 @@ translate polish s06_04_confess_1665ae46:
 
     voice voice_file.tig(6,47)
 
-    tig frown ""
+    tig frown "\"Kociaku, przestań być utrapieniem dla Liao...\" "
 
 
 
@@ -3906,7 +3910,7 @@ translate polish s06_04_confess_afa4305f:
 
     voice voice_file.brother(6,29)
 
-    phone ""
+    phone "\"Uhh, Liao. Co się tam dzieje?\" "
 
 
 
@@ -3918,7 +3922,7 @@ translate polish s06_04_confess_fd0f88c3:
 
     # avt "\"Ah? Oh? Nothing. Guardian Tiger was just saying...\" "
 
-    avt ""
+    avt "\"Ach? Och? Nic takiego. Tygrysi Strażnik tylko mówił...\" "
 
 
 
@@ -3934,7 +3938,7 @@ translate polish s06_04_confess_89fbad73:
 
     voice voice_file.brother(6,30)
 
-    phone ""
+    phone "\"To tygrysi strażnik naprawdę jest tuż obok ciebie? I mówi?\" "
 
 
 
@@ -3946,7 +3950,7 @@ translate polish s06_04_confess_d9147e8f:
 
     # avt "\"Yeah.\" "
 
-    avt ""
+    avt "\"Tak.\" "
 
 
 
@@ -3962,7 +3966,7 @@ translate polish s06_04_confess_f66ea42e:
 
     voice voice_file.brother(6,31)
 
-    phone ""
+    phone "\"Wow... Serio? Czy mógłbym mu później zadać parę parę pytań?\" "
 
 
 
@@ -3974,7 +3978,7 @@ translate polish s06_04_confess_aa95d370:
 
     # avt "\"Uhh... Sure.\" "
 
-    avt ""
+    avt "\"Uhh... Pewnie.\" "
 
 
 
@@ -3986,7 +3990,7 @@ translate polish s06_04_confess_ff691c02:
 
     # b "\"This could work. If he asks me about stuff I wouldn't know the details off like possession rituals or worship, I might even learn something— but on the other hand...\" "
 
-    b ""
+    b "To może zadziałać. Jeśli zapyta mnie o sprawy o których nie wiem zbyt dużo, jak na przykład rytuały opętania lub uwielbienia, może będę mógł się czegoś nauczyć- ale z drugiej strony... "
 
 
 
@@ -4002,7 +4006,7 @@ translate polish s06_04_confess_d7d2c7a7:
 
     voice voice_file.brother(6,32)
 
-    phone ""
+    phone "\"...cóż, jeżeli zadam wam parę pytań będę mógł udowodnić, że naprawdę widzisz tygrysiego strażnika.\" "
 
 
 
@@ -4014,7 +4018,7 @@ translate polish s06_04_confess_36ac36a0:
 
     # avt "\"What, you don't believe me yet?\" "
 
-    avt ""
+    avt "\"Co, wciąż mi nie wierzysz?\" "
 
 
 
@@ -4030,7 +4034,7 @@ translate polish s06_04_confess_011c6a72:
 
     voice voice_file.brother(6,33)
 
-    phone ""
+    phone "\"Nic nie jest pewne, dopóki tego nie potwierdzimy.\" "
 
 
 
@@ -4046,7 +4050,7 @@ translate polish s06_04_confess_d5b6c0ed:
 
     voice voice_file.brother(6,34)
 
-    phone ""
+    phone "\"Myślę, że musiałbyś być szalony by aż tak mnie okłamywać. Ale trochę ciężko w to uwierzyć. Po prostu chcę się upewnić.\" "
 
 
 
