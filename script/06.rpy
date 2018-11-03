@@ -3626,7 +3626,7 @@ translate polish s06_04_confess_854baa30:
 
     voice voice_file.brother(6,26)
 
-    phone "\"Hę, taki wielki wyszedł z takiej małego posążka? Uhh- Co jeszcze? O tak, jak ma na imię?\" "
+    phone "\"Hę, taki wielki wyszedł z takiego małego posążka? Uhh- Co by tu jeszcze? Och tak, jak ma na imię?\" "
 
 
 
@@ -4062,7 +4062,7 @@ translate polish s06_04_confess_40a8d86f:
 
     # avt "\"It's alright if you don't believe me... It might even have been best if I didn't tell you at all...\" "
 
-    avt ""
+    avt "\"W porządku, jeżeli mi nie wierzysz... Pewnie nawet lepiej byłoby, gdybym ci o tym wcale nie powiedział...\" "
 
 
 
@@ -4078,7 +4078,7 @@ translate polish s06_04_confess_fc707594:
 
     voice voice_file.brother(6,35)
 
-    phone ""
+    phone "\"Haha- Już za późno! Już mi to powiedziałeś.\" "
 
 
 
@@ -4094,7 +4094,7 @@ translate polish s06_04_confess_bcf79542:
 
     voice voice_file.brother(6,36)
 
-    phone ""
+    phone "\"Mimo wszystko, jestem trochę zasmucony, że to tobie udaje się zobaczyć tygrysich strażników, a nie mnie...\" "
 
 
 
@@ -4106,7 +4106,7 @@ translate polish s06_04_confess_31be5b66:
 
     # avt "\"I mean I've only been able to see him pretty recently...\" "
 
-    avt ""
+    avt "\"Chodzi o to, że dopiero niedawno udało mi się go zobaczyć...\" "
 
 
 
@@ -4118,7 +4118,7 @@ translate polish s06_04_confess_cb0b3e96:
 
     # b "I'd probably be better if my brother was the one who could see the guardian tigers and not me. After all, he's a Jitong already... "
 
-    b ""
+    b "Byłoby o wiele lepiej, gdyby to mój brat mógł zobaczyć tygrysich strażników, a nie ja. Przecież to on został Jitong'iem... "
 
 
 
@@ -4130,7 +4130,7 @@ translate polish s06_04_confess_ff52749a:
 
     # b "But it was always because of Leopard that I've got this power. If Leopard gave to my brother instead, then it could have been an even bigger problem for my family. "
 
-    b ""
+    b "A to wszystko zasługa Pantery. Gdyby dał tę moc mojemu bratu zamiast mi, moja rodzina mogłaby mieć jeszcze większe problemy z tego powodu. "
 
 
 
@@ -4142,7 +4142,7 @@ translate polish s06_04_confess_e4f7dbf5:
 
     # avt "\"But, please don't tell Dad about this!\" "
 
-    avt ""
+    avt "\"Ale proszę cię, nie mów nic tacie!\" "
 
 
 
@@ -4158,7 +4158,7 @@ translate polish s06_04_confess_da9d8226:
 
     voice voice_file.brother(6,37)
 
-    phone ""
+    phone "\"Wiem i nie powiem. Myślę, że powinieneś być bardziej ostrożny. Po prostu nie wyjawiaj ludziom spraw, których będziesz później żałował. No i powinieneś znaleźć lepsze miejsce do schowania swojej mangi.\"  "
 
 
 
@@ -4170,7 +4170,7 @@ translate polish s06_04_confess_bedf9b72:
 
     # avt "\"What! Bro...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Co! Bracie...\" " with hshake
 
 
 
@@ -4186,7 +4186,7 @@ translate polish s06_04_confess_a89ff91d:
 
     voice voice_file.brother(6,38)
 
-    phone ""
+    phone "\"Nie martw się, schowałem je w lepszym miejscu. Bądź bardziej ostrożny, dobra? Gdy już wrócisz do domu powiem ci gdzie je schowałem.\" "
 
 
 
@@ -4198,7 +4198,7 @@ translate polish s06_04_confess_cc887d6c:
 
     # avt "\"Oh... Okay... Thanks bro.\" "
 
-    avt ""
+    avt "\"Och... Dobra... Dzięki brachu.\" "
 
 
 
@@ -4214,7 +4214,7 @@ translate polish s06_04_confess_91c04e8c:
 
     voice voice_file.brother(6,39)
 
-    phone ""
+    phone "\"Nie ma problemu. Do zobaczenia.\" "
 
 
 
@@ -4226,7 +4226,7 @@ translate polish s06_04_confess_e9f1d0fe:
 
     # b "I hang up. Well that was sudden. "
 
-    b ""
+    b "Rozłączył się. No, tego się nie spodziewałem. "
 
 
 
@@ -4238,7 +4238,7 @@ translate polish s06_04_confess_0822b13d:
 
     # b "My brother found my doujins, and now I've told him about Guardian Tiger as well... "
 
-    b ""
+    b "Mój brat znalazł moje doujin'y, a do tego powiedziałem mu o Tygrysim Strażniku... "
 
 
 
@@ -4250,7 +4250,7 @@ translate polish s06_04_confess_5e03e6ec:
 
     # b "What have I done?! " with vshake
 
-    b "" with vshake
+    b "Co ja zrobiłem?! " with vshake
 
 
 
@@ -4266,7 +4266,7 @@ translate polish s06_04_confess_7b981164:
 
     voice voice_file.tig(6,48)
 
-    tig lift ""
+    tig lift "\"Liao, wszystko dobrze?\" "
 
 
 
@@ -4278,7 +4278,7 @@ translate polish s06_04_confess_f9bc3141:
 
     # avt "\"No, not really. Why did I have to go and tell him? Now the whole family's just going to find out...\" "
 
-    avt ""
+    avt "\"Nie do końca. Czemu mu to powiedziałem? Teraz cała rodzina się o tym dowie...\" "
 
 
 
@@ -4294,7 +4294,7 @@ translate polish s06_04_confess_ce08583b:
 
     voice voice_file.tig(6,49)
 
-    tig normal ""
+    tig normal "\"Cóż, podejrzewam, że wszyscy bogowie w domu już o tym wiedzą, a zatem to nie problem.\" "
 
 
 
@@ -4306,7 +4306,7 @@ translate polish s06_04_confess_e478c441:
 
     # avt "\"What?!\" " with flash
 
-    avt "" with flash
+    avt "\"Co?\" " with flash
 
 
 
@@ -4322,7 +4322,7 @@ translate polish s06_04_confess_c11657ac:
 
     voice voice_file.tig(6,50)
 
-    tig normal ""
+    tig normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jasnowidzący i Jasnosłyszący{/font} są tam, tylko jeszcze nie przybyli tu by cię zobaczyć. Ale jestem przekonany, że czekają z niecierpliwością na twój powrót.\" "
 
 
 
@@ -4334,7 +4334,7 @@ translate polish s06_04_confess_b694c2a4:
 
     # avt "\"...Now I really don't want to go back.\" "
 
-    avt ""
+    avt "\"...teraz naprawdę nie chcę tam wracać.\" "
 
 
 
@@ -4350,7 +4350,7 @@ translate polish s06_04_confess_a601254b:
 
     voice voice_file.tig(6,51)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Haha- Nie przejmuj się tym!\" "
 
 
 
@@ -4362,7 +4362,7 @@ translate polish s06_04_confess_21eb6419:
 
     # avt "\"hmm...\" "
 
-    avt ""
+    avt "\"Hmm...\" "
 
 
 
@@ -4374,7 +4374,7 @@ translate polish s06_04_confess_15085345:
 
     # b "He says \"don't worry\", but I'm {i}absolutely{/i} \ still worried. "
 
-    b ""
+    b "Mówi mi \"nie przejmuj się\", ale ja {i}absolutnie{/i} \ wciąż zmartwiony. "
 
 
 
@@ -4386,7 +4386,7 @@ translate polish s06_04_confess_e653d22b:
 
     # b "I know I'm just searching for someone to believe me but openeing up to my brother might not have been a great idea... Maybe I should've just said that I didn't know anything... "
 
-    b ""
+    b "Zdaje sobie sprawę, że po prostu szukam kogoś kto mi uwierzy, ale otwarcie się z tym na mojego brata mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic nie wiem... "
 
 
 
@@ -4398,7 +4398,7 @@ translate polish s06_04_confess_1d8ffd31:
 
     # b "I take a deep breath and look back to my computer. The website I was searching through with Tiger is still up on the screen. "
 
-    b ""
+    b "Biorę głęboki oddech i spoglądam ponownie w kierunku komputera. Strona, którą przeglądałem wraz z Tygrysem wciąż znajduje się na ekranie. "
 
 
 
@@ -4410,7 +4410,7 @@ translate polish s06_04_confess_c502ab25:
 
     # b "Oh right... that's what I was doing. "
 
-    b ""
+    b "Och tak... to właśnie robiłem. "
 
 
 
@@ -4422,7 +4422,7 @@ translate polish s06_04_confess_d6f57c74:
 
     # b "I let out a deep sigh. At least that's over with. "
 
-    b ""
+    b "Wzdycham głęboko. Przynajmniej mam to już za sobą. "
 
 
 
@@ -4434,7 +4434,7 @@ translate polish strings:
 
     old "要不要撮合他們？"
 
-    new ""
+    new "Czy powinienem spróbować przekonać Senpai'a i Tygrysa do dogadania się?"
 
 
 
@@ -4442,7 +4442,7 @@ translate polish strings:
 
     old "算了，不勉強。"
 
-    new ""
+    new "Nie ma szans by ich do tego zmusić."
 
 
 
@@ -4450,7 +4450,7 @@ translate polish strings:
 
     old "想辦法說服他們。"
 
-    new ""
+    new "Powinienem znaleźć sposób, w jaki mogą współpracować."
 
 
 
@@ -4458,7 +4458,7 @@ translate polish strings:
 
     old "是否要承認可以看到虎爺？"
 
-    new ""
+    new "Czy powinienem mu powiedzieć o tym, że widzę Tygrysiego Strażnika?"
 
 
 
@@ -4466,7 +4466,7 @@ translate polish strings:
 
     old "適當敷衍。"
 
-    new ""
+    new "Znajdź jakąś wymówkę."
 
 
 
@@ -4474,5 +4474,5 @@ translate polish strings:
 
     old "老實承認。"
 
-    new ""
+    new "Wyznaj prawdę."
 
