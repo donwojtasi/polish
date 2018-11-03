@@ -5264,7 +5264,7 @@ translate polish day2_03_lpdcat_b455a989:
 
     voice voice_file.lpdcat(3,67)
 
-    lpdcat serious "\"Ja po prostu... zostałem przyparty do ściany. Proszę cię o pomoc, bo że nie mam innego wyboru. "
+    lpdcat serious "\"Ja po prostu... zostałem przyparty do ściany. Proszę cię o pomoc, bo że nie mam innego wyboru.\" "
 
     lpdcat serious "\"Po prostu... przemyśl to, dobrze?\" "
 
@@ -6322,7 +6322,7 @@ translate polish day2_04_b449dd38:
 
     # b "I can't exactly tell him there's a clouded leopard from Wutai who wants my help, but I really want to ask him something about it. How should I do this... "
 
-    b "Nie mogę mu wprost powiedzieć, że mam tu mglistą panterę z Wutai, która potrzebuje mojej pomocy- ale bardzo chciałbym się czegoś o tym dowiedzieć. Jakby tu zacząć..."
+    b "Nie mogę mu wprost powiedzieć, że mam tu mglistą panterę z Wutai, która potrzebuje mojej pomocy- ale bardzo chciałbym się czegoś o tym dowiedzieć. Jakby tu zacząć... "
 
 
 
