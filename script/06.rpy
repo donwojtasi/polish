@@ -122,7 +122,7 @@ translate polish s06_d0ebcb4a:
 
     # avt "Um— Well... I just have something on my mind... "
 
-    avt "\"Um- No cóż... Coś chodzi mi po głowie... "
+    avt "\"Um- No cóż... Coś chodzi mi po głowie...\" "
 
 
 
@@ -1104,9 +1104,9 @@ translate polish s06_c9dc8ac1:
 
     # b "\"And Leopard, he's determined to get {i}something{/i} \ across to his tribe.\" "
 
-    b "Pewnie, są rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy, ale to nie tyczy się wszystkiego...\" "
+    b "Pewnie, są rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy, ale to nie tyczy się wszystkiego... "
 
-    b "Może Pantera potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu?\" "
+    b "Może Pantera potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu? "
 
 
 
@@ -4458,7 +4458,7 @@ translate polish strings:
 
     old "是否要承認可以看到虎爺？"
 
-    new "Czy powinienem mu powiedzieć o tym, że widzę Tygrysiego Strażnika?"
+    new "Czy powinienem powiedzieć mu o tym, że widzę Tygrysiego Strażnika?"
 
 
 
