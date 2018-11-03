@@ -50,7 +50,7 @@ translate polish s07_d13b7b99:
 
     # b "Senpai jumps out of nowhere, determined to get my attention.\n(Shocking the living daylights out of me like usual.) "
 
-    b "Senpai pojawia się znikąd, chcąc zwrócić na siebie moją uwagę.\n(Jak zwykle śmiertelnie mnie strasząc.) "
+    b "Senpai pojawia się znikąd chcąc zwrócić na siebie moją uwagę.\n(Jak zwykle śmiertelnie mnie strasząc.) "
 
 
 
@@ -66,7 +66,7 @@ translate polish s07_4952f8b1:
 
     voice voice_file.lpdcat(7,2)
 
-    lpdcat happy ""
+    lpdcat happy "\"Hej, wyjdźmy gdzieś w ten weekend!\" "
 
 
 
@@ -78,7 +78,7 @@ translate polish s07_465ac3a6:
 
     # avt "\"Again? Senpai, you always want to go out. Aren't you tired?\" "
 
-    avt ""
+    avt "\"Znowu? Senpai, zawsze gdzieś cię nosi. Nie jesteś zmęczony?\" "
 
 
 
@@ -94,7 +94,7 @@ translate polish s07_91f2fc11:
 
     voice voice_file.lpdcat(7,3)
 
-    lpdcat normal ""
+    lpdcat normal "\"Weekendy są po to by zabawić się w wolnym czasie! Daj spokój Liao, siedzenie tutaj przez cały dzień cię nie nudzi?\" "
 
 
 
@@ -106,7 +106,7 @@ translate polish s07_33b8c151:
 
     # avt "\"Oh... I'm fine with staying in, it's a great chance to get a rest... \" "
 
-    avt ""
+    avt "\"Och... Nie mam nic przeciwko temu. To dobra okazja by trochę odpocząć...\" "
 
 
 
@@ -119,6 +119,8 @@ translate polish s07_8f55637a:
     # b "With the three cats around, it's hard enough to take care of them every day... then they always want to go out on the weekends too. "
 
     # b "Sometimes I just want a day with nothing to do, just to stay at home, rest and take my mind off things. "
+
+    b "Na co dzień ciężko jest zajmować się tymi trzema kotami, gdy cały czas kręcą się w pobliżu... a do tego zawsze chcą gdzieś iść w weekendy. "
 
     b ""
 
@@ -136,7 +138,7 @@ translate polish s07_22ed5103:
 
     voice voice_file.lpdcat(7,4)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Aaaaa w ten weekend mamy święto Ching Ming, czyli festiwal sprzątania cmentarzy. Powinniśmy się na nie udać!\" "
 
 
 
@@ -148,7 +150,7 @@ translate polish s07_f59d6116:
 
     # avt "\"You always want to go somewhere {i}every{/i} \ week!\" "
 
-    avt ""
+    avt "\"{i}Każdego{/i} \ tygodnia zawsze chcesz gdzieś iść!\" "
 
 
 
