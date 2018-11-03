@@ -6492,7 +6492,7 @@ translate polish day2_04_d33b7345:
 
     b "Niemniej to trochę dziwne. Jiahao pewnie wiedziałby coś o każdym z ważnych bogów Rukai, ale nie przypominał sobie żadnych mglistych panter. "
 
-    b "Czy naprawdę może ich tam nie być? W końcu mimo że jest skromny w stosunku swojej wiedzy, ta jest naprawdę imponująca. "
+    b "Czy naprawdę może ich tam nie być? W końcu mimo że nie chwali się swoją wiedzą, ta jest naprawdę imponująca. "
 
     b "Może po prostu wyleciało mu to z głowy, tak jak sam powiedział... "
 
