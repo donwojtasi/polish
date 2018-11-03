@@ -6198,7 +6198,7 @@ translate polish day2_04_bb245b9a:
 
     # b "Seeing Leopard reminded me that Jiahao helped us a lot with information on the Rukai traditions for the show last night. Maybe he knows something. "
 
-    b "Widok Pantery przypomniał mi jak bardzo Jiahao pomógł naszemu klubowi w zbieraniu informacji na temat tradycji ludności Rukai. Może będzie coś wiedział. "
+    b "Widok Pantery przypomniał mi, jak bardzo Jiahao pomógł naszemu klubowi w zbieraniu informacji na temat tradycji ludności Rukai. Może będzie coś wiedział. "
 
 
 
@@ -6322,7 +6322,7 @@ translate polish day2_04_b449dd38:
 
     # b "I can't exactly tell him there's a clouded leopard from Wutai who wants my help, but I really want to ask him something about it. How should I do this... "
 
-    b "Nie mogę mu wprost powiedzieć, że mam tu mglistą panterę z Wutai, która potrzebuje mojej pomocy, ale bardzo chcę się czegoś o tym dowiedzieć. Co powinienem zrobić..."
+    b "Nie mogę mu wprost powiedzieć, że mam tu mglistą panterę z Wutai, która potrzebuje mojej pomocy- ale bardzo chciałbym się czegoś o tym dowiedzieć. Jakby tu zacząć..."
 
 
 
@@ -6334,7 +6334,7 @@ translate polish day2_04_75679a39:
 
     # avt "\"It's all right— It's just, that... Well, are you familiar with Rukai traditions?\" "
 
-    avt "\"Wszystko w porządku— Ja tylko... chciałem wiedzieć, czy wiesz coś o tradycjach Rukai?\" "
+    avt "\"Wszystko w porządku— Ja tylko... chciałem wiedzieć- czy wiesz coś o tradycjach Rukai?\" "
 
 
 
@@ -6350,7 +6350,7 @@ translate polish day2_04_a72117e7:
 
     voice voice_file.jiahao(3,8)
 
-    jiahao "\"Tradycje Rukai? Coś tam wiem. Co chciałbyś wiedzieć?\" "
+    jiahao "\"Tradycjach Rukai? Coś tam kojarzę. Zależy co chciałbyś wiedzieć.\" "
 
 
 
@@ -6412,9 +6412,9 @@ translate polish day2_04_0e309a9a:
 
     voice voice_file.jiahao(3,10)
 
-    jiahao "\"Nie wiem, na ten moment nic mi nie przychodzi do głowy.\""
+    jiahao "\"Nie wiem, w tej chwili nic nie przychodzi mi do głowy.\""
 
-    jiahao "\"Już mówiłem, nie wiem aż tak dużo na ten temat.\" "
+    jiahao "\"Jak mówiłem, nie orientuję się w tym za dobrze.\" "
 
 
 
@@ -6442,7 +6442,7 @@ translate polish day2_04_d0d19db7:
 
     # avt "\"Really? Please ask her for me! I'd owe you one.\" "
 
-    avt "\"Naprawdę? Proszę zrób to dla mnie! Będę twoim dłużnikiem.\" "
+    avt "\"Naprawdę? Proszę, zrób to dla mnie! Będę twoim dłużnikiem.\" "
 
 
 
@@ -6472,9 +6472,9 @@ translate polish day2_04_e276f905:
 
     # b "I am kinda worried that Leopard overheard what we were talking about... luckily he's too busy watching some of the guys practicing to take notice. Or for that matter, see how embarrassed I was... "
 
-    b "Żegnam się z Jiahao, a on odchodzi. Trochę mi ulżyło, że mam to już za sobą. "
+    b "Żegnam się z Jiahao, po czym odchodzi. Trochę mi ulżyło, że mam to już za sobą. "
 
-    b "Martwi mnie trochę, że Pantera mógł nas podsłuchać... Na szczęście jest zbyt zajęty oglądaniem jak ćwiczą inni, by zwracać na cokolwiek uwagę. Albo co gorsza zobaczyć, jak bardzo byłem zawstydzony.. "
+    b "Martwi mnie trochę, że Pantera mógł nas podsłuchać... Na szczęście jest zbyt zajęty oglądaniem ćwiczących, by zwracać na cokolwiek uwagę. Albo co gorsza- zobaczyć, jak bardzo byłem zawstydzony.. "
 
 
 
@@ -6490,9 +6490,9 @@ translate polish day2_04_d33b7345:
 
     # b "Guess he could have just not remembered it like he said... "
 
-    b "Niemniej to trochę dziwne. Jiahao pewnie wiedziałby coś o wszystkich ważnych bogach Rukai, ale nie przypominał sobie żadnych mglistych panter. "
+    b "Niemniej to trochę dziwne. Jiahao pewnie wiedziałby coś o każdym z ważnych bogów Rukai, ale nie przypominał sobie żadnych mglistych panter. "
 
-    b "Czy naprawdę może ich tam nie być? Nawet będąc tak skromnym na temat tego co wie, jego wiedza jest naprawdę imponująca. "
+    b "Czy naprawdę może ich tam nie być? W końcu mimo że jest skromny w stosunku swojej wiedzy, ta jest naprawdę imponująca. "
 
     b "Może po prostu wyleciało mu to z głowy, tak jak sam powiedział... "
 
@@ -6506,7 +6506,7 @@ translate polish day2_04_3377f376:
 
     # b "I start to wonder if I should ask Leopard about it when I'm interrupted by Senpai coming back over. "
 
-    b "Zaczynam się zastawiać, czy nie powinienem spytać się o to Pantery, ale moje przemyślenia przerywa mi powrót Senpai'a. "
+    b "Zaczynam się zastawiać, czy nie powinienem spytać się o to Pantery- ale moje przemyślenia przerywa mi powrót Senpai'a. "
 
 
 
@@ -6522,7 +6522,7 @@ translate polish day2_04_ffd4a09d:
 
     voice voice_file.lpdcat(3,77)
 
-    lpdcat normal "\"Liao, wybacz, że kazałem ci tak długo na siebie czekać~\" "
+    lpdcat normal "\"Liao- wybacz, że kazałem ci tak długo na siebie czekać~\" "
 
 
 
@@ -6550,7 +6550,7 @@ translate polish day2_04_edf4049c:
 
     # avt "\"I'm fine. It's just... well honestly, some guys were making fun of me. It just put me off a bit.\" "
 
-    avt "\"Nic mi nie jest... To tylko... szczerze mówiąc, paru gości się ze mnie nabijało. Trochę mnie to przybiło.\" "
+    avt "\"Nic mi nie jest... To tylko... szczerze mówiąc, paru gości się ze mnie nabijało. Trochę mnie to zdołowało.\" "
 
 
 
@@ -6566,7 +6566,7 @@ translate polish day2_04_3bb89b30:
 
     voice voice_file.lpdcat(3,79)
 
-    lpdcat normal "\"Nabijali się z Liao? A to z czego?\" "
+    lpdcat normal "\"Nabijali się z Liao? A to dlaczego?\" "
 
 
 
@@ -6582,7 +6582,7 @@ translate polish day2_04_ed696fc6:
 
     avt "\"...chodzi o ciebie.\" "
 
-    avt "\"Zauważyli, że spędzam z tobą więcej czasu niż dotychczas... Wokół tego narosło już trochę plotek.\" "
+    avt "\"Zauważyli, że spędzam z tobą więcej czasu niż dotychczas... Narosło już wokół tego trochę plotek.\" "
 
 
 
@@ -6682,7 +6682,7 @@ translate polish day2_04_3ae40ba0:
 
     # avt "\"Whatever, it's not like you'll always be around to stop them...\" "
 
-    avt "\"Możesz tak sobie mówić. Nie zawsze będziesz w pobliżu, by ich powstrzymać...\" "
+    avt "\"Możesz tak sobie mówić. Ale nie zawsze będziesz w pobliżu, by ich powstrzymać...\" "
 
 
 
@@ -6776,7 +6776,7 @@ translate polish day2_04_7cfea69d:
 
     voice voice_file.lpdcat(3,87)
 
-    lpdcat normal "\"Po prostu miej na to wywalone. Będę tutaj by cię chronić Liao, nie ważne co się wydarzy.\" "
+    lpdcat normal "\"Po prostu miej na to wywalone. Będę tutaj by cię chronić Liao, nieważne co się wydarzy.\" "
 
     lpdcat normal "\"Nie martw się już o to, zgoda?\" "
 
@@ -6838,7 +6838,7 @@ translate polish day2_04_b331c981:
 
     lpdcat normal "\"Nie obchodzi mnie to. Jak mówiłem, będę cię chronić Liao. Bez względu na to, czy mi ufasz, czy też nie.\" "
 
-    lpdcat normal "\"Poza tym, to że mi nie ufasz oznacza, że jestem dla ciebie zbyt słodki i sobie z tym nie radzisz~\" "
+    lpdcat normal "\"Poza tym- to że mi nie ufasz, oznacza że jestem dla ciebie zbyt słodki i sobie z tym nie radzisz~\" "
 
 
 
@@ -6894,7 +6894,7 @@ translate polish day2_04_5eaf5a02:
 
     voice voice_file.lpdcat(3,91)
 
-    lpdcat normal "\"No doooobra— Dam ci trochę spokoju. Właściwie to miałem już iść do domu i zabrać moje rzeczy. Dziś w klubie nie mamy nic więcej zaplanowanego, więc też możesz wrócić wcześniej.\" "
+    lpdcat normal "\"No doooobra— Dam ci trochę spokoju. Właściwie to miałem już iść do domu i zabrać moje rzeczy. Dziś w klubie nie mamy nic więcej w planach, więc też możesz wrócić wcześniej.\" "
 
 
 
@@ -6918,7 +6918,7 @@ translate polish day2_04_01198fa1:
 
     # b "There's no way I'm staying around with all the heat on me today... Issue is leaving with Senpai is just going to throw fuel on the fire... What to do? "
 
-    b "Nie ma mowy, że tu zostanę, po tym wszystkim co się stało... Problemem może być wyjście stąd z Senpai'em, które tylko doleje oliwy do ognia... Co robić? "
+    b "Nie ma mowy, żebym tu został- nie po tym wszystkim, co się stało... Problemem może być jedynie wyjście stąd z Senpai'em- które tylko doleje oliwy do ognia... Co tu robić? "
 
 
 
@@ -6960,9 +6960,9 @@ translate polish day2_04_9c739c89:
 
     # b "I pull my guardian tiger and pull the daydreaming clouded leopard aside and get my butt out of there as fast as possible, quickly making my way home. "
 
-    b "Cholera! On robi to specjalnie! Lepiej stąd sobie pójdę zanim ludzie zaczną zadawać mi pytania. "
+    b "Cholera! On to robi specjalnie! Lepiej stąd sobie pójdę zanim ludzie zaczną zadawać mi pytania. "
 
-    b "Wyciągam mojego tygrysiego strażnika wraz ze śniącym na jawie panterą i zabieram się stąd najszybciej jak to możliwe, rekordowo szybko docierając do domu. "
+    b "Wyciągam mojego tygrysiego strażnika wraz ze śniącym na jawie panterą i zabieram się stąd najszybciej, jak to tylko możliwe- docierając do domu w rekordowym tempie. "
 
 
 
@@ -6986,7 +6986,7 @@ translate polish day2_04_076a7bb0:
 
     # b "I chuck my backpack on the ground, just about ready to throw myself onto my bed... \nbut— " with vpunch
 
-    b "Ciskam plecak na podłogę, gotowy rzucić się na łóżko... ale— " with vpunch
+    b "Ciskam plecak na podłogę, gotów rzucić się na łóżko... ale— " with vpunch
 
 
 
@@ -7002,7 +7002,7 @@ translate polish day2_04_c5aa6e15:
 
     b "Nie mogę jeszcze odpocząć. Jestem cholernie zmęczony, ale nie mogę tak po prostu iść do łóżka bez wzięcia prysznica. "
 
-    b "Ostatkiem sił wzmagam się od miękkiego posłania i udaję do łazienki, wchodząc pod prysznic... "
+    b "Ostatkiem sił odsuwam się od miękkiego posłania i udaję do łazienki, wchodząc pod prysznic... "
 
 
 
@@ -7042,7 +7042,7 @@ translate polish day2_04_d6556212:
 
     # b "I open the door to find Senpai lugging a full on travel suitcase down the corridor... Where is he even going to put this much stuff. "
 
-    b "Otwieram drzwi i widzę Senpai'a, który ciągnie za sobą pełną walizkę podróżną przez korytarz... Gdzie on pomieści tyle rzeczy. "
+    b "Otwieram drzwi i widzę Senpai'a, który ciągnie pełną walizkę podróżną przez korytarz... Gdzie on pomieści tyle rzeczy. "
 
 
 
@@ -7054,7 +7054,7 @@ translate polish day2_04_a8bc0d99:
 
     # avt "\"Senpai... That bag's huge. Where are you even going to put it?\" "
 
-    avt "\"Senpai... Ta walizka jest ogromna. Gdzie ty chcesz ją postawić?\" "
+    avt "\"Senpai... Ta walizka jest ogromna. Gdzie ty chcesz ją niby postawić?\" "
 
 
 
@@ -7118,7 +7118,7 @@ translate polish day2_04_2bc015e8:
 
     b "Senpai wprasza się do pokoju, nucąc radosną melodię podczas rozpakowywania swych rzeczy. "
 
-    b "Skończył zanim się spostrzegłem i wybiera się do łazienki. "
+    b "Skończył zanim się spostrzegłem, po czym rusza do łazienki. "
 
 
 
@@ -7142,7 +7142,7 @@ translate polish day2_04_2cd3d7f8:
 
     # b "I collapse onto my bed, complaining to no one by myself. "
 
-    b "Przewracam się na łózko, narzekając sam do siebie. "
+    b "Przewracam się na łóżko, narzekając pod nosem. "
 
 
 
@@ -7158,7 +7158,7 @@ translate polish day2_04_d1d8ad77:
 
     voice voice_file.tig(3,58)
 
-    tig frown "\"Liao, już sam nie wiem, czy nie za bardzo się martwię... ale uważam, że powinieneś uważać na tego kociaka.\" "
+    tig frown "\"Liao, sam już nie wiem, czy nie za bardzo się martwię... ale wciąż sądzę, że powinieneś uważać na tego kociaka.\" "
 
 
 
@@ -7170,7 +7170,7 @@ translate polish day2_04_e847dba9:
 
     # avt "\"Hmm? What's wrong?\" "
 
-    avt "\"Hmm? Co jest nie tak?\" "
+    avt "\"Hmm? Co znowu nie tak?\" "
 
 
 
@@ -7186,7 +7186,7 @@ translate polish day2_04_47dc26fc:
 
     voice voice_file.tig(3,59)
 
-    tig frown "\"Krótko mówiąc, nie ufam mu. Nie mam powodu, by ufać tak zwanemu \"tygrysiemu strażnikowi\", który był przedtem yaoguai.\" "
+    tig frown "\"Krótko mówiąc, nie ufam mu. Nie widzę powodu, by ufać tak zwanemu \"tygrysiemu strażnikowi\", który był przedtem yaoguai.\" "
 
 
 
@@ -7216,9 +7216,9 @@ translate polish day2_04_acc414fe:
 
     voice voice_file.tig(3,60)
 
-    tig normal "\"Dokładnie. Nigdy wcześniej nie słyszałem o żadnych {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kotkach bengalskich{/font}, które są tygrysimi strażnikami.\" "
+    tig normal "\"Właśnie. Nigdy wcześniej nie słyszałem o żadnych {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kotkach bengalskich{/font}, które są tygrysimi strażnikami.\" "
 
-    tig normal "\"Nawet jeśli był z tobą szczery, musiał być kiedyś yaoguai, który został poskromiony i wzięty w opiekę przez miejscowego boga ziemi. Były yaoguai to wciąż yaoguai, miej to na uwadze.\" "
+    tig normal "\"Nawet jeśli był z tobą szczery- to kiedyś musiał być yaoguai, który został poskromiony i wzięty w opiekę przez miejscowego boga ziemi. Były yaoguai to wciąż yaoguai, miej to na uwadze.\" "
 
 
 
@@ -7242,7 +7242,7 @@ translate polish day2_04_f72ee3ca:
 
     # b "I mean I can't say his actions haven't been weird. I'm still not sure how I feel about him possessing Shu-Chi senpai... "
 
-    b "Ciężko powiedzieć, że nie zachowuje się czasem dziwnie. Wciąż nie wiem co mam myśleć o tym, że opętał Shu-Chi senpai'a... "
+    b "Ciężko zaprzeczyć, że czasem zachowuje się dziwnie. Wciąż nie wiem co mam myśleć o tym, że opętał Shu-Chi senpai'a... "
 
 
 
@@ -7256,9 +7256,9 @@ translate polish day2_04_ccce8250:
 
     # b "On top of that people are starting to think we're in a relationship... I feel bad for Yan Shu-Chi, this will be his problem too once it's all over. "
 
-    b "Teraz nim jest, ale co dzieje się z prawdziwym Yan Shu-Chi? "
+    b "Teraz nim jest, ale co się dzieje z prawdziwym Yan Shu-Chi? "
 
-    b "Poza tym ludzie zaczynają myśleć, że jesteśmy w związku... Trochę mi szkoda Yan Shu-Chi, bo będzie to też jego problem, gdy wszystko się skończy. "
+    b "Poza tym, ludzie zaczynają myśleć że jesteśmy w związku... Trochę mi szkoda Yan Shu-Chi- bo będzie to też jego problem, gdy wszystko się skończy. "
 
 
 
@@ -7282,7 +7282,7 @@ translate polish day2_04_793d30c2:
 
     # b "Honestly, I just need to sleep after all the drama today. "
 
-    b "Szczerze to po dzisiejszej aferze muszę się po prostu wyspać. "
+    b "Szczerze, to po dzisiejszej aferze muszę się po prostu wyspać. "
 
 
 
@@ -7318,6 +7318,6 @@ translate polish day2_04_3f96b96a:
 
     b "Zaczynam rozmyślać zamykając oczy. "
 
-    b "O wszystkim co się stało, o wszystkim co mogłem zrobić i to czego nie mogłem. Wszystko ciąży mi w głowie, gdy zasypiam... "
+    b "O wszystkim co się stało, o wszystkim co mogłem zrobić- i o tym, czego nie mogłem. Wszystko to obciąża mój umysł, gdy zasypiam... "
 
 
