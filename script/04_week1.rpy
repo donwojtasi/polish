@@ -502,7 +502,7 @@ translate polish week1_01_08ea3393:
 
     # b "Am I seeing things, or are their eyes {i}sparkling{/i} \ with desire? "
 
-    b "Czy mi się tylko zdaje, czy ich oczy {i}lśnią{/i} \ z zachwytu? "
+    b "Czy mi się tylko zdaje, czy ich oczy aż {i}lśnią{/i} \ z zachwytu? "
 
 
 
