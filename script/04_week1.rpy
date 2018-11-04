@@ -12,9 +12,9 @@ translate polish week1_01_16c1ee1c:
 
     # b "The same big cat is in my bed, sleeping away next to me... "
 
-    b "Budząc się rano następnego dnia, czuję obok mnie znajome, miękkie ciepło. "
+    b "Budząc się następnego ranka, czuję koło mnie znajome, miękkie ciepło. "
 
-    b "Ten sam duży kot jest w moim łóżku, śpiąc u mego boku... "
+    b "Ten sam duży kot śpi w moim łóżku, leżąc u mojego boku... "
 
 
 
@@ -28,9 +28,9 @@ translate polish week1_01_b85d4f87:
 
     # b "Sadly I can't sleep forever. It's about time for me to leave, so I get up out of bed and get ready to go to class... "
 
-    b "Cieszę się, że ubiegłej nocy nie robili afery z tego powodu. "
+    b "Cieszę się, że ubiegłej nocy nie robili już z tego powodu afery. "
 
-    b "Nie mogę spać cały dzień. Już prawie czas by wychodzić, a więc szybko wstaję z łóżka i szykuję się na zajęcia... "
+    b "Niestety nie mogę spać całego dnia. Już prawie czas, by wychodzić- tak więc szybko wstaję z łóżka i szykuję się do zajęć... "
 
 
 
@@ -46,7 +46,7 @@ translate polish week1_01_7109c66b:
 
     voice voice_file.tig(4,1)
 
-    tig normal "\"Czekaj Liao! Powinieneś lepiej się ubrać. Na zewnątrz jest dzisiaj chłodno.\" "
+    tig normal "\"Zaczekaj Liao! Powinieneś porządniej się ubrać. Na zewnątrz jest dzisiaj chłodno.\" "
 
 
 
@@ -74,7 +74,7 @@ translate polish week1_01_e04c0e72:
 
     voice voice_file.tig(4,2)
 
-    tig frown "\"Będzie, będzie. Wczoraj wyszedłeś dopiero po południu. To co innego.\" "
+    tig frown "\"Będzie, będzie. Wczoraj wyszedłeś dopiero po południu. A to zupełnie co innego.\" "
 
 
 
@@ -86,7 +86,7 @@ translate polish week1_01_f07976e9:
 
     # avt "\"Well... I'll be fine later on. Even Senpai's wearing even less than me.\" "
 
-    avt "\"No cóż... przecież później się ociepli. Senpai ubiera się jeszcze lżej ode mnie.\" "
+    avt "\"No cóż... przecież później zrobi się cieplej. Senpai ubiera się jeszcze lżej ode mnie.\" "
 
 
 
@@ -118,7 +118,7 @@ translate polish week1_01_d3ef246c:
 
     voice voice_file.tig(4,3)
 
-    tig frown "\"Hah- Kogo obchodzi ten kociak. Nawet z mocą tygrysiego strażnika nie uchroni swego ciała przed przeziębieniem... Z tobą sprawa ma się inaczej, tak długo jak jesteś pod wpływem mojego błogosławieństwa. \" "
+    tig frown "\"Hah- A kogo obchodzi ten kociak. Nawet z mocą tygrysiego strażnika nie uchroni swego ciała przed przeziębieniem... Z tobą natomiast, sprawy mają się inaczej- tak długo, jak jesteś pod wpływem mojego błogosławieństwa. \" "
 
 
 
@@ -146,7 +146,7 @@ translate polish week1_01_41bdf8f9:
 
     # avt "\"So... If you're with me, I'll be fine.\" "
 
-    avt "\"A więc nic mi nie grozi, tak długo jak przy mnie jesteś.\" "
+    avt "\"A więc... nic mi nie grozi, tak długo jak przy mnie jesteś?\" "
 
 
 
@@ -164,7 +164,7 @@ translate polish week1_01_d52e19ac:
 
     voice voice_file.tig(4,4)
 
-    tig normal "\"O ile mogę uchronić cię przed przeziębieniem, to moje błogosławieństwa na nic się zdadzą, jeśli już zachorujesz.\" "
+    tig normal "\"O ile mogę uchronić cię przed przeziębieniem, to moje błogosławieństwa na nic się zdadzą, jeżeli już zachorujesz.\" "
 
     tig normal "\"Dobry z ciebie dzieciak Liao, ale trochę dodatkowych ubrań nie zaszkodzi.\" "
 
@@ -204,9 +204,9 @@ translate polish week1_01_a2941021:
 
     # b "I can already tell I'll be hot after walking in it for a while... "
 
-    b "Wątpię, że mi się przyda, ale przynajmniej futerko grzeje mnie od środka. "
+    b "Wątpię, żeby mi się przydała- ale przynajmniej futerko grzeje mnie od środka. "
 
-    b "Już w tej chwili wiem, że jak w tym trochę pochodzę, to będzie mi za gorąco... "
+    b "Już teraz czuję, że jak w tym trochę pochodzę, to będzie mi za gorąco... "
 
 
 
@@ -242,7 +242,7 @@ translate polish week1_01_c35d05e6:
 
     # b "Once I make it to class, I sit down and things get started. At least Tiger and Leopard haven't got into any fights so far today. "
 
-    b "Docieram do klasy, siadam w ławce i rozpoczynają się zajęcia. Przynajmniej jak na razie Tygrys i Pantera nie wdali się w żadne walki. "
+    b "Zajęcia rozpoczynają się, gdy tylko docieram do klasy i siadam na swoim miejscu. Przynajmniej jak na razie, Tygrys i Pantera nie wdali się w żadne kłótnie. "
 
 
 
@@ -258,7 +258,7 @@ translate polish week1_01_18746a46:
 
     b "Może dotarło do nich to, co powiedziałem wczoraj... Tygrys siedzi w tylnym rogu sali wykładowej, wyraźnie niezadowolony z sytuacji. "
 
-    b "Tak, może nie być z tego powodu szczęśliwy, ale przynajmniej nie szykuje się do bójki. "
+    b "Może i nie jest z tego powodu szczęśliwy, ale przynajmniej nie szykuje się do bójki. "
 
 
 
@@ -270,7 +270,7 @@ translate polish week1_01_8be4e828:
 
     # b "Leopard sits next to me, focusing completely on the lecture. Compared to Senpai tapping away on his phone, he's an honour student. "
 
-    b "Pantera siedzi przy mnie, całkowicie pochłonięty wykładem. Jest wzorowym studentem w porównaniu do Senpai'a, który cały czas przegląda telefon. "
+    b "Pantera siedzi przy mnie, całkowicie pochłonięty wykładem. Jest wzorowym studentem w porównaniu do Senpai'a- który nic, tylko bawi się telefonem. "
 
 
 
@@ -282,7 +282,7 @@ translate polish week1_01_758ce164:
 
     # b "...But I doubt he would understand a word the teacher's saying. Why is he trying so \nhard? "
 
-    b "...wątpię, by rozumiał cokolwiek z tego, co mówi wykładowca. Czemu tak bardzo się stara? "
+    b "...choć wątpię, by rozumiał cokolwiek z tego, co mówi wykładowca. Dlaczego tak bardzo się stara? "
 
 
 
@@ -308,9 +308,9 @@ translate polish week1_01_f72f9ca3:
 
     # b "(I hope he's not picking up anything weird from this.) "
 
-    b "Co raczej nie jest dobrym pomysłem. Uczymy się rzeczy na poziomie akademickim, to zbyt skomplikowane. "
+    b "Co raczej nie jest dobrym pomysłem. Uczymy się rzeczy na poziomie akademickim, to dla niego zbyt skomplikowane. "
 
-    b "(Mam nadzieję, że nie podłapie niczego dziwnego.)"
+    b "(Mam tylko nadzieję, że nie podłapie niczego dziwnego.)"
 
 
 
@@ -350,7 +350,7 @@ translate polish week1_01_20b0b03f:
 
     # avt "\"That'd be way too expensive! I'm a poor student here you know.\" "
 
-    avt "\"Tam jest o wiele za drogo! Jestem tylko biednym studentem, wiesz... \" "
+    avt "\"I są wiele za drogie! Jestem w końcu tylko biednym studentem... \" "
 
 
 
@@ -366,7 +366,7 @@ translate polish week1_01_6badb2f5:
 
     voice voice_file.lpdcat(4,4)
 
-    lpdcat wronged "\"Jedzenie w stołówce nie jest wcale romantyczne...\" "
+    lpdcat wronged "\"Jedzenie w stołówce nie jest ani trochę romantyczne...\" "
 
 
 
@@ -378,7 +378,7 @@ translate polish week1_01_d311185b:
 
     # avt "\"I don't want anything romantic. What kind of person dines at fancy restaurants every day anyway.\" "
 
-    avt "\"Nie chcę nic romantycznego. Kto w ogóle stołuje się codziennie w tych wymyślnych restauracjach.\" "
+    avt "\"Nie chcę nic romantycznego. Kto w ogóle stołuje się na co dzień w tych wymyślnych restauracjach.\" "
 
 
 
@@ -394,7 +394,7 @@ translate polish week1_01_64a9da35:
 
     voice voice_file.lpdcat(4,5)
 
-    lpdcat wronged "\"Och wiesz co mam na myśli... To nie musi być nic \"wymyślnego\". Po prostu chcę spędzić z tobą czas w miłym miejscu.\" "
+    lpdcat wronged "\"Och, wiesz co mam na myśli... To nie musi być przecież nic \"wymyślnego\". Po prostu chcę spędzić z tobą czas w miłym miejscu.\" "
 
 
 
@@ -438,7 +438,7 @@ translate polish week1_01_02b9a58f:
 
     voice voice_file.lpdcat(4,7)
 
-    lpdcat cry_2 "\"Weee- Liao, ale jesteś dla mnie niedobry~\" "
+    lpdcat cry_2 "\"Weee- Liao, ale ty jesteś dla mnie niedobry~\" "
 
 
 
@@ -502,7 +502,7 @@ translate polish week1_01_08ea3393:
 
     # b "Am I seeing things, or are their eyes {i}sparkling{/i} \ with desire? "
 
-    b "Czy mi się tylko zdaje, czy im aż się oczy {i}świecą{/i} \ na ich widok? "
+    b "Czy mi się tylko zdaje, czy ich oczy {i}lśnią{/i} \ z zachwytu? "
 
 
 
@@ -518,7 +518,7 @@ translate polish week1_01_9d8f7a13:
 
     b "Tygrys podnosi burgera swoimi wielkimi łapami, które zakrywają go niemal w całości. "
 
-    b "Następnie jednym chapsem zjada w sekundę. "
+    b "Następnie pochłania go jednym chapsem. "
 
 
 
@@ -534,7 +534,7 @@ translate polish week1_01_776185b7:
 
     voice voice_file.tig(4,6)
 
-    tig laugh_2 "\"Hmm... niezłe! Pieczywo przyjemnie chrupie w ustach. Naprawdę dobre, mimo że nie ma tu zbyt dużo mięsa.\" "
+    tig laugh_2 "\"Hmm... nie najgorsze! Pieczywo przyjemnie chrupie w ustach. Naprawdę dobre, mimo że nie ma tu zbyt dużo mięsa.\" "
 
 
 
@@ -558,7 +558,7 @@ translate polish week1_01_1b9fed31:
 
     # avt "\"Oh, the hamburger's still here...\" "
 
-    avt "\"Och, hamburger wciąż tu jest...\" "
+    avt "\"Och, ten hamburger wciąż tu jest...\" "
 
 
 
@@ -574,7 +574,7 @@ translate polish week1_01_5a6731b0:
 
     voice voice_file.lpdcat(4,8)
 
-    lpdcat normal "\"Nie mówiłem ci tego wczoraj? Bóg pochłania jedynie energię Qi z ofiary. Oni nie jedzą prawdziwego jedzenia, więc to co zostało jest dla ciebie.\" "
+    lpdcat normal "\"Nie mówiłem ci tego wczoraj? Bóg pochłania jedynie energię Chi z ofiary. Tak naprawdę to jej nie zjada- możesz to zrobić samemu.\" "
 
 
 
@@ -586,7 +586,7 @@ translate polish week1_01_100ce514:
 
     # b "\"So what he ate was the Chi form of the burger? I guess it makes no difference to me.\" "
 
-    b "\"A więc to co zjadł, było energią Qi z burgera? Myślę, że mi to nie robi różnicy.\" "
+    b "\"A więc to co zjadł, było jedynie energią Chi burgera? Myślę, że nie robi mi to różnicy.\" "
 
 
 
@@ -598,7 +598,7 @@ translate polish week1_01_3cb6ce2e:
 
     # b "\"Even with Senpai's explanation, it's still kinda hard to believe that burger just got split in two...\" "
 
-    b "\"Nawet po tłumaczeniach Senpai'a ciężko mi uwierzyć, że burger po prostu rozdzielił się na dwie części...\" "
+    b "\"Nawet po wyjaśnieniach Senpai'a ciężko mi uwierzyć, że burger tak po prostu rozdzielił się na dwie części...\" "
 
 
 
@@ -622,7 +622,7 @@ translate polish week1_01_da85e5a1:
 
     # b "\"Even though I'm worrying about him, there's no way I could finish a third burger. The other one's for Leopard anyway.\" "
 
-    b "\"Mimo że się o niego martwię, to nie ma szans, bym zjadł trzeciego burgera. Drugi natomiast jest dla Pantery.\" "
+    b "\"Mimo że się o niego martwię- nie ma szans, bym zjadł trzeciego burgera. Bo drugi jest dla Pantery.\" "
 
 
 
@@ -638,7 +638,7 @@ translate polish week1_01_3de6f728:
 
     voice voice_file.tig(4,7)
 
-    tig laugh_1 "\"Nie przejmuj się. Chciałem tylko skosztować smaku. Nie jestem wcale głodny. A nawet gdybym był, nie byłbyś w stanie więcej zjeść, prawda?\" "
+    tig laugh_1 "\"Nie przejmuj się- chciałem tylko skosztować smaku. Nie jestem wcale głodny. A nawet gdybym był- i tak nie jesteś już w stanie więcej zjeść, prawda?\" "
 
 
 
@@ -666,7 +666,7 @@ translate polish week1_01_680f94e1:
 
     voice voice_file.tig(4,8)
 
-    tig laugh_1 "\"Jeśli naprawdę chciałbyś dać mi jeszcze jednego, to z przyjemnością wezmę tego, który ma ten aborygen.\" "
+    tig laugh_1 "\"Jeśli jednak naprawdę chciałbyś dać mi jeszcze jednego- to z przyjemnością wezmę tego, który ma ten aborygen.\" "
 
 
 
@@ -678,7 +678,7 @@ translate polish week1_01_aaee063f:
 
     # b "Just as he says that the leopard grabs his burger in a hurry, ready to eat it at a moment's notice. "
 
-    b "Gdy tylko to powiedział, Pantera chwyta szybko swojego hamburgera, gotów go zjeść w każdej chwili. "
+    b "Gdy tylko to powiedział, Pantera chwyta szybko swojego hamburgera- gotów go zjeść w każdej chwili. "
 
 
 
@@ -690,7 +690,7 @@ translate polish week1_01_cc901b43:
 
     # b "Leopard sneers at Tiger, who returns with a contemptuous stare of his own. It seems like a fight could break out at any moment. "
 
-    b "Pantera uśmiecha się drwiąco do Tygrysa, który odpowiada pogardliwym spojrzeniem. Wygląda na to, że walka może wybuchnąć w każdej chwili. "
+    b "Pantera uśmiecha się drwiąco do Tygrysa, który odpowiada pogardliwym spojrzeniem. Wygląda na to, że znów niewiele brakuje do sprzeczki. "
 
 
 
@@ -714,7 +714,7 @@ translate polish week1_01_084b49f3:
 
     # b "I interrupt them in an effort to avoid a fight. It seems to go over well enough... but, in the end, is it really the burgers they want or what? "
 
-    b "Przerywam im w ich zaczepkach, by zachować spokój. Zdaje się, że podziałało... ale czy im w ogóle chodzi o burgery, czy może o coś innego?"
+    b "Przerywam im w zaczepkach, by zachować spokój. Zdaje się, że podziałało... ale czy im tak naprawdę chodzi o te burgery, czy może o coś innego?"
 
 
 
@@ -726,7 +726,7 @@ translate polish week1_01_dd748630:
 
     # b "After class I show up with Senpai at dance club. As you could guess, us coming together caused an uproar. "
 
-    b "Po zajęciach idę wraz z Senpai'em do klubu tanecznego. Nasze przyjście razem wywołało niezłe zamieszanie, tak jak można się było spodziewać. "
+    b "Po zajęciach idę wraz z Senpai'em do klubu tanecznego. Nasze wspólne przyjście wywołało niezłe zamieszanie, jak można się było spodziewać. "
 
 
 
@@ -742,7 +742,7 @@ translate polish week1_01_fe4c4753:
 
     b "Teraz to już wszyscy słyszeli plotki o naszej rzekomej miłości. "
 
-    b "Dla dobra nas obu, przed przyjściem powiedziałem mu, by wszystkiemu zaprzeczył i trzymał się na dystans... "
+    b "Dla dobra nas obu, przed przyjściem powiedziałem mu, by wszystkiemu zaprzeczał i trzymał się ode mnie z dala... "
 
 
 
@@ -754,7 +754,7 @@ translate polish week1_01_3f3649d4:
 
     # b "It took a bit of work though. He didn't agree until I threatened to kick him out. Thank god he did though, I can finally talk to the other guys now. "
 
-    b "Nie było to wcale łatwe. Nie zgodził się dopóki nie zagroziłem, że go wyrzucę. Dobrze, że mi się udało i wreszcie mogę w spokoju pogadać z resztą chłopaków. "
+    b "A to nie było takie proste. Nie zgodził się- dopóki nie zagroziłem, że go wyrzucę. Na szczęście w końcu dał się przekonać, i wreszcie mogę w spokoju pogadać z resztą chłopaków. "
 
 
 
@@ -794,7 +794,7 @@ translate polish week1_01_470f3b8c:
 
     # avt "\"He's totally just trying to mess with me...\" "
 
-    avt "\"On po prostu się zgrywa...\" "
+    avt "\"On się po prostu zgrywa...\" "
 
 
 
@@ -812,7 +812,7 @@ translate polish week1_01_d561cfd7:
 
     voice voice_file.clubmate(4,2)
 
-    clubmate "\"Tak, ale po raz pierwszy publicznie wyznał komuś swą miłość, a to nie w jego stylu. To po prostu nie wygląda na głupi żart, wiesz?\" "
+    clubmate "\"Tak, ale po raz pierwszy publicznie wyznał komuś swą miłość- a to nie w jego stylu. To nie do końca wygląda na głupi żart, wiesz?\" "
 
     clubmate "\"Naprawdę, nie masz się czego wstydzić.\" "
 
@@ -826,7 +826,7 @@ translate polish week1_01_7e6bc4d7:
 
     # avt "\"The only thing that's true is that we're not a thing. I don't have to deny it any more than that, right?\" "
 
-    avt "\"Jedynym faktem jest to, że nic między nami nie zaszło. Chyba nie muszę już tego bardziej tłumaczyć? \" "
+    avt "\"Faktem jest to, że nic między nami nie zaszło. Czy naprawdę muszę to ciągle tłumaczyć? \" "
 
 
 
@@ -842,7 +842,7 @@ translate polish week1_01_d2fdb7bb:
 
     voice voice_file.clubmate(4,3)
 
-    clubmate "\"Hej- wciąż tego nie kupuję. W takim razie, z jakiego powodu bylibyście tak blisko?\" "
+    clubmate "\"Hej- wciąż tego nie kupuję. Z jakiego innego powodu bylibyście tak blisko?\" "
 
 
 
@@ -854,7 +854,7 @@ translate polish week1_01_76ae5720:
 
     # avt "\"Ugh... I told you it's all Senpai who...\" "
 
-    avt "\"Uhh... Mówiłem ci, to wszystko Senpai, który...\" "
+    avt "\"Uhh... Mówiłem ci już, to wszystko Senpai, który...\" "
 
 
 
@@ -866,7 +866,7 @@ translate polish week1_01_9fcdc57e:
 
     # b "I can't focus on practise while being questioned like this so I decide to take a break, taking a seat in corner of the veranda room. "
 
-    b "Nie mogę skupić się na ćwiczeniach, gdy cały czas ktoś mnie zaczepia, więc postanawiam zrobić sobie przerwę, siadając w rogu werandy. "
+    b "Nie mogę skupić się na ćwiczeniach, gdy cały czas ktoś mnie zaczepia- więc postanawiam zrobić sobie przerwę, siadając w rogu werandy. "
 
 
 
@@ -882,7 +882,7 @@ translate polish week1_01_0dac62bb:
 
     voice voice_file.tig(4,9)
 
-    tig frown "\"Liao, chciałbyś bym przemówił temu kociakowi do rozsądku?\" "
+    tig frown "\"Liao, nie chciałbyś bym przemówił temu kociakowi do rozsądku?\" "
 
 
 
@@ -894,7 +894,7 @@ translate polish week1_01_24430ea2:
 
     # avt "\"No thanks. It doesn't matter that much. Even if he's being annoying...\" "
 
-    avt "Nie, dzięki. Nie ma to dla mnie aż tak dużego znaczenia. Nawet jeśli bywa irytujący...\" "
+    avt "Nie, dzięki. Nie ma to dla mnie aż takiego znaczenia. Nawet jeśli bywa irytujący...\" "
 
 
 
@@ -906,7 +906,7 @@ translate polish week1_01_35e60f7e:
 
     # b "That and I don't want to see them fight each other... I don't even want to think about what would happen if they got into a fight here. "
 
-    b "Poza tym, nie chcę widzieć jak ze sobą walczą... Nawet nie chcę myśleć, co by się stało, gdyby wdali się tutaj w walkę. "
+    b "Poza tym, nie chcę patrzeć jak ze sobą wojują... Nawet nie chcę myśleć co by się stało, gdyby wdali się tutaj w bójkę. "
 
 
 
@@ -930,7 +930,7 @@ translate polish week1_01_288a4b48:
 
     # b "He's moving his hands and fingers, imitating their movements. I figured he paid attention in class to learn Mandarin, but why would he want to learn how to dance? "
 
-    b "Naśladuje ich ruchy, ruszając rękami i nogami. Zauważyłem, że uważnie słuchał na wykładzie, chcąc nauczyć się mandaryńskiego. Ale dlaczego chciałby uczyć się tańca? "
+    b "Naśladuje ich ruchy, odpowiednio ruszając rękami i nogami. Widziałem że uważnie słuchał na wykładzie, chcąc nauczyć się mandaryńskiego. Ale dlaczego chciałby uczyć się tańca? "
 
 
 
@@ -946,7 +946,7 @@ translate polish week1_01_edc9f91c:
 
     # b "But suddenly Senpai comes up to me. "
 
-    b "Oglądając jak Pantera i inni tańczą, siedzę w koncie aż do końca dzisiejszego spotkania. "
+    b "Oglądając jak Pantera i inni tańczą, siedzę w kącie do samego końca dzisiejszego spotkania. "
 
     b "Gdy lider klubu ogłasza, że jesteśmy wolni, bierzemy swoje rzeczy i szykujemy się do wyjścia... "
 
@@ -978,7 +978,7 @@ translate polish week1_01_b2f641d5:
 
     # avt "\"Senpai, I told you not to talk to me during practice.\" "
 
-    avt "\"Senpai, mówiłem ci żebyś ze mną nie rozmawiał podczas treningu.\" "
+    avt "\"Senpai, mówiłem ci chyba żebyś ze mną nie rozmawiał podczas treningu.\" "
 
 
 
@@ -994,7 +994,7 @@ translate polish week1_01_2ed7db07:
 
     voice voice_file.lpdcat(4,10)
 
-    lpdcat normal "\"Hej, teraz się nie liczy, bo już się skończył, {i}co nie{/i}?\" "
+    lpdcat normal "\"Hej, teraz się nie liczy, bo już się skończył- {i}co nie{/i}?\" "
 
 
 
@@ -1022,7 +1022,7 @@ translate polish week1_01_843687ac:
 
     voice voice_file.lpdcat(4,11)
 
-    lpdcat cute "\"Jeśli naprawdę jesteśmy parą... to możemy wyglądać tak podejrzanie jak chcemy~\" "
+    lpdcat cute "\"Jeśli naprawdę jesteśmy parą... to możemy wyglądać tak podejrzanie jak tylko chcemy~\" "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish week1_01_69c75839:
 
     voice voice_file.lpdcat(4,12)
 
-    lpdcat panic "\"Aaa...hahaha, tylko żartuję... Równie dobrze mogę iść z tobą Liao. Za dużo z tym kłopotów, by otwierać drzwi tylko dla mnie, wiesz?\" "
+    lpdcat panic "\"Aaa...hahaha, tylko żartuję... Równie dobrze mogę iść z tobą Liao. W końcu za dużo z tym kłopotów, by otwierać drzwi specjalnie dla mnie.\" "
 
 
 
@@ -1062,7 +1062,7 @@ translate polish week1_01_3c226421:
 
     # avt "\"Actually no, I don't know. It's simply just too easy for me to open the door for you.\" "
 
-    avt "\"Właściwie to nie, nie wiem. Po prostu zbyt łatwo przychodzi mi, otwieranie dla ciebie drzwi.\" "
+    avt "\"Właściwie to nie. Otwieranie drzwi to żaden problem.\" "
 
 
 
@@ -1078,7 +1078,7 @@ translate polish week1_01_5219190c:
 
     voice voice_file.lpdcat(4,13)
 
-    lpdcat panic "\"Ach- To nic złego iść razem do domu!\" "
+    lpdcat panic "\"Ach- Ale to przecież nic złego iść razem do domu!\" "
 
 
 
@@ -1102,7 +1102,7 @@ translate polish week1_01_7f154c59:
 
     # b "As much as I want to refuse him I also don't feel right letting his hopes down all the \ntime. "
 
-    b "Tak bardzo jak chcę mu odmówić, czuję się z tym źle, gdy za każdym jednym razem go zawodzę. "
+    b "Mimo że chciałbym mu odmówić, źle się czuję spławiając go za każdym razem. "
 
 
 
