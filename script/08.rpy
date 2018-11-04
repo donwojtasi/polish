@@ -278,7 +278,7 @@ translate polish s08_0354e114:
 
     voice voice_file.tig(8,8)
 
-    tig frown ""
+    tig frown "\"...Pewnie. Jeśli tak ma być, podejmij szybko decyzję, aby inni mogli odejść.\" "
 
 
 
