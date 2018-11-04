@@ -150,7 +150,7 @@ translate polish s07_f59d6116:
 
     # avt "\"You always want to go somewhere {i}every{/i} \ week!\" "
 
-    avt "\"{i}Co{/i} \ tydzień zawsze chcesz gdzieś iść!\" "
+    avt "\"{i}Co{/i} \ tydzień chcesz gdzieś iść!\" "
 
 
 
