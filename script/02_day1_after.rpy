@@ -2440,7 +2440,7 @@ translate polish day1_after_01_lpd_76103575:
 
     b "Czuję, że może być mu ciężko wytłumaczyć mi to wszystko. "
 
-    b "Sądząc po jego słabym mandaryńskim, zadawanie złożonych pytań do niczego mnie nie doprowadzi."
+    b "Sądząc po jego słabym mandaryńskim, zadawanie złożonych pytań do niczego mnie nie doprowadzi. "
 
 
 
@@ -3558,7 +3558,7 @@ translate polish day1_after_01_lpdcat_86665f32:
 
     voice voice_file.lpdcat(2,42)
 
-    lpdcat not_reconcile "\"Ahhh- nie bądź taki okrutny...\nCzy-czy naprawdę... jestem aż tak zły...?" with hshake
+    lpdcat not_reconcile "\"Ahhh- nie bądź taki okrutny...\nCzy-czy naprawdę... jestem aż tak zły...?\" " with hshake
 
 
 

@@ -4772,7 +4772,7 @@ translate polish day2_02_69f2966d:
 
     # b "We find a corner to drop off our things while the other club members stand around and talk to each other. "
 
-    b "Miejsce spotkań klubu tanecznego nazywamy {i}ścianą luster{/i}. To w zasadzie otwarta weranda z tylną ścianą pokrytą lustrami."
+    b "Miejsce spotkań klubu tanecznego nazywamy {i}ścianą luster{/i}. To w zasadzie otwarta weranda z tylną ścianą pokrytą lustrami. "
 
     b "Znajdujemy wolny kąt w którym zostawiamy swoje rzeczy. Inni członkowie klubu stoją już wokoło i rozmawiają w najlepsze. "
 
@@ -5474,7 +5474,7 @@ translate polish day2_03_normal_54ab841f:
 
     # avt "\"There's no way that will work, and you know that well Senpai. I'd have no tutor, or clubmates. So I wouldn't get anywhere.\" "
 
-    avt "\"Nie ma szans, by to zadziałało- i dobrze o tym wiesz Senpai. Nie miałbym nauczyciela ani kolegów z klubu. W ten sposób niczego bym nie osiągnął.\""
+    avt "\"Nie ma szans, by to zadziałało- i dobrze o tym wiesz Senpai. Nie miałbym nauczyciela ani kolegów z klubu. W ten sposób niczego bym nie osiągnął.\" "
 
 
 
@@ -6412,7 +6412,7 @@ translate polish day2_04_0e309a9a:
 
     voice voice_file.jiahao(3,10)
 
-    jiahao "\"Nie wiem, w tej chwili nic nie przychodzi mi do głowy.\""
+    jiahao "\"Nie wiem, w tej chwili nic nie przychodzi mi do głowy.\" "
 
     jiahao "\"Jak mówiłem, nie orientuję się w tym za dobrze.\" "
 

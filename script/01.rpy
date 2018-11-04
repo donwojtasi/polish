@@ -40,7 +40,7 @@ translate polish start_192da5bd:
 
     # b "Probably still in my bag then... "
 
-    b "Wreszcie docieram na górę, witany przez moje drzwi."
+    b "Wreszcie docieram na górę, witany przez moje drzwi. "
 
     b "Wzdychając z ulgą, upuszczam plecak na podłogę i szukam kluczy. "
 
@@ -218,7 +218,7 @@ translate polish start_8e2b03de:
 
     # b "I lose my grip around my bag, letting it slip and hit the floor below with a THUD. "
 
-    b "Tracę uścisk w dłoni, upuszczając plecak, który ląduje z HUKIEM na podłodze."
+    b "Tracę uścisk w dłoni, upuszczając plecak, który ląduje z HUKIEM na podłodze. "
 
 
 
@@ -258,7 +258,7 @@ translate polish start_d82b9833:
 
     # b "H-{w=0.2}He can talk? He called me Liao... So he knows my name too? "
 
-    b "P-{w=0.2}Potrafi mówić? I nazwał mnie Liao... A więc zna moje imię?"
+    b "P-{w=0.2}Potrafi mówić? I nazwał mnie Liao... A więc zna moje imię? "
 
 
 
@@ -396,7 +396,7 @@ translate polish start_50022975:
 
     b "Powiedział, że \"nie mogłem wcześniej go zobaczyć\"... "
 
-    b "Czy to oznacza, że był tu przez cały ten czas?"
+    b "Czy to oznacza, że był tu przez cały ten czas?! "
 
 
 
@@ -1146,7 +1146,7 @@ translate polish start_07254d1b:
 
     # b "I can't just have someone walking in here and seeing a real, living, breathing \ntiger-man! "
 
-    b "Spoglądam na tygrysa siedzącego na moim łóżku... {w=0.5}M-Muszę go ukryć!"
+    b "Spoglądam na tygrysa siedzącego na moim łóżku... {w=0.5}M-Muszę go ukryć! "
 
     b "Nie mogę pozwolić, by ktoś tu wszedł i zastał prawdziwego człowieka-tygrysa z krwi i kości! "
 
@@ -1810,7 +1810,7 @@ translate polish start_5fb3d600:
 
     # b "I mean he did go out of his way to awaken these powers, and after all that I just refused him straight out... "
 
-    b "Chociaż tego nie okazuje, to myślę że go zawiodłem..."
+    b "Chociaż tego nie okazuje, to myślę że go zawiodłem... "
 
     b "Zadał sobie tyle trudu, by obudzić we mnie te moce, a po tym wszystkim ja z miejsca mu odmawiam... "
 
@@ -1984,7 +1984,7 @@ translate polish start_6f0b2da2:
 
     voice voice_file.tig(1,29)
 
-    tig angry "\"To jest MÓJ interes, nie TWÓJ.\""
+    tig angry "\"To jest MÓJ interes, nie TWÓJ.\" "
 
 
 
@@ -3182,7 +3182,7 @@ translate polish start_45ee8e63:
 
     voice voice_file.lpdcat(1,28)
 
-    lpdcat panic "\"Przez setki lat nie pojawi się nikt inny z taką mocą..."
+    lpdcat panic "\"Przez setki lat nie pojawi się nikt inny z taką mocą...\" "
 
     lpdcat panic "\"Nie mówiąc już o czasie, który mi pozostał...\" "
 
@@ -4708,7 +4708,7 @@ translate polish start_0b00bfd1:
 
     # avt "\"How could you not find it? There's only one closet in my room...\" "with hshake
 
-    avt "\"Jak mogłeś nic nie znaleźć? W moim pokoju jest tylko jedna szafa...\"" with hshake
+    avt "\"Jak mogłeś nic nie znaleźć? W moim pokoju jest tylko jedna szafa...\" " with hshake
 
 
 
