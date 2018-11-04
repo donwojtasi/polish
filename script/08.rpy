@@ -293,7 +293,7 @@ translate polish s08_9ef37fa0:
 
     # avt "\"I know...\" "
 
-    avt "\" Wiem..."\"
+    avt "\" Wiem...\" "
 
 
 
