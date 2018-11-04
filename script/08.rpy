@@ -123,7 +123,7 @@ translate polish s08_8fab4e9e:
 
     # b "The temple back home is really big... there's also {i}heaps{/i} \ of statues... {w=0.5}If all the guardian tigers are as big as the one I've seen, there's no way they'd all fit! "
 
-    b "Świątynia w domu jest ogromna... i jest w niej {i}masa{i} \ posążków... {w=0.5}Jeśli wszyscy tygysi strażnicy są aż tak duzi jak ten którego widziałem, nie ma opcji żeby się taam zmieścili!" "
+    b "Świątynia w domu jest ogromna... i jest w niej {i}masa{i} \ posążków... {w=0.5}Jeśli wszyscy tygysi strażnicy są aż tak duzi jak ten którego widziałem, nie ma opcji żeby się taam zmieścili! "
 
 
 
@@ -147,7 +147,7 @@ translate polish s08_99ab9615:
 
     # avt "\"But if I go back now, won't they all have a million questions to ask me? I don't think I really want to deal with that...\" "
 
-    avt "\"Ale, jeśli wrócę, czy nie zbombardują mnie pytaniami? Nie sądzę, żebym chciał się z tym użerać.../" "
+    avt "\"Ale, jeśli wrócę, czy nie zbombardują mnie pytaniami? Nie sądzę, żebym chciał się z tym użerać...\" "
 
 
 
@@ -198,7 +198,7 @@ translate polish s08_6c82b91b:
 
     tig normal "\"To prawda... Zrobię co mogę, ale czasami lubią sobie pożartować.\" "
 
-    tig normal "\"Mimo to, musisz się do nich kiedyś przyzwyczaić
+    tig normal "\"Mimo to, musisz się do nich kiedyś przyzwyczaić\" "
 
 
 # game/script/08.rpy:39
@@ -225,7 +225,7 @@ translate polish s08_744304ee:
 
     voice voice_file.tig(8,6)
 
-    tig frown "\"Najlepiej by było, gdyby Pantera został. Zabranie aborygeńskiego ducha do świątyni Hanów byłoby szukaniem guza/" "
+    tig frown "\"Najlepiej by było, gdyby Pantera został. Zabranie aborygeńskiego ducha do świątyni Hanów byłoby szukaniem guza\" "
 
 
 
