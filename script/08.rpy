@@ -110,8 +110,9 @@ translate polish s08_4bce6f87:
 
     voice voice_file.tig(8,3)
 
-    tig normal "\"Zgadza się. Jak już wiesz, każdą statudetkę w twoim domu zamieszkuje tygrysi strażnik. A z twoim zamiłowaniem do zwierzoludzi, wydaje mi się że byłbyś wniebowzięty, będąc otoczonym tyloma naraz.|" "
-
+    tig normal "\"Zgadza się. Jak już wiesz, każdy posąg w twoim domu zamieszkuje tygrysi strażnik. \" "
+       
+    tig laugh_2 "\"A z twoim zamiłowaniem do zwierzoludzi, wydaje mi się że byłbyś wniebowzięty, będąc otoczonym tyloma naraz.\" "
 
 
 # game/script/08.rpy:27
@@ -122,7 +123,7 @@ translate polish s08_8fab4e9e:
 
     # b "The temple back home is really big... there's also {i}heaps{/i} \ of statues... {w=0.5}If all the guardian tigers are as big as the one I've seen, there's no way they'd all fit! "
 
-    b "Świątynia w domu jest ogromna... i jest w niej {i}masa{i} \ statuetek... {w=0.5}Jeśli wszyscy tygysi strażnicy są aż tak duzi jak ten którego widziałem, nie ma opcji żeby się taam zmieścili!" "
+    b "Świątynia w domu jest ogromna... i jest w niej {i}masa{i} \ posążków... {w=0.5}Jeśli wszyscy tygysi strażnicy są aż tak duzi jak ten którego widziałem, nie ma opcji żeby się taam zmieścili!" "
 
 
 
@@ -176,8 +177,9 @@ translate polish s08_033aeb1f:
 
     # avt "\"They don't even know that I'm gay and I don't really want to explain that...\" "
 
-    avt "\" Nie powinni mnie pytać o powrocie do domu, o życiu w Taipei, o studiach, o dziewczynach... Nawet nie wiedzą o tym że jestem gejem, i nie mam ochoty na wyjaśnienia...\" "
+    avt "\" Nie powinni mnie pytać o powrocie do domu, o życiu w Taipei, o studiach, o dziewczynach... \" "
 
+    avt "\"Nawet nie wiedzą o tym że jestem gejem, i nie mam ochoty na wyjaśnienia...\" "
 
 
 # game/script/08.rpy:37
@@ -196,6 +198,7 @@ translate polish s08_6c82b91b:
 
     tig normal "\"To prawda... Zrobię co mogę, ale czasami lubią sobie pożartować.\" "
 
+    tig normal "\"Mimo to, musisz się do nich kiedyś przyzwyczaić
 
 
 # game/script/08.rpy:39
@@ -290,7 +293,7 @@ translate polish s08_9ef37fa0:
 
     # avt "\"I know...\" "
 
-    avt ""
+    avt "\" Wiem..."\"
 
 
 
@@ -302,7 +305,7 @@ translate polish s08_9f04d24f:
 
     # b "As much as I don't want to turn anyone away, keeping this up is just going to cause problems. "
 
-    b ""
+    b "Na tyle ile nie chcę nikogo odtrącać, zatrzymywanie tego spowoduje problemy."
 
 
 
@@ -316,8 +319,9 @@ translate polish s08_e9af40b7:
 
     # b "Maybe I should do it. Rip it off like a band-aid and just decide already... "
 
-    b ""
-
+    b "Samo myślenie o decyzji przytłacza mnie poczuciem winy i zdenerwowaniem"
+    
+    b "Może powinienem. Zerwać niczym plaster i się zdecydować..."
 
 
 # game/script/08.rpy:74
