@@ -1130,11 +1130,11 @@ translate polish week1_saturday_01_fc23985a:
 
     # b "For now, little by little, I'm getting used living with three big cat spirits. "
 
-    b "Nareszcie dzięki \"pomocy\" trzech dużych kotów, udaje mi się przebrnąć przez ten szalony tydzień. "
+    b "Wreszcie, dzięki \"pomocy\" trzech dużych kotów, udaje mi się przebrnąć przez ten szalony tydzień. "
 
-    b "Wszystko uspokoiło się po kilku dniach,  mimo dramatu jaki rozpętali na samym początku. "
+    b "Wszystko uspokoiło się po kilku dniach, mimo dramatu jaki rozpętali na samym początku. "
 
-    b "Teraz, krok po kroku, przyzwyczajam się do życia z duchami trzech dużych kotów. "
+    b "Teraz, krok po kroku, przyzwyczajam się do życia z trzema kocimi duchami. "
 
 
 
@@ -1206,7 +1206,7 @@ translate polish week1_saturday_01_8129cab9:
 
     # b "Even just after waking up, these three are already on me. \n(They all want me to spend time with them too...) "
 
-    b "Dopiero co wstałem, a już cała trójka próbuje wejść mi na głowę. \n(Każdy z nich chce, bym spędził z nim czas...) "
+    b "Dopiero co wstałem, a cała trójka już próbuje wejść mi na głowę. \n(Każdy z nich chce, bym spędził z nim czas...) "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish week1_saturday_01_e998eb92:
 
     # b "Wait! What does Leopard want anyway? He doesn't even sound like he knows what he wants to do. "
 
-    b "Chwila! Czego Pantera może ode mnie chcieć? Nawet nie sprawia wrażenia, że wie co chciałby robić. "
+    b "Chwila! A czego Pantera może ode mnie chcieć? Nawet nie wygląda na zdecydowanego co chciałby robić. "
 
 
 
@@ -1230,7 +1230,7 @@ translate polish week1_saturday_01_07b418c0:
 
     # b "Even then, I kinda get the feeling he really wants to spend time with me too... "
 
-    b "Mimo to jakimś cudem czuję, że naprawdę chcę spędzić ze mną czas... "
+    b "Mimo to jakimś cudem czuję, że naprawdę chciałby spędzić ze mną czas... "
 
 
 
@@ -1244,7 +1244,7 @@ translate polish week1_saturday_01_bba9cf42:
 
     # b "...So what should I do? "
 
-    b "Z drugiej strony, nie wiem jak mam odmówić pozostałej dwójce. Co z tego, że wolałbym zostać w domu i odpocząć skoro oznacza to, że nie mam na dzisiaj konkretnych planów. "
+    b "Z drugiej strony, jak mam odmówić pozostałej dwójce? Mimo że właściwie wolałbym zostać w domu i odpocząć- to nie mam na dzisiaj żadnych konkretnych planów. "
 
     b "Co powinienem zrobić? "
 
@@ -1274,7 +1274,7 @@ translate polish week1_saturday_tig_8f55bac8:
 
     voice voice_file.lpdcat(4,15)
 
-    lpdcat not_reconcile "\"Noooo dobra! Pozwolę ci dzisiaj spędzić z nim trochę czasu, ale Liao koniecznie musi wyjść ze mną jutro!\" "
+    lpdcat not_reconcile "\"No dooobra! Pozwolę ci dzisiaj spędzić z nim trochę czasu, ale Liao koniecznie musi wyjść ze mną jutro!\" "
 
 
 
@@ -1334,7 +1334,7 @@ translate polish week1_saturday_tig_0190c5dc:
 
     voice voice_file.lpdcat(4,16)
 
-    lpdcat angry "\"Kto do diabła jest płochliwym kociakiem! Nie widzę tu żadnych kociaków!\" "
+    lpdcat angry "\"Kto u diaska jest płochliwym kociakiem! Nie widzę tu żadnych kociaków!\" "
 
 
 
@@ -1362,7 +1362,7 @@ translate polish week1_saturday_tig_6bc329db:
 
     voice voice_file.tig(4,12)
 
-    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami jak laptopy, czy smartfony. To bardzo intrygujące wynalazki.\" "
+    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami- jak laptopy czy smartfony. To bardzo intrygujące wynalazki.\" "
 
 
 
@@ -1378,7 +1378,7 @@ translate polish week1_saturday_tig_7039e536:
 
     voice voice_file.tig(4,13)
 
-    tig normal "\"Twój komputer mnie zdumiewał, ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przeszły moje pojęcie. To takie wygodne, wspaniałe urządzenie.\" "
+    tig normal "\"Kiedyś to twój komputer mnie zdumiewał- ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przerosły moje wyobrażenia. To takie wygodne, wspaniałe urządzenie.\" "
 
 
 
@@ -1422,7 +1422,7 @@ translate polish week1_saturday_tig_3b1b7ad9:
 
     # avt "\"Well, going to an appliance store wouldn't make much sense. You wouldn't even find a laptop there...\" "
 
-    avt "\"A więc pójście do sklepu z urządzeniami domowymi, nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
+    avt "\"A więc pójście do sklepu z urządzeniami domowymi nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
 
 
 
@@ -1438,7 +1438,7 @@ translate polish week1_saturday_tig_d839fcdc:
 
     voice voice_file.tig(4,15)
 
-    tig normal "\"To gdzie jakieś znajdziemy?\" "
+    tig normal "\"To gdzie moglibyśmy jakieś znaleźć?\" "
 
 
 
@@ -1450,7 +1450,7 @@ translate polish week1_saturday_tig_5554a968:
 
     # avt "\"I'll tell you along the way. We should get going.\" "
 
-    avt "\"Powiem ci po drodze. Powinniśmy się zbierać.\" "
+    avt "\"Powiem ci po drodze. Możemy się już zbierać.\" "
 
 
 
@@ -1462,7 +1462,7 @@ translate polish week1_02_tig_8a8292e8:
 
     # b "The department store is pretty far away from my apartment so I catch a bus there with Tiger. "
 
-    b "Dom handlowy jest dość daleko stąd, więc łapiemy z Tygrysem autobus. "
+    b "Dom handlowy jest dobry kawałek stąd, więc łapiemy z Tygrysem autobus. "
 
 
 
@@ -1478,7 +1478,7 @@ translate polish week1_02_tig_d9118289:
 
     b "Jest tam supermarket, księgarnia, różne sklepy specjalistyczne i część gastronomiczna. "
 
-    b "Powinniśmy iść później po coś dobrego do zjedzenia... "
+    b "Potem możemy iść po coś dobrego do jedzenia... "
 
 
 
@@ -1494,7 +1494,7 @@ translate polish week1_02_tig_e73aaa01:
 
     voice voice_file.tig(4,16)
 
-    tig surprise "\"Co to... jest? Czy to sklep z elektroniką?\" "
+    tig surprise "\"Co to... takiego? Czy to właśnie jest sklep z elektroniką?\" "
 
 
 
@@ -1506,7 +1506,7 @@ translate polish week1_02_tig_8d13c8f0:
 
     # b "We just walked in the door of the centre itself. Clothes and expensive bags cover the shelves around us. There are clearly no appliances in sight. "
 
-    b "Właśnie wchodzimy do środka przez główne drzwi. Ubrania i drogie torby pokrywają półki wokół nas. W zasięgu wzroku nie widać żadnych urządzeń. "
+    b "Wchodzimy do środka przez główne drzwi. Ubrania i drogie torby pokrywają półki wokół nas. W zasięgu wzroku nie widać żadnych urządzeń. "
 
 
 
@@ -1518,7 +1518,7 @@ translate polish week1_02_tig_47a9fdd3:
 
     # avt "\"Not exactly, this is a department store. There are places here which sell appliances, smartphones, laptops and heaps of electronics. It's a handy place with everything you could need.\" "
 
-    avt "\"Nie do końca, to dom handlowy. Są tu oczywiście miejsca, które sprzedają różne urządzenia, smartfony, laptopy i mnóstwo innej elektroniki. To wygodne miejsce z wszystkim, czego możesz potrzebować.\" "
+    avt "\"Nie do końca- to dom handlowy. Są tu oczywiście miejsca, gdzie sprzedają różne urządzenia- smartfony, laptopy i mnóstwo innej elektroniki. To wygodna przestrzeń ze wszystkim, czego możesz potrzebować.\" "
 
 
 
@@ -1534,7 +1534,7 @@ translate polish week1_02_tig_caafe79a:
 
     voice voice_file.tig(4,17)
 
-    tig surprise "\"Dom handlowy? Cóż, słyszałem o czymś takim... A więc to tak wygląda jeden z nich.\" "
+    tig surprise "\"Dom handlowy? Cóż, słyszałem kiedyś o czymś takim... A więc to tak wygląda jeden z nich.\" "
 
 
 
@@ -1558,7 +1558,7 @@ translate polish week1_02_tig_a7daf086:
 
     # b "As we head into the supermarket, we see lots of goods and produce on sale. Tiger wanders around intrigued. "
 
-    b "Gdy wchodzimy do supermarketu, widzimy wiele towarów i wyrobów na sprzedaż. Tygrys kręci się zainteresowany wokoło."
+    b "Wchodząc do supermarketu widzimy wiele towarów i wyrobów na sprzedaż. Tygrys kręci się wokoło zainteresowany."
 
 
 
@@ -1574,7 +1574,7 @@ translate polish week1_02_tig_4b564d8f:
 
     voice voice_file.tig(4,18)
 
-    tig normal "\"... Te przypominają ofiary, które otrzymuje. Wyglądają bardzo podobnie. \" "
+    tig normal "\"... Te przypominają ofiary, które otrzymuję. Wyglądają bardzo podobnie. \" "
 
 
 
@@ -1586,7 +1586,7 @@ translate polish week1_02_tig_c157867f:
 
     # b "He points towards a pile of bulk goods. "
 
-    b "Wskazuje na duże paczki gotowego jedzenia. "
+    b "Wskazuje na duże paczki z gotowym jedzeniem. "
 
 
 
@@ -1602,7 +1602,7 @@ translate polish week1_02_tig_9e279986:
 
     voice voice_file.tig(4,19)
 
-    tig normal "\"Nie prezentują się zbyt dobrze, ściśnięcie ich razem sprawia, że wyglądają tanio.\" "
+    tig normal "\"Nie prezentują się zbyt dobrze- ściśnięcie ich razem sprawia, że wyglądają tanio.\" "
 
 
 
@@ -1614,7 +1614,7 @@ translate polish week1_02_tig_4482c75e:
 
     # avt "That's just because they're bulk packs. Doesn't make them cheap. "
 
-    avt "\"Dlatego, że to opakowania zbiorcze. Wcale nie są tanie.\" "
+    avt "\"Dlatego że to opakowania zbiorcze. Wcale nie są takie tanie.\" "
 
 
 
@@ -1646,7 +1646,7 @@ translate polish week1_02_tig_a590685d:
 
     b "Tygrys kręci głową, pogrążony w myślach gdy idziemy dalej przez dom handlowy. "
 
-    b "Kiedy udajemy się do działu elektroniki, nie może oderwać wzroku od urządzeń na półkach. "
+    b "Kiedy docieramy do działu elektroniki, nie może oderwać wzroku od urządzeń na półkach. "
 
 
 
@@ -1678,7 +1678,7 @@ translate polish week1_02_tig_8700b0ac:
 
     b "Zaczyna studiować najróżniejsze laptopy i tablety. Na półkach można też zobaczyć niektóre z tych najnowszych, konwertowalnych urządzeń. "
 
-    b "Po prawdzie, to nie jestem na bieżąco w temacie komputerów, a więc idę by poprzeglądać je razem z nim. "
+    b "Po prawdzie, to nie jestem na bieżąco w temacie komputerów- więc idę, by poprzeglądać je razem z nim. "
 
 
 
@@ -1690,7 +1690,7 @@ translate polish week1_02_tig_7a5e2cc9:
 
     # b "Every now and then, Tiger picks up one of the laptops for a closer look, leaving a copy of the laptop sitting there on the table. "
 
-    b "Od czasu do czasu, Tygrys podnosi któryś z laptopów, by lepiej mu się przyjrzeć, zostawiając na półce jego dokładną kopię. "
+    b "Od czasu do czasu, Tygrys podnosi któryś z laptopów by lepiej mu się przyjrzeć, zostawiając na półce jego dokładną kopię. "
 
 
 
@@ -1718,7 +1718,7 @@ translate polish week1_02_tig_8dd50008:
 
     voice voice_file.tig(4,22)
 
-    tig normal "\"Och, używać laptopa? Niemożliwe. Mogę jedynie dotknąć energii Qi danego obiektu, nie mogę za to wpłynąć na... prąd, czy co tam jest w środku.\" "
+    tig normal "\"Och, używać laptopa? Niemożliwe. Mogę jedynie dotknąć energii Chi danego obiektu- nie potrafię wpłynąć na... prąd, czy co tam jest w środku.\" "
 
 
 
@@ -1734,7 +1734,7 @@ translate polish week1_02_tig_a5745ff8:
 
     voice voice_file.tig(4,23)
 
-    tig normal "\"Gdybym miał taką potrzebę to mógłbym użyć swoich mocy, by nacisnąć przycisk zasilania. Wciąż jednak nie byłbym w stanie go używać.\" "
+    tig normal "\"Gdybym miał taką potrzebę, to mógłbym użyć swoich mocy by nacisnąć przycisk zasilania. Wciąż jednak nie byłbym w stanie go używać.\" "
 
 
 
@@ -1778,7 +1778,7 @@ translate polish week1_02_tig_fec8f2a9:
 
     voice voice_file.tig(4,25)
 
-    tig normal "\"Manipulacja smartfonem jest ponad moje siły. Nie mam pojęcia jak używać ekranu dotykowego.\" "
+    tig normal "\"Obsługa smartfona jest ponad moje siły. Nie mam pojęcia jak używać ekranu dotykowego.\" "
 
 
 
@@ -1790,7 +1790,7 @@ translate polish week1_02_tig_d05c46b4:
 
     # b "I'm not great with this stuff, but I sorta remember touchscreens work off static electricity or something... I think? In that case it makes sense why he couldn't use them. "
 
-    b "Za bardzo się na tym nie znam, ale z tego co pamiętam, ekrany dotykowe działają na elektryczność statyczną, czy coś w tym stylu... W takim razie to ma sens, że nie może ich używać. "
+    b "Za bardzo się na tym nie znam- ale z tego co pamiętam, ekrany dotykowe działają na elektryczność statyczną... czy coś w tym stylu. Miałoby sens, że nie może ich używać. "
 
 
 
@@ -1802,7 +1802,7 @@ translate polish week1_02_tig_620b352e:
 
     # avt "\"So... if you can hit a keyboard, at the very least you could move a mouse, right? So with that, couldn't you use a computer anyway?\" "
 
-    avt "\"Skoro... możesz używać klawiatury, to mógłbyś też poruszać myszką, prawda? Czy z tym nie byłbyś w stanie korzystać komputera?\" "
+    avt "\"Skoro możesz używać klawiatury... to mógłbyś też poruszać myszką, prawda? Czy dzięki temu nie byłbyś w stanie korzystać komputera?\" "
 
 
 
@@ -1846,7 +1846,7 @@ translate polish week1_02_tig_970d9b25:
 
     voice voice_file.tig(4,27)
 
-    tig normal "\"Używać komputera? Szczerze mówiąc, bardziej zainteresowany jestem korzystaniem ze smartfona, ale niestety nie mogę.\" "
+    tig normal "\"Używać komputera? Szczerze mówiąc, bardziej zainteresowany jestem korzystaniem ze smartfona- ale niestety, to niemożliwe.\" "
 
 
 
@@ -1874,7 +1874,7 @@ translate polish week1_02_tig_a12b33cb:
 
     # avt "\"So you won't use the computer because you'd get too tired?\" "
 
-    avt "\"To nie chcesz używać komputera, bo za bardzo się przy tym zmęczysz?\" "
+    avt "\"Czyli nie chcesz używać komputera, bo za bardzo się przy tym zmęczysz?\" "
 
 
 
@@ -1942,7 +1942,7 @@ translate polish week1_02_tig_f6d37705:
 
     voice voice_file.tig(4,30)
 
-    tig normal "\"Hmm? Ludzie w dzisiejszych czasach komunikują się w ten sposób. Ty też, a już w szczególności ten kociak. Chciałbym się więcej o tym dowiedzieć.\" "
+    tig normal "\"Hmm? Ludzie w dzisiejszych czasach komunikują się w ten sposób. Ty również- a już w szczególności ten kociak. Chciałbym się więcej o tym dowiedzieć.\" "
 
 
 
@@ -2006,7 +2006,7 @@ translate polish week1_02_tig_bf193180:
 
     # b "As you'd expect, it doesn't help much because he already read them. Eventually, I just explain to him they're just machines and people communicate using software downloaded onto them. "
 
-    b "Tak jak można się było spodziewać, wcale mu to nie pomaga, ponieważ już wcześniej je przeczytał. Wyjaśniam mu tylko, że to maszyny jak każde inne, a ludzie komunikują się za pośrednictwem zainstalowanego na nich oprogramowania. "
+    b "Tak jak można się było spodziewać- wcale mu to nie pomaga, ponieważ już wcześniej je przeczytał. Wyjaśniam mu tylko, że to maszyny jak każde inne- a ludzie komunikują się za pośrednictwem zainstalowanego na nich oprogramowania. "
 
 
 
@@ -2050,7 +2050,7 @@ translate polish week1_02_tig_c9c90f07:
 
     voice voice_file.tig(4,33)
 
-    tig normal "\"Nie ważne co tam chowasz. I tak widziałem już wszystko wcześniej.\" "
+    tig normal "\"Nieważne co tam chowasz. I tak już to wszystko widziałem.\" "
 
 
 
