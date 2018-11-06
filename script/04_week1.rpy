@@ -350,7 +350,7 @@ translate polish week1_01_20b0b03f:
 
     # avt "\"That'd be way too expensive! I'm a poor student here you know.\" "
 
-    avt "\"I są wiele za drogie! Jestem w końcu tylko biednym studentem... \" "
+    avt "\"I są o wiele za drogie! Jestem w końcu tylko biednym studentem... \" "
 
 
 
@@ -1062,7 +1062,7 @@ translate polish week1_01_3c226421:
 
     # avt "\"Actually no, I don't know. It's simply just too easy for me to open the door for you.\" "
 
-    avt "\"Właściwie to nie. Otwieranie drzwi to żaden problem.\" "
+    avt "\"Właściwie to nie. Otwieranie dla ciebie drzwi przychodzi mi zbyt łatwo.\" "
 
 
 
