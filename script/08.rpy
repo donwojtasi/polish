@@ -436,7 +436,7 @@ translate polish s08_f4fb304a:
 
     voice voice_file.lpdcat(8,4)
 
-    lpdcat laugh "\"Możemy znowu wyjść, choć raz?/" "
+    lpdcat laugh "\"Możemy znowu wyjść, choć raz?\" "
 
 
 
