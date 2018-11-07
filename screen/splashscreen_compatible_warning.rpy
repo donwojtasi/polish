@@ -1,24 +1,32 @@
-# Input your language label by replacing the your_label_here. Do NOT remove the pair of ''.
-# Example: your_label = 'thai'
-# You can check what your language label is in your map.txt file (first line).
-
 init 2 python:
-    your_label = 'polish'
 
-# Replace these strings (texts between pairs of "") with your translation of those strings.
-# Example: TranslateCWT01 = "โปรดกรุณาอ่าน"
+    ######## Do NOT edit anything above this line. ########
 
-init 2 python:
-    TranslateCWT01 = "Uwaga"
-    TranslateCWT02 = "Nekojishi zostało zaktualizowane do wersji "
-    TranslateCWT03 = "Poprzednio zapisane gry mogą nie być kompatybilne. Zaleca się ich usunięcie by uniknąć wystąpienia błędów."
-    TranslateCWT04 = "Proszę zdecyduj, czy chcesz zachować swoje pliki zapisu."
-    TranslateCWT05 = "Uwaga 1: Jeśli usuniesz te pliki, mogą one zostać przywrócone w razie potrzeby z następującego folderu:"
-    TranslateCWT06 = "Uwaga 2: Odblokowane elementy galerii, wpisy w glosariuszu oraz uzyskane zakończenia zostaną zachowane."
-    TranslateCWT07 = "ZACHOWAJ PLIKI ZAPISU"
-    TranslateCWT08 = "USUŃ PLIKI ZAPISU"
+    # Input your language label by replacing all of the your_label_here. Do NOT remove the pair of ''.
+    # You can check what your language label is in your map.txt file (first line).
 
-######## Do NOT edit anything below this line. ########
+    # Example:
+        # if language.get_label() == 'thai':
+            # your_label = 'thai'
+
+    if language.get_label() == 'polish':
+        your_label = 'polish'
+
+        # Replace these strings (texts between pairs of "") with your translation of those strings.
+
+        # Example:
+            # TranslateCWT01 = "โปรดกรุณาอ่าน"
+
+        TranslateCWT01 = "Uwaga"
+        TranslateCWT02 = "Nekojishi zostało zaktualizowane do wersji "
+        TranslateCWT03 = "Poprzednio zapisane gry mogą nie być kompatybilne. Zaleca się ich usunięcie aby uniknąć wystąpienia błędów."
+        TranslateCWT04 = "Proszę zdecyduj, czy chcesz zachować swoje pliki zapisu."
+        TranslateCWT05 = "Uwaga 1: Jeśli usuniesz te pliki, mogą one zostać przywrócone w razie potrzeby z następującego folderu:"
+        TranslateCWT06 = "Uwaga 2: Odblokowane elementy galerii, wpisy w glosariuszu oraz uzyskane zakończenia zostaną zachowane."
+        TranslateCWT07 = "ZACHOWAJ TE PLIKI"
+        TranslateCWT08 = "USUŃ PLIKI ZAPISU"
+
+    ######## Do NOT edit anything below this line. ########
 
 init 2:
     if language.get_label() == your_label:
