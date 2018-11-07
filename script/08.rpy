@@ -332,7 +332,7 @@ translate polish s08_b526f2e7:
 
     # b "A day before the festival. "
 
-    b ""
+    b "Dzień przed festiwalem. "
 
 
 
@@ -348,7 +348,7 @@ translate polish s08_5926e058:
 
     voice voice_file.lpdcat(8,1)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, jesteś pewien, że nie wracasz jutro?\" "
 
 
 
@@ -360,7 +360,7 @@ translate polish s08_a0385362:
 
     # avt "\"Yeah, for sure. I have to prepare for the midterms. What about it?\" "
 
-    avt ""
+    avt "\" Tak. Muszę się przygotować na egzaminy śródroczne. A co?\" "
 
 
 
@@ -376,7 +376,7 @@ translate polish s08_c0cb5aab:
 
     voice voice_file.lpdcat(8,2)
 
-    lpdcat normal ""
+    lpdcat normal "\"Cooo- Kogo obchodzą śródroczne? Co ty, stypendium chcesz czy co?\" "
 
 
 
@@ -388,7 +388,7 @@ translate polish s08_8fffb293:
 
     # avt "\"Even if I'm not, I still don't want to fail.\" "
 
-    avt ""
+    avt "\"Nawet jeśli nie chcę się, nie chcę oblać\" "
 
 
 
@@ -406,7 +406,9 @@ translate polish s08_b449f421:
 
     voice voice_file.lpdcat(8,3)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"{i}Nie ma opcji{i} \ że Liao mógłby oblać, jestem tego pewien!\" "
+    
+    lpdcat laugh "\"Więęęęc- Zamiast uczyć się codziennie, wyjdżmy razem i zabawmy się!\" "
 
 
 
@@ -418,7 +420,7 @@ translate polish s08_14612d93:
 
     # avt "\"I {i}guess{/i} \ we could, but we've really been going out a lot lately... I just don't have the \ntime.\" "
 
-    avt ""
+    avt "\" {i} Myślę{i} \ że moglibyśmy, ale spotykaliśmy się ostatnio mnóstwo razy... Po prostu nie mam \nczasu.\" "
 
 
 
@@ -434,7 +436,7 @@ translate polish s08_f4fb304a:
 
     voice voice_file.lpdcat(8,4)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Możemy znowu wyjść, choć raz?/" "
 
 
 
@@ -446,7 +448,7 @@ translate polish s08_02_disagree_8e89cb80:
 
     # avt "\"Sorry Senpai, I really have to study.\" "
 
-    avt ""
+    avt "\"Wybacz Senpai, muszę się uczyć.\" "
 
 
 
