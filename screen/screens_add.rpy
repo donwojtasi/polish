@@ -9,8 +9,8 @@ translate polish strings:
     # Add your translation by replacing ONLY the strings (texts between pairs of "") after each of the words new.
 
     # Example:
-        # old "語音"
-        # new "เสียงพากย์"
+        # old "限定版"
+        # new "รูปแบบจำกัดอายุ"
 
     # This is the tool tip which tells that the age-limited version of the game is currently loaded.
     old "限定版"
