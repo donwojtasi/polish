@@ -61,7 +61,3 @@ translate polish strings:
     # old "Phone"
     old "手機"
     new "Telefon"
-
-    # script\define.rpy:26
-    old "　"
-    new " "

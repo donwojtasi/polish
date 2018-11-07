@@ -93,15 +93,3 @@ translate polish strings:
     # old "Home"
     old "回主選單"
     new "Menu główne"
-
-    # screen/splashscreen.rpy:16
-    old "家  有  大  貓  製  作  委  員  會"
-    new "{font=tl/None/NotoSansCJKtc-Regular.otf}家  有  大  貓  製  作  委  員  會{/font}"
-
-    # screen/screens.rpy:286
-    old "限定版"
-    new "Edycja limitowana"
-
-    # screen/screens.rpy:293
-    old "標準版"
-    new "Edycja zwykła"
