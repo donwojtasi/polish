@@ -4684,7 +4684,7 @@ translate polish week1_02_lpd_624f79f4:
 
     # b "Judging by the last week, once he sets his mind on something, nothing can stop him... "
 
-    b "Patrząc na miniony tydzień, jak już sobie coś postanowi to nic go nie powstrzyma... "
+    b "Patrząc na miniony tydzień- jak już sobie coś postanowi, to nic go nie powstrzyma... "
 
 
 
@@ -4698,9 +4698,9 @@ translate polish week1_02_lpd_886e8804:
 
     # b "It's a while off before I need to decide whether to help him or not, anyways. "
 
-    b "Robienie czego chce jest milsze, niż odmawianie mu od razu. Przecież tylko uczę go tańczyć. "
+    b "Zresztą robienie czego chce jest milsze, niż odmawianie mu od razu. Przecież tylko uczę go tańczyć. "
 
-    b "Minie trochę czasu zanim będę musiał zdecydować, czy mu pomóc, czy nie. "
+    b "Mam jeszcze chwilę, zanim będę musiał zdecydować czy mu pomóc. "
 
 
 
@@ -4712,7 +4712,7 @@ translate polish week1_02_lpd_34707b41:
 
     # avt "\"Alright. If you insist. I'll be able to teach you pop style dance moves. They're different to aboriginal dance moves so they might be unfamiliar to you. You sure you want to try?\" "
 
-    avt "\"Dobrze, skoro nalegasz. Będę w stanie nauczyć cię popowych ruchów tanecznych. To bardzo różni się od aborygeńskich tańców, więc opanowanie tego trochę potrwa. Jesteś pewien, że chcesz spróbować?\" "
+    avt "\"Dobrze, skoro nalegasz. Mogę nauczyć cię popowych ruchów tanecznych. Różnią się od aborygeńskich tańców, więc opanowanie ich może trochę potrwać. Jesteś pewien, że chcesz spróbować?\" "
 
 
 
@@ -4776,7 +4776,7 @@ translate polish week1_02_lpd_00534079:
 
     # b "Then, I try to teach him some basic movements. He learns really fast... His body's pretty fit too. "
 
-    b "A potem próbuję nauczyć go podstawowych ruchów. Uczy się naprawdę szybko... Jego ciało jest do tego stworzone. "
+    b "Następnie próbuję nauczyć go podstawowych ruchów. Uczy się naprawdę szybko... Jego ciało jest do tego stworzone. "
 
 
 
@@ -4832,7 +4832,7 @@ translate polish week1_02_lpd_a94b7389:
 
     # b "After all, he's a god. Now that I think about it... Can't he just float in the air? These moves wouldn't be hard for him at all! "
 
-    b "Jest przecież bogiem. Jak tak o tym pomyślę... Czy nie może po prostu latać w powietrzu? Te ruchy byłyby dla niego dziecinnie proste! "
+    b "Jest przecież bogiem. Jak tak o tym pomyślę... Czy nie może po prostu unosić się w powietrzu? Te ruchy byłyby dla niego dziecinnie proste! "
 
 
 
@@ -4846,9 +4846,9 @@ translate polish week1_02_lpd_ea03e882:
 
     # b "It's taken me so long to even get near his level... Way to make me feel worthless... "
 
-    b "Nie żeby ktokolwiek i tak mógł go zobaczyć. Mimo wszystko, jego ruchy są tak precyzyjne. "
+    b "Nie żeby ktokolwiek i tak mógł go zobaczyć. Mimo wszystko- jego ruchy są tak precyzyjne. "
 
-    b "Dużo czasu zajęło mi, by chodź trochę zbliżyć się do jego poziomu... na tyle długo, że czuję się beznadziejny... "
+    b "Dużo czasu zajęło mi, by choć trochę zbliżyć się do jego poziomu... na tyle długo, że czuję się beznadziejny... "
 
 
 
@@ -4860,7 +4860,7 @@ translate polish cg_02_b1d37996:
 
     # b "Forget it! I can't compare myself to a god! Who am I to do that! " with hpunch
 
-    b "Co ja wygaduję! Nie mogę przecież porównywać się do boga!\nKim ja niby jestem, by to robić! " with hpunch
+    b "Co ja wygaduję! Nie mogę przecież porównywać się do boga!\nKim ja niby jestem, żeby to robić! " with hpunch
 
 
 
@@ -4884,7 +4884,7 @@ translate polish cg_02_e4e6c986:
 
     # b "Realising I'm resting, Leopard nods and stands next to me for a moment... \nThen he leaves without a word. "
 
-    b "Pantera orientuje się, że muszę odpocząć, przytakuje i stoi obok przez chwilę...\nNagle jednak wychodzi bez słowa. "
+    b "Pantera orientuje się że muszę odpocząć, przytakuje i staje obok...\nNagle jednak wychodzi bez słowa. "
 
 
 
@@ -4908,7 +4908,7 @@ translate polish cg_02_d6d66dcf:
 
     # b "I want to stop him, but my legs don't have the strength to get up. I see him walk down the hallway and go up the stairs before leaving my sight. "
 
-    b "Chcę go zatrzymać, ale ze zmęczenia nogi odmawiają mi posłuszeństwa. Zanim znika mi z oczu, widzę jak idzie korytarzem i wchodzi po schodach na górę. "
+    b "Chcę go zatrzymać, ale zmęczone nogi odmawiają mi posłuszeństwa. Zanim znika mi z oczu, widzę jak idzie korytarzem i wchodzi po schodach na górę. "
 
 
 
@@ -4936,7 +4936,7 @@ translate polish cg_02_3ced7be2:
 
     b "Echh- Pewnie zaraz wróci. "
 
-    b "Nawet teraz zdarza mi się myśleć, że wszystko byłoby prostsze, gdyby odszedł... "
+    b "Choć nawet teraz zdarza mi się myśleć, że wszystko byłoby prostsze gdyby odszedł na dobre... "
 
 
 
@@ -4984,7 +4984,7 @@ translate polish cg_02_8e580448:
 
     # b "Wouldn't they be floating in the air right now?! I rush over to him to make sure no one can see them, taking the cans off him. "
 
-    b "One unoszą się w powietrzu?! Podbiegam do Likulau by upewnić się, że nikt ich nie zobaczy i zabieram je od niego. "
+    b "One przecież unoszą się w powietrzu?! Podbiegam do Likulau by upewnić się, że nikt ich nie zobaczy i zabieram je od niego. "
 
 
 
@@ -4996,7 +4996,7 @@ translate polish cg_02_790f8436:
 
     # b "A girl passing through the hallway gives a suspicious look but my embarrassed face is enough for her to leave without paying any attention. "
 
-    b "Dziewczyna idąca korytarzem, kieruje w moją stronę podejrzane spojrzenie, ale widok mojej zakłopotanej twarzy sprawia, że idzie sobie dalej, nie zwracając na mnie uwagi. "
+    b "Dziewczyna idąca korytarzem kieruje w moją stronę podejrzane spojrzenie, ale widok mojej zakłopotanej twarzy sprawia, że idzie sobie dalej, nie zwracając na mnie uwagi. "
 
 
 
@@ -5008,7 +5008,7 @@ translate polish cg_02_bac12774:
 
     # b "What is he doing?! I drag him over to the chairs and put the cans down on them. " with hshake
 
-    b "Co on robi?! Ciągnę go do krzeseł i kładę na nich puszki. " with hshake
+    b "Co on wyrabia?! Ciągnę go do krzeseł i kładę na nich puszki. " with hshake
 
 
 
@@ -5172,7 +5172,7 @@ translate polish cg_02_91196d26:
 
     # avt "\"No? Well, why'd you get two then?\" "
 
-    avt "\"Nie? To czemu wziąłeś dwie?\" "
+    avt "\"Nie? To dlaczego wziąłeś dwie?\" "
 
 
 
@@ -5248,7 +5248,7 @@ translate polish cg_02_1ab8395f:
 
     # b "He doesn't seem to know how to open it... Right, he probably hasn't opened a can before. I'll need to show him. "
 
-    b "Chyba nie wie jak ją otworzyć... Racja, pewnie nie otwierał wcześniej puszki. Muszę mu pokazać co i jak. "
+    b "Chyba nie wie jak ją otworzyć... Racja, pewnie nie otwierał wcześniej żadnej puszki. Muszę mu pokazać co i jak. "
 
 
 
@@ -5260,7 +5260,7 @@ translate polish cg_02_893d14eb:
 
     # b "I take my can and make a pulling motion where the ring would be, then bring the can to my mouth as if to drink it. He repeats my motions, getting a claw under the ring, pulling it off, and then... "
 
-    b "Biorę moją puszkę i naśladuję jak ciągnę w miejscu, gdzie byłaby zawleczka, a potem podnoszę puszkę do ust, jakbym miał z niej pić. Powtarza moje ruchy, podważa pazurem zawleczkę, ciągnie, a potem... "
+    b "Biorę moją puszkę i udaję, że ciągnę w miejscu gdzie byłaby zawleczka, a potem podnoszę puszkę do ust, jakbym miał z niej pić. Powtarza moje ruchy, podważa pazurem zawleczkę, ciągnie, a potem... "
 
 
 
@@ -5360,7 +5360,7 @@ translate polish cg_02_6d929f4e:
 
     # b "Of course that would happen... he doesn't have a real body. "
 
-    b "Tak musiało się stać... on przecież nie ma prawdziwego ciała. "
+    b "To się musiało stać... on przecież nie ma prawdziwego ciała. "
 
 
 
@@ -5372,7 +5372,7 @@ translate polish cg_02_67a672f0:
 
     # b "What a waste. "
 
-    b "Co za strata. "
+    b "Co za marnotrawstwo. "
 
 
 
@@ -5388,7 +5388,7 @@ translate polish cg_02_c12e6050:
 
     voice voice_file.tig(4,80)
 
-    tig normal "\"... Przecież wiesz Liao, że on musi tylko wchłonąć Qi, prawda? Jako bogowie, nie musimy naśladować tego jak jedzą ludzie.\" "
+    tig normal "\"... Przecież wiesz Liao, że wystarczyłoby mu wchłonąć Chi, prawda? Jako bogowie, nie musimy naśladować sposobu w jaki jedzą ludzie.\" "
 
 
 
@@ -5460,7 +5460,7 @@ translate polish cg_02_fb9e27c1:
 
     voice voice_file.tig(4,83)
 
-    tig lift "\"Już dawno powinieneś do tego przyzwyczaić, nie sądzisz?\" "
+    tig lift "\"Już dawno powinieneś się był do tego przyzwyczaić, nie sądzisz?\" "
 
 
 
@@ -5496,7 +5496,7 @@ translate polish cg_02_7bbd4ec3:
 
     # avt "\"Yeah, oh well... I might as well have the rest.\" "
 
-    avt "\"Tak, no cóż... mogę w sumie wziąć resztę.\" "
+    avt "\"No cóż... mogę w sumie wziąć resztę.\" "
 
 
 
@@ -5548,7 +5548,7 @@ translate polish cg_02_fad1bdbb:
 
     # b "It's pointless to worry over spilt coffee. Fortunately, the tiles here are dark so there won't be any stains unlike the white tiles near the mirror wall. "
 
-    b "Nie ma co się przejmować rozlaną kawą. Na szczęście płytki tutaj są ciemne, więc nie będzie żadnych plam, w przeciwieństwie do białych płytek w pobliżu luster. "
+    b "Nie ma co się przejmować rozlaną kawą. Na szczęście, w przeciwieństwie do białych płytek w pobliżu luster, te tutaj są ciemne- więc nie będzie widać żadnych plam. "
 
 
 
