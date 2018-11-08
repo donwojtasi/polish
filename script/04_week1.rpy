@@ -5560,7 +5560,7 @@ translate polish cg_02_96864bf9:
 
     # b "It may only be half a can, but it's more than I'd want to drink right now... I can't exactly let this go to waste though so I finish it. "
 
-    b "Może to tylko pół puszki, ale i tak więcej, niż chciałem teraz wypić... Nie chcę by się zmarnowało, więc to dokończę. "
+    b "Może to tylko pół puszki, ale to i tak więcej niż chciałem teraz wypić... Nie chcę by się zmarnowało, więc to dokończę. "
 
 
 
@@ -5608,7 +5608,7 @@ translate polish cg_02_436a3486:
 
     # avt "\"So Mister Leopard, why did you come to me? You gave me this ability to see you. So there had to be a reason, right?\" "
 
-    avt "\"A więc Panie Pantero, czemu do mnie przyszedłeś? Dałeś mi umiejętność widzenia cię. Więc musi być tego jakiś cel, prawda?\" "
+    avt "\"A więc Panie Pantero, dlaczego do mnie przyszedłeś? Dałeś mi umiejętność widzenia cię- musiał być tego jakiś cel, prawda?\" "
 
 
 
@@ -5636,7 +5636,7 @@ translate polish cg_02_3c58d702:
 
     # avt "\"What do you want me to help you with? Are there any issues with your tribe? Is it something you need me for?\" "
 
-    avt "\"W czym chcesz bym ci pomógł? Czy są jakiej problemy w twoim plemieniu? Jest coś do czego mnie potrzebujesz?\" "
+    avt "\"W czym chcesz żebym ci pomógł? Czy w twoim plemieniu są jakieś problemy? O to właśnie chodzi?\" "
 
 
 
@@ -5660,7 +5660,7 @@ translate polish cg_02_b98afc6d:
 
     # b "He starts to think. Whether he's trying to think up what to say, or just the Mandarin to say it, I don't know. He remains frowning in silence for some time. "
 
-    b "Zaczyna myśleć. Nie wiem, czy zastanawia się co powiedzieć, czy brakuje mu słów po mandaryńsku. Przez jakiś czas marszczy brwi w milczeniu. "
+    b "Zamyśla się. Nie wiem, czy zastanawia się co powiedzieć, czy brakuje mu słów po mandaryńsku. Przez jakiś czas marszczy brwi w milczeniu. "
 
 
 
@@ -5784,7 +5784,7 @@ translate polish cg_02_5bf06450:
 
     # avt "\"...So basically, It's a similar situation to back home. But, even if you need someone to help you. Isn't it a bit forward to ask a Jitong like me. I'm way too young to be an oracle, right?\" "
 
-    avt "\"To podobnie jak w moim domu... Nawet jeśli potrzebujesz mojej pomocy... Nie przesadzasz aby trochę, prosząc o to Jitonga takiego jak ja? Jestem o wiele za młody by być prorokiem, nie sądzisz?\" "
+    avt "\"To podobnie jak w mojej rodzinie... Nawet jeśli potrzebujesz mojej pomocy... Nie przesadzasz aby trochę, prosząc o to Jitonga takiego jak ja? Jestem o wiele za młody by być prorokiem, nie sądzisz?\" "
 
 
 
@@ -5836,7 +5836,7 @@ translate polish cg_02_5f898855:
 
     # avt "\"Now you know that my family worships Mazu. Would it not be inappropriate for me to be your oracle? "
 
-    avt "\"Teraz wiesz, że moja rodzina wielbi Mazu. Czy nie byłoby to niewłaściwe, bym został twoim prorokiem? "
+    avt "\"Teraz wiesz, że moja rodzina wielbi Mazu. Czy nie byłoby to niewłaściwe, gdybym został twoim prorokiem? "
 
 
 
@@ -5848,7 +5848,7 @@ translate polish cg_02_d0061771:
 
     # avt "Even if I wanted to. I'd doubt your people would accept a person from a different race to be the oracle of your gods.\" "
 
-    avt "Nawet gdybym chciał. Wątpię, by twoi ludzie zaakceptowali osobę z innego szczepu jako proroka twoich bogów.\" "
+    avt "Nawet gdybym chciał- wątpię, by twoi ludzie zaakceptowali osobę z innego szczepu jako proroka twoich bogów.\" "
 
 
 
