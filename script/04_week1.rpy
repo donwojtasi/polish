@@ -6768,7 +6768,7 @@ translate polish cg_03_31fe9c4a:
 
     # b "It may be spring, but it's still cool outside. Even if we're out in the city, it's not enough to wear a thin jacket. "
 
-    b "Może i jest już wiosna, ale na zewnątrz wciąż jest chłodno. Nawet jeśli jesteśmy na mieście, to za mało by nosić tylko cienką kamizelkę. "
+    b "Może i jest już wiosna, ale na zewnątrz wciąż jest chłodno. Nawet jeśli jesteśmy na mieście, to nie wystarczy cienka kamizelka. "
 
 
 
@@ -6802,7 +6802,7 @@ translate polish cg_03_81363407:
 
     voice voice_file.tig(4,94)
 
-    tig normal "\"Faktem jest, że bóg nie może zachorować, ale nie uchroni to twojego ciała. Powinieneś coś na siebie włożyć.\" "
+    tig normal "\"Faktem jest, że bóg nie może zachorować- ale nie uchroni to twojego ciała. Powinieneś coś na siebie włożyć.\" "
 
     tig normal "\"To byłoby okropne, gdybyś doprowadził ciało Yan Shu-Chi do złego stanu.\" "
 
@@ -6852,7 +6852,7 @@ translate polish cg_03_fd8ee9fc:
 
     voice voice_file.lpdcat(4,45)
 
-    lpdcat normal "\"Naprawdę nie ma się czym przejmować. Jeśli już, to trochę szkoda, że nic więcej dzisiaj nie założyłem, prawda Liao?\" "
+    lpdcat normal "\"Naprawdę nie ma się czym przejmować. Jeśli już, to trochę szkoda że bardziej się nie wystroiłem, prawda Liao?\" "
 
 
 
@@ -6928,7 +6928,7 @@ translate polish cg_03_8e3f4613:
 
     # b "I wanted to ask Senpai what he meant, but when we got there, I could pretty much figure it out. "
 
-    b "Chciałem się go spytać o co mu chodzi, ale gdy już tam dotarliśmy, z łatwością sam się domyśliłem. "
+    b "Chciałem się spytać o co mu chodzi, ale gdy już tam dotarliśmy, z łatwością sam się domyśliłem. "
 
 
 
@@ -6940,7 +6940,7 @@ translate polish cg_03_fd03287f:
 
     # b "The stand before me was festooned with fuzzy stylized animal hats. They hang from the top of the stand to the floor below in vibrant rows of fuzzy color. "
 
-    b "Wystawa przede nami obwieszona była puszystymi, zwierzęcymi czapkami. Od sufitu do podłogi, cała skąpana jest w rzędach miękkich kolorów. "
+    b "Wystawa przed nami obwieszona była puszystymi, zwierzęcymi czapkami. Od sufitu do podłogi, cała skąpana jest w rzędach miękkich kolorów. "
 
 
 
@@ -6952,7 +6952,7 @@ translate polish cg_03_1e022998:
 
     # b "They had a wide variety including dogs, bears, tigers, deer, raccoons as well as a few from cartoons I didn't recognise. "
 
-    b "Mają naprawdę duży wybór, między innymi psy, niedźwiedzie, tygrysy, jelenie, szopy oraz postaci z bajek, których nie poznaję. "
+    b "Mają naprawdę duży wybór; między innymi psy, niedźwiedzie, tygrysy, jelenie, szopy oraz postaci z bajek, których nie poznaję. "
 
 
 
@@ -6992,7 +6992,7 @@ translate polish cg_03_ed4d06ca:
 
     # b "The clerk comes over and starts introducing the products for us. Honestly, I thought he'd ask Senpai to take the hat off, but he happily continues his spiel. "
 
-    b "Podchodzi do nas sprzedawca i zaczyna prezentować nam różne produkty. Szczerze mówiąc, myślałem że poprosi Senpai'a, by zdjął czapkę, ale on z radością kontynuuje swoją wypowiedź."
+    b "Podchodzi do nas sprzedawca i zaczyna prezentować nam różne towary. Szczerze mówiąc, myślałem że poprosi Senpai'a, by zdjął czapkę- ale on z radością kontynuuje swoją wypowiedź."
 
 
 
@@ -7100,7 +7100,7 @@ translate polish cg_03_cc7931c4:
 
     voice voice_file.lpdcat(4,50)
 
-    lpdcat laugh "\"Czy to nie reguła, że na randce kupuję się partnerowi upominek?\" "
+    lpdcat laugh "\"Czy to nie reguła, że na randce kupuje się partnerowi upominek?\" "
 
 
 
@@ -7112,7 +7112,7 @@ translate polish cg_03_ae391266:
 
     # avt "\"It's still not a date you know, and what common sense is that?!\" "
 
-    avt "\"To przecież nie jest żadna randka, a po za tym, kto wpadł na taki pomysł?!\" "
+    avt "\"To przecież nie jest żadna randka; a poza tym, kto wpadł na taki pomysł?!\" "
 
 
 
@@ -7128,7 +7128,7 @@ translate polish cg_03_e0e6e210:
 
     voice voice_file.lpdcat(4,51)
 
-    lpdcat panic "\"Cooo- Liao, czy dopiero co nie martwiłeś się, że jest mi za zimno? Daj spokój, kup to.\nKup mi proszęęęę~\" " with vpunch
+    lpdcat panic "\"Cooo- Liao, czy dopiero co nie martwiłeś się, że jest mi za zimno? Daj spokój, kup ją.\nKup mi proszęęęę~\" " with vpunch
 
 
 
@@ -7176,7 +7176,7 @@ translate polish week1_03_lpdcat_buy_fc945f00:
 
     # b "I hand the money to the clerk. He gives back my change with a smile, ignoring Senpai's weird comments. Still, I'm a little embarrassed. "
 
-    b "Podaję sprzedawcy pieniądze. Z uśmiechem oddaję mi resztę, ignorując dziwne komentarze Senpai'a. Mimo to i tak czuję się trochę zawstydzony. "
+    b "Podaję sprzedawcy pieniądze. Z uśmiechem oddaje mi resztę, ignorując dziwne komentarze Senpai'a. Mimo to i tak czuję się trochę zawstydzony. "
 
 
 
@@ -7188,7 +7188,7 @@ translate polish week1_03_lpdcat_buy_5cb8971b:
 
     # b "Senpai shouts with joy when he sees me paying for the hat. The pom poms dance in the air as he bounces with excitement. I put my hand on top of his head, both to calm him down and to keep the hat from falling off. "
 
-    b "Senpai aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy skacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić oraz uchronić czapkę przed spadnięciem. "
+    b "Senpai aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy skacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić, oraz uchronić czapkę przed spadnięciem. "
 
 
 
@@ -7268,7 +7268,7 @@ translate polish week1_03_lpdcat_buy_d50c2f78:
 
     # avt "\"Well, now that we've bought something, we should get going.\" "
 
-    avt "\"Teraz gdy już coś kupiliśmy to możemy się zbierać.\" "
+    avt "\"Skoro już coś kupiliśmy, to możemy się zbierać.\" "
 
 
 
@@ -7358,9 +7358,9 @@ translate polish week1_03_lpdcat_buy_4e20bcaf:
 
     # b "The jumper fits him snugly, but as tempting as it is, I don't fall for his ploy. "
 
-    b "W jednym ze sklepów przymierza dużą bluzę z kapturem, pokazując cały urok jak może z siebie wykrzesać, odwraca się do mnie i zdejmuje ręką kaptur. "
+    b "W jednym ze sklepów przymierza dużą bluzę z kapturem, pokazując cały urok jaki może z siebie wykrzesać, odwraca się do mnie i zdejmuje ręką kaptur. "
 
-    b "Bluza leży na nim idealnie, ale nawet jeśli to przekonujące, nie dam się nabrać na jego sztuczki. "
+    b "Bluza leży na nim idealnie- ale niezależnie od tego, nie dam się nabrać na jego sztuczki. "
 
 
 
@@ -7492,7 +7492,7 @@ translate polish week1_03_lpdcat_dontbuy_595c49d7:
 
     # avt "\"We're not a couple though. You're a good friend to me Senpai but don't expect me to just buy gifts for you.\" "
 
-    avt "\"Nie jesteśmy przecież parą. Jesteś moim dobrym przyjacielem Senpai, ale nie oczekuj, że będę kupował ci prezenty.\" "
+    avt "\"Nie jesteśmy przecież parą. Jesteś moim dobrym przyjacielem Senpai- ale nie oczekuj, że będę ci kupował prezenty.\" "
 
 
 
@@ -7532,7 +7532,7 @@ translate polish week1_03_lpdcat_dontbuy_55e75eb8:
 
     # b "I hope he isn't too bummed out over this. I still don't want to spend money, but I feel bad for letting him down. "
 
-    b "Mam nadzieję, że nie zasmuciłem go za bardzo. Wciąż nie chcę wydawać pieniędzy, ale czuję się z tym źle, że go zawiodłem. "
+    b "Mam nadzieję, że nie zasmuciłem go za bardzo. Wciąż nie chcę wydawać pieniędzy, ale czuję się źle z tym, że go zawiodłem. "
 
 
 
