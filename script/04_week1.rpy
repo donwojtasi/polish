@@ -7256,7 +7256,7 @@ translate polish week1_03_lpdcat_buy_37c7cd11:
 
     # b "Tiger came over just to mention that. For me to think that is one thing, but for him to say that as well... "
 
-    b "Tygrys, który przedtem stał w oddali, podszedł tutaj by to powiedzieć. Gdzie on do cholery nauczył się takiego wyrażenia? I nie! Całkowicie źle zrozumiał jego znaczenie. "
+    b "Tygrys, który przedtem stał w oddali, podszedł tutaj by to powiedzieć. Gdzie on się do cholery nauczył takiego wyrażenia? I nie! Całkowicie źle zrozumiał jego znaczenie. "
 
 
 
