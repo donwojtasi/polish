@@ -7556,7 +7556,7 @@ translate polish week1_03_lpdcat_dontbuy_0c7a8de9:
 
     # b "As we went around shopping he didn't end up asking for anything else. He did end up winning a Husky plush toy from a claw machine though. It's kinda like the hat he wanted to buy. Nevertheless, it was cute and he really enjoyed getting it. "
 
-    b "Kiedy chodziliśmy po sklepach, nie poprosił o nic więcej. Ostatecznie wygrał jednak pluszowego Husky w automacie z zabawkami. Przypomina czapkę, którą chciał bym mu kupił. Mimo wszystko jest słodki i bardzo się ucieszył, gdy go dostał. "
+    b "Kiedy chodziliśmy po sklepach, nie poprosił o nic więcej. Ostatecznie wygrał jednak pluszowego husky'ego w automacie z zabawkami. Przypomina trochę czapkę, którą chciał bym mu kupił. Mimo wszystko jest słodki i bardzo się ucieszył, gdy go dostał. "
 
 
 
@@ -7684,7 +7684,7 @@ translate polish week1_04_lpdcat_c0eecbd4:
 
     voice voice_file.tig(4,97)
 
-    tig normal "\"No cóż, chciałbym wchłonąć qi z jedzenia Liao.\" "
+    tig normal "\"No cóż, chciałbym wchłonąć nieco Chi z jedzenia Liao.\" "
 
 
 
@@ -7736,7 +7736,7 @@ translate polish week1_04_lpdcat_2248b14e:
 
     # b "Senpai brings us to a food cart. If the lines this long the food must be amazing! Well, lets hope it is... "
 
-    b "Senpai prowadzi nas do wózka z jedzeniem. Jedzenie musi być niesamowite, skoro czekamy w tak długiej kolejce! Mam taką nadzieję... "
+    b "Senpai prowadzi nas do wózka z jedzeniem. Musi być niesamowite, skoro czekamy w tak długiej kolejce! A przynajmniej taką mam nadzieję... "
 
 
 
@@ -7760,7 +7760,7 @@ translate polish week1_04_lpdcat_57ccccbd:
 
     # b "Senpai attempts to hold the bag of fried chicken and his drink at the same time... Now he's trying to use the skewer to pick up the chicken from the bag as well. I hope he doesn't spill the tea everywhere. "
 
-    b "Senpai próbuje w tym samym momencie trzymać torbę z kurczakiem i pić... A teraz stara się użyć szpikulca, by wyjąć kurczaka z dna torby. Mam nadzieję, że nie porozlewa wszędzie herbaty. "
+    b "Senpai próbuje jednocześnie trzymać torbę z kurczakiem i pić... A teraz stara się użyć szpikulca, by wyjąć kurczaka z dna torby. Mam nadzieję, że nie porozlewa wszędzie herbaty. "
 
 
 
@@ -7776,7 +7776,7 @@ translate polish week1_04_lpdcat_d2c2c5c3:
 
     voice voice_file.tig(4,98)
 
-    tig gaze "\"Zapach tego smażonego kurczaka jest nieziemski,  całkiem inny od zwyczajnych rodzajów.\" "
+    tig gaze "\"Zapach tego smażonego kurczaka jest nieziemski, całkiem inny od zwyczajnych rodzajów.\" "
 
 
 
@@ -7864,7 +7864,7 @@ translate polish week1_04_lpdcat_4858eb84:
 
     # b "Now that he's consumed the Chi, the chicken is still there for me to eat. "
 
-    b "Gdy już zjadł Qi, kurczak wciąż tu jest dla mnie do zjedzenia. "
+    b "Gdy już zjadł Chi, kurczak wciąż tu jest, gotowy do zjedzenia. "
 
 
 
@@ -8264,7 +8264,7 @@ translate polish week1_04_lpdcat_257c0dbb:
 
     # avt "\"In that case, we wouldn't have needed to go out shopping today huh? I mean we'd have plenty of time together in Miaoli.\" "
 
-    avt "\"W takim razie, nie potrzebnie wychodziliśmy na zakupy, co? Myślę, że mielibyśmy dużo czasu dla siebie w Miaoli.\" "
+    avt "\"W takim razie, niepotrzebnie wychodziliśmy na zakupy, co? Myślę, że mielibyśmy dużo czasu dla siebie w Miaoli.\" "
 
 
 
@@ -8392,7 +8392,7 @@ translate polish week1_04_lpdcat_ef9b8bef:
 
     voice voice_file.lpdcat(4,78)
 
-    lpdcat serious "Więc zakupy, czy randki to wszystko to, co sam Yan Shu-Chi by zrobił. Muszę tylko poznać cię w ten sam sposób w jaki on by to uczynił.\" "
+    lpdcat serious "Więc zakupy, czy randki- to wszystko to, co sam Yan Shu-Chi by zrobił. Muszę tylko poznać cię w ten sam sposób w jaki on by to uczynił.\" "
 
 
 
@@ -8432,7 +8432,7 @@ translate polish week1_04_lpdcat_a6582f09:
 
     # avt "\"Hmm... well... So, then how will you be after you leave Senpai's body?\" "
 
-    avt "\"Hmm... cóż... to kim będziesz, gdy opuścić ciało Senpai'a?\" "
+    avt "\"Hmm... cóż... to kim będziesz, gdy opuścisz ciało Senpai'a?\" "
 
 
 
@@ -8444,7 +8444,7 @@ translate polish week1_04_lpdcat_141e7c38:
 
     # avt "\"At that point you wouldn't be forced to think and act like Yan Shu-Chi. Wouldn't you end up a completely different person?\" "
 
-    avt "\"Na ten moment już nic cię nie zmusi, by myśleć i zachowywać się jak Yan Shu-Chi. Czy nie stałbyś się kompletnie inną osobą?\" "
+    avt "\"Wtedy już nic cię nie będzie zmuszać, by myśleć i zachowywać się jak Yan Shu-Chi. Czy nie stałbyś się kompletnie inną osobą?\" "
 
 
 
@@ -8460,7 +8460,7 @@ translate polish week1_04_lpdcat_04e70630:
 
     voice voice_file.lpdcat(4,80)
 
-    lpdcat normal "\"Och, a więc o to się martwisz? Nie przejmuj się, opętałem go w pierwszej kolejności dlatego, że nasze osobowości są praktycznie takie same.\" "
+    lpdcat normal "\"Och, a więc o to się martwisz? Nie przejmuj się- opętałem go w pierwszej kolejności dlatego, że nasze osobowości są praktycznie takie same.\" "
 
 
 
@@ -8564,7 +8564,7 @@ translate polish week1_04_lpdcat_f82b79b8:
 
     lpdcat normal "\"Nie ma się czym przejmować... "
 
-    lpdcat normal "\"O patrz, stoisko z kiełbaskami! Kupmy sobie po jednej!\" "
+    lpdcat normal "\"O, patrz, stoisko z kiełbaskami! Kupmy sobie po jednej!\" "
 
 
 
@@ -8596,7 +8596,7 @@ translate polish week1_04_lpdcat_d8d466b9:
 
     voice voice_file.tig(4,101)
 
-    tig normal "\"Liao wiem, że powiedziałem to zbyt wiele razy. Nadal nie chcę, byś się z nim zadawał.\" "
+    tig normal "\"Liao, wiem że powiedziałem to już wiele razy. Ale nadal nie chcę, byś się z nim zadawał.\" "
 
 
 
@@ -8640,7 +8640,7 @@ translate polish week1_04_lpdcat_93af8b3f:
 
     voice voice_file.tig(4,103)
 
-    tig normal "\"Ostrzegam cię Liao, nie wierz ślepo we wszystko co mówi.\" "
+    tig normal "\"Ostrzegam cię Liao- nie wierz ślepo we wszystko co mówi.\" "
 
 
 
@@ -8668,7 +8668,7 @@ translate polish week1_04_lpdcat_cd38496a:
 
     voice voice_file.tig(4,104)
 
-    tig frown "\"Choć ich forma może się zmienić, ich nawyki nie ulegają tak łatwo zmianie. Ktoś taki jak on może coś zrobić, a nawet nie wiedzieć, że to źle.\" "
+    tig frown "\"Choć ich forma może się zmienić, ich nawyki nie ulegają już tak łatwo zmianie. Ktoś taki jak on może coś zrobić, a nawet nie wiedzieć, że to źle.\" "
 
 
 
@@ -8796,7 +8796,7 @@ translate polish week1_04_lpdcat_937ca18b:
 
     # b "Man, who would have thought shopping all day could be so tiring. As soon as I get in the door, I make a beeline straight for the bathroom, have a shower, and head to lie down on my bed... "
 
-    b "Człowieku, kto by pomyślał, że całodzienne zakupy mogą być tak męczące. Gdy tylko staję w drzwiach lecę prosto do łazienki, biorę prysznic i idę rozłożyć się na łóżku... "
+    b "Człowieku, kto by pomyślał, że całodniowe zakupy mogą być takie męczące. Gdy tylko staję w drzwiach lecę prosto do łazienki, biorę prysznic i idę rozłożyć się na łóżku... "
 
 
 
