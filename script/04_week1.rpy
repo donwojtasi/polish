@@ -9412,7 +9412,7 @@ translate polish week1_sunday_tig_lpd_94d54283:
 
     # b "Otherwise people would think I'm crazy... like that time in class. "
 
-    b "W przeciwnym razie ludzie pomyślą, że jestem pomylony... jak ostatnio w klasie. "
+    b "W przeciwnym razie ludzie pomyślą, że jestem pomylony... tak jak ostatnio w klasie. "
 
 
 
@@ -10840,7 +10840,7 @@ translate polish week1_sunday_lpdcat_lpd_6da53e27:
 
     # b "He goes silent. Somehow, I can tell it's not because he can't answer, it's because he doesn't want to answer. "
 
-    b "Milczy. Jakoś czuję, że to nie jest tak, że nie potrafi mi odpowiedzieć, tylko po prostu nie chce. "
+    b "Milczy. Z jakiegoś powodu czuję, że to nie dlatego, że nie potrafi mi odpowiedzieć- tylko po prostu nie chce. "
 
 
 
@@ -10856,7 +10856,7 @@ translate polish week1_sunday_lpdcat_lpd_d2d00710:
 
     voice  voice_file.lpdcat(4,21)
 
-    lpdcat normal "\"Liao nie wydaje mi się, że wydusisz z niego coś więcej. Dzisiaj nie mamy zajęć, więc po co tam iść, co nie?\" "
+    lpdcat normal "\"Liao, nie wydaje mi się żebyś więcej z niego wydusił. I tak dzisiaj nie mamy zajęć- więc po co tam iść, co nie?\" "
 
 
 
@@ -11008,7 +11008,7 @@ translate polish week1_sunday_lpdcat_lpd_6e41e459:
 
     # b "Looking back at this week, Tiger and Leopard haven't gotten along at all... I don't want them to fight this weekend too. "
 
-    b "Patrząc na miniony tydzień, Tygrys i Pantera w ogóle się nie dogadywali... Nie chcę by w ten weekend, znowu walczyli między sobą. "
+    b "Przez cały tydzień Tygrys i Pantera w ogóle się nie dogadywali... Nie chcę by w ten weekend znowu walczyli między sobą. "
 
 
 
@@ -11020,7 +11020,7 @@ translate polish week1_sunday_lpdcat_lpd_63589bb8:
 
     # avt "\"Please don't be against him. I won't be happy if you two start fighting each other again.\" "
 
-    avt "\"Proszę, nie bądź mu przeciwny. Nie będę szczęśliwy, jeśli znowu zaczniecie ze sobą walczyć.\" "
+    avt "\"Proszę, tylko go nie antagonizuj. Nie będę zadowolony, jeśli znów zaczniecie ze sobą walczyć.\" "
 
 
 
@@ -11044,7 +11044,7 @@ translate polish week1_sunday_lpdcat_lpd_94d54283:
 
     # b "Otherwise people would think I'm crazy... like that time in class. "
 
-    b "W przeciwnym razie ludzie pomyślą, że jestem pomylony... jak ostatnio w klasie. "
+    b "W przeciwnym razie ludzie pomyślą, że jestem pomylony... tak jak ostatnio w klasie. "
 
 
 
@@ -11060,7 +11060,7 @@ translate polish week1_sunday_lpdcat_lpd_d2f4eb9d:
 
     voice voice_file.tig(4,76)
 
-    tig frown "\"Co powiesz na to... Będę trzymał się z dala od aborygena pod warunkiem, że nie ważne co robisz, jesteś pod moją obserwacją. Zgoda?\" "
+    tig frown "\"Co powiesz na to... Będę trzymał się z dala od aborygena pod warunkiem, że niezależnie co robisz- jesteś pod moją obserwacją. Zgoda?\" "
 
 
 
