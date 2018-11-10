@@ -11096,7 +11096,7 @@ translate polish week1_sunday_lpdcat_home_df626c1d:
 
     # avt "\"...Nah, I was out all day yesterday. I want to take a break. After all it's my weekend.\" "
 
-    avt "\"...Nieee, wczoraj byłem cały dzień na zewnątrz. Chcę sobie odpocząć. To przecież mój weekend.\" "
+    avt "\"...Nieee, wczoraj byłem cały dzień na zewnątrz. Chcę sobie odpocząć. To w końcu mój weekend.\" "
 
 
 
