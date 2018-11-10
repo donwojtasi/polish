@@ -120,9 +120,9 @@ translate polish s07_8f55637a:
 
     # b "Sometimes I just want a day with nothing to do, just to stay at home, rest and take my mind off things. "
 
-    b "Na co dzień ciężko jest zajmować się tymi trzema kotami, gdy cały czas kręcą się w pobliżu... a do tego zawsze chcą gdzieś iść w weekendy. "
+    b "Mając przy sobie te trzy koty, ciężko poświęcać im uwagę każdego dnia... a do tego w każdy weekend chcą gdzieś wyjść. "
 
-    b ""
+    b "Czasem po prostu chciałbym zostać cały dzień w domu i odpocząć od tego wszystkiego. "
 
 
 
