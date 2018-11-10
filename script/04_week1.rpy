@@ -1034,7 +1034,7 @@ translate polish week1_01_c08e8115:
 
     # b "Tiger sends a fierce glare Senpai's way. "
 
-    b "Tygrys rzuca groźnym spojrzeniem na Senpai'a."
+    b "Tygrys rzuca groźnym spojrzeniem na Senpai'a. "
 
 
 
@@ -1558,7 +1558,7 @@ translate polish week1_02_tig_a7daf086:
 
     # b "As we head into the supermarket, we see lots of goods and produce on sale. Tiger wanders around intrigued. "
 
-    b "Wchodząc do supermarketu widzimy wiele towarów i wyrobów na sprzedaż. Tygrys kręci się wokoło zainteresowany."
+    b "Wchodząc do supermarketu widzimy wiele towarów i wyrobów na sprzedaż. Tygrys kręci się wokoło zainteresowany. "
 
 
 
@@ -2326,7 +2326,7 @@ translate polish cg_01_34c3638f:
 
     # avt "\"This is... well it's called an air multiplier fan. I don't really understand how it works.\" "
 
-    avt "\"To jest... nazywamy to wentylatorem bezłopatkowym. Sam dokładnie nie wiem jak to działa."
+    avt "\"To jest... nazywamy to wentylatorem bezłopatkowym. Sam dokładnie nie wiem jak to działa. "
 
 
 
@@ -2470,7 +2470,7 @@ translate polish cg_01_4c325e22:
 
     # b "He moves around to look at the induction cooker from a variety of angles. Clearly intrigued by it. "
 
-    b "Spogląda na płytę indukcyjną z każdej strony, kręcąc się wokoło. Bardzo go zaintrygowała."
+    b "Spogląda na płytę indukcyjną z każdej strony, kręcąc się wokoło. Bardzo go zaintrygowała. "
 
 
 
@@ -2924,7 +2924,7 @@ translate polish cg_01_8c88fc3b:
 
     # b "I said something I shouldn't have. I messed up... "
 
-    b "Tygrys przestaje mnie pouczać i odchodzi, by obejrzeć kolejne urządzenie."
+    b "Tygrys przestaje mnie pouczać i odchodzi, by obejrzeć kolejne urządzenie. "
 
     b "Powiedziałem coś, czego nie powinienem był mówić. Wszystko zepsułem... "
 
@@ -3106,7 +3106,7 @@ translate polish cg_01_ad25f65e:
 
     # b "I take each snack he points at and place them into my basket, just for him to go around asking for more... "
 
-    b "Kładę po kolei do koszyka wszystko co mi pokazuje, a on cały czas kręci się po sklepie i prosi o więcej..."
+    b "Kładę po kolei do koszyka wszystko co mi pokazuje, a on cały czas kręci się po sklepie i prosi o więcej... "
 
 
 
@@ -3306,7 +3306,7 @@ translate polish cg_01_2a063abc:
 
     # b "He seems disappointed. I'd prefer to eat downstairs in the food court anyway. That and I've already spent loads of money on snacks. "
 
-    b "Zdaje się, że jest rozczarowany. I tak wolałabym zjeść w którymś z lokalów na dole- poza tym, wydałem już mnóstwo pieniędzy na przekąski."
+    b "Zdaje się, że jest rozczarowany. I tak wolałabym zjeść w którymś z lokalów na dole- poza tym, wydałem już mnóstwo pieniędzy na przekąski. "
 
 
 
@@ -4236,7 +4236,7 @@ translate polish week1_02_lpd_9c15b8a7:
 
     b "Oglądaliśmy sporo filmów o aborygeńskich tańcach, gdy przygotowywaliśmy się do występu... "
 
-    b "Podstawowe ruchy bardzo różnią się od popu. Musiałbym zacząć od podstaw, by czegokolwiek się nauczyć."
+    b "Podstawowe ruchy bardzo różnią się od popu. Musiałbym zacząć od podstaw, by czegokolwiek się nauczyć. "
 
 
 
@@ -5472,7 +5472,7 @@ translate polish cg_02_1fc23a03:
 
     # b "Yeah, this is on me. After all, I've been offering meals to the two of them every night recently. "
 
-    b "Tak, to moja wina. Ostatnio przecież, każdego wieczoru oferowałem im obu jedzenie."
+    b "Tak, to moja wina. Ostatnio przecież, każdego wieczoru oferowałem im obu jedzenie. "
 
 
 
@@ -6992,7 +6992,7 @@ translate polish cg_03_ed4d06ca:
 
     # b "The clerk comes over and starts introducing the products for us. Honestly, I thought he'd ask Senpai to take the hat off, but he happily continues his spiel. "
 
-    b "Podchodzi do nas sprzedawca i zaczyna prezentować nam różne towary. Szczerze mówiąc, myślałem że poprosi Senpai'a, by zdjął czapkę- ale on z radością kontynuuje swoją wypowiedź."
+    b "Podchodzi do nas sprzedawca i zaczyna prezentować nam różne towary. Szczerze mówiąc, myślałem że poprosi Senpai'a, by zdjął czapkę- ale on z radością kontynuuje swoją wypowiedź. "
 
 
 
@@ -7004,7 +7004,7 @@ translate polish cg_03_6229848b:
 
     # b "Senpai adjusts the hat and swings around dramatically. The dangling pom poms swoosh around in the air as he moves. "
 
-    b "Senpai poprawia czapkę i gwałtownie się obraca. Zwisające pompony wirują w powietrzu, gdy się porusza."
+    b "Senpai poprawia czapkę i gwałtownie się obraca. Zwisające pompony wirują w powietrzu, gdy się porusza. "
 
 
 
@@ -7434,9 +7434,9 @@ translate polish week1_03_lpdcat_dontbuy_9a0fd12a:
 
 
 
-    # b "So, I shake my head in disagreement. Senpai pouts back."
+    # b "So, I shake my head in disagreement. Senpai pouts back. "
 
-    b "Kręcę głową w geście odmowy. Senpai się dąsa."
+    b "Kręcę głową w geście odmowy. Senpai się dąsa. "
 
 
 
@@ -7580,7 +7580,7 @@ translate polish week1_04_lpdcat_4e12a0d0:
 
     # b "I'm tired, we'd been walking for ages at this point. I must be visibly straining so to the point where Senpai picks up on it. "
 
-    b "Jestem zmęczony, a chodziliśmy godzinami po sklepach. Pewnie to po mnie widać, bo w pewnym momencie sam Senpai to zauważa."
+    b "Jestem zmęczony, a chodziliśmy godzinami po sklepach. Pewnie to po mnie widać, bo w pewnym momencie sam Senpai to zauważa. "
 
 
 
@@ -8988,7 +8988,7 @@ translate polish week1_sunday_tig_lpd_6da53e27:
 
     # b "He goes silent. Somehow, I can tell it's not because he can't answer, it's because he doesn't want to answer. "
 
-    b "Milczy. Z jakiegoś powodu czuję, że to nie dlatego, że nie potrafi mi odpowiedzieć- tylko po prostu nie chce."
+    b "Milczy. Z jakiegoś powodu czuję, że to nie dlatego, że nie potrafi mi odpowiedzieć- tylko po prostu nie chce. "
 
 
 
@@ -11096,7 +11096,7 @@ translate polish week1_sunday_lpdcat_home_df626c1d:
 
     # avt "\"...Nah, I was out all day yesterday. I want to take a break. After all it's my weekend.\" "
 
-    avt "\"...Nie, byłem wczoraj cały dzień na zewnątrz. Chcę sobie odpocząć. To przecież mój weekend.\" "
+    avt "\"...Nieee, wczoraj byłem cały dzień na zewnątrz. Chcę sobie odpocząć. To przecież mój weekend.\" "
 
 
 
@@ -11140,7 +11140,7 @@ translate polish week1_sunday_lpdcat_home_05ada93c:
 
     voice voice_file.tig(4,115)
 
-    tig disappointed "\"Niestety... ale szkoda.\" "
+    tig disappointed "\"Niestety... jaka szkoda.\" "
 
 
 
@@ -11184,7 +11184,7 @@ translate polish week1_sunday_lpdcat_home_6abeeacc:
 
     voice voice_file.lpdcat(4,95)
 
-    lpdcat laugh "\"Liao, w takim tempie staniesz się odludkiem.\" "
+    lpdcat laugh "\"Liao, jak tak dalej pójdzie staniesz się odludkiem.\" "
 
 
 
@@ -11280,7 +11280,7 @@ translate polish strings:
 
     old "不買。"
 
-    new "Nie powinien go kupować tylko dlatego, że mi kazał."
+    new "Nie powinienem go kupować tylko dlatego, że mi kazał."
 
 
 
