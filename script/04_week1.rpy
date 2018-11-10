@@ -10612,7 +10612,7 @@ translate polish week1_sunday_lpdcat_36513c11:
 
     voice voice_file.lpdcat(4,93)
 
-    lpdcat laugh "\"Wczoraj naprawdę świetnie się z tobą bawiłem. Dzisiaj nie ma nic szczególnego, co chciałbym porobić.\" "
+    lpdcat laugh "\"Wczoraj naprawdę świetnie się z tobą bawiłem. Dzisiaj nie ma już nic szczególnego, co chciałbym porobić.\" "
 
 
 
@@ -10662,7 +10662,7 @@ translate polish week1_sunday_lpdcat_tig_b93f8c48:
 
     # b "There isn't much else I can do, but I hope he's alright... "
 
-    b "Zdaje się, że zawiodłem Panterę już dwukrotnie, wygląda na przygnębionego. Tak naprawdę to nie wiem, czego ode mnie chce i raczej wolałbym spędzić czas z pozostałą dwójką. "
+    b "Zdaje się, że zawiodłem Panterę już dwukrotnie- wygląda na przygnębionego. Tak naprawdę to nie wiem, czego ode mnie chce; wolałbym raczej spędzić czas z pozostałą dwójką. "
 
     b "Nic więcej nie mogę zrobić, ale mam nadzieję, że nic mu nie będzie... "
 
@@ -10692,7 +10692,7 @@ translate polish week1_sunday_lpdcat_tig_6bc329db:
 
     voice voice_file.tig(4,12)
 
-    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami jak laptopy, czy smartfony. To bardzo intrygujące wynalazki.\" "
+    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami- jak laptopy czy smartfony. To bardzo intrygujące wynalazki.\" "
 
 
 
@@ -10708,7 +10708,7 @@ translate polish week1_sunday_lpdcat_tig_7039e536:
 
     voice voice_file.tig(4,13)
 
-    tig normal "\"Twój komputer mnie zdumiewał, ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przeszły moje pojęcie. To takie wygodne, wspaniałe urządzenie.\" "
+    tig normal "\"Kiedyś to twój komputer mnie zdumiewał- ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przerosły moje wyobrażenia. To takie wygodne, wspaniałe urządzenie.\" "
 
 
 
@@ -10720,7 +10720,7 @@ translate polish week1_sunday_lpdcat_tig_25370530:
 
     # avt "\"Well, going to an appliance store wouldn't make much sense. You wouldn't even find a laptop there...\" "
 
-    avt "\"A więc pójście do sklepu z urządzeniami domowymi, nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
+    avt "\"A więc pójście do sklepu z urządzeniami domowymi nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
 
 
 
@@ -10736,7 +10736,7 @@ translate polish week1_sunday_lpdcat_tig_d839fcdc:
 
     voice voice_file.tig(4,15)
 
-    tig normal "\"To gdzie jakieś znajdziemy?\" "
+    tig normal "\"To gdzie moglibyśmy jakieś znaleźć?\" "
 
 
 
@@ -10748,7 +10748,7 @@ translate polish week1_sunday_lpdcat_tig_5554a968:
 
     # avt "\"I'll tell you along the way. We should get going.\" "
 
-    avt "\"Powiem ci po drodze. Powinniśmy się zbierać.\" "
+    avt "\"Powiem ci po drodze. Możemy się już zbierać.\" "
 
 
 
