@@ -11240,7 +11240,7 @@ translate polish strings:
 
     old "和虎爺出門。"
 
-    new "Spędzić czas z Tygrysem"
+    new "Spędzić czas z Tygrysem."
 
 
 
