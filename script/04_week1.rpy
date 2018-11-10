@@ -9748,7 +9748,7 @@ translate polish week1_sunday_tig_home_df626c1d:
 
     # avt "\"...Nah, I was out all day yesterday. I want to take a break. After all it's my weekend.\" "
 
-    avt "\"Nieee, byłem wczoraj cały dzień na zewnątrz. Chcę sobie odpocząć. To przecież mój weekend.\" "
+    avt "\"Nieee, wczoraj cały dzień byłem na zewnątrz. Chcę sobie odpocząć. To w końcu mój weekend.\" "
 
 
 
@@ -9764,7 +9764,7 @@ translate polish week1_sunday_tig_home_0ed5993a:
 
     voice voice_file.lpdcat(4,87)
 
-    lpdcat panic "\"Cooo- Przecież możesz wyspać się w poniedziałek. Nie masz zajęć dopiero po południu?\" "
+    lpdcat panic "\"Cooo- Przecież możesz wyspać się w poniedziałek. Nie masz wtedy zajęć dopiero po południu?\" "
 
 
 
@@ -9792,7 +9792,7 @@ translate polish week1_sunday_tig_home_383d7d9d:
 
     voice voice_file.lpdcat(4,88)
 
-    lpdcat pout "\"Jezu, ile ty masz lat? Staruszek z ciebie? Zachowuj się jak na twój wiek. Jesteś przecież słodkim, młodym i energicznym studentem~\" "
+    lpdcat pout "\"Jezu, ile ty masz lat? Staruszek z ciebie? Zachowuj się w zgodzie z wiekiem. Jesteś przecież słodkim, młodym i energicznym studentem~\" "
 
 
 
@@ -9944,7 +9944,7 @@ translate polish week1_sunday_lpd_f3661fa3:
 
     # b "Man, I just woke up and they're already onto me? \n(How'd things turn out like this...) "
 
-    b "Ludzie dopiero co wstałem, a oni już zawracają mi głowę? \n(Jak sprawy mogły się tak potoczyć...) "
+    b "Ludzie, dopiero co wstałem, a oni już zawracają mi głowę? \n(Jak sprawy mogły się tak potoczyć...) "
 
 
 
@@ -9984,7 +9984,7 @@ translate polish week1_sunday_lpd_tig_0b003ef8:
 
     # avt "\"Well... I don't really like shopping to begin with, there's nothing I want to buy, and it's just going to tire me out... Sorry...\" "
 
-    avt "\"Cóż... Zacznę od tego, że nie lubię zakupów. Nie mam też nic pilnego do kupienia, a po za tym tylko bym się zmęczył... Wybacz...\" "
+    avt "\"Cóż... Zacznę od tego, że nie lubię zakupów. Nie mam też nic pilnego do kupienia, a poza tym tylko bym się zmęczył... Wybacz...\" "
 
 
 
@@ -10056,7 +10056,7 @@ translate polish week1_sunday_lpd_tig_93a3ae29:
 
     # b "I kinda feel bad for making him feel like that but I'd really rather hang out with Tiger. I'll think of a way to make it up to him later. "
 
-    b "Czuję się źle doprowadzając go do takiego stanu, ale naprawdę wolę spędzić czas z Tygrysem. Pomyślę jak to mu później wynagrodzić. "
+    b "Czuję się źle, że doprowadziłem go do takiego stanu, ale naprawdę wolę spędzić czas z Tygrysem. Pomyślę jak to mu później wynagrodzić. "
 
 
 
@@ -10084,7 +10084,7 @@ translate polish week1_sunday_lpd_tig_6bc329db:
 
     voice voice_file.tig(4,12)
 
-    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami jak laptopy, czy smartfony. To bardzo intrygujące wynalazki.\" "
+    tig normal "\"O sklepie z różnymi urządzeniami. Z niesamowitymi rzeczami- jak laptopy czy smartfony. To bardzo intrygujące wynalazki.\" "
 
 
 
@@ -10100,7 +10100,7 @@ translate polish week1_sunday_lpd_tig_7039e536:
 
     voice voice_file.tig(4,13)
 
-    tig normal "\"Twój komputer mnie zdumiewał, ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przeszły moje pojęcie. To takie wygodne, wspaniałe urządzenie.\" "
+    tig normal "\"Kiedyś to twój komputer mnie zdumiewał- ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przerosły moje wyobrażenia. To takie wygodne, wspaniałe urządzenie.\" "
 
 
 
@@ -10112,7 +10112,7 @@ translate polish week1_sunday_lpd_tig_a88497c3:
 
     # avt "\"Well, going to an appliance store wouldn't make much sense. You wouldn't even find a laptop there...\" "
 
-    avt "\"A więc pójście do sklepu z urządzeniami domowymi, nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
+    avt "\"A więc pójście do sklepu z urządzeniami domowymi nie miałoby zbytniego sensu. Nie znalazłbyś tam nawet laptopa...\" "
 
 
 
@@ -10128,7 +10128,7 @@ translate polish week1_sunday_lpd_tig_d839fcdc:
 
     voice voice_file.tig(4,15)
 
-    tig normal "\"To gdzie jakieś znajdziemy?\" "
+    tig normal "\"To gdzie moglibyśmy jakieś znaleźć?\" "
 
 
 
@@ -10140,7 +10140,7 @@ translate polish week1_sunday_lpd_tig_5554a968:
 
     # avt "\"I'll tell you along the way. We should get going.\" "
 
-    avt "\"Powiem ci po drodze. Powinniśmy się zbierać.\" "
+    avt "\"Powiem ci po drodze. Możemy się już zbierać.\" "
 
 
 
@@ -10164,7 +10164,7 @@ translate polish week1_sunday_lpd_lpdcat_453b4ad6:
 
     # b "That and if I didn't go out with him, he probably wouldn't leave me alone. "
 
-    b "Po za tym, jeślibym z nim nie poszedł, to nie zostawiłby mnie w spokoju. "
+    b "Poza tym, jeślibym z nim nie poszedł, to nie zostawiłby mnie w spokoju. "
 
 
 
@@ -10212,7 +10212,7 @@ translate polish week1_sunday_lpd_lpdcat_c47eb623:
 
     # avt "\"So you want to come with us?\" "
 
-    avt "\"Chciałbyś z nami iść?\" "
+    avt "\"Chcesz z nami iść?\" "
 
 
 
@@ -10288,7 +10288,7 @@ translate polish week1_sunday_lpd_lpdcat_085f7d9e:
 
     voice voice_file.tig(4,92)
 
-    tig normal "\"Hmmm- Godzę się na to, tak długo jak mogę czuwać nad Liao.\" "
+    tig normal "\"Hmmm- Godzę się na to tak długo, jak mogę czuwać nad Liao.\" "
 
 
 
@@ -10320,7 +10320,7 @@ translate polish week1_sunday_lpd_lpdcat_6744951e:
 
     voice voice_file.tig(4,93)
 
-    tig normal "\"Oczywiście, to samo tyczy się ciebie.\" "
+    tig normal "\"Oczywiście- to samo tyczy się ciebie.\" "
 
 
 
@@ -10348,7 +10348,7 @@ translate polish week1_sunday_lpd_lpdcat_e60c974b:
 
     # avt "\"Actually you've tried to do just that, several times...\" "
 
-    avt "\"Tak naprawdę, to kilkukrotnie próbowałeś to zrobić...\" "
+    avt "\"Tak naprawdę, to już kilkukrotnie próbowałeś to zrobić...\" "
 
 
 
@@ -10360,7 +10360,7 @@ translate polish week1_sunday_lpd_lpdcat_a09f2950:
 
     # b "Senpai has constantly been trying to get me to have dinner with him after all. Though it's not like I've made an effort to compromise with him either. "
 
-    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż to nie tak, że podjąłem jakąkolwiek próbę, by pójść z nim na kompromis. "
+    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż, nie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
 
 
 
@@ -10376,7 +10376,7 @@ translate polish week1_sunday_lpd_lpdcat_bea33acd:
 
     voice voice_file.lpdcat(4,38)
 
-    lpdcat panic "\"Achhhh! W porządku! Będę się dzisiaj zachowywał! Liao proszę, czy możesz ze mną iść?\" "
+    lpdcat panic "\"Achhhh! W porządku! Będę się dzisiaj zachowywał! Liao, proszę, czy możesz ze mną iść?\" "
 
 
 
@@ -10412,7 +10412,7 @@ translate polish week1_sunday_lpd_home_df626c1d:
 
     # avt "\"...Nah, I was out all day yesterday. I want to take a break. After all it's my weekend.\" "
 
-    avt "\"Nieeee, byłem wczoraj cały dzień na zewnątrz. Chcę sobie odpocząć. To przecież mój weekend.\" "
+    avt "\"Nieeee, wczoraj cały dzień byłem na zewnątrz. Chcę sobie odpocząć. To w końcu mój weekend.\" "
 
 
 
@@ -10428,7 +10428,7 @@ translate polish week1_sunday_lpd_home_0ed5993a:
 
     voice voice_file.lpdcat(4,87)
 
-    lpdcat panic "\"Cooo- Przecież możesz wyspać się w poniedziałek. Nie masz zajęć dopiero po południu?\" "
+    lpdcat panic "\"Cooo- Przecież możesz wyspać się w poniedziałek. Nie masz wtedy zajęć dopiero po południu?\" "
 
 
 
@@ -10456,7 +10456,7 @@ translate polish week1_sunday_lpd_home_383d7d9d:
 
     voice voice_file.lpdcat(4,88)
 
-    lpdcat pout "\"Jezu, ile ty masz lat? Staruszek z ciebie? Zachowuj się jak na twój wiek. Jesteś przecież słodkim, młodym i energicznym studentem~\" "
+    lpdcat pout "\"Jezu, ile ty masz lat? Staruszek z ciebie? Zachowuj się w zgodzie z wiekiem. Jesteś przecież słodkim, młodym i energicznym studentem~\" "
 
 
 
@@ -10624,7 +10624,7 @@ translate polish week1_sunday_lpdcat_f3661fa3:
 
     # b "Man, I just woke up and they're already onto me? \n(How'd things turn out like this...) "
 
-    b "Ludzie dopiero co wstałem, a oni już zawracają mi głowę? \n(Jak sprawy mogły się tak potoczyć...) "
+    b "Ludzie, dopiero co wstałem, a oni już zawracają mi głowę? \n(Jak sprawy mogły się tak potoczyć...) "
 
 
 
@@ -10888,7 +10888,7 @@ translate polish week1_sunday_lpdcat_lpd_6b92a23c:
 
     b "To wszystko już mi się myli. "
 
-    b "Po raz pierwszy Pantera mnie o cokolwiek prosi, tylko czemu akurat dzisiaj? "
+    b "Po raz pierwszy Pantera mnie o cokolwiek prosi- tylko dlaczego akurat dzisiaj? "
 
 
 
@@ -10984,7 +10984,7 @@ translate polish week1_sunday_lpdcat_lpd_71425a21:
 
     voice voice_file.tig(4,113)
 
-    tig frown "\"Tak jak mówiłem wczoraj, martwiłbym się, gdybym zostawił cię samego z którymkolwiek z nich.\" "
+    tig frown "\"Tak jak mówiłem wczoraj- martwiłbym się, gdybym zostawił cię samego z którymkolwiek z nich.\" "
 
 
 
