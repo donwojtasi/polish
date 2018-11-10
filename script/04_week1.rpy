@@ -9476,7 +9476,7 @@ translate polish week1_sunday_tig_lpdcat_453b4ad6:
 
     # b "That and if I didn't go out with him, he probably wouldn't leave me alone. "
 
-    b "Po za tym, jeślibym z nim nie poszedł, to nie zostawiłby mnie w spokoju. "
+    b "Poza tym, jeślibym z nim nie poszedł, to nie zostawiłby mnie w spokoju. "
 
 
 
@@ -9520,7 +9520,7 @@ translate polish week1_sunday_tig_lpdcat_10207b4f:
 
     voice  voice_file.tig(4,90)
 
-    tig frown "\"Ummm... Liao, chcę ci towarzyszyć, jeśli wychodzisz z tym kociakiem.\" "
+    tig frown "\"Ummm... Liao, chciałbym ci towarzyszyć, jeśli wychodzisz z tym kociakiem.\" "
 
 
 
@@ -9640,7 +9640,7 @@ translate polish week1_sunday_tig_lpdcat_6744951e:
 
     voice  voice_file.tig(4,93)
 
-    tig normal "\"Oczywiście, to samo tyczy się ciebie.\" "
+    tig normal "\"Oczywiście- to samo tyczy się ciebie.\" "
 
 
 
@@ -9668,7 +9668,7 @@ translate polish week1_sunday_tig_lpdcat_e60c974b:
 
     # avt  "\"Actually you've tried to do just that, several times...\" "
 
-    avt "\"Tak naprawdę, to kilkukrotnie próbowałeś to zrobić...\" "
+    avt "\"Tak naprawdę, to już kilkukrotnie próbowałeś to zrobić...\" "
 
 
 
@@ -9680,7 +9680,7 @@ translate polish week1_sunday_tig_lpdcat_a09f2950:
 
     # b "Senpai has constantly been trying to get me to have dinner with him after all. Though it's not like I've made an effort to compromise with him either. "
 
-    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż to nie tak, że podjąłem jakąkolwiek próbę, by pójść z nim na kompromis. "
+    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż, nie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
 
 
 
@@ -9696,7 +9696,7 @@ translate polish week1_sunday_tig_lpdcat_bea33acd:
 
     voice  voice_file.lpdcat(4,38)
 
-    lpdcat panic "\"Achhhh! W porządku! Będę się dzisiaj zachowywał! Liao proszę, czy możesz ze mną iść?\" "
+    lpdcat panic "\"Achhhh! W porządku! Będę się dzisiaj zachowywał! Liao, proszę, czy możesz ze mną iść?\" "
 
 
 
@@ -9734,7 +9734,7 @@ translate polish week1_sunday_tig_lpdcat_61fc8cf1:
 
     # b "Afterwards, I leave my apartment with Senpai and Tiger in tow. "
 
-    b "Pantera wygląda na rozczarowanego, a ja czuję się z tym źle. Nie mając innego wyboru, proszę go by zaopiekował się pokojem, gdy nas nie będzie. "
+    b "Pantera wygląda na rozczarowanego- aż zrobiło mi się przykro. Nie mając jednak innego wyboru, proszę go by zaopiekował się pokojem, gdy nas nie będzie. "
 
     b "Następnie wychodzę w towarzystwie Senpai'a i Tygrysa. "
 
