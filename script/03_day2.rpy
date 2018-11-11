@@ -474,7 +474,7 @@ translate polish day2_01_tig_33f58ee4:
 
     voice voice_file.tig(3,6)
 
-    tig normal "\"*kaszle* Dzień dobry Liao.\" "
+    tig normal "*kaszle* \"Dzień dobry Liao.\" "
 
 
 
@@ -5528,7 +5528,7 @@ translate polish day2_03_normal_61f26a74:
 
     # avt "\"And then two years with you? That's probably the end of my dancing career as it is.\" "
 
-    avt "\"Nawet jeśli będę chciałbym zrobić przerwę od szkoły, wpierw musiałbym odbyć służbę wojskową.\" "
+    avt "\"Nawet jeśli chciałbym zrobić przerwę od szkoły, wpierw musiałbym odbyć służbę wojskową.\" "
 
     avt "\"A potem spędzić dwa lata z tobą? To pewnie byłby koniec mojej kariery tanecznej.\" "
 
@@ -5846,7 +5846,7 @@ translate polish day2_04_d1262de9:
 
     # b "Honestly, it was a serious conversation. How could that be taken as 'romantic'? "
 
-    b "Serio, to była poważna rozmowa. Jak ktoś mógł wciąć to za coś \"romantycznego\"? "
+    b "Serio, to była poważna rozmowa. Jak ktoś mógł wziąć to za coś \"romantycznego\"? "
 
 
 

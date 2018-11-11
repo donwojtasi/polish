@@ -322,7 +322,7 @@ translate polish s07_6214960f:
 
     voice voice_file.lpdcat(7,11)
 
-    lpdcat normal ""
+    lpdcat normal "\"Cóż, tak {i}naprawdę{/i} \ nie sprawdziłem tego dokładnie, ale mimo wszystko to powinna być najlepsza pora by je zobaczyć. Dlatego powinniśmy tam razem iść!\" "
 
 
 
@@ -334,7 +334,7 @@ translate polish s07_a2cc66c8:
 
     # avt "\"Flower blossoms, huh...\" "
 
-    avt ""
+    avt "\"Kwitnące kwiaty, heh...\" "
 
 
 
@@ -348,7 +348,9 @@ translate polish s07_115a965f:
 
     # b "Honestly, as it stands I've only even seen cherry blossoms bloom in manga... "
 
-    b ""
+    b "Właściwie to nie wiem jak wyglądają kwitnące tungowce... pewnie ogród pełen tych drzew wygląda podobnie do tego z kwitnącymi wiśniami. "
+
+    b "Szczerze mówiąc, widziałem je tylko w mandze... "
 
 
 
@@ -360,7 +362,7 @@ translate polish s07_2ce1179d:
 
     # avt "\"So where can we go to see them?\" "
 
-    avt ""
+    avt "\"To gdzie możemy je zobaczyć?\" "
 
 
 
@@ -377,6 +379,8 @@ translate polish s07_e5a7ac9c:
     # lpdcat laugh "\"The places around here are really nice too!\" "
 
     voice voice_file.lpdcat(7,12)
+
+    lpdcat laugh ""
 
     lpdcat laugh ""
 
