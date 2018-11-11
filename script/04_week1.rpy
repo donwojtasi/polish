@@ -2326,7 +2326,7 @@ translate polish cg_01_34c3638f:
 
     # avt "\"This is... well it's called an air multiplier fan. I don't really understand how it works.\" "
 
-    avt "\"To jest... nazywamy to wentylatorem bezłopatkowym. Sam dokładnie nie wiem jak to działa. "
+    avt "\"To jest... nazywamy to wentylatorem bezłopatkowym. Sam dokładnie nie wiem jak to działa.\" "
 
 
 

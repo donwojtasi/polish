@@ -10,7 +10,7 @@ translate polish s07_2683a0de:
 
     # b "It's Friday. Another weeks gone by, and I still have no clue what to do. "
 
-    b "Jest piątek. Minął kolejny tydzień, a ja wciąż nie wiem co zrobić. "
+    b "Jest piątek. Minął kolejny tydzień, a ja wciąż nie wiem co powinienem zrobić. "
 
 
 
@@ -138,7 +138,7 @@ translate polish s07_22ed5103:
 
     voice voice_file.lpdcat(7,4)
 
-    lpdcat laugh "\"Aaaaa w ten weekend mamy święto Ching Ming, czyli festiwal sprzątania cmentarzy. Powinniśmy się na nie udać!\" "
+    lpdcat laugh "\"Aaaaa w ten weekend mamy święto Ching Ming, czyli festiwal sprzątania cmentarzy. Powinniśmy się tam udać!\" "
 
 
 
@@ -166,7 +166,7 @@ translate polish s07_3fef34fd:
 
     voice voice_file.lpdcat(7,5)
 
-    lpdcat panic ""
+    lpdcat panic "\"Ale tym razem to co innego!\" To najlepszy moment o tej porze roku by iść na festiwal!\" "
 
 
 
@@ -178,7 +178,7 @@ translate polish s07_115d61a2:
 
     # avt "\"What's so special about this season?\" "
 
-    avt ""
+    avt "\"A co w tym takiego specjalnego?\" "
 
 
 
@@ -194,7 +194,7 @@ translate polish s07_41d7e00e:
 
     voice voice_file.lpdcat(7,6)
 
-    lpdcat cute ""
+    lpdcat cute "\"Daj spokój Liao, pomyśl przez chwilę...\" "
 
 
 
@@ -206,7 +206,7 @@ translate polish s07_7b19d6f6:
 
     # avt "\"Well, it's spring... we already went to the hot springs and you can't say there's many cherry blossoms in Taiwan...\" "
 
-    avt ""
+    avt "\"Tak, jest wiosna... byliśmy już w gorących źródłach, a przecież na Tajwanie nie ma zbyt wiele kwitnących wiśni...\" "
 
 
 
@@ -222,7 +222,7 @@ translate polish s07_95e8aafd:
 
     voice voice_file.lpdcat(7,7)
 
-    lpdcat normal ""
+    lpdcat normal "\"Kwitnące wiśnie. Cieplej, cieplej! Może jest jakieś inne drzewo o jakim myślę?\" "
 
 
 
@@ -234,7 +234,7 @@ translate polish s07_b122ce66:
 
     # avt "\"Uhh... Taiwan doesn't have any blossom festivals. What do you mean?\" "
 
-    avt ""
+    avt "\"Uhh... Tajwan nie ma żadnych festiwali tego typu. Co masz na myśli?\" "
 
 
 
@@ -250,7 +250,7 @@ translate polish s07_14c96796:
 
     voice voice_file.lpdcat(7,8)
 
-    lpdcat laugh ""
+    lpdcat laugh "*wzdycha* \"Serio, nie masz pojęcia o czym mówię, Liao? Mówię o kwitnących tungowcach!\" "
 
 
 
@@ -262,7 +262,7 @@ translate polish s07_032a96c8:
 
     # avt "\"Tung blossoms?\" "
 
-    avt ""
+    avt "\"Kwitnących tungowcach?\" "
 
 
 
@@ -278,7 +278,7 @@ translate polish s07_6cea613c:
 
     voice voice_file.lpdcat(7,9)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Co? Jak możesz o nich nie wiedzieć? Przecież są dosłownie wszędzie!\" "
 
 
 
@@ -294,7 +294,7 @@ translate polish s07_54a50b86:
 
     voice voice_file.lpdcat(7,10)
 
-    lpdcat normal ""
+    lpdcat normal "\"Niedługo wszystkie ogrody drzew tungowych będą pełne turystów, którzy chcą je zobaczyć. A to znaczy, że teraz jest najlepszy moment by tam iść! Reklamy promujące {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Festiwal Kwitnących Tungowców{/font} były dosłownie wszędzie! (Jak mogłeś tego nie zauważyć?)\" "
 
 
 
@@ -306,7 +306,7 @@ translate polish s07_affa2c2f:
 
     # avt "\"Huh, the Hakka Tung Blossom Festival?\" "
 
-    avt ""
+    avt "\"Hę, Festiwal Kwitnących Tungowców?\" "
 
 
 
