@@ -380,9 +380,9 @@ translate polish s07_e5a7ac9c:
 
     voice voice_file.lpdcat(7,12)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"No, najlepsze ogrody są w Hsinchu i Miaoli. Chociaż bardzo chciałbym pokazać ci moje miasto pokryte morzem kwiatów, pewnie nie chcesz iść aż tak daleko.\" "
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Pobliskie miejsca też są bardzo fajne!\" "
 
 
 
@@ -394,7 +394,7 @@ translate polish s07_02e279b5:
 
     # avt "\"So where are they around here?\" "
 
-    avt ""
+    avt "\"To gdzie możemy je znaleźć?\" "
 
 
 
@@ -410,7 +410,7 @@ translate polish s07_3cd87c39:
 
     voice voice_file.lpdcat(7,13)
 
-    lpdcat cute ""
+    lpdcat cute "\"Ta góra w oddali za naszym kampusem jest znana ze wspaniałych ogrodów. Idealna, jednodniowa wyprawa dla nas dwóch~\" "
 
 
 
@@ -422,7 +422,7 @@ translate polish s07_158ee4f4:
 
     # avt "\"Huh, that's actually not that far out. But since it's in the mountains... that that means we have to hike up, don't we?\" "
 
-    avt ""
+    avt "\"Heh, to wcale nie jest tak daleko. Ale skoro to w górach... będziemy musieli się iść tam pieszo, tak?\" "
 
 
 
@@ -438,7 +438,7 @@ translate polish s07_c0f03d98:
 
     voice voice_file.lpdcat(7,14)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nie lubisz pieszych wędrówek?\" "
 
 
 
@@ -450,7 +450,7 @@ translate polish s07_2a45be63:
 
     # avt "\"Oh— It's not that, I'm just thinking out loud.\" "
 
-    avt ""
+    avt "\"Och- Nie o to chodzi. Tylko głośno myślę.\" "
 
 
 
@@ -462,7 +462,7 @@ translate polish s07_901edee6:
 
     # b "Honestly, it sounds a lot nicer than the usual \"Liao, let's go look at some shops full of stuff we can't buy!\" I don't know why but I prefer places that don't have many people \naround. "
 
-    b ""
+    b "Szczerze- to brzmi o wiele lepiej niż typowe \"Liao, chodźmy obejrzeć kilka sklepów pełnych rzeczy na które nas nie stać!\" Nie wiem czemu, ale wolę miejsca w których nie kręci się aż tyle ludzi. "
 
 
 
@@ -474,7 +474,7 @@ translate polish s07_fc3d9fc0:
 
     # avt "\"Okay. So what do we need to bring?\" "
 
-    avt ""
+    avt "\"Dobra. Co musimy ze sobą zabrać?\" "
 
 
 
@@ -490,7 +490,7 @@ translate polish s07_9730d899:
 
     voice voice_file.lpdcat(7,15)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Możemy wziąć parę rzeczy na piknik. Nie będzie z tym za dużo roboty. Mogę zrobić to dla ciebie, jeśli chcesz~\" "
 
 
 
@@ -502,7 +502,7 @@ translate polish s07_415146c2:
 
     # avt "\"Yeah sounds good, I'm all for it... but I'm not sure about how the other two feel about it.\" "
 
-    avt ""
+    avt "\"Brzmi nieźle, jestem za... ale nie wiem co na to pozostali dwaj.\" "
 
 
 
@@ -514,7 +514,7 @@ translate polish s07_17a95166:
 
     # b "I turn to look at the other two cats. The tiger shrugs his shoulders, and the leopard is just sitting there looking blankly like usual. "
 
-    b ""
+    b "Odwracam się w kierunku pozostałych dwóch kotów. Tygrys wzrusza ramionami, a pantera tępo patrzy przed siebie jak zwykle. "
 
 
 
@@ -530,7 +530,7 @@ translate polish s07_94a392c0:
 
     voice voice_file.tig(7,1)
 
-    tig normal ""
+    tig normal "\"Nie mam żadnego problemu z tą wycieczką.\" "
 
 
 
@@ -542,7 +542,7 @@ translate polish s07_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -558,7 +558,7 @@ translate polish s07_bf518b3d:
 
     voice voice_file.lpdcat(7,16)
 
-    lpdcat happy "" with flash
+    lpdcat happy "\"No to postanowione! Jutro idziemy zobaczyć kwitnące kwiaty!\" " with flash
 
 
 
@@ -570,7 +570,7 @@ translate polish s07_cd28dcca:
 
     # b "And that's how yet another weekend was planned out for me. "
 
-    b ""
+    b "I tak oto mój kolejny weekend został już zaplanowany. "
 
 
 
@@ -582,7 +582,7 @@ translate polish s07_e730f137:
 
     # avt "\"Brr— It's so cold...\" "
 
-    avt ""
+    avt "\"Brr- Ale zimno...\" "
 
 
 
@@ -598,7 +598,7 @@ translate polish s07_9dd1e6fb:
 
     voice voice_file.lpdcat(7,17)
 
-    lpdcat normal ""
+    lpdcat normal "\"Tak. Powietrze tutaj jest bardzo rześkie~\" "
 
 
 
@@ -610,7 +610,7 @@ translate polish s07_706b14df:
 
     # avt "\"Are you even capable of felling cold Senpai...\" "
 
-    avt ""
+    avt "\"Czy jesteś w stanie czuć jakiekolwiek zimno, Senpai...\" "
 
 
 
@@ -626,7 +626,7 @@ translate polish s07_218b196f:
 
     voice voice_file.lpdcat(7,18)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ehh, mamy już kwiecień. Komu potrzebna kurtka o tej porze roku?\" "
 
 
 
@@ -638,7 +638,7 @@ translate polish s07_30eab263:
 
     # avt "\"This high up of course you need a jacket!\" "
 
-    avt ""
+    avt "\"Na tej wysokości na pewno by ci się przydała!\" "
 
 
 
@@ -654,7 +654,7 @@ translate polish s07_72857542:
 
     voice voice_file.lpdcat(7,19)
 
-    lpdcat pu ""
+    lpdcat pu "\"Oooh- Liao nie radzi sobie z chłodnym wiatrem.\" "
 
 
 
@@ -666,7 +666,7 @@ translate polish s07_2ad11504:
 
     # avt "\"But you have fur! That's hardly fair!\" "
 
-    avt ""
+    avt "\"Ale ty masz futro! To nie do końca fair!\" "
 
 
 
@@ -682,7 +682,7 @@ translate polish s07_0a266b58:
 
     voice voice_file.lpdcat(7,20)
 
-    lpdcat cute ""
+    lpdcat cute "\"No, nie bardzo~\" "
 
 
 
@@ -694,7 +694,7 @@ translate polish s07_40daf286:
 
     # avt "\"Tiger and Leopard are spirits so it's not like they feel the cold.\" "
 
-    avt ""
+    avt "\"Tygrys i Pantera są duchami zatem nie czują wcale zimna.\" "
 
 
 
@@ -710,7 +710,7 @@ translate polish s07_7fbbd371:
 
     voice voice_file.tig(7,2)
 
-    tig frown ""
+    tig frown "\"Wy dwaj, wystarczy. Kociaku, nie bałamuć Liao bo złapie przeziębienie.\" "
 
 
 
@@ -726,7 +726,7 @@ translate polish s07_7155c647:
 
     voice voice_file.lpdcat(7,21)
 
-    lpdcat pout ""
+    lpdcat pout "\"Ooh- Ten staruszek zawsze każe ci się cieplej ubierać. Zakładanie tylu ubrań jest męczące, a wszystko tylko po to by je później zdjąć~\" "
 
 
 
@@ -742,7 +742,7 @@ translate polish s07_08071315:
 
     voice voice_file.tig(7,3)
 
-    tig normal ""
+    tig normal "\"Oh, bardziej męczące niż choroba?\" "
 
 
 
@@ -754,7 +754,7 @@ translate polish s07_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -766,7 +766,7 @@ translate polish s07_152ee5de:
 
     # b "Leopard comes over to me. Before I work out what he's doing, he presses his paws against my ears, sending his warmth right through me. It really cuts through the cold. "
 
-    b ""
+    b "Pantera podchodzi do mnie. Zanim orientuje się co chce zrobić- przyciska łapy do moich uszu, przesyłając mi swe ciepło. Dosłownie rozprasza całe zimno dokoła. "
 
 
 
@@ -778,7 +778,7 @@ translate polish s07_95679788:
 
     # avt "\"Oh... Thank you.\" " with hshake
 
-    avt "" with hshake
+    avt "\"Och... Dziękuję.\" " with hshake
 
 
 
@@ -794,7 +794,7 @@ translate polish s07_35c30c41:
 
     voice voice_file.lpdcat(7,22)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Ooooh- Chcę spróbować!\" "
 
 
 
@@ -806,7 +806,7 @@ translate polish s07_ea36143d:
 
     # b "Senpai runs over and gives me a big hug. " with vshake
 
-    b "" with vshake
+    b "Senpai podbiega i mocno mnie przytula. " with vshake
 
 
 
@@ -822,7 +822,7 @@ translate polish s07_12481c35:
 
     voice voice_file.tig(7,4)
 
-    tig lift ""
+    tig lift "\"Kociaku...\" *wzdycha* "
 
 
 
@@ -834,7 +834,7 @@ translate polish s07_f7f4dde7:
 
     # b "I was expecting Tiger to come over and Pull Senpai off me, instead he pulls all of us— including Senpai and Leopard— into his arms with one big hug. " with vshake
 
-    b "" with vshake
+    b "Myślałem, że Tygrys ściągnie ze mnie Senpai'a, ale zamiast tego przyciąga nas wszystkich- Senpai'a i Panterę też- do siebie w jednym dużym uścisku. " with vshake
 
 
 
@@ -846,7 +846,7 @@ translate polish s07_1633430b:
 
     # avt "\"Waa— ngh. Okay... I-{w=0.2}I think that's enough...\" "
 
-    avt ""
+    avt "\"Coo- nnh. Dobra... M-{w=0.2}Myślę, że już wystarczy...\" "
 
 
 
@@ -858,7 +858,7 @@ translate polish s07_fa1fda07:
 
     # b "Being hugged by the three of them really is heartwarming. But I'm kinda anxious over someone seeing us, well me and Senpai that is... It's weird for two guys to be hugging like this out in the open! "
 
-    b ""
+    b "Bycie tulony przez ich trzech jest naprawdę sympatyczne. Ale trochę niepokoi mnie myśl, że ktoś może nas zobaczyć- to jest mnie i Senpai'a. To dziwne by dwóch chłopaków przytulało się w ten sposób w takim miejscu! "
 
 
 
@@ -870,7 +870,7 @@ translate polish s07_5d74d62f:
 
     # avt "\"Hey, okay— okay—\" "
 
-    avt ""
+    avt "\"Hek, dobra- dobra-\" "
 
 
 
@@ -886,7 +886,11 @@ translate polish s07_b0fcb109:
 
     # b "Worried about anyone having seen us, I rush them to move on. "
 
-    b ""
+    b "Pomyślałem przez chwilę by spróbować ich odepchnąć, ale dotarło do mnie, że i tak nic z tego. A więc stałem tam- ciesząc się ich troską i ciepłem. "
+
+    b "Puścili mnie... w końcu. "
+
+    b "W obawie, że ktoś mógł nas zobaczyć, poganiam ich by ruszać dalej. "
 
 
 
@@ -902,7 +906,7 @@ translate polish s07_499467a2:
 
     voice voice_file.lagu(7,1)
 
-    lagu2 normal ""
+    lagu2 normal "\"...A więc to oni, heh. Nie spodziewałem się, że plotki okażą się prawdziwe. Och, to będzie zabawne.\" "
 
 
 
@@ -914,7 +918,7 @@ translate polish s07_f3201230:
 
     # b "We follow Senpai to a small path going up the mountain. "
 
-    b ""
+    b "Podążamy za Senpai'em do małej ścieżki prowadzącej w głąb góry. "
 
 
 
@@ -926,7 +930,7 @@ translate polish s07_ceaf744e:
 
     # b "While this mountain has been built up for tourism, the hiking trails wind all over the place. Without Senpai, we'd probably have gotten lost by now. "
 
-    b ""
+    b "Dlatego, że została zagospodarowana z myślą o turystach, szlaki wędrują dosłownie wszędzie. Bez Senpai'a prawdopodobnie byśmy się zgubili. "
 
 
 
@@ -942,7 +946,7 @@ translate polish s07_5ce48905:
 
     voice voice_file.lpdcat(7,23)
 
-    lpdcat normal ""
+    lpdcat normal "\"Daj mi spojrzeć... okej. Zgodnie z mapą- te miejsce powinno być najlepsze do zobaczenia kwiatów. Tędy...\" "
 
 
 
@@ -954,7 +958,7 @@ translate polish s07_b1125a14:
 
     # avt "\"Hey Senpai, what do tung flowers even look like?\" "
 
-    avt ""
+    avt "\"Hej Senpai, jak wyglądają kwiaty tungowca?\" "
 
 
 
@@ -970,7 +974,7 @@ translate polish s07_34906972:
 
     voice voice_file.lpdcat(7,24)
 
-    lpdcat normal ""
+    lpdcat normal "\"Och? Są całe białe, a gdy spadają na ziemię wyglądają jak śnieg... Dziwi mnie, że jeszcze na żadne nie natrafiliśmy, powinny być gdzieś tutaj...\" "
 
 
 
@@ -982,7 +986,7 @@ translate polish s07_07794539:
 
     # b "We walk down the path, enjoying the fresh mountain air, but still not seeing any flowers other than than a few bushes growing alongside the hiking trails. "
 
-    b ""
+    b "Idziemy wzdłuż ścieżki, ciesząc się świeżym, górskim powietrzem, ale wciąż nie natrafiliśmy na żadne kwiaty poza kilkoma krzakami rosnącymi przy szlaku. "
 
 
 
@@ -998,7 +1002,7 @@ translate polish s07_a768c091:
 
     voice voice_file.lpdcat(7,25)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Może jeśli pójdziemy jeszcze trochę dalej...\" "
 
 
 
@@ -1012,7 +1016,9 @@ translate polish s07_80aa76ad:
 
     # b "The neatly placed stone walkways make hiking up a mountain feel like a leisurely walk through the park. "
 
-    b ""
+    b "Idziemy dalej wzdłuż szlaku aż trafiamy na rząd kamiennych schodów.\n(Ciężko sobie wyobrazić ile kamienia musieli tutaj przynieść, by je zbudować.) "
+
+    b "Starannie umieszczone kamienne stopnie sprawiają, że wędrówka po górach sprawia wrażenie powolnego spaceru po parku. "
 
 
 
@@ -1024,7 +1030,7 @@ translate polish s07_b7c704cc:
 
     # b "A little further on and the walkways ceased to be paved with stone, becoming dirt paths, stamped out by visitors over decades of use. Thankfully the weather had been nice the last few days so it wasn't muddy. "
 
-    b ""
+    b "Nieco dalej i kamienne stopnie zaczęły znikać pod stertami piachu, wytępione stopami odwiedzających przez dziesięciolecia użytkowania. Na szczęście przez ostatnie kilka dni była dobra pogoda, więc nie było błota. "
 
 
 
@@ -1040,7 +1046,7 @@ translate polish s07_e8a712a4:
 
     voice voice_file.lpdcat(7,26)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"To dziwne... przeszliśmy taką drogę i wciąż nie znaleźliśmy kwiatów.\" "
 
 
 
@@ -1052,7 +1058,7 @@ translate polish s07_30457b43:
 
     # avt "\"You think we went the wrong way?\" "
 
-    avt ""
+    avt "\"Myślisz, że mogliśmy pójść złą drogą?\" "
 
 
 
@@ -1068,7 +1074,7 @@ translate polish s07_479dd5e0:
 
     voice voice_file.lpdcat(7,27)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"A może...\" "
 
 
 
@@ -1080,7 +1086,7 @@ translate polish s07_e627c9f5:
 
     # avt "\"Maybe what?\" "
 
-    avt ""
+    avt "\"Może co?\" "
 
 
 
