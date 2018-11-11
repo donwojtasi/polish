@@ -1098,7 +1098,7 @@ translate polish s07_9001b2ba:
 
     # b "Senpai didn't answer and just kept walking quickly ahead, the map held tightly in his hand. There was nothing I could do but follow. "
 
-    b ""
+    b "Senpai nie odpowiedział, tylko szedł dalej w ciszy, ściskając w ręku mapę. Nie pozostało mi nic innego, niż iść za nim. "
 
 
 
@@ -1114,7 +1114,7 @@ translate polish s07_a18c76dc:
 
     voice voice_file.lpdcat(7,28)
 
-    lpdcat confused ""
+    lpdcat confused "\"To powinno być gdzieś tutaj...\" "
 
 
 
@@ -1126,7 +1126,7 @@ translate polish s07_0d77fad4:
 
     # b "We arrived at a place that looked like an abandoned farm with a small hut on the far \nside. "
 
-    b ""
+    b "Dotarliśmy do miejsca, które wyglądało na opuszczone gospodarstwo z małą chatą w oddali. "
 
 
 
@@ -1138,7 +1138,7 @@ translate polish s07_6b5fdb40:
 
     # b "Next to the empty field stood a grand tree. It's shade reaching out over the ground below where a large boulder laid beneath. It seemed like the perfect place to sit and have a \nrest. "
 
-    b ""
+    b "Obok pustego pola stało wielkie drzewo. Jego cień sięgał ziemi na której spoczywał wielki głaz. Wyglądało to na wspaniałe miejsce by usiąść i trochę odpocząć. "
 
 
 
@@ -1154,7 +1154,7 @@ translate polish s07_bba4d995:
 
     voice voice_file.lpdcat(7,29)
 
-    lpdcat serious ""
+    lpdcat serious "\"Tak, to musi być to miejsce... Ale drzewo nie zaczęło jeszcze kwitnąć... porażka.\" "
 
 
 
@@ -1166,7 +1166,7 @@ translate polish s07_ebe610d3:
 
     # avt "\"So this is a tung tree?\" "
 
-    avt ""
+    avt "\"A więc to jest drzewo tungowe?\" "
 
 
 
@@ -1182,7 +1182,7 @@ translate polish s07_2c5070e7:
 
     voice voice_file.lpdcat(7,30)
 
-    lpdcat serious ""
+    lpdcat serious "\"Tak i do tego naprawdę duże, ale chyba jesteśmy tu za wcześnie. W Miaoli kwiaty powinny już kwitnąć mniej więcej teraz...\" "
 
 
 
@@ -1198,7 +1198,7 @@ translate polish s07_a2fd38cd:
 
     voice voice_file.tig(7,5)
 
-    tig lift ""
+    tig lift "\"Hmm... To pewnie dlatego, że jesteśmy na północy.\" "
 
 
 
@@ -1214,7 +1214,7 @@ translate polish s07_a3fcfcdf:
 
     voice voice_file.lpdcat(7,31)
 
-    lpdcat pout ""
+    lpdcat pout "\"A co to za różnica?\" "
 
 
 
@@ -1230,7 +1230,7 @@ translate polish s07_a4f481dc:
 
     voice voice_file.tig(7,6)
 
-    tig normal ""
+    tig normal "\"Tajpej jest położony na północ od Miaoli, więc pewnie sezon kwiatowy zaczyna się później?\" "
 
 
 
@@ -1246,7 +1246,7 @@ translate polish s07_f285941c:
 
     voice voice_file.lpdcat(7,32)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Co- Tylko nie to!\" "
 
 
 
@@ -1262,7 +1262,7 @@ translate polish s07_ee66432d:
 
     voice voice_file.lpdcat(7,33)
 
-    lpdcat panic ""
+    lpdcat panic "\"Ja-{w=0.2} chciałem tylko zabrać tu Liao by zobaczyć razem kwitnące kwiaty...\" "
 
 
 
@@ -1274,7 +1274,7 @@ translate polish s07_83f9137c:
 
     # avt "\"Senpai... I still think this place is really nice. Isn't it the perfect time to have our picnic anyway?\" "
 
-    avt ""
+    avt "\Senpai... I tak myślę, że to miejsce jest naprawdę niezłe. Czy to nie świetny moment na nasz piknik?\" "
 
 
 
@@ -1286,7 +1286,7 @@ translate polish s07_7319f5af:
 
     # b "It's a shame we didn't see the blossoms, but I didn't know what to expect anyway so it's not like I feel like I missed out on anything. "
 
-    b ""
+    b "Trochę szkoda, że nie zobaczyliśmy płatków... W sumie nie wiedziałem czego mam się spodziewać- a zatem nie czuję żeby coś mnie ominęło. "
 
 
 
@@ -1302,7 +1302,7 @@ translate polish s07_6b321e1d:
 
     voice voice_file.lpdcat(7,34)
 
-    lpdcat serious ""
+    lpdcat serious "\"Hmm- Może jest jakiś sposób...\" "
 
 
 
@@ -1314,7 +1314,7 @@ translate polish s07_f6c00385:
 
     # b "Senpai runs over to the tree, holding his paws against the trunk... "
 
-    b ""
+    b "Senpai podbiega do drzewa, opierając łapy na jego pniu... "
 
 
 
@@ -1330,7 +1330,7 @@ translate polish s07_686b5464:
 
     voice voice_file.lpdcat(7,35)
 
-    lpdcat normal ""
+    lpdcat normal "\"Może jeśli to zrobię... Liao, poczekaj chwilę. Spróbuję zrobić coś trochę trudnego!\" "
 
 
 
@@ -1342,7 +1342,7 @@ translate polish s07_d69c5801:
 
     # avt "\"Woah— Really? \" "
 
-    avt ""
+    avt "\"Łał— Naprawdę?\" "
 
 
 
@@ -1354,7 +1354,7 @@ translate polish s07_7b821894:
 
     # b "Senpai stands before the tree, puts his paws up to his chest, and performs some kind of ritualistic hand sign. A green aura slowly starts to emanate from within him. " with flash_green
 
-    b "" with flash_green
+    b "Senpai staje przed drzewem, kładzie łapy na klatce piersiowej i wykonuje jakiś rytualny znak ręką. Powoli, zaczyna z niego emanować zielona aura. " with flash_green
 
 
 
@@ -1370,7 +1370,7 @@ translate polish s07_cca21f11:
 
     voice voice_file.tig(7,7)
 
-    tig frown ""
+    tig frown "\"Uhh...\" "
 
 
 
@@ -1382,7 +1382,7 @@ translate polish s07_3b5e46f7_1:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -1394,7 +1394,7 @@ translate polish s07_c1f67a18:
 
     # b "Tiger and Leopard seem kinda nervous. What's going on? "
 
-    b ""
+    b "Tygrys i Pantera wyglądają na poddenerwowanych. Co się dzieje? "
 
 
 
@@ -1406,7 +1406,7 @@ translate polish s07_f11cf5cd:
 
     # b "The green aura quickly surrounds the tree, slowly seeping into it. As this happens, the tree begins to shake irrespective of the breeze... "
 
-    b ""
+    b "Zielona aura otacza drzewo w mgnieniu oka, powoli niknąc w jego głębi. Gdy to się dzieje, drzewo zaczyna się trząść niezależnie od wiatru... "
 
 
 
@@ -1420,7 +1420,9 @@ translate polish s07_05d74253:
 
     # b "A sea of white petals cover the branches of the grand tung tree before me. Some of them even begin to fall to the lone boulder below. It's breathtaking. "
 
-    b ""
+    b "Niektóre z pąków kwiatowych na jego czubku zaczynają się otwierać. Nagle, jakby fala energii przeszła przez drzewo, wszystkie kwiaty rozkwitają jednocześnie. "
+
+    b "Morze białych płatków pokrywa gałęzie wielkiego drzewa tungowego. Niektóre z nich zaczynają spadać do samotny głaz leżący poniżej. To zapierający dech w piersiach widok. "
 
 
 
@@ -1436,7 +1438,7 @@ translate polish s07_2b99aab9:
 
     voice voice_file.tig(7,8)
 
-    tig gaze ""
+    tig gaze "\"...Nieźle.\" "
 
 
 
@@ -1452,7 +1454,7 @@ translate polish s07_b7f821c1:
 
     voice voice_file.lpd(7,1)
 
-    lpd laugh ""
+    lpd laugh "\"...Pięknie.\" "
 
 
 
@@ -1464,7 +1466,7 @@ translate polish s07_2fecde5e:
 
     # b "I go over to pick up one of the tung petals. It's pure white, not a blemish to be seen. The flowers even had pollen inside them. If I didn't know any better I would have thought the petal had blossomed normally just like any other. "
 
-    b ""
+    b "Podchodzę bliżej i podnosze jeden z płatków. Jest śnieżnobiały, bez najmniejszej skazy. Kwiaty mają nawet pyłek w środku. Gdybym nie wiedział co się stało- pomyślałbym, że kwiaty zakwitły tak jak każde inne. "
 
 
 
@@ -1476,7 +1478,7 @@ translate polish s07_647e2b81:
 
     # avt "\"...Senpai, that was awesome.\" "
 
-    avt ""
+    avt "\"...Sepai, to było niesamowite.\" "
 
 
 
@@ -1492,7 +1494,7 @@ translate polish s07_4f2e5c2f:
 
     voice voice_file.lpdcat(7,36)
 
-    lpdcat cute ""
+    lpdcat cute "\"Hehe- Obłędne, prawda?\" "
 
 
 
@@ -1508,7 +1510,7 @@ translate polish s07_5f397f44:
 
     voice voice_file.lpdcat(7,37)
 
-    lpdcat happy ""
+    lpdcat happy "\"Może to tylko jedno drzewo, ale przynajmniej zobaczyłeś jak kwitnie tungowiec, Liao!\" "
 
 
 
@@ -1520,7 +1522,7 @@ translate polish s07_4b94f945:
 
     # avt "\"But Senpai, I thought you didn't have any god powers? How'd you manage something like that?\" "
 
-    avt ""
+    avt "\"Ale Senpai- myślałem, że nie masz żadnych boskich mocy. Jak ci się udało zrobić coś takiego?\" "
 
 
 
@@ -1536,7 +1538,7 @@ translate polish s07_f437c6f9:
 
     voice voice_file.lpdcat(7,38)
 
-    lpdcat normal ""
+    lpdcat normal "\"Och, mam tę moc od kiedy zostałem yaoguai. Przecież nie nauczysz się takich sztuczek od lokalnego Boga Ziemi~\" "
 
 
 
@@ -1548,7 +1550,7 @@ translate polish s07_b93c5936:
 
     # avt "\"Oh...\" "
 
-    avt ""
+    avt "\"Och...\" "
 
 
 
@@ -1564,7 +1566,7 @@ translate polish s07_87bb3b49:
 
     voice voice_file.lpdcat(7,39)
 
-    lpdcat happy ""
+    lpdcat happy "\"Teraz gdy przygotowałem już tę wspaniałą scenerię- pośpieszmy się i zasiądźmy do naszego pikniku!\" "
 
 
 
