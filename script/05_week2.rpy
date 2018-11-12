@@ -1590,7 +1590,7 @@ translate polish week2_03_e9b5c68c:
 
     # b "Ahhhh— All I wanted to know was how he got the answers... "
 
-    b "Achhhh- Ja tylko chciałem wiedzieć, skąd on znał odpowiedzi... "
+    b "Achhhh- A ja tylko chciałem się dowiedzieć, skąd on znał odpowiedzi... "
 
 
 
