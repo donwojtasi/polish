@@ -1182,7 +1182,7 @@ translate polish week2_03_d0a50f23:
 
     # b "It's not like math was my strength to begin with. Even though I managed to review the whole topic, doesn't change the fact I didn't understand all of it. "
 
-    b "Matma nigdy nie była moją mocną stroną. Mimo, że udało mi się powtórzyć cały temat, nie zmienia to faktu, że nie zrozumiałem wszystkiego. "
+    b "Matma nigdy nie była moją mocną stroną. Mimo że udało mi się powtórzyć cały temat, nie zmienia to faktu, że nie zrozumiałem wszystkiego. "
 
 
 
@@ -1206,7 +1206,7 @@ translate polish week2_03_9bbe5364:
 
     # b "But, I'll never get through this quiz by complaining about it. I keep calm, walk into the class and gently take my seat. "
 
-    b "Nie ma szans bym napisał ten test ciągle narzekając. Staram się zachować spokój, wchodzę do klasy i cicho zajmuje swoje miejsce. "
+    b "Nie ma szans bym napisał ten test ciągle narzekając. Starając się zachować spokój, wchodzę do klasy i cicho zajmuję swoje miejsce. "
 
 
 
@@ -1326,7 +1326,7 @@ translate polish week2_03_c2765220:
 
     # b "I look up to see Leopard nod slightly. Is that really the answer? "
 
-    b "Spoglądam i widzę, że Pantera lekko kiwa głową. Czy to naprawdę odpowiedź? "
+    b "Spoglądam i widzę, że Pantera lekko kiwa głową. Czy to naprawdę poprawna odpowiedź? "
 
 
 
@@ -1392,7 +1392,7 @@ translate polish week2_03_aac9a080:
 
     # b "Was he actually learning math?! "
 
-    b "Podczas zajęć zawsze siedział skupiony z tym swoim poważnym spojrzeniem, ale myślałem, że po prostu próbuje poduczyć się mandaryńskiego. "
+    b "Podczas zajęć zawsze siedział skupiony z tym swoim poważnym spojrzeniem- ale myślałem, że po prostu próbuje poduczyć się mandaryńskiego. "
 
     b "Czy on tak naprawdę uczył się matematyki?! "
 
@@ -1462,7 +1462,7 @@ translate polish week2_03_a5aa71f1:
 
     # b "I mean, are these even the answers? I'd doubt he'd lie about it though and it's not like I've got any better options. "
 
-    b "To znaczy, czy to są w ogóle prawidłowe odpowiedzi? Wątpię, by próbował mnie oszukać, a i nie mam za bardzo innego wyboru. "
+    b "Tylko, czy to są w ogóle prawidłowe odpowiedzi? Chociaż wątpię, by próbował mnie oszukać- i nie mam za bardzo innego wyboru. "
 
 
 
@@ -1566,7 +1566,7 @@ translate polish week2_03_dac9aaf9:
 
     # b "He was just reading out other people answers! So does that mean I just copied on my quiz? "
 
-    b "Po prostu czytał odpowiedzi innych osób! Czy to oznacza, że oszukiwałem na teście? " with hshake
+    b "On po prostu czytał odpowiedzi innych osób! Czy to oznacza, że oszukiwałem na teście? " with hshake
 
 
 
@@ -1578,7 +1578,7 @@ translate polish week2_03_e87a0f80:
 
     # b "That's cheating...{w=0.5}Well. I was already cheating when got his help on the quiz to begin with. It doesn't matter whether where he got the answers from. "
 
-    b "To ściąganie...{w=0.5}No cóż, tak naprawdę to oszukiwałem już od chwili, gdy zgodziłem się na jego pomoc. Nie ważne w jaki sposób mi pomagał i co zrobił. "
+    b "To się nazywa ściąganie...{w=0.5}No cóż, tak naprawdę to oszukiwałem już od chwili, gdy zgodziłem się na jego pomoc. Nieważne w jaki sposób mi pomagał i co zrobił. "
 
 
 
@@ -1590,7 +1590,7 @@ translate polish week2_03_e9b5c68c:
 
     # b "Ahhhh— All I wanted to know was how he got the answers... "
 
-    b "Achhhh- Ja tylko chciałem wiedzieć, skąd on miał te odpowiedzi... "
+    b "Achhhh- Ja tylko chciałem wiedzieć, skąd on znał odpowiedzi... "
 
 
 
@@ -1602,7 +1602,7 @@ translate polish week2_03_0494e1ff:
 
     # b "I didn't want to cheat! Why didn't Guardian Tiger stop him?! "
 
-    b "Nie chciałem ściągać! Czemu Tygrysi Strażnik go nie powstrzymał?! "
+    b "Nie chciałem ściągać! Dlaczego Tygrysi Strażnik go nie powstrzymał?! "
 
 
 
@@ -1638,7 +1638,7 @@ translate polish week2_03_7a2b5e32:
 
     # b "I start to pack my stuff and get ready to leave. There's nothing I can do anyway, and at least I completed the first half by myself... "
 
-    b "Zaczynam pakować swoje rzeczy i przygotowywać się do wyjścia. Nic już teraz nie mogę zrobić, a przynajmniej sam wypełniłem pierwszą połowę... "
+    b "Zaczynam pakować swoje rzeczy i przygotowywać się do wyjścia. Nic już teraz nie mogę zrobić- przynajmniej sam wypełniłem pierwszą połowę... "
 
 
 
@@ -1664,9 +1664,9 @@ translate polish week2_03_6c754480:
 
     # b "I won't let this happen again. But how should I explain it to Leopard? I wonder if he knows what an exam is? "
 
-    b "Dobra! Od teraz muszę tylko bardziej przyłożyć się do nauki! "
+    b "Dobra! Od teraz muszę się tylko bardziej przyłożyć do nauki! "
 
-    b "Nie pozwolę, by stało się to ponownie. Tylko jak powinienem wytłumaczyć to Panterze? Ciekawe, czy on wie co to jest egzamin? "
+    b "Nie pozwolę by taka sytuacja zaszła ponownie. Tylko jak powinienem wytłumaczyć to Panterze? Ciekawe, czy on wie co to jest egzamin? "
 
 
 
@@ -1738,7 +1738,7 @@ translate polish week2_03_b6727aa4:
 
     # avt "\"I mean... you shouldn't copy other people's answers. That's against the rules, and not fair to others. So don't do that.\" "
 
-    avt "\"To znaczy... nie powinieneś kopiować odpowiedzi od reszty ludzi. To sprzeczne z zasadami i nie w porządku wobec innych. Więc nie rób tak.\" "
+    avt "\"To znaczy... nie powinieneś kopiować odpowiedzi od innych osób. To sprzeczne z zasadami i nie w porządku wobec innych. Nie rób tak więcej.\" "
 
 
 
@@ -1794,7 +1794,7 @@ translate polish week2_03_d6719ab5:
 
     # avt "\"So don't do that again. Sorry I didn't realise those were other people's answers and I just followed you. So next time, please don't tell me other people's answers.\" "
 
-    avt "\"Nie rób tego więcej. Przepraszam, nie zorientowałem się skąd masz te odpowiedzi i po prostu je od ciebie wziąłem. Następnym razem mi nie podpowiadaj.\"   "
+    avt "\"Nie rób tego więcej. Przepraszam, że nie zorientowałem się skąd masz te odpowiedzi i po prostu je od ciebie wziąłem. Następnym razem mi nie podpowiadaj.\"   "
 
 
 
@@ -1818,7 +1818,7 @@ translate polish week2_03_4ae13dba:
 
     # avt "\"But... thank you anyway.\" "
 
-    avt "\"Ale... Dziękuje mimo wszystko.\" "
+    avt "\"Ale... Dziękuję mimo wszystko.\" "
 
 
 
@@ -1830,7 +1830,7 @@ translate polish week2_03_cb8c479d:
 
     # b "I understood that that he just wanted to help, but even with the best intentions he made a mistake. "
 
-    b "Zrozumiałem, że chciał mi tylko pomóc, ale nawet mając najlepsze intencje, postąpił niewłaściwie. "
+    b "Rozumiem, że chciał mi tylko pomóc- ale nawet mając najlepsze intencje, postąpił niewłaściwie. "
 
 
 
@@ -1842,7 +1842,7 @@ translate polish week2_03_44525028:
 
     # b "Even if I pass this quiz, that's all I get out of it. I won't pass the final exam without actual study anyway... "
 
-    b "Nawet jeśli zdam ten test, to to by było na tyle. I tak nie zdam końcowego egzaminu bez konkretnej nauki... "
+    b "Nawet jeśli zdam ten test- to byłoby na tyle. Nie uporam się z końcowym egzaminem bez konkretnej nauki... "
 
 
 
@@ -1854,7 +1854,7 @@ translate polish week2_03_eb836d81:
 
     # b "I mean... what if he helped me during the final as well? "
 
-    b "W sumie... a co gdyby pomógł mi też podczas końcowego egzaminu? "
+    b "Właściwie... a co, gdyby pomógł mi też podczas końcowego egzaminu? "
 
 
 
@@ -1878,7 +1878,7 @@ translate polish week2_03_53f8f27a:
 
     # b "So, if I can just cheat with Leopard's help... "
 
-    b "Gdybym tylko mógł ściągać z pomocą Pantery... "
+    b "Gdybym tak tylko mógł ściągać z pomocą Pantery... "
 
 
 
@@ -1902,7 +1902,7 @@ translate polish week2_03_a0445b80:
 
     # b "I hesitate over it for a while, but with my stuff packed up I leave the classroom. "
 
-    b "Waham się nad tym przez chwilę, ale spakowany wychodzę już z klasy. "
+    b "Waham się nad tym przez chwilę, ale spakowany wychodzę w końcu z klasy. "
 
 
 
