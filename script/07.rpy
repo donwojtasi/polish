@@ -2462,7 +2462,7 @@ translate polish s07_03_ab38ce9b:
 
     voice voice_file.lagu(7,7)
 
-    lagu2 laugh "\"Wahaha- Każdy tak reaguje. Jestem aż tak wyjątkowy, hę?\" "
+    lagu2 laugh "\"Łahaha- Każdy tak reaguje. Jestem aż tak wyjątkowy, hę?\" "
 
 
 
@@ -2646,7 +2646,7 @@ translate polish s07_03_a696b05a:
 
     voice voice_file.tig(7,19)
 
-    tig lift "\"Bogowie Ziemi mogą przybrać różne formy, Liao...\" "
+    tig lift "\"Bogowie Ziemi przybierają różne formy, Liao...\" "
 
 
 
@@ -2662,7 +2662,7 @@ translate polish s07_03_3e62365c:
 
     voice voice_file.lpdcat(7,55)
 
-    lpdcat normal ""
+    lpdcat normal "\"Może być trochę dziwny, ale z takim Chi... na pewno jest prawdziwy.\" "
 
 
 
@@ -2674,7 +2674,7 @@ translate polish s07_03_c8c58da8:
 
     # avt "\"You've got to be the weirdest god I've ever seen...\" "
 
-    avt ""
+    avt "\"Jesteś chyba najdziwniejszym bogiem jakiego widziałem...\" "
 
 
 
@@ -2690,7 +2690,7 @@ translate polish s07_03_08f1bd26:
 
     voice voice_file.lagu(7,9)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- To prawda. Nawet ja sądzę, że wyglądam wyjątkowo.\" "
 
 
 
@@ -2702,7 +2702,7 @@ translate polish s07_03_f5be6c9f:
 
     # b "Well at least he's proud of himself, but that doesn't really answer why he's dressed like that! "
 
-    b ""
+    b "Przynajmniej jest z siebie dumny- to jednak nie tłumaczy dlaczego jest tak ubrany! "
 
 
 
@@ -2718,7 +2718,7 @@ translate polish s07_03_deee93a0:
 
     voice voice_file.lpd(7,7)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao... Myślę, że chce wiedzieć... Dlaczego inny?\" "
 
 
 
@@ -2736,7 +2736,9 @@ translate polish s07_03_843b879f:
 
     voice voice_file.lagu(7,10)
 
-    lagu normal ""
+    lagu normal "\"Hmmm... Chyba zawsze miałem w sobie coś takiego...\" "
+
+    lagu normal "\"Kiedyś byłem starym drzewem, potem zostałem Leśnym Lordem, a potem... o, racja! Te ubrania, spróbuj zgadnąć czym one są?!\" "
 
 
 
@@ -2748,7 +2750,7 @@ translate polish s07_03_42ce5908:
 
     # b "How are we supposed to know where his weird clothes came from? "
 
-    b ""
+    b "Jak mamy się dowiedzieć, skąd wziął się jego dziwaczny ubiór? "
 
 
 
@@ -2764,7 +2766,7 @@ translate polish s07_03_5013848f:
 
     voice voice_file.lagu(7,11)
 
-    lagu laugh ""
+    lagu laugh "\"Ahh- Nawet nie spróbujesz mnie rozbawić? Cóż, mogę w sumie ci powiedzieć. To sieć do zabezpieczania osuwisk.\" "
 
 
 
@@ -2776,7 +2778,7 @@ translate polish s07_03_4f66307d:
 
     # avt "\"Oh, you mean those ones along the edges of cliffs to prevent rocks from falling?\" "
 
-    avt ""
+    avt "\"Och, masz na myśli te, które rozmieszczone są na krawędziach urwisk by zatrzymać kamienie przed spadnięciem?\""
 
 
 
@@ -2792,7 +2794,7 @@ translate polish s07_03_f95947ec:
 
     voice voice_file.lagu(7,12)
 
-    lagu normal ""
+    lagu normal "\"Dokładnie. Spadające kamienie oplotły mnie tą siecią. Od tamtego momentu wszyscy moi wyznawcy widzą mnie w ten sposób.\" "
 
 
 
@@ -2804,7 +2806,7 @@ translate polish s07_03_b7c6a3c9:
 
     # avt "\"...All right, I guess that makes sense. But why would a Grand Tree Lord look like a dragon?\" "
 
-    avt ""
+    avt "\"...Dobra, to ma sens. Ale dlaczego Leśny Lord wygląda jak smok?\" "
 
 
 
@@ -2820,7 +2822,7 @@ translate polish s07_03_fcd01b29:
 
     voice voice_file.lagu(7,13)
 
-    lagu laugh ""
+    lagu laugh "\"Łahahaha! No pewnie... Mój pień przypomina swym kształtem smoka.\" "
 
 
 
@@ -2832,7 +2834,7 @@ translate polish s07_03_966e0100:
 
     # avt "\"Really? A dragon?\" "
 
-    avt ""
+    avt "\"Naprawdę? Smoka?\" "
 
 
 
@@ -2848,7 +2850,7 @@ translate polish s07_03_3a0a0c8f:
 
     voice voice_file.lagu(7,14)
 
-    lagu normal ""
+    lagu normal "\"Dokładnie. Jakiś czas temu zostałem uderzony piorunem. Od tego czasu ludzie sądzą, że wyglądam jak smok.\" "
 
 
 
@@ -2866,7 +2868,9 @@ translate polish s07_03_80dcc0cf:
 
     voice voice_file.lagu(7,15)
 
-    lagu normal ""
+    lagu normal "\"Z początku tego nie zauważyłem, ale po jakimś czasie pewien artysta namalował mnie na swoim płótnie.\" "
+
+    lagu normal "\"Na jego obrazie wyglądałem jak smok śpiący w czarnych obłokach burzy z piorunami. Wciąż nie wiem, czy mi się to podoba... ale to z pewnością było dzieło mistrzowskiego artysty.\" "
 
 
 
@@ -2882,7 +2886,7 @@ translate polish s07_03_0a8a1fdc:
 
     voice voice_file.lagu(7,16)
 
-    lagu laugh ""
+    lagu laugh "\"Na malowidle nie nosiłem żadnych ubrań, ale teraz nie mógłbym przecież paradować {i}nago{/i}, \ prawda? Łahaha-\" "
 
 
 
@@ -2894,7 +2898,7 @@ translate polish s07_03_0580cc84:
 
     # avt "\"So instead, you gallivant around in a {i}net?{/i}\" "
 
-    avt ""
+    avt "\"W takim razie paradujesz wokoło w {i}sieci?{/i}\" "
 
 
 
@@ -2910,7 +2914,7 @@ translate polish s07_03_cb4515d8:
 
     voice voice_file.lagu(7,17)
 
-    lagu normal ""
+    lagu normal "\"Dokładnie. Zmyślny z ciebie chłopak!\" "
 
 
 
@@ -2924,7 +2928,9 @@ translate polish s07_03_5b9dad18:
 
     # avt "\"So, what about the nickname? I couldn't imagine many Grand Tree Lords who would want to be called Ragoo.\" "
 
-    avt ""
+    avt "\"...Wiesz, jestem studentem.\" "
+
+    avt "\"A o co chodzi z tym przezwiskiem? Nie wyobrażam sobie Leśnych Lordów, którzy chcieliby być nazywani per Ragu.\" "
 
 
 
@@ -2940,7 +2946,7 @@ translate polish s07_03_548132bd:
 
     voice voice_file.lagu(7,18)
 
-    lagu laugh ""
+    lagu laugh "\"Żaden ze mnie lord. Zostałem namalowany jako smok, a ludzi widzieli mnie w {i}tym{/i}. Z grzecznościami mi nie po drodze. A więc zostaje Ragu.\" "
 
 
 
@@ -2952,7 +2958,7 @@ translate polish s07_03_fb5ed486:
 
     # avt "\"...Well then. What are you doing here, Mister Ragoo?\" "
 
-    avt ""
+    avt "\"...Skoro tak. Co tutaj robisz, Panie Ragu?\" "
 
 
 
@@ -2968,7 +2974,7 @@ translate polish s07_03_8cbc3b1a:
 
     voice voice_file.tig(7,20)
 
-    tig frown ""
+    tig frown "\"Liao, nie bądź niegrzeczny.\" "
 
 
 
@@ -2980,7 +2986,7 @@ translate polish s07_03_91e4c917:
 
     # avt "\"All right, sorry, sorry. But... why did you choose to grace us with your presence?\" "
 
-    avt ""
+    avt "Dobrze już, dobrze. Ale... Czemuś to zaszczycił nas swoją obecnością?\" "
 
 
 
@@ -2996,7 +3002,7 @@ translate polish s07_03_a20f1d15:
 
     voice voice_file.lagu(7,19)
 
-    lagu laugh ""
+    lagu laugh "\"Haha- Nie ma potrzeby zachowywać takiej powagi, dzieciaku. Po prostu lubię rozmawiać z moimi wyznawcami.\" "
 
 
 
@@ -3012,7 +3018,7 @@ translate polish s07_03_5663da1c:
 
     voice voice_file.lpdcat(7,56)
 
-    lpdcat pu ""
+    lpdcat pu "\"I być przy tym tak bardzo nie-boski jak to możliwe...\" "
 
 
 
@@ -3028,7 +3034,7 @@ translate polish s07_03_6208421f:
 
     voice voice_file.lagu(7,20)
 
-    lagu normal ""
+    lagu normal "\"Łahaha- To oczywiście nie znaczy, że ludzie nie powinni okazywać swym bogom szacunku. Nie lubię tych formalnych rozmów. To tylko przeszkadza w tym co naprawdę się liczy.\" "
 
 
 
@@ -3040,7 +3046,7 @@ translate polish s07_03_1a782959:
 
     # b "This guy really is a unique god that's for sure. "
 
-    b ""
+    b "Ten gość jest naprawdę wyjątkowym bogiem. "
 
 
 
@@ -3052,7 +3058,7 @@ translate polish s07_03_f0d8f711:
 
     # avt "\"Hmm... But why did you choose to talk to us? Not to mention steal my bento.\" "
 
-    avt ""
+    avt "\"Hmm... Czemu zdecydowałeś się z nami porozmawiać? Nie wspominając o kradzieży mojego bento.\" "
 
 
 
@@ -3068,7 +3074,7 @@ translate polish s07_03_09212a4d:
 
     voice voice_file.lagu(7,21)
 
-    lagu normal ""
+    lagu normal "\"Chciałem się z wami zobaczyć.\" "
 
 
 
@@ -3080,7 +3086,7 @@ translate polish s07_03_1c89add0:
 
     # avt "\"See us?\" "
 
-    avt ""
+    avt "\"Zobaczyć się z nami?\" "
 
 
 
@@ -3096,7 +3102,7 @@ translate polish s07_03_ae9e91d2:
 
     voice voice_file.lagu(7,22)
 
-    lagu normal "" with flash
+    lagu normal "\"Jesteście dobrze znani, nie wiedziałeś?\" " with flash
 
 
 
@@ -3108,7 +3114,7 @@ translate polish s07_03_1340efcc:
 
     # avt "\"Huh? Famous? How can that be...\" "
 
-    avt ""
+    avt "\"Hę? Znani? Jak to możliwe...\" "
 
 
 
@@ -3124,7 +3130,7 @@ translate polish s07_03_adfc9c6b:
 
     voice voice_file.lagu(7,23)
 
-    lagu normal ""
+    lagu normal "\"Chłopiec, który widzi duchy, kręcący się wokoło w towarzystwie trzech kocich bogów! Jesteś tym o którym rozmawiają teraz wszyscy yaoguai! Naprawdę nic nie wiedziałeś?\" "
 
 
 
@@ -3140,7 +3146,7 @@ translate polish s07_03_6b0df202:
 
     voice voice_file.lpd(7,8)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Nie wiedzieć.\" "
 
 
 
@@ -3156,7 +3162,7 @@ translate polish s07_03_75f1c71b:
 
     voice voice_file.lpdcat(7,57)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Cooo- Niemożliwe! ...Naprawdę to nie rozmawiałem z żadnym innym yaoguai od kiedy zacząłem wieść życie jako Yan Shu-Chi.\" "
 
 
 
@@ -3172,7 +3178,7 @@ translate polish s07_03_4dd9b346:
 
     voice voice_file.tig(7,21)
 
-    tig embarrassed ""
+    tig embarrassed "\"...Wiedziałem, że to zmartwi Liao.\" "
 
 
 
@@ -3184,7 +3190,7 @@ translate polish s07_03_e9d05b08:
 
     # avt "\"Huh, Tiger, you {i}knew{/i} \ about this?\" "
 
-    avt ""
+    avt "\"Tygrysie, {i}wiedziałeś{/i} \ o tym?\" "
 
 
 
@@ -3200,7 +3206,7 @@ translate polish s07_03_38b528a2:
 
     voice voice_file.tig(7,22)
 
-    tig normal ""
+    tig normal "\"{i}Wiem,{/i} \ że yaoguai kochają plotkować- to była tylko kwestia czasu abyśmy zostali zauważeni.\" "
 
 
 
@@ -3216,7 +3222,7 @@ translate polish s07_03_3972e469:
 
     voice voice_file.lagu(7,24)
 
-    lagu normal ""
+    lagu normal "\"Słyszałem, że uzbierałeś sobie niezłe stadko- pozwoliłeś tym trzem łazić za tobą, nawet nie podejmując decyzji którego z nich kochasz...\" "
 
 
 
@@ -3228,7 +3234,7 @@ translate polish s07_03_2a3b6bc7:
 
     # avt "\"What! That's what they're saying?! What do the yaoguai think they know about \nthis?!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Co! To właśnie mówią?! A co niby yaougai o tym wiedzą?!\" " with hshake
 
 
 
