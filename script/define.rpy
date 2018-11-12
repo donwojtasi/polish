@@ -40,7 +40,7 @@ translate polish strings:
 
     # old "Ragoo"
     old "拉古"
-    new "Ragoo"
+    new "Ragu"
 
     # old "Lecturer"
     old "老師"

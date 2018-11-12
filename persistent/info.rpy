@@ -112,7 +112,7 @@ translate polish strings:
 
     # old "Grand Tree Lord"
     old "樹王公"
-    new "Władca Drzew"
+    new "Wielki Drzewny..."
 
     # old "Guanyin"
     old "觀音"

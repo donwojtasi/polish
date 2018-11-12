@@ -2234,7 +2234,7 @@ translate polish s07_03_f8b41742:
 
     voice voice_file.lagu(7,2)
 
-    lagu2 normal "" with flash
+    lagu2 normal "\"Uhh- To mięso jest o wiele za słone, nie uważasz?\" " with flash
 
 
 
@@ -2246,7 +2246,7 @@ translate polish s07_03_643713a9:
 
     # avt "\"W-{w=0.2}Who are you?!\" "
 
-    avt ""
+    avt "\"K-{w=0.2}Kim ty jesteś?!\" "
 
 
 
@@ -2262,7 +2262,7 @@ translate polish s07_03_f677a282:
 
     voice voice_file.lagu(7,3)
 
-    lagu2 normal ""
+    lagu2 normal "\"Dzieciaku, czyżby to była pierwsza rzecz jaką {i}kiedykolwiek{/i} \ ugotowałeś? Musisz nad tym popracować.\" "
 
 
 
@@ -2274,7 +2274,7 @@ translate polish s07_03_44b299ea:
 
     # avt "\"I know that! Why do you think I was going to eat it by myself!\" "
 
-    avt ""
+    avt "\"Wiem o tym! Dlaczego myślisz, że chciałem to sam zjeść!\" "
 
 
 
@@ -2290,7 +2290,7 @@ translate polish s07_03_117c654b:
 
     voice voice_file.lagu(7,4)
 
-    lagu2 normal ""
+    lagu2 normal "\"Och? Dla mnie to wyglądało jakbyś miał zamiar to komuś ofiarować. Podarowanie komuś {i}ciepłego{/i}, ręcznie zrobionego bento to idealny sposób by okazać komuś swoje uczucie!\" "
 
 
 
@@ -2302,7 +2302,7 @@ translate polish s07_03_7d2ccfca:
 
     # avt "\"It's not like that! Don't jump to conclusions!\" "
 
-    avt ""
+    avt "\"To nie tak! Nie wyciągaj pochopnych wniosków!\" "
 
 
 
@@ -2318,7 +2318,7 @@ translate polish s07_03_b233e9fe:
 
     voice voice_file.lagu(7,5)
 
-    lagu2 normal ""
+    lagu2 normal "\"Czy tych troje nie jest twoimi zalotnikami... a może coś im się pomyliło?\" "
 
 
 
@@ -2330,7 +2330,7 @@ translate polish s07_03_54d3b4c4:
 
     # avt "\"You're mistaken! Also, who are you? Don't you know not to go around and steal other people's food?!\" "
 
-    avt ""
+    avt "\"Ty się mylisz! A w ogóle, kim ty jesteś? Nie wiesz, że nie wolno tak się skradać i kraść innym jedzenie?\" "
 
 
 
@@ -2346,7 +2346,7 @@ translate polish s07_03_ab92ade2:
 
     voice voice_file.lagu(7,6)
 
-    lagu2 laugh ""
+    lagu2 laugh "\"Ehh- Zorientowałem, że ta trójka zaczęłaby się o to kłócić. Zatem podszedłem bliżej i sam to zjadłem. Oczywiście by ci pomóc.\" "
 
 
 
@@ -2358,7 +2358,7 @@ translate polish s07_03_597b77fd:
 
     # avt "\"That's still stealing! You should at least ask me first!\" "
 
-    avt ""
+    avt "\"To zwykła kradzież! Przynajmniej mogłeś się mnie najpierw o to zapytać!\" "
 
 
 
@@ -2374,7 +2374,7 @@ translate polish s07_03_ad6c9fd5:
 
     voice voice_file.tig(7,14)
 
-    tig frown ""
+    tig frown "\"...Racja. Zazwyczaj stosuję wszelkie niezbędne maniery wobec Boga Ziemi takiego jak ty, ale zdaje się, że one cię nie odchodzą.\" "
 
 
 
@@ -2386,7 +2386,7 @@ translate polish s07_03_a1cfa12b:
 
     # avt "\"It's easy just to ask. How dare you be so...\" "
 
-    avt ""
+    avt "\"Tak łatwo jest po prostu zapytać. Jak możesz być taki...\" "
 
 
 
@@ -2398,7 +2398,7 @@ translate polish s07_03_0b81de29:
 
     # avt "\"...Huh? God of Soil?\" " with hshake
 
-    avt "" with hshake
+    avt "\"...Hę? Bóg Ziemi?\" " with hshake
 
 
 
@@ -2414,7 +2414,7 @@ translate polish s07_03_0518cee3:
 
     voice voice_file.tig(7,15)
 
-    tig normal ""
+    tig normal "\"Tak. Coś się stało?\" "
 
 
 
@@ -2430,7 +2430,7 @@ translate polish s07_03_8507f98e:
 
     voice voice_file.lpdcat(7,52)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hah- Ten gość wygląda pochodzący z daleka smok, ale zdecydowanie posiada Chi Boga Ziemi. Nie powiem- nie widziałem dotychczas żadnych bogów takich jak ty.\" "
 
 
 
@@ -2446,7 +2446,7 @@ translate polish s07_03_ba162b92:
 
     voice voice_file.lpd(7,6)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Dziwny typ.\" "
 
 
 
@@ -2462,7 +2462,7 @@ translate polish s07_03_ab38ce9b:
 
     voice voice_file.lagu(7,7)
 
-    lagu2 laugh ""
+    lagu2 laugh "\"Wahaha- Każdy tak reaguje. Jestem aż tak wyjątkowy, hę?\" "
 
 
 
@@ -2478,7 +2478,7 @@ translate polish s07_03_873db362:
 
     voice voice_file.lagu(7,8)
 
-    lagu normal ""
+    lagu normal "\"W każdym razie chłopaki- Jestem Ragu Laront, {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Wielki Drzewny Władca{/font}. Możecie mówić mi Ragu.\" "
 
 
 
@@ -2490,7 +2490,7 @@ translate polish s07_03_129c1c4a:
 
     # avt "\"Wha... Grand Tree Lord?\" "
 
-    avt ""
+    avt "\"Coo... Wielki Drzewny Władca?\" "
 
 
 
@@ -2506,7 +2506,7 @@ translate polish s07_03_2ff9cbb3:
 
     voice voice_file.tig(7,16)
 
-    tig normal ""
+    tig normal "\"Innymi słowy, jest bogiem zamieszkującym drzewo. Stare drzewa mogą zostać Bogiem Ziemi danego miejsca, jeżeli są wielbione przez lokalną ludność.\" "
 
 
 
@@ -2518,7 +2518,7 @@ translate polish s07_03_eb5e9463:
 
     # avt "\"Oh, I see...\" "
 
-    avt ""
+    avt "\"Och, rozmiem...\" "
 
 
 
@@ -2530,7 +2530,7 @@ translate polish s07_03_9c151db2:
 
     # b "So he's a tree spirit that looks like a dragon? Okaaay... What kind of tree looks like that?! Not to mention those clothes... everything about this guy is just weird! \n(Where did he even come from?) "
 
-    b ""
+    b "W takim razie jest duchem drzewa, które wygląda jak smok? Dooobra... Jakie drzewo przypomina coś takiego?! Nie wspominając o jego ubiorze... wszystko związane z tym gościem jest dziwne!\n(Skąd on w zasadzie pochodzi?) "
 
 
 
@@ -2546,7 +2546,7 @@ translate polish s07_03_7b1bf063:
 
     voice voice_file.lpdcat(7,53)
 
-    lpdcat angry ""
+    lpdcat angry "\"Coooo— I co ja mam powiedzieć! Jak śmiesz kraść bento, które Liao dla mnie przygotował! Po tym jak je całe zaśliniłeś- nie ma szans by ktokolwiek je jeszcze chciał!\" "
 
 
 
@@ -2562,7 +2562,7 @@ translate polish s07_03_f2753767:
 
     voice voice_file.tig(7,17)
 
-    tig frown ""
+    tig frown "\"Nikt nie powiedział, że było {i}twoje{/i}, kociaku.\" "
 
 
 
@@ -2578,7 +2578,7 @@ translate polish s07_03_76654174:
 
     voice voice_file.lpdcat(7,54)
 
-    lpdcat angry "" with hshake
+    lpdcat angry "\"Tak samo jak nikt nie powiedział, że było {i}twoje{/i} \ staruszku!\" " with hshake
 
 
 
@@ -2594,7 +2594,7 @@ translate polish s07_03_7874ce1a:
 
     voice voice_file.tig(7,18)
 
-    tig frown ""
+    tig frown "\"...Po prostu chcesz dać mi takie miano, prawda?\" "
 
 
 
@@ -2606,7 +2606,7 @@ translate polish s07_03_7b6ba118:
 
     # avt "\"Hey! Hold up! We're getting {i}way{/i} \ off topic again! More importantly, this guy's a God of Soil?\" " with vshake
 
-    avt "" with vshake
+    avt "\"Hej! Spokój! Znowu {i}odchodzimy{/i} od tematu! Co najważniejsze- ten gość jest Bogiem Ziemi, tak?\" " with vshake
 
 
 
@@ -2618,7 +2618,7 @@ translate polish s07_03_576165bb:
 
     # b "If he's a God of Soil for real, then I {i}should{/i} \ probably show more respect... Not that the way he's treated me has been respectful at all. "
 
-    b ""
+    b "Jeśli naprawdę nim jest- pewnie {i}powinienem{/i} \ okazać mu więcej szacunku... Nie żeby sposób w jaki mnie potraktował miał coś wspólnego z szacunkiem. "
 
 
 
@@ -2630,7 +2630,7 @@ translate polish s07_03_a3daccc6:
 
     # avt "\"But how could a God of Soil look like that? I've {i}absolutely{/i} \ never learnt about any gods that look like {i}that!{/i}\" "
 
-    avt ""
+    avt "\"Jakim cudem Bóg Ziemi może tak wyglądać? {i}Przenigdy{/i} \ nie uczyłem się, że istnieją bogowie którzy tak {i}wyglądają!{/i}\" "
 
 
 
@@ -2646,7 +2646,7 @@ translate polish s07_03_a696b05a:
 
     voice voice_file.tig(7,19)
 
-    tig lift ""
+    tig lift "\"Bogowie Ziemi mogą przybrać różne formy, Liao...\" "
 
 
 
