@@ -10,7 +10,7 @@ translate polish week2_01_c6e15a2b:
 
     # b "After that weekend, my new college life living with three big cat spirits pretty much began for real. "
 
-    b "Po weekendzie, moje studenckie życie z duchami dużych kotów rozpoczyna się na dobre. "
+    b "Po weekendzie, moje studenckie życie z kocimi duchami rozpoczyna się na dobre. "
 
 
 
@@ -34,7 +34,7 @@ translate polish week2_01_d21ed498:
 
     # b "I mean, I've never wanted an ordinary, boring life, but I know for a fact no other college students have to deal with this. "
 
-    b "Nudna, szara codzienność, nigdy nie była szczytem moich marzeń, ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
+    b "Nudna, szara codzienność nigdy nie była szczytem moich marzeń- ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
 
 
 
@@ -58,7 +58,7 @@ translate polish week2_01_d2b7d9fc:
 
     # b "I didn't have many friends at school as it stood and that doesn't help to make things better. Luckily I can handle classes by myself. "
 
-    b "W szkole nigdy nie miałem zbyt wielu przyjaciół i coś czuję, że to się prędko nie zmieni. Przynajmniej z nauką radzę sobie sam. "
+    b "W szkole nigdy nie miałem zbyt wielu przyjaciół i coś czuję, że to się prędko nie zmieni. Przynajmniej nie potrzebuję pomocy z nauką. "
 
 
 
@@ -86,7 +86,7 @@ translate polish week2_01_58f01429:
 
     # b "All in all, I still can't say living with these cats is something I've gotten used to. "
 
-    b "W sumie to wciąż nie mogę powiedzieć, że życie z tymi kotami to coś do czego przywykłem. "
+    b "W sumie, to wciąż nie mogę powiedzieć, że życie z tymi kotami to coś do czego przywykłem. "
 
 
 
@@ -98,7 +98,7 @@ translate polish week2_01_3fd7162a:
 
     # b "My room isn't big enough to give me any privacy. After all I've got... {i}certain needs{/i}, you know? "
 
-    b "Mój pokój jest za mały, bym mógł zachować chodź odrobinę prywatności. Mam przecież... {i}swoje potrzeby{/i}, prawda? "
+    b "Mój pokój jest za mały, bym mógł zachować choć odrobinę prywatności. Mam przecież... {i}swoje potrzeby{/i}, prawda? "
 
 
 
@@ -110,7 +110,7 @@ translate polish week2_01_170185c7:
 
     # b "In the end there's nothing else I can do but to try and survive this. Besides, it's not like everything is to hate about it. "
 
-    b "Koniec końców, mogę jedynie próbować to jakoś znieść. Zresztą, to nie tak, że wszystko w obecnej sytuacji mi przeszkadza. "
+    b "Koniec końców, mogę jedynie próbować to jakoś znieść. Zresztą, nie żeby wszystko w obecnej sytuacji mi przeszkadzało. "
 
 
 
@@ -122,7 +122,7 @@ translate polish week2_01_0912708c:
 
     # b "I mean, it's hard to not find some enjoyment from living with three hot guys all the time, right? "
 
-    b "Raczej trudno nie znaleźć chodź odrobiny przyjemności, żyjąc cały czas w otoczeniu trzech gorących facetów. "
+    b "Raczej trudno nie znaleźć choć odrobiny przyjemności, żyjąc cały czas w otoczeniu trzech gorących facetów. "
 
 
 
@@ -290,7 +290,7 @@ translate polish s05_5_1aab5a1a:
 
     voice voice_file.tig(5,4)
 
-    tig normal "\"Co cię tak dziwi... Jestem bardzo ciekaw, by odkryć jak działa ta cała technologia. Czy sądzisz, że znaleźlibyśmy tutaj jakieś materiały na ten temat?\" "
+    tig normal "\"Co cię tak dziwi... Po prostu chciałbym odkryć jak działa ta cała technologia. Czy sądzisz, że znaleźlibyśmy tutaj jakieś materiały na ten temat?\" "
 
 
 
@@ -330,7 +330,7 @@ translate polish s05_5_8cb99e55:
 
     # b "I'm not too sure about Tiger's grasp on physics, but it seems like the explanations are given through analogous stories. He'll probably get the gist of it. "
 
-    b "W sumie nie wiem jak dużo Tygrys wie o fizyce, ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać o co chodzi. "
+    b "W sumie nie wiem jak dużo Tygrys wie o fizyce- ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać o co chodzi. "
 
 
 
@@ -370,7 +370,7 @@ translate polish s05_5_ed606708:
 
     # b "The guardian tiger reaches for the book... pulling out its Chi form. Proceeding to flip though a few pages. "
 
-    b "Tygrysi strażnik sięga po książkę... wydobywając jej formę Qi. Zaczyna ją kartkować, zatrzymując się na wybranych stronach. "
+    b "Tygrysi strażnik sięga po książkę... wydobywając jej formę Chi. Zaczyna ją kartkować, zatrzymując się na wybranych stronach. "
 
 
 
@@ -390,7 +390,7 @@ translate polish s05_5_e169f6e7:
 
     tig laugh_1 "\"Hmm, nie jest wcale taka zła...\" "
 
-    tig laugh_1 "\"Liao, znalazłeś już książkę, której szukałeś?\" "
+    tig laugh_1 "\"Liao, znalazłeś już książkę której szukałeś?\" "
 
 
 
@@ -402,7 +402,7 @@ translate polish s05_5_45cf4694:
 
     # avt "\"Not yet... I'll keep looking for a bit.\" "
 
-    avt "\"Jeszcze nie... Poszukam jej jeszcze.\" "
+    avt "\"Na razie nie... Poszukam jej jeszcze.\" "
 
 
 
@@ -454,7 +454,7 @@ translate polish s05_5_07d25d2c:
 
     # b "Turning back to the literature section, I pick out a book to read. I promised that I'd wait for Senpai to finish class so we could walk back together, so I might as well do something while I'm waiting. "
 
-    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpai'owi, że poczekam aż skończy zajęcia i razem wrócimy do domu, więc co mi szkodzi przez ten czas coś porobić. "
+    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpai'owi, że poczekam aż skończy zajęcia i razem wrócimy do domu- więc co mi szkodzi przez ten czas coś porobić. "
 
 
 
@@ -470,7 +470,7 @@ translate polish s05_5_0e924d74:
 
     b "Czytam swoją książkę, co raz spoglądając na Tygrysa pochłoniętego w swojej. "
 
-    b "Mijają godziny, ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak szybko czyta?) "
+    b "Mijają godziny; ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak szybko czyta?) "
 
 
 
@@ -502,7 +502,7 @@ translate polish s05_5_f758297a:
 
     # avt "\"Oh, Senpai, we're pretty much done at the bookstore. I'll be over in like five minutes.\" "
 
-    avt "\"Och Senpai, praktycznie już załatwiliśmy wszystko w księgarni. Będę za jakieś pięć minut.\" "
+    avt "\"Och Senpai, praktycznie załatwiliśmy już wszystko w księgarni. Będę za jakieś pięć minut.\" "
 
 
 
@@ -518,7 +518,7 @@ translate polish s05_5_25863924:
 
     voice voice_file.lpdcat(5,1)
 
-    phone "\"Okey, poczekam na was na stołówce.\" "
+    phone "\"Okej, poczekam na was na stołówce.\" "
 
 
 
@@ -530,7 +530,7 @@ translate polish s05_5_244961d7:
 
     # b "I quickly finish reading the last few pages. It was actually written quite well. I take a moment to ponder my feelings about the book, not even noticing that Tiger is still reading across from me. "
 
-    b "Szybko kończę czytać ostatnie kilka stron. Była całkiem nieźle napisana. Daję sobie chwilę, by przemyśleć swoje odczucia na temat książki nie zauważając, że Tygrys wciąż czyta naprzeciwko mnie. "
+    b "Szybko kończę czytać ostatnie kilka stron. Była całkiem nieźle napisana. Daję sobie chwilę, by przemyśleć swoje odczucia na temat książki- nie zauważając, że Tygrys wciąż czyta naprzeciwko mnie. "
 
 
 
@@ -582,7 +582,7 @@ translate polish s05_5_41cfdd62:
 
     # b "After being told that we need to leave, he promptly closes the book in his paws. Though he seems a bit dejected about having to stop... "
 
-    b "Po usłyszeniu, że musimy odejść, natychmiast zamyka książkę w swoich łapach. Choć wydaje się nieco przygnębiony tym, że musi przestać... "
+    b "Po usłyszeniu że musimy odejść, natychmiast zamyka książkę w swoich łapach. Choć wydaje się nieco przygnębiony tym, że musi przestać... "
 
 
 
@@ -594,7 +594,7 @@ translate polish s05_5_19c8c457:
 
     # avt "\"You only just started reading that one, why not buy it if you want to keep reading \nlater?\" "
 
-    avt "\"Dopiero zacząłeś czytać tę książkę, więc dlaczego by jej nie kupić, jeśli chciałbyś ją później dokończyć?\"  "
+    avt "\"Dopiero zacząłeś czytać tę książkę- więc dlaczego by jej nie kupić, jeśli chciałbyś ją później dokończyć?\"  "
 
 
 
@@ -674,7 +674,7 @@ translate polish s05_5_buy_1_1d544c1d:
 
     # avt "\"How about this. If we get the book, we can just save money elsewhere by not buying as much junk food for you. Perfect!\" "
 
-    avt "\"Co powiesz na to. Jeśli weźmiemy książkę, możemy zaoszczędzić pieniądze gdzie indziej, nie kupując ci tak dużo niezdrowego jedzenia. Idealnie!\" "
+    avt "\"Co powiesz na to. Jeśli weźmiemy książkę, możemy zaoszczędzić pieniądze gdzie indziej- nie kupując ci tak dużo niezdrowego jedzenia. Idealnie!\" "
 
 
 
@@ -742,7 +742,7 @@ translate polish s05_5_buy_1_16773de4:
 
     # avt "\"I don't really think that's the type of book kids would be reading, but to each their own...\" "
 
-    avt "\"Nie wydaje mi się, by młodzież czytałaby coś takiego z własnej woli...\" "
+    avt "\"Nie wydaje mi się, by młodzież czytała coś takiego z własnej woli...\" "
 
 
 
@@ -756,7 +756,7 @@ translate polish s05_5_buy_1_4254e111:
 
     # b "Bracing my wallet, I decide to take the book over to the cashier. "
 
-    b "W każdym razie ktoś taki jak Tygrys, który nic nie wie o współczesnej technologii, nauczyłby się z niej wielu przydatnych rzeczy. "
+    b "W każdym razie, ktoś taki jak Tygrys, który nie wie nic o współczesnej technologii, nauczyłby się z niej wielu przydatnych rzeczy. "
 
     b "Zabieram książkę do kasy i wyciągam portfel. "
 
@@ -826,7 +826,7 @@ translate polish s05_5_buy_1_6b769edb:
 
     # b "That was a joke, but the price of this book isn't funny. We'll have to be crafty with spending money for the next few days... "
 
-    b "To był tylko żart, ale cena książki nie jest wcale do śmiechu. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
+    b "To był tylko żart, choć patrząc na cenę książki nie jest mi wcale do śmiechu. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
 
 
 
@@ -854,7 +854,7 @@ translate polish s05_5_buy_2_4d60ad83:
 
     voice voice_file.tig(5,15)
 
-    tig embarrassed "\"...Nie powinienem pozwolić ci marnować na mnie pieniądze.\" "
+    tig embarrassed "\"...Nie powinienem pozwalać ci marnować na mnie pieniędzy.\" "
 
 
 
@@ -866,7 +866,7 @@ translate polish s05_5_buy_2_9505e401:
 
     # avt "\"It's not a waste of money. I'm just curious why you want to read up on this stuff?\""
 
-    avt "\"To nie jest marnowanie pieniędzy. Ciekawi mnie tylko, czemu chcesz czytać o tych rzeczach?\" "
+    avt "\"To nie jest marnowanie pieniędzy. Ciekawi mnie tylko, czemu właściwie chcesz czytać o tych rzeczach?\" "
 
 
 
@@ -906,7 +906,7 @@ translate polish s05_5_buy_2_3ee9d360:
 
     # b "I don't think that any kid would have read a book like that, but someone like Tiger who doesn't know a thing about modern technology could probably find it useful. "
 
-    b "Nie wydaje mi się, że ktokolwiek w tym wieku czytałby coś takiego, ale dla Tygrysa, który nie wie nic o współczesnej technologii, byłoby to cenne źródło informacji. "
+    b "Nie wydaje mi się żeby ktokolwiek w tym wieku czytał coś takiego- ale dla Tygrysa, który nic nie wie o współczesnej technologii, byłoby to cenne źródło informacji. "
 
 
 
@@ -998,7 +998,7 @@ translate polish s05_5_buy_2_76b720f4:
 
     # b "I put the book in my bag and left with Tiger to meet with Senpai for dinner. "
 
-    b "Wkładam książkę do torby i wychodzimy z Tygrysem, by iść z Senpai'em na obiad. "
+    b "Wkładam książkę do torby i wychodzimy z Tygrysem, by spotkać się z Senpai'em na obiedzie. "
 
 
 
@@ -1134,7 +1134,7 @@ translate polish s05_5_dont_buy_e63c518c:
 
     # b "So we left the bookstore and headed over to the cafeteria, talking about what food to get the whole way. "
 
-    b "Wychodzimy z księgarni i udajemy się na stołówkę, całą drogę dyskutując co wziąć do jedzenia. "
+    b "Wychodzimy z księgarni i udajemy się do stołówki- całą drogę dyskutując, co by tu wziąć do jedzenia. "
 
 
 
