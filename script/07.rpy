@@ -1578,7 +1578,7 @@ translate polish s07_060f3c6b:
 
     # b "Senpai swiftly takes the blanket out from his backpack and spreads it down between falling tung petals. "
 
-    b ""
+    b "Senpai wyciąga szybko koc ze swojego plecaka i rozkłada go wśród spadających wokoło płatków. "
 
 
 
@@ -1594,7 +1594,7 @@ translate polish s07_27fc29de:
 
     voice voice_file.lpdcat(7,40)
 
-    lpdcat happy ""
+    lpdcat happy "\"Jeśli wyprawy oznaczają pikniki- to pikniki oznaczają, że muszę zabrać ze sobą górę słodyczy, które dadzą nam energię w drodze powrotnej! A co ty tam masz dla nas Liao?!\" "
 
 
 
@@ -1606,7 +1606,7 @@ translate polish s07_7ffb4237:
 
     # avt "\"Sweets? We aren't kids you know... {i}Mister Big College Senpai{/i}.\" "
 
-    avt ""
+    avt "\"Słodycze? Nie jesteśmy już dziećmi... {i}Panie studencie od siedmiu boleści{/i}.\" "
 
 
 
@@ -1622,7 +1622,7 @@ translate polish s07_a74d99ff:
 
     voice voice_file.lpdcat(7,41)
 
-    lpdcat happy ""
+    lpdcat happy "\"Młodością trzeba się nacieszyć!\" "
 
 
 
@@ -1634,7 +1634,7 @@ translate polish s07_270eb852:
 
     # b "Senpai drops his backpack down and takes out some cookies, crackers and an assortment of pastries. I mean you {i}could{/i} \ eat that all in one go, but it's hardly a proper meal. "
 
-    b ""
+    b "Senpai upuszcza plecak i wyciąga z niego ciastka, herbatniki i inne słodkie rzeczy. To znaczy, {i}da się{/i} \ to wszystko zjeść za jednym razem, ale ciężko nazwać to odpowiednim posiłkiem. "
 
 
 
@@ -1650,7 +1650,7 @@ translate polish s07_9a7adbdf:
 
     voice voice_file.lpdcat(7,42)
 
-    lpdcat normal ""
+    lpdcat normal "\"A więc jakie cudowne przysmaki przyniósł Liao?\" "
 
 
 
@@ -1662,7 +1662,7 @@ translate polish s07_e4acb9d8:
 
     # b "I open my backpack and silently take out a bento box I prepared earlier this morning. "
 
-    b ""
+    b "Otwieram swój plecak i bez słowa wyciągam z niego pudełko z bento, które przygotowałem dziś rano. "
 
 
 
@@ -1674,7 +1674,7 @@ translate polish s07_68295b75:
 
     # b "I made it while Senpai was still sleeping. I never cook so I just used some recipe I found on the internet— so it probably didn't turn out any good. "
 
-    b ""
+    b "Zrobiłem je, gdy Senpai jeszcze spał. Nigdy nie gotuję, wobec tego skorzystałem z przepisu znalezionego w internecie- pewnie nie wyszło z tego nic dobrego. "
 
 
 
@@ -1686,7 +1686,7 @@ translate polish s07_fb9c6053:
 
     # b "Not to mention those mistakes I made while putting it together... Thankfully Tiger was there to help me fix them. I tried my best to cook a variety of vegetables and meat. At the very least it should be good for me. "
 
-    b ""
+    b "Nie wspominając o błędach, które zrobiłem podczas przygotowywania... Na szczęście Tygrys tam był by pomóc mi je naprawić. Bardzo się starałem ugotować różnorodne warzywa i mięso. Przynajmniej dla mnie powinno być dobre. "
 
 
 
@@ -1698,7 +1698,7 @@ translate polish s07_b5610490:
 
     # lpd surprise "\"...!\" "
 
-    lpd surprise ""
+    lpd surprise "\"...!\" "
 
 
 
@@ -1714,7 +1714,7 @@ translate polish s07_85b85e5c:
 
     voice voice_file.lpdcat(7,43)
 
-    lpdcat shy_2 ""
+    lpdcat shy_2 "\"Coo- To prawie jakbyś był żoną, która gotuje swojemu mężowi pyszny posiłek!\" "
 
 
 
@@ -1726,7 +1726,7 @@ translate polish s07_546979bf:
 
     # avt "\"Hey no way! I was just thinking that I should try making a bento for our picnic.\" "
 
-    avt ""
+    avt "\"Nie ma szans! Ja tylko pomyślałem, że powinienem spróbować zrobić bento na nasz piknik.\" "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish s07_28453bc2:
 
     voice voice_file.lpdcat(7,44)
 
-    lpdcat shy_1 ""
+    lpdcat shy_1 "\"Łał- Liao, nigdy nie sądziłem, że zrobisz dla mnie coś takiego...\" "
 
 
 
@@ -1758,7 +1758,7 @@ translate polish s07_59d1f526:
 
     voice voice_file.tig(7,9)
 
-    tig frown ""
+    tig frown "\"Wystarczy, kociaku! Liao nie powiedział, że zrobił je dla ciebie.\" "
 
 
 
@@ -1774,7 +1774,7 @@ translate polish s07_cd6e8c56:
 
     voice voice_file.lpdcat(7,45)
 
-    lpdcat angry ""
+    lpdcat angry "\"To niby dla kogo by je zrobił? Ty i tak nie musisz nic jeść!\" "
 
 
 
@@ -1790,7 +1790,7 @@ translate polish s07_2d32681d:
 
     voice voice_file.tig(7,10)
 
-    tig lift ""
+    tig lift "\"Po ofiarowaniu go, Liao na pewno zjadłby to sam.\" "
 
 
 
@@ -1806,7 +1806,7 @@ translate polish s07_ba794f64:
 
     voice voice_file.lpdcat(7,46)
 
-    lpdcat cry_2 ""
+    lpdcat cry_2 "\"Uuuwaaaa... To byłoby straszne marnotrawstwo!\" "
 
 
 
@@ -1822,7 +1822,7 @@ translate polish s07_1ddf9d7a:
 
     voice voice_file.tig(7,11)
 
-    tig lift ""
+    tig lift "\"Nie widzę związku.\" "
 
 
 
@@ -1838,7 +1838,7 @@ translate polish s07_a04918d2:
 
     voice voice_file.lpdcat(7,47)
 
-    lpdcat cry_2 "" with hshake
+    lpdcat cry_2 "\"Liao, zrobiłeś to bento dla mnie, prawda?!\" " with hshake
 
 
 
@@ -1854,7 +1854,7 @@ translate polish s07_2b38af45:
 
     voice voice_file.tig(7,12)
 
-    tig lift ""
+    tig lift "\"Nauczyłem Liao jak je zrobić. Jeśli już- powinna to być ofiara dla mnie.\" "
 
 
 
@@ -1870,7 +1870,7 @@ translate polish s07_a57c5dfb:
 
     voice voice_file.lpd(7,2)
 
-    lpd normal ""
+    lpd normal "\"Bento Liao... Chcę.\" "
 
 
 
@@ -1882,7 +1882,7 @@ translate polish s07_56e3dde0:
 
     # avt "\"Wait, wait. It's only a bento...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Chwila, chwila. To tylko bento...\" " with hshake
 
 
 
@@ -1894,7 +1894,7 @@ translate polish s07_a6d245f6:
 
     # b "I quickly hide the bento behind my back to keep it away from any funny ideas they might have. "
 
-    b ""
+    b "Chowam szybko bento za plecami by uchronić je przed głupimi pomysłami na jakie mogą wpaść. "
 
 
 
@@ -1906,7 +1906,7 @@ translate polish s07_36f0d126:
 
     # avt "\"Hey, no need to bicker over it. I made this for my lunch today. Why would you think I made it for you?\" "
 
-    avt ""
+    avt "\"Hej, nie ma potrzeby się o to sprzeczać. Przygotowałem to na mój dzisiejszy lunch. Czemu myślicie, że zrobiłem je dla was?\" "
 
 
 
@@ -1922,7 +1922,7 @@ translate polish s07_fb19eff1:
 
     voice voice_file.tig(7,13)
 
-    tig normal ""
+    tig normal "\"Ale Liao, czy nie będzie lepiej jeżeli ofiarujesz je nam zanim je zjesz? Ty na tym nic nie tracisz.\" "
 
 
 
@@ -1934,7 +1934,7 @@ translate polish s07_9a212324:
 
     # avt "\"That's true... It'd be kinda mean to not let you guys have at it for no reason.\" "
 
-    avt ""
+    avt "\"To prawda... Zjedzenie go bez podzielenia się z wami go byłoby niegrzeczne.\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish s07_d6fb3c23:
 
     voice voice_file.lpdcat(7,48)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Co- Czekaj! Jeślibyś to zrobił, wszyscy zjedliby trochę bento poza mną! To nie fair!\" "
 
 
 
@@ -1966,7 +1966,7 @@ translate polish s07_64be22cb:
 
     voice voice_file.lpd(7,3)
 
-    lpd normal ""
+    lpd normal "\"...Ty nie potrzebujesz.\" "
 
 
 
@@ -1982,7 +1982,7 @@ translate polish s07_e812743a:
 
     voice voice_file.lpdcat(7,49)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Kulau, ty też?! Ja tylko chcę spróbować domowego jedzenia, które zrobił Liao! Czy proszę o wiele...\" "
 
 
 
@@ -1994,7 +1994,7 @@ translate polish s07_9bd9b0b8:
 
     # b "Senpai looks at me with unconvincing sad puppy eyes while Tiger and Leopard slowly close in on me... What should I do? "
 
-    b ""
+    b "Senpai spogląda na mnie nieprzekonująco smutnymi oczami, a Tygrys i Pantera powoli się do mnie zbliżają... Co powinienem zrobić? "
 
 
 
@@ -2006,7 +2006,7 @@ translate polish s07_02_tig_9b5183b0:
 
     # avt "\"Woah, okay. If you guys are going to be like this I'll have to pick... I guess I'll offer it \ntoo—\" "
 
-    avt ""
+    avt "\"Łał, dobra. Skoro tak się zachowujecie, będę musiał dokonać wyboru... Myślę, że ofiaruje je-\" "
 
 
 
@@ -2022,7 +2022,7 @@ translate polish s07_02_tig_80e8d856:
 
     voice voice_file.lpd(7,4)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Komu?\" "
 
 
 
@@ -2034,7 +2034,7 @@ translate polish s07_02_tig_17f833be:
 
     # avt "\"What?\" "
 
-    avt ""
+    avt "\"Co?\" "
 
 
 
@@ -2046,7 +2046,7 @@ translate polish s07_02_tig_b04fd5c0:
 
     # b "Leopard cut me off before I could finish. He's being awfully jumpy over this... probably anxious to hear my answer. Unnerved, I quickly look away. "
 
-    b ""
+    b "Pantera przerwał mi zanim skończyłem. Jest okropnie nerwowy z tego powodu... pewnie niepokoiła go moja odpowiedź. Podirytowany, szybko odwracam wzrok. "
 
 
 
@@ -2058,7 +2058,7 @@ translate polish s07_02_lpd_16f33d17:
 
     # avt "\"Hey, okay now... you three just need to stop fighting over this. I made this and it's my choice to give it to one of you. Got it?\" "
 
-    avt ""
+    avt "\"Hej, już dobrze... wy trzej- musicie przestać się o to kłócić. Ja to zrobiłem i ode mnie zależy, któremu z was to dam. Zrozumiano?\" "
 
 
 
@@ -2074,7 +2074,7 @@ translate polish s07_02_lpd_bf4067da:
 
     voice voice_file.lpdcat(7,50)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Pewnie!\" "
 
 
 
@@ -2086,7 +2086,7 @@ translate polish s07_02_lpd_c861bbea:
 
     # avt "\"I guess I'll... offer it to Leopa—\" "
 
-    avt ""
+    avt "\"Myślę, że... ofiaruję to Pant-\" "
 
 
 
@@ -2102,7 +2102,7 @@ translate polish s07_02_lpd_fcf02a1b:
 
     voice voice_file.lpd(7,5)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Co ty robisz!\" "
 
 
 
@@ -2114,7 +2114,7 @@ translate polish s07_02_lpd_ed874ff5:
 
     # avt "\"Huh?\" "
 
-    avt ""
+    avt "\"Hę?\" "
 
 
 
@@ -2126,7 +2126,7 @@ translate polish s07_02_lpd_a94bdfdf:
 
     # b "What's got Leopard so tense? I watch him, trying to scrutinise what's going on, I think he's... looking behind me? Quickly, I turn my head to see what's up. "
 
-    b ""
+    b "Dlaczego Pantera stał się taki spięty? Obserwuję go, próbując przeanalizować co się dzieje, myślę że on... spogląda za mnie? Odwracam głowę by zobaczyć o co chodzi. "
 
 
 
@@ -2138,7 +2138,7 @@ translate polish s07_02_lpdcat_5285c24b:
 
     # avt "\"Okay... At this rate I'll just {i}have{/i} \ to pick someone... Hmm...\" "
 
-    avt ""
+    avt "\"Dobra... W takim razie {i}muszę{/i} \ kogoś wybrać... Hmm...\" "
 
 
 
@@ -2150,7 +2150,7 @@ translate polish s07_02_lpdcat_146d5ef0:
 
     # avt "\"Senpai, that junk food is all you brought, right?\" "
 
-    avt ""
+    avt "\"Senpai, te śmieciowe jedzenie to wszystko co ze sobą zabrałeś?\" "
 
 
 
@@ -2166,7 +2166,7 @@ translate polish s07_02_lpdcat_3347f9d9:
 
     voice voice_file.lpdcat(7,51)
 
-    lpdcat normal ""
+    lpdcat normal "\"Pewnie! Wysokokaloryczne jedzenie jest idealne na wyprawy!\" "
 
 
 
@@ -2178,7 +2178,7 @@ translate polish s07_02_lpdcat_4dcd1172:
 
     # b "(Senpai's idea of perfect hiking food would just make most people ill...) "
 
-    b ""
+    b "(Od idealnego- zdaniem Senpai'a- jedzenia na wyprawy, większość ludzi miałaby mdłości...) "
 
 
 
@@ -2190,7 +2190,7 @@ translate polish s07_02_lpdcat_9d69d330:
 
     # avt "\"It's just gonna be {i}really{/i} \ weird having a proper meal while you sit there and eat a bunch of junk. So, you can have some if you wan—\" "
 
-    avt ""
+    avt "\"To byłoby {i}naprawdę{/i} \ nie w porządku- jeść normalny posiłek, gdy ty siedzisz tu i jesz te śmieci. Dlatego mogę się z tobą podzielić, jeśli chce-\" "
 
 
 
@@ -2206,7 +2206,7 @@ translate polish s07_02_lpdcat_80e8d856:
 
     voice  voice_file.lpd(7,4)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Hej!\" "
 
 
 
@@ -2218,7 +2218,7 @@ translate polish s07_02_lpdcat_2a197922:
 
     # b "Huh? Leopard's sudden outburst catches me of guard my attention quickly focusing on him. "
 
-    b ""
+    b "Hę? Nieoczekiwany wybuch Pantery zaskakuje mnie i sprawia, że skupiam na nim swoją uwagę. "
 
 
 
