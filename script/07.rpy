@@ -3252,7 +3252,9 @@ translate polish s07_03_c041c71a:
 
     voice voice_file.lagu(7,25)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- Yaoguai muszą się jakoś rozerwać. W dzisiejszych czasach większość z nich najzwyczajniej gra w gry i czyta mangę.\" "
+
+    lagu laugh "\"Jeden z moich wyznawców podarował mi 3DS'a, a więc nawet ja czasem się tym bawię. To całkiem niezła zabawa!\" "
 
 
 
@@ -3264,7 +3266,7 @@ translate polish s07_03_a5d514de:
 
     # avt "\"...What! How?\" "
 
-    avt ""
+    avt "\"...Co! Jak?\" "
 
 
 
@@ -3280,7 +3282,7 @@ translate polish s07_03_d7a038df:
 
     voice voice_file.lagu(7,26)
 
-    lagu normal ""
+    lagu normal "\"Cóż, naciskanie guzików to dla mnie nie problem- oczywiście nie grałbym, gdy patrzy się na to jakiś wyznawca.\" "
 
 
 
@@ -3292,7 +3294,7 @@ translate polish s07_03_389920b6:
 
     # avt "\"Wait— Wait— That's not important! What other rumours are there about us?\" "
 
-    avt ""
+    avt "\"Czekaj, czekaj- To nie ważne! Jakie inne plotki krążą na nasz temat?\" "
 
 
 
@@ -3308,7 +3310,7 @@ translate polish s07_03_f7879f9a:
 
     voice voice_file.lagu(7,27)
 
-    lagu normal ""
+    lagu normal "\"Tak jak mówiłem. Pozwalasz tym trzem cię miłować, nigdy nie dając nic w zamian. Powiedziałbym nawet, że ich wykorzystujesz.\" "
 
 
 
@@ -3322,7 +3324,9 @@ translate polish s07_03_c042abdf:
 
     # avt "\"Not to mention all three of them are male! Even if the yaoguai are being really open-minded about it, they surely can't expect me to want to be like {i}that{/i} \ with all three of them!\" "
 
-    avt ""
+    avt "\"To nie tak! To oni są tymi, którzy mnie znaleźli... Pewnie- chcą abym udał się z nimi by im pomóc, ale nie ma szans bym mógł obiecać im aż tak wiele. To dlatego utknęliśmy w tym stanie.\" "
+
+    avt "\"Nie wspominając o tym, że wszyscy trzej są płci męskiej! Nawet jeśli yaoguai są otwarci na te sprawy- na pewno nie powinni oczekiwać ode mnie, że zrobię {i}to{/i} \ z każdym z nich!\" "
 
 
 
@@ -3338,7 +3342,7 @@ translate polish s07_03_a7ea96c0:
 
     voice voice_file.lagu(7,28)
 
-    lagu normal ""
+    lagu normal "\"Och? Widzisz ich jako facetów?\" "
 
 
 
@@ -3350,7 +3354,7 @@ translate polish s07_03_edadb744:
 
     # avt "\"What? How, how else would I see them?\" "
 
-    avt ""
+    avt "\"Co? A jak inaczej powinienem ich postrzegać?\" "
 
 
 
@@ -3366,7 +3370,7 @@ translate polish s07_03_d7891895:
 
     voice voice_file.lagu(7,29)
 
-    lagu normal ""
+    lagu normal "\"Hmm... A więc to tak... W twoich oczach też wyglądam na faceta?\" "
 
 
 
@@ -3378,7 +3382,7 @@ translate polish s07_03_323ed4db:
 
     # avt "\"Yes, a young dragon man...\" "
 
-    avt ""
+    avt "\"Tak, jako młody smok...\" "
 
 
 
@@ -3394,7 +3398,7 @@ translate polish s07_03_a2e16b23:
 
     voice voice_file.lagu(7,30)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- Myślałem o sobie jako o wesołej, starej ciotce. Bogowie nie mają przecież płci. Wyznawcy widzą swych bogów z taką płcią, z jaką sobie ich wyobrażają.\" "
 
 
 
@@ -3410,7 +3414,7 @@ translate polish s07_03_05e7906c:
 
     voice voice_file.lagu(7,31)
 
-    lagu normal ""
+    lagu normal "\"Sposób w jaki ich postrzegasz, niekoniecznie odpowiada temu jacy naprawdę są... Krótko mówiąc, widzisz ich zgodnie z płcią, którą najbardziej lubisz.\" "
 
 
 
@@ -3422,7 +3426,7 @@ translate polish s07_03_bdfe9b12:
 
     # avt "\"Huh? ...What?\" "
 
-    avt ""
+    avt "\"Hę? ...Co?\" "
 
 
 
@@ -3434,7 +3438,7 @@ translate polish s07_03_3eb51545:
 
     # b "I thought that I'd been seeing beast-men just because they're animal gods. That's normal, right? "
 
-    b ""
+    b "Myślałem, że widzę zwierzoludzi tylko dlatego, że są zwierzęcymi bogami. To normalne, prawda? "
 
 
 
@@ -3446,7 +3450,7 @@ translate polish s07_03_a1572020:
 
     # b "I guess different worshippers would perceive gods differently according what they believe. After all, I've heard stories about {font=tl/None/NotoSansCJKtc-Bold.otf}Guanyin{/font} being male or female, but I never thought their genders weren't actually a set thing. "
 
-    b ""
+    b "Najwyraźniej każdy wyznawca widzi bogów inaczej- zgodnie z tym w co wierzy. Słyszałem przecież historie o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Guanyin'ie{/font}, który jest mężczyzną lub kobietą. Nigdy nie myślałem, że ich płeć tak naprawdę nie jest z góry ustalona. "
 
 
 
@@ -3458,7 +3462,7 @@ translate polish s07_03_743bb4bc:
 
     # avt "\"Well... at least I know Senpai is a—\" "
 
-    avt ""
+    avt "\"Cóż... przynajmniej wiem, że Senpai jest-\" "
 
 
 
@@ -3474,7 +3478,7 @@ translate polish s07_03_07c08d19:
 
     voice voice_file.lpdcat(7,58)
 
-    lpdcat serious ""
+    lpdcat serious "\"Uhh- Liao. Opętam Yan Shu-Chi {i}po tym jak{/i} \ dowiedziałem się co cię kręci.\" "
 
 
 
@@ -3490,7 +3494,7 @@ translate polish s07_03_b3bf9cc4:
 
     voice voice_file.lagu(7,32)
 
-    lagu normal ""
+    lagu normal "\"Gej, czy nie- {i}każdy{/i} \ uwielbia chłopca z ładną buzią, prawda?\" "
 
 
 
@@ -3502,7 +3506,7 @@ translate polish s07_03_87641466:
 
     # avt "\"What are you talking about!\" " with vshake
 
-    avt "" with vshake
+    avt "\"O czym ty mówisz!\" " with vshake
 
 
 
@@ -3518,7 +3522,7 @@ translate polish s07_03_ad4afdf9:
 
     voice voice_file.lagu(7,33)
 
-    lagu normal ""
+    lagu normal "\"Jakkolwiek podchodzisz do tego, z perspektywy yaoguai wygląda to tak, jakbyś im przodował. A to bento mogłoby zostać wzięte jakobyś {i}chciał{/i} by walczyli między sobą o ciebie.\" "
 
 
 
