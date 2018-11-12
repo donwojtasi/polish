@@ -2478,7 +2478,7 @@ translate polish s07_03_873db362:
 
     voice voice_file.lagu(7,8)
 
-    lagu normal "\"W każdym razie chłopaki- Jestem Ragu Laront, {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Wielki Drzewny Władca{/font}. Możecie mówić mi Ragu.\" "
+    lagu normal "\"W każdym razie chłopaki- Jestem Ragu Laront, {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Leśny Lord{/font}. Możecie mówić mi Ragu.\" "
 
 
 
@@ -2490,7 +2490,7 @@ translate polish s07_03_129c1c4a:
 
     # avt "\"Wha... Grand Tree Lord?\" "
 
-    avt "\"Coo... Wielki Drzewny Władca?\" "
+    avt "\"Coo... Leśny Lord?\" "
 
 
 
