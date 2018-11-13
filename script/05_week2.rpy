@@ -1934,7 +1934,7 @@ translate polish week2_04_d55dd73b:
 
     voice voice_file.jiahao(5,1)
 
-    jiahao "\"Hej Liao, pamiętasz jak pytałeś mnie, czy znam jakichś bogów Rukai wyglądających na mgliste pantery?\" "
+    jiahao "\"Hej Liao, pamiętasz jak pytałeś mnie, czy znam jakichś bogów Rukai przypominających mgliste pantery?\" "
 
 
 
@@ -1946,7 +1946,7 @@ translate polish week2_04_0e805fac:
 
     # avt "\"Yeah. How'd it go? You get something?\" "
 
-    avt "\Pewnie. I jak poszło? Masz jakieś informacje?\" "
+    avt "\Pewnie. I jak poszło? Znalazłeś coś?\" "
 
 
 
@@ -1990,7 +1990,7 @@ translate polish week2_04_58a21b1c:
 
     voice voice_file.jiahao(5,3)
 
-    jiahao "\"Tak więc, o ile nie ma żadnych bogów mglistych panter, o tyle Rukai posiada legendę o mglistej panterze.\" "
+    jiahao "\"Tak więc, o ile nie ma żadnych mglistych panter-bogów, o tyle Rukai posiada legendę o mglistej panterze.\" "
 
 
 
@@ -2028,7 +2028,7 @@ translate polish week2_04_0a531081:
 
     jiahao "\"Gdy już mieli opuścić to miejsce, plemienna pantera mglista nie chciała iść ani kroku dalej.\" "
 
-    jiahao "\"Zmusiło ich to do zatrzymania i rozejrzenia się wokoło. Ta mglista pantera poprowadziła ich do wymarzonego miejsca, idealnego do życia i rozwoju.\" "
+    jiahao "\"Zmusiło ich to do zatrzymania się i rozejrzenia wokoło. Pantera poprowadziła ich do wymarzonego miejsca, idealnego do życia i rozwoju.\" "
 
     jiahao "\"To tam się osiedlili i założyli plemię Wutai, które znamy obecnie.\" "
 
@@ -2046,7 +2046,7 @@ translate polish week2_04_9fbbf89f:
 
     voice voice_file.jiahao(5,5)
 
-    jiahao "\"To długa opowieść.\" "
+    jiahao "\"Tak to wygląda według opowieści.\" "
 
 
 
@@ -2066,7 +2066,7 @@ translate polish week2_04_cc4d94f9:
 
     voice voice_file.jiahao(5,6)
 
-    jiahao "\"No i nie możemy być pewni, czy to naprawdę się wydarzyło.\" "
+    jiahao "\"Choć nie możemy być do końca pewni, czy to naprawdę się wydarzyło.\" "
 
     jiahao "\"Powiedziałbym, że okoliczności w jakich nasi przodkowie się wtedy przenieśli, były trochę... dziwne.\" "
 
@@ -2098,7 +2098,7 @@ translate polish week2_04_2606351e:
 
     # avt "\"...Do you think he became a god after that?\" "
 
-    avt "...czy myślisz że stał się po tym bogiem?\" "
+    avt "...czy myślisz, że stał się później bogiem?\" "
 
 
 
@@ -2114,7 +2114,7 @@ translate polish week2_04_edbd16af:
 
     voice voice_file.jiahao(5,8)
 
-    jiahao "\"Ciężko powiedzieć, nasze plemię nie nie wyznaje mglistych panter, ale darzy je szczególnym szacunkiem. Może w końcu jest tam jakiś bóg mglistej pantery?\" "
+    jiahao "\"Ciężko powiedzieć- nasze plemię nie wyznaje mglistych panter, ale darzy je szczególnym szacunkiem. Koniec końców może i jest jakiś bóg-pantera?\" "
 
 
 
@@ -2130,7 +2130,7 @@ translate polish week2_04_a4e56b1f:
 
     voice voice_file.jiahao(5,9)
 
-    jiahao "\"A tak poza tym, co sprawiło, że zacząłeś się tym interesować?\" "
+    jiahao "\"A tak poza tym; co sprawiło, że zacząłeś się tym interesować?\" "
 
 
 
@@ -2186,7 +2186,7 @@ translate polish week2_04_6396a159:
 
     voice voice_file.jiahao(5,10)
 
-    jiahao "\"Pewnie. Jak już mówiłem, Rukai darzy szacunkiem mgliste pantery, nigdy byśmy ich nie skrzywdzili.\" "
+    jiahao "\"Pewnie. Jak już mówiłem, Rukai darzy szacunkiem mgliste pantery- nigdy byśmy ich nie skrzywdzili.\" "
 
 
 
@@ -2202,7 +2202,7 @@ translate polish week2_04_5466a0db:
 
     voice voice_file.jiahao(5,11)
 
-    jiahao "\"Nie ma powodu, by twierdzić, że one wszystkie są bogami... No cóż, może ten który poprowadził plemię do Wutai nim jest, ale nie cały gatunek.\" "
+    jiahao "\"Nie ma jednak powodu by twierdzić, że wszystkie są bogami... No cóż, może ten który poprowadził plemię do Wutai nim jest- ale nie cały gatunek.\" "
 
 
 
@@ -2246,7 +2246,7 @@ translate polish week2_04_8e0cfc41:
 
     voice voice_file.jiahao(5,13)
 
-    jiahao "\"I tak nie sądzę, że zwierzę może od tak zostać bogiem. Według naszej kultury, wszyscy bogowie istnieli na długo przed powstaniem wszechświata.\" "
+    jiahao "\"I tak nie sądzę, żeby zwierzę mogło od tak zostać bogiem. Według naszej kultury, wszyscy bogowie istnieli na długo przed powstaniem wszechświata.\" "
 
 
 
@@ -2272,7 +2272,7 @@ translate polish week2_04_7a287051:
 
     # b "Maybe he might even be the one from Jiahao's legend? "
 
-    b "Może jest dla tego inne określenie? Mimo to, mam na pewno podstawy, by przypuszczać, że on pochodzi z plemienia Rukai. "
+    b "Może jest dla tego inne określenie? Mimo to- mam na pewno podstawy, by przypuszczać, że on pochodzi z plemienia Rukai. "
 
     b "Kto wie, czy to nie o nim mówił Jiahao w swojej legendzie? "
 
@@ -2402,7 +2402,7 @@ translate polish week2_04_d00ae66f:
 
     # avt "\"It'd be great if you could, thank you for all your help!\" "
 
-    avt "\"Byłoby świetnie gdybyś mógł to zrobić, dzięki za dotychczasowa pomoc!\" "
+    avt "\"Byłoby świetnie gdybyś mógł to zrobić, dzięki za dotychczasową pomoc!\" "
 
 
 
@@ -2430,7 +2430,7 @@ translate polish week2_04_f4a1c095:
 
     # b "Now that that's over, I pretend to tell Jiahao that I need to the bathroom so I can get a chance to talk to Leopard alone. "
 
-    b "Gdy wszystko sobie wyjaśniliśmy, udałem przed Jiahao, że muszę iść do łazienki, by móc pogadać z Panterą sam na sam. "
+    b "Gdy wszystko sobie wyjaśniliśmy, udałem przed Jiahao, że muszę iść do łazienki- by móc pogadać z Panterą sam na sam. "
 
 
 
@@ -2442,7 +2442,7 @@ translate polish week2_04_8bd31d2f:
 
     # avt "\"So, uh... Leopard. Jiahao said he didn't know about any clouded leopard gods in the Rukai. You know anything about that?\" "
 
-    avt "\"Więc, umm... Pantero. Jiahao powiedział, że nic nie wie o żadnych bogach mglistych panter z Rukai. Wiesz coś o tym?\" "
+    avt "\"Więc, umm... Pantero. Jiahao powiedział, że nic nie wie o żadnych mglistych panterach-bogach z Rukai. Wiesz coś o tym?\" "
 
 
 
@@ -2454,7 +2454,7 @@ translate polish week2_04_c82b76e4:
 
     # b "I've been putting this off for a while, but I decided to just ask him straight out. He probably knew I was suspicious of him anyway, best to just ask. "
 
-    b "Zwlekałem z tym przez jakiś czas, ale postanowiłem, że wreszcie bezpośrednio się go o to zapytam. Pewnie i tak wiedział, że byłem co do niego podejrzliwy, tak będzie najlepiej. "
+    b "Zwlekałem z tym przez jakiś czas, ale postanowiłem, że wreszcie bezpośrednio się go o to zapytam. Pewnie i tak wiedział, że byłem co do niego podejrzliwy- tak będzie najlepiej. "
 
 
 
@@ -2682,7 +2682,7 @@ translate polish week2_04_2cce7cda:
 
     # avt "\"I understand now... I'm so sorry for suspecting you.\" "
 
-    avt "\"Teraz już rozumiem... Bardzo przepraszam za to, że cię podejrzewałem.\" "
+    avt "\"Teraz już rozumiem... Bardzo przepraszam, że cię podejrzewałem.\" "
 
 
 
@@ -2736,9 +2736,9 @@ translate polish week2_04_29e14865:
 
     # b "But from now on, he'll get a different face from me, one of respect. "
 
-    b "Może nie jest zbyt rozmowny i zawsze ma ten niewzruszony wyraz twarzy. "
+    b "Może i nie jest zbyt rozmowny- i zawsze ma ten niewzruszony wyraz twarzy... "
 
-    b "Ale od teraz, będę na niego patrzył zupełnie inaczej, z szacunkiem. "
+    b "Ale od teraz, będę na niego patrzył zupełnie inaczej; z szacunkiem. "
 
 
 
@@ -2750,7 +2750,7 @@ translate polish week2_04_cd5e5d2a:
 
     # b "And that Aidridringane who sent him here... Hopefully this all turns out good in the \nend. "
 
-    b "I ten Aidridringane, który go tutaj wysłał... Mam nadzieje, że w końcu wszystko dobrze się ułoży. "
+    b "I ten Aidridringane, który go tutaj wysłał... Mam nadzieję, że w końcu wszystko dobrze się ułoży. "
 
 
 
