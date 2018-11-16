@@ -2830,7 +2830,7 @@ translate polish week2_05_2d75af17:
 
     voice voice_file.father(5,1)
 
-    phone "\"Liao mój chłopcze, twój tata się za tobą stęsknił. Co tam u ciebie?\" "
+    phone "\"Liao, mój chłopcze, twój tata się za tobą stęsknił. Co tam u ciebie?\" "
 
 
 
@@ -2842,7 +2842,7 @@ translate polish week2_05_2bad4c73:
 
     # avt "\"Yeah Dad, I've been fine...\" "
 
-    avt "\"Tak tato, u mnie wszystko w porządku...\" "
+    avt "\"Hej tato, u mnie wszystko w porządku...\" "
 
 
 
@@ -2854,7 +2854,7 @@ translate polish week2_05_294596bc:
 
     # b "Well I can't really say having to suddenly deal with those three cats is {i}fine{/i}... but should I talk about that to dad? "
 
-    b "Nie mogę powiedzieć, że nagłe użeranie się z tymi trzema kotami jest {i}w porządku{/i}... ale czy powinienem mówić o tym tacie? "
+    b "Nie mogę powiedzieć, że nagła konieczność użerania się z tymi trzema kotami jest {i}w porządku{/i}... ale czy powinienem mówić o tym tacie? "
 
 
 
@@ -2868,9 +2868,9 @@ translate polish week2_05_b2afc75b:
 
     # b "But if dad finds out that I can do that... wouldn't he just force me to go back home? "
 
-    b "Bardzo chciałbym się dowiedzieć, czy w mojej rodzinie były jakieś inne osoby ze zdolnością widzenia tygrysich strażników i innych duchów. "
+    b "Bardzo chciałbym się dowiedzieć, czy w mojej rodzinie były jeszcze jakieś osoby ze zdolnością widzenia tygrysich strażników i innych duchów. "
 
-    b "Ale jeśli tata się dowie, że to potrafię... nie chciałbym mnie zmusić bym wrócił do domu? "
+    b "Ale jeśli tata się dowie, że to potrafię... czy nie będzie mnie zmuszać do powrotu? "
 
 
 
@@ -2882,7 +2882,7 @@ translate polish week2_05_4ed6c0b3:
 
     # b "My older brother handles all the temple work these days, he takes it super seriously. "
 
-    b "Mój starszy brat jest teraz odpowiedzialny za wszystkie sprawy dotyczące świątyni, traktuje to bardzo poważnie. "
+    b "Mój starszy brat jest teraz odpowiedzialny za wszystkie sprawy dotyczące świątyni- traktuje to bardzo poważnie. "
 
 
 
@@ -2946,7 +2946,7 @@ translate polish week2_06_ask_7e749f94:
 
     # b "I hesitate a little bit. But I figure that asking him directly is the best option. "
 
-    b "Waham się przez krótką chwilę, ale dochodzę do wniosku, że powiedzenie tego prosto z mostu jest najlepszą opcją. "
+    b "Waham się przez krótką chwilę- ale dochodzę do wniosku, że powiedzenie tego prosto z mostu jest najlepszą opcją. "
 
 
 
@@ -3054,7 +3054,7 @@ translate polish week2_06_ask_dce516ad:
 
     voice voice_file.father(5,6)
 
-    phone "\"W sumie to o czymś mi przypomniałeś.\" "
+    phone "\"W sumie, to o czymś mi przypomniałeś.\" "
 
     phone "\"Gdy byłem małym chłopcem, mój dziadek, to jest twój pradziadek, zawsze mówił, że jest doglądany przez tygrysich strażników.\" "
 
@@ -3142,7 +3142,7 @@ translate polish week2_06_ask_628dabe1:
 
     phone "\"Proszę nie mów o tym nikomu. W przeciwnym razie, ludzie mogą zacząć myśleć o nas jako o bandzie oszustów.\" "
 
-    phone "\"Może i jesteśmy Jitong'ami tygrysich strażników, ale to nie znaczy, że naprawdę możemy z nimi rozmawiać!\" "
+    phone "\"Może i jesteśmy Jitong'ami tygrysich strażników- ale to nie znaczy, że naprawdę możemy z nimi rozmawiać!\" "
 
 
 
@@ -3158,7 +3158,7 @@ translate polish week2_06_ask_62b1cd83:
 
     voice voice_file.father(5,12)
 
-    phone "\"Tak, czy inaczej, nie paplaj o tym ludziom. Zrozumiano?\" "
+    phone "\"Tak czy inaczej, nie paplaj o tym ludziom. Zrozumiano?\" "
 
 
 
@@ -3214,7 +3214,7 @@ translate polish week2_06_ask_73b86af9:
 
     # b "I mean, I cheated on a quiz just a few days ago, but I don't think I should tell dad that. "
 
-    b "Znaczy, oszukałem na teście parę dni temu, ale nie sądzę, że powinienem mówić o tym tacie. "
+    b "Znaczy, oszukiwałem na teście parę dni temu, ale nie sądzę że powinienem mówić o tym tacie. "
 
 
 
@@ -3286,7 +3286,7 @@ translate polish week2_06_ask_a04a176f:
 
     # avt "\"Eh... I'm not sure when I would have some time.\" "
 
-    avt "\"Ech... Nie wiem jeszcze kiedy będę miał trochę czasu.\" "
+    avt "\"Ech... Nie wiem jeszcze kiedy będę miał dość czasu.\" "
 
 
 
@@ -3302,7 +3302,7 @@ translate polish week2_06_ask_b4f8992a:
 
     voice voice_file.father(5,17)
 
-    phone "Już prawie czas na {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 
 
@@ -3330,7 +3330,7 @@ translate polish week2_06_ask_eb258c70:
 
     voice voice_file.father(5,18)
 
-    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu i upewnij się, że się wysypiasz!\" "
+    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu- i upewnij się, że się wysypiasz!\" "
 
 
 
@@ -3358,7 +3358,7 @@ translate polish week2_06_ask_25605e43:
 
     voice voice_file.father(5,19)
 
-    phone "\"To dobrze, to na razie synu.\" "
+    phone "\"To dobrze; na razie synu.\" "
 
 
 
@@ -3496,9 +3496,9 @@ translate polish week2_06_ask_55925818:
 
     voice voice_file.tig(5,25)
 
-    tig normal "\"Oczywiście, że potrafisz. Do kogo innego byś teraz niby mówił?\" "
+    tig normal "\"Oczywiście że potrafisz. Do kogo innego byś teraz niby mówił?\" "
 
-    tig normal "\"Nie ma się czym przejmować. Zobaczyć to uwierzyć. Nie mogę mieć pretensji do twojego taty i dziadka, oni nie mogą nas widzieć.\" "
+    tig normal "\"Nie ma się czym przejmować. Zobaczyć to uwierzyć. Nie mogę mieć pretensji do twojego taty i dziadka- oni nie mogą nas dostrzec.\" "
 
 
 
@@ -3628,7 +3628,7 @@ translate polish week2_06_ask_ae6ffdb4:
 
     # avt "\"Isn't there a better way you can prove your existence?\" "
 
-    avt "\"Ale przecież... Przeczytałem już wszystkie, które mam. Jest szansa, że akurat ten fragment mogłem zapamiętać.\" "
+    avt "\"Ale przecież... Przeczytałem już wszystkie, które tu mam. Jest szansa, że akurat ten fragment mogłem zapamiętać.\" "
 
     avt "\"Nie ma jakiegoś lepszego sposobu, by udowodnić wasze istnienie?\" "
 
@@ -3650,7 +3650,7 @@ translate polish week2_06_ask_701f9670:
 
     tig normal "\"Świetne spostrzeżenie. Jest kilka innych opcji...\" "
 
-    tig normal "\"Co powiesz na to. Otworzysz stronę, której nigdy wcześniej nie widziałeś. Zamkniesz oczy, a ja ci ją przeczytam. Proste.\" "
+    tig normal "\"Co powiesz na to. Otworzysz stronę internetową, której nigdy wcześniej nie widziałeś. Zamkniesz oczy, a ja ci ją przeczytam. Proste.\" "
 
 
 
@@ -3710,7 +3710,7 @@ translate polish week2_06_ask_a1c2ce16:
 
     voice voice_file.lpdcat(5,3)
 
-    lpdcat serious "\"Cóż, nie wychwyciłem wszystkiego, co powiedziałeś przez telefon, ale to brzmiało poważnie.\" "
+    lpdcat serious "\"Cóż, nie wychwyciłem wszystkiego, co powiedziałeś przez telefon- ale to brzmiało poważnie.\" "
 
 
 
@@ -3738,7 +3738,7 @@ translate polish week2_06_ask_a51ee934:
 
     # avt "\"No, I don't have a cold! People don't just start seeing things from colds!\" "
 
-    avt "\"Nie, nie jestem przeziębiony! Ludzie nie zaczynają widzieć rzeczy z powodu przeziębienia!\" "
+    avt "\"Nie, nie jestem przeziębiony! Ludzie nie zaczynają mieć zwidów z powodu przeziębienia!\" "
 
 
 
@@ -3782,7 +3782,7 @@ translate polish week2_06_ask_e2292c09:
 
     voice voice_file.lpdcat(5,6)
 
-    lpdcat normal "\"Liao, nie wiem czemy się tak bardzo martwisz. Możesz nas zobaczyć. Taka jest prawda.\" "
+    lpdcat normal "\"Liao, nie wiem czemu się tak bardzo martwisz. Możesz nas zobaczyć. Taka jest prawda.\" "
 
 
 
@@ -3798,7 +3798,7 @@ translate polish week2_06_ask_f65d1be8:
 
     voice voice_file.lpdcat(5,7)
 
-    lpdcat normal "\"Nawet jeśli Likulau i staruszek tylko ci się przywidzieli, to ja jestem prawdziwą osobą, którą każdy może zobaczyć i stoję dokładnie tutaj.\" "
+    lpdcat normal "\"Nawet jeśli Likulau i staruszek tylko ci się przywidzieli, to ja jestem prawdziwą osobą, którą każdy może zobaczyć- i stoję dokładnie tutaj.\" "
 
 
 
@@ -3826,7 +3826,7 @@ translate polish week2_06_ask_c92b115a:
 
     voice voice_file.lpdcat(5,8)
 
-    lpdcat confused "\"Daj spokój, czy naprawdę jesteś taki tępy? Czy naprawdę uważasz, że Yan Shu-Chi by od tak po prostu z tobą zamieszkał?\" "
+    lpdcat confused "\"Daj spokój, serio jesteś taki tępy? Czy naprawdę uważasz, że Yan Shu-Chi od tak by z tobą zamieszkał?\" "
 
 
 
@@ -3916,7 +3916,7 @@ translate polish week2_06_ask_c75238d1:
 
     # b "I should probably just stop stressing myself over it. "
 
-    b "Nie mogę od tak zmienić tego, co o tym sądzę, ale tak, czuję się z tym trochę lepiej. "
+    b "Nie mogę od tak zmienić opinii na ten temat- ale tak, czuję się z tym trochę lepiej. "
 
     b "Powinienem po prostu przestać się tym przejmować. "
 
@@ -3930,7 +3930,7 @@ translate polish week2_06_ask_871e57b4:
 
     # b "...Still, it's unreal to think that I can just see gods now. "
 
-    b "...ale wciąż to wydaje się nierealne, że mogę od tak zobaczyć bogów. "
+    b "...choć wciąż- to wydaje się nierealne, że mogę od tak zobaczyć bogów. "
 
 
 
@@ -4102,7 +4102,7 @@ translate polish week2_06_ask_e8532b93:
 
     # avt "\"Why do I feel that you're the one making me out to be an idiot Senpai...\" "
 
-    avt "\"Czemu czuje się jakbyś właśnie w ten sposób robił ze mnie idiotę, Senpai...\" "
+    avt "\"Czemu czuję się jakbyś właśnie w ten sposób robił ze mnie idiotę, Senpai...\" "
 
 
 
