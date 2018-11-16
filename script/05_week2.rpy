@@ -3358,7 +3358,7 @@ translate polish week2_06_ask_25605e43:
 
     voice voice_file.father(5,19)
 
-    phone "\"To dobrze; na razie synu.\" "
+    phone "\"To dobrze. Na razie synu.\" "
 
 
 
@@ -4170,7 +4170,7 @@ translate polish week2_06_dontask_82dc3059:
 
     # avt "\"It's okay, I was just wondering about the books I sent home last week...\" "
 
-    avt "\"Nic mi nie jest, zastanawiałem się co z tymi książkami, które wysłałem do domu w zeszłym tygodniu...\" "
+    avt "\"Nic mi nie jest; zastanawiałem się tylko co z tymi książkami, które wysłałem do domu w zeszłym tygodniu...\" "
 
 
 
@@ -4202,7 +4202,7 @@ translate polish week2_06_dontask_75d654d4:
 
     voice voice_file.father(5,21)
 
-    phone "\"Ale tak serio Liao, nie powinieneś spędzać tak dużo czasu na czytaniu powieści. Nie pomogą ci w twoich studiach.\" "
+    phone "\"Ale poważnie- Liao, nie powinieneś spędzać tak dużo czasu na czytaniu powieści. Nie pomogą ci w twoich studiach.\" "
 
 
 
@@ -4214,7 +4214,7 @@ translate polish week2_06_dontask_51d32e3f:
 
     # avt "\"I ...I know. I just read books sometimes to relax myself.\" "
 
-    avt "\"Ja... wiem to. Czasem tylko czytam książki dla relaksu.\" "
+    avt "\"Ja... wiem o tym. Po prostu czasem czytam książki dla relaksu.\" "
 
 
 
@@ -4230,7 +4230,7 @@ translate polish week2_06_dontask_21060ec5:
 
     voice voice_file.father(5,22)
 
-    phone "\"Cieszę się, że możesz się opanować. A jak tam w szkole? Udaje ci się utrzymać dobre oceny?\" "
+    phone "\"Cieszę się, że potrafisz się opanować. A jak tam w szkole? Udaje ci się utrzymać dobre oceny?\" "
 
 
 
@@ -4242,7 +4242,7 @@ translate polish week2_06_dontask_73b86af9:
 
     # b "I mean, I cheated on a quiz just a few days ago, but I don't think I should tell dad that. "
 
-    b "Znaczy, oszukałem na teście parę dni temu, ale nie sądzę, że powinienem mówić o tym tacie. "
+    b "Znaczy, oszukiwałem na teście parę dni temu, ale nie sądzę że powinienem mówić o tym tacie. "
 
 
 
@@ -4314,7 +4314,7 @@ translate polish week2_06_dontask_ff0dcb55:
 
     # avt "\"Eh... I'm not sure when I would have some time.\" "
 
-    avt "\"Ech... Nie wiem jeszcze kiedy będę miał trochę czasu.\" "
+    avt "\"Ech... Nie wiem jeszcze kiedy będę miał dość czasu\" "
 
 
 
@@ -4330,7 +4330,7 @@ translate polish week2_06_dontask_b4f8992a:
 
     voice  voice_file.father(5,17)
 
-    phone "Już prawie czas na {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 
 
@@ -4358,7 +4358,7 @@ translate polish week2_06_dontask_eb258c70:
 
     voice  voice_file.father(5,18)
 
-    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu i upewnij się, że się wysypiasz!\" "
+    phone "\"W porządku. Pamiętaj, by czasem przyjechać do domu- i upewnij się, że się wysypiasz!\" "
 
 
 
@@ -4386,7 +4386,7 @@ translate polish week2_06_dontask_25605e43:
 
     voice  voice_file.father(5,19)
 
-    phone "\"To dobrze, to na razie synu.\" "
+    phone "\"To dobrze. Na razie synu..\" "
 
 
 
@@ -4450,7 +4450,7 @@ translate polish week2_06_dontask_e0f913df:
 
     # b "But I have to go home some day, and if I can still see them then... "
 
-    b "Prędzej, czy później muszę wrócić do domu i jeśli wciąż będę mógł ich zobaczyć... "
+    b "Prędzej czy później muszę wrócić do domu- i jeśli wciąż będę mógł ich zobaczyć... "
 
 
 
