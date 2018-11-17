@@ -4932,7 +4932,7 @@ translate polish week2_07_6d2dfb94:
 
     # b "Eventually we arrive at the old street village surrounding the hot springs. "
 
-    b "Następnego dnia rano łapiemy autobus jadący w głąb gór. "
+    b "Następnego ranka łapiemy autobus jadący w głąb gór. "
 
     b "Wreszcie docieramy na starą ulicę w małej wiosce otaczającej gorące źródła. "
 
@@ -5006,7 +5006,7 @@ translate polish week2_07_faa73e62:
 
     # avt "\"Nope. I'm from the south. So I've never had a need to.\" "
 
-    avt "\"Nie. Pochodzę z południa. Więc jakoś nigdy nie miałem takiej potrzeby.\" "
+    avt "\"Nie. Pochodzę z południa. Jakoś nigdy nie miałem takiej potrzeby.\" "
 
 
 
@@ -5022,7 +5022,7 @@ translate polish week2_07_46bfe943:
 
     voice voice_file.lpdcat(5,31)
 
-    lpdcat normal "\"Serio?! Ale te miejsce jest bardzo znane! Jesteś w Tajpej już ponad pół roku i wcale nic nie zwiedzałeś?\" "
+    lpdcat normal "\"Serio?! Ale to miejsce jest bardzo znane! Jesteś w Tajpej już ponad pół roku i wcale nic nie zwiedzałeś?\" "
 
 
 
@@ -5078,7 +5078,7 @@ translate polish week2_07_12df4afb:
 
     voice voice_file.lpdcat(5,33)
 
-    lpdcat cute "\"Dobrze więc. Pozwól że ja -twój wspaniały Senpai- przedstawię ci to miejsce!\" "
+    lpdcat cute "\"Dobrze więc. Pozwól że ja- twój wspaniały Senpai- przedstawię ci to miejsce!\" "
 
 
 
@@ -5148,7 +5148,7 @@ translate polish week2_07_85eee872:
 
     voice voice_file.lpdcat(5,37)
 
-    lpdcat normal "\"Słyszałem też, że jest tutaj dość sporo prywatnych łaźni. Większość domów za tymi sklepikarzami zapewne je ma.\" "
+    lpdcat normal "\"Słyszałem też, że jest tutaj dość sporo prywatnych łaźni. Większość domów tych sklepikarzy zapewne je ma.\" "
 
     lpdcat normal "\"...wiesz, zastanawiałem się co pojawiło się pierwsze. Ludzie znajdujący gorące źródła, czy ludzie budujący tę ulicę?\" "
 
@@ -5166,7 +5166,7 @@ translate polish week2_07_ada3ce20:
 
     voice voice_file.lpdcat(5,38)
 
-    lpdcat normal "\"Poza tym, nie wydaje mi się, żeby pływanie w zatoczce było dobrym pomysłem. Niektórzy ludzie to robią, bo to nic nie kosztuje, ale chyba lepiej tego nie robić.\" "
+    lpdcat normal "\"Poza tym, nie wydaje mi się, żeby pływanie w zatoczce było dobrym pomysłem. Niektórzy ludzie to robią, bo to nic nie kosztuje- ale chyba lepiej tego nie robić.\" "
 
 
 
@@ -5258,7 +5258,7 @@ translate polish week2_07_c394f498:
 
     # b "Theres some {font=tl/None/NotoSansCJKtc-Bold.otf}wild boar sausages{/font}... Leopard is currently staring at them. "
 
-    b "Są tutaj na przykład {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kiełbaski z dzika{/font}... Pantera się teraz w nie wpatruje. "
+    b "Są tutaj na przykład {font=tl/polish/NotoSans-SemiCondensedBold.ttf}kiełbaski z dzika{/font}... Pantera właśnie się w nie wpatruje. "
 
 
 
@@ -5364,7 +5364,7 @@ translate polish week2_07_4f143b3c:
 
     # b "Luckily there's heaps of people around and I don't stand out doing so... even if I am pushing mid-air. "
 
-    b "Ostatecznie muszę ich wypchnąć stamtąd siłą, by odciągnąć ich od jedzenia i ruszyć dalej. "
+    b "Ostatecznie muszę wypchnąć ich stamtąd siłą, by odciągnąć ich od jedzenia i ruszyć dalej. "
 
     b "Na szczęście w okolicy jest mnóstwo ludzi i nikt nie zwraca na mnie uwagi... nawet jeśli popycham powietrze. "
 
@@ -5394,7 +5394,7 @@ translate polish cg_04_52f8b5dd:
 
     # b "Senpai runs into a nearby building. The building itself resembles a traditional Japanese inn. "
 
-    b "Senpai wbiega do środka budynku nieopodal. Budynek przypomina tradycyjną japońską gospodę. "
+    b "Senpai wbiega do środka budynku nieopodal, przypominającego tradycyjną japońską gospodę. "
 
 
 
@@ -5454,7 +5454,7 @@ translate polish cg_04_e2ce95ff:
 
     # b "Even after several more glances, I'm still astonished by it's size and grandeur. "
 
-    b "Nawet po dłuższym wpatrywaniu się w to pomieszczenie, wciąż jestem zdumiony jego rozmiarem i wielkością. "
+    b "Nawet po dłuższym wpatrywaniu się w to pomieszczenie, wciąż jestem zdumiony jego rozmiarem i okazałością. "
 
 
 
@@ -5570,7 +5570,7 @@ translate polish cg_04_33523882:
 
     voice voice_file.lpdcat(5,44)
 
-    lpdcat normal "\"Ludzie okropnie się pocą od tego całego żaru. Nawet jeśli jesteś w wodzie, nie zapominaj by pić wodę. Rozumiesz Liao?\" "
+    lpdcat normal "\"Ludzie okropnie się pocą od tego całego żaru. Nawet jeśli jesteś w wodzie, nie zapominaj o uzupełnianiu płynów. Rozumiesz Liao?\" "
 
 
 
@@ -5598,7 +5598,7 @@ translate polish cg_04_835cd4b3:
 
     voice voice_file.lpdcat(5,45)
 
-    lpdcat laugh "\"Przecież uwielbiam gorące źródła! Nie poleciłbym ci niczego innego, niż to co najlepsze.\" "
+    lpdcat laugh "\"Przecież uwielbiam gorące źródła! Nie poleciłbym ci niczego poza tym, co najlepsze.\" "
 
 
 
@@ -5610,7 +5610,7 @@ translate polish cg_04_30a531f4:
 
     # avt "\"But, this place seems expensive...\" "
 
-    avt "\"Ale, te miejsce wydaje się drogie...\" "
+    avt "\"Ale, to miejsce wydaje się drogie...\" "
 
 
 
@@ -5638,7 +5638,7 @@ translate polish cg_04_29eb05c2:
 
     voice voice_file.lpdcat(5,46)
 
-    lpdcat laugh "\"Haha, nie przejmuj się tym. Miałem ze sobą kupony zniżkowe, więc nie było to aż tak drogie. To wspaniała okazja, by zaprosić cię w fajne miejsce~\" "
+    lpdcat laugh "\"Haha, nie przejmuj się tym. Miałem ze sobą kupony zniżkowe, więc nie było aż tak drogo. To wspaniała okazja, by zaprosić cię w fajne miejsce~\" "
 
 
 
@@ -5678,7 +5678,7 @@ translate polish cg_04_ea755d47:
 
     voice voice_file.lpdcat(5,47)
 
-    lpdcat normal "\"Liao mówiłem ci, wszystko w porządku. Tak czy inaczej, czy to nie super, że udało się nam tu wcisnąć cztery osoby mając tylko dwa wejścia?\" "
+    lpdcat normal "\"Liao mówiłem ci, wszystko w porządku. Tak czy inaczej- czy to nie super, że udało się nam wcisnąć tu cztery osoby mając tylko dwie wejściówki?\" "
 
 
 
@@ -5854,7 +5854,7 @@ translate polish cg_04_76230156:
 
     # b "It was so sudden, I didn't get a chance to walk away or give him space... I can't just keep staring at his naked body. "
 
-    b "To stało się tak nagle, nie zdążyłem odejść na bok, by dać mu trochę miejsca... Nie mogę tak po prostu wpatrywać się w jego nagie ciało. "
+    b "To stało się tak nagle, że nie zdążyłem nawet odejść na bok, by dać mu trochę miejsca... Nie mogę tak po prostu wpatrywać się w jego nagie ciało. "
 
 
 
@@ -5866,7 +5866,7 @@ translate polish cg_04_8fc2c96a:
 
     # b "I turn my head away in an meager attempt to restore Senpai's privacy. "
 
-    b "Odwracał głowę w lichej próbie przywrócenia Senpai'owi odrobiny prywatności. "
+    b "Odwracam głowę w lichej próbie przywrócenia Senpai'owi odrobiny prywatności. "
 
 
 
@@ -5882,7 +5882,7 @@ translate polish cg_04_ec5dd731:
 
     voice voice_file.tig(5,39)
 
-    tig lift "\"...Liao, co ty robisz? Prędzej, czy później musisz wziąć prysznic.\" "
+    tig lift "\"...Liao, co ty robisz? Prędzej czy później musisz wziąć prysznic.\" "
 
 
 
@@ -5894,7 +5894,7 @@ translate polish cg_04_811cbfb2:
 
     # b "Yeah, I know! Why is that his business all of a sudden?! "
 
-    b "Tak, wiem to! Czemu tak nagle się tym przejmuje?! "
+    b "Tak, wiem o tym! Czemu tak nagle się tym przejmuje?! "
 
 
 
