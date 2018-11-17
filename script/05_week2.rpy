@@ -4566,7 +4566,7 @@ translate polish week2_07_04add7b8:
 
     # avt "\"Ehh? Hot springs?\" "
 
-    avt "\"Ehh? Gorące źródła?\" "
+    avt "\"Ehh? Gorących źródeł?\" "
 
 
 
@@ -4610,7 +4610,7 @@ translate polish week2_07_88ba5db8:
 
     # avt "\"Now that you mention it... I've never been to a hot spring before. By the way isn't that expensive?\" "
 
-    avt "\"Gdy tak o tym wspominasz... W sumie to nigdy nie byłem w gorących źródłach. A tak po za tym, nie jest to drogie?\" "
+    avt "\"Skoro o tym wspomniałeś... W sumie, nigdy nie byłem w gorących źródłach. Chociaż, nie jest to aby za drogie?\" "
 
 
 
@@ -4626,7 +4626,7 @@ translate polish week2_07_00450028:
 
     voice voice_file.lpdcat(5,18)
 
-    lpdcat normal "\"Ehhh- Nie jest tanio, ale to koszt porównywalny do dobrego obiadu, góra dwóch.\" "
+    lpdcat normal "\"Ehhh- Tanio nie jest, ale to koszt porównywalny do dobrego obiadu- góra dwóch.\" "
 
 
 
@@ -4642,7 +4642,7 @@ translate polish week2_07_ed9728c2:
 
     voice voice_file.lpdcat(5,19)
 
-    lpdcat normal "\"Nie chodziłbym tam częściej niż raz w miesiącu. Nie uważasz, że to dobry pomysł?\" "
+    lpdcat normal "\"Sądzę, że moglibyśmy się tam wybierać co miesiąc. Nie uważasz, że to dobry pomysł?\" "
 
 
 
@@ -4654,7 +4654,7 @@ translate polish week2_07_79fb7d45:
 
     # avt "\"T-The price of one or two dinners... I already spent heaps on books and things this month... I don't think I've got any more money to squeeze out of my budget.\" "
 
-    avt "\"C-Cena dwóch obiadów... Zdążyłem wydać już mnóstwo pieniędzy na książki i inne rzeczy w tym miesiącu... Raczej nie wycisnę już więcej pieniędzy na przyjemności z mojego budżetu.\" "
+    avt "\"C-Cena dwóch obiadów... Zdążyłem wydać już mnóstwo pieniędzy na książki i inne rzeczy w tym miesiącu... Raczej nie wycisnę już z mojego budżetu więcej pieniędzy na przyjemności.\" "
 
 
 
@@ -4682,7 +4682,7 @@ translate polish week2_07_101d8df3:
 
     # avt "\"Well, really no. You only see it in anime. And wouldn't we be bathing with a bunch of strangers?\" "
 
-    avt "\"Cóż, raczej nie. Takie rzeczy widzisz tylko w anime. I nie musielibyśmy kąpać się wraz z obcymi ludźmi?\" "
+    avt "\"Cóż, raczej nie. Takie rzeczy widzisz tylko w anime. Czy zresztą nie musielibyśmy się kąpać wraz z obcymi ludźmi?\" "
 
 
 
@@ -4790,7 +4790,7 @@ translate polish week2_07_fb23d272:
 
     voice voice_file.lpdcat(5,26)
 
-    lpdcat cute "\"Poleciłbym te rozwiązanie dla takiego świeżaka jak ty~\" "
+    lpdcat cute "\"Poleciłbym to rozwiązanie dla takiego świeżaka jak ty~\" "
 
 
 
@@ -4848,7 +4848,7 @@ translate polish week2_07_90969f28:
 
     voice voice_file.lpdcat(5,28)
 
-    lpdcat normal "\"Jak mówiłem, przecież to tylko tyle jak dwa obiady na mieście.\" "
+    lpdcat normal "\"Jak już mówiłem, przecież to tylko tyle co dwa obiady na mieście.\" "
 
     lpdcat normal "\"Nie myśl tak o tym, pójdź ze mną skoro cię proszę! Skorzystaj z okazji!\" "
 
@@ -4874,7 +4874,7 @@ translate polish week2_07_6f14f3d2:
 
     # b "What I really wanted to say was... \"That's Yan Shu-chi's money, not yours\". "
 
-    b "To co naprawdę chciałem powiedzieć to... \"To są pieniądze Yan Shu-Chi, a nie twoje\". "
+    b "To, co naprawdę chciałem powiedzieć to... \"To są pieniądze Yan Shu-Chi, a nie twoje\". "
 
 
 
@@ -4890,7 +4890,7 @@ translate polish week2_07_5a278743:
 
     voice voice_file.lpdcat(5,29)
 
-    lpdcat laugh "\"Daj spokój, wszystko jest okej! Nie chcesz chyba zawieść swojego senpai'a, prawda?\" "
+    lpdcat laugh "\"Daj spokój, wszystko będzie okej! Nie chcesz chyba zawieść swojego senpai'a, prawda?\" "
 
 
 
@@ -4902,7 +4902,7 @@ translate polish week2_07_587b03e4:
 
     # avt "\"Alright, fine let's go for it.\" "
 
-    avt "\"No dobra już dobra, chodźmy.\"  "
+    avt "\"Dobra, już dobra- chodźmy.\"  "
 
 
 
@@ -4916,7 +4916,7 @@ translate polish week2_07_2381c287:
 
     # b "In what feels like barely a second, Senpai is already on his phone looking up the hot spring for this weekend... "
 
-    b "Tak, to trochę dziwne, ale jakoś nie mogłem mu odmówić. Naprawdę tego chce. "
+    b "To trochę dziwne, ale jakoś nie mogłem mu odmówić. Naprawdę tego chce. "
 
     b "Mija dosłownie parę chwil, a Senpai już przegląda swój telefon w poszukiwaniu gorących źródeł na ten weekend... "
 
