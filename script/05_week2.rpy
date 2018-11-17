@@ -6094,7 +6094,7 @@ translate polish cg_04_ce25f47d:
 
     # b "It's a warning too late. I retreat almost as fast as I went in. The heat was more than I had anticipated. "
 
-    b "Trochę za późno na te ostrzeżenie. Wyskoczyłem stamtąd prawie tak szybko jak wszedłem do środka. Nie spodziewałem się, że będzie tu aż tak gorąco. "
+    b "Za późno na ostrzeżenia. Wyskoczyłem stamtąd prawie tak szybko jak wszedłem do środka. Nie spodziewałem się, że będzie tu aż tak gorąco. "
 
 
 
@@ -6210,7 +6210,7 @@ translate polish cg_04_f38a5fe7:
 
     voice voice_file.tig(5,41)
 
-    tig lift "\"Cóż. Pozwól, że spojrzę... Woda jest raczej bardzo gorąca.\" "
+    tig lift "\"Cóż. Pozwól, że spojrzę... Woda jest raczej gorąca.\" "
 
 
 
@@ -6246,7 +6246,7 @@ translate polish cg_04_cce14f3f:
 
     # b "Leopard just shoves his {i}entire{/i} \ arm into the water, grimacing from the heat. "
 
-    b "Pantera wkłada {i}całą{/i} rękę \ do wody, grymasząc od gorąca. "
+    b "Pantera wkłada {i}całą{/i} rękę \ do wody, grymasząc z gorąca. "
 
 
 
@@ -6394,7 +6394,7 @@ translate polish cg_04_8075f6bb:
 
     voice voice_file.tig(5,43)
 
-    tig_naked normal "\"Hmm? Zdjąłem swoje szaty. Nie kąpałbyś się z nimi, prawda?\" "
+    tig_naked normal "\"Hmm? Zdjąłem swoje szaty. Nie kąpałbyś się w nich, prawda?\" "
 
 
 
@@ -6406,7 +6406,7 @@ translate polish cg_04_27d53b2d:
 
     # avt "\"I... I mean... So you can make your clothes disappear?\" "
 
-    avt "\"Ja... myślę... A wieć możesz sprawić, że twoje ubrania znikają?\" "
+    avt "\"Ja... myślę... A wieć możesz sprawić, żeby twoje ubrania zniknęły?\" "
 
 
 
@@ -6422,7 +6422,7 @@ translate polish cg_04_2a142009:
 
     voice voice_file.tig(5,44)
 
-    tig_naked normal "\"Ależ oczywiście! Jak już wiesz, bóg nie ma żadnego, niezmiennego wyglądu.\" "
+    tig_naked normal "\"Ależ oczywiście! Jak już wiesz, bóg nie ma żadnego stałego wyglądu.\" "
 
 
 
@@ -6434,7 +6434,7 @@ translate polish cg_04_e00b4404:
 
     # avt "\"So, you can do that anytime?\" "
 
-    avt "\"To możesz zrobić to w każdej chwili?\" "
+    avt "\"Więc możesz zrobić to w każdej chwili?\" "
 
 
 
@@ -6450,7 +6450,7 @@ translate polish cg_04_043505e2:
 
     voice voice_file.tig(5,45)
 
-    tig_naked normal "\"Dokładnie. Mimo to, uważam moje codzienne szaty za część mojego oficjalnego wyglądu.\" "
+    tig_naked normal "\"Właśnie tak. Mimo to, uznaję moje codzienne szaty za część swojego oficjalnego wyglądu.\" "
 
 
 
@@ -6462,7 +6462,7 @@ translate polish cg_04_1b646c23:
 
     # avt "\"Okay... so gods can change their clothes... That's cool.\" "
 
-    avt "\"Rozumiem... a więc bogowie mogą zmieniać swoje brania... To fajne.\" "
+    avt "\"Rozumiem... a więc bogowie mogą zmieniać swoje ubrania... To fajne.\" "
 
 
 
@@ -6498,7 +6498,7 @@ translate polish cg_04_701cc84e:
 
     # b "I gotta say, this is a {i}fantastic{/i} \ view... Leopard's just standing there, the steam rising around his well-defined body. "
 
-    b "Muszę przyznać, to jest {i}fantastyczny{/i} \ widok... Pantera stoi tutaj, a para unosi się wokół jego dobrze zarysowanego ciała. "
+    b "Muszę przyznać, to {i}fantastyczny{/i} \ widok... Pantera stoi tutaj, a para unosi się wokół jego dobrze zarysowanego ciała. "
 
 
 
@@ -6522,7 +6522,7 @@ translate polish cg_04_e181e09e:
 
     # b "Tiger rests his back against the bath wall. The towering form of his rugged, handsome body contrasts well with this serene space steeped in tradition. "
 
-    b "Tiger opiera się o ścianę basenu. Rosły kształt jego muskularnego, atrakcyjnego ciała doskonale kontrastuje z tą pełną spokoju, przesiąkniętą tradycją przestrzenią. "
+    b "Tygrys opiera się o ścianę basenu. Rosły kształt jego muskularnego, atrakcyjnego ciała doskonale kontrastuje z tą pełną spokoju, przesiąkniętą tradycją przestrzenią. "
 
 
 
@@ -6646,7 +6646,7 @@ translate polish cg_04_6c97f5df:
 
     voice voice_file.lpdcat(5,63)
 
-    lpdcat_naked pu "\"Hmm? Tylko chcę coś sprawdzić, wcale nie będę-\" "
+    lpdcat_naked pu "\"Hmm? Chcę tylko coś sprawdzić, wcale nie będę-\" "
 
 
 
@@ -6690,7 +6690,7 @@ translate polish cg_04_a0b2593f:
 
     voice voice_file.tig(5,46)
 
-    tig_naked normal "\"Cicho siedź, kociaku.\" "
+    tig_naked normal "\"Siedź cicho, kociaku.\" "
 
 
 
@@ -6704,7 +6704,7 @@ translate polish cg_04_20659bd4:
 
     # b "Senpai reels back, covering his head. He looks like he's about to cry. "
 
-    b "Tygrys stuknął Senpai'a w głowę, nie za mocno, ale i nie za lekko. "
+    b "Tygrys stuknął Senpai'a w głowę- nie za mocno, ale i niezbyt lekko. "
 
     b "Senpai się cofa, chwytając się za głowę. Wygląda jakby miał się zaraz rozpłakać. "
 
@@ -6874,7 +6874,7 @@ translate polish cg_04_71c5f1d5:
 
     # b "Senpai's left the bath as well. He walks around with a robe on which is too large for him, the lower hem dragging across the ground behind his feet. "
 
-    b "Senpai też wychodzi z kąpieli. Krąży wokoło w zbyt dużym szlafroku, którego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
+    b "Senpai też wychodzi z kąpieli. Krąży wokoło w przydużym szlafroku, którego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
 
 
 
@@ -6910,7 +6910,7 @@ translate polish cg_04_2ff489fd:
 
     # b "This probably isn't the best time to ask about that. I spend a few minutes in the rest area with Senpai before returning to the bath... "
 
-    b "To chyba nie jest najlepszy moment, by się o to pytać. Spędzam z Senpai'em kilka minut w miejscu do odpoczynku, zanim wracamy do kąpieli... "
+    b "To chyba nie jest najlepszy moment, by się o to pytać. Spędzam z Senpai'em kilka minut w miejscu do odpoczynku, po czym wracamy do kąpieli... "
 
 
 
@@ -6938,7 +6938,7 @@ translate polish week2_08_c6a6c476:
 
     voice voice_file.lpdcat(5,68)
 
-    lpdcat laugh "\"Ahhhh- Jak się wam podobało?\" "
+    lpdcat laugh "\"Ahhhh- Jak wam się podobało?\" "
 
 
 
@@ -6994,7 +6994,7 @@ translate polish week2_08_bcfe6123:
 
     # b "Seems we all liked it, myself included. I guess it wouldn't be the worst idea to go this again sometime... "
 
-    b "Zdaje się, że wszyscy są zadowoleni, łącznie ze mną. Myślę, że nie najgorszym pomysłem byłoby to kiedyś powtórzyć... "
+    b "Zdaje się, że wszyscy są zadowoleni- łącznie ze mną. Myślę, że nie najgorszym pomysłem byłoby to kiedyś powtórzyć... "
 
 
 
@@ -7094,7 +7094,7 @@ translate polish week2_08_c39f3181:
 
     # b "After talking about something to eat, we head straight to the suckling pig and the wild boar sausages they wanted earlier. "
 
-    b "Po krótkiej rozmowie, idziemy prosto do pieczonego prosięcia i kiełbasy z dzika, które wcześniej chcieli. "
+    b "Po krótkiej rozmowie, idziemy prosto w kierunku pieczonego prosięcia i kiełbasy z dzika, które wcześniej chcieli. "
 
 
 
@@ -7154,7 +7154,7 @@ translate polish week2_08_b21cd833:
 
     # b "The mountain is cloaked in orange while the sky died lavender by the last lights of the sun. "
 
-    b "Góra jest przykryta kolorem pomarańczowym, podczas ostatnie promienie słońca barwią niebo na lawendowy odcień. "
+    b "Góra jest przykryta kolorem pomarańczowym, podczas gdy ostatnie promienie słońca barwią niebo na lawendowy odcień. "
 
 
 
@@ -7254,7 +7254,7 @@ translate polish week2_08_41565465:
 
     # b "I couldn't tell it's actual flavor because the \"magao\" overpowered it. But it did have a different texture than I'm used to from pork. "
 
-    b "Nie mógłbym powiedzieć jak dokładnie smakuje, ponieważ \"magao\" zdominowało je całkowicie. Miało za to trochę inną teksturę, niż wieprzowina. "
+    b "Nie mógłbym powiedzieć jak dokładnie smakuje, ponieważ \"magao\" zdominowało je całkowicie. Miało za to trochę inną teksturę niż typowa wieprzowina. "
 
 
 
@@ -7326,7 +7326,7 @@ translate polish week2_08_84643dc1:
 
     # b "After all this won't last long... One day, I'm going to need to choose one of them. "
 
-    b "Przecież to nie będzie długo trwało... Pewnego dnia, będę musiał wybrać któregoś z nich. "
+    b "W końcu to nie będzie trwać wiecznie... Pewnego dnia, będę musiał wybrać któregoś z nich. "
 
 
 
