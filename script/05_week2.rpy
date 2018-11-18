@@ -246,7 +246,7 @@ translate polish s05_5_ee853f05:
 
     # avt "\"Huh, oh? ...Textbooks?\" "
 
-    avt "\"Ach? ...podręczniki?\""
+    avt "\"Ach? ...podręczniki?\" "
 
 
 
@@ -3022,7 +3022,7 @@ translate polish week2_06_ask_ea7f27a6:
 
     voice voice_file.father(5,5)
 
-    phone "\"Tak, odpowiedź brzmi {i}nie{/i}. Czemu tak nagle cię to interesuje? Czy ludzie nagadali ci jakichś rzeczy?\" ."
+    phone "\"Tak, odpowiedź brzmi {i}nie{/i}. Czemu tak nagle cię to interesuje? Czy ludzie nagadali ci jakichś rzeczy?\" "
 
 
 
@@ -5062,7 +5062,7 @@ translate polish week2_07_d599f07b:
 
     # avt "\"You don't need to call me \"kid\" Senpai.\" "
 
-    avt "\"Nie musisz nazywać mnie \"dzieciakiem\" Senpai."
+    avt "\"Nie musisz nazywać mnie \"dzieciakiem\" Senpai. "
 
 
 
@@ -6510,7 +6510,7 @@ translate polish cg_04_9d7c498f:
 
     # b "My heart pounds as I see the reflection of his v-line mirrored on the surface of the misty hot spring water. "
 
-    b "Moje serce bije mocniej, gdy widzę odbicie jego linii v na powierzchni mglistej, gorącej wody."
+    b "Moje serce bije mocniej, gdy widzę odbicie jego linii v na powierzchni mglistej, gorącej wody. "
 
 
 
@@ -8570,7 +8570,7 @@ translate polish week2_08_6b390edc:
 
     voice voice_file.randolph(5,21)
 
-    randolph laugh "\"Ufam w to, że znajdziesz sposób. Wątpię, by po rozwiązaniu ich problemów, dalej chcieli ci przeszkadzać.\" "
+    randolph laugh "\"Ufam, że znajdziesz jakiś sposób. Wątpię, by po rozwiązaniu ich problemów dalej chcieli ci przeszkadzać.\" "
 
 
 
@@ -8670,7 +8670,7 @@ translate polish week2_08_d74c55c8:
 
     # b "It may be hard, but there's got to be some way out. Even if there isn't, I have to try anyway, I need to try and work this out. "
 
-    b "Może być ciężko, ale musi przecież istnieć jakieś wyjście. Nawet jeśli go nie ma i tak powinienem spróbować. Muszę spróbować i przekonać się sam. "
+    b "Może być ciężko, ale musi przecież istnieć jakieś wyjście. Nawet jeśli go nie ma- i tak powinienem spróbować. Muszę jakoś to rozgryźć. "
 
 
 
@@ -8722,7 +8722,7 @@ translate polish week2_08_de4c2c5e:
 
     # avt "\"So... are there other yaoguai like you living amongst humans?\" "
 
-    avt "\"A więc... czy jest wielu innych yaoguai takich jak ty, którzy żyją wśród ludzi?\" "
+    avt "\"A więc... czy jest wielu innych yaoguai takich jak ty; którzy żyją wśród ludzi?\" "
 
 
 
@@ -8744,7 +8744,7 @@ translate polish week2_08_ce456d43:
 
     randolph serious "\"Tak właściwie, to jest ich bardzo dużo. Niektórzy są źli, niektórzy dobrzy.\" "
 
-    randolph serious "\"Czy w sumie, to samo nie tyczy się ludzi?\" "
+    randolph serious "\"Tak właściwie, czy to samo nie tyczy się ludzi?\" "
 
     randolph serious "\"Ale, szczerze mówiąc, inni yaoguai są często irytujący.\" "
 
@@ -8778,11 +8778,11 @@ translate polish week2_08_24a93677:
 
     voice voice_file.randolph(5,25)
 
-    randolph serious "\"Cóż... yaoguai tego samego gatunku zazwyczaj żyją w zgodzie, zwykle jednak nie lubimy yaoguai innego gatunku.\" "
+    randolph serious "\"Cóż... yaoguai tego samego gatunku zazwyczaj żyją w zgodzie- zwykle jednak nie lubimy yaoguai z innych.\" "
 
     randolph serious "\"Większość z nas jest bardzo terytorialna, ale dość często różni yaoguai mieszkają w miastach.\" "
 
-    randolph serious "\"Mądrzejsi yaoguai to ci, którzy nauczyli się się trzymać język za zębami.\" "
+    randolph serious "\"Mądrzejsi yaoguai to ci, którzy nauczyli się trzymać język za zębami.\" "
 
 
 
@@ -8798,7 +8798,7 @@ translate polish week2_08_6004f063:
 
     voice voice_file.randolph(5,26)
 
-    randolph serious "\"Ale ci bardziej zawzięci, są tymi, którzy sprawiają kłopoty... Zajmują się nimi głównie bogowie i inni, bardziej potężni yaoguai.\" "
+    randolph serious "\"Ale to ci bardziej zawzięci są tymi, którzy sprawiają kłopoty... Zajmują się nimi głównie bogowie, i inni, bardziej potężni yaoguai.\" "
 
 
 
@@ -8814,7 +8814,7 @@ translate polish week2_08_683137ba:
 
     avt "\"Zajmują... się nimi...\" "
 
-    avt "\"Czy to oznacza, że większość yaoguai z miasta jest dobrych?\" "
+    avt "\"Czy to oznacza, że większość yaoguai z miasta jest dobra?\" "
 
 
 
@@ -8834,7 +8834,7 @@ translate polish week2_08_4ee24440:
 
     randolph laugh "\"Zależy jak na to spojrzysz. Jak dla mnie, po prostu nie chcą żadnych kłopotów.\" "
 
-    randolph laugh "\"Oczywiście nie zawsze jest to łatwe. Czasami rodzą się nowi, innym razem mogą tu po prostu przyjść, by sprawić kłopoty. Wszystko utrzymuje w ciągle zmieniającej się równowadze.\" "
+    randolph laugh "\"Oczywiście nie zawsze jest to łatwe. Czasami rodzą się nowi, innym razem mogą tu po prostu przyjść, by sprawić kłopoty. Punkt równowagi ciągle się zmienia.\" "
 
 
 
@@ -8870,7 +8870,7 @@ translate polish week2_08_310e00c7:
 
     b "Ludzie chodzą do świątyni, prosząc o błogosławieństwo bogactwa, lepsze szczęście, albo by po prostu zdać kolejny egzamin... "
 
-    b "Zastanawiam się, czy to przez yaoguai szukamy w życiu tych rzeczy... a może to właśnie przez nich, w ogóle mamy te problemy? "
+    b "Zastanawiam się, czy to przez yaoguai szukamy w życiu tych rzeczy... a może to właśnie przez nich mamy te problemy? "
 
 
 
@@ -8980,7 +8980,7 @@ translate polish week2_08_57208370:
 
     randolph laugh "\"Już wtedy żyłem pośród ludzi.\" "
 
-    randolph laugh "\"Energia, której potrzebuję jest... specyficzna, a mogę zdobyć jej więcej, zbliżając się do ludzi.\" "
+    randolph laugh "\"Energia, której potrzebuję jest... specyficzna- a mogę zdobyć jej więcej, zbliżając się do ludzi.\" "
 
     randolph laugh "\"Można powiedzieć, że dawało nam to wzajemne korzyści.\" "
 
@@ -9062,7 +9062,7 @@ translate polish week2_08_340caff1:
 
     # avt "\"I see... So, mind if I ask how you actually eat emotions?\" "
 
-    avt "\"Rozumiem... Będziesz miał coś przeciwko, jeśli spytam, w jaki sposób tak właściwie zjadasz emocje?\" "
+    avt "\"Rozumiem... Będziesz miał coś przeciwko, jeśli spytam, w jaki właściwie sposób zjadasz emocje?\" "
 
 
 
@@ -9124,7 +9124,7 @@ translate polish week2_08_a0fce1fc:
 
     voice voice_file.randolph(5,35)
 
-    randolph serious "\"Wiadomości od fanów. Silne emocje są zawarte w listach moich czytelników. Ostatecznie, aby ktoś napisał do ciebie, musi albo bardzo cię uwielbiać, albo tobą pogardzać.\" "
+    randolph serious "\"Wiadomości od fanów. Listy od moich czytelników zawierają silne emocje. Ostatecznie, aby ktoś napisał do ciebie, musi cię albo uwielbiać, albo nie znosić.\" "
 
     randolph serious "\"Wiesz, że niektórzy ludzie zastraszają innych wysyłając noże?\" "
 
@@ -9190,11 +9190,11 @@ translate polish week2_08_040901ac:
 
     voice voice_file.randolph(5,37)
 
-    randolph wry "\"Jak już mówiłem, nie jest łatwo. Nikt nie wysyła wiadomości do nieznanego artysty i szybko zostaniesz zapomniany, jeśli nie publikujesz swych prac regularnie.\" "
+    randolph wry "\"Jak już mówiłem, nie jest tak łatwo. Nikt nie wysyła wiadomości do nieznanego artysty- i szybko zostaniesz zapomniany, jeśli nie publikujesz swych prac regularnie.\" "
 
-    randolph wry "\"Muszę też troszczyć się o ciało, które opętałem, a oznacza to, że potrzebuję jedzenia i miejsca do życia.\" "
+    randolph wry "\"Muszę też troszczyć się o ciało, które opętałem- a to oznacza, że potrzebuję jedzenia i miejsca do życia.\" "
 
-    randolph "\"Szczerze mówiąc, życie jest dość trudne, gdy musisz naprzemiennie utrzymać swoje życie jako człowiek i yaoguai.\" "
+    randolph "\"Szczerze mówiąc, życie jest dość trudne, gdy musisz je utrzymywać jednocześnie jako człowiek i yaoguai.\" "
 
 
 
@@ -9288,9 +9288,9 @@ translate polish week2_08_fc53fe63:
 
     randolph wry "\"Cóż, nie potrafię robić pieniędzy w żaden inny sposób.\" "
 
-    randolph wry "\"Niektórzy yaoguai używają swoich mocy w ten sposób, ale ci, którzy nie przestrzegają zasad, muszą być usunięci przez innych ... lub przez bogów.\" "
+    randolph wry "\"Niektórzy yaoguai używają do tego swoich mocy- ale ci, którzy nie przestrzegają zasad, muszą być usunięci przez innych... lub przez bogów.\" "
 
-    randolph wry "\"Zarabiam na życie rysując, ale nawet to nie jest najlepsza praca.\" "
+    randolph wry "\"Zarabiam na życie rysując, nawet jeśli nie jest to wymarzona praca.\" "
 
 
 
@@ -9320,9 +9320,9 @@ translate polish week2_08_2650b6e2:
 
     voice voice_file.randolph(5,41)
 
-    randolph wry "\"Moja praca jest cykliczna, więc nie jest tak źle. Jednak moja pensja zależy od popularności magazynu, który nie jest najlepszy.\" "
+    randolph wry "\"Moja praca jest cykliczna, więc nie jest aż tak źle. Jednak moja pensja zależy od popularności magazynu, który nie jest najlepszy.\" "
 
-    randolph wry "\"Pracuję też czasem jako wolny strzelec, ale to nie jest zbyt... stabilne źródło dochodu.\" "
+    randolph wry "\"Pracuję też czasem jako wolny strzelec, ale to niezbyt... stabilne źródło dochodu.\" "
 
 
 
@@ -9346,7 +9346,7 @@ translate polish week2_08_8754dd2f:
 
     randolph wry "\"Ciężko wyrobić stałą pensję.\" "
 
-    randolph wry "\"Nie każdy klient jest taki wspaniały. Nie odchodzi ich, ile muszę nad tym wszystkim pracować...\" "
+    randolph wry "\"Do tego nie każdy klient jest wyrozumiały. Nie obchodzi ich, ile muszę nad tym wszystkim pracować...\" "
 
     randolph wry "\"Mimo to, nie mogę porzucić swoich klientów. Muszę utrzymać swoją renomę.\" "
 
@@ -9362,7 +9362,7 @@ translate polish week2_08_5d065d36:
 
     # avt "\"I never thought that a yaoguai would have so much to complain about.\" "
 
-    avt "\"Nie myślałem, że yaoguai może mieć aż tyle spraw do narzekania.\" "
+    avt "\"Nie myślałem, że yaoguai może mieć aż tyle powodów do narzekania.\" "
 
 
 
@@ -9386,7 +9386,7 @@ translate polish week2_08_8619f278:
 
     randolph wry "\"Jeśli sobie z tym nie poradzę, to zawsze mogę wrócić do bycia yaoguai. Nie każdy ma taką możliwość.\" "
 
-    randolph wry "\" Ale zdecydowałem, że zrobię to zgodnie z wolą osoby, którą opętałem. I nie zamierzam po prostu tego porzucić.\" "
+    randolph wry "\" Ale zdecydowałem postępować zgodnie z wolą osoby, którą opętałem. I nie zamierzam tak po prostu tego porzucić.\" "
 
 
 
@@ -9398,7 +9398,7 @@ translate polish week2_08_f0850761:
 
     # avt "\"Their will? Does that mean his will was to become an artist?\" "
 
-    avt "\"Z ich wolą? Czy to znaczy, że jego wolą było zostać artystą?\" "
+    avt "\"Z jego wolą? Czy to znaczy, że pragnął zostać artystą?\" "
 
 
 
@@ -9414,7 +9414,7 @@ translate polish week2_08_86c797f6:
 
     voice voice_file.randolph(5,44)
 
-    randolph laugh "\"Tak, głównie tak. To nie żaden sekret. Tak naprawdę, zaczęło się to dawno temu, gdy...\" "
+    randolph laugh "\"Tak, w dużej mierze. To nie żaden sekret. Tak naprawdę, zaczęło się to dawno temu, gdy...\" "
 
 
 
@@ -9428,9 +9428,9 @@ translate polish week2_08_1d480d58:
 
     # b "You'd never think about it, but a yaoguai artist's view on life is really captivating. In what feels like moments the time has flown by. "
 
-    b "Zasłuchuję się opowieściach Randolfa. Głównie o jego życiu jako artysta, jego zmaganiach, jego sukcesach i porażkach. W tym wszystkim zagnieżdżone są opowieści i plotki ze świata yaoguai. "
+    b "Zasłuchuję się w opowieściach Randolfa. Głównie o jego życiu jako artysty, jego zmaganiach, jego sukcesach i porażkach. W tym wszystkim zagnieżdżone są opowieści i plotki ze świata yaoguai. "
 
-    b "Nie pomyślałbyś, że życie z perspektywy artysty yaoguai jest takie urzekające. W ciągu zaledwie kilku chwil, minęło mnóstwo czasu. "
+    b "Nie pomyślałbyś, że życie z perspektywy yaoguai-artysty jest takie urzekające. W ciągu zaledwie kilku chwil, minęło mnóstwo czasu. "
 
 
 
@@ -9442,7 +9442,7 @@ translate polish week2_08_c842efa6:
 
     # b "Randolph is startled when a stray glance leads him to the time displayed on a nearby television. "
 
-    b "Randolph jest zaskoczony, gdy omyłkowym spojrzeniem spogląda na czas wyświetlany w pobliskiej telewizji. "
+    b "Randolf jest zaskoczony, gdy omyłkowym spojrzeniem spogląda na czas wyświetlany w pobliskiej telewizji. "
 
 
 
@@ -9458,7 +9458,7 @@ translate polish week2_08_7ce9a44a:
 
     voice voice_file.randolph(5,45)
 
-    randolph wry "\"Och, tak mi przykro. Już czas na moją wizytę, a więc muszę was teraz zostawić.\" "
+    randolph wry "\"Och, tak mi przykro. Już czas na moją wizytę- niestety muszę was opuścić.\" "
 
 
 
@@ -9470,7 +9470,7 @@ translate polish week2_08_f9aafd90:
 
     # avt "\"Ah, all right. I'm sorry that I've taken way too much of your time but thank you for speaking to me.\" "
 
-    avt "\"Ach, no dobrze. Przepraszam, że zabrałem ci tak dużo czasu, ale dziękuję za to, że zechciałeś za mną porozmawiać.\" "
+    avt "\"Ach, racja. Przepraszam, że zabrałem ci tyle czasu- ale dziękuję za to, że zechciałeś za mną porozmawiać.\" "
 
 
 
@@ -9488,9 +9488,9 @@ translate polish week2_08_1b787041:
 
     voice voice_file.randolph(5,46)
 
-    randolph wry "\"Nie ma sprawy. To była rzadka okazja, by móc podyskutować z kimś może zobaczyć i zrozumieć nas, yaoguai.\" "
+    randolph wry "\"Nie ma sprawy. To była rzadka okazja, by móc podyskutować z kimś, kto może zobaczyć i zrozumieć nas, yaoguai.\" "
 
-    randolph wry "\"To mam nadzieję, że się jeszcze zobaczymy.\" "
+    randolph wry "\"To, mam nadzieję, że się jeszcze zobaczymy.\" "
 
 
 
@@ -9530,7 +9530,7 @@ translate polish week2_08_9cfd5f3f:
 
     # b "As we watch Randolph leave, Senpai is already back on his phone.\" "
 
-    b "Gdy widzimy jak Randolf wychodzi, Senpai jest już z powrotem bawi się swoim telefonem.\" "
+    b "Gdy patrzymy jak Randolf wychodzi, Senpai od razu zaczyna bawić się swoim telefonem.\" "
 
 
 
@@ -9574,7 +9574,7 @@ translate polish week2_08_7c01149b:
 
     b "Zszokowany, spoglądam szybko na cza... "
 
-    b "Rozmawialiśmy całe wieki! Nie tylko nasza przerwa śniadaniowa się skończyła, ale nasz wykład też dobiega końca... "
+    b "Rozmawialiśmy całe wieki! Nie dość, że nasza przerwa śniadaniowa dawno się skończyła, to nasz wykład właśnie dobiega końca... "
 
 
 
@@ -9602,7 +9602,7 @@ translate polish week2_08_8f9ebde7:
 
     # avt "\"Hey, that's not the point! You may not care about lectures but don't lump me in with you!\" "
 
-    avt "\"Hej, nie o to chodzi! Może i nie odchodzą cię wykłady, ale nie wrzucaj mnie do jednego worka!\" "
+    avt "\"Hej, nie o to chodzi! Może i nie obchodzą cię wykłady, ale nie wrzucaj mnie do jednego worka!\" "
 
 
 
@@ -9618,7 +9618,7 @@ translate polish week2_08_324bb068:
 
     b "Ale ma rację, to nic nie zmienia. Co jeszcze mogę zrobić? "
 
-    b "Postanawiamy poczekać na nasze kolejne zajęcia, a ja siedząc na stołówce rozmyślam nad historiami i radami Randolfa... "
+    b "Postanawiamy poczekać na nasze kolejne zajęcia w stołówce, podczas gdy ja rozmyślam nad historiami i radami Randolfa... "
 
 
 
