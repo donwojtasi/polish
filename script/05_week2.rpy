@@ -7464,7 +7464,7 @@ translate polish week2_08_317b2256:
 
     # b "Suddenly, I notice a strange... {w=0.5}person? "
 
-    b "Idę na stołówkę, gotowy na drugie śniadanie. "
+    b "Idę do stołówki, gotowy na drugie śniadanie. "
 
     b "Nagle, zauważam dziwną... {w=0.5}osobę? "
 
@@ -7482,7 +7482,7 @@ translate polish week2_08_8cd355ab:
 
     b "Daj spokój, to musiało mi się przywidzieć. "
 
-    b "Czy to człowiek-jaszczur? Tak, on jest nim na pewno! "
+    b "Czy to... człowiek-jaszczur? Tak, teraz jestem pewien! "
 
 
 
@@ -7494,7 +7494,7 @@ translate polish week2_08_1dabe17e:
 
     # b "Okay, I know I can see spirits and I {i}know{/i} \ I should have expected to see more of them at some point, but a lizard-man... "
 
-    b "Dobrze. Wiem, że mogę zobaczyć duchy i {i}wiem,{/i} \ że powinienem spodziewać się, że kiedyś spotkam ich więcej, ale nie spodziewałem się jaszczura... "
+    b "Dobrze. Wiem, że mogę zobaczyć duchy i {i}wiem,{/i} \ że powinienem spodziewać się, że kiedyś spotkam ich więcej- ale nie spodziewałem się jaszczura... "
 
 
 
@@ -7574,7 +7574,7 @@ translate polish week2_08_58e234ce:
 
     # avt "\"What? Shouldn't I be surprised? That's a lizard-man! Am I supposed to see a lizard-man at school?\" "
 
-    avt "\"Co? A nie powinienem być? To człowiek-jaszczur! Czy powinienem ich widywać w szkole?\" "
+    avt "\"Co? A nie powinienem być? To człowiek-jaszczur! Czy to ma być normalny widok w szkole?\" "
 
 
 
@@ -7590,7 +7590,7 @@ translate polish week2_08_d788f912:
 
     voice voice_file.lpdcat(5,75)
 
-    lpdcat normal "\"Liao to normalne, że yaoguai można wszędzie spotkać. Są częścią codziennego życia.\" "
+    lpdcat normal "\"Liao, to normalne, że yaoguai można wszędzie spotkać. Są częścią codziennego życia.\" "
 
 
 
@@ -7602,7 +7602,7 @@ translate polish week2_08_1bf1cf8e:
 
     # avt "\"Hold on. Why have you never told me this before?\" "
 
-    avt "\"Czekaj. Czemu nie powiedziałeś mi o tym wcześniej?\" "
+    avt "\"Czekaj. To dlaczego nie powiedziałeś mi o tym wcześniej?\" "
 
 
 
@@ -7618,7 +7618,7 @@ translate polish week2_08_efec4f32:
 
     voice voice_file.lpdcat(5,76)
 
-    lpdcat normal "Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają, gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go o to zapytać.\" "
+    lpdcat normal "Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go o to zapytać.\" "
 
 
 
@@ -7706,11 +7706,11 @@ translate polish week2_08_bf4c65f8:
 
     voice voice_file.tig(5,54)
 
-    tig laugh_1 "\"No pewnie. Bogowie i yaoguai całkowicie się od siebie nie różnią. Pochodzą od niebios i ziemi, zrodzeni z energii Qi w różnej formie.\" "
+    tig laugh_1 "\"No pewnie. Bogowie i yaoguai nie różnią się aż tak bardzo od siebie. Pochodzą od niebios i ziemi, zrodzeni z energii Chi w różnej formie.\" "
 
-    tig normal "\"Ale bóg, nie może być bogiem bez swoich wyznawców. W konsekwencji jest o wiele więcej yaoguai niż bogów.\" "
+    tig normal "\"Ale bóg nie może być bogiem bez swoich wyznawców. W konsekwencji jest o wiele więcej yaoguai niż bogów.\" "
 
-    tig laugh_1 "\"Pewnie, że jest trochę złych yaoguai, na pewno o nich słyszałeś, ale większość yaoguai nie jest ani dobra, ani zła.\" "
+    tig laugh_1 "\"Pewnie, że jest trochę złych yaoguai, na pewno o nich słyszałeś- ale większość yaoguai nie jest ani dobra, ani zła.\" "
 
 
 
@@ -7918,7 +7918,7 @@ translate polish week2_08_3be0715c:
 
     # avt "\"Sorry about this, I'm just a little bit curious so I wanted to ask you... I mean, are you a yaoguai?\" "
 
-    avt "\"Przepraszam za to, byłem po prostu ciekaw, więc chciałem się ciebie o to zapytać... To jest, czy jesteś yaoguai?\" "
+    avt "\"Przepraszam za to- byłem po prostu ciekaw, więc chciałem się ciebie o to zapytać... To jest, czy jesteś yaoguai?\" "
 
 
 
@@ -7974,7 +7974,7 @@ translate polish week2_08_73ec3d87:
 
     # avt "\"My name is Lin Tian-Liao. Nice to meet you.\" "
 
-    avt "\"Nazywam się Lin Tian-Liao. Miło mi się poznać.\" "
+    avt "\"Nazywam się Lin Tian-Liao. Miło mi cię poznać.\" "
 
 
 
@@ -8054,7 +8054,7 @@ translate polish week2_08_8f8ad181:
 
     voice voice_file.randolph(5,7)
 
-    randolph2 wry "\"...rozmumiem. Skoro wiecie, że jestem yaguai, to moje ludzkie imię nie jest raczej ważne.\" "
+    randolph2 wry "\"...rozumiem. Skoro wiecie, że jestem yaguai, to moje ludzkie imię nie jest raczej ważne.\" "
 
 
 
@@ -8098,7 +8098,7 @@ translate polish week2_08_b35d286a:
 
     voice voice_file.randolph(5,9)
 
-    randolph wry "\"Dokładnie. Przyszedłem tu dziś, by odwiedzić profesora historii na tej uczelni.\" "
+    randolph wry "\"Tak. Przyszedłem tu dziś, by odwiedzić profesora historii na tej uczelni.\" "
 
 
 
@@ -8182,7 +8182,7 @@ translate polish week2_08_2aa29981:
 
     # avt "\"So... Why did you chose to become an artist? It seems like that's special for a \nyaoguai.\" "
 
-    avt "\"A więc... Czemu postanowiłeś zostać artystą? Nie wygląda mi to na typowe zajęcie dla yaoguai.\" "
+    avt "\"A więc... Dlaczego postanowiłeś zostać artystą? Nie wygląda mi to na typowe zajęcie dla yaoguai.\" "
 
 
 
@@ -8206,7 +8206,7 @@ translate polish week2_08_1c0e4fd9:
 
     randolph serious "\"A ten dżentelmen za mną... Nie jestem pewien kim on jest, ale czuję, że jest bardzo silnym duchem.\" "
 
-    randolph laugh "\"Może powiecie mi trochę więcej sobie, dobrze?\" "
+    randolph laugh "\"Może powiecie mi trochę więcej o sobie, dobrze?\" "
 
 
 
@@ -8222,7 +8222,7 @@ translate polish week2_08_2011a3ce:
 
     # avt "\"Or I should say, he came along with the statue I brought to Taipei.\" "
 
-    avt "\"Ach- Och, no pewnie. Należę to rodziny Jitong. Służymy tygrysim strażnikom od pokoleń.\" "
+    avt "\"Ach- Och, no pewnie. Należę do rodziny Jitong. Służymy tygrysim strażnikom od pokoleń.\" "
 
     avt "\"Pan stojący za mną jest tygrysim strażnikiem, który przybył ze mną do Tajpej aż z mojego rodzinnego miasta.\" "
 
@@ -8246,7 +8246,7 @@ translate polish week2_08_bea1d5c4:
 
     avt "\"Jest duchem z plemienia Rukai, który chce mojej pomocy, a więc dał mi tą umiejętność.\" "
 
-    avt "Od tego czasu, jestem wstanie zobaczyć te wszystkie bóstwa, no i yaoguai takich jak ty.\" "
+    avt "Od tego czasu, jestem w stanie zobaczyć te wszystkie bóstwa- no i yaoguai takich jak ty.\" "
 
 
 
@@ -8274,7 +8274,7 @@ translate polish week2_08_88dae2fa:
 
     voice voice_file.randolph(5,13)
 
-    randolph laugh "\"Kot bengalski jako tygrysi strażnik? Musiałbyś być kiedyś yaoguai, tak?\" "
+    randolph laugh "\"Kot bengalski jako tygrysi strażnik? Musiałeś być kiedyś yaoguai, prawda?\" "
 
 
 
@@ -8314,7 +8314,7 @@ translate polish week2_08_281c2ee2:
 
     randolph serious "\"To nie wydaje się być takie złe, jeśli dzięki temu stałeś się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}ortodoksyjnym bogiem{/font}.\" "
 
-    randolph serious "\"Jednakże, przed chwilą wspominaliście coś o odnowieniu świątyni, a więc oznacza to, że twój bóg ziemi traci swoją moc?\"  "
+    randolph serious "\"Jednakże, przed chwilą wspominaliście coś o odnowieniu świątyni- więc oznacza to, że twój bóg ziemi traci swoją moc?\"  "
 
 
 
@@ -8412,7 +8412,7 @@ translate polish week2_08_9030a0d4:
 
     # avt "\"But these three kinda put a spanner in the works.\" "
 
-    avt "\"Jestem członkiem klubu tanecznego, który tu działa i chciałbym znaleźć karierę, w której mogę wykorzystać swój talent.\" "
+    avt "\"Jestem członkiem klubu tanecznego który tu działa, i chciałbym znaleźć karierę, w której mogę wykorzystać swój talent.\" "
 
     avt "\"Ale ta trójka niejako psuje wszystkie moje plany.\" "
 
@@ -8466,7 +8466,7 @@ translate polish week2_08_49cf0503:
 
     voice voice_file.randolph(5,18)
 
-    randolph serious "\"Czy mimo to znasz szczegóły na temat ich próśb?\" "
+    randolph serious "\"Niemniej, czy właściwie znasz szczegóły na temat ich próśb?\" "
 
 
 
@@ -8478,7 +8478,7 @@ translate polish week2_08_3f240959:
 
     # avt "\"Details? I mean, sure I asked about them, but... how much could there be to it?\" "
 
-    avt "\"Szczegóły? No tak, dopytywałem się ich o to... ile jeszcze muszę wiedzieć?\" "
+    avt "\"Szczegóły? No tak, dopytywałem się ich o to... ile jeszcze mogę nie wiedzieć?\" "
 
 
 
