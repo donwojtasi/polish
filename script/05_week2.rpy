@@ -6406,7 +6406,7 @@ translate polish cg_04_27d53b2d:
 
     # avt "\"I... I mean... So you can make your clothes disappear?\" "
 
-    avt "\"Ja... myślę... A wieć możesz sprawić, żeby twoje ubrania zniknęły?\" "
+    avt "\"Ja... myślę... A więc możesz sprawić, żeby twoje ubrania zniknęły?\" "
 
 
 
