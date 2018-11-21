@@ -10,7 +10,7 @@ translate polish s06_686be3a3:
 
     # b "Since speaking with Randolph, I've been thinking over what he said... about trying to find some other solution with the cats. "
 
-    b "Po rozmowie z Randolfem, zastanawiałem się nad tym co powiedział... o próbie znalezienia innego wyjścia z naszych problemów. "
+    b "Od czasu rozmowy z Randolfem, zastanawiałem się nad tym co powiedział... o próbie znalezienia innego wyjścia z naszych problemów. "
 
 
 
@@ -22,7 +22,7 @@ translate polish s06_2d1ad297:
 
     # b "I'm worried that if I just went and asked them about it they'll just think I actually intend to help them then and there. It'd be mean to get their hopes up... "
 
-    b "Boję się, że gdybym po prostu poszedł i spytał ich o to, pomyśleliby sobie, że mam zamiar im pomóc. To nie w porządku robić im niepotrzebnie nadzieje... "
+    b "Boję się, że gdybym tak po prostu podszedł i spytał ich o to, pomyśleliby sobie, że mam zamiar pomóc im tu i teraz. To nie w porządku robić im niepotrzebnie nadzieje... "
 
 
 
@@ -34,7 +34,7 @@ translate polish s06_1aeb43ba:
 
     # b "But if I just keep ignoring it... wouldn't they end up pressuring me about it anyway? "
 
-    b "Jednak jeśli nadal będę to ignorował... czy i tak nie zaczną wywierać na mnie presji? "
+    b "Jeśli jednak nadal będę ignorować problem... czy i tak sami nie zaczną wywierać na mnie presji? "
 
 
 
@@ -70,7 +70,7 @@ translate polish s06_f73c6f1f:
 
     # b "It'd be easy to talk to Tiger privately at least. Since we're in the bookstore, Senpai's in class and Leopard can't read anyway so he's be off gallivanting somewhere. "
 
-    b "Przynajmniej nie będzie problemu, by porozmawiać z Tygrysem sam na sam. Gdy jesteśmy w księgarni, Senpai ma zajęcia, a Pantera i tak nie umie czytać, więc gdzieś się włóczy. "
+    b "Przynajmniej nie będzie problemu, by porozmawiać z Tygrysem sam na sam. Gdy jesteśmy w księgarni, Senpai ma zajęcia- a Pantera i tak nie umie czytać, więc gdzieś się włóczy. "
 
 
 
@@ -82,7 +82,7 @@ translate polish s06_8de25c4c:
 
     # b "...Tiger loves this place so much he'd probably live here if he could. "
 
-    b "...Tygrys tak kocha te miejsce, że najchętniej by w nim zamieszkał. "
+    b "...Tygrys tak kocha to miejsce, że najchętniej by w nim zamieszkał. "
 
 
 
@@ -122,7 +122,7 @@ translate polish s06_d0ebcb4a:
 
     # avt "Um— Well... I just have something on my mind... "
 
-    avt "\"Um- No cóż... Coś chodzi mi po głowie...\" "
+    avt "\"Um- No cóż... Coś mi chodzi po głowie...\" "
 
 
 
@@ -164,7 +164,7 @@ translate polish s06_55d0934e:
 
     # b "But back to the point... "
 
-    b "Nigdy przedtem nie widziałem kogoś tak bardzo zainteresowanego jakością szkolnych podręczników. (Byłby z niego co najmniej dobry nauczyciel.) "
+    b "Nigdy przedtem nie widziałem kogoś tak bardzo zainteresowanego jakością szkolnych podręczników. (Przynajmniej byłby z niego dobry nauczyciel.) "
 
     b "Wracając do tematu... "
 
@@ -238,7 +238,7 @@ translate polish s06_9024528c:
 
     # avt "\"Other than reading books? Uhh, hmm... What about the internet?\" "
 
-    avt "\"Inny niż czytanie książek? Yhh, hmm, co powiesz na internet?\" "
+    avt "\"Inny niż czytanie książek? Yhh, hmm... a co powiesz na internet?\" "
 
 
 
@@ -254,7 +254,7 @@ translate polish s06_827570d6:
 
     voice voice_file.tig(6,5)
 
-    tig surprise "\"Internet? Czy zawierałby informacje tak samo dokładne jak te książki?\" "
+    tig surprise "\"Internet? Czy zawierałby informacje równie dokładne jak te książki?\" "
 
 
 
@@ -266,7 +266,7 @@ translate polish s06_7fa9ba32:
 
     # avt "\"Well, you probably won't find everything as neatly organised, but at least using the internet is free.\" "
 
-    avt "\"No pewnie nie wszystko co znajdziesz będzie tak zgrabnie posortowane, ale przynajmniej korzystanie z internetu jest darmowe.\" "
+    avt "\"Noo, pewnie nie wszystko co znajdziesz będzie tak zgrabnie posortowane- ale przynajmniej korzystanie z internetu jest darmowe.\" "
 
 
 
@@ -330,7 +330,7 @@ translate polish s06_e47ba5d4:
 
     voice voice_file.tig(6,7)
 
-    tig gaze "\"Hmm? Co to jest?\" "
+    tig gaze "\"Hmm? W czym rzecz?\" "
 
 
 
@@ -354,7 +354,7 @@ translate polish s06_fdcde9b4:
 
     # avt "\"It's just that, I wanted to ask...\" "
 
-    avt "\"Jest coś o co chciałem cię zapytać...\" "
+    avt "\"Jest coś, o co chciałem cię zapytać...\" "
 
 
 
@@ -366,7 +366,7 @@ translate polish s06_730e4e71:
 
     # avt "\"If I don't go home, is there any other way I can help you?\" "
 
-    avt "\"Czy jest jakiś inny sposób, w jaki mogę ci pomóc, jeśli nie wrócę do domu?\" "
+    avt "\"Czy jest jakiś inny sposób, w jaki mógłbym ci pomóc, jeśli nie wrócę do domu?\" "
 
 
 
@@ -410,7 +410,7 @@ translate polish s06_dd1b6343:
 
     voice voice_file.tig(6,9)
 
-    tig normal "\"Pomóc mi? A w mógłbym potrzebować pomocy... Czy chcesz porozmawiać o zostaniu Jitong'iem w naszej świątyni?\" "
+    tig normal "\"Pomóc mi? W czym niby mógłbym potrzebować pomocy... Czy chcesz może porozmawiać o zostaniu Jitong'iem w naszej świątyni?\" "
 
 
 
@@ -442,11 +442,11 @@ translate polish s06_8dae540a:
 
     voice voice_file.tig(6,10)
 
-    tig normal "\"Twoja moc komunikacji z duchami jest dość niespotykana, posiadasz coś rzadkiego i bardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
+    tig normal "\"Twoja moc komunikacji z duchami jest rzadko spotykana- posiadasz coś niepospolitego i bardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
 
     tig normal "\"Jestem przekonany, że zarówno twoja rodzina jaki i sama Święta Matka byłaby zachwycona, gdybyś wybrał tę drogę.\" "
 
-    tig normal "\"Zdaję sobie sprawę z twojego pragnienia pozostania w Tajpej. Jednak nie podejmuj teraz takich decyzji. Do ukończenia studiów pozostało jeszcze wiele semestrów.\" "
+    tig normal "\"Zdaję sobie sprawę z twojego pragnienia pozostania w Tajpej. Jednak nie musisz podejmować takich decyzji w tej chwili. Do ukończenia studiów pozostało ci jeszcze wiele semestrów.\" "
 
 
 
@@ -458,7 +458,7 @@ translate polish s06_1d554d77:
 
     # avt "\"I know... but what if I really do stay in Taipei and never go back home?\" "
 
-    avt "\"Wiem... a co gdybym naprawdę został w Tajpej i nigdy nie wrócił do domu?\" "
+    avt "\"Wiem... a co, gdybym naprawdę został w Tajpej i nigdy nie wrócił do domu?\" "
 
 
 
@@ -486,7 +486,7 @@ translate polish s06_3245a812:
 
     # avt "\"And that means that the only way you'll be happy is if I go home?\" "
 
-    avt "\"A to oznacza, że będziesz szczęśliwy tylko wtedy, gdy wrócę do domu?\" "
+    avt "\"Czy to oznacza, że będziesz szczęśliwy tylko wtedy, gdy wrócę do domu?\" "
 
 
 
@@ -508,7 +508,7 @@ translate polish s06_03a33fe7:
 
     tig normal "\"Wiem, że nie chcesz tam wracać Liao. Jeśli do tego dojdzie, będę cię wspierał.\" "
 
-    tig normal "\"To doprawdy byłoby marnotrawstwo. Marnotrawstwo czegoś co czyni cię wyjątkowym.\" "
+    tig normal "\"To doprawdy byłoby marnotrawstwo. Marnotrawstwo czegoś, co czyni cię wyjątkowym.\" "
 
     tig normal "\"Mogę przewidzieć, jak zareagowaliby twoi rodzice, gdyby o tym wiedzieli. Inni tygrysi strażnicy z pewnością życzyliby ci tego samego Liao.\" "
 
@@ -564,7 +564,7 @@ translate polish s06_151d3f3d:
 
     voice voice_file.tig(6,14)
 
-    tig normal "\"Tak jak mówiłem wcześniej. Nie ma się po co śpieszyć, masz sporo czasu by to wszystko przemyśleć.\" "
+    tig normal "\"Tak jak mówiłem wcześniej. Nie musisz się spieszyć- masz sporo czasu, by to wszystko przemyśleć.\" "
 
     tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie jakimś kociakom i nie będzie żadnego problemu.\" "
 
@@ -622,7 +622,7 @@ translate polish s06_20477842:
 
     avt "\"...jakich rzeczy chciałbyś poszukać? To jest- w internecie.\" "
 
-    avt "\"Może chcesz poszukać razem ze mną gdy wrócimy?\" "
+    avt "\"Może chciałbyś spojrzeć razem ze mną gdy wrócimy?\" "
 
 
 
