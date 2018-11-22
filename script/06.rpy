@@ -2034,7 +2034,7 @@ translate polish s06_6c2c953b:
 
     # b "Following his orders I scroll down the page, his eyes peering over my shoulder. "
 
-    b "Wykonując jego polecania, przewijam w dół strony, a jego oczy spoglądają mi przez ramię. "
+    b "Wykonując jego polecenia, przewijam w dół strony, a jego oczy spoglądają mi przez ramię. "
 
 
 
@@ -2062,7 +2062,7 @@ translate polish s06_2514b272:
 
     # b "I click to go back a page. "
 
-    b "Klikam by wrócić się o stronę do tyłu. "
+    b "Klikam by cofnąć się o stronę do tyłu. "
 
 
 
@@ -2078,7 +2078,7 @@ translate polish s06_198bbb09:
 
     voice voice_file.tig(6,25)
 
-    tig gaze "\"Tak, tę- proszę otwórz ją.\" "
+    tig gaze "\"Tak, tę- proszę, otwórz ją.\" "
 
 
 
@@ -2090,7 +2090,7 @@ translate polish s06_e1d3379c:
 
     # b "I click on the article he's pointing at. "
 
-    b "Klikam na artykuł na który wskazuje. "
+    b "Klikam na artykuł, który wskazuje. "
 
 
 
@@ -2160,7 +2160,7 @@ translate polish s06_fd262606:
 
     # b "If only he didn't need my hands to work the computer for him... "
 
-    b "Nie chciałem marudzić, ale to trochę męczące tak czekać, aż skończy czytać daną stronę, a potem przechodzić do następnej i następnej... "
+    b "Nie chciałem marudzić, ale to trochę męczące tak czekać, aż skończy czytać daną stronę- a potem przechodzić do następnej i następnej... "
 
     b "Gdyby tylko nie potrzebował moich rąk do pracy z komputerem... "
 
@@ -2498,7 +2498,7 @@ translate polish s06_02_convince_5dc07503:
 
     # avt "\"Wouldn't that be a shame? It's only help clicking the mouse. It's not like you need to be friends, he just has to do what you say.\" "
 
-    avt "\"To byłaby wielka szkoda, prawda? To jednie pomoc w klikaniu myszką. Nie musicie od razu zostawać przyjaciółmi, on ma tylko robić to co mu karzesz.\" "
+    avt "\"To byłaby wielka szkoda, prawda? To jedynie pomoc w klikaniu myszką. Nie musicie od razu zostawać przyjaciółmi, on ma tylko robić to, co mu każesz.\" "
 
 
 
@@ -2570,7 +2570,7 @@ translate polish s06_02_convince_e4ab3e6b:
 
     # b "They really don't intend on getting along any time soon, but what else can I do? I just have to ride it out and see how they go, I guess. "
 
-    b "Jak na razie naprawdę nie chcą się ze sobą dogadać, ale co jeszcze mogę zrobić? Muszę po prostu poczekać, by przekonać się jak sprawy potoczą się dalej. "
+    b "Jak na razie naprawdę nie chcą się ze sobą dogadać, ale co jeszcze mogę zrobić? Muszę po prostu poczekać i zobaczyć, jak się sprawy potoczą. "
 
 
 
