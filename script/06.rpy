@@ -710,7 +710,7 @@ translate polish s06_d5cebe46:
 
     b "Przez następne kilka dni próbuję pogadać sam na sam z Panterą, co nie jest najłatwiejszym zadaniem. "
 
-    b "Nie mogę rozmawiać z nim na zajęciach... a po nich Tygrys dołącza do nas. "
+    b "Nie mogę rozmawiać z nim na zajęciach... a tuż po nich Tygrys dołącza do nas. "
 
 
 
@@ -736,9 +736,9 @@ translate polish s06_555bbd83:
 
     # b "Today, I make sure to go to a corner away from Senpai and Tiger to practise. Leopard followed me so this should be as good of a time as any. "
 
-    b "Pantera zawsze na nie przychodzi, podczas gdy Tygrys stoi na uboczu, a Senpai zazwyczaj jest zajęty swoimi rówieśnikami. "
+    b "Pantera zawsze na nie przychodzi, podczas gdy Tygrys stoi na uboczu- a Senpai zazwyczaj jest zajęty swoimi rówieśnikami. "
 
-    b "Dzisiaj upewniam się, że stoję gdzieś na rogu z dala od Senpai'a i Tygrysa. Pantera idzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
+    b "Dzisiaj upewniam się, że stoję gdzieś w rogu z dala od Senpai'a i Tygrysa. Pantera idzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
 
 
 
@@ -866,7 +866,7 @@ translate polish s06_9010f98c:
 
     # avt "\"Hmm— You say that your tribe needs an oracle, but if I don't go to Wutai? Is there any other way to help you?\" "
 
-    avt "\"Hmm- Mówisz, że twoje plemię potrzebuje wyroczni- co jeśli nie pójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
+    avt "\"Hmm- Mówisz, że twoje plemię potrzebuje wyroczni- ale co jeśli nie pójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
 
 
 
@@ -952,7 +952,7 @@ translate polish s06_1258599b:
 
     # avt "\"I just... don't really want to leave Taipei.\" "
 
-    avt "\"Wiem, że tak właśnie pracuje wyrocznia... tylko nie mam pojęcia jakie problemy chciałbyś bym rozwiązał. Muszę coś coś zrobić, a może wystarczy, że powiem ludziom co się dzieje?\' "
+    avt "\"Wiem, że na tym polega bycie wyrocznią... tylko nie mam pojęcia, jakie problemy chciałbyś, bym rozwiązał. Muszę coś zrobić? A może wystarczy, że powiem ludziom co się dzieje?\' "
 
     avt "\"Po prostu... naprawdę nie chcę opuszczać Tajpej.\" "
 
@@ -1104,7 +1104,7 @@ translate polish s06_c9dc8ac1:
 
     # b "\"And Leopard, he's determined to get {i}something{/i} \ across to his tribe.\" "
 
-    b "Pewnie, są rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy, ale to nie tyczy się wszystkiego... "
+    b "Pewnie, są rzeczy, które {i}koniecznie{/i} \ trzeba przedyskutować w cztery oczy- ale to nie tyczy się wszystkiego... "
 
     b "Może Pantera potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu? "
 
@@ -1190,7 +1190,7 @@ translate polish s06_97b38a0a:
 
     # avt "\"No, not at all. In fact, it's a pretty serious discussion.\" "
 
-    avt "\"Nie, wcale nie. Naprawdę to dość poważna rozmowa.\" "
+    avt "\"Nie, nie do końca. Właściwie to dość poważna rozmowa.\" "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish s06_46ca5187:
 
     # avt "\"Yeah, that...\" "
 
-    avt "\"Tak, o tym...\" "
+    avt "\"Tak, właśnie...\" "
 
 
 
@@ -1246,7 +1246,7 @@ translate polish s06_e0996ae1:
 
     # avt "\"Is that even a good idea? Aren't you two basically opponents over me?\" "
 
-    avt "\"Czy to na pewno dobry pomysł? Nie jesteście obaj rywalami w sporze o mnie?\" "
+    avt "\"Czy to na pewno dobry pomysł? Nie jesteście przypadkiem rywalami w sporze o mnie?\" "
 
 
 
@@ -1266,7 +1266,7 @@ translate polish s06_7c188729:
 
     lpdcat laugh "\"Tak {i}bym{/i} \ tego nie ujął. Jeśli nie wrócisz do domu- mógłbyś pomóc mi w odnowieniu świątyni, a {i}potem{/i} \ iść do Wutai. Bułka z masłem!\" "
 
-    lpdcat laugh "\"Wiem, że Kulau chciałby tam iść JAK NAJSZYBCIEJ, ale przecież możemy to jeszcze przedyskutować, prawda? A więc jak na razie jesteśmy kumplami!\" "
+    lpdcat laugh "\"Wiem, że Kulau chciałby tam iść JAK NAJSZYBCIEJ- ale przecież możemy to jeszcze przedyskutować, prawda? A więc jak na razie jesteśmy kumplami!\" "
 
 
 
@@ -1342,7 +1342,7 @@ translate polish s06_e0b55215:
 
     # b "I'm kinda worried that Leopard would take offense to Senpai's new nickname for him... but his expression never changes. "
 
-    b "Trochę się martwię, iż Pantera mógłby wziąć swoje nowe przezwisko za obrazę... ale wyraz jego twarzy nigdy się nie zmienia. "
+    b "Trochę się martwię, iż Pantera mógłby uznać swoje nowe przezwisko za obrazę... ale wyraz jego twarzy nigdy się nie zmienia. "
 
 
 
@@ -1366,7 +1366,7 @@ translate polish s06_76e8bb67:
 
     # b "I don't really know what to make of it, but at least doesn't seem to disapprove. "
 
-    b "Nie wiem co mam o tym myśleć, ale przynajmniej nie wydaje się by miał coś przeciwko. "
+    b "Nie wiem co mam o tym myśleć- ale przynajmniej nie wydaje się, by miał coś przeciwko. "
 
 
 
@@ -1434,7 +1434,7 @@ translate polish s06_54657660:
 
     # b "Aaaand— There he goes off again... {w=0.5}a classic Senpai move. "
 
-    b "Nooooo i- Znowu sobie gdzieś idzie... {w=0.5}typowe posunięcie Senpai'a. "
+    b "Iiiii- Znowu sobie gdzieś idzie... {w=0.5}typowe posunięcie Senpai'a. "
 
 
 
