@@ -1510,7 +1510,7 @@ translate polish s06_55451ffa:
 
     # b "After that day, I keep on trying to talk one-on-one with Senpai again and again but the opportunity never comes up... (I didn't expect him to be such a hard cat to catch.) "
 
-    b "Później tego samego dnia- Próbuję kilkukrotnie porozmawiać w cztery oczy z Senpai'em, ale nigdy nie nadarza się okazja... (Nie pomyślałbym, że tak ciężko będzie złapać tego kota.) "
+    b "Później tego samego dnia, kilkukrotnie próbuję porozmawiać w cztery oczy z Senpai'em- ale nigdy nie nadarza się okazja... (Nie pomyślałbym, że tak ciężko będzie złapać tego kota.) "
 
 
 
@@ -1528,9 +1528,9 @@ translate polish s06_4c5e01dc:
 
     b "Tygrys i Pantera zawsze towarzyszą mi podczas zajęć. "
 
-    b "Podczas zajęć klubu tanecznego, odciągnięcie Senpai'a od grona jego wielbicieli graniczy z cudem. "
+    b "Gdy ćwiczymy w klubie tanecznym, odciągnięcie Senpai'a od grona jego wielbicieli graniczy z cudem. "
 
-    b "W domu też nie jest wcale lepiej. Z całą ich trójką w pobliżu, nie mam szans na prywatną rozmowę z którymkolwiek z nich. "
+    b "W domu też jest niewiele lepiej. Z całą ich trójką w pobliżu, nie mam szans na prywatną rozmowę z którymkolwiek z nich. "
 
 
 
@@ -1546,7 +1546,7 @@ translate polish s06_95a1311a:
 
     b "Ale dzisiaj wpadłem na chytry plan, który {i}powinien{/i} \ zadziałać... Sprowadza się do rozproszenia uwagi Tygrysa i Pantery ogromem jedzenia na stołówce. W tym czasie ukradkiem zadam Senpai'owi parę pytań. "
 
-    b "Wiem, że nie zyskam w ten sposób dużo czasu, ale to lepsze niż nic. "
+    b "Wiem, że nie zyskam w ten sposób dużo czasu- ale to lepsze niż nic. "
 
 
 
@@ -1586,7 +1586,7 @@ translate polish s06_82b7dd4f:
 
     # b "He was eating pork rib noodles... The school cafeteria is famous for having the best fried ribs around, and they're even better when dipped in rich soupy broth! ...But now's not the time to shill my college."
 
-    b "Zajadał się makaronem z żeberkami... Nasz szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone we intensywnym bulionie są jeszcze lepsze! ...ale nie czas teraz na wychwalanie mojej uczelni. "
+    b "Zajadał się makaronem z żeberkami... Nasza szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone w intensywnym bulionie są jeszcze lepsze! ...ale nie czas teraz na wychwalanie mojej uczelni. "
 
 
 
@@ -1654,7 +1654,7 @@ translate polish s06_ba1b9e9d:
 
     # avt "\"Well, say I wanted to stay here in Taipei, is there any way I can still help you?\" "
 
-    avt "\"No cóż- Powiedzmy, że chciałbym tu zostać, w Tajpej. Czy jest jakiś sposób bym wciąż mógł ci pomóc?\" "
+    avt "\"No cóż- Powiedzmy, że chciałbym tu zostać, w Tajpej. Czy jest jakiś sposób, bym wciąż mógł ci pomóc?\" "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish s06_0c69b38d:
 
     voice voice_file.lpdcat(6,15)
 
-    lpdcat normal "\"Może to dziwnie zabrzmi, ale myślę, że jeśli o to chodzi- musisz traktować to śmiertelnie poważnie.\" "
+    lpdcat normal "\"Może to dziwnie zabrzmi, ale sądzę, że powinieneś myśleć o tym w bardziej przyziemny sposób.\" "
 
 
 
@@ -1886,7 +1886,7 @@ translate polish s06_d25fe53e:
 
     voice voice_file.tig(6,19)
 
-    tig frown "\"Jak uważasz. Możesz robić co zechcesz. Ale nie zdziw się jak odeślę cię z powrotem do Miaoli.\" "
+    tig frown "\"Jak uważasz. Możesz robić co zechcesz. Ale nie zdziw się, jak odeślę cię z powrotem do Miaoli.\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish s06_cb30dc8d:
 
     voice voice_file.tig(6,21)
 
-    tig disappointed "\"...musisz zwracać się do mnie w ten sposób.\" "
+    tig disappointed "\"...czy musisz zwracać się do mnie w ten sposób.\" "
 
 
 
