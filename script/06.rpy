@@ -3290,7 +3290,7 @@ translate polish s06_04_confess_1616f589:
 
     voice voice_file.brother(6,16)
 
-    phone "\"Serio? Nie wiesz, że to jednak może być możliwe?\" "
+    phone "\"Serio? Nie wiesz, że to jak najbardziej możliwe?\" "
 
 
 
@@ -3302,7 +3302,7 @@ translate polish s06_04_confess_7ec6775d:
 
     # avt "\"No, I mean, how could I?\" "
 
-    avt "\"Nie- To znaczy, jak ja mógłbym?\" "
+    avt "\"Nie- To znaczy, jak mógłbym?\" "
 
 
 
@@ -3318,7 +3318,7 @@ translate polish s06_04_confess_91fbee64:
 
     voice voice_file.brother(6,17)
 
-    phone "\"Czy jest inny powód dla którego rozmawiałeś o tym z tatą?\" "
+    phone "\"Czy byłby inny powód, dla którego pytałbyś o to tatę?\" "
 
 
 
@@ -3358,7 +3358,7 @@ translate polish s06_04_confess_de2f8b96:
 
     voice voice_file.brother(6,18)
 
-    phone "\"W więc {i}jakiegoś{/i} widziałeś?!\" "
+    phone "\"A więc {i}jakiegoś{/i} widziałeś?!\" "
 
 
 
@@ -3386,7 +3386,7 @@ translate polish s06_04_confess_62ae8e0d:
 
     voice voice_file.brother(6,19)
 
-    phone "\"A może to tylko wytwór twojej wyobraźni?\" "
+    phone "\"A może to był tylko wytwór twojej wyobraźni?\" "
 
 
 
@@ -3398,7 +3398,7 @@ translate polish s06_04_confess_276a5477:
 
     # avt "\"It's... not my imagination, but all too real... Yeah, the guardian tiger is actually right here next to me— he can speak too.\" "
 
-    avt "\"To... nie jest moja wyobraźnia, to wszystko jest zbyt prawdziwe... Tak, tygrysi strażnik siedzi tuż obok mnie- i potrafi mówić.\" "
+    avt "\"To... nie moja wyobraźnia- to wszystko jest zbyt prawdziwe... Tak, tygrysi strażnik właśnie siedzi tuż obok- i potrafi do mnie mówić.\" "
 
 
 
@@ -3442,7 +3442,7 @@ translate polish s06_04_confess_af92735e:
 
     # avt "\"I know it sounds hard to believe, so I'd understand if you don't...\" "
 
-    avt "\"Wiem, że ciężko w to uwierzyć. Zrozumiem jeżli uznasz to za brednie...\" "
+    avt "\"Wiem, że ciężko w to uwierzyć. Zrozumiem, jeśli uznasz to za brednie...\" "
 
 
 
@@ -3482,7 +3482,7 @@ translate polish s06_04_confess_654867f0:
 
     voice voice_file.tig(6,42)
 
-    tig normal "\"Liao- wiesz, że dla większości ludzi to normalne by myśleć w ten sposób. Jesteś wyjątkowy, a oni nie widzą tego co ty.\" "
+    tig normal "\"Liao- wiesz, że dla większości ludzi to normalne by myśleć w ten sposób. Jesteś wyjątkowy- a oni nie widzą tego co ty.\" "
 
 
 
@@ -3494,7 +3494,7 @@ translate polish s06_04_confess_068bc611:
 
     # avt "\"I know, but that doesn't mean I'm not stressed out because it's {i}only{/i} \  me!\" "
 
-    avt "\"Wiem, ale to nie znaczy, że się tym nie przejmuję, bo w końcu {i}tylko{/i} \ ja taki jestem!\" "
+    avt "\"Wiem- ale to nie znaczy, że się tym nie przejmuję, bo w końcu {i}tylko{/i} \ ja taki jestem!\" "
 
 
 
@@ -3568,9 +3568,9 @@ translate polish s06_04_confess_15ef130d:
 
     voice voice_file.brother(6,24)
 
-    phone "\"W takim razie, czemu to ja nie mogę zobaczyć żadnych tygrysich strażników?\" "
+    phone "\"W takim razie, dlaczego ja nie mogę zobaczyć żadnych tygrysich strażników?\" "
 
-    phone "\"Hmm... Czy to ten posążek, który zabrałeś do Tajpej?\" "
+    phone "\"Hmm... Czy to ma związek z tym posążkiem, który zabrałeś do Tajpej?\" "
 
 
 
@@ -3582,7 +3582,7 @@ translate polish s06_04_confess_79a00924:
 
     # avt "\"It is, yes.\" "
 
-    avt "\"Tak, to on.\" "
+    avt "\"Tak, właśnie.\" "
 
 
 
@@ -3766,7 +3766,7 @@ translate polish s06_04_confess_6d647b03:
 
     voice voice_file.lpdcat(6,31)
 
-    lpdcat pout "\"Pewnie, że chce! Też jestem tygrysim strażnikiem. To mega dziwne, gdy za każdym razem nazywasz staruszka w ten sposób.\" "
+    lpdcat pout "\"Pewnie że chce! Też jestem tygrysim strażnikiem. To mega dziwne, gdy za każdym razem nazywasz staruszka w ten sposób.\" "
 
 
 
@@ -3830,7 +3830,7 @@ translate polish s06_04_confess_9c45f4d6:
 
     voice voice_file.tig(6,46)
 
-    tig lift "\"Aczkolwiek sądzę, że nadanie mi imienia przez Liao też nie byłoby złe. To znak silnej więzi pomiędzy bogiem, a jego wyznawcą.\" "
+    tig lift "\"Aczkolwiek sądzę, że nadanie mi imienia przez Liao też nie byłoby takie złe. To znak silnej więzi pomiędzy bogiem, a jego wyznawcą.\" "
 
 
 
@@ -3846,7 +3846,7 @@ translate polish s06_04_confess_73756f96:
 
     voice voice_file.lpdcat(6,33)
 
-    lpdcat laugh "\"Och, jak tak to przedstawiasz. Wolałbym, żeby Liao nie dawał ci imienia. Już wiem! Liao, czemu nie nazwiesz mnie zamiast niego?!\" "
+    lpdcat laugh "\"Och, skoro tak stawiasz sprawę- to wolałbym, żeby Liao nie dawał ci imienia. Już wiem! Liao, czemu nie nazwiesz mnie zamiast niego?!\" "
 
 
 
@@ -3878,7 +3878,7 @@ translate polish s06_04_confess_93fd4b3a:
 
     lpdcat pout "\"To imię twojego Senpai'a, a nie {i}MOJE!{/i}\" "
 
-    lpdcat pout "\"Liaaaao, proszę pomóż w wyborze jakiegoś dla mnie~\" "
+    lpdcat pout "\"Liaaaao, proszę- pomóż w wyborze jakiegoś dla mnie~\" "
 
 
 
@@ -3922,7 +3922,7 @@ translate polish s06_04_confess_fd0f88c3:
 
     # avt "\"Ah? Oh? Nothing. Guardian Tiger was just saying...\" "
 
-    avt "\"Ach? Och? Nic takiego. Tygrysi Strażnik tylko mówił...\" "
+    avt "\"Ach? Och? Nic takiego. Tygrysi Strażnik mówił tylko...\" "
 
 
 
@@ -3966,7 +3966,7 @@ translate polish s06_04_confess_f66ea42e:
 
     voice voice_file.brother(6,31)
 
-    phone "\"Wow... Serio? Czy mógłbym mu później zadać parę parę pytań?\" "
+    phone "\"Wow... Serio? Czy mógłbym mu później zadać parę pytań?\" "
 
 
 
@@ -4006,7 +4006,7 @@ translate polish s06_04_confess_d7d2c7a7:
 
     voice voice_file.brother(6,32)
 
-    phone "\"...cóż, jeżeli zadam wam parę pytań będę mógł udowodnić, że naprawdę widzisz tygrysiego strażnika.\" "
+    phone "\"...cóż, jeżeli zadam wam parę pytań, to będę mógł udowodnić, że naprawdę widzisz tygrysiego strażnika.\" "
 
 
 
@@ -4018,7 +4018,7 @@ translate polish s06_04_confess_36ac36a0:
 
     # avt "\"What, you don't believe me yet?\" "
 
-    avt "\"Co, wciąż mi nie wierzysz?\" "
+    avt "\"A co, wciąż mi nie wierzysz?\" "
 
 
 
@@ -4062,7 +4062,7 @@ translate polish s06_04_confess_40a8d86f:
 
     # avt "\"It's alright if you don't believe me... It might even have been best if I didn't tell you at all...\" "
 
-    avt "\"W porządku, jeżeli mi nie wierzysz... Pewnie nawet lepiej byłoby, gdybym ci o tym wcale nie powiedział...\" "
+    avt "\"W porządku, jeżeli mi nie wierzysz... Pewnie nawet lepiej byłoby, gdybym wcale ci o tym nie powiedział...\" "
 
 
 
@@ -4078,7 +4078,7 @@ translate polish s06_04_confess_fc707594:
 
     voice voice_file.brother(6,35)
 
-    phone "\"Haha- Już za późno! Już mi to powiedziałeś.\" "
+    phone "\"Haha- za późno! Już mi to powiedziałeś.\" "
 
 
 
