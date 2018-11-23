@@ -2618,7 +2618,7 @@ translate polish s06_03_dd060a87:
 
     # avt "\"Let me get this.\" "
 
-    avt "\"Dajcie mi to odebrać.\" "
+    avt "\"Dajcie mi odebrać.\" "
 
 
 
@@ -2698,7 +2698,7 @@ translate polish s06_03_ffb4a25a:
 
     # avt "\"Hey, Dad's the only one who {i}ever{/i} \ calls me. So, yeah it's surprising to hear you bro!\" "
 
-    avt "\"Hej, tata jako {i}jedyny{/i} \ do mnie dzwoni. A więc tak, to zaskakujące słyszeć cię bracie!\" "
+    avt "\"Hej, tata jako jedyny {i}w ogóle{/i} \ do mnie dzwoni. A więc tak, to zaskakujące słyszeć cię bracie!\" "
 
 
 
@@ -2770,7 +2770,7 @@ translate polish s06_04_lie_8572cc82:
 
     avt "\"Nie pamiętam dokładnie. Myślę, że przeczytałem coś na ten temat w internecie... coś o wyjątkowych tygrysich strażnikach naszej rodziny i Jitong'ach, którzy mogą ich zobaczyć.\" "
 
-    avt "\"Czy to prawda? Co musiałbym zrobić by dostrzec któregoś z nich?\" "
+    avt "\"Czy to prawda? Co musiałbym zrobić, by dostrzec któregoś z nich?\" "
 
 
 
@@ -2818,7 +2818,7 @@ translate polish s06_04_lie_bcd2b18b:
 
     voice voice_file.brother(6,7)
 
-    phone "\"Hmm, przecież przyniosłeś ze sobą do Tajpej mały posążek tygrysa. Kto wie, może pewnego dnia go zobaczysz.\" "
+    phone "\"Hmm, przecież przywiozłeś ze sobą do Tajpej mały posążek tygrysa. Kto wie, może pewnego dnia go zobaczysz.\" "
 
 
 
@@ -2846,7 +2846,7 @@ translate polish s06_04_lie_f55da30a:
 
     voice voice_file.brother(6,8)
 
-    phone "\"Ale taka umiejętność była by naprawdę super! Nie zgodziłbyś się?\" "
+    phone "\"Ale taka umiejętność byłaby naprawdę super! Nie zgodziłbyś się?\" "
 
 
 
@@ -2864,7 +2864,7 @@ translate polish s06_04_lie_c5778902:
 
     voice voice_file.brother(6,9)
 
-    phone "\"Nieważne, po twojej ostatniej rozmowie z tatą, powiedział bardzo stanowczo, żeby nie rozpowiadać wokoło takich rzeczy. Nie żartował i dlatego zorientowałem się, że coś mogło się stać.\" "
+    phone "\"Nieważne, po twojej ostatniej rozmowie z tatą, powiedział bardzo stanowczo, żeby nie rozpowiadać wokoło takich rzeczy. Nie żartował- i dlatego sądziłem, że coś mogło się stać.\" "
 
     phone "\"Okazało się, że to nic takiego, więc wszystko jest w porządku.\" "
 
@@ -2910,7 +2910,7 @@ translate polish s06_04_lie_e8c599d3:
 
     voice voice_file.brother(6,11)
 
-    phone "\"Dobrze wiem, że wcale się nie modliłeś. Skoro go ze sobą zabrałeś to poświęć mu chodź trochę uwagi.\" "
+    phone "\"Dobrze wiem, że wcale się nie modliłeś. Skoro go ze sobą zabrałeś to poświęć mu choć trochę uwagi.\" "
 
 
 
@@ -2934,7 +2934,7 @@ translate polish s06_04_lie_641b1da2:
 
     # b "In the corner of my eye I can see said guardian tiger shooting a fierce glare at me... "
 
-    b "Kątem oka dostrzegam jak wspomniany tygrysi strażnik posła w moim kierunku ostre spojrzenie... "
+    b "Kątem oka dostrzegam, jak wspomniany tygrysi strażnik posyła w moim kierunku ostre spojrzenie... "
 
 
 
@@ -2950,7 +2950,7 @@ translate polish s06_04_lie_c44e5372:
 
     voice voice_file.brother(6,12)
 
-    phone "\"Ok, nie będę ci przeszkadzał tak długo jak wiesz co robisz. W każdym razie, muszę już iść. Porozmawiamy innym razem.\" "
+    phone "\"Ok, nie będę ci przeszkadzał tak długo jak wiesz co robić. W każdym razie, muszę już kończyć. Porozmawiamy innym razem.\" "
 
 
 
@@ -2978,7 +2978,7 @@ translate polish s06_04_lie_941b9d89:
 
     voice voice_file.brother(6,13)
 
-    phone "\"A tak w ogóle. Ta twoja skrytka pod łóżkiem. Powinieneś to lepiej schować. Znalazłem to w sekundę.\"  "
+    phone "\"A tak w ogóle. Ta twoja skrytka pod łóżkiem. Powinieneś ją lepiej schować- znalazłem ją w sekundę.\"  "
 
 
 
@@ -3006,7 +3006,7 @@ translate polish s06_04_lie_ac21c45c:
 
     voice voice_file.brother(6,14)
 
-    phone "\"Nie przejmuj się, pomogę ci to schować. Zaufaj mi, kiedyś nawet tata chował swoje rzeczy pod łóżkiem. Może później powiem ci, gdzie to ukryłem.\" "
+    phone "\"Nie przejmuj się, pomogę ci ją schować. Zaufaj mi, kiedyś nawet tata chował swoje rzeczy pod łóżkiem. Może później powiem ci, gdzie ukryłem twoje.\" "
 
 
 
@@ -3218,7 +3218,7 @@ translate polish s06_04_lie_76adc9fd:
 
     voice voice_file.lpdcat(6,29)
 
-    lpdcat pout "\"To zawsze musi być kurczak! Codziennie! Bengalski kotek, taki jak ja, nie może dzień w dzień tolerować tego samego, nawet jeśli jest to soczysty - pyszny kurczak!\" "
+    lpdcat pout "\"To zawsze musi być kurczak! Codziennie! Bengalski kotek, taki jak ja, nie może dzień w dzień tolerować tego samego- nawet jeśli jest to soczysty, pyszny kurczak!\" "
 
 
 
@@ -3234,7 +3234,7 @@ translate polish s06_04_lie_b9479bb0:
 
     voice voice_file.tig(6,41)
 
-    tig lift "\"Jeśli nic nie chcesz- nikt cię nie zmusi do jedzenia.\" "
+    tig lift "\"Jeśli go nie chcesz- nikt cię nie zmusi do jedzenia.\" "
 
 
 
