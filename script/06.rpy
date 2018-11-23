@@ -1614,7 +1614,7 @@ translate polish s06_9f0859b4:
 
     voice voice_file.lpdcat(6,10)
 
-    lpdcat happy "\"Mm?! *łyk* A więc Liao, zdecydowałeś się iść!\"" with flash
+    lpdcat happy "\"Mm?! *łyk* A więc Liao, zdecydowałeś się iść!\" " with flash
 
 
 
@@ -1754,7 +1754,7 @@ translate polish s06_bcd88c3d:
 
     # avt "\"Your reasoning isn't very convincing Senpai...\" "
 
-    avt "\"Twoje rozumowanie nie jest zbyt przekonujące, Senpai...\""
+    avt "\"Twoje rozumowanie nie jest zbyt przekonujące, Senpai...\" "
 
 
 
@@ -2022,7 +2022,7 @@ translate polish s06_1bab5f72:
 
     voice voice_file.tig(6,23)
 
-    tig normal "\"Dobrze- przewijaj dalej."
+    tig normal "\"Dobrze- przewijaj dalej. "
 
 
 
@@ -2630,7 +2630,7 @@ translate polish s06_03_25f484e9:
 
     # b "Well at least they stop bickering while I'm on the phone. "
 
-    b "Przynajmniej przestają się sprzeczać, kiedy rozmawiam przez telefon."
+    b "Przynajmniej przestają się sprzeczać, kiedy rozmawiam przez telefon. "
 
 
 
@@ -4106,7 +4106,7 @@ translate polish s06_04_confess_31be5b66:
 
     # avt "\"I mean I've only been able to see him pretty recently...\" "
 
-    avt "\"Chodzi o to, że dopiero niedawno udało mi się go zobaczyć...\" "
+    avt "\"Tak właściwie, to dopiero od niedawna udaje mi się go dostrzec...\" "
 
 
 
@@ -4118,7 +4118,7 @@ translate polish s06_04_confess_cb0b3e96:
 
     # b "I'd probably be better if my brother was the one who could see the guardian tigers and not me. After all, he's a Jitong already... "
 
-    b "Byłoby o wiele lepiej, gdyby to mój brat mógł zobaczyć tygrysich strażników, a nie ja. Przecież to on został Jitong'iem... "
+    b "Byłoby jednak o wiele lepiej, gdyby to mój brat mógł zobaczyć tygrysich strażników, a nie ja. Przecież to on został Jitong'iem... "
 
 
 
@@ -4186,7 +4186,7 @@ translate polish s06_04_confess_a89ff91d:
 
     voice voice_file.brother(6,38)
 
-    phone "\"Nie martw się, schowałem je w lepszym miejscu. Bądź bardziej ostrożny, dobra? Gdy już wrócisz do domu powiem ci gdzie je schowałem.\" "
+    phone "\"Nie martw się, schowałem je w lepszym miejscu. Bądź bardziej ostrożny, dobra? Gdy już wrócisz do domu, powiem ci gdzie je schowałem.\" "
 
 
 
@@ -4250,7 +4250,7 @@ translate polish s06_04_confess_5e03e6ec:
 
     # b "What have I done?! " with vshake
 
-    b "Co ja zrobiłem?! " with vshake
+    b "Co ja narobiłem?! " with vshake
 
 
 
@@ -4266,7 +4266,7 @@ translate polish s06_04_confess_7b981164:
 
     voice voice_file.tig(6,48)
 
-    tig lift "\"Liao, wszystko dobrze?\" "
+    tig lift "\"Liao, wszystko w porządku?\" "
 
 
 
@@ -4278,7 +4278,7 @@ translate polish s06_04_confess_f9bc3141:
 
     # avt "\"No, not really. Why did I have to go and tell him? Now the whole family's just going to find out...\" "
 
-    avt "\"Nie do końca. Czemu mu to powiedziałem? Teraz cała rodzina się o tym dowie...\" "
+    avt "\"Nie do końca. Dlaczego mu to powiedziałem? Teraz cała rodzina się o tym dowie...\" "
 
 
 
@@ -4294,7 +4294,7 @@ translate polish s06_04_confess_ce08583b:
 
     voice voice_file.tig(6,49)
 
-    tig normal "\"Cóż, podejrzewam, że wszyscy bogowie w domu już o tym wiedzą, a zatem to nie problem.\" "
+    tig normal "\"Cóż, podejrzewam, że wszyscy bogowie w domu już o tym wiedzą- a zatem nie jest to wielki problem.\" "
 
 
 
@@ -4322,7 +4322,7 @@ translate polish s06_04_confess_c11657ac:
 
     voice voice_file.tig(6,50)
 
-    tig normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jasnowidzący i Jasnosłyszący{/font} są tam, tylko jeszcze nie przybyli tu by cię zobaczyć. Ale jestem przekonany, że czekają z niecierpliwością na twój powrót.\" "
+    tig normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jasnowidzący i Jasnosłyszący{/font} są tam, tylko jeszcze nie przybyli tu by cię zobaczyć. Ale jestem przekonany, że z niecierpliwością czekają na twój powrót.\" "
 
 
 
@@ -4374,7 +4374,7 @@ translate polish s06_04_confess_15085345:
 
     # b "He says \"don't worry\", but I'm {i}absolutely{/i} \ still worried. "
 
-    b "Mówi mi \"nie przejmuj się\", ale ja {i}absolutnie{/i} \ wciąż zmartwiony. "
+    b "Mówi mi \"nie przejmuj się\", ale ja {i}całkowicie{/i} \ się tym przejmuję. "
 
 
 
@@ -4386,7 +4386,7 @@ translate polish s06_04_confess_e653d22b:
 
     # b "I know I'm just searching for someone to believe me but openeing up to my brother might not have been a great idea... Maybe I should've just said that I didn't know anything... "
 
-    b "Zdaje sobie sprawę, że po prostu szukam kogoś kto mi uwierzy, ale otwarcie się z tym na mojego brata mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic nie wiem... "
+    b "Zdaję sobie sprawę, że po prostu szukam kogoś, kto mi uwierzy- ale otwarcie się na mojego brata mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic o tym nie wiem... "
 
 
 
@@ -4434,7 +4434,7 @@ translate polish strings:
 
     old "要不要撮合他們？"
 
-    new "Czy powinienem spróbować przekonać Senpai'a i Tygrysa do dogadania się?"
+    new "Czy powinienem namawiać Senpai'a i Tygrysa do dogadania się?"
 
 
 
