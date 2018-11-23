@@ -4434,7 +4434,7 @@ translate polish strings:
 
     old "要不要撮合他們？"
 
-    new "Czy powinienem namawiać Senpai'a i Tygrysa do dogadania się?"
+    new "Czy powinienem namawiać Senpai'a i Tygrysa, by spróbowali się dogadać?"
 
 
 
