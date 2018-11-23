@@ -2950,7 +2950,7 @@ translate polish s06_04_lie_c44e5372:
 
     voice voice_file.brother(6,12)
 
-    phone "\"Ok, nie będę ci przeszkadzał tak długo jak wiesz co robić. W każdym razie, muszę już kończyć. Porozmawiamy innym razem.\" "
+    phone "\"Ok- nie będę ci ględził, tak długo jak wiesz co robić. W każdym razie, muszę już kończyć. Porozmawiamy innym razem.\" "
 
 
 
