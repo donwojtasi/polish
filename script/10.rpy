@@ -14,7 +14,7 @@ translate polish s10_c184ff9b:
 
     voice voice_file.tig(10,1)
 
-    tig lift "\"Liao, pomimo że chciałbym byś skupił się na studiowaniu- nie sądzisz że czas najwyższy uprzątnąć twój pokój?\" "
+    tig lift "\"Liao, pomimo że chciałbym, byś skupił się na studiowaniu- nie sądzisz, że czas najwyższy uprzątnąć twój pokój?\" "
 
 
 
@@ -42,7 +42,7 @@ translate polish s10_27dd3486:
 
     b "Rozglądam się dookoła... no tak, nie mogę powiedzieć żebym szczególnie się nim zajmował. (Prawdę mówiąc, niezły tu bajzel) "
     
-    b "Senpai zawsze pomagał utrzymać porządek, więc nie było z tym większego problemu. Bez niego mój pokój wygląda po prostu tak jak niegdyś. Nie żebym {i}naprawdę{/i} musiał tu sprzątać. " 
+    b "Senpai zawsze pomagał utrzymywać porządek, więc nie było z tym większego problemu. Bez niego mój pokój wygląda po prostu tak jak niegdyś. Nie żebym {i}naprawdę{/i} musiał tu sprzątać. " 
 
 
 
