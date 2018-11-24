@@ -282,7 +282,7 @@ translate polish s10_02_buy_hat_02_c3434660:
 
     # avt "\"In any case, we can just wait for Senpai to come back and then he can decide to do whatever he wishes, right?\" "
 
-    avt ""
+    avt "\"Tak czy inaczej, chyba możemy zaczekać aż Senpai wróci i zdecyduje co z nią zrobić, prawda?\" "
 
 
 
@@ -298,7 +298,7 @@ translate polish s10_02_buy_hat_02_d5919a64:
 
     voice voice_file.tig(10,8)
 
-    tig disappointed ""
+    tig disappointed "\"...Liao, czy ty po prostu nie szukasz wymówki?\" "
 
 
 
@@ -310,7 +310,7 @@ translate polish s10_02_buy_hat_02_80dc7732:
 
     # avt "\"No! I'm just concerned that under the current circumstances Senpai wouldn't want us to touch it. At least that's what I feel...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Nie! Sądzę tylko, że w obecnej sytuacji Senpai nie chciałby, żebyśmy ją ruszali. A przynajmniej tak mi się wydaje...\" " with hshake
 
 
 
@@ -326,7 +326,7 @@ translate polish s10_02_buy_hat_02_7b253e0f:
 
     voice voice_file.tig(10,9)
 
-    tig frown ""
+    tig frown "\"...Skoro tak uważasz- niech ci będzie. Dopilnuj jedynie, by posprzątać wszędzie indziej!\" "
 
 
 
@@ -338,7 +338,7 @@ translate polish s10_02_buy_hat_02_c8477a13:
 
     # avt "\"Yep, I'm on it. \" "
 
-    avt ""
+    avt "\"Jasne, już się robi. \" "
 
 
 
@@ -350,7 +350,7 @@ translate polish s10_02_buy_hat_02_d8dd7993:
 
     # b "As I look at the animal hat, memories of that day shopping with Senpai come flooding back to my mind. "
 
-    b ""
+    b "Gdy tylko spoglądam na czapkę, ogarniają mnie wspomnienia z dnia, w którym byliśmy razem z Senpai'em na zakupach. "
 
 
 
@@ -362,7 +362,7 @@ translate polish s10_02_buy_hat_02_f1d999d2:
 
     # b "I wonder how he's going back home... "
 
-    b ""
+    b "Ciekawe, jak sobie radzi... "
 
 
 
@@ -374,7 +374,7 @@ translate polish s10_02_buy_hat_02_1730f31b:
 
     # b "Senpai, where are you... "
 
-    b ""
+    b "Senpai, gdzie jesteś... "
 
 
 
@@ -386,7 +386,7 @@ translate polish s10_02_buy_hat_01_648153e2:
 
     # avt "\"Alright... Yeah, I should wash it for him.\" "
 
-    avt ""
+    avt "\"No dobra... Faktycznie, powinienem ją dla niego umyć.\" "
 
 
 
@@ -402,7 +402,7 @@ translate polish s10_02_buy_hat_01_dffc46be:
 
     voice voice_file.tig(10,10)
 
-    tig lift ""
+    tig lift "\"....wygląda na dość delikatną. Pralka mogłaby jej zaszkodzić, nie uważasz? Sądzę, że powinieneś wyprać ją ręcznie.\" "
 
 
 
@@ -414,7 +414,7 @@ translate polish s10_02_buy_hat_01_a25b2f6d:
 
     # avt "\"I know.\" "
 
-    avt ""
+    avt "\"Wiem.\" "
 
 
 
@@ -426,7 +426,7 @@ translate polish s10_02_buy_hat_01_93d66b4e:
 
     # b "He just turned on the washing machine for me anyway. It'd be too late to just throw another thing into it. "
 
-    b ""
+    b "I tak włączył przed chwilą pralkę- nie mógłbym tak po prostu wrzucić do niej nic więcej. "
 
 
 
@@ -438,7 +438,7 @@ translate polish s10_02_buy_hat_01_a90a2e87:
 
     # b "I take Senpai's husky hat into the bathroom and soak a towel with warm water. "
 
-    b ""
+    b "Biorę więc czapkę husky Senpai'a do łazienki i zanurzam ręcznik w ciepłej wodzie. "
 
 
 
@@ -450,7 +450,7 @@ translate polish s10_02_buy_hat_01_5ee99024:
 
     # b "It's just dust so I probably don't need to use soap, right? "
 
-    b ""
+    b "To tylko kurz, więc chyba nie trzeba używać mydła? "
 
 
 
@@ -462,7 +462,7 @@ translate polish s10_02_buy_hat_01_e05c7e30:
 
     # b "Afraid of damaging it, I wash the hat by gently wiping it with the damp towel. "
 
-    b ""
+    b "Starając się nie uszkodzić czapki, delikatnie wycieram ją mokrym ręcznikiem. "
 
 
 
@@ -474,7 +474,7 @@ translate polish s10_02_buy_hat_01_b5f43ea2:
 
     # avt "\"Done. Good as new! Now I just need to hang it up somewhere to dry...\" "
 
-    avt ""
+    avt "\"Zrobione. Wygląda jak nowa! Teraz tylko ją gdzieś powiesić by wyschła...\" "
 
 
 
@@ -490,7 +490,7 @@ translate polish s10_02_buy_hat_01_febf9d06:
 
     voice voice_file.lpd(10,1)
 
-    lpd normal ""
+    lpd normal "\"Pomogę.\" "
 
 
 
@@ -502,7 +502,7 @@ translate polish s10_02_buy_hat_01_6fe7a84f:
 
     # b "Leopard suddenly comes out from behind me, seizing the husky hat from my hands. "
 
-    b ""
+    b "Leopard nagle wyłania się zza moich pleców, przejmując ode mnie czapkę. "
 
 
 
@@ -514,7 +514,7 @@ translate polish s10_02_buy_hat_01_1d105afd:
 
     # b "As the tips of his paws touch the surface of the hat, water droplets are pulled out of the material and drip off the hat onto the floor below. " with flash
 
-    b "" with flash
+    b "Gdy tylko koniuszki jego łap stykają się z powierzchnią czapki, krople wody wydostają się spomiędzy materiału i skapują na podłogę. " with flash
 
 
 
@@ -526,7 +526,7 @@ translate polish s10_02_buy_hat_01_52ff31f2:
 
     # b "Leopard continues to work his paws around every inch of the hat, drying it from top to bottom. It's pretty much bone dry by the time I get it back. "
 
-    b ""
+    b "Leopard kontynuuje swoją pracę na każdym centymetrze czapki, dokładnie osuszając ją z góry do dołu. Gdy kończy, jest już sucha jak pieprz. "
 
 
 
@@ -538,7 +538,7 @@ translate polish s10_02_buy_hat_01_2faf0448:
 
     # b "What is he?! An instant drying machine?! " with vshake
 
-    b "" with vshake
+    b "Kimże on jest?! Natychmiastową suszarką, czy co?! " with vshake
 
 
 
@@ -550,7 +550,7 @@ translate polish s10_02_buy_hat_01_5bbb7391:
 
     # b "Amazing... "
 
-    b ""
+    b "Niesamowite... "
 
 
 
@@ -562,7 +562,7 @@ translate polish s10_02_buy_hat_01_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -574,7 +574,7 @@ translate polish s10_02_buy_hat_01_b8204f6e:
 
     # b "After handing the hat back to me, he turns around and leaves the bathroom. "
 
-    b ""
+    b "Po wręczeniu mi czapki z powrotem, odwraca się i wychodzi z łazienki. "
 
 
 
@@ -586,7 +586,7 @@ translate polish s10_02_buy_hat_01_eb7dd3f3:
 
     # avt "\"Um, thank you!\" "
 
-    avt ""
+    avt "\"Um, dzięki!\" "
 
 
 
