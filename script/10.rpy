@@ -502,7 +502,7 @@ translate polish s10_02_buy_hat_01_6fe7a84f:
 
     # b "Leopard suddenly comes out from behind me, seizing the husky hat from my hands. "
 
-    b "Leopard nagle wyłania się zza moich pleców, przejmując ode mnie czapkę. "
+    b "Pantera nagle wyłania się zza moich pleców, przejmując ode mnie czapkę. "
 
 
 
@@ -526,7 +526,7 @@ translate polish s10_02_buy_hat_01_52ff31f2:
 
     # b "Leopard continues to work his paws around every inch of the hat, drying it from top to bottom. It's pretty much bone dry by the time I get it back. "
 
-    b "Leopard kontynuuje swoją pracę na każdym centymetrze czapki, dokładnie osuszając ją z góry do dołu. Gdy kończy, jest już sucha jak pieprz. "
+    b "Pantera kontynuuje swoją pracę na każdym centymetrze czapki, dokładnie osuszając ją z góry do dołu. Gdy kończy, jest już sucha jak pieprz. "
 
 
 
