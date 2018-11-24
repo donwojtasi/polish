@@ -474,7 +474,7 @@ translate polish s10_02_buy_hat_01_b5f43ea2:
 
     # avt "\"Done. Good as new! Now I just need to hang it up somewhere to dry...\" "
 
-    avt "\"Zrobione. Wygląda jak nowa! Teraz tylko ją gdzieś powiesić by wyschła...\" "
+    avt "\"Zrobione. Wygląda jak nowa! Teraz tylko ją gdzieś powiesić, by wyschła...\" "
 
 
 
