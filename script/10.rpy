@@ -898,7 +898,7 @@ translate polish s10_02_sleep_floor_01_8a1c6e6b:
 
     # b "It's not like I won't clean everything up eventually, but I really don't want to have someone force it upon me every day. It'd just kill my motivation. "
 
-    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
+    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego mi o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
 
 
 
@@ -942,7 +942,7 @@ translate polish s10_02_sleep_floor_01_791b61c0:
 
     b "Czy Pantera nie zacząłby znowu używać swoich mocy do sprzątania? Byłby wyczerpany. "
     
-    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej żeby tego nie robił.  "
+    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej, żeby tego nie robił. "
 
 
 
