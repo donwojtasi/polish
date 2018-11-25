@@ -682,7 +682,7 @@ translate polish s10_02_buy_hat_01_760620ff:
 
     b "Gdy tak to ujął, zrobiło mi się głupio... Pomógł mi tylko dlatego, że mogłoby mi się to {i}spodobać{/i} \. "
     
-    b "Przez cały ten czas zawsze starał się mnie wspierać... podczas gdy ja w głębi duszy robię wszystko by {i}nie{/i} \ pójść z nim Wutai; by mu nie pomagać. "
+    b "Przez cały ten czas zawsze starał się mnie wspierać... podczas gdy ja w głębi duszy robię wszystko, by tylko {i}nie{/i} \ pójść z nim Wutai; by mu nie pomagać. "
 
 
 
@@ -750,7 +750,7 @@ translate polish s10_02_sleep_floor_01_1665100d:
 
     # b "Tiger's right, Senpai's not here. I might as well pack up his futon for now. It's in the way anyway since I have to walk across it to reach the door. "
 
-    b "Tygrys ma rację. Senpai'a teraz tu nie ma- mogę równie dobrze schować jego pościel. I tak zagradza przejście- muszę przechodzić przez nią za każdym razem, by dotrzeć do drzwi. "
+    b "Tygrys ma rację. Senpai'a teraz tutaj nie ma- mogę równie dobrze schować jego pościel. I tak zagradza przejście- muszę przechodzić przez nią za każdym razem, kiedy chcę dotrzeć do drzwi. "
 
 
 
@@ -786,7 +786,7 @@ translate polish s10_02_sleep_floor_01_6b02ca80:
 
     # b "Then I finish throughly cleaning up the rest of my apartment. Once I get into it I start to find it a nice break from studying all day, some rest for my tired mind. "
 
-    b "Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zaczynam traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
+    b "Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zacząłem traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
 
 
 
