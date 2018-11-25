@@ -598,7 +598,7 @@ translate polish s10_02_buy_hat_01_e831eef7:
 
     # b "I follow him out and store the animal hat in my wardrobe for now. "
 
-    b ""
+    b "Podążam za nim i na razie odkładam czapkę do swojej szafy. "
 
 
 
@@ -614,7 +614,7 @@ translate polish s10_02_buy_hat_01_d22503a5:
 
     voice voice_file.tig(10,11)
 
-    tig normal ""
+    tig normal "\"Doprawdy... Co za marnotrawstwo duchowej mocy... Nie mogę tego znieść.\" "
 
 
 
@@ -626,7 +626,7 @@ translate polish s10_02_buy_hat_01_f309ab30:
 
     # b "It seems like Leopard using his powers to dry the hat for me has struck a nerve with Tiger. I can't begin to understand myself, but it probably was waste of Leopard's energy. "
 
-    b ""
+    b "Najwyraźniej użycie swoich mocy przez Panterę tylko po to, by wysuszyć dla mnie czapkę trafiło w czuły punkt Tygrysa. Nie do końca to rozumiem, ale prawdopodobnie kosztowało go to dużo wysiłku. "
 
 
 
@@ -638,7 +638,7 @@ translate polish s10_02_buy_hat_01_bff89aee:
 
     # avt "\"...I really appreciate that.\" "
 
-    avt ""
+    avt "\"...jestem bardzo wdzięczny.\" "
 
 
 
@@ -654,7 +654,7 @@ translate polish s10_02_buy_hat_01_164401c5:
 
     voice voice_file.lpd(10,2)
 
-    lpd laugh ""
+    lpd laugh "... Nie problem. Liao się podoba.\" "
 
 
 
@@ -666,7 +666,7 @@ translate polish s10_02_buy_hat_01_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -680,7 +680,9 @@ translate polish s10_02_buy_hat_01_760620ff:
 
     # b "He's been helping me all this time but... in my heart I'm still trying to find a way to {i}not{/i} \ go to Wutai, to not help him. "
 
-    b ""
+    b "Gdy tak to ujął, zrobiło mi się głupio... Pomógł mi tylko dlatego, że mogłoby mi się to {i}spodobać{/i} \. "
+    
+    b "Przez cały ten czas zawsze starał się mnie wspierać... podczas gdy ja w głębi duszy robię wszystko by {i}nie{/i} \ pójść z nim Wutai; by mu nie pomagać. "
 
 
 
@@ -694,7 +696,9 @@ translate polish s10_02_buy_hat_01_e564b406:
 
     # b "With my brief moment of reflection over, I move on with things and get back to cleaning my apartment... "
 
-    b "" with hshake
+    b "Arrrgh— sfrustrowany potrząsam głową. Muszę przestać tyle nad tym rozmyślać- w niczym mi to nie pomoże. " with hshake
+    
+    b "Po tej krótkiej refleksji zabieram się z powrotem do pracy, kontynuując porządki... "
 
 
 
@@ -710,7 +714,7 @@ translate polish s10_02_sleep_floor_893ffdd9:
 
     voice voice_file.tig(10,12)
 
-    tig frown ""
+    tig frown "\"Nie zapomnij o tym posłaniu na podłodze- nie ma potrzeby, by leżało na środku pokoju podczas gdy kociaka tu nie ma.\" "
 
 
 
@@ -722,7 +726,7 @@ translate polish s10_02_sleep_floor_bcb0179e:
 
     # avt "\"But...\" "
 
-    avt ""
+    avt "\"Ale...\" "
 
 
 
@@ -734,7 +738,7 @@ translate polish s10_02_sleep_floor_a07a7e67:
 
     # b "Somehow, I feel that he really won't come back if there isn't a place for him to sleep here... "
 
-    b ""
+    b "Mam dziwne wrażenie, że naprawdę nigdy tu nie wróci jeśli zabraknie dla niego miejsca do spania... "
 
 
 
@@ -746,7 +750,7 @@ translate polish s10_02_sleep_floor_01_1665100d:
 
     # b "Tiger's right, Senpai's not here. I might as well pack up his futon for now. It's in the way anyway since I have to walk across it to reach the door. "
 
-    b ""
+    b "Tygrys ma rację. Senpai'a teraz tu nie ma- mogę równie dobrze schować jego pościel. I tak zagradza przejście- muszę przechodzić przez nią za każdym razem, by dotrzeć do drzwi. "
 
 
 
@@ -758,7 +762,7 @@ translate polish s10_02_sleep_floor_01_f155a61e:
 
     # avt "\"Okay, let's pack this up.\" "
 
-    avt ""
+    avt "\"No dobra, spakujmy ją.\" "
 
 
 
@@ -770,7 +774,7 @@ translate polish s10_02_sleep_floor_01_9bd28a70:
 
     # b "I fold the futon up into the wardrobe then go and tidy up Senpai's stuff in the corner. "
 
-    b ""
+    b "Składam pościel i chowam ją do szafy, po czym układam rzeczy Senpai'a w kącie. "
 
 
 
@@ -782,7 +786,7 @@ translate polish s10_02_sleep_floor_01_6b02ca80:
 
     # b "Then I finish throughly cleaning up the rest of my apartment. Once I get into it I start to find it a nice break from studying all day, some rest for my tired mind. "
 
-    b ""
+    b "Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zaczynam traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
 
 
 
@@ -794,7 +798,7 @@ translate polish s10_02_sleep_floor_01_cd67a1f3:
 
     # avt "\"Huh... Not bad. I'm actually all pumped up and energised from all this cleaning!\" "
 
-    avt ""
+    avt "\"Huh... Wyszło nienajgorzej. Właściwie to po tym całym sprzątaniu czuję się pobudzony i pełen energii!\" "
 
 
 
@@ -810,7 +814,7 @@ translate polish s10_02_sleep_floor_01_4b91093a:
 
     voice voice_file.tig(10,13)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Prawda? Od teraz będziesz więc sprzątać tu częściej?\" "
 
 
 
@@ -822,7 +826,7 @@ translate polish s10_02_sleep_floor_01_0fb10b01:
 
     # avt "\"Well, did I say I was pumped up? I meant tired, I'm absolutely exhausted.\" "
 
-    avt ""
+    avt "\"Czy ja powiedziałem pobudzony? Oczywiście miałem na myśli zmęczony- jestem całkowicie wyczerpany.\" "
 
 
 
@@ -834,7 +838,7 @@ translate polish s10_02_sleep_floor_01_e45b9bbf:
 
     # b "As much as it does feel good to get everything nice and clean but I really can't see myself doing this all the time. I'm under more stress than it is usually or expected of someone pre mid-terms as it is. "
 
-    b ""
+    b "To prawda, że miło jest znaleźć się w czystym, uporządkowanym pokoju- ale nie wyobrażam sobie, bym mógł to robić cały czas. Przejąłem się tym bardziej niż student sesją egzaminacyjną. "
 
 
 
