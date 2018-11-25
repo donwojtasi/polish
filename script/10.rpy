@@ -858,7 +858,7 @@ translate polish s10_02_sleep_floor_01_58e9e8ca:
 
     tig frown "\"Nie akceptuję sprzeciwu! Czyste, uporządkowane otoczenie jest istotne dla twojego zdrowia- zarówno fizycznego, jak i psychicznego.\" "
     
-    # tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
+    tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
 
 
 
@@ -1008,9 +1008,9 @@ translate polish s10_02_sleep_floor_02_84082b2e:
 
     # b "But as long as I keep the floor clean I won't have any problems stepping over it. I'm not packing it up. "
 
-    b ""
+    b "Spoglądam na pościel leżącą na podłodze. Właściwie to blokuje drzwi, więc muszę przez nią przechodzić za każdym razem, gdy chcę wejść lub wyjść z pokoju. "
     
-    b ""
+    b "Ale tak długo jak podłoga będzie czysta, nie będzie z tym problemów. Nie zamierzam jej chować.  "
 
 
 
@@ -1022,7 +1022,7 @@ translate polish s10_02_sleep_floor_02_8e0fa192:
 
     # b "I wipe down the floor with a rag and tidy up Senpai's belongings. Then I finish throughly cleaning up the rest of my apartment. Once I get into it I start to find it a nice break from studying all day, some rest for my tired mind. "
 
-    b ""
+    b "Przecieram podłogę ścierką i porządkuję rzeczy Senpai'a. Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zacząłem traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
 
 
 
@@ -1034,7 +1034,7 @@ translate polish s10_02_sleep_floor_02_cd67a1f3:
 
     # avt "\"Huh... Not bad. I'm actually all pumped up and energised from all this cleaning!\" "
 
-    avt ""
+    avt "\"Huh... Wyszło nienajgorzej. Właściwie to po tym całym sprzątaniu czuję się pobudzony i pełen energii!\" "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish s10_02_sleep_floor_02_4b91093a:
 
     voice voice_file.tig(10,13)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Prawda? Od teraz będziesz więc sprzątać tu częściej?\" "
 
 
 
@@ -1062,7 +1062,7 @@ translate polish s10_02_sleep_floor_02_0fb10b01:
 
     # avt "\"Well, did I say I was pumped up? I meant tired, I'm absolutely exhausted.\" "
 
-    avt ""
+    avt "\"Czy ja powiedziałem pobudzony? Oczywiście miałem na myśli zmęczony- jestem całkowicie wyczerpany.\" "
 
 
 
@@ -1074,7 +1074,7 @@ translate polish s10_02_sleep_floor_02_e45b9bbf:
 
     # b "As much as it does feel good to get everything nice and clean but I really can't see myself doing this all the time. I'm under more stress than it is usually or expected of someone pre mid-terms as it is. "
 
-    b ""
+    b "To prawda, że miło jest znaleźć się w czystym, uporządkowanym pokoju- ale nie wyobrażam sobie, bym mógł to robić cały czas. Przejąłem się tym bardziej niż student sesją egzaminacyjną. "
 
 
 
@@ -1092,7 +1092,9 @@ translate polish s10_02_sleep_floor_02_58e9e8ca:
 
     voice voice_file.tig(10,14)
 
-    tig frown ""
+    tig frown "\"Nie akceptuję sprzeciwu! Czyste, uporządkowane otoczenie jest istotne dla twojego zdrowia- zarówno fizycznego, jak i psychicznego.\" "
+    
+    tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
 
 
 
@@ -1108,7 +1110,7 @@ translate polish s10_02_sleep_floor_02_e135087d:
 
     voice voice_file.tig(10,15)
 
-    tig frown ""
+    tig frown "\"Dlatego, od dziś będę ci przypominać o regularnym sprzątaniu pokoju- zrozumiano?\" "
 
 
 
@@ -1120,7 +1122,7 @@ translate polish s10_02_sleep_floor_02_f928cee8:
 
     # avt "\"Awww...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Oooo...\" " with vshake
 
 
 
@@ -1132,7 +1134,7 @@ translate polish s10_02_sleep_floor_02_8a1c6e6b:
 
     # b "It's not like I won't clean everything up eventually, but I really don't want to have someone force it upon me every day. It'd just kill my motivation. "
 
-    b ""
+    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego mi o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
 
 
 
@@ -1148,7 +1150,7 @@ translate polish s10_02_sleep_floor_02_3c1aacf7:
 
     voice voice_file.lpd(10,3)
 
-    lpd normal ""
+    lpd normal "\"Liao zmęczony. Pomogę.\" "
 
 
 
@@ -1160,7 +1162,7 @@ translate polish s10_02_sleep_floor_02_d7f70568:
 
     # avt "\"Ah-hah. No need. Thank you for the offer.\" "
 
-    avt ""
+    avt "\"Ah-hah. Nie ma potrzeby. Dzięki za propozycję.\" "
 
 
 
@@ -1174,7 +1176,9 @@ translate polish s10_02_sleep_floor_02_791b61c0:
 
     # b "Not to mention if he went out on the balcony and started cleaning up, people would be scared to death seeing a floating broom or whatever. So really, it's best that he doesn't help. "
 
-    b ""
+    b "Czy Pantera nie zacząłby znowu używać swoich mocy do sprzątania? Byłby wyczerpany. "
+    
+    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej, żeby tego nie robił. "
 
 
 
@@ -1186,7 +1190,7 @@ translate polish s10_02_sleep_floor_02_fb2a8e68:
 
     # b "But it's so nice of him to offer, I'm really grateful... "
 
-    b ""
+    b "Chociaż to naprawdę miło z jego strony, jestem mu bardzo wdzięczny... "
 
 
 
@@ -1198,7 +1202,7 @@ translate polish s10_02_sleep_floor_02_1c54936e:
 
     # b "As heartwarming as his offer is, I have to decline. "
 
-    b ""
+    b "Tak czy inaczej, muszę odmówić- nieważne, jak wzruszająca jest jego propozycja. "
 
 
 
@@ -1214,7 +1218,7 @@ translate polish s10_02_sleep_bed_4bf7621e:
 
     voice voice_file.tig(10,17)
 
-    tig frown ""
+    tig frown "\"Moglibyśmy też przy okazji schować ten składany stół, podczas gdy nie ma tu kociaka. Nie sądzę, byś z niego korzystał- zajmuje tylko niepotrzebnie miejsce.\" "
 
 
 
@@ -1226,7 +1230,7 @@ translate polish s10_02_sleep_bed_bcb0179e:
 
     # avt "\"But...\" "
 
-    avt ""
+    avt "\"Ale...\" "
 
 
 
@@ -1238,7 +1242,7 @@ translate polish s10_02_sleep_bed_603aa611:
 
     # b "Senpai kept all of his things on that table... Somehow, I feel that he really won't come back if I just put it all away... "
 
-    b ""
+    b "Senpai trzymał na tym stoliku wszystkie swoje rzeczy... Mam dziwne wrażenie, że naprawdę nigdy tu nie wróci jeśli tak po prostu wszystko pochowam... "
 
 
 
@@ -1250,7 +1254,7 @@ translate polish s10_02_sleep_bed_01_d48ec81c:
 
     # b "Tiger's right, Senpai's not here. I might as well pack up the table for now, it'll just make things easier to clean up after all. "
 
-    b ""
+    b "Tygrys ma rację. Senpai'a teraz tutaj nie ma- mogę równie dobrze schować ten stolik, przynajmniej ułatwi to sprzątanie. "
 
 
 
@@ -1262,7 +1266,7 @@ translate polish s10_02_sleep_bed_01_f155a61e:
 
     # avt "\"Okay, let's pack this up.\" "
 
-    avt ""
+    avt "\"No dobra, spakujmy go.\" "
 
 
 
@@ -1274,7 +1278,7 @@ translate polish s10_02_sleep_bed_01_2fbac4f1:
 
     # b "I put the folding table away and tidy up Senpai's stuff in the corner. "
 
-    b ""
+    b "Chowam składany stolik, po czym układam rzeczy Senpai'a w kącie. "
 
 
 
@@ -1286,7 +1290,7 @@ translate polish s10_02_sleep_bed_01_6b02ca80:
 
     # b "Then I finish throughly cleaning up the rest of my apartment. Once I get into it I start to find it a nice break from studying all day, some rest for my tired mind. "
 
-    b ""
+    b "Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zacząłem traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
 
 
 
