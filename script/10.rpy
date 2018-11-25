@@ -1302,7 +1302,7 @@ translate polish s10_02_sleep_bed_01_cd67a1f3:
 
     # avt "\"Huh... Not bad. I'm actually all pumped up and energised from all this cleaning!\" "
 
-    avt ""
+    avt "\"Huh... Wyszło nienajgorzej. Właściwie to po tym całym sprzątaniu czuję się pobudzony i pełen energii!\" "
 
 
 
@@ -1318,7 +1318,7 @@ translate polish s10_02_sleep_bed_01_4b91093a:
 
     voice voice_file.tig(10,13)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Prawda? Od teraz będziesz więc sprzątać tu częściej?\" "
 
 
 
@@ -1330,7 +1330,7 @@ translate polish s10_02_sleep_bed_01_0fb10b01:
 
     # avt "\"Well, did I say I was pumped up? I meant tired, I'm absolutely exhausted. \" "
 
-    avt ""
+    avt "\"Czy ja powiedziałem pobudzony? Oczywiście miałem na myśli zmęczony- jestem całkowicie wyczerpany.\" "
 
 
 
@@ -1342,7 +1342,7 @@ translate polish s10_02_sleep_bed_01_e45b9bbf:
 
     # b "As much as it does feel good to get everything nice and clean but I really can't see myself doing this all the time. I'm under more stress than it is usually or expected of someone pre mid-terms as it is. "
 
-    b ""
+    b "To prawda, że miło jest znaleźć się w czystym, uporządkowanym pokoju- ale nie wyobrażam sobie, bym mógł to robić cały czas. Przejąłem się tym bardziej niż student sesją egzaminacyjną. "
 
 
 
@@ -1360,7 +1360,9 @@ translate polish s10_02_sleep_bed_01_58e9e8ca:
 
     voice voice_file.tig(10,14)
 
-    tig frown ""
+    tig frown "\"Nie akceptuję sprzeciwu! Czyste, uporządkowane otoczenie jest istotne dla twojego zdrowia- zarówno fizycznego, jak i psychicznego.\" "
+    
+    tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
 
 
 
@@ -1376,7 +1378,7 @@ translate polish s10_02_sleep_bed_01_e135087d:
 
     voice voice_file.tig(10,15)
 
-    tig frown ""
+    tig frown "\"Dlatego, od dziś będę ci przypominać o regularnym sprzątaniu pokoju- zrozumiano?\" "
 
 
 
@@ -1388,7 +1390,7 @@ translate polish s10_02_sleep_bed_01_3718a48f:
 
     # avt "\"Awww...\" " with vshake
 
-    avt ""
+    avt "\"Oooo...\" " with vshake
 
 
 
@@ -1400,7 +1402,7 @@ translate polish s10_02_sleep_bed_01_8a1c6e6b:
 
     # b "It's not like I won't clean everything up eventually, but I really don't want to have someone force it upon me every day. It'd just kill my motivation. "
 
-    b ""
+    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego mi o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
 
 
 
@@ -1416,7 +1418,7 @@ translate polish s10_02_sleep_bed_01_3c1aacf7:
 
     voice voice_file.lpd(10,3)
 
-    lpd normal ""
+    lpd normal "\"Liao zmęczony. Pomogę.\" "
 
 
 
@@ -1428,7 +1430,7 @@ translate polish s10_02_sleep_bed_01_d7f70568:
 
     # avt "\"Ah-hah. No need. Thank you for the offer.\" "
 
-    avt ""
+    avt "\"Ah-hah. Nie ma potrzeby. Dzięki za propozycję.\" "
 
 
 
@@ -1442,7 +1444,9 @@ translate polish s10_02_sleep_bed_01_791b61c0:
 
     # b "Not to mention if he went out on the balcony and started cleaning up, people would be scared to death seeing a floating broom or whatever. So really, it's best that he doesn't help. "
 
-    b ""
+    b "Czy Pantera nie zacząłby znowu używać swoich mocy do sprzątania? Byłby wyczerpany. "
+    
+    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej, żeby tego nie robił. " 
 
 
 
@@ -1454,7 +1458,7 @@ translate polish s10_02_sleep_bed_01_fb2a8e68:
 
     # b "But it's so nice of him to offer, I'm really grateful... "
 
-    b ""
+    b "Chociaż to naprawdę miło z jego strony, jestem mu bardzo wdzięczny... "
 
 
 
@@ -1466,7 +1470,7 @@ translate polish s10_02_sleep_bed_01_e1f92f87:
 
     # b "As heartwarming as his offer is, I have to decline. "
 
-    b ""
+    b "Tak czy inaczej, muszę odmówić- nieważne, jak wzruszająca jest jego propozycja. "
 
 
 
@@ -1478,7 +1482,7 @@ translate polish s10_02_sleep_bed_02_3aea9788:
 
     # avt "\"I'd rather not. What if Senpai comes home just to see his desk and all his stuff packed away...\" "
 
-    avt ""
+    avt "\"Wolałbym nie. Co jeśli Senpai wróci akurat, by zastać swój stolik i rzeczy spakowane i odłożone w kącie...\" "
 
 
 
@@ -1494,7 +1498,7 @@ translate polish s10_02_sleep_bed_02_3739b65d:
 
     voice voice_file.tig(10,30)
 
-    tig frown ""
+    tig frown "\"...byłbym zdumiony, jeśli temu kociakowi byłoby przykro z powodu takiej błahostki.\" "
 
 
 
@@ -1508,7 +1512,9 @@ translate polish s10_02_sleep_bed_02_5afc7692:
 
     # b "However, it's not really in my way. I'm not putting it away. "
 
-    b ""
+    b "Spoglądam na składany stolik. Rzeczywiście, zajmuje nieco miejsca- między innymi dlatego go kupiłem. "
+    
+    b "Jednakże nie przeszkadza w przejściu tam, gdzie stoi. Nie będę go chować. "
 
 
 
@@ -1522,7 +1528,9 @@ translate polish s10_02_sleep_bed_02_0233fc4e:
 
     # b "Then I finish throughly cleaning up the rest of my apartment. Once I get into it I start to find it a nice break from studying all day, some rest for my tired mind. "
 
-    b ""
+    b "Mimo że decyduję się go nie składać, odkurzam go szmatką i porządkuję rzeczy Senpai'a. "
+    
+    b "Następnie kończę gruntowne sprzątanie mieszkania. Gdy już się rozkręciłem, zacząłem traktować to jako miłą przerwę od całodziennej nauki- trochę odpoczynku dla zmęczonego umysłu. "
 
 
 
@@ -1534,7 +1542,7 @@ translate polish s10_02_sleep_bed_02_cd67a1f3:
 
     # avt "\"Huh... Not bad. I'm actually all pumped up and energised from all this cleaning!\" "
 
-    avt ""
+    avt "\"Huh... Wyszło nienajgorzej. Właściwie to po tym całym sprzątaniu czuję się pobudzony i pełen energii!\" "
 
 
 
@@ -1550,7 +1558,7 @@ translate polish s10_02_sleep_bed_02_4b91093a:
 
     voice voice_file.tig(10,13)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Prawda? Od teraz będziesz więc sprzątać tu częściej?\" "
 
 
 
@@ -1562,7 +1570,7 @@ translate polish s10_02_sleep_bed_02_0fb10b01:
 
     # avt "\"Well, did I say I was pumped up? I meant tired, I'm exhausted. \" "
 
-    avt ""
+    avt "\"Czy ja powiedziałem pobudzony? Oczywiście miałem na myśli zmęczony- jestem całkowicie wyczerpany.\" "
 
 
 
@@ -1574,7 +1582,7 @@ translate polish s10_02_sleep_bed_02_e45b9bbf:
 
     # b "Okay, maybe it does feel good to get everything nice and clean but I really can't see myself doing this all the time. I'm under more stress than it is usually or expected of someone pre mid-terms. "
 
-    b ""
+    b "To prawda, że miło jest znaleźć się w czystym, uporządkowanym pokoju- ale nie wyobrażam sobie, bym mógł to robić cały czas. Przejąłem się tym bardziej niż student sesją egzaminacyjną. "
 
 
 
@@ -1592,7 +1600,9 @@ translate polish s10_02_sleep_bed_02_58e9e8ca:
 
     voice voice_file.tig(10,14)
 
-    tig frown ""
+    tig frown "\"Nie akceptuję sprzeciwu! Czyste, uporządkowane otoczenie jest istotne dla twojego zdrowia- zarówno fizycznego, jak i psychicznego.\" "
+    
+    tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
 
 
 
@@ -1608,7 +1618,7 @@ translate polish s10_02_sleep_bed_02_e135087d:
 
     voice voice_file.tig(10,15)
 
-    tig frown ""
+    tig frown "\"Dlatego, od dziś będę ci przypominać o regularnym sprzątaniu pokoju- zrozumiano?\" "
 
 
 
@@ -1620,7 +1630,7 @@ translate polish s10_02_sleep_bed_02_3718a48f:
 
     # avt "\"Awww...\" " with vshake
 
-    avt ""
+    avt "\"Oooo...\" " with vshake
 
 
 
@@ -1632,7 +1642,7 @@ translate polish s10_02_sleep_bed_02_8a1c6e6b:
 
     # b "It's not like I won't clean everything up eventually, but I really don't want to have someone force it upon me every day. It'd just kill my motivation. "
 
-    b ""
+    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego mi o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
 
 
 
@@ -1648,7 +1658,7 @@ translate polish s10_02_sleep_bed_02_3c1aacf7:
 
     voice voice_file.lpd(10,3)
 
-    lpd normal ""
+    lpd normal "\"Liao zmęczony. Pomogę.\" "
 
 
 
@@ -1660,7 +1670,7 @@ translate polish s10_02_sleep_bed_02_d7f70568:
 
     # avt "\"Ah-hah. No need. Thank you for the offer.\" "
 
-    avt ""
+    avt "\"Ah-hah. Nie ma potrzeby. Dzięki za propozycję.\" "
 
 
 
@@ -1674,7 +1684,9 @@ translate polish s10_02_sleep_bed_02_791b61c0:
 
     # b "Not to mention if he went out on the balcony and started cleaning up, people would be scared to death seeing a floating broom or whatever. So really, it's best that he doesn't help. "
 
-    b ""
+    b "Czy Pantera nie zacząłby znowu używać swoich mocy do sprzątania? Byłby wyczerpany. "
+    
+    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej, żeby tego nie robił. "
 
 
 
@@ -1686,7 +1698,7 @@ translate polish s10_02_sleep_bed_02_fb2a8e68:
 
     # b "But it's so nice of him to offer, I'm really grateful... "
 
-    b ""
+    b "Chociaż to naprawdę miło z jego strony, jestem mu bardzo wdzięczny... "
 
 
 
@@ -1698,7 +1710,7 @@ translate polish s10_02_sleep_bed_02_1c54936e:
 
     # b "As heartwarming as his offer is, I have to decline. "
 
-    b ""
+    b "Tak czy inaczej, muszę odmówić- nieważne, jak wzruszająca jest jego propozycja. "
 
 
 
