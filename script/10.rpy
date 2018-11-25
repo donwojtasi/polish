@@ -856,7 +856,9 @@ translate polish s10_02_sleep_floor_01_58e9e8ca:
 
     voice voice_file.tig(10,14)
 
-    tig frown ""
+    tig frown "\"Nie akceptuję sprzeciwu! Czyste, uporządkowane otoczenie jest istotne dla twojego zdrowia- zarówno fizycznego, jak i psychicznego.\" "
+    
+    # tig frown "\"Nie pozwolę, byś je ruinował- musisz o siebie zadbać.\" "
 
 
 
@@ -872,7 +874,7 @@ translate polish s10_02_sleep_floor_01_e135087d:
 
     voice voice_file.tig(10,15)
 
-    tig frown ""
+    tig frown "\"Dlatego, od dziś będę ci przypominać o regularnym sprzątaniu pokoju- zrozumiano?\" "
 
 
 
@@ -884,7 +886,7 @@ translate polish s10_02_sleep_floor_01_3718a48f:
 
     # avt "\"Awww...\" " with vshake
 
-    avt ""
+    avt "\"Oooo...\" " with vshake
 
 
 
@@ -896,7 +898,7 @@ translate polish s10_02_sleep_floor_01_8a1c6e6b:
 
     # b "It's not like I won't clean everything up eventually, but I really don't want to have someone force it upon me every day. It'd just kill my motivation. "
 
-    b ""
+    b "Przecież nie mówię, że w końcu wszystkiego nie sprzątnę- ale naprawdę nie potrzebuję kogoś stojącego nade mną i przypominającego o tym dzień w dzień. Kompletnie by mnie to zdemotywowało. "
 
 
 
@@ -912,7 +914,7 @@ translate polish s10_02_sleep_floor_01_3c1aacf7:
 
     voice voice_file.lpd(10,3)
 
-    lpd normal ""
+    lpd normal "\"Liao zmęczony. Pomogę.\" "
 
 
 
@@ -924,7 +926,7 @@ translate polish s10_02_sleep_floor_01_d7f70568:
 
     # avt "\"Ah-hah. No need. Thank you for the offer.\" "
 
-    avt ""
+    avt "\"Ah-hah. Nie ma potrzeby. Dzięki za propozycję.\" "
 
 
 
@@ -938,7 +940,9 @@ translate polish s10_02_sleep_floor_01_791b61c0:
 
     # b "Not to mention if he went out on the balcony and started cleaning up, people would be scared to death seeing a floating broom or whatever. So really, it's best that he doesn't help. "
 
-    b ""
+    b "Czy Pantera nie zacząłby znowu używać swoich mocy do sprzątania? Byłby wyczerpany. "
+    
+    b "Nie wspominając już o tym, że jeśli zacząłby odkurzać balkon, ludzie wystraszyliby się na śmierć widząc unoszącą się w powietrzu miotłę czy ścierkę. Lepiej żeby tego nie robił.  "
 
 
 
@@ -950,7 +954,7 @@ translate polish s10_02_sleep_floor_01_fb2a8e68:
 
     # b "But it's so nice of him to offer, I'm really grateful... "
 
-    b ""
+    b "Chociaż to naprawdę miło z jego strony, jestem mu bardzo wdzięczny... "
 
 
 
@@ -962,7 +966,7 @@ translate polish s10_02_sleep_floor_01_e1f92f87:
 
     # b "As heartwarming as his offer is, I have to decline. "
 
-    b ""
+    b "Tak czy inaczej, muszę odmówić- nieważne, jak wzruszająca jest jego propozycja. "
 
 
 
@@ -974,7 +978,7 @@ translate polish s10_02_sleep_floor_02_b80bda26:
 
     # avt "\"I'd rather not. What if Senpai comes home just to see his futon and all his stuff packed away...\" "
 
-    avt ""
+    avt "\"Wolałbym nie. Co jeśli Senpai wróci akurat, by zastać swoją pościel i rzeczy spakowane i odłożone w kącie...\" "
 
 
 
@@ -990,7 +994,7 @@ translate polish s10_02_sleep_floor_02_80e374f4:
 
     voice voice_file.tig(10,16)
 
-    tig frown ""
+    tig frown "\"...byłbym zdumiony, jeśli temu kociakowi byłoby przykro z powodu takiej błahostki.\" "
 
 
 
@@ -1004,6 +1008,8 @@ translate polish s10_02_sleep_floor_02_84082b2e:
 
     # b "But as long as I keep the floor clean I won't have any problems stepping over it. I'm not packing it up. "
 
+    b ""
+    
     b ""
 
 
