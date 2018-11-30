@@ -1902,7 +1902,7 @@ translate polish s10_04_help_9cdfe9a4:
 
     # avt "\"You can convince them?\" "
 
-    avt "\"Sądzisz, że możesz ich przekonać?\" "
+    avt "\"Sądzisz, że dasz radę ich przekonać?\" "
 
 
 
@@ -1918,7 +1918,7 @@ translate polish s10_04_help_1ddb910d:
 
     voice voice_file.lpdcat(10,7)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Tego nie wiem... ale będą spokojniejsi gdy będę w domu. Do takich spraw potrzeba czasu, więc...\" "
 
 
 
@@ -1934,7 +1934,7 @@ translate polish s10_04_help_3e80958a:
 
     voice voice_file.lpdcat(10,8)
 
-    lpdcat normal ""
+    lpdcat normal "\"Spakuję tylko swoje rzeczy i ruszam! Tylko się nie smuć Liao!\" "
 
 
 
@@ -1946,7 +1946,7 @@ translate polish s10_04_help_21eb6419:
 
     # avt "\"Yeah...\" "
 
-    avt ""
+    avt "\"Taaa...\" "
 
 
 
@@ -1962,7 +1962,7 @@ translate polish s10_04_help_32d3fec6:
 
     voice voice_file.lpdcat(10,9)
 
-    lpdcat normal ""
+    lpdcat normal "\"Dooobra— Jeszcze to... i tamto... nie mogę też zapomnieć o...\" "
 
 
 
@@ -1978,7 +1978,7 @@ translate polish s10_04_help_b32d0be0:
 
     voice voice_file.lpdcat(10,10)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Hmm? Liao, gdzie jest ta czapka, którą mi dałeś?\" "
 
 
 
@@ -1990,7 +1990,7 @@ translate polish s10_04_help_854f391d:
 
     # avt "\"Oh! Yeah I washed it for you. It's just in the wardrobe over here.\" "
 
-    avt ""
+    avt "\"Och, racja! Umyłem ją dla ciebie. Jest tutaj, w szafie.\" "
 
 
 
@@ -2002,7 +2002,7 @@ translate polish s10_04_help_ffdc89c4:
 
     # b "I take the husky hat out of the wardrobe and give it to Senpai. "
 
-    b ""
+    b "Wyjmuję czapkę husky z szafy i wręczam ją Senpai'owi. "
 
 
 
@@ -2018,7 +2018,7 @@ translate polish s10_04_help_39dc2cee:
 
     voice voice_file.lpdcat(10,11)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao ją dla mnie wyczyścił... hehe. Dziękuję.\" "
 
 
 
@@ -2030,7 +2030,7 @@ translate polish s10_04_help_91252472:
 
     # avt "\"It's no big deal. I was just cleaning up anyway...\" "
 
-    avt ""
+    avt "\"Żaden problem. I tak akurat robiłem porządki...\" "
 
 
 
@@ -2046,7 +2046,7 @@ translate polish s10_04_help_f94770cc:
 
     voice voice_file.lpdcat(10,12)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Heheh— Nic dziwnego że jest taka czyściutka!\" "
 
 
 
