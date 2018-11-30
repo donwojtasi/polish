@@ -2158,7 +2158,7 @@ translate polish s10_04_help_4bffa487:
 
     # b "Senpai gathers all his belongings from the corner, cramming them all into his backpack, before going to the bathroom and doing the same with his toiletries. "
 
-    b ""
+    b "Senpai zbiera swoje klamoty z kąta, upychając wszystko do plecaka, po czym udaje się do łazienki i robi to samo z kosmetyczką. "
 
 
 
@@ -2174,7 +2174,7 @@ translate polish cg_get_washed_hat_f9276dd2:
 
     voice voice_file.lpdcat(10,17)
 
-    lpdcat normal ""
+    lpdcat normal "\"Oki-doki, to chyba już wszystko, co nie?\" "
 
 
 
@@ -2190,7 +2190,7 @@ translate polish cg_get_washed_hat_89544965:
 
     voice voice_file.lpdcat(10,18)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"No nic, zbieram się! Do zobaczenia jutro na uczelni Liao!\" "
 
 
 
@@ -2202,7 +2202,7 @@ translate polish cg_get_washed_hat_bb2bb700:
 
     # avt "\"Senpai! Wait...\" "
 
-    avt ""
+    avt "\"Senpai! Zaczekaj...\" "
 
 
 
@@ -2214,7 +2214,7 @@ translate polish cg_get_washed_hat_1495722c:
 
     # b "I hesitate, but I decide to ask Senpai what's on my mind. "
 
-    b ""
+    b "Trochę się waham, ale decyduję się zapytać Senpai'a o coś co mi chodzi po głowie. "
 
 
 
@@ -2226,7 +2226,7 @@ translate polish cg_get_washed_hat_5c9ef800:
 
     # avt "\"So, if you're moving back home... how are you going to save your temple in Miaoli?\" "
 
-    avt ""
+    avt "\"Ale, jeśli wracasz do domu... to jak zamierzasz uratować swoją świątynię w Miaoli?\" "
 
 
 
@@ -2242,7 +2242,7 @@ translate polish cg_get_washed_hat_ca2f99c5:
 
     voice voice_file.lpdcat(10,19)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hmm? Jakoś to się ułoży. Przecież nie rozstajemy się na zawsze. Będę mieć sporo okazji by cię zobaczyć Liao! Poza tym...\" "
 
 
 
@@ -2258,7 +2258,7 @@ translate polish cg_get_washed_hat_1293f1ce:
 
     voice voice_file.lpdcat(10,20)
 
-    lpdcat cute ""
+    lpdcat cute "\"Problem byłby rozwiązany jeśli Liao poszedłby ze mną do Miaoli~ Liao, nie chciałbyś ze mną iść?\" "
 
 
 
@@ -2270,7 +2270,7 @@ translate polish cg_get_washed_hat_e381c548:
 
     # avt "\"Oh, umm...\" "
 
-    avt ""
+    avt "\"Och, umm...\" "
 
 
 
@@ -2286,7 +2286,7 @@ translate polish cg_get_washed_hat_81bf779b:
 
     voice voice_file.lpdcat(10,21)
 
-    lpdcat normal ""
+    lpdcat normal "\"W porządku. Liao wciąż się nie zdecydował, więc pytanie się o to nie ma teraz sensu. Będę już leciał, do zobaczenia!\" "
 
 
 
@@ -2298,7 +2298,7 @@ translate polish cg_get_washed_hat_5d8c7561:
 
     # avt "\"Yeah... Senpai, see you.\" "
 
-    avt ""
+    avt "\"Taa... Na razie Senpai.\" "
 
 
 
@@ -2314,7 +2314,7 @@ translate polish cg_get_washed_hat_1b55a7d2:
 
     voice voice_file.lpd(10,4)
 
-    lpd normal ""
+    lpd normal "\"Pa, Shu-Chi.\" "
 
 
 
