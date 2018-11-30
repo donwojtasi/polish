@@ -2062,7 +2062,7 @@ translate polish s10_04_help_0632d1b8:
 
     voice voice_file.lpdcat(10,13)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Moje rzeczy... Och... A co się stało z moim posłaniem?\" "
 
 
 
@@ -2074,7 +2074,7 @@ translate polish s10_04_help_41e52970:
 
     # avt "\"Ahh... Yeah, I packed it away while cleaning. It was easier with it out of the way...\" "
 
-    avt ""
+    avt "\"Ach... faktycznie- schowałem je podczas sprzątania. Ułatwiło to poruszanie się bez przeszkód...\" "
 
 
 
@@ -2090,7 +2090,7 @@ translate polish s10_04_help_6735b132:
 
     voice voice_file.lpdcat(10,14)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Rozumiem... No tak, ma to sens.\" "
 
 
 
@@ -2106,7 +2106,7 @@ translate polish s10_04_help_be742275:
 
     voice voice_file.lpdcat(10,15)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Moje rzeczy... Och... Schowałeś mój stolik?\" "
 
 
 
@@ -2118,7 +2118,7 @@ translate polish s10_04_help_cc722c5d:
 
     # b "Senpai motions towards the table folded up in the corner. "
 
-    b ""
+    b "Senpai wskazuje na stolik złożony w rogu. "
 
 
 
@@ -2130,7 +2130,7 @@ translate polish s10_04_help_f57c7e75:
 
     # avt "\"Ahh... Yeah, I put it to the side while cleaning. It made it easier to clean... \" "
 
-    avt ""
+    avt "\"Ach... Faktycznie- Odłożyłem go na bok podczas sprzątania. Ułatwiło to pracę... \" "
 
 
 
@@ -2146,7 +2146,7 @@ translate polish s10_04_help_6735b132_1:
 
     voice voice_file.lpdcat(10,16)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Rozumiem... No tak, ma to sens.\" "
 
 
 
