@@ -1722,7 +1722,7 @@ translate polish s10_03_6d48495f:
 
     # b "It was the last night of the Ching Ming holidays when Senpai finally returns to visit me. "
 
-    b ""
+    b "Było to w ostatnią noc Ching Ming, gdy Senpai wreszcie wpadł mnie odwiedzić. "
 
 
 
@@ -1734,7 +1734,7 @@ translate polish s10_04_help_da29e500:
 
     # avt "\"Senpai! You're back! How are you? Did your family hurt—\" " with flash
 
-    avt "" with flash
+    avt "\"Senpai! Wróciłeś! Co u ciebie? Czy miałeś problemy z rodziną—\" " with flash
 
 
 
@@ -1750,7 +1750,7 @@ translate polish s10_04_help_012dbc49:
 
     voice voice_file.lpdcat(10,1)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nie-nie! To w końcu moja rodzina. Może i się pokłóciliśmy, ale nic poważnego się nie stało. Po prostu...\" "
 
 
 
@@ -1766,7 +1766,7 @@ translate polish s10_04_help_5505166d:
 
     voice voice_file.lpdcat(10,2)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Atmosfera zrobiła się {i}dość{/i} \ niezręczna.\" "
 
 
 
@@ -1778,7 +1778,7 @@ translate polish s10_04_help_7b5237ce:
 
     # avt "\"...What do you mean?\" "
 
-    avt ""
+    avt "\"...Co masz na myśli?\" "
 
 
 
@@ -1796,7 +1796,9 @@ translate polish s10_04_help_1f33a285:
 
     voice voice_file.lpdcat(10,3)
 
-    lpdcat pout ""
+    lpdcat pout "\"Nie chcą, żebym z tobą mieszkał. Nie jestem pewien o co im chodzi...\" "
+    
+    lpdcat pout "\"Przecież nie żebyśmy przez cały czas robili tu jakieś sprośne rzeczy, ale najwyraźniej tak im się wydaje. Słuchanie tego wszystkiego nie było najprzyjemniejsze... i tak naprawdę nie mam żadnych argumentów, żeby z nimi dyskutować.\" "
 
 
 
@@ -1808,7 +1810,7 @@ translate polish s10_04_help_5114cb31:
 
     # avt "\"...So, does this mean you have to go back home?\" "
 
-    avt ""
+    avt "\"...Więc, to znaczy że musisz wrócić do domu?\" "
 
 
 
@@ -1824,7 +1826,7 @@ translate polish s10_04_help_024e283c:
 
     voice voice_file.lpdcat(10,4)
 
-    lpdcat serious ""
+    lpdcat serious "\"Tak... Sądzę że muszę. Nie powinienem się teraz wychylać.\" "
 
 
 
@@ -1836,7 +1838,7 @@ translate polish s10_04_help_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -1852,7 +1854,7 @@ translate polish s10_04_help_091162f9:
 
     voice voice_file.tig(10,18)
 
-    tig frown ""
+    tig frown "\"...Och. Czyżby kociak nas opuszczał? Świetnie.\" "
 
 
 
@@ -1870,7 +1872,9 @@ translate polish s10_04_help_718ed9f3:
 
     voice voice_file.lpdcat(10,5)
 
-    lpdcat pout ""
+    lpdcat pout "\"Nie udawaj takiego zachwyconego, staruszku!\" "
+    
+    lpdcat serious "\"...nie mogę zaakceptować tego, że mam tak po prostu stąd odejść.\" "
 
 
 
@@ -1886,7 +1890,7 @@ translate polish s10_04_help_2c1d5ad1:
 
     voice voice_file.lpdcat(10,6)
 
-    lpdcat serious ""
+    lpdcat serious "Ale na razie nie mam innego wyjścia... Mam nadzieję, że nie potrwa to długo. Muszę tylko ugadać rodzinę!\" "
 
 
 
@@ -1898,7 +1902,7 @@ translate polish s10_04_help_9cdfe9a4:
 
     # avt "\"You can convince them?\" "
 
-    avt ""
+    avt "\"Sądzisz, że możesz ich przekonać?\" "
 
 
 
