@@ -2682,7 +2682,7 @@ translate polish s10_04_dont_help_20e7e70b:
 
     # b "Senpai's gone over this before, but that doesn't change the fact that's taking a year or two off school... How could I even explain that to my family? "
 
-    b ""
+    b "Już przerabialiśmy ten temat, co nie zmienia faktu że oznacza to zrobienie rocznej, czy też nawet dwuletniej przerwy od studiów... Jak ja niby miałbym to wytłumaczyć rodzinie? "
 
 
 
@@ -2700,7 +2700,9 @@ translate polish s10_04_dont_help_5adebbe7:
 
     voice voice_file.lpdcat(10,33)
 
-    lpdcat serious ""
+    lpdcat serious "\"Wiem, ale nie mamy zbyt wielu innych opcji... \" "
+    
+    lpdcat serious "\"Pomyślałem że wrócę do tematu, żebyś mógł to jeszcze raz przemyśleć. Podjęcie decyzji będzie trudniejsze, im dłużej czekamy.\" "
 
 
 
@@ -2712,7 +2714,7 @@ translate polish s10_04_dont_help_fc991283:
 
     # b "Senpai finished speaking and just started to pack up his stuff. "
 
-    b ""
+    b "Senpai skończył wypowiedź i zabrał się do pakowania swoich rzeczy. "
 
 
 
@@ -2728,7 +2730,7 @@ translate polish s10_04_dont_help_b32d0be0:
 
     voice voice_file.lpdcat(10,10)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Hmm? Liao, gdzie jest ta czapka, którą mi dałeś?\" "
 
 
 
@@ -2740,7 +2742,7 @@ translate polish s10_04_dont_help_854f391d:
 
     # avt "\"Oh! Yeah I washed it for you. It's just in the wardrobe over here.\" "
 
-    avt ""
+    avt "\"Och, racja! Umyłem ją dla ciebie. Jest tutaj, w szafie.\" "
 
 
 
@@ -2752,7 +2754,7 @@ translate polish s10_04_dont_help_ffdc89c4:
 
     # b "I take the hat husky out of the wardrobe and give it to Senpai. "
 
-    b ""
+    b "Wyjmuję czapkę husky z szafy i wręczam ją Senpai'owi. "
 
 
 
@@ -2768,7 +2770,7 @@ translate polish s10_04_dont_help_39dc2cee:
 
     voice voice_file.lpdcat(10,11)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao ją dla mnie wyczyścił... hehe. Dziękuję.\" "
 
 
 
@@ -2780,7 +2782,7 @@ translate polish s10_04_dont_help_91252472:
 
     # avt "\"It's no big deal. I was just spring cleaning anyway...\" "
 
-    avt ""
+    avt "\"Żaden problem. I tak akurat robiłem porządki...\" "
 
 
 
@@ -2796,7 +2798,7 @@ translate polish s10_04_dont_help_f94770cc:
 
     voice voice_file.lpdcat(10,12)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Heheh— Nic dziwnego że jest taka czyściutka!\" "
 
 
 
@@ -2812,7 +2814,7 @@ translate polish s10_04_dont_help_0632d1b8:
 
     voice voice_file.lpdcat(10,13)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Moje rzeczy... Och... A co się stało z moim posłaniem?\" "
 
 
 
@@ -2824,7 +2826,7 @@ translate polish s10_04_dont_help_41e52970:
 
     # avt "\"Ahh... Yeah, I packed it away while cleaning. It made it easier to clean...\" "
 
-    avt ""
+    avt "\"Ach... faktycznie- schowałem je podczas sprzątania. Ułatwiło to poruszanie się bez przeszkód...\" "
 
 
 
@@ -2840,7 +2842,7 @@ translate polish s10_04_dont_help_6735b132:
 
     voice voice_file.lpdcat(10,14)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Rozumiem... No tak, ma to sens.\" "
 
 
 
@@ -2856,7 +2858,7 @@ translate polish s10_04_dont_help_be742275:
 
     voice voice_file.lpdcat(10,15)
 
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Moje rzeczy... Och... Schowałeś mój stolik?\" "
 
 
 
@@ -2868,7 +2870,7 @@ translate polish s10_04_dont_help_cc722c5d:
 
     # b "Senpai motions towards the table folded up in the corner. "
 
-    b ""
+    b "Senpai wskazuje na stolik złożony w rogu. "
 
 
 
@@ -2880,7 +2882,7 @@ translate polish s10_04_dont_help_f57c7e75:
 
     # avt "\"Ahh... Yeah, I put it to the side while cleaning. It made it easier to clean... \" "
 
-    avt ""
+    avt "\"Ach... Faktycznie- Odłożyłem go na bok podczas sprzątania. Ułatwiło to pracę... \" "
 
 
 
@@ -2896,7 +2898,7 @@ translate polish s10_04_dont_help_6735b132_1:
 
     voice voice_file.lpdcat(10,16)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Rozumiem... No tak, ma to sens.\" "
 
 
 
@@ -2908,7 +2910,7 @@ translate polish s10_04_dont_help_85119766:
 
     # b "Senpai doesn't really have much stuff here. He puts away the folding table and gathers all his belongings from the corner, cramming them all into his backpack, before going to the bathroom and doing the same with his toiletries. "
 
-    b ""
+    b "Senpai nie ma stąd wiele do zabrania. Odkłada stolik i zbiera swoje klamoty z kąta, upychając wszystko do plecaka, po czym udaje się do łazienki i robi to samo z kosmetyczką. "
 
 
 
@@ -2926,7 +2928,9 @@ translate polish s10_04_dont_help_e6f47faa:
 
     voice voice_file.lpdcat(10,34)
 
-    lpdcat laugh ""
+    lpdcat laugh "No nic, to by było na tyle. Liao- pamiętaj, daj mi znać gdy się już zdecydujesz.\" "
+    
+    lpdcat laugh "Tak czy siak, do zobaczenia jutro~ \" "
 
 
 
@@ -2938,7 +2942,7 @@ translate polish s10_04_dont_help_7b6349e7:
 
     # avt "\"Yeah...\" "
 
-    avt ""
+    avt "\"Taaa...\" "
 
 
 
@@ -2950,7 +2954,7 @@ translate polish s10_04_dont_help_bcd67b25:
 
     # b "And just like that, Senpai leaves my room, carrying everything he owns with him. "
 
-    b ""
+    b "I tak oto Senpai opuszcza mój pokój, wynosząc ze sobą wszystko co posiada. "
 
 
 
