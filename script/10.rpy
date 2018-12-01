@@ -2488,9 +2488,9 @@ translate polish s10_04_dont_help_4207c322:
 
     voice voice_file.lpdcat(10,26)
 
-    lpdcat pout ""
+    lpdcat pout "\"Nie potrafią zaakceptować, że uciekam z domu by mieszkać u kogoś innego... ale to moje ciało i nic im do tego.\" "
     
-    lpdcat pout ""
+    lpdcat pout "\"...Mówię to z punktu widzenia Yan Shu-Chi'ego. Jest naprawdę zdenerwowany tą całą sytuacją.\" "
 
 
 
@@ -2508,7 +2508,9 @@ translate polish s10_04_dont_help_3ecfc146:
 
     voice voice_file.lpdcat(10,27)
 
-    lpdcat serious ""
+    lpdcat serious "\"Tak czy inaczej, w tej chwili nie do końca mogę nalegać, by tu zostać. \" "
+    
+    lpdcat serious "\"Więc dzisiaj jestem tu tylko po swoje rzeczy. Rodzina chce, bym wrócił do swojego pokoju.\" "
 
 
 
@@ -2520,7 +2522,7 @@ translate polish s10_04_dont_help_abc3f037:
 
     # avt "\"But... Senpai, didn't you still want me to help you...\" "
 
-    avt ""
+    avt "\"Ale... Senpai, czy przypadkiem nie chciałeś żebym ci pomógł...\" "
 
 
 
@@ -2532,7 +2534,7 @@ translate polish s10_04_dont_help_0a145a02:
 
     # b "Senpai came to live with me in the first place so he could convince me to rejuvenate his temple. What's going to happen with that now? "
 
-    b ""
+    b "W końcu zaczęło się od tego, że Senpai przyszedł przekonywać mnie do pomocy w odnowieniu jego świątyni. I co teraz? "
 
 
 
@@ -2548,7 +2550,7 @@ translate polish s10_04_dont_help_7d8d3771:
 
     voice voice_file.lpdcat(10,28)
 
-    lpdcat normal ""
+    lpdcat normal "\"Żaden problem. Przecież nadal będziemy się widywać, mimo że nie będę tu mieszkać. W końcu chodzimy do tej samej uczelni!\" "
 
 
 
@@ -2560,7 +2562,7 @@ translate polish s10_04_dont_help_77d16fc3:
 
     # avt "\"...Is it really no problem?\" "
 
-    avt ""
+    avt "\"...Naprawdę tak sądzisz?\" "
 
 
 
@@ -2576,7 +2578,7 @@ translate polish s10_04_dont_help_9c9160cd:
 
     voice voice_file.lpdcat(10,29)
 
-    lpdcat pout ""
+    lpdcat pout "\"Cóż, nie miałoby to znaczenia gdyby Liao zgodził się mi pomóc w odbudowie świątyni!\" "
 
 
 
@@ -2588,7 +2590,7 @@ translate polish s10_04_dont_help_48765b79:
 
     # avt "\"Seriously Senpai!\" "
 
-    avt ""
+    avt "\"Serio Senpai!\" "
 
 
 
@@ -2606,7 +2608,9 @@ translate polish s10_04_dont_help_9e7256c1:
 
     voice voice_file.lpdcat(10,30)
 
-    lpdcat normal ""
+    lpdcat normal "\"Mówię całkiem serio. Ale nie chciałbym naciskać.\" "
+    
+    lpdcat normal "\"Choć tak naprawdę jestem w dość niekorzystnej sytuacji... pod każdym możliwym względem.\" "
 
 
 
@@ -2622,7 +2626,7 @@ translate polish s10_04_dont_help_5c869b2f:
 
     voice voice_file.lpdcat(10,31)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ale to nie znaczy że się poddaję! To w końcu jest sprawa życia i śmierci. Czy mógłbyś, {i}proszę{/i}, to przemyśleć Liao?\" "
 
 
 
@@ -2634,7 +2638,7 @@ translate polish s10_04_dont_help_43a0bfd2:
 
     # avt "\"What do you mean?\" "
 
-    avt ""
+    avt "\"Co masz na myśli?\" "
 
 
 
@@ -2652,7 +2656,9 @@ translate polish s10_04_dont_help_43aed137:
 
     voice voice_file.lpdcat(10,32)
 
-    lpdcat normal ""
+    lpdcat normal "\"No wiesz, musisz się zastanowić nad wieloma rzeczami. Jak choćby zrobienie przerwy w studiowaniu, znalezienie miejsca do zamieszkania w Miaoli, po czym zarabianie na życie. Ale postaram się pomóc ci najlepiej jak umiem. Coś wymyślę.\" "
+    
+    lpdcat normal "\"Chciałbym tylko, żebyś się zdecydował- jeśli to możliwe.\" "
 
 
 
@@ -2664,7 +2670,7 @@ translate polish s10_04_dont_help_111c8178:
 
     # avt "\"But, even if you say you're going to help Senpai... It's all so sudden to decide now...\" "
 
-    avt ""
+    avt "\"Tylko, nawet jeśli mówisz że mi pomożesz Senpai... Nie mogę podejmować takiej decyzji na poczekaniu...\" "
 
 
 
