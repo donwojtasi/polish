@@ -2966,7 +2966,7 @@ translate polish s10_05_1c233dfc:
 
     # b "Even though he said that I'd see him tomorrow, it's hard to see him leave like this. I've gotten used to him in my life the past month... and now it feels like it's all gone. "
 
-    b ""
+    b "Pomimo tego że mówił, że jutro się zobaczymy, patrzenie jak odchodzi nie przychodzi mi łatwo. Zdążyłem się przyzwyczaić do jego obecności w moim życiu przez ostatni miesiąc ...a teraz czuję się jakby to wszystko przeminęło. "
 
 
 
@@ -2982,7 +2982,8 @@ translate polish s10_05_ac48a2a5:
 
     voice voice_file.tig(10,20)
 
-    tig lift ""
+    tig lift "\"Nie sądziłem że ten kociak potrafi być taki rozsądny- nawet nie zrobił żadnej sceny przed wyjściem. \" "
+
 
 
 
@@ -2998,7 +2999,7 @@ translate polish s10_05_47c6c479:
 
     voice voice_file.lpd(10,5)
 
-    lpd obsessed ""
+    lpd obsessed "\"Shu-Chi... nieszczęśliwy.\" "
 
 
 
@@ -3010,7 +3011,7 @@ translate polish s10_05_81a5329c:
 
     # b "He wasn't happy? I know Senpai didn't really want to leave, but we both saw this coming didn't we... " with flash
 
-    b "" with flash
+    b "Nieszczęśliwy? Wiem, że Senpai nie chciał odchodzić, ale to było do przewidzenia... " with flash
 
 
 
@@ -3022,7 +3023,7 @@ translate polish s10_05_fa4e018f:
 
     # b "Senpai... How did things end up like this? "
 
-    b ""
+    b "Senpai... Dlaczego to się skończyło w ten sposób? "
 
 
 
