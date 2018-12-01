@@ -2330,7 +2330,7 @@ translate polish cg_get_washed_hat_195b58df:
 
     voice voice_file.tig(10,19)
 
-    tig frown ""
+    tig frown "*hmmpf* "
 
 
 
@@ -2342,7 +2342,7 @@ translate polish cg_get_washed_hat_b2a00f16:
 
     # b "And just like that, Senpai leaves my room, carrying everything he owns with him. "
 
-    b ""
+    b "I tak oto Senpai opuszcza mój pokój, wynosząc ze sobą wszystko co posiada. "
 
 
 
@@ -2354,7 +2354,7 @@ translate polish s10_04_dont_help_c123662a:
 
     # avt "\"Senpai! Where have you been?!\" " with flash
 
-    avt "" with flash
+    avt "\"Senpai! Gdzieżeś się podziewał?!\" " with flash" with flash
 
 
 
@@ -2370,7 +2370,7 @@ translate polish s10_04_dont_help_2c349f4d:
 
     voice voice_file.lpdcat(10,22)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Początkowo chciałem tylko zabrać z domu parę rzeczy, ale rodzina mnie uziemiła... Wybacz Liao.\" "
 
 
 
@@ -2382,7 +2382,7 @@ translate polish s10_04_dont_help_d9d00639:
 
     # avt "\"Okay, going home is fine, but why didn't you contact me at all? You didn't answer my calls! I was so worried!\" "
 
-    avt ""
+    avt "\"Jasne, powrót do domu jest czymś normalnym, Ale dlaczego urwał się z tobą kontakt? W ogóle nie odbierałeś telefonu! Zacząłem się martwić!\" "
 
 
 
@@ -2398,7 +2398,7 @@ translate polish s10_04_dont_help_07d8e6b0:
 
     voice voice_file.lpdcat(10,23)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao się o mnie martwił? Heheh— miło mi to słyszeć!\" "
 
 
 
@@ -2410,7 +2410,7 @@ translate polish s10_04_dont_help_c31ecba7:
 
     # avt "\"Anyone would be worried about someone who just disappeared like that! You could have at least let me know!\" "
 
-    avt ""
+    avt "\"Każdy by się martwił o osobę która nagle po prostu znika! Mogłeś mi chociaż dać znać!\" "
 
 
 
@@ -2426,7 +2426,7 @@ translate polish s10_04_dont_help_9842cda8:
 
     voice voice_file.lpdcat(10,24)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nie mogłem. Zabrano mi telefon i odcięto połączenie z internetem. Nie byłem w stanie skontaktować się z kimkolwiek...\" "
 
 
 
@@ -2438,7 +2438,7 @@ translate polish s10_04_dont_help_e333d2d5:
 
     # avt "\"...Is your family always that strict?\" " with vshake
 
-    avt "" with vshake
+    avt "\"...Czy twoja rodzina zawsze jest taka rygorystyczna?\" " with vshake
 
 
 
@@ -2456,7 +2456,9 @@ translate polish s10_04_dont_help_b00e673e:
 
     voice voice_file.lpdcat(10,25)
 
-    lpdcat serious ""
+    lpdcat serious "\"Cóż, tym razem byli wyjątkowo twardzi. No wiesz, to dlatego że nie akceptują mojej orientacji.\" "
+    
+    lpdcat serious "\"Kilka razy próbowałem o tym dyskutować, ale bez skutku. No i później dowiedzieli się że z tobą mieszkałem... Więc tak to wygląda.\" "
 
 
 
@@ -2468,7 +2470,7 @@ translate polish s10_04_dont_help_1490da45:
 
     # avt "\"Because... you've been staying with me?\" " with hshake
 
-    avt "" with hshake
+    avt "\"Dlatego... że u mnie mieszkałeś?\" " with hshake
 
 
 
@@ -2486,6 +2488,8 @@ translate polish s10_04_dont_help_4207c322:
 
     voice voice_file.lpdcat(10,26)
 
+    lpdcat pout ""
+    
     lpdcat pout ""
 
 
