@@ -3011,7 +3011,7 @@ translate polish s10_05_81a5329c:
 
     # b "He wasn't happy? I know Senpai didn't really want to leave, but we both saw this coming didn't we... " with flash
 
-    b "Nieszczęśliwy? Wiem, że Senpai nie chciał odchodzić, ale to było do przewidzenia... " with flash
+    b "Nieszczęśliwy? Wiem, że Senpai tak naprawdę nie chciał odchodzić, ale to było do przewidzenia... " with flash
 
 
 
@@ -3035,7 +3035,7 @@ translate polish s10_06_tig_637b33dc:
 
     # avt "\"Hey, Tiger.\" "
 
-    avt ""
+    avt "\"Hej, Tygrysie.\" "
 
 
 
@@ -3055,7 +3055,11 @@ translate polish s10_06_tig_fa870a10:
 
     voice voice_file.tig(10,21)
 
-    tig frown ""
+    tig frown "\"Wiem co chciałbyś powiedzieć. Pragnie odejść i jest to rozsądna decyzja.\" "
+    
+    tig frown "\"Zachęcanie go do pozostania tylko przysparzałoby wam obu kłopotów. Do tego jak sam powiedział- nic nie stoi wam na przeszkodzie, by się nadal spotykać.\" "
+    
+    tig frown "\"Koniec końców to lepszy rezultat.\" "
 
 
 
@@ -3067,7 +3071,7 @@ translate polish s10_06_tig_1b1b54f4:
 
     # avt "\"Sure, that's true, but he's only leaving because of his family. He's not leaving because {i}he{/i} \ wants to. Should we really let him go like this?\" "
 
-    avt ""
+    avt "\"Niby masz rację, ale odchodzi jedynie ze względu na swoją rodzinę. Nie ponieważ {i}on{/i} \ tego chce. Czy powinniśmy mu tak po prostu pozwolić odejść?\" "
 
 
 
@@ -3083,7 +3087,7 @@ translate polish s10_06_tig_e577defc:
 
     voice voice_file.tig(10,22)
 
-    tig frown ""
+    tig frown "\"A co niby chciałbyś zrobić w tej sytuacji? Błagać jego rodzinę, by pozwoliła mu zostać? Wątpię by się tym przejęli.\" "
 
 
 
@@ -3095,7 +3099,7 @@ translate polish s10_06_tig_2992929b:
 
     # avt "\"That would only make things worse.\" "
 
-    avt ""
+    avt "\"To by tylko pogorszyło sprawę.\" "
 
 
 
@@ -3115,7 +3119,11 @@ translate polish s10_06_tig_59c81811:
 
     voice voice_file.tig(10,23)
 
-    tig normal ""
+    tig normal "\"Właśnie. Jak niby {i}ty{/i} miałbyś go zatrzymać? Ta kwestia pozostaje do rozwiązania jego rodzinie.\" "
+    
+    tig normal "\"Nawet sędziowie miewają problemy z rozwiązywaniem takich sporów- to samo można powiedzieć o bogach.\" "
+    
+    tig normal "\"Ta sprawa jest ponad możliwości samej Bogini Mazu. Powinieneś zostawić ją w spokoju.\" "
 
 
 
@@ -3127,7 +3135,7 @@ translate polish s10_06_tig_bfb6a7c6:
 
     # avt "\"It's just... hard to accept...\" "
 
-    avt ""
+    avt "\"Tylko to jest... trudne do zaakceptowania...\" "
 
 
 
@@ -3143,7 +3151,7 @@ translate polish s10_06_tig_8ee8857e:
 
     voice voice_file.tig(10,24)
 
-    tig disappointed ""
+    tig disappointed "\"Przecież to właśnie ty chciałeś by odszedł.\" "
 
 
 
@@ -3155,7 +3163,7 @@ translate polish s10_06_tig_36f94f1e:
 
     # avt "\"I changed my mind! It's not like I wanted him to leave like this...\" "
 
-    avt ""
+    avt "\"Zmieniłem zdanie! Nie chciałem żeby to tak wyglądało...\" "
 
 
 
@@ -3175,7 +3183,11 @@ translate polish s10_06_tig_3b406339:
 
     voice voice_file.tig(10,25)
 
-    tig frown ""
+    tig frown "\"Then what do you want? To happily have him around even though you {i}know{/i} \ you can't promise to go to Miaoli with him?\" "
+    
+    tig frown "\"Right now you are ruled by the passions of your heart, but then what? This may as well be the best opportunity to say no to him.\" "
+    
+    tig frown "\"If you feel guilty about it, just imagine that I kicked him out. Would that be fine with you?\" "
 
 
 
