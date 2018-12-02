@@ -3325,9 +3325,9 @@ translate polish s10_06_tig_74973ba8:
 
     # b "I can't help but think what would have happened if I just asked Senpai to leave straight off the bat. I would have avoided so much trouble for the both of us..."
 
-    b ""
+    b "Zawinięty w ciepłą pościel, nie mając nic lepszego do roboty jak leżeć tutaj samotnie... "
     
-    b ""
+    b "Nie moge przestać myśleć o tym, jak sprawy potoczyłyby się, gdybym po prostu od razu kazał Senpai'owi odejść. Oszczędziłbym nam obu tylu kłopotów..."
 
 
 
@@ -3339,7 +3339,7 @@ translate polish s10_06_tig_ffba9e99:
 
     # b "But after all the time we've spent together, can I {i}really{/i} \ just say that I want to throw it all away. That I would have been better off if he didn't become a part of my life? "
 
-    b ""
+    b "Ale po tym całym spędzonym wspólnie czasie, czy {i}naprawdę{/i} \ mogę powiedzieć, że chciałbym to wszystko odrzucić? Że lepiej byłoby, gdyby nigdy nie stał się częścią mojego życia? "
 
 
 
@@ -3351,7 +3351,7 @@ translate polish s10_06_lpd_bcff1715:
 
     # b "I crawl onto the bed and bury my face into a pillow, pressing it tightly against my face. " with vshake
 
-    b "" with vshake
+    b "Przewracam się na drugi bok i zanurzam twarz w poduszce, kurczowo przyciskając ją do siebie. " with vshake
 
 
 
@@ -3367,7 +3367,7 @@ translate polish s10_06_lpd_cce3ed02:
 
     voice voice_file.lpd(10,6)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao, nieszczęśliwy?\" "
 
 
 
@@ -3379,7 +3379,7 @@ translate polish s10_06_lpd_f661eec4:
 
     # avt "\"Hmm... yeah. I... I'm just trying to work out how I feel about Senpai leaving...\" "
 
-    avt ""
+    avt "\"Hmm... tak. Ja... staram się jedynie zrozumieć, co tak naprawdę sądzę o odejściu Senpai'a...\" "
 
 
 
@@ -3395,7 +3395,7 @@ translate polish s10_06_lpd_c21cc398:
 
     voice voice_file.lpd(10,7)
 
-    lpd obsessed ""
+    lpd obsessed "\"Zawołam go, dla Liao?\" "
 
 
 
@@ -3407,7 +3407,7 @@ translate polish s10_06_lpd_d9bdd435:
 
     # avt "\"Oh... no. It's not that easy. He didn't want to leave...\" "
 
-    avt ""
+    avt "\"Och... nie. To nie takie proste. W końcu nie chciał odchodzić...\" "
 
 
 
@@ -3423,7 +3423,7 @@ translate polish s10_06_lpd_b7c5b56b:
 
     voice voice_file.lpd(10,8)
 
-    lpd obsessed ""
+    lpd obsessed "\"Czemu? Nie chce odejść- zostanie.\" "
 
 
 
@@ -3435,7 +3435,7 @@ translate polish s10_06_lpd_530d9c54:
 
     # avt "\"It's not his choice. He has a family who expects a lot of things from him... I'm the \nsame.\" "
 
-    avt ""
+    avt "\"Nie może o tym decydować. Ma rodzinę, która ma wobec niego wiele wymagań... Tak jak i ja.\" "
 
 
 
@@ -3451,7 +3451,7 @@ translate polish s10_06_lpd_28ea54a3:
 
     voice voice_file.lpd(10,9)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nie rozumiem.\" "
 
 
 
@@ -3465,7 +3465,9 @@ translate polish s10_06_lpd_3480f46f:
 
     # avt "\"You don't always do it because you {i}actually{/i} \ have no other choice. Sometimes you just care about that person, or they're integral to your life, like family. \" "
 
-    avt ""
+    avt "\"To nie takie proste do wytłumaczenia... Zawsze znajdzie się ktoś, kto myśli że wie, co jest dla ciebie najlepsze. I czasem musisz się poddać jego oczekiwaniom... nawet jeśli tego nie chcesz.\" "
+    
+    avt "\"Mimo że {i}nie zawsze{/i} \ nie masz innego wyjścia. Po prostu czasem zależy ci na tej osobie- albo jest ona nieodzowną częścią twojego życia, tak jak rodzina. \" "
 
 
 
@@ -3481,7 +3483,7 @@ translate polish s10_06_lpd_b88dfb29:
 
     voice voice_file.lpd(10,10)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Nie rozumiem.\" "
 
 
 
@@ -3493,7 +3495,7 @@ translate polish s10_06_lpd_66a7a2a3:
 
     # avt "\"Sorry... This is probably too much for you to understand... it's okay though.\" "
 
-    avt ""
+    avt "\"Wybacz... To chyba dla ciebie zbyt wiele... ale nic nie szkodzi.\" "
 
 
 
@@ -3505,7 +3507,7 @@ translate polish s10_06_lpd_fcfa2e74:
 
     # b "I pull back my quilt and roll up into my bed. " with hshake
 
-    b "" with hshake
+    b "Podwijam kołdrę i przewracam się na drugi bok. " with hshake
 
 
 
@@ -3517,7 +3519,7 @@ translate polish s10_06_lpd_bb575f4a:
 
     # lpd obsessed "\"?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"?\" "
 
 
 
@@ -3529,7 +3531,7 @@ translate polish s10_06_lpd_661147f0:
 
     # avt "\"I'm upset! I'm really upset!\" " with flash
 
-    avt "" with flash
+    avt "\"Jest mi źle! Naprawdę źle!\" " with flash
 
 
 
@@ -3543,6 +3545,8 @@ translate polish s10_06_lpd_dc3c9e2a:
 
     # b "I kept thinking about Senpai walking away... One day my family could just up and decide to force me to go back home, then I'd have to give up everything, no matter what... "
 
+    b ""
+    
     b ""
 
 
@@ -3569,6 +3573,8 @@ translate polish s10_06_lpd_978200fe:
 
     # b "Urrgh- My head hurts... "
 
+    b ""
+    
     b ""
 
 
@@ -3609,6 +3615,10 @@ translate polish s10_06_none_e535bfa4:
 
     # b "What if one day my family just up and decides to force me to go back home, then I'd have to give up everything, no matter what... "
 
+    b ""
+    
+    b ""
+    
     b ""
 
 
