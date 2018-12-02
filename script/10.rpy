@@ -3163,7 +3163,7 @@ translate polish s10_06_tig_36f94f1e:
 
     # avt "\"I changed my mind! It's not like I wanted him to leave like this...\" "
 
-    avt "\"Zmieniłem zdanie! Nie chciałem żeby to tak wyglądało...\" "
+    avt "\"Zmieniłem zdanie! Nie sądziłem że to będzie tak wyglądać...\" "
 
 
 
@@ -3183,11 +3183,11 @@ translate polish s10_06_tig_3b406339:
 
     voice voice_file.tig(10,25)
 
-    tig frown "\"Then what do you want? To happily have him around even though you {i}know{/i} \ you can't promise to go to Miaoli with him?\" "
+    tig frown "\"Co byś w takim razie wolał? Radośnie go przy sobie trzymać, {i}wiedząc{/i} \ że nie możesz mu obiecać wspólnej podróży do Miaoli?\" "
     
-    tig frown "\"Right now you are ruled by the passions of your heart, but then what? This may as well be the best opportunity to say no to him.\" "
+    tig frown "\"W tej chwili pozwalasz się targać namiętnościom i emocjom, ale co potem? ...To może być właśnie dobra okazja, by mu ostatecznie odmówić.\" "
     
-    tig frown "\"If you feel guilty about it, just imagine that I kicked him out. Would that be fine with you?\" "
+    tig frown "\"Jeśli będziesz się z tym źle czuć- po prostu wyobraź sobie, że to ja go stąd wyrzuciłem. Może być?\" "
 
 
 
@@ -3199,7 +3199,7 @@ translate polish s10_06_tig_1840c2b3:
 
     # avt "\"You have nothing to do with it.\" "
 
-    avt ""
+    avt "\"Nie masz z tym nic wspólnego.\" "
 
 
 
@@ -3215,7 +3215,7 @@ translate polish s10_06_tig_d17e0d3e:
 
     voice voice_file.tig(10,26)
 
-    tig frown ""
+    tig frown "\"Dlatego powiedziałem, żebyś to sobie wyobraził. Odpuść- i daj mu odejść. Natomiast jeśli nadal będziesz żałować tej decyzji... możesz po prostu obwinić o {i}wszystko{/i} \ mnie. Rozumiesz?\" "
 
 
 
@@ -3227,7 +3227,7 @@ translate polish s10_06_tig_870097e1:
 
     # avt "\"How could I... do that...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Jak mógłbym... zrobić coś takiego...\" " with vshake
 
 
 
@@ -3243,7 +3243,7 @@ translate polish s10_06_tig_c19f32e7:
 
     voice voice_file.tig(10,27)
 
-    tig disappointed ""
+    tig disappointed "*wzdycha* "
 
 
 
@@ -3259,7 +3259,7 @@ translate polish s10_06_tig_9d4dd610:
 
     voice voice_file.tig(10,28)
 
-    tig frown ""
+    tig frown "\"Liao, czy wiesz jak przykre jest obserwowanie twojego braku zdecydowania?\" "
 
 
 
@@ -3271,7 +3271,7 @@ translate polish s10_06_tig_3239c1bc:
 
     # avt "\"...I know.\" "
 
-    avt ""
+    avt "\"...wiem.\" "
 
 
 
@@ -3287,7 +3287,7 @@ translate polish s10_06_tig_c6defe1b:
 
     voice voice_file.tig(10,29)
 
-    tig frown ""
+    tig frown "\"Chociaż tyle. W każdym razie, jeżeli jest jeszcze coś co chciałbyś mu powiedzieć, możesz to zrobić osobiście jutro.\" "
 
 
 
@@ -3299,7 +3299,7 @@ translate polish s10_06_tig_2dd7fb8d:
 
     # avt "\"...Yeah.\" "
 
-    avt ""
+    avt "\"...Jasne.\" "
 
 
 
@@ -3311,7 +3311,7 @@ translate polish s10_06_tig_20cdf3e7:
 
     # b "I head to bed, nestle myself into a ball under the quilt and close my eyes. It's early and I can't sleep, but I feel like it's the only thing I can do right now. "
 
-    b ""
+    b "Udaję się do łóżka, zwijam w kłębek pod kołdrą i zamykam oczy. Jest za wcześnie, żebym od tak zasnął- ale nie mam lepszego pomysłu, co mógłbym w tej chwili robić. "
 
 
 
@@ -3325,6 +3325,8 @@ translate polish s10_06_tig_74973ba8:
 
     # b "I can't help but think what would have happened if I just asked Senpai to leave straight off the bat. I would have avoided so much trouble for the both of us..."
 
+    b ""
+    
     b ""
 
 
