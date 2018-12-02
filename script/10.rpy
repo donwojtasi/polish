@@ -3545,9 +3545,9 @@ translate polish s10_06_lpd_dc3c9e2a:
 
     # b "I kept thinking about Senpai walking away... One day my family could just up and decide to force me to go back home, then I'd have to give up everything, no matter what... "
 
-    b ""
+    b "Wrzasnąłem sfrustrowany- z pościelą owiniętą wokół twarzy, tłumiącą dźwięk. "
     
-    b ""
+    b "Ciągle myślałem o odejściu Senpai'a... Któregoś razu moja własna rodzina mogłaby zmusić mnie do powrotu do domu- I musiałbym wtedy rzucić wszystko, niezależnie ode mnie... "
 
 
 
@@ -3559,7 +3559,7 @@ translate polish s10_06_lpd_6c75b865:
 
     # b "I sit there brooding in my bed, knowing full well I still have heaps of things I could look over for mid-terms... but that doesn't matter to me right now... "
 
-    b ""
+    b "Leżę tak sobie w łóżku i rozmyślam, pomimo że jestem świadom setek tematów, które mógłbym zacząć powtarzać przed egzaminami... ale nic mnie to teraz nie obchodzi... "
 
 
 
@@ -3573,9 +3573,9 @@ translate polish s10_06_lpd_978200fe:
 
     # b "Urrgh- My head hurts... "
 
-    b ""
+    b "Dlaczego to wszystko musi się dziać naraz! "
     
-    b ""
+    b "Uhhh- Boli mnie głowa... "
 
 
 
@@ -3587,7 +3587,7 @@ translate polish s10_06_lpd_cb9cc2cc:
 
     # b "I bury myself under my blankets as far as I can. For now, just... trying to forget everything... "
 
-    b ""
+    b "Chowam się pod kołdrą tak głęboko jak to tylko możliwe. Na razie po prostu... muszę zapomnieć o tym wszystkim... "
 
 
 
@@ -3599,7 +3599,7 @@ translate polish s10_06_none_74c19d14:
 
     # b "Think about it. This is Senpai's problem, what could anyone else do to help him now? "
 
-    b ""
+    b "Zastanów się nad tym. Ten problem należy do Senpai'a- w jaki niby sposób ktokolwiek mógłby mu teraz pomóc? "
 
 
 
@@ -3615,11 +3615,11 @@ translate polish s10_06_none_e535bfa4:
 
     # b "What if one day my family just up and decides to force me to go back home, then I'd have to give up everything, no matter what... "
 
-    b ""
+    b "Przyzwyczaiłem się do obecności Senpai'a... a teraz zdaje się, jak gdyby nigdy go tu nie było... "
     
-    b ""
+    b "Z jakiegoś powodu ta myśl wywołuje u mnie skręty żołądka... "
     
-    b ""
+    b "A co jeśli któregoś razu moja własna rodzina zmusi mnie do powrotu do domu... musiałbym wtedy rzucić wszystko, niezależnie ode mnie... "
 
 
 
@@ -3631,7 +3631,7 @@ translate polish s10_06_none_f856967e:
 
     # b "Why... why is this all happening to me... "
 
-    b ""
+    b "Dlaczego... dlaczego to wszystko mi się przytrafia... "
 
 
 
@@ -3643,7 +3643,7 @@ translate polish s10_06_none_43ef3cdd:
 
     # b "I lie down in my bed, burying myself under my blankets as far as I can. For now, just... trying to forget everything... "
 
-    b ""
+    b "Chowam się pod kołdrą tak głęboko jak to tylko możliwe. Na razie po prostu... muszę zapomnieć o tym wszystkim... "
 
 
 
@@ -3655,7 +3655,7 @@ translate polish strings:
 
     old "要不要幫學長洗帽子？"
 
-    new ""
+    new "\"Czy powinienem umyć czapkę husky dla Senpai'a?\" "
 
 
 
@@ -3663,7 +3663,7 @@ translate polish strings:
 
     old "要。"
 
-    new ""
+    new "Pewnie, skoro i tak robię porządki."
 
 
 
@@ -3671,7 +3671,7 @@ translate polish strings:
 
     old "不要。"
 
-    new ""
+    new "Nie, ruszanie jej wydaje się nie w porządku."
 
 
 
@@ -3679,7 +3679,7 @@ translate polish strings:
 
     old "是否要收起地鋪？"
 
-    new ""
+    new "\"Czy powinienem schować posłanie Senpai'a?\" "
 
 
 
@@ -3687,7 +3687,7 @@ translate polish strings:
 
     old "收起來。"
 
-    new ""
+    new "Tak, schowam je. I tak nie będzie go teraz używać."
 
 
 
@@ -3695,7 +3695,7 @@ translate polish strings:
 
     old "不要收。"
 
-    new ""
+    new "Nie, to się wydaje nie w porządku."
 
 
 
@@ -3703,7 +3703,7 @@ translate polish strings:
 
     old "是否要收起折疊桌？"
 
-    new ""
+    new "\"Czy powinienem schować składany stolik?\" "
 
 
 
@@ -3711,7 +3711,7 @@ translate polish strings:
 
     old "收起來"
 
-    new ""
+    new "Schowam go. I tak nie będzie go teraz używać."
 
 
 
@@ -3719,7 +3719,7 @@ translate polish strings:
 
     old "不要收"
 
-    new ""
+    new "Nie, to się wydaje nie w porządku."
 
 
 
@@ -3727,7 +3727,7 @@ translate polish strings:
 
     old "學長的事情，要和另外兩隻大貓聊聊嗎？"
 
-    new ""
+    new "Senpai... Czy powinienem z nimi o tym porozmawiać?"
 
 
 
@@ -3735,7 +3735,7 @@ translate polish strings:
 
     old "和虎爺聊聊"
 
-    new ""
+    new "Porozmawiaj o tym z Tygrysem."
 
 
 
@@ -3743,7 +3743,7 @@ translate polish strings:
 
     old "和雲豹聊聊"
 
-    new ""
+    new "Porozmawiaj o tym z Panterą."
 
 
 
@@ -3751,5 +3751,5 @@ translate polish strings:
 
     old "算了"
 
-    new ""
+    new "Daj sobie z tym spokój."
 
