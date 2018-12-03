@@ -22,7 +22,7 @@ translate polish s11_0d6e64f0:
 
     # b "In the morning I waited around for a bit, just on the off chance that Senpai would be here to walk me to school, but he didn't. His dorm is in the opposite direction from campus after all, it'd be a pain to come over here just for me. "
 
-    b ""
+    b "Tego ranka zaczekałem nieco- na wszelki wypadek, gdyby Senpai szedł tędy na uczelnię. Niestety się nie pojawił- w końcu do jego pokoju idzie się zupełnie w przeciwnym kierunku niż do kampusa, a przecież nie będzie tu specjalnie dla mnie przychodzić. "
 
 
 
@@ -38,11 +38,11 @@ translate polish s11_87af13d0:
 
     # b "Finally, I end up running into him at the cafeteria that evening. "
 
-    b ""
+    b "Właściwie to nie spotkałem go przez cały dzień. "
     
-    b ""
+    b "Chociaż w sumie, na większości zajęć mam dzisiaj zaliczenia. W końcu Senpai nie może się na nich od tak pojawić jak to robi zazwyczaj. Nie widzę go też nigdzie podczas przerwy obiadowej..."
     
-    b ""
+    b "W końcu spotykamy się w stołówce, dopiero pod wieczór. "
 
 
 
@@ -58,7 +58,7 @@ translate polish s11_c5335702:
 
     voice voice_file.lpdcat(11,1)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Liao, {i}coooo za{/i} \ długi dzień! Jak ci poszły egzaminy?\" "
 
 
 
@@ -70,7 +70,7 @@ translate polish s11_ed7fa375:
 
     # avt "\"Oh, they were fine. But what about you Senpai? You had exams, right?\" "
 
-    avt ""
+    avt "\"Och, nienajgorzej. A co z tobą Senpai? Też chyba jakieś miałeś?\" 
 
 
 
@@ -86,7 +86,7 @@ translate polish s11_d2a770cc:
 
     voice voice_file.lpdcat(11,2)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nah— Nie dziś. W tym semestrze nie wziąłem zbyt wiele przedmiotów, więc zaliczenia są raczej luźne.\" "
 
 
 
@@ -100,9 +100,9 @@ translate polish s11_b2d79e62:
 
     # b "...But it's too late to think about that now. "
 
-    b ""
+    b "Więc to dlatego mógł od tak sobie przychodzić na moje zajęcia... Najwyraźniej zakłóciłem przebieg jego studiów... "
     
-    b ""
+    b "...Ale teraz już za późno na takie rozważania. "
 
 
 
@@ -114,7 +114,7 @@ translate polish s11_719ea250:
 
     # avt "\"You know... where were you all day? I didn't see you at all.\" "
 
-    avt ""
+    avt "\"Tooo... gdzie się podziewałeś przez cały dzień? Nigdzie cię nie widziałem.\" "
 
 
 
@@ -130,7 +130,7 @@ translate polish s11_a1b2a843:
 
     voice voice_file.lpdcat(11,3)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Hehe— czyżby Liao za mną tęsknił? Czekałem tutaj na ciebie.\" "
 
 
 
@@ -142,7 +142,7 @@ translate polish s11_8d50ff4d:
 
     # avt "\"You were waiting for me here Senpai?\" "
 
-    avt ""
+    avt "\"Czekałeś tutaj na mnie Senpai?\" "
 
 
 
