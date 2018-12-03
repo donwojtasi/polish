@@ -101,6 +101,8 @@ translate polish s11_b2d79e62:
     # b "...But it's too late to think about that now. "
 
     b ""
+    
+    b ""
 
 
 
@@ -371,6 +373,8 @@ translate polish s11_9d91fcf5:
     voice voice_file.lpdcat(11,12)
 
     lpdcat laugh ""
+    
+    lpdcat laugh ""
 
 
 
@@ -432,6 +436,8 @@ translate polish s11_2eebba08:
 
     voice voice_file.tig(11,1)
 
+    tig frown ""
+    
     tig frown ""
 
 
@@ -547,6 +553,8 @@ translate polish s11_ac948bcc:
     voice voice_file.lpdcat(11,20)
 
     lpdcat difficult ""
+    
+    lpdcat difficult ""
 
 
 
@@ -564,6 +572,8 @@ translate polish s11_3441143e:
 
     voice voice_file.lpdcat(11,21)
 
+    lpdcat serious ""
+    
     lpdcat serious ""
 
 
@@ -638,6 +648,8 @@ translate polish s11_8760a719:
 
     voice voice_file.lpdcat(11,24)
 
+    lpdcat serious ""
+    
     lpdcat serious ""
 
 
@@ -793,6 +805,8 @@ translate polish s11_9efff916:
     # b "At first watching Senpai run around like usual makes me smile... but afterwards I just feel worse than before, like something was empty. "
 
     b ""
+    
+    b ""
 
 
 
@@ -879,6 +893,8 @@ translate polish s11_a7381e3a:
     # b "I need to focus on my test and stop paying attention to him... but I guess he could... "
 
     b ""
+    
+    b ""
 
 
 
@@ -893,6 +909,8 @@ translate polish s11_58307d86:
     # b "I really don't want to fail. All I need is a pass... If I ask Leopard to help... "
 
     b ""
+    
+    b ""
 
 
 
@@ -906,6 +924,8 @@ translate polish s11_02_dont_cheat_29b9039f:
 
     # b "If I fail, I fail. Passing one subject isn't worth doing that. "
 
+    b ""
+    
     b ""
 
 
@@ -1045,6 +1065,8 @@ translate polish s11_02_cheat_ebe4f3b7:
     # b "Instead, he walks around the classroom, checking a variety of students papers, examining each one thoroughly. "
 
     b ""
+    
+    b ""
 
 
 
@@ -1060,6 +1082,10 @@ translate polish s11_02_cheat_8e7ba8e2:
 
     # b "It doesn't seem like he'll be coming back for a while... I'll have to start giving this a go or else I won't have anything done! "
 
+    b ""
+    
+    b ""
+    
     b ""
 
 
@@ -1431,6 +1457,8 @@ translate polish s11_02_cheat_650afbe1:
     voice voice_file.tig(11,9)
 
     tig angry ""
+    
+    tig angry ""
 
 
 
@@ -1465,6 +1493,8 @@ translate polish s11_02_cheat_2e1e8700:
     voice voice_file.tig(11,10)
 
     tig angry ""
+    
+    tig angry ""
 
 
 
@@ -1498,6 +1528,8 @@ translate polish s11_02_cheat_cc76d847:
 
     voice voice_file.tig(11,11)
 
+    tig angry ""
+    
     tig angry ""
 
 
@@ -1541,6 +1573,8 @@ translate polish s11_02_cheat_5c38a8eb:
     # b "As things stand there's no way I can concentrate enough to check the rest of the answers in the paper. Sure, it's finished but I did the first half without Leopard so they're probably all wrong. "
 
     b ""
+    
+    b ""
 
 
 
@@ -1578,6 +1612,8 @@ translate polish s11_02_cheat_6229d09d:
 
     # b "Leopard was furious. His fists squeezed tight and his eyes shake with anger. He's on edge, just one push away from lashing back out at Tiger in desperation. "
 
+    b ""
+    
     b ""
 
 
@@ -1888,6 +1924,8 @@ translate polish s11_02_cheat_01_427b584d:
 
     voice voice_file.tig(11,22)
 
+    tig frown ""
+    
     tig frown ""
 
 
@@ -2273,6 +2311,10 @@ translate polish s11_03_848258c7:
     voice voice_file.randolph(11,6)
 
     randolph serious ""
+    
+    randolph serious ""
+    
+    randolph serious ""
 
 
 
@@ -2463,6 +2505,8 @@ translate polish s11_03_reject_c5a0e487:
     # avt "\"It just feels like he's trying to avoid push me away...\" "
 
     avt ""
+    
+    avt ""
 
 
 
@@ -2597,6 +2641,8 @@ translate polish s11_03_reject_af66a734:
     voice voice_file.randolph(11,15)
 
     randolph laugh ""
+    
+    randolph laugh ""
 
 
 
@@ -2622,6 +2668,8 @@ translate polish s11_03_reject_05020e0c:
 
     # b "But they say the happiest of people are really the saddest and most fragile of us all... "
 
+    b ""
+    
     b ""
 
 
@@ -2813,6 +2861,8 @@ translate polish s11_03_accept_f228d2b0:
     # b "Like why the many statues of one god may hold many different meanings? What do gods look like when they go out? Which gods are more important then others? And many such questions that I think only the gods themselves would know. "
 
     b ""
+    
+    b ""
 
 
 
@@ -2842,6 +2892,8 @@ translate polish s11_03_accept_5f7efcef:
 
     voice voice_file.randolph(11,20)
 
+    randolph laugh ""
+    
     randolph laugh ""
 
 
@@ -3057,6 +3109,8 @@ translate polish s11_03_accept_3d47c555:
     voice voice_file.tig(11,32)
 
     tig normal ""
+    
+    tig normal ""
 
 
 
@@ -3074,6 +3128,8 @@ translate polish s11_03_accept_394535e1:
 
     voice voice_file.tig(11,33)
 
+    tig normal ""
+    
     tig normal ""
 
 
@@ -3120,6 +3176,8 @@ translate polish s11_03_accept_c33ff11b:
 
     voice voice_file.tig(11,35)
 
+    tig normal ""
+    
     tig normal ""
 
 
@@ -3639,6 +3697,8 @@ translate polish s11_03_accept_aa0ff537:
     voice voice_file.jiahao(11,4)
 
     phone ""
+    
+    phone ""
 
 
 
@@ -3708,6 +3768,8 @@ translate polish s11_03_accept_ab5ff152:
 
     voice voice_file.jiahao(11,6)
 
+    phone ""
+    
     phone ""
 
 
@@ -3790,6 +3852,8 @@ translate polish s11_03_accept_759a6bca:
 
     voice voice_file.jiahao(11,7)
 
+    phone ""
+    
     phone ""
 
 
@@ -4063,6 +4127,8 @@ translate polish s11_04_c378297c:
     # b "So if any, this is the time to relax with some nice casual reading. "
 
     b ""
+    
+    b ""
 
 
 
@@ -4197,6 +4263,8 @@ translate polish s11_04_d1027fef:
     voice voice_file.tig(11,42)
 
     tig normal ""
+    
+    tig normal ""
 
 
 
@@ -4250,6 +4318,8 @@ translate polish cg_tig_touch_head_928ce692:
 
     # b "At least I like the atmosphere of this place— quiet, and relaxing... If only I had a nice warm cup of coffee... "
 
+    b ""
+    
     b ""
 
 
@@ -4364,6 +4434,8 @@ translate polish cg_tig_touch_head_3696c6c2:
 
     voice voice_file.tig(11,47)
 
+    tig normal ""
+    
     tig normal ""
 
 
