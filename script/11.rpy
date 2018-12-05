@@ -158,7 +158,7 @@ translate polish s11_fa02894e:
 
     voice voice_file.lpdcat(11,4)
 
-    lpdcat normal ""
+    lpdcat normal "\"No wiesz, jadasz wyłącznie w stołówce. Nie trudno się było domyślić, że w końcu tu przyjdziesz.\" "
 
 
 
@@ -170,7 +170,7 @@ translate polish s11_7984660e:
 
     # avt "\"Hey, it's cheap okay.\" "
 
-    avt ""
+    avt "\"Hej, tutaj po prostu jest tanio.\" "
 
 
 
@@ -186,7 +186,7 @@ translate polish s11_aa0b54fa:
 
     voice voice_file.lpdcat(11,5)
 
-    lpdcat normal ""
+    lpdcat normal "\"Wiesz, że dokoła kampusu jest mnóstwo tanich restauracji? Po prostu jesteś zbyt leniwy, by spróbować czegoś nowego.\" "
 
 
 
@@ -198,7 +198,7 @@ translate polish s11_20366979:
 
     # avt "\"It's my first year here, you can't expect me to know every place around... besides, the food here's good enough.\" "
 
-    avt ""
+    avt "\"Jestem tu dopiero pierwszy rok- skąd niby miałbym znać wszystkie okoliczne miejscówki... zresztą, tutejsze jedzenie jest wystarczająco smaczne.\" "
 
 
 
@@ -214,7 +214,7 @@ translate polish s11_a1808dfb:
 
     voice voice_file.lpdcat(11,6)
 
-    lpdcat pout ""
+    lpdcat pout "\"Tak czy siak, nie czujesz się samotny, jedząc tak bez towarzystwa?\" "
 
 
 
@@ -226,7 +226,7 @@ translate polish s11_0112a06c:
 
     # avt "\"I'm not eating alone! For the past month I've been eating with you and... people can't really hear us talk about that...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Wcale nie jem samotnie! Przecież towarzyszyłeś mi przez ostatni miesiąc... nie powinniśmy o tym rozmawiać przy ludziach...\" " with hshake
 
 
 
@@ -242,7 +242,7 @@ translate polish s11_21d26bce:
 
     voice voice_file.lpdcat(11,7)
 
-    lpdcat normal "" with flash
+    lpdcat normal "\"Kto będzie ci towarzyszyć jeśli odejdę?\" " with flash
 
 
 
@@ -254,7 +254,7 @@ translate polish s11_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -270,7 +270,7 @@ translate polish s11_63081917:
 
     voice voice_file.lpdcat(11,8)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Hmmmmmm?\" "
 
 
 
@@ -282,7 +282,7 @@ translate polish s11_5c4fb6a4:
 
     # avt "\"Senpai.\" "
 
-    avt ""
+    avt "\"Senpai.\" "
 
 
 
@@ -298,7 +298,7 @@ translate polish s11_12f29d50:
 
     voice voice_file.lpdcat(11,9)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Co z tobą? Coś taki poważny?\" "
 
 
 
@@ -310,7 +310,7 @@ translate polish s11_4ce23812:
 
     # avt "\"You just said, \"If I'm gone\"... Shouldn't you be saying \"If you go to Miaoli with me\"?\" "
 
-    avt ""
+    avt "\"Właśnie powiedziałeś, \"jeśli odejdę\"... Nie powinieneś raczej mówić \"jeśli pójdziesz ze mną do Miaoli\"?\" "
 
 
 
