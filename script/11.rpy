@@ -298,7 +298,7 @@ translate polish s11_12f29d50:
 
     voice voice_file.lpdcat(11,9)
 
-    lpdcat laugh "\"Co z tobą? Coś taki poważny?\" "
+    lpdcat laugh "\"Co z tobą? Coś tak spoważniał?\" "
 
 
 
