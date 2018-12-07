@@ -326,7 +326,7 @@ translate polish s11_6ef54140:
 
     voice voice_file.lpdcat(11,10)
 
-    lpdcat normal ""
+    lpdcat normal "\"No tak, jeśli Liao pójdzie ze mną do Miaoli to na pewno będziemy jeść wspólnie. Ale co jeśli nie. Nie masz innych przyjaciół dotrzymujących ci towarzystwa przy obiedzie, czyż nie?\" "
 
 
 
@@ -342,7 +342,7 @@ translate polish s11_bd53117b:
 
     voice voice_file.lpdcat(11,11)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Znaczy, masz Kulau i staruszka. Ale to przecież nie są {i}prawdziwi{/i} ludzie. Bez żadnych normalnych znajomych zaczniesz być postrzegany jako jakiś samotny dziwak!\" "
 
 
 
@@ -354,7 +354,7 @@ translate polish s11_7ed86c87:
 
     # avt "\"Senpai... isn't Miaoli matter of life or death for you? To me it just sounds like you've given up, that you're already planning to leave and you're trying to make peace with that.\" "
 
-    avt ""
+    avt "\"Senpai... czy Miaoli nie jest dla ciebie przypadkiem sprawą życia i śmieci? Bo jak dla mnie brzmisz jakbyś się poddał- jakbyś planował odejść, i właśnie starał się z tym pogodzić.\" "
 
 
 
@@ -372,9 +372,9 @@ translate polish s11_9d91fcf5:
 
     voice voice_file.lpdcat(11,12)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Nie... Po prostu wydaje mi się że byłem wobec ciebie zbyt nachalny. A mimo tego, i tak nie jestem w stanie cię przekonać. "
     
-    lpdcat laugh ""
+    lpdcat laugh "\"Więc wydaje mi się, że powinienem dać ci odetchnąć. Może trzymanie się na uboczu lepiej zadziała?\" "
 
 
 
@@ -390,7 +390,7 @@ translate polish s11_00e736ed:
 
     voice voice_file.lpdcat(11,13)
 
-    lpdcat normal ""
+    lpdcat normal "\"Tak, to jest sprawa życia i śmierci. Ale nawet będąc tego świadomym... i tak nie zamierzasz ze mną pójść, prawda?\" "
 
 
 
@@ -402,7 +402,7 @@ translate polish s11_c647fdb5:
 
     # avt "\"It's... because I'd have to leave school...\" "
 
-    avt ""
+    avt "\"To dlatego że... musiałbym opuścić uczelnię...\" "
 
 
 
