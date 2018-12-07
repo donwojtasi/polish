@@ -418,7 +418,7 @@ translate polish s11_5f783a57:
 
     voice voice_file.lpdcat(11,14)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ty musiałbyś opuścić uczelnię... a ja z powrotem stanę się yaoguai'em włóczącym się po ulicach, by któregoś dnia zniknąć, jak gdyby nigdy mnie tu nie było.\" "
 
 
 
@@ -436,9 +436,9 @@ translate polish s11_2eebba08:
 
     voice voice_file.tig(11,1)
 
-    tig frown ""
+    tig frown "\"To nieuczciwe straszyć Liao w ten sposób. Nie znikniesz tylko dlatego, że przestanie na ciebie oddziaływać wpływ Fudegong'a. Po prostu staniesz się yaoguai'em. Nic ci nie stanie na przeszkodzie, by znaleźć kolejnego Fudegong'a.\" "
     
-    tig frown ""
+    tig frown "\"Tak długo jak będziesz się dobrze sprawować, nikt nie zrobi tobie krzywdy..\" "
 
 
 
@@ -454,7 +454,7 @@ translate polish s11_c951d30b:
 
     voice voice_file.lpdcat(11,15)
 
-    lpdcat pout ""
+    lpdcat pout "\"Mówisz to, jakby to była błahostka. Służyłem swojemu Fudegong'owi przez długi czas, i  {i}nie mam zamiaru{/i} \ go porzucić, obserwując jak traci swoją moc.\" "
 
 
 
