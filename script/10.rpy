@@ -2354,7 +2354,7 @@ translate polish s10_04_dont_help_c123662a:
 
     # avt "\"Senpai! Where have you been?!\" " with flash
 
-    avt "\"Senpai! Gdzieżeś się podziewał?!\" " with flash" with flash
+    avt "\"Senpai! Gdzieżeś się podziewał?!\" " with flash
 
 
 

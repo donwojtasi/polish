@@ -70,7 +70,7 @@ translate polish s11_ed7fa375:
 
     # avt "\"Oh, they were fine. But what about you Senpai? You had exams, right?\" "
 
-    avt "\"Och, nienajgorzej. A co z tobą Senpai? Też chyba jakieś miałeś?\" 
+    avt "\"Och, nienajgorzej. A co z tobą Senpai? Też chyba jakieś miałeś?\" "
 
 
 
