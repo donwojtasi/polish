@@ -464,7 +464,7 @@ translate polish s08_02_disagree_fd52b335:
 
     voice voice_file.lpdcat(8,5)
 
-    lpdcat normal ""
+    lpdcat normal "\"Serio, powinienneś przestać martwić się mocnym zakuwaniem podczas ferii od kiedy jesteś na drugim roku. Nie ma co się aż tak przejmować Liao.\" "
 
 
 
@@ -476,7 +476,7 @@ translate polish s08_02_disagree_4aa566f8:
 
     # avt "\"Well, I'm still a freshman! So even by your logic I {i}should{/i} \ care about this. \" "
 
-    avt ""
+    avt "\"Ale ja nadal jestem świeżakiem! Więc według twojej logiki [i]powinienem[/i] się przejmować. \" "
 
 
 
@@ -492,7 +492,7 @@ translate polish s08_02_disagree_2051d72f:
 
     voice voice_file.lpdcat(8,6)
 
-    lpdcat cry_2 "" with hshake
+    lpdcat cry_2 "\"Liao poprostu szuka wymówki, aby nie iść ze mną-\" " with hshake
 
 
 
@@ -504,7 +504,7 @@ translate polish s08_02_disagree_c82cc086:
 
     # avt "\"If you really want to look at it like that, then yes, it is an excuse.\" "
 
-    avt ""
+    avt "\"Jeśli tak na to patrzysz, tak, to wymówka.\" "
 
 
 
@@ -520,7 +520,7 @@ translate polish s08_02_disagree_b2803495:
 
     voice voice_file.lpdcat(8,7)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Ahhhh- Dobra. Łapię.\" "
 
 
 
@@ -536,7 +536,7 @@ translate polish s08_02_disagree_2e51ce25:
 
     voice voice_file.lpdcat(8,8)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Nawet jeśli to nasza ostatnia szansa...\" "
 
 
 
@@ -548,7 +548,7 @@ translate polish s08_02_disagree_7d139f09:
 
     # avt "\"Huh? What do you mean?\" "
 
-    avt ""
+    avt "\"Hm? O czym ty mówisz>\" "
 
 
 
@@ -564,7 +564,7 @@ translate polish s08_02_disagree_8730a6b0:
 
     voice voice_file.lpdcat(8,9)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nic,nic. Ucz się!\" "
 
 
 
@@ -576,7 +576,7 @@ translate polish s08_02_disagree_5899dad1:
 
     # avt "\"Uhh— Yeah...\" "
 
-    avt ""
+    avt "\"Yyyyy- dobra...\" "
 
 
 
@@ -592,7 +592,7 @@ translate polish s08_02_disagree_18184a6e:
 
     voice voice_file.lpdcat(8,10)
 
-    lpdcat normal ""
+    lpdcat normal "\"Po prostu planuję wrócić do domu i wziąć trochę rzeczy. Więc, pewnie nie będzie mnie w domu aż do póżna.\" "
 
 
 
@@ -604,7 +604,7 @@ translate polish s08_02_disagree_1eab16a8:
 
     # avt "\"Huh? Yeah, got it.\" "
 
-    avt ""
+    avt "\"Hm? okay, rozumiem.\" "
 
 
 
@@ -620,7 +620,7 @@ translate polish s08_02_disagree_23bee263:
 
     voice voice_file.lpdcat(8,11)
 
-    lpdcat laugh ""
+    lpdcat laugh "\" W porządku, do zobaczenia Liaaao~\" "
 
 
 
