@@ -894,7 +894,7 @@ translate polish week1_01_24430ea2:
 
     # avt "\"No thanks. It doesn't matter that much. Even if he's being annoying...\" "
 
-    avt "Nie, dzięki. Nie ma to dla mnie aż takiego znaczenia. Nawet jeśli bywa irytujący...\" "
+    avt "\"Nie, dzięki. Nie ma to dla mnie aż takiego znaczenia. Nawet jeśli bywa irytujący...\" "
 
 
 
@@ -3524,9 +3524,9 @@ translate polish week1_saturday_lpd_685326d7:
 
 
 
-    # avt "\"Hey, can I ask something first. "
+    # avt "\"Hey, can I ask something first.\" "
 
-    avt "Hej, mogę cię najpierw o coś zapytać? "
+    avt "\"Hej, mogę cię najpierw o coś zapytać?\" "
 
 
 
@@ -6104,7 +6104,7 @@ translate polish cg_02_26c55cbc:
 
     voice voice_file.tig(4,87)
 
-    tig frown "A więc ten aborygen chce...\" "
+    tig frown "\"A więc ten aborygen chce...\" "
 
 
 
@@ -7284,7 +7284,7 @@ translate polish week1_03_lpdcat_buy_7cbdde69:
 
     voice voice_file.lpdcat(4,53)
 
-    lpdcat shy_3 "\Dobrze...\" "
+    lpdcat shy_3 "\"Dobrze...\" "
 
 
 
@@ -8236,7 +8236,7 @@ translate polish week1_04_lpdcat_3cde11fd:
 
     voice voice_file.lpdcat(4,72)
 
-    lpdcat serious "\Właściwie to może zabiorę go do Miaoli. Ale to nie ma znaczenia. Tak jak powiedziałeś, odbudowanie kultu mojej świątyni potrwa ponad rok.\" "
+    lpdcat serious "\"Właściwie to może zabiorę go do Miaoli. Ale to nie ma znaczenia. Tak jak powiedziałeś, odbudowanie kultu mojej świątyni potrwa ponad rok.\" "
 
 
 
@@ -8392,7 +8392,7 @@ translate polish week1_04_lpdcat_ef9b8bef:
 
     voice voice_file.lpdcat(4,78)
 
-    lpdcat serious "Więc zakupy, czy randki- to wszystko to, co sam Yan Shu-Chi by zrobił. Muszę tylko poznać cię w ten sam sposób w jaki on by to uczynił.\" "
+    lpdcat serious "\"Więc zakupy, czy randki- to wszystko to, co sam Yan Shu-Chi by zrobił. Muszę tylko poznać cię w ten sam sposób w jaki on by to uczynił.\" "
 
 
 
@@ -8908,7 +8908,7 @@ translate polish week1_sunday_tig_lpd_274f0662:
 
     # avt "\"If you want me to spend the day with you, can you tell me exactly what you want to \ndo?\" "
 
-    avt "Możesz mi powiedzieć, co chciałbyś robić, jeśli chcesz spędzić ze mną cały dzień?\" "
+    avt "\"Możesz mi powiedzieć, co chciałbyś robić, jeśli chcesz spędzić ze mną cały dzień?\" "
 
 
 

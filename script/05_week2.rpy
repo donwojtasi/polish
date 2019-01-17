@@ -714,7 +714,7 @@ translate polish s05_5_buy_1_1295aa8a:
 
     # avt "\"So, would you rather get this book or some more junk food?\" "
 
-    avt "A więc wolałbyś dostać tę książkę, czy więcej niezdrowych przekąsek?\" "
+    avt "\"A więc wolałbyś dostać tę książkę, czy więcej niezdrowych przekąsek?\" "
 
 
 
@@ -1946,7 +1946,7 @@ translate polish week2_04_0e805fac:
 
     # avt "\"Yeah. How'd it go? You get something?\" "
 
-    avt "\Pewnie. I jak poszło? Znalazłeś coś?\" "
+    avt "\"Pewnie. I jak poszło? Znalazłeś coś?\" "
 
 
 
@@ -2098,7 +2098,7 @@ translate polish week2_04_2606351e:
 
     # avt "\"...Do you think he became a god after that?\" "
 
-    avt "...czy myślisz, że stał się później bogiem?\" "
+    avt "\"...czy myślisz, że stał się później bogiem?\" "
 
 
 
@@ -2156,7 +2156,7 @@ translate polish week2_04_831ff964:
 
     # avt "\"Then I wondered if any of them were gods.\" "
 
-    avt "Cóż, usłyszałem coś tylko o mglistych panterach i Rukai okazujących im szacunek...\" "
+    avt "\"Cóż, usłyszałem coś tylko o mglistych panterach i Rukai okazujących im szacunek...\" "
 
     avt "\"Zacząłem się zastanawiać, czy którakolwiek z nich mogła być bogiem.\" "
 
@@ -2514,7 +2514,7 @@ translate polish week2_04_d56ed7f6:
 
     voice voice_file.lpd(5,9)
 
-    lpd normal "Nie bogiem.\" "
+    lpd normal "\"Nie bogiem.\" "
 
 
 
@@ -3302,7 +3302,7 @@ translate polish week2_06_ask_b4f8992a:
 
     voice voice_file.father(5,17)
 
-    phone "Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "\"Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 
 
@@ -4330,7 +4330,7 @@ translate polish week2_06_dontask_b4f8992a:
 
     voice  voice_file.father(5,17)
 
-    phone "Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
+    phone "\"Zbliża się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Ching Ming{/font}. Czy masz wtedy przerwę? Jeśli tak, to powinieneś nas odwiedzić.\" "
 
 
 
@@ -4726,7 +4726,7 @@ translate polish week2_07_91c0b231:
 
     voice voice_file.lpdcat(5,22)
 
-    lpdcat normal "\Poza tym, w dzisiejszych czasach bardzo rzadko zdarza się, by wszyscy kąpali się razem.\" "
+    lpdcat normal "\"Poza tym, w dzisiejszych czasach bardzo rzadko zdarza się, by wszyscy kąpali się razem.\" "
 
 
 
@@ -5062,7 +5062,7 @@ translate polish week2_07_d599f07b:
 
     # avt "\"You don't need to call me \"kid\" Senpai.\" "
 
-    avt "\"Nie musisz nazywać mnie \"dzieciakiem\" Senpai. "
+    avt "\"Nie musisz nazywać mnie \"dzieciakiem\" Senpai.\" "
 
 
 
@@ -5222,7 +5222,7 @@ translate polish week2_07_15e4d6a0:
 
     # b "I look around... Preserved plums, roasted corn, almond tea, mochi, and so on. It's pretty typical for a market street like the one from back at home. "
 
-    b "Spoglądam wokoło... Suszone śliwki, prażona kukurydza, herbata migdałowa, mochi i tak dalej. To typowe jedzenie na ulicy handlowej, podobne do tego w okolicy mojego domu.\" "
+    b "Spoglądam wokoło... Suszone śliwki, prażona kukurydza, herbata migdałowa, mochi i tak dalej. To typowe jedzenie na ulicy handlowej, podobne do tego w okolicy mojego domu. "
 
 
 
@@ -6546,7 +6546,7 @@ translate polish cg_04_a075bf00:
 
     # b "This is... so tempting... "
 
-    b "\"To... takie kuszące... "
+    b "To... takie kuszące... "
 
 
 
@@ -7066,7 +7066,7 @@ translate polish week2_08_8c4d062e:
 
     voice voice_file.tig(5,49)
 
-    tig embarrassed "...no cóż.\" "
+    tig embarrassed "\"...no cóż.\" "
 
 
 
@@ -7618,7 +7618,7 @@ translate polish week2_08_efec4f32:
 
     voice voice_file.lpdcat(5,76)
 
-    lpdcat normal "Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go o to zapytać.\" "
+    lpdcat normal "\"Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go o to zapytać.\" "
 
 
 
@@ -7906,7 +7906,7 @@ translate polish week2_08_e4b46a1e:
 
     voice voice_file.randolph(5,4)
 
-    randolph2 nev "\A więc... W czym mogę wam pomóc?\" "
+    randolph2 nev "\"A więc... W czym mogę wam pomóc?\" "
 
 
 
@@ -8246,7 +8246,7 @@ translate polish week2_08_bea1d5c4:
 
     avt "\"Jest duchem z plemienia Rukai, który chce mojej pomocy, a więc dał mi tą umiejętność.\" "
 
-    avt "Od tego czasu, jestem w stanie zobaczyć te wszystkie bóstwa- no i yaoguai takich jak ty.\" "
+    avt "\"Od tego czasu, jestem w stanie zobaczyć te wszystkie bóstwa- no i yaoguai takich jak ty.\" "
 
 
 
@@ -8428,7 +8428,7 @@ translate polish week2_08_b738c242:
 
     # avt "\"It's not possible for me to just get up and have a two year break...\" "
 
-    # avt "\'Honestly, it's really been stressing me out...\" "
+    # avt "\"Honestly, it's really been stressing me out...\" "
 
     avt "\"Wystarczająco trudno jest zarobić na życie tańcząc, a teraz muszę jeszcze zajmować się szkołą.\" "
 
@@ -8628,7 +8628,7 @@ translate polish week2_08_e8658eda:
 
 
 
-    # avt "\"See... It just ends up like this... "
+    # avt "\"See... It just ends up like this...\" "
 
     avt "\"Widzisz... To się zawsze tak kończy...\" "
 

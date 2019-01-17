@@ -970,7 +970,7 @@ translate polish day1_after_01_tig_69d9fd03:
 
     voice voice_file.tig(2,10)
 
-    tig normal "\Dobrze, już dobrze- Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
+    tig normal "\"Dobrze, już dobrze- Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
 
     tig normal "\"Więc jak sądzisz? Kwalifikuję się do bycia twoją dziecięcą sympatią?\" "
 
@@ -1052,7 +1052,7 @@ translate polish day1_after_01_tig_5b256b5e:
 
     # b "Eh— What is he talking about? "
 
-    b "\"Ech- O czym on znowu mówi? "
+    b "Ech- O czym on znowu mówi? "
 
 
 
@@ -1202,7 +1202,7 @@ translate polish day1_after_01_tig_71b96aa5:
 
 
 
-    # b "I never thought about it like that before. Living with a lot of furry guardian tigers... {w=0.5}sounds... {w=0.5}pretty good?\" "
+    # b "I never thought about it like that before. Living with a lot of furry guardian tigers... {w=0.5}sounds... {w=0.5}pretty good? "
 
     b "Nigdy wcześniej nie myślałem o tym w ten sposób. Życie z mnóstwem futrzastych tygrysich strażników... {w=0.5}brzmi... {w=0.5}całkiem nieźle? "
 
@@ -2694,7 +2694,7 @@ translate polish day1_after_01_lpd_5e6c4822:
 
 
 
-    # avt "\I can't hold out anymore... I need to sleep.\" "
+    # avt "\"I can't hold out anymore... I need to sleep.\" "
 
     avt "\"Już dłużej nie wytrzymam... Czas spać.\" "
 
@@ -3158,7 +3158,7 @@ translate polish day1_after_01_lpdcat_9a157f24:
 
     # lpdcat normal "\"It's not hard to understand. Powerful spirits are able to move things. Have you heard about poltergeists? It's something like that.\" "
 
-    # lpdcat normal "\"Granted it was the first time I've seen someone use it to fetch clothes. "
+    # lpdcat normal "\"Granted it was the first time I've seen someone use it to fetch clothes.\" "
 
     voice voice_file.lpdcat(2,29)
 
@@ -3980,7 +3980,7 @@ translate polish day1_after_01_lpdcat_16fb8881:
 
     voice voice_file.lpdcat(2,53)
 
-    lpdcat difficult "\"Coo- Wiem, że nie bardzo chciałbyś to robić, ale to zajmie nam tylko rok, góra dwa- jeśli się postaramy. Potrzebujemy twojej mocy tylko do czasu; aż będziemy mieć wystarczająco wyznawców.\ "
+    lpdcat difficult "\"Coo- Wiem, że nie bardzo chciałbyś to robić, ale to zajmie nam tylko rok, góra dwa- jeśli się postaramy. Potrzebujemy twojej mocy tylko do czasu; aż będziemy mieć wystarczająco wyznawców.\" "
 
     lpdcat difficult "\"To tylko rok, albo dwa... proszę?\" "
 

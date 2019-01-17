@@ -10,7 +10,7 @@ translate polish s07_2683a0de:
 
     # b "It's Friday. Another weeks gone by, and I still have no clue what to do. "
 
-    b "Jest piątek. Minął kolejny tydzień, a ja wciąż nie wiem co powinienem zrobić. "
+    b "Jest piątek. Mija kolejny tydzień, a ja wciąż nie wiem co mam zrobić. "
 
 
 

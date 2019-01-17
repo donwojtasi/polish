@@ -670,7 +670,7 @@ translate polish s06_617f052c:
 
     tig gaze "\"Dobrze, widzisz te książki tutaj? Chciałbym przejrzeć ten temat, i ten też... i najprawdopodobniej tamten...\" "
 
-    tig gaze "\Liao, czy nie powinieneś ich sobie zapisać w telefonie?\" "
+    tig gaze "\"Liao, czy nie powinieneś ich sobie zapisać w telefonie?\" "
 
 
 
@@ -952,7 +952,7 @@ translate polish s06_1258599b:
 
     # avt "\"I just... don't really want to leave Taipei.\" "
 
-    avt "\"Wiem, że na tym polega bycie wyrocznią... tylko nie mam pojęcia, jakie problemy chciałbyś, bym rozwiązał. Muszę coś zrobić? A może wystarczy, że powiem ludziom co się dzieje?\' "
+    avt "\"Wiem, że na tym polega bycie wyrocznią... tylko nie mam pojęcia, jakie problemy chciałbyś, bym rozwiązał. Muszę coś zrobić? A może wystarczy, że powiem ludziom co się dzieje?\" "
 
     avt "\"Po prostu... naprawdę nie chcę opuszczać Tajpej.\" "
 
@@ -2022,7 +2022,7 @@ translate polish s06_1bab5f72:
 
     voice voice_file.tig(6,23)
 
-    tig normal "\"Dobrze- przewijaj dalej. "
+    tig normal "\"Dobrze- przewijaj dalej.\" "
 
 
 
@@ -3550,7 +3550,7 @@ translate polish s06_04_confess_00058744:
 
     # avt "\"What do you mean?\" "
 
-    avt "\Co masz na myśli?\" "
+    avt "\"Co masz na myśli?\" "
 
 
 

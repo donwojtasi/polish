@@ -214,7 +214,7 @@ translate polish day2_01_tig_d9767d80:
 
     # b "\"My chest finally free of Tiger's weight, I cough while trying to regain my breath. Suddenly, Tiger pulls me into his chest and pats me on the back.\" " with hshake
 
-    b "\"Kaszlę próbując odzyskać oddech po uwolnieniu spod ciężaru Tygrysa. Nagle, Tygrys przyciąga mnie do swojej piersi i klepie po plecach. " with hshake
+    b "Kaszlę próbując odzyskać oddech po uwolnieniu spod ciężaru Tygrysa. Nagle, Tygrys przyciąga mnie do swojej piersi i klepie po plecach. " with hshake
 
 
 
@@ -1096,7 +1096,7 @@ translate polish day2_01_lpdcat_e430100c:
 
 
 
-    # b "Those fried basils look so appetizing. Mmmm— five pieces of chicken? Man, I'm feeling hungry...\" "
+    # b "Those fried basils look so appetizing. Mmmm— five pieces of chicken? Man, I'm feeling hungry... "
 
     b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm- pięć kawałków kurczaka? Rety, teraz to dopiero czuję się głodny... "
 
@@ -4482,7 +4482,7 @@ translate polish day2_02_6eb17c5d:
 
     # avt "\"So... It's more like an offering?\" "
 
-    avt "\"Więc... to bardziej coś w rodzaju ofiary?\' "
+    avt "\"Więc... to bardziej coś w rodzaju ofiary?\" "
 
 
 
@@ -5258,7 +5258,7 @@ translate polish day2_03_lpdcat_b455a989:
 
     # voice voice_file.lpdcat(3,67)
 
-    # lpdcat serious "\"I've just... been driven up the wall. I'm seeking your help because I really have no way out. "
+    # lpdcat serious "\"I've just... been driven up the wall. I'm seeking your help because I really have no way out.\" "
 
     # lpdcat serious "\"So just... think about it, all right?\" "
 

@@ -2292,7 +2292,7 @@ translate polish start_c696abdd:
 
     voice voice_file.lpdcat(1,3)
 
-    senpai "Heh, Jestem... na dole.\" "
+    senpai "\"Heh, Jestem... na dole.\" "
 
 
 
@@ -2688,7 +2688,7 @@ translate polish start_ad0f903e:
 
     voice voice_file.lpdcat(1,11)
 
-    lpdcat angry "Och, proszę cię! Jestem o wiele większy od jakiegoś dachowca!\" " with vpunch
+    lpdcat angry "\"Och, proszę cię! Jestem o wiele większy od jakiegoś dachowca!\" " with vpunch
 
 
 
@@ -3472,7 +3472,7 @@ translate polish start_c25da48b:
 
     voice voice_file.tig(1,40)
 
-    tig angry "\Czy musisz być taki uparty...\" "
+    tig angry "\"Czy musisz być taki uparty...\" "
 
 
 
@@ -3624,7 +3624,7 @@ translate polish start_d2e3b02d:
 
     voice voice_file.au(1,1)
 
-    "\n{vspace=10}{size=30}    \Hej! Ciszej tam! Wiesz, która jest godzina!\"     {/size}" with flash
+    "\n{vspace=10}{size=30}    \"Hej! Ciszej tam! Wiesz, która jest godzina!\"     {/size}" with flash
 
 
 
@@ -3668,7 +3668,7 @@ translate polish start_53d1d59e:
 
     # avt "\"...You don't have to tell me that part!\" "
 
-    avt "\...nie musisz mi tego mówić!\" "
+    avt "\"...nie musisz mi tego mówić!\" "
 
 
 
@@ -3680,7 +3680,7 @@ translate polish start_6b0abdba:
 
     # avt "\"Regardless, you can see how tiny my room is. All of you couldn't stay here even if you tried.\" "
 
-    avt "\Poza tym, zobacz jak mały jest mój pokój. Nie zmieścicie się tu wszyscy, nawet jeśli chcecie.\" "
+    avt "\"Poza tym, zobacz jak mały jest mój pokój. Nie zmieścicie się tu wszyscy, nawet jeśli chcecie.\" "
 
 
 
@@ -3724,7 +3724,7 @@ translate polish start_0cc40536:
 
     voice voice_file.tig(1,42)
 
-    tig normal "\"Liao, wiem co chcesz powiedzieć, ale nie możesz się na to godzić tylko ze względu na twój... {i}specyficzny gust.{/i} "
+    tig normal "\"Liao, wiem co chcesz powiedzieć, ale nie możesz się na to godzić tylko ze względu na twój... {i}specyficzny gust.{/i}\" "
 
 
 
@@ -4468,7 +4468,7 @@ translate polish start_860256f2:
 
     b "Odnowienie świątyni Senpai'a oznacza wzięcie za nią odpowiedzialności! "
 
-    b "W przeciwnym razie, jak przyciągnęlibyśmy ludzi? Pukalibyśmy do drzwi z broszurami i pytali: {i}\"Czy masz chwilę, by porozmawiać o naszym Panu i tygrysach?\"{/i} \" "
+    b "W przeciwnym razie, jak przyciągnęlibyśmy ludzi? Pukalibyśmy do drzwi z broszurami i pytali: {i}\"Czy masz chwilę, by porozmawiać o naszym Panu i tygrysach?\"{/i} "
 
 
 
@@ -4680,7 +4680,7 @@ translate polish start_1d94c5bd:
 
     # avt "\"Senpai? You found it yet?\" "
 
-    avt "Senpai? Nie znalazłeś ich jeszcze?\" "
+    avt "\"Senpai? Nie znalazłeś ich jeszcze?\" "
 
 
 
@@ -5096,7 +5096,7 @@ translate polish start_8270b80a:
 
     voice voice_file.lpdcat(1,57)
 
-    lpdcat cry_2 "Oooh... Łapię.\" "
+    lpdcat cry_2 "\"Oooh... Łapię.\" "
 
 
 
@@ -5292,7 +5292,7 @@ translate polish start_e63f06e3:
 
     # avt "\"Well, I suppose I could let you use the bed... but are the other two really okay with it? I mean floating in the air doesn't seem very comfortable...\" "
 
-    avt "\"Myślę, że mógłbym pozwolić ci spać na łóżku... ale czy reszcie to nie przeszkadza?\nUnoszenie się w powietrzu chyba nie brzmi zbyt wygodnie... "
+    avt "\"Myślę, że mógłbym pozwolić ci spać na łóżku... ale czy reszcie to nie przeszkadza?\nUnoszenie się w powietrzu chyba nie brzmi zbyt wygodnie...\" "
 
 
 
