@@ -1,16 +1,16 @@
-# TODO: Translation updated at 2018-04-16 10:21
+# TODO: Translation updated at 2018-04-16 10:21 *tekst*
 
 # game/script/09.rpy:20
 translate polish s09_9fa3c06e:
 
     # b "Following Tiger's directions, we arrive at a park near Senpai's house in Keelung. "
-    b ""
+    b "" 
 
 # game/script/09.rpy:27
 translate polish s09_1fb7122e:
 
     # b "Following Leopard's directions, we arrive at a park near Senpai's house in Keelung. "
-    b ""
+    b "" 
 
 # game/script/09.rpy:29
 translate polish s09_f25423fe:
@@ -32,7 +32,7 @@ translate polish s09_60e5c0fa:
     # voice voice_file.tig(9,1)
     # tig normal "\"Ok— Liao please wait for us here.\" "
     voice voice_file.tig(9,1)
-    tig normal ""
+    tig normal "" 
 
 # game/script/09.rpy:38
 translate polish s09_d4048543:
