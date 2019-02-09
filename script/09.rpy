@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2018-04-16 10:21 *tekst*
+# TODO: Translation updated at 2018-04-16 10:21
 
 # game/script/09.rpy:20
 translate polish s09_9fa3c06e:
