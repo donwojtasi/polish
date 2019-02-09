@@ -8668,7 +8668,7 @@ translate polish week1_04_lpdcat_cd38496a:
 
     voice voice_file.tig(4,104)
 
-    tig frown "\"Choć ich forma może się zmienić, ich nawyki nie ulegają już tak łatwo zmianie. Ktoś taki jak on może coś zrobić, a nawet nie wiedzieć, że to źle.\" "
+    tig frown "\"Choć ich forma może się zmienić, ich nawyki nie ulegają już tak łatwo zmianie. Ktoś taki jak on może coś uczynić nawet nie wiedząc, że robi źle.\" "
 
 
 
