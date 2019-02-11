@@ -142,7 +142,7 @@ translate polish s09_a2487170:
 
     tig normal "\"Sam nie jesteś w stanie walczyć. Nie mogłem ci tak po prostu pozwolić tam wejść.\" "
 
-    tig normal "\"Teraz, jak już przyniosłeś tutaj moją statuę, możesz zostawić resztę nam.\" "
+    tig normal "\"Teraz, jak już przyniosłeś tutaj mój posążek, możesz zostawić resztę nam.\" "
 
 
 
@@ -218,7 +218,7 @@ translate polish s09_a26e1cff:
 
     voice voice_file.tig(9,7)
 
-    tig normal "\"W takim razie, czy byłbyś w stanie w ten sposób przenieść moją statuę do posiadłości?\" "
+    tig normal "\"W takim razie, czy byłbyś w stanie w ten sposób przenieść mój posążek do posiadłości?\" "
 
 
 
@@ -406,7 +406,7 @@ translate polish s09_1ee544e9:
 
     # b "Suddenly the guardian tiger statue is floating in front of me. I didn't even realise my backpack was open. "
 
-    b "Nagle zaczęła się przede mną unosić statua tygrysiego strażnika. Nie zauważyłem nawet, że mój plecak był otwarty. "
+    b "Nagle, zaczął przede mną lewitować posążek tygrysiego strażnika. Nie zauważyłem nawet, że mój plecak był otwarty. "
 
 
 
@@ -446,7 +446,7 @@ translate polish s09_41ba9056:
 
     voice voice_file.tig(9,13)
 
-    tig disappointed "\"Pantero, proszę unoś ją bliżej ziemi...\" "
+    tig disappointed "\"Pantero, proszę lewituj ją bliżej ziemi...\" "
 
 
 
