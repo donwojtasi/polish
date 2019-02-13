@@ -122,7 +122,7 @@ translate polish s09_e0187b44:
 
     # avt "\"B-{w=0.2}But I!\" " with hshake
 
-    avt "\"B-{w=0.2}Ale!\" " with hshake
+    avt "\"A-{w=0.2}Ale!\" " with hshake
 
 
 
@@ -474,7 +474,7 @@ translate polish s09_9726e4a8:
 
     # b "Everything was out of my hands as I stood there in the park, waiting nervously for Tiger to set his plan in motion... "
 
-    b ""
+    b "Wszystko było już poza moją kontrolą, kiedy tak stałem w parku, nerwowo czekając aż Tygrys wykona swój plan... "
 
 
 
@@ -488,7 +488,9 @@ translate polish s09_df2fd6df:
 
     # b "I mean at least I {i}had{/i} \ to bring Tiger's statue, there's no way that Leopard could have brought it all the way here... "
 
-    b ""
+    b "A więc tak naprawdę mnie nie potrzebowali... "
+
+    b "To znaczy, przynajmniej {i}musiałem{/i} \ wziąć ze sobą posążek Tygrysa, bo nie ma mowy, żeby Pantera sprowadził ją tutaj przez całą drogę... "
 
 
 
@@ -500,7 +502,7 @@ translate polish s09_7b904b7c:
 
     # b "Maybe I should go find a hiding place? I'm pretty close to his house after all...  "
 
-    b ""
+    b "Może powinienem znaleźć jakąś kryjówkę? W końcu jestem dość blisko jego domu... "
 
 
 
@@ -514,7 +516,9 @@ translate polish s09_528ca23f:
 
     # b "Considering how weak I am, I wouldn't place any bets on it. "
 
-    b ""
+    b "Poza tym, jak niebezpieczne mogłoby być to \"wejście\" do domu Senpaia? "
+
+    b "Biorąc pod uwagę to, jaki jestem słaby, raczej nie stawiałbym na to żadnych szans. "
 
 
 
@@ -526,7 +530,7 @@ translate polish s09_9c3d5ca7:
 
     # b "I wish I wasn't just a normal person, that I could be stronger somehow... "
 
-    b ""
+    b "Chciałbym nie być po prostu zwykłą osobą, chciałbym być silniejszy... "
 
 
 
@@ -542,7 +546,7 @@ translate polish s09_d5ab9204:
 
     voice voice_file.lagu(9,1)
 
-    lagu normal "" with flash
+    lagu normal "\"Hej, dzieciaku! Co tu porabiasz?\" " with flash
 
 
 
@@ -554,7 +558,7 @@ translate polish s09_17da5679:
 
     # avt "\"Huh? Ragoo?! What are {i}you{/i} \ doing here?\" "
 
-    avt ""
+    avt "\"Hę? Ragu?! Co {i}ty{/i} \ tutaj robisz?\" "
 
 
 
@@ -570,7 +574,7 @@ translate polish s09_f70e6348:
 
     voice voice_file.lagu(9,2)
 
-    lagu normal ""
+    lagu normal "\"Ahaha- przyszedłem cię zobaczyć dzieciaku.\" "
 
 
 
@@ -582,7 +586,7 @@ translate polish s09_5d62d8e3:
 
     # avt "\"See me?\" "
 
-    avt ""
+    avt "\"Zobaczyć mnie?\" "
 
 
 
@@ -598,7 +602,7 @@ translate polish s09_7b7b90e7:
 
     voice voice_file.lagu(9,3)
 
-    lagu normal ""
+    lagu normal "\"Nie wiedziałeś? Plotki o tym, że poszedłeś uratować swojego chłopaka, rozprzestrzeniają się błyskawicznie.\" "
 
 
 
@@ -610,7 +614,7 @@ translate polish s09_a8c89155:
 
     # avt "\"Save my boyfriend?! That's not how it is!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Uratować mojego chłopaka?! To nie tak!\" " with hshake
 
 
 
@@ -628,7 +632,9 @@ translate polish s09_887c8a4b:
 
     voice voice_file.lagu(9,5)
 
-    lagu laugh ""
+    lagu laugh "\"Czy nie prosiłeś tygrysiego strażnika swojej rodziny, aby znalazł twojego chłopaka? Użył on wielu kontaktów i znajomości, aby tak się stało i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało\" "
+
+    lagu laugh "\"A teraz szarżuje tam, aby uratować tego, na którym ci tak bardzo zależy... Chyba nie oczekujesz, że uwierzę ci, że jest on twoim {i}normalnym{/i} \ przyjacielem, prawda?\" "
 
 
 
@@ -646,7 +652,9 @@ translate polish s09_ba015a4c:
 
     voice voice_file.lagu(9,6)
 
-    lagu laugh ""
+    lagu laugh "\"Czy nie prosiłeś tej mglistej pantery, aby znalazł twojego chłopaka? Węszył on przez całą noc i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało\" "
+
+    lagu laugh "\"Wszystkie yaoguaie mówiły o tym. Błaganie duchów o pomoc w znalezieniu go... Chyba nie oczekujesz, że uwierzę ci, że jest on twoim {i}normalnym{/i} \ przyjacielem, prawda?\" "
 
 
 
@@ -658,7 +666,7 @@ translate polish s09_d87bbd69:
 
     # avt "\"But I... was just worried about Senpai...\" "
 
-    avt ""
+    avt "\"Ale ja tylko... martwiłem się o Senpaia...\" "
 
 
 
@@ -674,7 +682,7 @@ translate polish s09_e4805689:
 
     voice voice_file.lagu(9,8)
 
-    lagu laugh ""
+    lagu laugh "\"Niezależnie od tego co powiesz dzieciaku- i tak każdy już myśli, że jest on twoim chłopakiem.\" "
 
 
 
@@ -686,7 +694,7 @@ translate polish s09_bfaa468a:
 
     # avt "\"But he's not!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Ale nie jest!\" " with vshake
 
 
 
@@ -702,7 +710,7 @@ translate polish s09_ed4ec266:
 
     voice voice_file.lagu(9,9)
 
-    lagu laugh ""
+    lagu laugh "\"Ahaha- rozumiem, rozumiem. Ten twój drugi chłopak pomyślał, że zaczniesz się sam nudzić, więc przysłał mnie tu, abym z tobą poczekał.\" "
 
 
 
@@ -714,7 +722,7 @@ translate polish s09_2fbf47c7:
 
     # avt "\"...{i}Other{/i} \ boyfriend?\" "
 
-    avt ""
+    avt "\"...{i}Drugi{/i} \ chłopak?\" "
 
 
 
@@ -730,7 +738,7 @@ translate polish s09_565f3a14:
 
     voice voice_file.lagu(9,11)
 
-    lagu normal ""
+    lagu normal "\" "
 
 
 
