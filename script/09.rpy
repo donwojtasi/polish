@@ -738,7 +738,7 @@ translate polish s09_565f3a14:
 
     voice voice_file.lagu(9,11)
 
-    lagu normal "\" "
+    lagu normal "\"Ta. Oni troszczą się o ciebie tak bardzo, że są w stanie wykonać tysiące przysług tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
 
 
 
@@ -754,7 +754,7 @@ translate polish s09_44cd74c9:
 
     voice voice_file.lagu(9,12)
 
-    lagu normal ""
+    lagu normal "\"Tak. Oni troszczą się o ciebie tak bardzo, że są w stanie obiec całe miasto tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
 
 
 
@@ -766,7 +766,7 @@ translate polish s09_2166e7b1_1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -778,7 +778,7 @@ translate polish s09_5e8bed51:
 
     # avt "\"Now you're just {i}trying{/i} \ to rile me up...\" "
 
-    avt ""
+    avt "\"Teraz po prostu próbujesz mnie wkurzyć...\" "
 
 
 
@@ -794,7 +794,7 @@ translate polish s09_487a5755:
 
     voice voice_file.lagu(9,14)
 
-    lagu laugh ""
+    lagu laugh "\"Dobrze więc, jeżeli oni nie są twoimi chłopakami, to czym? Posłusznymi psami? ...To jest już brak szacunku.\" "
 
 
 
@@ -806,7 +806,7 @@ translate polish s09_29f065c7:
 
     # avt "\"PLEASE STOP TALKING ALREADY!\" " with vshake
 
-    avt "" with vshake
+    avt "\"PROSZĘ, PRZESTAŃ JUŻ MÓWIĆ!\" " with vshake
 
 
 
@@ -822,7 +822,7 @@ translate polish s09_c29ec968:
 
     voice voice_file.lagu(9,15)
 
-    lagu normal ""
+    lagu normal "\"Nie bądź taki. On poprosił mnie, abym się tobą zajął. Nie mógłbym tego zrobić bez rozmowy z tobą.\" "
 
 
 
@@ -834,7 +834,7 @@ translate polish s09_287b8ab9:
 
     # avt "\"Can you look after me {i}without{/i} \ talking?\" "
 
-    avt ""
+    avt "\"Czy mógłbyś się mną zająć {i}bez{/i} \ rozmowy?\" "
 
 
 
@@ -850,7 +850,7 @@ translate polish s09_a34fb085:
 
     voice voice_file.lagu(9,16)
 
-    lagu normal ""
+    lagu normal "\"T- No więc, nie taki był mój pomysł zajmowania się kimś, no ale dobrze. Będę cicho, jeżeli tego chcesz dzieciaku.\" "
 
 
 
@@ -862,7 +862,7 @@ translate polish s09_979b2756:
 
     # avt "\"...Whatever.\" "
 
-    avt ""
+    avt "\"...Wszystko jedno.\" "
 
 
 
@@ -878,7 +878,11 @@ translate polish s09_bded52f5:
 
     # b "He's not that bad, I {i}should{/i} \ at least try to talk to him... "
 
-    b ""
+    b "Poirytowany, decyduję się usiąść gdzieś w parku i obserwować Ragu, który po prostu stoi przede mną i się bawi... "
+
+    b "Po chwili, cisza mnie dopada i po prostu kończę zanudzony własnym umysłem. "
+
+    b "On nie jest aż taki zły, może {i}powinienem{/i} \ chociaż spróbować z nim porozmawiać. "
 
 
 
@@ -892,7 +896,9 @@ translate polish s09_576cf170:
 
     # b "Once we started talking again it feels like the next two hours pass in an instant. "
 
-    b ""
+    b "Ostatecznie zbieram się na odwagę, aby z nim porozmawiać. Mimo iż Ragu lubi mnie drażnić, to wciąż jest on świetnym gościem. "
+
+    b "Gdy zaczęliśmy z powrotem rozmawiać, wydało się jakby dwie godziny minęły w mgnieniu oka. "
 
 
 
@@ -908,7 +914,7 @@ translate polish s09_1a568bfa:
 
     voice voice_file.lagu(9,17)
 
-    lagu normal ""
+    lagu normal "\"...O, popatrz.\" "
 
 
 
@@ -920,7 +926,7 @@ translate polish s09_0b7e2e06:
 
     # b "My gaze is drawn to the far corner of the park where I see none other than Senpai himself come out from behind the bushes. "
 
-    b ""
+    b "Moje spojrzenie sięga odległego rogu parku, gdzie widzę nikogo innego jak Senpaia we własnej osobie wychodzącego zza krzaków. "
 
 
 
@@ -936,7 +942,7 @@ translate polish s09_a4ecc1d5:
 
     voice voice_file.lpdcat(9,1)
 
-    lpdcat happy ""
+    lpdcat happy "\"Hej! Liao!\" "
 
 
 
@@ -948,7 +954,7 @@ translate polish s09_65d49a82:
 
     # avt "\"Senpai!\" "
 
-    avt ""
+    avt "\"Senpai!\" "
 
 
 
@@ -964,7 +970,7 @@ translate polish s09_2849a082:
 
     voice voice_file.lpdcat(9,2)
 
-    lpdcat happy ""
+    lpdcat happy "\"Liao, dawno się nie widzieliśmy!\" "
 
 
 
@@ -976,7 +982,7 @@ translate polish s09_b236a47b:
 
     # b "Senpai runs over to me. Since Ragoo's watching, I hold him back from pouncing onto me. (As much as I didn't want to.) " with hshake
 
-    b "" with hshake
+    b "Senpai podbiega do mnie. Odkąd Ragu się patrzy, powstrzymuję go od rzucania się na mnie. (Tak bardzo, jak tego nie chciałem.) " with hshake
 
 
 
@@ -988,7 +994,7 @@ translate polish s09_d58c4f87:
 
     # avt "\"Senpai, what happened to you? I've been trying to call you for days.\" "
 
-    avt ""
+    avt "\"Senpai, co się z tobą stało? Próbowałem się do ciebie dodzwonić przez te wszystkie dni.\" "
 
 
 
@@ -1004,7 +1010,7 @@ translate polish s09_ce0d5d8a:
 
     voice voice_file.lpdcat(9,3)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Haha, przepraszam. Nie wiedziałem, że to się tak skończy.\" "
 
 
 
