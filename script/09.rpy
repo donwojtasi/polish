@@ -1026,7 +1026,7 @@ translate polish s09_eb68c094:
 
     voice voice_file.lpdcat(9,4)
 
-    lpdcat normal ""
+    lpdcat normal "\"Na początku po prostu przyszedłem zabrać trochę rzeczy, ale skończyło się na tym, że moja rodzina mnie przymknęła. To przez, wiesz... \"naszą rzecz\"...\" "
 
 
 
@@ -1044,7 +1044,9 @@ translate polish s09_33bd0f71:
 
     voice voice_file.lpdcat(9,5)
 
-    lpdcat serious ""
+    lpdcat serious "\"Nie akceptują tego, że jestem gejem. {i}Próbowałem{/i} \ się sprzeciwić, ale... bez względu na wszystko i tak po studiach jestem zmuszony poślubić kogokolwiek mi wyznaczą.\" "
+
+    lpdcat serious "\"Usłyszeli o nas jakoś. Próbują zmusić mnie do zerwania wszelkich więzi z tobą...\" "
 
 
 
@@ -1056,7 +1058,7 @@ translate polish s09_b00f491d:
 
     # avt "\"So, it's all because of me...\" "
 
-    avt ""
+    avt "\"A więc to wszystko przeze mnie...\" "
 
 
 
@@ -1074,7 +1076,9 @@ translate polish s09_0e62af1e:
 
     voice voice_file.lpdcat(9,6)
 
-    lpdcat panic ""
+    lpdcat panic "\"Nienienie- To nie {i}przez ciebie{/i}, tylko {i}przeze mnie{/i}. To {i}moja{/i} \ wina za rozpowszechnienie się plotek o nas w klubie tanecznym.\" "
+
+    lpdcat panic "\"Nigdy nie myślałem, że moja rodzina tak zareaguje... zabrali mi i mój telefon i mój komputer, więc naprawdę nie byłem się w stanie z tobą skontaktować. Bardzo cię przepraszam.\" "
 
 
 
@@ -1086,7 +1090,7 @@ translate polish s09_31b04fda:
 
     # avt "\"No... It's not your fault. You shouldn't blame yourself.\" "
 
-    avt ""
+    avt "\"Nie... to nie twoja wina. Naprawdę nie powinieneś się winić.\" "
 
 
 
@@ -1102,7 +1106,7 @@ translate polish s09_3f50489c:
 
     voice voice_file.lpdcat(9,7)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Tak czy inaczej, dziękuję ci Liao! Poszedłeś tak daleko tylko po to, by mnie znaleźć...\" "
 
 
 
@@ -1114,7 +1118,7 @@ translate polish s09_ecc14639:
 
     # avt "\"Well... I just waited around. It was really Tiger who went through all the trouble to find you...\" "
 
-    avt ""
+    avt "\"No wiesz... ja tylko tu czekałem. Tak naprawdę to Tygrys przeszedł przez to wszystko, by cię znaleźć...\" "
 
 
 
@@ -1126,7 +1130,7 @@ translate polish s09_0c17be16:
 
     # avt "\"Well... I just waited around. It was really Leopard who went though all the trouble to find you...\" "
 
-    avt ""
+    avt "\"No wiesz... ja tylko tu czekałem. Tak naprawdę to Pantera przeszedł przez to wszystko, by cię znaleźć...\" "
 
 
 
@@ -1142,7 +1146,7 @@ translate polish s09_2249935f:
 
     voice voice_file.lagu(9,18)
 
-    lagu normal ""
+    lagu normal "\"No już dooobrze, wy małe gołąbeczki. Przepraszam za przerywanie waszego spotkania, ale teraz jak już znowu jesteście razem, to jest czas abym ja sobie poszedł.\" "
 
 
 
@@ -1158,7 +1162,7 @@ translate polish s09_d4e206c8:
 
     voice voice_file.lpdcat(9,8)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Heh....\" "
 
 
 
@@ -1170,7 +1174,7 @@ translate polish s09_8b43aaf1:
 
     # avt "\"We're not together!\" "
 
-    avt ""
+    avt "\"My wcale nie jesteśmy razem!\" "
 
 
 
@@ -1186,7 +1190,7 @@ translate polish s09_423c7a9a:
 
     voice voice_file.lagu(9,19)
 
-    lagu laugh ""
+    lagu laugh "\"Ahaha- Jesteś naprawdę świetny dzieciaku. Widzimy się następnym razem.\" "
 
 
 
@@ -1198,7 +1202,7 @@ translate polish s09_2a8d6d14:
 
     # avt "\"Oh, yeah. See ya... well, thank you.\" "
 
-    avt ""
+    avt "\"Ta, pewnie. Do zobaczenia... dziękuję.\" "
 
 
 
@@ -1214,7 +1218,7 @@ translate polish s09_f7462f64:
 
     voice voice_file.lagu(9,20)
 
-    lagu laugh ""
+    lagu laugh "\"Ahahaha-\" "
 
 
 
@@ -1226,7 +1230,7 @@ translate polish s09_563e2144:
 
     # b "Once again Ragoo disappears with a bout of laughter and a hearty smile, fading away without a trace. "
 
-    b ""
+    b "Ponownie, Ragu, śmiejąc się z szerokim uśmiechem znika bez śladu."
 
 
 
@@ -1244,7 +1248,9 @@ translate polish s09_31bef988:
 
     voice voice_file.lpdcat(9,9)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Jestem taki szczęśliwy, że Liao przyszedł mi pomóc.\" "
+
+    lpdcat laugh "\"Oczywiście, muszę jeszcze podziękować Kulau i staruszkowi. To przecież dzięki nim udało mi się wymknąć.\" "
 
 
 
@@ -1260,7 +1266,7 @@ translate polish s09_bfceb089:
 
     voice voice_file.lpdcat(9,10)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ale tak szczerze to... wszystko było w porządku. Po prostu byłem uziemiony na parę dni.\" "
 
 
 
@@ -1272,7 +1278,7 @@ translate polish s09_97f3b2fc:
 
     # avt "\"I'm kinda worried how extreme your family is about grounding you though...\" "
 
-    avt ""
+    avt "\"Ja tylko martwiłem się o to, jak bardzo twoja rodzina jest na serio w uziemianiu ciebie...\" "
 
 
 
@@ -1288,7 +1294,7 @@ translate polish s09_237723bb:
 
     voice voice_file.lpdcat(9,11)
 
-    lpdcat normal "" with flash
+    lpdcat normal "\"Co nie? Nie ma naprawdę nic, co mógłbym zrobić w tej sprawie... ale cieszę się, że pomnie przyszedłeś. Aczkolwiek muszę tam wrócić, zanim zauważą, że mnie nie ma.\" " with flash
 
 
 
@@ -1300,7 +1306,7 @@ translate polish s09_eafe4143:
 
     # avt "\"Couldn't you just run away?\" "
 
-    avt ""
+    avt "\"Nie mogłeś po prostu uciec?\" "
 
 
 
