@@ -1016,9 +1016,9 @@ translate polish s07_80aa76ad:
 
     # b "The neatly placed stone walkways make hiking up a mountain feel like a leisurely walk through the park. "
 
-    b "Idziemy dalej wzdłuż szlaku aż trafiamy na rząd kamiennych schodów.\n(Ciężko sobie wyobrazić ile kamienia musieli tutaj przynieść, by je zbudować.) "
+    b "Idziemy dalej wzdłuż szlaku aż trafiamy na rząd kamiennych schodów. \n(Ciężko sobie wyobrazić ile kamienia zostało tu przyniesione by je zbudować.) "
 
-    b "Starannie umieszczone kamienne stopnie sprawiają, że wędrówka po górach sprawia wrażenie powolnego spaceru po parku. "
+    b "Sprytnie przemyślany układ kamiennych stopni sprawia, że górska wspinaczka jest lekka jak spacer po parku. "
 
 
 
@@ -1030,7 +1030,7 @@ translate polish s07_b7c704cc:
 
     # b "A little further on and the walkways ceased to be paved with stone, becoming dirt paths, stamped out by visitors over decades of use. Thankfully the weather had been nice the last few days so it wasn't muddy. "
 
-    b "Nieco dalej i kamienne stopnie zaczęły znikać pod stertami piachu, wytępione stopami odwiedzających przez dziesięciolecia użytkowania. Na szczęście przez ostatnie kilka dni była dobra pogoda, więc nie było błota. "
+    b "Nieco dalej droga nie była już wyłożona kamieniem, stając się piaskową ścieżką, przez dziesięciolecia wytępioną stopami odwiedzających. Całe szczęście, że od kilku dni dopisywała nam pogoda i nie było żadnego błota. "
 
 
 
@@ -1046,7 +1046,7 @@ translate polish s07_e8a712a4:
 
     voice voice_file.lpdcat(7,26)
 
-    lpdcat difficult "\"To dziwne... przeszliśmy taką drogę i wciąż nie znaleźliśmy kwiatów.\" "
+    lpdcat difficult "\"To dziwne... przeszliśmy taką drogę i ani śladu kwiatów.\" "
 
 
 
@@ -1086,7 +1086,7 @@ translate polish s07_e627c9f5:
 
     # avt "\"Maybe what?\" "
 
-    avt "\"Może co?\" "
+    avt "\"A może co?\" "
 
 
 
@@ -1098,7 +1098,7 @@ translate polish s07_9001b2ba:
 
     # b "Senpai didn't answer and just kept walking quickly ahead, the map held tightly in his hand. There was nothing I could do but follow. "
 
-    b "Senpai nie odpowiedział, tylko szedł dalej w ciszy, ściskając w ręku mapę. Nie pozostało mi nic innego, niż iść za nim. "
+    b "Nie odpowiedział. Zamiast tego szedł dalej w ciszy, ściskając w ręku mapę. Nie pozostało mi nic innego, niż iść za nim. "
 
 
 
@@ -1126,7 +1126,7 @@ translate polish s07_0d77fad4:
 
     # b "We arrived at a place that looked like an abandoned farm with a small hut on the far \nside. "
 
-    b "Dotarliśmy do miejsca, które wyglądało na opuszczone gospodarstwo z małą chatą w oddali. "
+    b "Dotarliśmy do miejsca, które wyglądało na opuszczone gospodarstwo, a w oddali znajdowała się mała chata. "
 
 
 
@@ -1138,7 +1138,7 @@ translate polish s07_6b5fdb40:
 
     # b "Next to the empty field stood a grand tree. It's shade reaching out over the ground below where a large boulder laid beneath. It seemed like the perfect place to sit and have a \nrest. "
 
-    b "Obok pustego pola stało wielkie drzewo. Jego cień sięgał ziemi na której spoczywał wielki głaz. Wyglądało to na wspaniałe miejsce by usiąść i trochę odpocząć. "
+    b "Obok pustego pola stało wielkie drzewo. Jego cień sięgał ziemi na której spoczywał sporych rozmiarów głaz. Wyglądało to na wspaniałe miejsce by usiąść i trochę odpocząć. "
 
 
 
@@ -1154,7 +1154,7 @@ translate polish s07_bba4d995:
 
     voice voice_file.lpdcat(7,29)
 
-    lpdcat serious "\"Tak, to musi być to miejsce... Ale drzewo nie zaczęło jeszcze kwitnąć... porażka.\" "
+    lpdcat serious "\"Tak, to musi być to miejsce... Zdaje się, że drzewo nie zaczęło jeszcze kwitnąć... ale wtopa.\" "
 
 
 
@@ -1182,7 +1182,7 @@ translate polish s07_2c5070e7:
 
     voice voice_file.lpdcat(7,30)
 
-    lpdcat serious "\"Tak i do tego naprawdę duże, ale chyba jesteśmy tu za wcześnie. W Miaoli kwiaty powinny już kwitnąć mniej więcej teraz...\" "
+    lpdcat serious "\"Tak i do tego naprawdę duże, ale najwyraźniej jesteśmy tu za wcześnie. W Miaoli kwiaty zazwyczaj już kwitną o tej porze roku...\" "
 
 
 
@@ -1274,7 +1274,7 @@ translate polish s07_83f9137c:
 
     # avt "\"Senpai... I still think this place is really nice. Isn't it the perfect time to have our picnic anyway?\" "
 
-    avt "\Senpai... I tak myślę, że to miejsce jest naprawdę niezłe. Czy to nie świetny moment na nasz piknik?\" "
+    avt "\Senpai... I tak myślę, że całkiem tu przyjemnie. Czyż to nie świetny moment na nasz piknik?\" "
 
 
 
@@ -1286,7 +1286,7 @@ translate polish s07_7319f5af:
 
     # b "It's a shame we didn't see the blossoms, but I didn't know what to expect anyway so it's not like I feel like I missed out on anything. "
 
-    b "Trochę szkoda, że nie zobaczyliśmy płatków... W sumie nie wiedziałem czego mam się spodziewać- a zatem nie czuję żeby coś mnie ominęło. "
+    b "Trochę szkoda, że tego nie zobaczyliśmy, ale koniec końców nie wiedziałem czego mam się spodziewać- I nie bardzo wiem co mnie ominęło. "
 
 
 
@@ -1330,7 +1330,7 @@ translate polish s07_686b5464:
 
     voice voice_file.lpdcat(7,35)
 
-    lpdcat normal "\"Może jeśli to zrobię... Liao, poczekaj chwilę. Spróbuję zrobić coś trochę trudnego!\" "
+    lpdcat normal "\"Jeśli tylko to zrobię... Liao, poczekaj chwilę. Spróbuję zrobić coś naprawdę trudnego!\" "
 
 
 
@@ -1406,7 +1406,7 @@ translate polish s07_f11cf5cd:
 
     # b "The green aura quickly surrounds the tree, slowly seeping into it. As this happens, the tree begins to shake irrespective of the breeze... "
 
-    b "Zielona aura otacza drzewo w mgnieniu oka, powoli niknąc w jego głębi. Gdy to się dzieje, drzewo zaczyna się trząść niezależnie od wiatru... "
+    b "Zielona aura w mgnieniu oka otacza drzewo, powoli niknąc w jego głębi. Zaraz po tym drzewo zaczyna się trząść niezależnie od wiatru... "
 
 
 
@@ -1420,9 +1420,9 @@ translate polish s07_05d74253:
 
     # b "A sea of white petals cover the branches of the grand tung tree before me. Some of them even begin to fall to the lone boulder below. It's breathtaking. "
 
-    b "Niektóre z pąków kwiatowych na jego czubku zaczynają się otwierać. Nagle, jakby fala energii przeszła przez drzewo, wszystkie kwiaty rozkwitają jednocześnie. "
+    b "Niektóre z pąków kwiatowych na jego czubku zaczynają się rozwijać. Nagle wszystkie kwiaty rozkwitają jednocześnie, tak jakby jakaś fala energii przeszła przez drzewo. "
 
-    b "Morze białych płatków pokrywa gałęzie wielkiego drzewa tungowego. Niektóre z nich zaczynają spadać do samotny głaz leżący poniżej. To zapierający dech w piersiach widok. "
+    b "Morze białych płatków przede mną pokrywa gałęzie wielkiego drzewa tungowego. Niektóre z nich zaczynają spadać na samotny głaz leżący poniżej. To zapierający dech w piersiach widok. "
 
 
 
@@ -1466,7 +1466,7 @@ translate polish s07_2fecde5e:
 
     # b "I go over to pick up one of the tung petals. It's pure white, not a blemish to be seen. The flowers even had pollen inside them. If I didn't know any better I would have thought the petal had blossomed normally just like any other. "
 
-    b "Podchodzę bliżej i podnosze jeden z płatków. Jest śnieżnobiały, bez najmniejszej skazy. Kwiaty mają nawet pyłek w środku. Gdybym nie wiedział co się stało- pomyślałbym, że kwiaty zakwitły tak jak każde inne. "
+    b "Podchodzę bliżej podnosząc jeden z płatków. Jest śnieżnobiały i nieskazitelny. Kwiaty mają nawet pyłek w środku. Gdybym nie wiedział co się stało- pomyślałbym, że zakwitły w zwykły sposób jak każde inne. "
 
 
 
@@ -1594,7 +1594,7 @@ translate polish s07_27fc29de:
 
     voice voice_file.lpdcat(7,40)
 
-    lpdcat happy "\"Jeśli wyprawy oznaczają pikniki- to pikniki oznaczają, że muszę zabrać ze sobą górę słodyczy, które dadzą nam energię w drodze powrotnej! A co ty tam masz dla nas Liao?!\" "
+    lpdcat happy "\"Jeśli wyprawy oznaczają pikniki- to pikniki oznaczają, że muszę zabrać ze sobą górę słodyczy, które dadzą nam energię w drodze powrotnej! A co tam masz dla nas Liao?!\" "
 
 
 
@@ -1634,7 +1634,7 @@ translate polish s07_270eb852:
 
     # b "Senpai drops his backpack down and takes out some cookies, crackers and an assortment of pastries. I mean you {i}could{/i} \ eat that all in one go, but it's hardly a proper meal. "
 
-    b "Senpai upuszcza plecak i wyciąga z niego ciastka, herbatniki i inne słodkie rzeczy. To znaczy, {i}da się{/i} \ to wszystko zjeść za jednym razem, ale ciężko nazwać to odpowiednim posiłkiem. "
+    b "Senpai upuszcza plecak i wyciąga z niego ciastka, herbatniki i inne słodkie rzeczy. Zmierzam do tego, że {i}da się{/i} \ to wszystko zjeść za jednym razem, ale ciężko nazwać to dobrym posiłkiem. "
 
 
 
@@ -1650,7 +1650,7 @@ translate polish s07_9a7adbdf:
 
     voice voice_file.lpdcat(7,42)
 
-    lpdcat normal "\"A więc jakie cudowne przysmaki przyniósł Liao?\" "
+    lpdcat normal "\"A więc jakie to cudowne przysmaki przyniósł Liao?\" "
 
 
 
@@ -1674,7 +1674,7 @@ translate polish s07_68295b75:
 
     # b "I made it while Senpai was still sleeping. I never cook so I just used some recipe I found on the internet— so it probably didn't turn out any good. "
 
-    b "Zrobiłem je, gdy Senpai jeszcze spał. Nigdy nie gotuję, wobec tego skorzystałem z przepisu znalezionego w internecie- pewnie nie wyszło z tego nic dobrego. "
+    b "Zrobiłem je gdy Senpai jeszcze spał. Nigdy nie gotuję, toteż skorzystałem z przepisu znalezionego w internecie- pewnie nie wyszło z tego nic dobrego. "
 
 
 
@@ -1686,7 +1686,7 @@ translate polish s07_fb9c6053:
 
     # b "Not to mention those mistakes I made while putting it together... Thankfully Tiger was there to help me fix them. I tried my best to cook a variety of vegetables and meat. At the very least it should be good for me. "
 
-    b "Nie wspominając o błędach, które zrobiłem podczas przygotowywania... Na szczęście Tygrys tam był by pomóc mi je naprawić. Bardzo się starałem ugotować różnorodne warzywa i mięso. Przynajmniej dla mnie powinno być dobre. "
+    b "Nie wspominając o błędach, które zrobiłem podczas przygotowywania... Na szczęście Tygrys był tam i pomagał mi je naprawiać. Bardzo się starałem by ugotować jak najróżnorodniejsze warzywa i mięso. Przynajmniej dla mnie powinno być dobre. "
 
 
 
@@ -1726,7 +1726,7 @@ translate polish s07_546979bf:
 
     # avt "\"Hey no way! I was just thinking that I should try making a bento for our picnic.\" "
 
-    avt "\"Nie ma szans! Ja tylko pomyślałem, że powinienem spróbować zrobić bento na nasz piknik.\" "
+    avt "\"Hej, bez takich! Pomyślałem tylko, że powinienem spróbować zrobić bento na nasz piknik.\" "
 
 
 
@@ -1774,7 +1774,7 @@ translate polish s07_cd6e8c56:
 
     voice voice_file.lpdcat(7,45)
 
-    lpdcat angry "\"To niby dla kogo by je zrobił? Ty i tak nie musisz nic jeść!\" "
+    lpdcat angry "\"To niby dla kogo? Ty i tak nie musisz nic jeść!\" "
 
 
 
@@ -1790,7 +1790,7 @@ translate polish s07_2d32681d:
 
     voice voice_file.tig(7,10)
 
-    tig lift "\"Po ofiarowaniu go, Liao na pewno zjadłby to sam.\" "
+    tig lift "\"Po ofiarowaniu go nam, Liao na pewno zjadłby to sam.\" "
 
 
 
@@ -1894,7 +1894,7 @@ translate polish s07_a6d245f6:
 
     # b "I quickly hide the bento behind my back to keep it away from any funny ideas they might have. "
 
-    b "Chowam szybko bento za plecami by uchronić je przed głupimi pomysłami na jakie mogą wpaść. "
+    b "Chowam swój posiłek za plecami by uchronić go przed głupimi pomysłami na jakie mogą wpaść. "
 
 
 
@@ -1906,7 +1906,7 @@ translate polish s07_36f0d126:
 
     # avt "\"Hey, no need to bicker over it. I made this for my lunch today. Why would you think I made it for you?\" "
 
-    avt "\"Hej, nie ma potrzeby się o to sprzeczać. Przygotowałem to na mój dzisiejszy lunch. Czemu myślicie, że zrobiłem je dla was?\" "
+    avt "\"Hej, nie ma o co się sprzeczać. Przygotowałem to na mój dzisiejszy lunch. Czemu myślicie, że zrobiłem je dla was?\" "
 
 
 
@@ -1922,7 +1922,7 @@ translate polish s07_fb19eff1:
 
     voice voice_file.tig(7,13)
 
-    tig normal "\"Ale Liao, czy nie będzie lepiej jeżeli ofiarujesz je nam zanim je zjesz? Ty na tym nic nie tracisz.\" "
+    tig normal "\"Ależ Liao. Czy nie lepiej będzie jeżeli ofiarujesz je nam zanim je zjesz? Przecież nic na tym nie tracisz.\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish s07_d6fb3c23:
 
     voice voice_file.lpdcat(7,48)
 
-    lpdcat not_reconcile "\"Co- Czekaj! Jeślibyś to zrobił, wszyscy zjedliby trochę bento poza mną! To nie fair!\" "
+    lpdcat not_reconcile "\"Co- Czekaj! Jeśli to zrobisz, wszyscy dostaną trochę bento poza mną! To nie fair!\" "
 
 
 
@@ -1966,7 +1966,7 @@ translate polish s07_64be22cb:
 
     voice voice_file.lpd(7,3)
 
-    lpd normal "\"...Ty nie potrzebujesz.\" "
+    lpd normal "\"...Tobie nie trzeba.\" "
 
 
 
@@ -1982,7 +1982,7 @@ translate polish s07_e812743a:
 
     voice voice_file.lpdcat(7,49)
 
-    lpdcat not_reconcile "\"Kulau, ty też?! Ja tylko chcę spróbować domowego jedzenia, które zrobił Liao! Czy proszę o wiele...\" "
+    lpdcat not_reconcile "\"Kulau, ty też?! Chcę tylko spróbować domowego jedzenia, które zrobił Liao! Czy proszę o tak wiele...\" "
 
 
 
@@ -1994,7 +1994,7 @@ translate polish s07_9bd9b0b8:
 
     # b "Senpai looks at me with unconvincing sad puppy eyes while Tiger and Leopard slowly close in on me... What should I do? "
 
-    b "Senpai spogląda na mnie nieprzekonująco smutnymi oczami, a Tygrys i Pantera powoli się do mnie zbliżają... Co powinienem zrobić? "
+    b "Senpai spogląda na mnie nieprzekonująco smutnymi oczami, a Tygrys i Pantera powoli się zbliżają... Co powinienem zrobić? "
 
 
 
