@@ -1324,7 +1324,9 @@ translate polish s09_cdcac812:
 
     voice voice_file.lpdcat(9,12)
 
-    lpdcat serious ""
+    lpdcat serious "\"To byłoby jak zerwanie z nimi wszystkich więzi i kontaktów... ale wciąż mogę spędzić trochę czasu z tobą, zanim będę musiał wracać.\" "
+
+    lpdcat serious "\"Pójdziesz ze mną na randkę?\" "
 
 
 
@@ -1340,7 +1342,7 @@ translate polish s09_65b8acbf:
 
     voice voice_file.lpdcat(9,13)
 
-    lpdcat serious ""
+    lpdcat serious "\"To byłoby jak zerwanie z nimi wszystkich więzi i kontaktów...\" "
 
 
 
@@ -1356,7 +1358,7 @@ translate polish s09_eecd337e:
 
     voice voice_file.lpdcat(9,14)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Ale przez to...\" "
 
 
 
@@ -1368,7 +1370,7 @@ translate polish s09_4202bd93:
 
     # b "Senpai goes silent, as if hesitating to finish what he wants to say. "
 
-    b ""
+    b "Senpai milknie, tak jakby wahając się dokończyć to co chce powiedzieć. "
 
 
 
@@ -1380,7 +1382,7 @@ translate polish s09_617d39ed:
 
     # avt "\"What's wrong?\" "
 
-    avt ""
+    avt "\"Co się stało?\" "
 
 
 
@@ -1396,7 +1398,7 @@ translate polish s09_859bb2bc:
 
     voice voice_file.lpdcat(9,15)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Liao, jeśli...\" "
 
 
 
@@ -1408,7 +1410,7 @@ translate polish s09_5eca2676:
 
     # lpdcat wronged "\"......\" "
 
-    lpdcat wronged ""
+    lpdcat wronged "\"......\" "
 
 
 
@@ -1424,7 +1426,7 @@ translate polish s09_105595a4:
 
     voice voice_file.lpdcat(9,16)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Jeśli powiedziałbym ci...\" "
 
 
 
@@ -1436,7 +1438,7 @@ translate polish s09_3e0aeefb:
 
     # avt "\"What?\" "
 
-    avt ""
+    avt "\"Ale co?\" "
 
 
 
@@ -1448,7 +1450,7 @@ translate polish s09_5eca2676_1:
 
     # lpdcat wronged "\"......\" "
 
-    lpdcat wronged ""
+    lpdcat wronged "\"......\" "
 
 
 
@@ -1464,7 +1466,7 @@ translate polish s09_72da07f5:
 
     voice voice_file.lpdcat(9,17)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Muszę później wrócić, ale wcześniej... moglibyśmy pójść razem na randkę?\" "
 
 
 
@@ -1476,7 +1478,7 @@ translate polish s09_adf5227b:
 
     # avt "\"Now? But Tiger's not even back yet...\" "
 
-    avt ""
+    avt "\"Teraz? Ale Tygrys nawet jeszcze nie wrócił...\" "
 
 
 
@@ -1488,7 +1490,7 @@ translate polish s09_d5af02da:
 
     # avt "\"Now? But Leopard's not even back yet...\" "
 
-    avt ""
+    avt "\"Teraz? Ale Pantera nawet jeszcze nie wrócił...\" "
 
 
 
@@ -1504,7 +1506,7 @@ translate polish s09_77110171:
 
     voice voice_file.lpdcat(9,18)
 
-    lpdcat panic ""
+    lpdcat panic "\"Nie mamy już zbyt wiele czasu, zanim będę musiał wracać... {i}proszę{/i}, Liao...\" "
 
 
 
@@ -1516,7 +1518,7 @@ translate polish s09_02_agree_2919de45:
 
     # avt "\"Mm-hmm... I'll be happy to stay with you for a little while before you go back.\" "
 
-    avt ""
+    avt "\"Mm-hmm... Będę szczęśliwy, jeżeli zostanę z tobą na trochę dłużej, zanim będziesz musiał wracać.\" "
 
 
 
@@ -1532,7 +1534,7 @@ translate polish s09_02_agree_76451a19:
 
     voice voice_file.lpdcat(9,19)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Dziękuję ci- Dziękuję ci, Liao! Nie traćmy już więcej ani chwili!\" "
 
 
 
@@ -1544,7 +1546,7 @@ translate polish s09_02_agree_446c6aab:
 
     # b "Senpai takes hold of my hand, dragging me away from the park with him. "
 
-    b ""
+    b "Senpai bierze mnie za rękę, odciągając mnie od parku. "
 
 
 
@@ -1556,7 +1558,7 @@ translate polish s09_02_agree_dd9eb733:
 
     # avt "\"Senpaaaaai— Where are we going?\" "
 
-    avt ""
+    avt "\"Senpaaaaai- Dokąd idziemy?\" "
 
 
 
@@ -1572,7 +1574,7 @@ translate polish s09_02_agree_247ab7c3:
 
     voice voice_file.lpdcat(9,20)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Jest takie jedno fajne miejsce nie daleko stąd! Zawsze chciałem ci je pokazać.\" "
 
 
 
@@ -1584,7 +1586,7 @@ translate polish s09_02_agree_f4fe1831:
 
     # avt "\"Really? I thought shopping was the only thing you cared about...\" "
 
-    avt ""
+    avt "\"Naprawdę? Myślałem, że zależy ci tylko na zakupach...\" "
 
 
 
@@ -1600,7 +1602,7 @@ translate polish s09_02_agree_9bcac266:
 
     voice voice_file.lpdcat(9,21)
 
-    lpdcat normal ""
+    lpdcat normal "\"Tak bardzo, jak lubię zakupy, to nie jest to czego chcę teraz. Chcę cię zabrać w specjalne miejsce!\" "
 
 
 
@@ -1612,7 +1614,7 @@ translate polish s09_02_agree_760a6697:
 
     # avt "\"I guess you're right...\" "
 
-    avt ""
+    avt "\"Chyba masz rację...\" "
 
 
 
