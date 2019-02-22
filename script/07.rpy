@@ -2046,7 +2046,7 @@ translate polish s07_02_tig_b04fd5c0:
 
     # b "Leopard cut me off before I could finish. He's being awfully jumpy over this... probably anxious to hear my answer. Unnerved, I quickly look away. "
 
-    b "Pantera przerwał mi zanim skończyłem. Jest okropnie nerwowy z tego powodu... pewnie niepokoiła go moja odpowiedź. Podirytowany, szybko odwracam wzrok. "
+    b "Pantera przerwał mi zanim skończyłem. Jest okropnie nerwowy z tego powodu... pewnie niepokoi go co powiem. Podirytowany, szybko odwracam wzrok. "
 
 
 
@@ -2058,7 +2058,7 @@ translate polish s07_02_lpd_16f33d17:
 
     # avt "\"Hey, okay now... you three just need to stop fighting over this. I made this and it's my choice to give it to one of you. Got it?\" "
 
-    avt "\"Hej, już dobrze... wy trzej- musicie przestać się o to kłócić. Ja to zrobiłem i ode mnie zależy, któremu z was to dam. Zrozumiano?\" "
+    avt "\"Hej, już dobrze... wy trzej- przestańcie się już o to kłócić. Ja to zrobiłem i ode mnie zależy z którym z was się podzielę. Zrozumiano?\" "
 
 
 
@@ -2126,7 +2126,7 @@ translate polish s07_02_lpd_a94bdfdf:
 
     # b "What's got Leopard so tense? I watch him, trying to scrutinise what's going on, I think he's... looking behind me? Quickly, I turn my head to see what's up. "
 
-    b "Dlaczego Pantera stał się taki spięty? Obserwuję go, próbując przeanalizować co się dzieje, myślę że on... spogląda za mnie? Odwracam głowę by zobaczyć o co chodzi. "
+    b "Dlaczego Pantera tak się naburmuszył? Spoglądam na niego, próbując przeanalizować co się dzieje, myślę że on... spogląda mi za plecy? Odwracam głowę by zobaczyć o co chodzi. "
 
 
 
@@ -2150,7 +2150,7 @@ translate polish s07_02_lpdcat_146d5ef0:
 
     # avt "\"Senpai, that junk food is all you brought, right?\" "
 
-    avt "\"Senpai, te śmieciowe jedzenie to wszystko co ze sobą zabrałeś?\" "
+    avt "\"Senpai, te śmieciowe żarcie to wszystko co ze sobą zabrałeś?\" "
 
 
 
@@ -2178,7 +2178,7 @@ translate polish s07_02_lpdcat_4dcd1172:
 
     # b "(Senpai's idea of perfect hiking food would just make most people ill...) "
 
-    b "(Od idealnego- zdaniem Senpai'a- jedzenia na wyprawy, większość ludzi miałaby mdłości...) "
+    b "(Większość ludzi rozchorowałaby się od tego \"idealnego\" - zdaniem Senpai'a - jedzenia...) "
 
 
 
@@ -2190,7 +2190,7 @@ translate polish s07_02_lpdcat_9d69d330:
 
     # avt "\"It's just gonna be {i}really{/i} \ weird having a proper meal while you sit there and eat a bunch of junk. So, you can have some if you wan—\" "
 
-    avt "\"To byłoby {i}naprawdę{/i} \ nie w porządku- jeść normalny posiłek, gdy ty siedzisz tu i jesz te śmieci. Dlatego mogę się z tobą podzielić, jeśli chce-\" "
+    avt "\"Byłoby mi {i}bardzo{/i} \ niezręcznie jeść normalny posiłek, podczas gdy ty opychasz się tym świństwem. Dlatego mogę się z tobą podzielić, jeśli chce-\" "
 
 
 
@@ -2218,7 +2218,7 @@ translate polish s07_02_lpdcat_2a197922:
 
     # b "Huh? Leopard's sudden outburst catches me of guard my attention quickly focusing on him. "
 
-    b "Hę? Nieoczekiwany wybuch Pantery zaskakuje mnie i sprawia, że skupiam na nim swoją uwagę. "
+    b "Hę? Nieoczekiwany wybuch Pantery szybko odwraca moją uwagę od całej reszty. "
 
 
 
@@ -2274,7 +2274,7 @@ translate polish s07_03_44b299ea:
 
     # avt "\"I know that! Why do you think I was going to eat it by myself!\" "
 
-    avt "\"Wiem o tym! Dlaczego myślisz, że chciałem to sam zjeść!\" "
+    avt "\"Wiem o tym! Dlaczego myślisz, że sam chciałem to zjeść!\" "
 
 
 
@@ -2318,7 +2318,7 @@ translate polish s07_03_b233e9fe:
 
     voice voice_file.lagu(7,5)
 
-    lagu2 normal "\"Czy tych troje nie jest twoimi zalotnikami... a może coś im się pomyliło?\" "
+    lagu2 normal "\"Tych troje nie jest przypadkiem twoimi zalotnikami... a może coś im się pomyliło?\" "
 
 
 
@@ -2330,7 +2330,7 @@ translate polish s07_03_54d3b4c4:
 
     # avt "\"You're mistaken! Also, who are you? Don't you know not to go around and steal other people's food?!\" "
 
-    avt "\"Ty się mylisz! A w ogóle, kim ty jesteś? Nie wiesz, że nie wolno tak się skradać i kraść innym jedzenie?\" "
+    avt "\"Mylisz się! A w ogóle, kim ty jesteś? Nie wiesz, że nie wolno tak się skradać i kraść ludziom jedzenie?\" "
 
 
 
@@ -2346,7 +2346,7 @@ translate polish s07_03_ab92ade2:
 
     voice voice_file.lagu(7,6)
 
-    lagu2 laugh "\"Ehh- Zorientowałem, że ta trójka zaczęłaby się o to kłócić. Zatem podszedłem bliżej i sam to zjadłem. Oczywiście by ci pomóc.\" "
+    lagu2 laugh "\"Ehh- Spostrzegłem, że lada moment zaczną się o to kłócić, a więc podszedłem bliżej i sam to zjadłem. Oczywiście by ci pomóc.\" "
 
 
 
@@ -2358,7 +2358,7 @@ translate polish s07_03_597b77fd:
 
     # avt "\"That's still stealing! You should at least ask me first!\" "
 
-    avt "\"To zwykła kradzież! Przynajmniej mogłeś się mnie najpierw o to zapytać!\" "
+    avt "\"To wciąż kradzież! Mogłeś przynajmniej zapytać się mnie o zdanie!\" "
 
 
 
@@ -2374,7 +2374,7 @@ translate polish s07_03_ad6c9fd5:
 
     voice voice_file.tig(7,14)
 
-    tig frown "\"...Racja. Zazwyczaj stosuję wszelkie niezbędne maniery wobec Boga Ziemi takiego jak ty, ale zdaje się, że one cię nie odchodzą.\" "
+    tig frown "\"...Racja. W innych okolicznościach zachowałbym wszelkie maniery wobec Boga Ziemi takiego jak ty, ale zdaje się, że one cię nie odchodzą.\" "
 
 
 
@@ -2386,7 +2386,7 @@ translate polish s07_03_a1cfa12b:
 
     # avt "\"It's easy just to ask. How dare you be so...\" "
 
-    avt "\"Tak łatwo jest po prostu zapytać. Jak możesz być taki...\" "
+    avt "\"Dużo prościej byłoby zapytać. Jak możesz być taki...\" "
 
 
 
@@ -2414,7 +2414,7 @@ translate polish s07_03_0518cee3:
 
     voice voice_file.tig(7,15)
 
-    tig normal "\"Tak. Coś się stało?\" "
+    tig normal "\"Tak. Coś nie tak?\" "
 
 
 
@@ -2430,7 +2430,7 @@ translate polish s07_03_8507f98e:
 
     voice voice_file.lpdcat(7,52)
 
-    lpdcat normal "\"Hah- Ten gość wygląda pochodzący z daleka smok, ale zdecydowanie posiada Chi Boga Ziemi. Nie powiem- nie widziałem dotychczas żadnych bogów takich jak ty.\" "
+    lpdcat normal "\"Hę- Ten gość wygląda jak pochodzący z daleka smok, ale zdecydowanie posiada Chi Boga Ziemi. Nie powiem- nie widziałem dotychczas żadnych bogów takich jak ty w tej okolicy.\" "
 
 
 
@@ -2506,7 +2506,7 @@ translate polish s07_03_2ff9cbb3:
 
     voice voice_file.tig(7,16)
 
-    tig normal "\"Innymi słowy, jest bogiem zamieszkującym drzewo. Stare drzewa mogą zostać Bogiem Ziemi danego miejsca, jeżeli są wielbione przez lokalną ludność.\" "
+    tig normal "\"Innymi słowy, jest bogiem zamieszkującym drzewo. Tak stare drzewo może stać się Bogiem Ziemi, gdy jest czczone przez lokalną ludność.\" "
 
 
 
@@ -2530,7 +2530,7 @@ translate polish s07_03_9c151db2:
 
     # b "So he's a tree spirit that looks like a dragon? Okaaay... What kind of tree looks like that?! Not to mention those clothes... everything about this guy is just weird! \n(Where did he even come from?) "
 
-    b "W takim razie jest duchem drzewa, które wygląda jak smok? Dooobra... Jakie drzewo przypomina coś takiego?! Nie wspominając o jego ubiorze... wszystko związane z tym gościem jest dziwne!\n(Skąd on w zasadzie pochodzi?) "
+    b "W takim razie jest duchem drzewa, który wygląda jak smok? Dooobra... Jakie drzewo tak wygląda?! Nie wspominając o tych ubraniach... wszystko związane z tym gościem nie na miejscu!\n(W zasadzie to skąd on pochodzi?) "
 
 
 
@@ -2578,7 +2578,7 @@ translate polish s07_03_76654174:
 
     voice voice_file.lpdcat(7,54)
 
-    lpdcat angry "\"Tak samo jak nikt nie powiedział, że było {i}twoje{/i} \ staruszku!\" " with hshake
+    lpdcat angry "\"To samo tyczy się {i}ciebie{/i} \ dziadku!\" " with hshake
 
 
 
@@ -2594,7 +2594,7 @@ translate polish s07_03_7874ce1a:
 
     voice voice_file.tig(7,18)
 
-    tig frown "\"...Po prostu chcesz dać mi takie miano, prawda?\" "
+    tig frown "\"...Chcesz mnie nazywać dziadkiem, chcesz?\" "
 
 
 
@@ -2630,7 +2630,7 @@ translate polish s07_03_a3daccc6:
 
     # avt "\"But how could a God of Soil look like that? I've {i}absolutely{/i} \ never learnt about any gods that look like {i}that!{/i}\" "
 
-    avt "\"Jakim cudem Bóg Ziemi może tak wyglądać? {i}Przenigdy{/i} \ nie uczyłem się, że istnieją bogowie którzy tak {i}wyglądają!{/i}\" "
+    avt "\"Jakim cudem Bóg Ziemi może tak wyglądać? {i}Przenigdy{/i} \ nie słyszałem, że istnieją bogowie którzy tak {i}wyglądają!{/i}\" "
 
 
 
@@ -2750,7 +2750,7 @@ translate polish s07_03_42ce5908:
 
     # b "How are we supposed to know where his weird clothes came from? "
 
-    b "Jak mamy się dowiedzieć, skąd wziął się jego dziwaczny ubiór? "
+    b "A my jak mamy wiedzieć skąd wziął się jego dziwaczny ubiór? "
 
 
 
@@ -2766,7 +2766,7 @@ translate polish s07_03_5013848f:
 
     voice voice_file.lagu(7,11)
 
-    lagu laugh "\"Ahh- Nawet nie spróbujesz mnie rozbawić? Cóż, mogę w sumie ci powiedzieć. To sieć do zabezpieczania osuwisk.\" "
+    lagu laugh "\"Ahh- Nawet nie spróbujesz dać mi trochę rozrywki? Cóż, w sumie mogę ci powiedzieć. To sieć do zabezpieczania osuwisk.\" "
 
 
 
@@ -2778,7 +2778,7 @@ translate polish s07_03_4f66307d:
 
     # avt "\"Oh, you mean those ones along the edges of cliffs to prevent rocks from falling?\" "
 
-    avt "\"Och, masz na myśli te, które rozmieszczone są na krawędziach urwisk by zatrzymać kamienie przed spadnięciem?\""
+    avt "\"Och, masz na myśli te na krawędziach urwisk, zatrzymujące kamienie przed spadnięciem?\" "
 
 
 
@@ -2794,7 +2794,7 @@ translate polish s07_03_f95947ec:
 
     voice voice_file.lagu(7,12)
 
-    lagu normal "\"Dokładnie. Spadające kamienie oplotły mnie tą siecią. Od tamtego momentu wszyscy moi wyznawcy widzą mnie w ten sposób.\" "
+    lagu normal "\"Dokładnie. Spadające kamienie oplotły mnie tą siecią. Od tamtego momentu ukazuję się wszystkim moim wyznawcom pod tą postacią.\" "
 
 
 
@@ -2822,7 +2822,7 @@ translate polish s07_03_fcd01b29:
 
     voice voice_file.lagu(7,13)
 
-    lagu laugh "\"Łahahaha! No pewnie... Mój pień przypomina swym kształtem smoka.\" "
+    lagu laugh "\"Łahahaha! No pewnie... Kształt pnia mojego drzewa przypomina swym kształtem smoka.\" "
 
 
 
@@ -2850,7 +2850,7 @@ translate polish s07_03_3a0a0c8f:
 
     voice voice_file.lagu(7,14)
 
-    lagu normal "\"Dokładnie. Jakiś czas temu zostałem uderzony piorunem. Od tego czasu ludzie sądzą, że wyglądam jak smok.\" "
+    lagu normal "\"Pewnie. Jakiś czas temu zostałem uderzony piorunem. Odtąd ludzie sądzą, że wyglądam jak smok.\" "
 
 
 
@@ -2870,7 +2870,7 @@ translate polish s07_03_80dcc0cf:
 
     lagu normal "\"Z początku tego nie zauważyłem, ale po jakimś czasie pewien artysta namalował mnie na swoim płótnie.\" "
 
-    lagu normal "\"Na jego obrazie wyglądałem jak smok śpiący w czarnych obłokach burzy z piorunami. Wciąż nie wiem, czy mi się to podoba... ale to z pewnością było dzieło mistrzowskiego artysty.\" "
+    lagu normal "\"Jego obraz przedstawiał mnie jako smoka śpiącego w czarnych obłokach burzy z piorunami. Wciąż nie wiem, czy mi się to podoba... ale to z pewnością było dzieło mistrza.\" "
 
 
 
@@ -2886,7 +2886,7 @@ translate polish s07_03_0a8a1fdc:
 
     voice voice_file.lagu(7,16)
 
-    lagu laugh "\"Na malowidle nie nosiłem żadnych ubrań, ale teraz nie mógłbym przecież paradować {i}nago{/i}, \ prawda? Łahaha-\" "
+    lagu laugh "\"Na malowidle nie nosiłem żadnych ubrań, ale nie mógłbym przecież paradować {i}nago{/i}, \ prawda? Łahaha-\" "
 
 
 
@@ -2898,7 +2898,7 @@ translate polish s07_03_0580cc84:
 
     # avt "\"So instead, you gallivant around in a {i}net?{/i}\" "
 
-    avt "\"W takim razie paradujesz wokoło w {i}sieci?{/i}\" "
+    avt "\"Zamiast tego paradujesz wokoło w {i}sieci?{/i}\" "
 
 
 
@@ -2930,7 +2930,7 @@ translate polish s07_03_5b9dad18:
 
     avt "\"...Wiesz, jestem studentem.\" "
 
-    avt "\"A o co chodzi z tym przezwiskiem? Nie wyobrażam sobie Leśnych Lordów, którzy chcieliby być nazywani per Ragu.\" "
+    avt "\"A o co chodzi z tym przezwiskiem? Nie wyobrażam sobie by którykolwiek Leśny Lord chciałby być nazywany per Ragu.\" "
 
 
 
@@ -2986,7 +2986,7 @@ translate polish s07_03_91e4c917:
 
     # avt "\"All right, sorry, sorry. But... why did you choose to grace us with your presence?\" "
 
-    avt "Dobrze już, dobrze. Ale... Czemuś to zaszczycił nas swoją obecnością?\" "
+    avt "\"Dobrze już, dobrze. Ale... Czemuś to zaszczycił nas swoją obecnością?\" "
 
 
 
@@ -3034,7 +3034,7 @@ translate polish s07_03_6208421f:
 
     voice voice_file.lagu(7,20)
 
-    lagu normal "\"Łahaha- To oczywiście nie znaczy, że ludzie nie powinni okazywać swym bogom szacunku. Nie lubię tych formalnych rozmów. To tylko przeszkadza w tym co naprawdę się liczy.\" "
+    lagu normal "\"Łahaha- Nie chodzi o to, że ludzie nie powinni okazywać swym bogom szacunku. Po prostu nie lubię tego formalnego ględzenia. To tylko przeszkadza w tym co naprawdę się liczy.\" "
 
 
 
@@ -3046,7 +3046,7 @@ translate polish s07_03_1a782959:
 
     # b "This guy really is a unique god that's for sure. "
 
-    b "Ten gość jest naprawdę wyjątkowym bogiem. "
+    b "Ten gość na pewno jest wyjątkowym bogiem. "
 
 
 
@@ -3058,7 +3058,7 @@ translate polish s07_03_f0d8f711:
 
     # avt "\"Hmm... But why did you choose to talk to us? Not to mention steal my bento.\" "
 
-    avt "\"Hmm... Czemu zdecydowałeś się z nami porozmawiać? Nie wspominając o kradzieży mojego bento.\" "
+    avt "\"Hmm... Ale dlaczego postanowiłeś z nami porozmawiać? Nie wspominając o kradzieży mojego bento.\" "
 
 
 
@@ -3102,7 +3102,7 @@ translate polish s07_03_ae9e91d2:
 
     voice voice_file.lagu(7,22)
 
-    lagu normal "\"Jesteście dobrze znani, nie wiedziałeś?\" " with flash
+    lagu normal "\"Jesteście znani, nie wiedziałeś?\" " with flash
 
 
 
@@ -3130,7 +3130,7 @@ translate polish s07_03_adfc9c6b:
 
     voice voice_file.lagu(7,23)
 
-    lagu normal "\"Chłopiec, który widzi duchy, kręcący się wokoło w towarzystwie trzech kocich bogów! Jesteś tym o którym rozmawiają teraz wszyscy yaoguai! Naprawdę nic nie wiedziałeś?\" "
+    lagu normal "\"Chłopiec widzący duchy kręci się wokoło w towarzystwie trzech kocich bogów! To o tobie rozmawiają teraz wszyscy yaoguai! Naprawdę nic nie wiedziałeś?\" "
 
 
 
@@ -3162,7 +3162,7 @@ translate polish s07_03_75f1c71b:
 
     voice voice_file.lpdcat(7,57)
 
-    lpdcat surprise_1 "\"Cooo- Niemożliwe! ...Naprawdę to nie rozmawiałem z żadnym innym yaoguai od kiedy zacząłem wieść życie jako Yan Shu-Chi.\" "
+    lpdcat surprise_1 "\"Cooo- Niemożliwe! ...W sumie to nie rozmawiałem z żadnym innym yaoguai od kiedy zacząłem wieść życie jako Yan Shu-Chi.\" "
 
 
 
@@ -3190,7 +3190,7 @@ translate polish s07_03_e9d05b08:
 
     # avt "\"Huh, Tiger, you {i}knew{/i} \ about this?\" "
 
-    avt "\"Tygrysie, {i}wiedziałeś{/i} \ o tym?\" "
+    avt "\"Hę? Tygrysie, {i}wiedziałeś{/i} \ o tym?\" "
 
 
 
@@ -3206,7 +3206,7 @@ translate polish s07_03_38b528a2:
 
     voice voice_file.tig(7,22)
 
-    tig normal "\"{i}Wiem,{/i} \ że yaoguai kochają plotkować- to była tylko kwestia czasu abyśmy zostali zauważeni.\" "
+    tig normal "\"{i}Wiem{/i} \ że yaoguai kochają plotkować- to była tylko kwestia czasu abyśmy zostali zauważeni.\" "
 
 
 
@@ -3222,7 +3222,7 @@ translate polish s07_03_3972e469:
 
     voice voice_file.lagu(7,24)
 
-    lagu normal "\"Słyszałem, że uzbierałeś sobie niezłe stadko- pozwoliłeś tym trzem łazić za tobą, nawet nie podejmując decyzji którego z nich kochasz...\" "
+    lagu normal "\"Słyszałem, że niezłe z ciebie ziółko- pozwalasz tym trzem szwendać za tobą, nawet nie podejmując decyzji którego z nich kochasz...\" "
 
 
 
@@ -3252,7 +3252,7 @@ translate polish s07_03_c041c71a:
 
     voice voice_file.lagu(7,25)
 
-    lagu laugh "\"Łahaha- Yaoguai muszą się jakoś rozerwać. W dzisiejszych czasach większość z nich najzwyczajniej gra w gry i czyta mangę.\" "
+    lagu laugh "\"Łahaha- Yaoguai muszą się jakoś rozerwać. W dzisiejszych czasach większość spędza czas grając w gry i czytając mangę.\" "
 
     lagu laugh "\"Jeden z moich wyznawców podarował mi 3DS'a, a więc nawet ja czasem się tym bawię. To całkiem niezła zabawa!\" "
 
@@ -3282,7 +3282,7 @@ translate polish s07_03_d7a038df:
 
     voice voice_file.lagu(7,26)
 
-    lagu normal "\"Cóż, naciskanie guzików to dla mnie nie problem- oczywiście nie grałbym, gdy patrzy się na to jakiś wyznawca.\" "
+    lagu normal "\"Cóż, wciskanie guzików to dla mnie nie problem- oczywiście nie gram, gdy przygląda się mi jakiś wyznawca.\" "
 
 
 
@@ -3294,7 +3294,7 @@ translate polish s07_03_389920b6:
 
     # avt "\"Wait— Wait— That's not important! What other rumours are there about us?\" "
 
-    avt "\"Czekaj, czekaj- To nie ważne! Jakie inne plotki krążą na nasz temat?\" "
+    avt "\"Czekaj, czekaj- To jest nie ważne! Jakie inne plotki krążą na nasz temat?\" "
 
 
 
@@ -3310,7 +3310,7 @@ translate polish s07_03_f7879f9a:
 
     voice voice_file.lagu(7,27)
 
-    lagu normal "\"Tak jak mówiłem. Pozwalasz tym trzem cię miłować, nigdy nie dając nic w zamian. Powiedziałbym nawet, że ich wykorzystujesz.\" "
+    lagu normal "\"Tak jak mówiłem. Pozwoliłeś tym trzem oszaleć na twoim punkcie, nigdy nie dając nic w zamian. Powiedziałbym nawet, że ich wykorzystujesz.\" "
 
 
 
@@ -3324,9 +3324,9 @@ translate polish s07_03_c042abdf:
 
     # avt "\"Not to mention all three of them are male! Even if the yaoguai are being really open-minded about it, they surely can't expect me to want to be like {i}that{/i} \ with all three of them!\" "
 
-    avt "\"To nie tak! To oni są tymi, którzy mnie znaleźli... Pewnie- chcą abym udał się z nimi by im pomóc, ale nie ma szans bym mógł obiecać im aż tak wiele. To dlatego utknęliśmy w tym stanie.\" "
+    avt "\"To wcale nie tak! To oni mnie znaleźli... Pewnie- chcą abym rzucił wszystko i im pomógł, ale nie mogę obiecać im aż tak wiele. To dlatego utknęliśmy w miejscu.\" "
 
-    avt "\"Nie wspominając o tym, że wszyscy trzej są płci męskiej! Nawet jeśli yaoguai są otwarci na te sprawy- na pewno nie powinni oczekiwać ode mnie, że zrobię {i}to{/i} \ z każdym z nich!\" "
+    avt "\"Nie wspominając o tym, że wszyscy trzej to mężczyźni! Nawet jeśli yaoguai są otwarci na te sprawy- na pewno nie powinni oczekiwać ode mnie, że będzie {i}taki{/i} \ dla każdego z nich!\" "
 
 
 
@@ -3354,7 +3354,7 @@ translate polish s07_03_edadb744:
 
     # avt "\"What? How, how else would I see them?\" "
 
-    avt "\"Co? A jak inaczej powinienem ich postrzegać?\" "
+    avt "\"Co? A jak inaczej powinienem ich widzieć?\" "
 
 
 
@@ -3398,7 +3398,7 @@ translate polish s07_03_a2e16b23:
 
     voice voice_file.lagu(7,30)
 
-    lagu laugh "\"Łahaha- Myślałem o sobie jako o wesołej, starej ciotce. Bogowie nie mają przecież płci. Wyznawcy widzą swych bogów z taką płcią, z jaką sobie ich wyobrażają.\" "
+    lagu laugh "\"Łahaha- Myślałem o sobie jako o rubasznej, starej ciotce. Bogowie nie mają przecież płci. Wyznawcy widzą swych bogów z taką płcią, z jaką sobie ich wyobrażają.\" "
 
 
 
@@ -3438,7 +3438,7 @@ translate polish s07_03_3eb51545:
 
     # b "I thought that I'd been seeing beast-men just because they're animal gods. That's normal, right? "
 
-    b "Myślałem, że widzę zwierzoludzi tylko dlatego, że są zwierzęcymi bogami. To normalne, prawda? "
+    b "Myślałem, że widzę męskich zwierzoludzi tylko dlatego, że są zwierzęcymi bogami. To normalne, prawda? "
 
 
 
@@ -3450,7 +3450,7 @@ translate polish s07_03_a1572020:
 
     # b "I guess different worshippers would perceive gods differently according what they believe. After all, I've heard stories about {font=tl/None/NotoSansCJKtc-Bold.otf}Guanyin{/font} being male or female, but I never thought their genders weren't actually a set thing. "
 
-    b "Najwyraźniej każdy wyznawca widzi bogów inaczej- zgodnie z tym w co wierzy. Słyszałem przecież historie o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Guanyin'ie{/font}, który jest mężczyzną lub kobietą. Nigdy nie myślałem, że ich płeć tak naprawdę nie jest z góry ustalona. "
+    b "Najwyraźniej każdy wyznawca postrzega bogów inaczej- zgodnie z tym w co wierzy. Słyszałem przecież historie o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Guanyin'ie{/font}, który to jest mężczyzną lub kobietą, ale nigdy nie myślałem, że ich płeć tak naprawdę nie jest z góry ustalona. "
 
 
 
@@ -3478,7 +3478,7 @@ translate polish s07_03_07c08d19:
 
     voice voice_file.lpdcat(7,58)
 
-    lpdcat serious "\"Uhh- Liao. Opętam Yan Shu-Chi {i}po tym jak{/i} \ dowiedziałem się co cię kręci.\" "
+    lpdcat serious "\"Uhh- Liao. Opętałem Yan Shu-Chi {i}po tym jak{/i} \ dowiedziałem się co cię kręci.\" "
 
 
 
@@ -3494,7 +3494,7 @@ translate polish s07_03_b3bf9cc4:
 
     voice voice_file.lagu(7,32)
 
-    lagu normal "\"Gej, czy nie- {i}każdy{/i} \ uwielbia chłopca z ładną buzią, prawda?\" "
+    lagu normal "\"Gej, czy nie- {i}każdy{/i} \ uwielbia chłopca z dziecinną buzią, prawda?\" "
 
 
 
@@ -3522,7 +3522,7 @@ translate polish s07_03_ad4afdf9:
 
     voice voice_file.lagu(7,33)
 
-    lagu normal "\"Jakkolwiek podchodzisz do tego, z perspektywy yaoguai wygląda to tak, jakbyś im przodował. A to bento mogłoby zostać wzięte jakobyś {i}chciał{/i} by walczyli między sobą o ciebie.\" "
+    lagu normal "\"Cokolwiek o tym myślisz, z perspektywy yaoguai wygląda to trochę tak, jakbyś im przodował. A to bento mogłoby zostać wzięte jakobyś {i}chciał{/i} by walczyli o ciebie między sobą.\" "
 
 
 
@@ -3534,7 +3534,7 @@ translate polish s07_03_d31f4539:
 
     # avt "\"It's not like that's what I meant to happen! How could you think like that? I'm just a guy, they're gods!\" "
 
-    avt ""
+    avt "\"Wcale nie chciałem by tak się stało! Jak mogłeś o czymś takim pomyśleć? Jestem zwykłym chłopakiem, a oni bogami!\" "
 
 
 
@@ -3550,7 +3550,7 @@ translate polish s07_03_4d619f77:
 
     voice voice_file.lagu(7,34)
 
-    lagu normal ""
+    lagu normal "\"A więc nigdy nie słyszałeś o człowieku, który zakochał się w bogu?\" "
 
 
 
@@ -3562,7 +3562,7 @@ translate polish s07_03_41918e67:
 
     # avt "\"You must have been misinformed!\" "
 
-    avt ""
+    avt "\"Na pewno coś ci się pomyliło!\" "
 
 
 
@@ -3578,7 +3578,7 @@ translate polish s07_03_ff94a8ce:
 
     voice voice_file.lpdcat(7,59)
 
-    lpdcat cute ""
+    lpdcat cute "\"No cóż Liao, przecież wszyscy mieszkamy razem...\" "
 
 
 
@@ -3590,7 +3590,7 @@ translate polish s07_03_140bc049:
 
     # avt "\"Senpai, please don't make it worse!\" "
 
-    avt ""
+    avt "\"Senpai, proszę nie pogarszaj sprawy!\" "
 
 
 
@@ -3606,7 +3606,7 @@ translate polish s07_03_21fb5e92:
 
     voice voice_file.tig(7,23)
 
-    tig frown ""
+    tig frown "\"Nie sądzę by twoje stwierdzenia były jakkolwiek poprawne. My bogowie raczej nie moglibyśmy zakochać się w Liao. Wszystko czego mu życzę to zignorowanie pozostałej dwójki i powrót do domu po ukończeniu studiów. Związek to ostatnie co przychodzi mi na myśl.\" "
 
 
 
@@ -3618,7 +3618,7 @@ translate polish s07_03_936d2db6:
 
     # b "I understand his words but that doesn't make hearing them any better..."
 
-    b ""
+    b "Rozumiem jego słowa, ale nie sprawia to że łatwiej się tego słucha... "
 
 
 
@@ -3630,7 +3630,7 @@ translate polish s07_03_1553364e:
 
     # lpd obsessed "\"...?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 
 
@@ -3642,7 +3642,7 @@ translate polish s07_03_0d77ee07:
 
     # b "The conversation seems to be lost on Leopard, which is probably for the best! "
 
-    b ""
+    b "Najwyraźniej Panterze tok rozmowy gdzieś umknął i w sumie tak chyba będzie lepiej! "
 
 
 
@@ -3658,7 +3658,7 @@ translate polish s07_03_b3c88c72:
 
     voice voice_file.lagu(7,35)
 
-    lagu laugh ""
+    lagu laugh "\"Hahaha- No dobra, powinienem przestać się z tobą droczyć. W porządku, wiem że nie myślą o tobie w ten sposób... No może poza tym małym-\"  "
 
 
 
@@ -3674,7 +3674,7 @@ translate polish s07_03_823cd0cc:
 
     voice voice_file.lpdcat(7,60)
 
-    lpdcat angry ""
+    lpdcat angry "\"Nie nazywaj mnie małym!\" "
 
 
 
@@ -3692,7 +3692,9 @@ translate polish s07_03_b5c27545:
 
     voice voice_file.lagu(7,36)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- Dobrze, bengalski kotku. Przez te wszystkie plotki musiałem tu przybyć i sam się przekonać.\" "
+
+    lagu laugh "\"A więc młody, {i}naprawdę{/i} \ nie darzysz ich żadnym uczuciem?\" "
 
 
 
@@ -3704,7 +3706,7 @@ translate polish s07_03_99ada234:
 
     # avt "\"N-{w=0.2}None at all!\" "
 
-    avt ""
+    avt "\"A-{w=0.2}Ani trochę!\" "
 
 
 
@@ -3720,7 +3722,7 @@ translate polish s07_03_84966e16:
 
     voice voice_file.lagu(7,37)
 
-    lagu normal ""
+    lagu normal "\"Naprawdę? W najgorszym wypadku, wszyscy jesteście bardzo ze sobą zżyci. Powiedziałbym że cokolwiek się wydarzy, nadal będziecie wspaniałymi kompanami.\" "
 
 
 
@@ -3732,7 +3734,7 @@ translate polish s07_03_38d11c80:
 
     # avt "\"Great companions? Would that really be how it works out? You still don't know everything. You don't even know what they're asking me to do.\" "
 
-    avt ""
+    avt "\"Wspaniałymi kompanami? Czy to naprawdę mogłoby iść w tym kierunku? Wciąż nie masz pojęcia o wszystkim. Nawet nie wiesz o co mnie proszą.\" "
 
 
 
@@ -3748,7 +3750,7 @@ translate polish s07_03_603f5dec:
 
     voice voice_file.lagu(7,38)
 
-    lagu serious ""
+    lagu serious "\"Proszę powiedz, o co przyszli cię prosić?\" "
 
 
 
@@ -3760,7 +3762,7 @@ translate polish s07_03_db161acc:
 
     # avt "\"A jitong, a priest, an oracle... I would have to choose one of those roles and perform it for years for just one of them, perhaps even my whole life. I can't just make a promise like that to all of them!\" "
 
-    avt ""
+    avt "\"Jitong, kapłan, wyrocznia... Musiałbym wybrać jedną z tych ról i wykonywać ją przez lata dla któregoś z nich, a może nawet przez całe moje życie. Nie mogę im wszystkim obiecać czegoś takiego!\" "
 
 
 
@@ -3776,7 +3778,7 @@ translate polish s07_03_80eb3a33:
 
     voice voice_file.lagu(7,39)
 
-    lagu serious ""
+    lagu serious "\"W takim razie sądzę, że musisz tylko obiecać to temu z którym chciałbyś spędzić resztę swojego życia.\" "
 
 
 
@@ -3788,7 +3790,7 @@ translate polish s07_03_fc72b07f:
 
     # avt "\"Why'd you have to put it like that!\" "
 
-    avt ""
+    avt "\"Dlaczego ubrałeś to w takie słowa!\" "
 
 
 
@@ -3804,7 +3806,7 @@ translate polish s07_03_b4ace494:
 
     voice voice_file.lagu(7,40)
 
-    lagu normal ""
+    lagu normal "\"A nie jest tak? Ten, którego wybierzesz zostanie twoim kompanem na całe życie.\" "
 
 
 
@@ -3820,7 +3822,7 @@ translate polish s07_03_bc94eae6:
 
     voice voice_file.lagu(7,41)
 
-    lagu serious ""
+    lagu serious "\"Decyzja stojąca przed tobą jest trudna, ale czy nie jest to trochę lekceważące wobec bogów, by pozwalać im podążać wszędzie za tobą w oczekiwaniu na odpowiedź?\" "
 
 
 
@@ -3832,7 +3834,7 @@ translate polish s07_03_fb70ab9d:
 
     # avt "\"I-{w=0.2}I never thought of it like that...\" "
 
-    avt ""
+    avt "\"Ja-{w=0.2}nigdy nie pomyślałem o tym w ten sposób...\" "
 
 
 
@@ -3848,7 +3850,7 @@ translate polish s07_03_ac8c732a:
 
     voice voice_file.lagu(7,42)
 
-    lagu serious ""
+    lagu serious "\"Nie możesz wiecznie odkładać tej decyzji. Uważam, że powinieneś wybrać towarzysza z którym najlepiej się dogadujesz i zostać z nim na zawsze.\" "
 
 
 
@@ -3860,7 +3862,7 @@ translate polish s07_03_b5127b36:
 
     # avt "\"It's not like that's an {i}easy{/i} \ thing to choose. Not to mention there's other things I want to do in life...\" "
 
-    avt ""
+    avt "\"To wcale nie jest taki {i}łatwy{/i} \ wybór. Nie wspominając o innych rzeczach, które chcę w życiu zrobić...\" "
 
 
 
@@ -3878,7 +3880,9 @@ translate polish s07_03_416484ac:
 
     voice voice_file.lagu(7,43)
 
-    lagu serious ""
+    lagu serious "Bez względu na to, wpływ innych zawsze będzie kreować drogę jaką podążysz.\" "
+
+    lagu serious "Wyobraź sobie, że byłbyś w związku z innym człowiekiem, nie zmieniłoby twojego życia w ten sam sposób?\" "
 
 
 
@@ -3890,7 +3894,7 @@ translate polish s07_03_1664a1da:
 
     # avt "\"That doesn't make it any easier! Even if I refuse all three, it's none of your business!\" "
 
-    avt ""
+    avt "\"To wcale nie ułatwia sprawy! Nawet jeśli odmówię całej trójce, to nie twój interes!\" "
 
 
 
@@ -3906,7 +3910,7 @@ translate polish s07_03_8fb81fac:
 
     voice voice_file.lagu(7,44)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- Widząc jak bardzo się tym przejmujesz, {i}chcę{/i} \ móc ci jakoś pomóc. Masz do czynienia z bogami, w takim razie sprawa dotyczy nas wszystkich.\" "
 
 
 
@@ -3918,7 +3922,7 @@ translate polish s07_03_7ace18e9:
 
     # avt "\"I want to make my own decision! Please, I don't want you trying to make my {i}own{/i} \ decisions for me!\" "
 
-    avt ""
+    avt "\"Chcę sam o tym zadecydować! Proszę, nie chcę abyś próbował podejmować za mnie moje {i}własne{/i} \ decyzje!\" "
 
 
 
@@ -3934,7 +3938,7 @@ translate polish s07_03_ced7ee9c:
 
     voice voice_file.lagu(7,45)
 
-    lagu normal ""
+    lagu normal "\"Jesteś jedyny w swoim rodzaju, dzieciaku. I z tego powodu twoje sprawy są ważne dla nas, bogów.\" "
 
 
 
@@ -3946,7 +3950,7 @@ translate polish s07_03_4c6a9850:
 
     # b "...As annoying as it is, he's not wrong. "
 
-    b ""
+    b "...bez względu na to jak bardzo to irytujące, ma rację. "
 
 
 
@@ -3962,7 +3966,7 @@ translate polish s07_03_997568cd:
 
     voice voice_file.lagu(7,46)
 
-    lagu normal ""
+    lagu normal "\"Nawet jeśli nie ma {i}doskonałego{/i} \ sposobu by to rozstrzygnąć, myślę że powinieneś zadecydować jak najszybciej. Zabieranie im czasu będzie przez wszystkich odbierane jako bardzo lekceważące.\" "
 
 
 
@@ -3978,7 +3982,7 @@ translate polish s07_03_57aba9be:
 
     voice voice_file.tig(7,24)
 
-    tig normal ""
+    tig normal "\"Nie mam nic przeciwko. Jest w porządku tak długo jeśli Liao wróci do domu po ukończeniu studiów. Nie będzie miał czasu by zostać świątynnym kapłanem, czy aborygeńską wyrocznią.\" "
 
 
 
@@ -3994,7 +3998,7 @@ translate polish s07_03_29a924f6:
 
     voice voice_file.lpdcat(7,61)
 
-    lpdcat angry ""
+    lpdcat angry "\"Przestań być samolubem staruszku! Tutaj ważą się losy mojej świątyni!\" "
 
 
 
