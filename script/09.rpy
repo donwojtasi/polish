@@ -1628,7 +1628,9 @@ translate polish s09_02_agree_dfd4e2a3:
 
     # b "He's skipping along, humming to himself, brimming with joy, clearly loving every minute of us being together. It's hard to imagine he's been held like a prisoner in his own \nhome. "
 
-    b ""
+    b "Senpai zaciska swoją rękę na mojej, prowadząc mnie z głównych ulic na jakieś małe, wiejskie ścieżki. "
+
+    b "Pełen radości podskakuje, nucąc do siebie, wyraźnie kochając każdą minutę naszego bycia razem. Ciężko jest to sobie wyobrazić, że był przetrzymywany jak więzień w swoim domu. "
 
 
 
@@ -1644,7 +1646,7 @@ translate polish s09_02_agree_318a9558:
 
     voice voice_file.lpdcat(9,22)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Za-kochaj się w moim świecie~\" "
 
 
 
@@ -1658,7 +1660,9 @@ translate polish s09_02_agree_35aef658:
 
     # b "Whenever we're together, it's always been somewhere busy, full of other people. But here, walking hand in hand down this quiet road... it feels so nice just to be with him. "
 
-    b ""
+    b "Widząc Senpai'a tak szczęśliwego, nie mogę się powstrzymać od uśmiechu. "
+
+    b "Kiedy tylko jesteśmy wszyscy razem, zawsze jest jakiś zajęty, pełen różnych innych rzeczy. Ale tutaj, chodząc ręka w rękę tą cichą drogą... To takie miłe uczucie być po prostu tylko z nim. "
 
 
 
@@ -1670,7 +1674,7 @@ translate polish s09_02_agree_105fd440:
 
     # b "My thoughts dilute away as a light patter of cool rain hits my skin. "
 
-    b ""
+    b "Moje myśli rozmywają się, gdy deszcz lekko uderza w moją skórę. "
 
 
 
@@ -1686,7 +1690,7 @@ translate polish s09_02_agree_0e2791ec:
 
     voice voice_file.lpdcat(9,23)
 
-    lpdcat normal ""
+    lpdcat normal "\"O, zaczyna padać...\" "
 
 
 
@@ -1698,7 +1702,7 @@ translate polish s09_02_agree_708f3e1c:
 
     # avt "\"Should we find something to stand under?\" "
 
-    avt ""
+    avt "\"Powinniśmy znaleźć coś, pod czym moglibyśmy stanąć?\" "
 
 
 
@@ -1714,7 +1718,7 @@ translate polish s09_02_agree_ca9504b8:
 
     voice voice_file.lpdcat(9,24)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Daj spokój, to tylko mżawka. Idźmy dalej~\" "
 
 
 
@@ -1726,7 +1730,7 @@ translate polish s09_02_agree_a750999d:
 
     # b "He wasn't fazed in the slightest. It was a very light rain, actually more like a wet fog, covering everything around us in grey. "
 
-    b ""
+    b "W ogóle się tym nie przejmował. To był bardzo lekki deszcz, może nawet bardziej taka mgła, która pokrywała wszystko dookoła nas w szarości. "
 
 
 
@@ -1742,7 +1746,7 @@ translate polish s09_02_agree_97da729f:
 
     voice voice_file.lpdcat(9,25)
 
-    lpdcat normal ""
+    lpdcat normal "\"Czasami fajnie jest tak pochodzić sobie w deszczu.\" "
 
 
 
@@ -1754,7 +1758,7 @@ translate polish s09_02_agree_6f808557:
 
     # avt "\"You really can't feel the cold can you Senpai? You're not even wearing a jacket.\" "
 
-    avt ""
+    avt "\"Naprawdę nie czujesz zimna, Senpai? Nawet nie nosisz żadnej kurtki.\" "
 
 
 
@@ -1770,7 +1774,7 @@ translate polish s09_02_agree_3a7510e4:
 
     voice voice_file.lpdcat(9,26)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Nie ma mowy, żebym złapał przeziębienie. Poza tym, jest mi wystarczająco ciepło, kiedy jestem przy tobie Liao~\" "
 
 
 
@@ -1782,7 +1786,7 @@ translate polish s09_02_agree_8167fb78:
 
     # avt "\"...R-{w=0.2}Really, ...I have nothing to do with that.\" "
 
-    avt ""
+    avt "\"...N-{w=0.2}Naprawdę... nie mam z tym nic wspólnego.\" "
 
 
 
@@ -1794,7 +1798,7 @@ translate polish s09_02_agree_fbfdb83f:
 
     # b "I knew he was just joking around, but I still felt embarrassed. "
 
-    b ""
+    b "Wiedziałem, że on po prostu żartował, ale wciąż się czułem się zawstydzony. "
 
 
 
@@ -1810,7 +1814,7 @@ translate polish s09_02_agree_c5aab7c8:
 
     voice voice_file.lpdcat(9,27)
 
-    lpdcat normal ""
+    lpdcat normal "\"Hej, już się zbliżamy, w tą stronę. No chodź!\" "
 
 
 
@@ -1826,7 +1830,7 @@ translate polish s09_02_agree_b5cd5000:
 
     voice voice_file.lpdcat(9,28)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Tak naprawdę, to miałem na myśli, że kiedy jestem z tobą, to jestem zbyt szczęśliwy, aby zachorować. Hmm? Coś nie tak?\" "
 
 
 
@@ -1838,7 +1842,7 @@ translate polish s09_02_agree_2f80b5e4:
 
     # avt "\"Being happy doesn't stop you from catching a cold!\" "
 
-    avt ""
+    avt "\"Bycie szczęśliwym nie powstrzymuje cię od przeziębienia się!\" "
 
 
 
@@ -1854,7 +1858,7 @@ translate polish s09_02_agree_637d6e51:
 
     voice voice_file.lpdcat(9,29)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Szczęśliwi ludzie wiodą zdrowe życie! Naprawdę...\" "
 
 
 
@@ -1870,7 +1874,7 @@ translate polish s09_02_agree_aba70dc9:
 
     voice voice_file.lpdcat(9,30)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"... Muszę cię przeprosić za to wszystko.\" "
 
 
 
@@ -1882,7 +1886,7 @@ translate polish s09_02_agree_ff8916d4:
 
     # avt "\"You mean me coming to see you? You don't need to, Tiger and Leopard were the ones that did all the work, not me.\" "
 
-    avt ""
+    avt "\"Miałeś na myśli za to przyjście po ciebie? Nie musisz, to w końcu Tygrys i Pantera byli tymi, którzy wszystko zrobili, a nie ja.\" "
 
 
 
@@ -1898,7 +1902,7 @@ translate polish s09_02_agree_41c3a4bb:
 
     voice voice_file.lpdcat(9,31)
 
-    lpdcat serious ""
+    lpdcat serious "\"To ty jesteś tym, który ich tu sprowadził. To ty poprosiłeś ich, aby pomogli mi uciec. I nawet jeśli tylko na chwilę, to ty pozwoliłeś mi spędzić z tobą trochę czasu...\" "
 
 
 
@@ -1914,7 +1918,7 @@ translate polish s09_02_agree_55f5262a:
 
     voice voice_file.lpdcat(9,32)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Naprawdę, bardzo przepraszam.\" "
 
 
 
@@ -1926,7 +1930,7 @@ translate polish s09_02_agree_287606cc:
 
     # avt "\"Senpai, you don't need to feel sorry. You can come back soon, right?\" "
 
-    avt ""
+    avt "\"Senpai, naprawdę nie musisz przepraszać. Możesz przecież wrócić za niedługo, prawda?\" "
 
 
 
@@ -1942,7 +1946,7 @@ translate polish s09_02_agree_cba5e882:
 
     voice voice_file.lpdcat(9,33)
 
-    lpdcat wronged ""
+    lpdcat wronged "\"Mogę wrócić po wakacjach. Ale już...\" "
 
 
 
@@ -1954,7 +1958,7 @@ translate polish s09_02_agree_17f833be:
 
     # avt "\"Huh?\" "
 
-    avt ""
+    avt "\"Hę?\" "
 
 
 
@@ -1970,7 +1974,7 @@ translate polish s09_02_agree_727c3b95:
 
     voice voice_file.lpdcat(9,34)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Nieważne. Chodźmy tam, powiem ci po drodze!\" "
 
 
 
@@ -1982,7 +1986,7 @@ translate polish s09_02_agree_bb029e84:
 
     # b "Without saying another word, Senpai runs off down some street. I follow him, trying to catch up. "
 
-    b ""
+    b "Bez kolejnego słowa, Senpai biegnie na przód ulicą. Podążam za nim, próbując go dogonić. "
 
 
 
@@ -1998,7 +2002,7 @@ translate polish s09_02_agree_4d886c72:
 
     voice voice_file.lpdcat(9,35)
 
-    lpdcat normal ""
+    lpdcat normal "\"Liao, patrz... hej! Uważaj!\" "
 
 
 
@@ -2010,7 +2014,7 @@ translate polish s09_02_agree_82d4a540:
 
     # b "What? "
 
-    b ""
+    b "Co? "
 
 
 
@@ -2026,7 +2030,7 @@ translate polish s09_02_agree_c5685ec4:
 
     voice voice_file.lpdcat(9,36)
 
-    lpdcat2 ""
+    lpdcat2 "\"... L-{w=0.2}Liao... Liao?\" "
 
 
 
@@ -2042,7 +2046,7 @@ translate polish s09_02_agree_63281f7a:
 
     voice voice_file.lpdcat(9,37)
 
-    lpdcat2 ""
+    lpdcat2 "\"Liao... tak bardzo... cię przepraszam...\" "
 
 
 
@@ -2058,7 +2062,7 @@ translate polish s09_02_agree_b44678ba:
 
     voice voice_file.lpdcat(9,38)
 
-    lpdcat2 ""
+    lpdcat2 "\"Ja... *szloch* ktokolwiek...\" "
 
 
 
