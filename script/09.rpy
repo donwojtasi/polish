@@ -2418,7 +2418,7 @@ translate polish s09_02_disagree_74212d98:
 
     # avt "\"Any words of praise, thank you even?\" "
 
-    avt ""
+    avt "\"Jakieś słowa pochwały, albo chociaż podziękowania?\" "
 
 
 
@@ -2434,7 +2434,7 @@ translate polish s09_02_disagree_37ff065c:
 
     voice voice_file.lpdcat(9,47)
 
-    lpdcat pout "" with vshake
+    lpdcat pout "\"Naprawdę? Takie {i}zwykłe koty{/i} \ jak wy, nie zasługują na {i}moją{/i} \ pochwałę. Co za arogancja!\" " with vshake
 
 
 
@@ -2446,7 +2446,7 @@ translate polish s09_02_disagree_bc3a85b2:
 
     # avt "\"Don't act like a spoilt princess rescued from her oh so terrible castle.\" "
 
-    avt ""
+    avt "\"Nie zachowuj się jak rozpieszczona księżniczka uratowana z jej tak bardzo strasznego zamku.\" "
 
 
 
@@ -2462,7 +2462,7 @@ translate polish s09_02_disagree_f12b9199:
 
     voice voice_file.lpdcat(9,48)
 
-    lpdcat cute ""
+    lpdcat cute "\"Cóż, wiesz że moja rodzina jest teraz bogata... więc po prostu baw się~\" "
 
 
 
@@ -2474,7 +2474,7 @@ translate polish s09_02_disagree_a94b4898:
 
     # avt "\"Haha...\" "
 
-    avt ""
+    avt "\"Haha...\" "
 
 
 
@@ -2486,7 +2486,7 @@ translate polish s09_02_disagree_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2498,7 +2498,7 @@ translate polish s09_02_disagree_cea27c96:
 
     # avt "\"Senpai, you're gonna go back right?\" "
 
-    avt ""
+    avt "\"Senpai, będziesz musiał wrócić, co nie?\" "
 
 
 
@@ -2514,7 +2514,7 @@ translate polish s09_02_disagree_bc282424:
 
     voice voice_file.lpdcat(9,49)
 
-    lpdcat normal ""
+    lpdcat normal "\"Nie mogę tu zostać zbyt długo. Moja rodzina zauważyłaby moje zniknięcie i zdenerwowałaby się; to nie jest tak, że mogę po prostu uciec na zawsze.\" "
 
 
 
@@ -2526,7 +2526,7 @@ translate polish s09_02_disagree_724949b6:
 
     # avt "\"How long can you stay out?\" "
 
-    avt ""
+    avt "\"Jak długo możesz tu zostać?\" "
 
 
 
@@ -2542,7 +2542,7 @@ translate polish s09_02_disagree_1bd45ccd:
 
     voice voice_file.lpdcat(9,50)
 
-    lpdcat serious ""
+    lpdcat serious "\"Umm...\" "
 
 
 
@@ -2554,7 +2554,7 @@ translate polish s09_02_disagree_bba3f687:
 
     # b "Senpai glances between Tiger and Leopard. "
 
-    b ""
+    b "Senpai spogląda na Tygrysa i Panterę. "
 
 
 
@@ -2570,7 +2570,7 @@ translate polish s09_02_disagree_2bf7a6b0:
 
     voice voice_file.lpdcat(9,51)
 
-    lpdcat normal ""
+    lpdcat normal "\"Zgaduję, że jeśli nie mogę mieć randki z Liao, to mogę równie dobrze wrócić w tej chwili.\" "
 
 
 
@@ -2582,7 +2582,7 @@ translate polish s09_02_disagree_640b330d:
 
     # avt "\"Right now?\" "
 
-    avt ""
+    avt "\"W tej chwili?\" "
 
 
 
@@ -2598,7 +2598,7 @@ translate polish s09_02_disagree_ae4a3736:
 
     voice voice_file.lpdcat(9,52)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"No. Jestem wystarczająco szczęśliwy, widząc cię tylko na chwilę, wiedząc, że ci zależy\" "
 
 
 
@@ -2614,7 +2614,7 @@ translate polish s09_02_disagree_0c9e1697:
 
     voice voice_file.lpdcat(9,53)
 
-    lpdcat normal ""
+    lpdcat normal "\"Naprawdę... dziękuję was wszystkim, że przyszliście mnie szukać. Dziękuję ci Kulau, i tobie też, staruszku.\" "
 
 
 
@@ -2626,7 +2626,7 @@ translate polish s09_02_disagree_2166e7b1_1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2642,7 +2642,7 @@ translate polish s09_02_disagree_975ff79e:
 
     voice voice_file.tig(9,18)
 
-    tig embarrassed ""
+    tig embarrassed "\"N- nigdy nie powiedziałem, że zrobiłem to dla twojej korzyści.\" "
 
 
 
@@ -2658,7 +2658,7 @@ translate polish s09_02_disagree_187faaca:
 
     voice voice_file.lpd(9,8)
 
-    lpd normal ""
+    lpd normal "\"Nie ma za co.\" "
 
 
 
@@ -2674,7 +2674,7 @@ translate polish s09_02_disagree_d4e206c8:
 
     voice voice_file.lpdcat(9,54)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Hah-haha....\" "
 
 
 
@@ -2692,7 +2692,9 @@ translate polish s09_02_disagree_3e604188:
 
     voice voice_file.lpdcat(9,55)
 
-    lpdcat normal ""
+    lpdcat normal "\"No więc, do zobaczenia później. Jestem teraz uziemiony, ale na pewno będą musieli mnie wypuścić do szkoły.\" "
+
+    lpdcat normal "\"To znaczy, że będę w stanie zobaczyć was jeszcze raz po zakończeniu letnich wakacji!\" "
 
 
 
@@ -2708,7 +2710,7 @@ translate polish s09_02_disagree_4d899d61:
 
     voice voice_file.lpdcat(9,56)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Poczekajcie tylko!\" "
 
 
 
@@ -2720,7 +2722,7 @@ translate polish s09_02_disagree_f7d7b580:
 
     # avt "\"...Senpai, I will.\" "
 
-    avt ""
+    avt "\"... Senpai, poczekam.\" "
 
 
 
@@ -2736,7 +2738,7 @@ translate polish s09_02_disagree_6a983cd6:
 
     voice voice_file.tig(9,19)
 
-    tig normal ""
+    tig normal "\"Mm.\" "
 
 
 
@@ -2752,7 +2754,7 @@ translate polish s09_02_disagree_4ad04c2e:
 
     voice voice_file.lpd(9,9)
 
-    lpd normal ""
+    lpd normal "\"To narazie.\" "
 
 
 
@@ -2766,7 +2768,9 @@ translate polish s09_02_disagree_8a8e7776:
 
     # b "Senpai waved back enthusiastically, practically jumping while doing so. I watch carefully from the second he turns around to the moment his tail disappears from my sight. Then he's gone. "
 
-    b ""
+    b "Było trochę ciężko patrzeć jak odchodzi. "
+
+    b "Senpai pomachał entuzjastycznie, praktycznie przy tym skacząc. Uważnie obserwuję od momentu, w którym się odwraca, aż do chwili, gdy jego ogon znika z mojego widoku. Potem już go nie ma. "
 
 
 
@@ -2778,7 +2782,7 @@ translate polish s09_02_disagree_e873aaaf:
 
     # avt "\"...I guess it's time for us to head home.\" "
 
-    avt ""
+    avt "\"... Sądzę, że już czas, abyśmy wrócili do domu.\" "
 
 
 
@@ -2790,7 +2794,7 @@ translate polish strings:
 
     old "是否答應跟學長約會？"
 
-    new ""
+    new "Czy powinienem iść na randkę z Senpai'em?"
 
 
 
@@ -2798,7 +2802,7 @@ translate polish strings:
 
     old "好。"
 
-    new ""
+    new "No pewnie, powinienem spędzić z nim trochę czasu."
 
 
 
@@ -2806,5 +2810,5 @@ translate polish strings:
 
     old "不好。"
 
-    new ""
+    new "Nie, Tygrys powiedział mi, żebym tu został."
 
