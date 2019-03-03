@@ -10,7 +10,7 @@ translate polish s09_9fa3c06e:
 
     # b "Following Tiger's directions, we arrive at a park near Senpai's house in Keelung. "
 
-    b "Podążając za Tygrysem, docieramy do domu Senpaia w Keelung. " 
+    b "Podążając za Tygrysem, docieramy do parku niedaleko domu Senpai'a w Keelung. " 
 
 
 
@@ -22,7 +22,7 @@ translate polish s09_1fb7122e:
 
     # b "Following Leopard's directions, we arrive at a park near Senpai's house in Keelung. "
 
-    b "Podążając za Panterą, docieramy do domu Senpaia w Keelung. " 
+    b "Podążając za Panterą, docieramy do parku niedaleko domu Senpai'a w Keelung. " 
 
 
 
@@ -66,7 +66,7 @@ translate polish s09_60e5c0fa:
 
     voice voice_file.tig(9,1)
 
-    tig normal "\"Dobrze - Liao, poczekaj tutaj na nas.\" " 
+    tig normal "\"Dobrze- Liao, poczekaj tutaj na nas.\" " 
 
 
 
@@ -142,7 +142,7 @@ translate polish s09_a2487170:
 
     tig normal "\"Sam nie jesteś w stanie walczyć. Nie mogłem ci tak po prostu pozwolić tam wejść.\" "
 
-    tig normal "\"Teraz, jak już przyniosłeś tutaj mój posążek, możesz zostawić resztę nam.\" "
+    tig normal "\"Teraz, jak już przyniosłeś tutaj mój posążek, to możesz zostawić resztę nam...\" "
 
 
 
@@ -158,7 +158,7 @@ translate polish s09_d9e7c925:
 
     voice voice_file.tig(9,5)
 
-    tig frown "\"Tak bardzo, jak mi to przeszkadza... tak musimy zrobić.\" "
+    tig frown "\"Tak bardzo mi to nie pasuje, ale... tak musimy zrobić.\" "
 
 
 
@@ -218,7 +218,7 @@ translate polish s09_a26e1cff:
 
     voice voice_file.tig(9,7)
 
-    tig normal "\"W takim razie, czy byłbyś w stanie w ten sposób przenieść mój posążek do posiadłości?\" "
+    tig normal "\"W takim razie, czy byłbyś w ten sposób w stanie przenieść mój posążek do posiadłości?\" "
 
 
 
@@ -282,7 +282,7 @@ translate polish s09_fd4a5583:
 
     tig normal "\"Liao, wiem jak bardzo martwisz się o innych, ale ja martwię się o ciebie.\" "
 
-    tig normal "\"To miejsce może być niebezpieczne, więc proszę, pomóż nam, zostając tutaj.\" "
+    tig normal "\"To miejsce może być niebezpieczne, więc proszę, pomóż nam czekając tutaj...\" "
 
 
 
@@ -326,7 +326,7 @@ translate polish s09_47680796:
 
     voice voice_file.tig(9,11)
 
-    tig normal "\"Bez względu na wszystko, nie dam ci się narazić na niebezpieczeństwo. Jesteś już wystarczająco blisko w tej chwili.\" "
+    tig normal "\"Bez względu na wszystko, nie dam ci się narazić na niebezpieczeństwo. Już jesteś dość blisko niego w tej chwili.\" "
 
 
 
@@ -474,7 +474,7 @@ translate polish s09_9726e4a8:
 
     # b "Everything was out of my hands as I stood there in the park, waiting nervously for Tiger to set his plan in motion... "
 
-    b "Wszystko było już poza moją kontrolą, kiedy tak stałem w parku, nerwowo czekając aż Tygrys wykona swój plan... "
+    b "Wszystko już było poza moją kontrolą, kiedy tak stałem w parku, nerwowo czekając, aż Tygrys wykona swój plan... "
 
 
 
@@ -490,7 +490,7 @@ translate polish s09_df2fd6df:
 
     b "A więc tak naprawdę mnie nie potrzebowali... "
 
-    b "To znaczy, przynajmniej {i}musiałem{/i} \ wziąć ze sobą posążek Tygrysa, bo nie ma mowy, żeby Pantera sprowadził ją tutaj przez całą drogę... "
+    b "To znaczy, przynajmniej {i}musiałem{/i} \ wziąć ze sobą posążek Tygrysa, bo nie ma szans, żeby Pantera sprowadził ją tutaj przez całą drogę... "
 
 
 
@@ -516,9 +516,9 @@ translate polish s09_528ca23f:
 
     # b "Considering how weak I am, I wouldn't place any bets on it. "
 
-    b "Poza tym, jak niebezpieczne mogłoby być to \"wejście\" do domu Senpaia? "
+    b "Poza tym, jak niebezpieczne mogłoby być to \"wejście\" do domu Senpai'a? "
 
-    b "Biorąc pod uwagę to, jaki jestem słaby, raczej nie stawiałbym na to żadnych szans. "
+    b "Biorąc pod uwagę to, jaki ja jestem słaby, raczej nie stawiałbym na to żadnych szans. "
 
 
 
@@ -530,7 +530,7 @@ translate polish s09_9c3d5ca7:
 
     # b "I wish I wasn't just a normal person, that I could be stronger somehow... "
 
-    b "Chciałbym nie być po prostu zwykłą osobą, chciałbym być silniejszy... "
+    b "Chciałbym nie być po prostu zwykłą osobą, chciałbym być jakoś silniejszy... "
 
 
 
@@ -632,7 +632,7 @@ translate polish s09_887c8a4b:
 
     voice voice_file.lagu(9,5)
 
-    lagu laugh "\"Czy nie prosiłeś tygrysiego strażnika swojej rodziny, aby znalazł twojego chłopaka? Użył on wielu kontaktów i znajomości, aby tak się stało i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało\" "
+    lagu laugh "\"Czy nie prosiłeś tygrysiego strażnika swojej rodziny, aby znalazł tego twojego chłopaka? Użył on wielu kontaktów i znajomości, aby mu się to udało i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało.\" "
 
     lagu laugh "\"A teraz szarżuje tam, aby uratować tego, na którym ci tak bardzo zależy... Chyba nie oczekujesz, że uwierzę ci, że jest on twoim {i}normalnym{/i} \ przyjacielem, prawda?\" "
 
@@ -652,9 +652,9 @@ translate polish s09_ba015a4c:
 
     voice voice_file.lagu(9,6)
 
-    lagu laugh "\"Czy nie prosiłeś tej mglistej pantery, aby znalazł twojego chłopaka? Węszył on przez całą noc i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało\" "
+    lagu laugh "\"Czy nie prosiłeś tamtej mglistej pantery, aby znalazł tego twojego chłopaka? Węszył on wszędzie przez całą noc i byłoby ciężko, gdyby {i}nic{/i} \ się z tego {i}nie{/i} \ wydostało.\" "
 
-    lagu laugh "\"Wszystkie yaoguaie mówiły o tym. Błaganie duchów o pomoc w znalezieniu go... Chyba nie oczekujesz, że uwierzę ci, że jest on twoim {i}normalnym{/i} \ przyjacielem, prawda?\" "
+    lagu laugh "\"Wszystkie yaoguai'e mówiły o tym. Błaganie duchów o pomoc w znalezieniu go... Chyba nie oczekujesz, że uwierzę ci, że jest on twoim {i}normalnym{/i} \ przyjacielem, prawda?\" "
 
 
 
@@ -666,7 +666,7 @@ translate polish s09_d87bbd69:
 
     # avt "\"But I... was just worried about Senpai...\" "
 
-    avt "\"Ale ja tylko... martwiłem się o Senpaia...\" "
+    avt "\"Ale ja tylko... się o niego martwiłem...\" "
 
 
 
@@ -682,7 +682,7 @@ translate polish s09_e4805689:
 
     voice voice_file.lagu(9,8)
 
-    lagu laugh "\"Niezależnie od tego co powiesz dzieciaku- i tak każdy już myśli, że jest on twoim chłopakiem.\" "
+    lagu laugh "\"Niezależnie od tego co powiesz dzieciaku- i tak każdy już myśli, że on jest twoim chłopakiem.\" "
 
 
 
@@ -738,7 +738,7 @@ translate polish s09_565f3a14:
 
     voice voice_file.lagu(9,11)
 
-    lagu normal "\"Ta. Oni troszczą się o ciebie tak bardzo, że są w stanie wykonać tysiące przysług tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
+    lagu normal "\"No. Oni troszczyli się o ciebie tak bardzo, że byli w stanie wykonać tysiące przysług tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
 
 
 
@@ -754,7 +754,7 @@ translate polish s09_44cd74c9:
 
     voice voice_file.lagu(9,12)
 
-    lagu normal "\"Tak. Oni troszczą się o ciebie tak bardzo, że są w stanie obiec całe miasto tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
+    lagu normal "\"Tak. Oni troszczyli się o ciebie tak bardzo, że obiegli całe miasto tylko dla ciebie. Jeżeli to nie jest poświęcenie godne chłopaka, to nie wiem co to jest.\" "
 
 
 
@@ -778,7 +778,7 @@ translate polish s09_5e8bed51:
 
     # avt "\"Now you're just {i}trying{/i} \ to rile me up...\" "
 
-    avt "\"Teraz po prostu próbujesz mnie wkurzyć...\" "
+    avt "\"Teraz po prostu {i}próbujesz{/i} \ mnie wkurzyć...\" "
 
 
 
@@ -794,7 +794,7 @@ translate polish s09_487a5755:
 
     voice voice_file.lagu(9,14)
 
-    lagu laugh "\"Dobrze więc, jeżeli oni nie są twoimi chłopakami, to czym? Posłusznymi psami? ...To jest już brak szacunku.\" "
+    lagu laugh "\"Dobrze więc, jeżeli nie są twoimi chłopakami, to czym? Posłusznymi psami? ...To jest już brak szacunku.\" "
 
 
 
@@ -822,7 +822,7 @@ translate polish s09_c29ec968:
 
     voice voice_file.lagu(9,15)
 
-    lagu normal "\"Nie bądź taki. On poprosił mnie, abym się tobą zajął. Nie mógłbym tego zrobić bez rozmowy z tobą.\" "
+    lagu normal "\"Ej no nie bądź taki. Ten Tygrys poprosił mnie, abym się tobą zajął. Nie mógłbym tego zrobić bez rozmowy z tobą.\" "
 
 
 
@@ -834,7 +834,7 @@ translate polish s09_287b8ab9:
 
     # avt "\"Can you look after me {i}without{/i} \ talking?\" "
 
-    avt "\"Czy mógłbyś się mną zająć {i}bez{/i} \ rozmowy?\" "
+    avt "\"Czy mógłbyś się mną zająć {i}bez{/i} \ tej rozmowy?\" "
 
 
 
@@ -880,7 +880,7 @@ translate polish s09_bded52f5:
 
     b "Poirytowany, decyduję się usiąść gdzieś w parku i obserwować Ragu, który po prostu stoi przede mną i się bawi... "
 
-    b "Po chwili, cisza mnie dopada i po prostu kończę zanudzony własnym umysłem. "
+    b "Po chwili, cisza mnie dopada i po prostu kończę znudzony własnymi myślami. "
 
     b "On nie jest aż taki zły, może {i}powinienem{/i} \ chociaż spróbować z nim porozmawiać. "
 
@@ -896,9 +896,9 @@ translate polish s09_576cf170:
 
     # b "Once we started talking again it feels like the next two hours pass in an instant. "
 
-    b "Ostatecznie zbieram się na odwagę, aby z nim porozmawiać. Mimo iż Ragu lubi mnie drażnić, to wciąż jest on świetnym gościem. "
+    b "Ostatecznie, zbieram się na odwagę, aby z nim porozmawiać. Mimo iż Ragu lubi mnie drażnić, to wciąż jest on świetnym gościem. "
 
-    b "Gdy zaczęliśmy z powrotem rozmawiać, wydało się jakby dwie godziny minęły w mgnieniu oka. "
+    b "Gdy tak zaczęliśmy z powrotem rozmawiać, dwie następne godziny minęły w mgnieniu oka. "
 
 
 
@@ -914,7 +914,7 @@ translate polish s09_1a568bfa:
 
     voice voice_file.lagu(9,17)
 
-    lagu normal "\"...O, popatrz.\" "
+    lagu normal "\"...Oo, popatrz.\" "
 
 
 
@@ -926,7 +926,7 @@ translate polish s09_0b7e2e06:
 
     # b "My gaze is drawn to the far corner of the park where I see none other than Senpai himself come out from behind the bushes. "
 
-    b "Moje spojrzenie sięga odległego rogu parku, gdzie widzę nikogo innego jak Senpaia we własnej osobie wychodzącego zza krzaków. "
+    b "Moje spojrzenie sięga odległego rogu parku, gdzie widzę nikogo innego jak Senpai'a we własnej osobie wychodzącego zza krzaków. "
 
 
 
@@ -982,7 +982,7 @@ translate polish s09_b236a47b:
 
     # b "Senpai runs over to me. Since Ragoo's watching, I hold him back from pouncing onto me. (As much as I didn't want to.) " with hshake
 
-    b "Senpai podbiega do mnie. Odkąd Ragu się patrzy, powstrzymuję go od rzucania się na mnie. (Tak bardzo, jak tego nie chciałem.) " with hshake
+    b "Senpai podbiega do mnie. Ponieważ Ragu się patrzy, powstrzymuję go od rzucania się na mnie. (Tak bardzo, jak tego nie chciałem.) " with hshake
 
 
 
@@ -1010,7 +1010,7 @@ translate polish s09_ce0d5d8a:
 
     voice voice_file.lpdcat(9,3)
 
-    lpdcat laugh "\"Haha, przepraszam. Nie wiedziałem, że to się tak skończy.\" "
+    lpdcat laugh "\"Haha, przepraszam. Nie wiedziałem, że to się tak skończy...\" "
 
 
 
