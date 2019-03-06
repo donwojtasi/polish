@@ -2074,7 +2074,7 @@ translate polish s09_02_disagree_dc218b03:
 
     # avt "\"Tiger told me to wait here, and even asked Ragoo to keep an eye on me. I can't just run off.\" "
 
-    avt "\"Tygrys powiedział mi, żebym tu poczekał i nawet poprosił Ragu, żeby się mną zajął. Nie mogę tak po prostu uciec.\" "
+    avt "\"Tygrys powiedział mi, żebym tu poczekał i nawet poprosił Ragu o to, aby się mną zajął. Nie mogę tak po prostu uciec.\" "
 
 
 
@@ -2086,7 +2086,7 @@ translate polish s09_02_disagree_667cd54d:
 
     # avt "\"Tiger told me to wait here, and even asked Ragoo to keep an eye on me, I'm sure leopard would want me to stay as well. I can't just run off.\" "
 
-    avt "\"Tygrys powiedział mi, żebym tu poczekał i nawet poprosił Ragu, żeby się mną zajął. Jestem też pewny, że pantera chciałby, abym tu został. Nie mogę tak po prostu uciec.\" "
+    avt "\"Tygrys powiedział mi, żebym tu poczekał i nawet poprosił Ragu o to, aby się mną zajął. Jestem też pewny, że Pantera chciałby, żebym tu został. Nie mogę tak po prostu uciec.\" "
 
 
 
@@ -2114,7 +2114,7 @@ translate polish s09_02_disagree_e064054a:
 
     # avt "\"But how would we know when they'll get back...\" "
 
-    avt "\"Ale jak mielibyśmy wiedzieć, kiedy wrócą...\" "
+    avt "\"Ale jak niby mielibyśmy wiedzieć kiedy wrócą...\" "
 
 
 
@@ -2126,7 +2126,7 @@ translate polish s09_02_disagree_31ba30a0:
 
     # avt "\"And since you're out here they shouldn't be too far off. Then we can grab lunch together.\" "
 
-    avt "\"A poza tym, skoro ty już tu jesteś, to nie powinni być daleko. Potem możemy zjeść razem obiad.\" "
+    avt "\"A poza tym, skoro ty już tu jesteś, to nie powinni być daleko. Potem możemy zjeść wszyscy razem obiad.\" "
 
 
 
@@ -2158,7 +2158,7 @@ translate polish s09_02_disagree_ba192c56:
 
     voice voice_file.lpdcat(9,41)
 
-    lpdcat not_reconcile "\"Tak ciężko jest spędzić czas z Liao... Może nawet już nigdy nie będę miał następnej okazji...\" "
+    lpdcat not_reconcile "\"Tak ciężko jest spędzić czas z Liao... Może już nawet nigdy nie będę miał następnej okazji...\" "
 
 
 
@@ -2170,7 +2170,7 @@ translate polish s09_02_disagree_b8903dc2:
 
     # avt "\"Senpai... I'm sorry.\" "
 
-    avt "\"Senpai... przykro mi.\" "
+    avt "\"Senpai... Przykro mi.\" "
 
 
 
@@ -2210,7 +2210,7 @@ translate polish s09_02_disagree_7deaaaaf:
 
     # b "I hesitate for just a moment, trying to find a way out of this before seeing a {i}certain{/i} \ tiger appear from around the corner. Yes! I wave to him eagerly. "
 
-    b "Waham się przez chwilę, próbując wyjść z tej sytuacji, aż nagle zauważam {i}pewnego{/i} \ tygrysa wychodzącego zza rogu. Tak! Macham do niego z zapałem. "
+    b "Waham się przez chwilę, próbując wyjść z tej sytuacji, aż nagle zauważam {i}pewnego{/i} \ tygrysa wychodzącego zza rogu. \nTak! Macham do niego z zapałem. "
 
 
 
@@ -2238,7 +2238,7 @@ translate polish s09_02_disagree_a3deb92a:
 
     # avt "\"Oh right!\" "
 
-    avt "\"A, no przecież!\" "
+    avt "\"No przecież!\" "
 
 
 
@@ -2250,7 +2250,7 @@ translate polish s09_02_disagree_8d142c0b:
 
     # b "I stop waving, thankfully changing the conversation. Soon enough both Tiger and Leopard have walked over to us, Tiger's statue not too far behind. "
 
-    b "\"Przestaję machać, szczęśliwie zmieniając temat rozmowy. Niedługo potem, zarówno Tygrys jak i Pantera podchodzą do nas, wraz z posążkiem Tygrysa niedaleko z tyłu. "
+    b "\"Przestaję machać, szczęśliwie kończąc tamtą rozmowę. \nChwilę potem zarówno Tygrys, jak i Pantera podchodzą do nas. \n(Posążek Tygrysa lewituje niedaleko za nimi.) "
 
 
 
@@ -2266,7 +2266,7 @@ translate polish s09_02_disagree_43c02e04:
 
     voice voice_file.tig(9,14)
 
-    tig pain "*westchnienie* \"... Co za kłopot. Czy twoja rodzina naprawdę musi wynajmować {i}aż tak silnych{/i} \ yaoguai'ów? Gdyby to nie było dla Kotka...\" "
+    tig pain "*westchnienie* \"...Co za kłopot. Czy twoja rodzina naprawdę musi wynajmować {i}aż tak silnych{/i} \ yaoguai'ów? Gdyby to nie było dla Kotka...\" "
 
 
 
@@ -2282,7 +2282,7 @@ translate polish s09_02_disagree_7b434ba1:
 
     voice voice_file.lpd(9,6)
 
-    lpd obsessed "\"... Bardzo silni.\" "
+    lpd obsessed "\"...Bardzo silni.\" "
 
 
 
@@ -2314,7 +2314,7 @@ translate polish s09_02_disagree_c921af2e:
 
     voice voice_file.tig(9,15)
 
-    tig frown "\"Nie mógłbyś ich wyrzucić?\" "
+    tig frown "\"Nie mógłbyś ich wyprosić?\" "
 
 
 
@@ -2330,7 +2330,7 @@ translate polish s09_02_disagree_6709d05a:
 
     voice voice_file.lpdcat(9,45)
 
-    lpdcat normal "\"Wiesz, że w tej chwili muszę udawać, że ich tam nie ma. To nie jest tak, że mógłbym ich kontrolować tak czy inaczej.\" "
+    lpdcat normal "\"Wiesz, że w tej chwili muszę udawać, że ich tam nie ma. Poza tym, nie mógłbym ich zmusić do odejścia mimo wszystko.\" "
 
 
 
@@ -2346,7 +2346,7 @@ translate polish s09_02_disagree_195b58df:
 
     voice voice_file.tig(9,16)
 
-    tig frown "\"... Tch.\" "
+    tig frown "\"...Tch.\" "
 
 
 
@@ -2358,7 +2358,7 @@ translate polish s09_02_disagree_196612a3:
 
     # avt "\"Sorry for all the trouble...\" "
 
-    avt "\"Przepraszam za kłopoty...\" "
+    avt "\"Przepraszam za wszystkie kłopoty...\" "
 
 
 
@@ -2390,7 +2390,7 @@ translate polish s09_02_disagree_6b891a96:
 
     voice voice_file.tig(9,17)
 
-    tig normal "\"Tak- dla Liao, nie dla ciebie koteczku.\" "
+    tig normal "\"Właśnie- Dla Liao, a nie dla ciebie koteczku.\" "
 
 
 
@@ -2462,7 +2462,7 @@ translate polish s09_02_disagree_f12b9199:
 
     voice voice_file.lpdcat(9,48)
 
-    lpdcat cute "\"Cóż, wiesz że moja rodzina jest teraz bogata... więc po prostu baw się~\" "
+    lpdcat cute "\"No cóż, wiesz że moja rodzina jest teraz bogata... \n...więc po prostu przymknij na to oko~\" "
 
 
 
@@ -2514,7 +2514,7 @@ translate polish s09_02_disagree_bc282424:
 
     voice voice_file.lpdcat(9,49)
 
-    lpdcat normal "\"Nie mogę tu zostać zbyt długo. Moja rodzina zauważyłaby moje zniknięcie i zdenerwowałaby się; to nie jest tak, że mogę po prostu uciec na zawsze.\" "
+    lpdcat normal "\"Nie mogę tu zostać zbyt długo. Moja rodzina zauważyłaby, że mnie nie ma i wkurzyłaby się. \nTo nie jest tak, że mogę po prostu uciec na zawsze.\" "
 
 
 
@@ -2542,7 +2542,7 @@ translate polish s09_02_disagree_1bd45ccd:
 
     voice voice_file.lpdcat(9,50)
 
-    lpdcat serious "\"Umm...\" "
+    lpdcat serious "\"No więc...\" "
 
 
 
@@ -2570,7 +2570,7 @@ translate polish s09_02_disagree_2bf7a6b0:
 
     voice voice_file.lpdcat(9,51)
 
-    lpdcat normal "\"Zgaduję, że jeśli nie mogę mieć randki z Liao, to mogę równie dobrze wrócić w tej chwili.\" "
+    lpdcat normal "\"Jeżeli nie mogę mieć randki z Liao, to mogę równie dobrze wrócić w tej chwili.\" "
 
 
 
@@ -2598,7 +2598,7 @@ translate polish s09_02_disagree_ae4a3736:
 
     voice voice_file.lpdcat(9,52)
 
-    lpdcat laugh "\"No. Jestem wystarczająco szczęśliwy, widząc cię tylko na chwilę, wiedząc, że ci zależy\" "
+    lpdcat laugh "\"No. Jestem wystarczająco szczęśliwy, widząc cię tylko na chwilę, i wiedząc, że ci na mnie zależy.\" "
 
 
 
@@ -2614,7 +2614,7 @@ translate polish s09_02_disagree_0c9e1697:
 
     voice voice_file.lpdcat(9,53)
 
-    lpdcat normal "\"Naprawdę... dziękuję was wszystkim, że przyszliście mnie szukać. Dziękuję ci Kulau, i tobie też, staruszku.\" "
+    lpdcat normal "\"Naprawdę... dziękuję wam wszystkim, że przyszliście mnie szukać. Dziękuję ci Kulau, i tobie też, staruszku.\" "
 
 
 
@@ -2642,7 +2642,7 @@ translate polish s09_02_disagree_975ff79e:
 
     voice voice_file.tig(9,18)
 
-    tig embarrassed "\"N- nigdy nie powiedziałem, że zrobiłem to dla twojej korzyści.\" "
+    tig embarrassed "\"N- Nigdy nie powiedziałem, że zrobiłem to dla ciebie.\" "
 
 
 
@@ -2692,7 +2692,7 @@ translate polish s09_02_disagree_3e604188:
 
     voice voice_file.lpdcat(9,55)
 
-    lpdcat normal "\"No więc, do zobaczenia później. Jestem teraz uziemiony, ale na pewno będą musieli mnie wypuścić do szkoły.\" "
+    lpdcat normal "\"Tak więc, do zobaczenia później. Jestem teraz uziemiony, ale na pewno będą musieli mnie wypuścić do szkoły.\" "
 
     lpdcat normal "\"To znaczy, że będę w stanie zobaczyć was jeszcze raz po zakończeniu letnich wakacji!\" "
 
@@ -2722,7 +2722,7 @@ translate polish s09_02_disagree_f7d7b580:
 
     # avt "\"...Senpai, I will.\" "
 
-    avt "\"... Senpai, poczekam.\" "
+    avt "\"...Senpai, poczekam.\" "
 
 
 
@@ -2770,7 +2770,7 @@ translate polish s09_02_disagree_8a8e7776:
 
     b "Było trochę ciężko patrzeć jak odchodzi. "
 
-    b "Senpai pomachał entuzjastycznie, praktycznie przy tym skacząc. Uważnie obserwuję od momentu, w którym się odwraca, aż do chwili, gdy jego ogon znika z mojego widoku. Potem już go nie ma. "
+    b "Senpai pomachał entuzjastycznie, praktycznie przy tym skacząc. \nUważnie obserwuję go od momentu, w którym się odwraca, aż do chwili, gdy jego ogon znika z mojego widoku. Potem już go nie ma. "
 
 
 
@@ -2782,7 +2782,7 @@ translate polish s09_02_disagree_e873aaaf:
 
     # avt "\"...I guess it's time for us to head home.\" "
 
-    avt "\"... Sądzę, że już czas, abyśmy wrócili do domu.\" "
+    avt "\"...Sądzę, że już czas, abyśmy wrócili do domu.\" "
 
 
 
@@ -2794,7 +2794,7 @@ translate polish strings:
 
     old "是否答應跟學長約會？"
 
-    new "Czy powinienem iść na randkę z Senpai'em?"
+    new "\"Czy powinienem iść na randkę z Senpai'em?\" "
 
 
 
@@ -2802,7 +2802,7 @@ translate polish strings:
 
     old "好。"
 
-    new "No pewnie, powinienem spędzić z nim trochę czasu."
+    new "No pewnie, mógłbym spędzić z nim trochę czasu."
 
 
 
