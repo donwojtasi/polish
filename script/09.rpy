@@ -1026,7 +1026,7 @@ translate polish s09_eb68c094:
 
     voice voice_file.lpdcat(9,4)
 
-    lpdcat normal "\"Na początku po prostu przyszedłem zabrać trochę rzeczy, ale skończyło się na tym, że moja rodzina mnie przymknęła. To przez, wiesz... \"naszą rzecz\"...\" "
+    lpdcat normal "\"Na początku po prostu przyszedłem zabrać trochę rzeczy, ale skończyło się na tym, że moja rodzina mnie przymknęła. To przez, wiesz...\"naszą rzecz\"...\" "
 
 
 
@@ -1044,7 +1044,7 @@ translate polish s09_33bd0f71:
 
     voice voice_file.lpdcat(9,5)
 
-    lpdcat serious "\"Nie akceptują tego, że jestem gejem. {i}Próbowałem{/i} \ się sprzeciwić, ale... bez względu na wszystko i tak po studiach jestem zmuszony poślubić kogokolwiek mi wyznaczą.\" "
+    lpdcat serious "\"Nie akceptują tego, że jestem gejem. {i}Próbowałem{/i} \ się sprzeciwić, ale... bez względu na wszystko, po studiach i tak muszę poślubić kogokolwiek mi wyznaczą.\" "
 
     lpdcat serious "\"Usłyszeli o nas jakoś. Próbują zmusić mnie do zerwania wszelkich więzi z tobą...\" "
 
@@ -1078,7 +1078,7 @@ translate polish s09_0e62af1e:
 
     lpdcat panic "\"Nienienie- To nie {i}przez ciebie{/i}, tylko {i}przeze mnie{/i}. To {i}moja{/i} \ wina za rozpowszechnienie się plotek o nas w klubie tanecznym.\" "
 
-    lpdcat panic "\"Nigdy nie myślałem, że moja rodzina tak zareaguje... zabrali mi i mój telefon i mój komputer, więc naprawdę nie byłem się w stanie z tobą skontaktować. Bardzo cię przepraszam.\" "
+    lpdcat panic "\"Nigdy nie myślałem, że moja rodzina tak zareaguje... Zabrali mi i telefon, i komputer, więc tak naprawdę nie byłem się w stanie z tobą skontaktować. Bardzo cię przepraszam.\" "
 
 
 
@@ -1090,7 +1090,7 @@ translate polish s09_31b04fda:
 
     # avt "\"No... It's not your fault. You shouldn't blame yourself.\" "
 
-    avt "\"Nie... to nie twoja wina. Naprawdę nie powinieneś się winić.\" "
+    avt "\"Nie... To nie twoja wina. Naprawdę nie powinieneś się winić.\" "
 
 
 
@@ -1106,7 +1106,7 @@ translate polish s09_3f50489c:
 
     voice voice_file.lpdcat(9,7)
 
-    lpdcat laugh "\"Tak czy inaczej, dziękuję ci Liao! Poszedłeś tak daleko tylko po to, by mnie znaleźć...\" "
+    lpdcat laugh "\"Tak czy inaczej, dziękuję Ci Liao! Poszedłeś tak daleko tylko po to, by mnie znaleźć...\" "
 
 
 
@@ -1146,7 +1146,7 @@ translate polish s09_2249935f:
 
     voice voice_file.lagu(9,18)
 
-    lagu normal "\"No już dooobrze, wy małe gołąbeczki. Przepraszam za przerywanie waszego spotkania, ale teraz jak już znowu jesteście razem, to jest czas abym ja sobie poszedł.\" "
+    lagu normal "\"No już dooobrze, wy małe gołąbeczki. Przepraszam za przerwanie waszego spotkania, ale teraz jak już znowu jesteście razem, to jest czas, abym ja sobie poszedł.\" "
 
 
 
@@ -1202,7 +1202,7 @@ translate polish s09_2a8d6d14:
 
     # avt "\"Oh, yeah. See ya... well, thank you.\" "
 
-    avt "\"Ta, pewnie. Do zobaczenia... dziękuję.\" "
+    avt "\"No pewnie. Do zobaczenia... Dziękuję.\" "
 
 
 
@@ -1230,7 +1230,7 @@ translate polish s09_563e2144:
 
     # b "Once again Ragoo disappears with a bout of laughter and a hearty smile, fading away without a trace. "
 
-    b "Ponownie, Ragu, śmiejąc się z szerokim uśmiechem znika bez śladu."
+    b "Ponownie Ragu, śmiejąc się z szerokim uśmiechem, znika bez śladu."
 
 
 
@@ -1278,7 +1278,7 @@ translate polish s09_97f3b2fc:
 
     # avt "\"I'm kinda worried how extreme your family is about grounding you though...\" "
 
-    avt "\"Ja tylko martwiłem się o to, jak bardzo twoja rodzina jest na serio w uziemianiu ciebie...\" "
+    avt "\"Tylko martwię się o to, jak poważnie twoja rodzina bierze to uziemianie ciebie...\" "
 
 
 
@@ -1294,7 +1294,7 @@ translate polish s09_237723bb:
 
     voice voice_file.lpdcat(9,11)
 
-    lpdcat normal "\"Co nie? Nie ma naprawdę nic, co mógłbym zrobić w tej sprawie... ale cieszę się, że pomnie przyszedłeś. Aczkolwiek muszę tam wrócić, zanim zauważą, że mnie nie ma.\" " with flash
+    lpdcat normal "\"Co nie? Nie ma naprawdę nic, co mógłbym zrobić w tej sprawie... Cieszę się, że po mnie przyszedłeś, jednakże muszę tam wrócić, zanim zauważą, że mnie nie ma.\" " with flash
 
 
 
@@ -1370,7 +1370,7 @@ translate polish s09_4202bd93:
 
     # b "Senpai goes silent, as if hesitating to finish what he wants to say. "
 
-    b "Senpai milknie, tak jakby wahając się dokończyć to co chce powiedzieć. "
+    b "Senpai milknie, tak jakby wahał się przed dokończeniem tego co chce powiedzieć. "
 
 
 
@@ -1506,7 +1506,7 @@ translate polish s09_77110171:
 
     voice voice_file.lpdcat(9,18)
 
-    lpdcat panic "\"Nie mamy już zbyt wiele czasu, zanim będę musiał wracać... {i}proszę{/i}, Liao...\" "
+    lpdcat panic "\"Nie mamy już zbyt wiele czasu, zanim będę musiał wrócić... {i}proszę{/i}, Liao...\" "
 
 
 
@@ -1518,7 +1518,7 @@ translate polish s09_02_agree_2919de45:
 
     # avt "\"Mm-hmm... I'll be happy to stay with you for a little while before you go back.\" "
 
-    avt "\"Mm-hmm... Będę szczęśliwy, jeżeli zostanę z tobą na trochę dłużej, zanim będziesz musiał wracać.\" "
+    avt "\"N-No dobrze... Będę szczęśliwy, zostając z tobą na dłużej, zanim będziesz musiał wrócić.\" "
 
 
 
@@ -1534,7 +1534,7 @@ translate polish s09_02_agree_76451a19:
 
     voice voice_file.lpdcat(9,19)
 
-    lpdcat laugh "\"Dziękuję ci- Dziękuję ci, Liao! Nie traćmy już więcej ani chwili!\" "
+    lpdcat laugh "\"Tak jest! Dziękuję Ci, Liao! Nie traćmy już więcej ani chwili!\" "
 
 
 
@@ -1574,7 +1574,7 @@ translate polish s09_02_agree_247ab7c3:
 
     voice voice_file.lpdcat(9,20)
 
-    lpdcat laugh "\"Jest takie jedno fajne miejsce nie daleko stąd! Zawsze chciałem ci je pokazać.\" "
+    lpdcat laugh "\"Jest takie jedno fajne miejsce niedaleko stąd! Zawsze chciałem Ci je pokazać.\" "
 
 
 
@@ -1602,7 +1602,7 @@ translate polish s09_02_agree_9bcac266:
 
     voice voice_file.lpdcat(9,21)
 
-    lpdcat normal "\"Tak bardzo, jak lubię zakupy, to nie jest to czego chcę teraz. Chcę cię zabrać w specjalne miejsce!\" "
+    lpdcat normal "\"Lubię zakupy, ale to nie jest to, czego teraz chcę. {i}Teraz{/i} \ chcę cię zabrać w specjalne miejsce!\" "
 
 
 
@@ -1614,7 +1614,7 @@ translate polish s09_02_agree_760a6697:
 
     # avt "\"I guess you're right...\" "
 
-    avt "\"Chyba masz rację...\" "
+    avt "\"Rozumiem...\" "
 
 
 
@@ -1628,9 +1628,9 @@ translate polish s09_02_agree_dfd4e2a3:
 
     # b "He's skipping along, humming to himself, brimming with joy, clearly loving every minute of us being together. It's hard to imagine he's been held like a prisoner in his own \nhome. "
 
-    b "Senpai zaciska swoją rękę na mojej, prowadząc mnie z głównych ulic na jakieś małe, wiejskie ścieżki. "
+    b "Senpai zaciska swoją dłoń na mojej, prowadząc mnie z głównych ulic na jakieś małe, wiejskie ścieżki. "
 
-    b "Pełen radości podskakuje, nucąc do siebie, wyraźnie kochając każdą minutę naszego bycia razem. Ciężko jest to sobie wyobrazić, że był przetrzymywany jak więzień w swoim domu. "
+    b "Pełen radości podskakuje, nucąc do siebie, wyraźnie uwielbiając każdą minutę spędzoną razem ze mną. Ciężko jest sobie wyobrazić, że był przetrzymywany jak więzień w swoim domu. "
 
 
 
@@ -1646,7 +1646,7 @@ translate polish s09_02_agree_318a9558:
 
     voice voice_file.lpdcat(9,22)
 
-    lpdcat laugh "\"Za-kochaj się w moim świecie~\" "
+    lpdcat laugh "\"Zakochaj się w moim świecie~\" "
 
 
 
@@ -1662,7 +1662,7 @@ translate polish s09_02_agree_35aef658:
 
     b "Widząc Senpai'a tak szczęśliwego, nie mogę się powstrzymać od uśmiechu. "
 
-    b "Kiedy tylko jesteśmy wszyscy razem, zawsze jest jakiś zajęty, pełen różnych innych rzeczy. Ale tutaj, chodząc ręka w rękę tą cichą drogą... To takie miłe uczucie być po prostu tylko z nim. "
+    b "Kiedy jesteśmy wszyscy razem, zawsze jest jakiś zajęty, zawsze ma jakieś inne rzeczy do zrobienia. Ale tutaj, chodząc dłoń w dłoń tą cichą drogą... To takie miłe uczucie być po prostu tylko z nim. "
 
 
 
@@ -1730,7 +1730,7 @@ translate polish s09_02_agree_a750999d:
 
     # b "He wasn't fazed in the slightest. It was a very light rain, actually more like a wet fog, covering everything around us in grey. "
 
-    b "W ogóle się tym nie przejmował. To był bardzo lekki deszcz, może nawet bardziej taka mgła, która pokrywała wszystko dookoła nas w szarości. "
+    b "W ogóle się tym nie przejmował. To był bardzo lekki deszcz, może nawet bardziej taka mokra mgła, która pokrywała wszystko dookoła nas w szarości. "
 
 
 
@@ -1798,7 +1798,7 @@ translate polish s09_02_agree_fbfdb83f:
 
     # b "I knew he was just joking around, but I still felt embarrassed. "
 
-    b "Wiedziałem, że on po prostu żartował, ale wciąż się czułem się zawstydzony. "
+    b "Wiedziałem, że po prostu żartował, ale wciąż się czułem się zawstydzony. "
 
 
 
@@ -1814,7 +1814,7 @@ translate polish s09_02_agree_c5aab7c8:
 
     voice voice_file.lpdcat(9,27)
 
-    lpdcat normal "\"Hej, już się zbliżamy, w tą stronę. No chodź!\" "
+    lpdcat normal "\"Hej, już się zbliżamy. W tą stronę. No chodź!\" "
 
 
 
@@ -1830,7 +1830,7 @@ translate polish s09_02_agree_b5cd5000:
 
     voice voice_file.lpdcat(9,28)
 
-    lpdcat laugh "\"Tak naprawdę, to miałem na myśli, że kiedy jestem z tobą, to jestem zbyt szczęśliwy, aby zachorować. Hmm? Coś nie tak?\" "
+    lpdcat laugh "\"Tak naprawdę, to miałem na myśli, że kiedy jestem z tobą, to jestem zbyt szczęśliwy, aby zachorować. \n...Hmm? Coś nie tak?\" "
 
 
 
@@ -1874,7 +1874,7 @@ translate polish s09_02_agree_aba70dc9:
 
     voice voice_file.lpdcat(9,30)
 
-    lpdcat wronged "\"... Muszę cię przeprosić za to wszystko.\" "
+    lpdcat wronged "\"...Muszę cię przeprosić za to wszystko.\" "
 
 
 
@@ -1946,7 +1946,7 @@ translate polish s09_02_agree_cba5e882:
 
     voice voice_file.lpdcat(9,33)
 
-    lpdcat wronged "\"Mogę wrócić po wakacjach. Ale już...\" "
+    lpdcat wronged "\"Mogę wrócić po wakacjach. \n Ale już...\" "
 
 
 
@@ -1986,7 +1986,7 @@ translate polish s09_02_agree_bb029e84:
 
     # b "Without saying another word, Senpai runs off down some street. I follow him, trying to catch up. "
 
-    b "Bez kolejnego słowa, Senpai biegnie na przód ulicą. Podążam za nim, próbując go dogonić. "
+    b "Bez kolejnego słowa, Senpai zbiega w dół ulicą. Podążam za nim, próbując go dogonić. "
 
 
 
@@ -2002,7 +2002,7 @@ translate polish s09_02_agree_4d886c72:
 
     voice voice_file.lpdcat(9,35)
 
-    lpdcat normal "\"Liao, patrz... hej! Uważaj!\" "
+    lpdcat normal "\"Liao, patrz... Hej! Uważaj!\" "
 
 
 
@@ -2030,7 +2030,7 @@ translate polish s09_02_agree_c5685ec4:
 
     voice voice_file.lpdcat(9,36)
 
-    lpdcat2 "\"... L-{w=0.2}Liao... Liao?\" "
+    lpdcat2 "\"...L-{w=0.2}Liao... Liao?\" "
 
 
 
@@ -2062,7 +2062,7 @@ translate polish s09_02_agree_b44678ba:
 
     voice voice_file.lpdcat(9,38)
 
-    lpdcat2 "\"Ja... *szloch* ktokolwiek...\" "
+    lpdcat2 "\"Ja... *szloch*... ktokolwiek...\" "
 
 
 
