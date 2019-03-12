@@ -10,7 +10,7 @@ translate polish s08_3cf79bd2:
 
     # b "It was a few days after our trip into the mountains. Ching Ming, the Tomb-Sweeping festival was coming up soon. "
 
-    b ""
+    b "Było to już parę dni po naszej wycieczce w góry. Zbliżał się Ching Ming, festiwal sprzątania grobów. "
 
 
 
@@ -22,7 +22,7 @@ translate polish s08_8b74e407:
 
     # b "Now that I think about it, I should have bought a ticket in advance if I wanted to go but I've just been too busy with school work to get around to it. It's too late anyway, maybe next year. "
 
-    b "Teraz myśląc, powinienem był kupić bilet na zapas, jeśli chciałbym pójść, ale po prostu byłem zajęty szkołą"
+    b "Teraz jak o tym myślę, to powinienem był wcześniej kupić bilet, gdybym chciał iść, ale po prostu byłem zbyt zajęty szkołą, aby się za to zabrać. \nMimo wszystko i tak jest już za późno. Może za rok. "
 
 
 
@@ -36,7 +36,9 @@ translate polish s08_1e04f7c2:
 
     # b "He didn't argue... "
 
-    b "W końcu zadzwonił do mnie tata. Próbował mnie namówić na powrót do domu podczas przerwy, ale odmówiłem mu tłumacząc się egzaminami zaraz po przerwie, do których planowałem się uczyć. Nie kłócił sie dalej..."
+    b "Tata też do mnie zadzwonił. Próbował mnie namówić na powrót do domu podczas przerwy, ale szybko odmówiłem mu tłumacząc się, że mam egzaminy i planuję zostać, żeby się uczyć. "
+
+    b "Nie kłócił się... "
 
 
 
@@ -52,7 +54,7 @@ translate polish s08_ad514d2f:
 
     voice voice_file.tig(8,1)
 
-    tig normal "\"Liao, rozumiem, przeżywasz teraz trudny okres, więc zapytam jeszcze raz. Jesteś pewien, że nie chcesz wrócić do domu podczas przerwy?\" "
+    tig normal "\"Liao rozumiem, że masz teraz kłopotliwą sytuację, więc zapytam tylko raz. Jesteś pewien, że nie chcesz wrócić do domu podczas przerwy?\" "
 
 
 
@@ -64,7 +66,7 @@ translate polish s08_3332f139:
 
     # avt "\"Yeah. I just don't feel ready...\" "
 
-    avt "\"Tak, po prostu nie jestem jeszcze gotowy..\" "
+    avt "\"Tak. Po prostu nie jestem jeszcze gotowy...\" "
 
 
 
@@ -80,7 +82,7 @@ translate polish s08_928f89ed:
 
     voice voice_file.tig(8,2)
     
-    # tig disappointed "\"Szkoda. Byłoby wspaniale, gdybym mógł cię przedstawić innym bogom\" "
+    tig disappointed "\"Jaka szkoda. Byłoby wspaniale, gdybym mógł cię przedstawić innym bogom.\" "
 
 
 
@@ -92,7 +94,7 @@ translate polish s08_b697b4f4:
 
     # avt "\"Oh, you mean... the other guardian tigers?\" "
 
-    avt "\"Oh, masz na myśli... innych tygrysich strażników?\" "
+    avt "\"Oo, masz na myśli... innym tygrysim strażnikom?\" "
 
 
 
@@ -110,9 +112,9 @@ translate polish s08_4bce6f87:
 
     voice voice_file.tig(8,3)
 
-    tig normal "\"Zgadza się. Jak już wiesz, każdy posąg w twoim domu zamieszkuje tygrysi strażnik. \" "
+    tig normal "\"Zgadza się. Tak jak już powiedziałem wcześniej, każdy posążek w twoim domu posiada tygrysiego strażnika.\" "
        
-    tig laugh_2 "\"A z twoim zamiłowaniem do zwierzoludzi, wydaje mi się że byłbyś wniebowzięty, będąc otoczonym tyloma naraz.\" "
+    tig laugh_2 "\"Z twoim zamiłowaniem do zwierzoludzi zakładam, że byłbyś wniebowzięty, będąc otoczonym tyloma naraz.\" "
 
 
 # game/script/08.rpy:27
@@ -123,7 +125,7 @@ translate polish s08_8fab4e9e:
 
     # b "The temple back home is really big... there's also {i}heaps{/i} \ of statues... {w=0.5}If all the guardian tigers are as big as the one I've seen, there's no way they'd all fit! "
 
-    b "Świątynia w domu jest ogromna... i jest w niej {i}masa{i} \ posążków... {w=0.5}Jeśli wszyscy tygysi strażnicy są aż tak duzi jak ten którego widziałem, nie ma opcji żeby się taam zmieścili! "
+    b "Świątynia u mnie w domu jest naprawdę duża... i jest w niej {i}mnóstwo{/i} \ posążków... {w=0.5}Jeśli ci tygrysi strażnicy są tak duzi, jak ten którego już widziałem, to nie ma opcji, żeby się tam wszyscy zmieścili! "
 
 
 
@@ -135,7 +137,7 @@ translate polish s08_c50d59e6:
 
     # b "I wonder what they do all day... {w=0.5}It'd be funny to see all of them scattered around the place, playing chess, gossiping, and hanging out. "
 
-    b "Ciekawe co robią cały dzień... {w=0.5}Byłoby zabawne widzieć ich wszystkich zgromadzonych, grających w szachy, plotkujących i zbijających bąki"
+    b "Ciekawe co robią cały dzień... {w=0.5}Byłoby zabawnie widzieć ich wszystkich rozsianych po całym miejscu, grających w szachy i plotkujących ze sobą. "
 
 
 
@@ -147,7 +149,7 @@ translate polish s08_99ab9615:
 
     # avt "\"But if I go back now, won't they all have a million questions to ask me? I don't think I really want to deal with that...\" "
 
-    avt "\"Ale, jeśli wrócę, czy nie zbombardują mnie pytaniami? Nie sądzę, żebym chciał się z tym użerać...\" "
+    avt "\"Ale czy nie będą mieli do mnie tysięcy pytań, jeśli teraz wrócę? Nie sądzę, żebym chciał się z tym użerać...\" "
 
 
 
@@ -163,7 +165,7 @@ translate polish s08_de34ffa2:
 
     voice voice_file.tig(8,4)
 
-    tig lift "\" Rozumiem. No, widzę że ci przeszkadzają... Powiem im żeby cię nie rozpraszali cały czas, czy to wystarczy?\" "
+    tig lift "\" Rozumiem. No cóż, widzę że będą ci sprawiać kłopot...\nPowiem im po prostu, żeby cię nie zaczepiali przez cały ten czas. Czy tak byłoby dobrze?\" "
 
 
 
@@ -177,9 +179,9 @@ translate polish s08_033aeb1f:
 
     # avt "\"They don't even know that I'm gay and I don't really want to explain that...\" "
 
-    avt "\" Nie powinni mnie pytać o powrocie do domu, o życiu w Taipei, o studiach, o dziewczynach... \" "
+    avt "\"Nie powinni mnie pytać o powrót do domu, o moje życie w Tajpej, o studia, o dziewczyny...\" "
 
-    avt "\"Nawet nie wiedzą o tym że jestem gejem, i nie mam ochoty na wyjaśnienia...\" "
+    avt "\"Nawet nie wiedzą o tym, że jestem gejem. \nNaprawdę nie chciałbym tego wyjaśniać...\" "
 
 
 # game/script/08.rpy:37
@@ -198,7 +200,7 @@ translate polish s08_6c82b91b:
 
     tig normal "\"To prawda... Zrobię co mogę, ale czasami lubią sobie pożartować.\" "
 
-    tig normal "\"Mimo to, musisz się do nich kiedyś przyzwyczaić\" "
+    tig normal "\"Mimo wszystko, będziesz musiał się do nich kiedyś przyzwyczaić.\" "
 
 
 # game/script/08.rpy:39
@@ -209,7 +211,7 @@ translate polish s08_8b49ea1f:
 
     # avt "\"What about Leopard and Senpai? Wouldn't it be weird for them to come along?\" "
 
-    avt "\" A co z Panterą i Senpaiem? Nie byłoby to dziwne gdyby przyszli z nami?\" "
+    avt "\"A co z Panterą i Senpai'em? Nie byłoby to dziwne gdyby z nami przyszli?\" "
 
 
 
@@ -225,7 +227,7 @@ translate polish s08_744304ee:
 
     voice voice_file.tig(8,6)
 
-    tig frown "\"Najlepiej by było, gdyby Pantera został. Zabranie aborygeńskiego ducha do świątyni Hanów byłoby szukaniem guza\" "
+    tig frown "\"Najlepiej byłoby, gdyby Pantera został. Zabranie aborygeńskiego ducha do świątyni Hanów byłoby jak proszenie się o kłopoty.\" "
 
 
 
@@ -237,7 +239,7 @@ translate polish s08_c436d1c7:
 
     # avt "\"Exactly. That's why I don't think it's best to go back yet. There's too much stuff to take care of first.\" "
 
-    avt "\"Dokładnie. Dlatego powrót nie wydaje mi się najlepszą opcją. Mam tyle na głowie...\" "
+    avt "\"Dokładnie. Dlatego właśnie sądzę, że to nie jest najlepsza pora na powrót. \nWciąż jest jeszcze dużo innych rzeczy do zrobienia...\" "
 
 
 
@@ -253,7 +255,7 @@ translate polish s08_803ae67a:
 
     voice voice_file.tig(8,7)
 
-    tig normal "A co z letnią przerwą? Nie zostaniesz chyba tu przez całe lato.\" "
+    tig normal "\"A co z przerwą wakacyjną? Nie możesz przecież zostać tutaj przez całe lato.\" "
 
 
 
@@ -265,7 +267,7 @@ translate polish s08_3716b34d:
 
     # avt "\"...We'll see how it goes.\" "
 
-    avt "\" ...Czas pokaże.\" "
+    avt "\"...Zobaczymy jak będzie.\" "
 
 
 
@@ -281,7 +283,7 @@ translate polish s08_0354e114:
 
     voice voice_file.tig(8,8)
 
-    tig frown "\"...Pewnie. Jeśli tak ma być, podejmij szybko decyzję, aby inni mogli odejść.\" "
+    tig frown "\"...No dobrze. Jeśli tak ma być, to szybko podejmij decyzję, aby inni mogli odejść.\" "
 
 
 
@@ -305,7 +307,7 @@ translate polish s08_9f04d24f:
 
     # b "As much as I don't want to turn anyone away, keeping this up is just going to cause problems. "
 
-    b "Na tyle ile nie chcę nikogo odtrącać, zatrzymywanie tego spowoduje problemy."
+    b "Chociaż nie chcę nikogo odtrącać, utrzymywanie tego po prostu spowoduje problemy. "
 
 
 
@@ -319,9 +321,9 @@ translate polish s08_e9af40b7:
 
     # b "Maybe I should do it. Rip it off like a band-aid and just decide already... "
 
-    b "Samo myślenie o decyzji przytłacza mnie poczuciem winy i zdenerwowaniem"
+    b "Już samo myślenie o decyzji przytłacza mnie poczuciem winy, zdenerwowaniem i zmartwieniem. "
     
-    b "Może powinienem. Zerwać niczym plaster i się zdecydować..."
+    b "Może jednak powinienem to zrobić. Wziąć się w garść i zdecydować w końcu... "
 
 
 # game/script/08.rpy:74
@@ -360,7 +362,7 @@ translate polish s08_a0385362:
 
     # avt "\"Yeah, for sure. I have to prepare for the midterms. What about it?\" "
 
-    avt "\" Tak. Muszę się przygotować na egzaminy śródroczne. A co?\" "
+    avt "\"Tak, na pewno. Muszę się przygotować na egzaminy śródroczne. A co?\" "
 
 
 
@@ -376,7 +378,7 @@ translate polish s08_c0cb5aab:
 
     voice voice_file.lpdcat(8,2)
 
-    lpdcat normal "\"Cooo- Kogo obchodzą śródroczne? Co ty, stypendium chcesz czy co?\" "
+    lpdcat normal "\"Coo- Kogo obchodzą te egzaminy? O stypendium się starasz czy co?\" "
 
 
 
@@ -388,7 +390,7 @@ translate polish s08_8fffb293:
 
     # avt "\"Even if I'm not, I still don't want to fail.\" "
 
-    avt "\"Nawet jeśli nie chcę się, nie chcę oblać\" "
+    avt "\"Nawet jeśli nie, to wciąż nie chcę ich oblać.\" "
 
 
 
@@ -406,9 +408,9 @@ translate polish s08_b449f421:
 
     voice voice_file.lpdcat(8,3)
 
-    lpdcat laugh "\"{i}Nie ma opcji{i} \ że Liao mógłby oblać, jestem tego pewien!\" "
+    lpdcat laugh "\"{i}Nie ma opcji,{/i} \ żeby Liao oblał, jestem tego pewien!\" "
     
-    lpdcat laugh "\"Więęęęc- Zamiast uczyć się codziennie, wyjdżmy razem i zabawmy się!\" "
+    lpdcat laugh "\"Więęęęc- Zamiast uczyć się codziennie, wyjdźmy gdzieś razem i zabawmy się!\" "
 
 
 
@@ -420,7 +422,7 @@ translate polish s08_14612d93:
 
     # avt "\"I {i}guess{/i} \ we could, but we've really been going out a lot lately... I just don't have the \ntime.\" "
 
-    avt "\" {i} Myślę{i} \ że moglibyśmy, ale spotykaliśmy się ostatnio mnóstwo razy... Po prostu nie mam \nczasu.\" "
+    avt "\"{i}Myślę,{/i} \ że moglibyśmy, ale spotykaliśmy się ostatnio mnóstwo razy...\nPo prostu nie mam już na to czasu.\" "
 
 
 
@@ -436,7 +438,7 @@ translate polish s08_f4fb304a:
 
     voice voice_file.lpdcat(8,4)
 
-    lpdcat laugh "\"Możemy znowu wyjść, choć raz?\" "
+    lpdcat laugh "\"Proszę, czy możemy wyjść jeszcze tylko raz?\" "
 
 
 
@@ -448,7 +450,7 @@ translate polish s08_02_disagree_8e89cb80:
 
     # avt "\"Sorry Senpai, I really have to study.\" "
 
-    avt "\"Wybacz Senpai, muszę się uczyć.\" "
+    avt "\"Wybacz Senpai, ale naprawdę muszę się uczyć.\" "
 
 
 
@@ -464,7 +466,7 @@ translate polish s08_02_disagree_fd52b335:
 
     voice voice_file.lpdcat(8,5)
 
-    lpdcat normal "\"Serio, powinienneś przestać martwić się mocnym zakuwaniem podczas ferii od kiedy jesteś na drugim roku. Nie ma co się aż tak przejmować Liao.\" "
+    lpdcat normal "\"Poważnie? Naprawdę powinieneś przestać aż tak bardzo zakuwać podczas przerwy, kiedy już będziesz na drugim roku. Nie ma co się aż tak tym przejmować Liao.\" "
 
 
 
@@ -476,7 +478,7 @@ translate polish s08_02_disagree_4aa566f8:
 
     # avt "\"Well, I'm still a freshman! So even by your logic I {i}should{/i} \ care about this. \" "
 
-    avt "\"Ale ja nadal jestem świeżakiem! Więc według twojej logiki [i]powinienem[/i] się przejmować. \" "
+    avt "\"No cóż, ja nadal jestem studentem pierwszego roku! Więc nawet według twojej logiki {i}powinienem{/i} \ się tym przejmować.\" "
 
 
 
@@ -492,7 +494,7 @@ translate polish s08_02_disagree_2051d72f:
 
     voice voice_file.lpdcat(8,6)
 
-    lpdcat cry_2 "\"Liao poprostu szuka wymówki, aby nie iść ze mną-\" " with hshake
+    lpdcat cry_2 "\"Liao po prostu szuka wymówki, aby ze mną nie wyjść-\" " with hshake
 
 
 
@@ -504,7 +506,7 @@ translate polish s08_02_disagree_c82cc086:
 
     # avt "\"If you really want to look at it like that, then yes, it is an excuse.\" "
 
-    avt "\"Jeśli tak na to patrzysz, tak, to wymówka.\" "
+    avt "\"Jeśli tak na to patrzysz... to tak. \nTo jest wymówka.\" "
 
 
 
@@ -520,7 +522,7 @@ translate polish s08_02_disagree_b2803495:
 
     voice voice_file.lpdcat(8,7)
 
-    lpdcat not_reconcile "\"Ahhhh- Dobra. Łapię.\" "
+    lpdcat not_reconcile "\"Ahhhh- No dobra. Łapię.\" "
 
 
 
@@ -536,7 +538,7 @@ translate polish s08_02_disagree_2e51ce25:
 
     voice voice_file.lpdcat(8,8)
 
-    lpdcat wronged "\"Nawet jeśli to nasza ostatnia szansa...\" "
+    lpdcat wronged "\"Nawet jeśli to jest nasza ostatnia szansa...\" "
 
 
 
@@ -548,7 +550,7 @@ translate polish s08_02_disagree_7d139f09:
 
     # avt "\"Huh? What do you mean?\" "
 
-    avt "\"Hm? O czym ty mówisz>\" "
+    avt "\"Hę? Co masz na myśli?\" "
 
 
 
@@ -564,7 +566,7 @@ translate polish s08_02_disagree_8730a6b0:
 
     voice voice_file.lpdcat(8,9)
 
-    lpdcat normal "\"Nic,nic. Ucz się!\" "
+    lpdcat normal "\"Nic, nic. Ucz się dalej!\" "
 
 
 
@@ -576,7 +578,7 @@ translate polish s08_02_disagree_5899dad1:
 
     # avt "\"Uhh— Yeah...\" "
 
-    avt "\"Yyyyy- dobra...\" "
+    avt "\"Umm- Dobra...\" "
 
 
 
@@ -592,7 +594,7 @@ translate polish s08_02_disagree_18184a6e:
 
     voice voice_file.lpdcat(8,10)
 
-    lpdcat normal "\"Po prostu planuję wrócić do domu i wziąć trochę rzeczy. Więc, pewnie nie będzie mnie w domu aż do póżna.\" "
+    lpdcat normal "\"Po prostu planuję wrócić do domu i wziąć trochę rzeczy. \nWięc, powiem ci od razu, że nie będzie mnie aż do późna. Nie martw się o mnie.\" "
 
 
 
@@ -604,7 +606,7 @@ translate polish s08_02_disagree_1eab16a8:
 
     # avt "\"Huh? Yeah, got it.\" "
 
-    avt "\"Hm? okay, rozumiem.\" "
+    avt "\"Hę? A tak, zrozumiałem.\" "
 
 
 
@@ -620,7 +622,7 @@ translate polish s08_02_disagree_23bee263:
 
     voice voice_file.lpdcat(8,11)
 
-    lpdcat laugh "\" W porządku, do zobaczenia Liaaao~\" "
+    lpdcat laugh "\"W porządku, do zobaczenia wieczorem Liaaao~\" "
 
 
 
@@ -632,7 +634,7 @@ translate polish s08_02_agree_a7086bb1:
 
     # avt "\"I guess it'd be alright...\" "
 
-    avt ""
+    avt "\"Chyba tak będzie dobrze...\" "
 
 
 
