@@ -650,7 +650,7 @@ translate polish s08_02_agree_39e41fea:
 
     voice voice_file.lpdcat(8,12)
 
-    lpdcat happy "" with hshake
+    lpdcat happy "\"Hurra! W takim razie przygotuję wszystko!\" " with hshake
 
 
 
@@ -662,7 +662,7 @@ translate polish s08_02_agree_ad360856:
 
     # avt "\"What do you have planned?\" "
 
-    avt ""
+    avt "\"Masz coś zaplanowanego?\" "
 
 
 
@@ -678,7 +678,7 @@ translate polish s08_02_agree_118f4f4c:
 
     voice voice_file.lpdcat(8,13)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Och, to tajemnica. Powiedzmy, że jest to niespodzianka dla ciebie, Liao. \nWięc po prostu zostaw to mnie, pójdę do domu i załatwię wszystko!\" "
 
 
 
@@ -690,7 +690,7 @@ translate polish s08_02_agree_aaec322d:
 
     # avt "\"Yeah. Okay, then I guess I'll see you later.\" "
 
-    avt ""
+    avt "\"Spoko. Dobrze więc, widzimy się później.\" "
 
 
 
@@ -706,7 +706,7 @@ translate polish s08_02_agree_df16eb12:
 
     voice voice_file.lpdcat(8,14)
 
-    lpdcat normal ""
+    lpdcat normal "\"Mhm. Dzisiaj wieczorem.\" "
 
 
 
@@ -718,7 +718,7 @@ translate polish s08_03_a9572b86:
 
     # b "That night I waited, and waited, but for the first time in a very long time, Senpai didn't come home. "
 
-    b ""
+    b "Tej nocy czekałem i czekałem, ale pierwszy raz od dłuższego czasu Senpai nie wrócił do domu. "
 
 
 
@@ -734,7 +734,7 @@ translate polish s08_03_44e117e5:
 
     voice voice_file.tig(8,9)
 
-    tig frown ""
+    tig frown "\"Co ten kociak robi to tej porze?\" "
 
 
 
@@ -746,7 +746,7 @@ translate polish s08_03_ddd0dced:
 
     # avt "\"It is getting a bit late... he's usually home by now. Let me call and I'll see what's up...\" "
 
-    avt ""
+    avt "\"Robi się trochę późno... Normalnie byłby już teraz w domu. Zadzwonię i sprawdzę co u niego...\" "
 
 
 
@@ -758,7 +758,7 @@ translate polish s08_03_abb2d7f1:
 
     # b "Worried that something bad might have happened I pick up my phone and call his number... {w=1}He doesn't pick up. "
 
-    b ""
+    b "Zmartwiony tym, że coś złego mogło się stać, biorę telefon i dzwonię na jego numer...\n{w=1}Nie odbiera. "
 
 
 
@@ -770,7 +770,7 @@ translate polish s08_03_264d958e:
 
     # avt "\"If something came up, he would've at least left a message...\" "
 
-    avt ""
+    avt "\"Gdyby coś mu wypadło, to by przynajmniej zostawił wiadomość...\" "
 
 
 
@@ -786,7 +786,7 @@ translate polish s08_03_3ca6e7dc:
 
     voice voice_file.tig(8,10)
 
-    tig normal ""
+    tig normal "\"Hmm- Być może zasnął w siebie w domu?\" "
 
 
 
@@ -798,7 +798,7 @@ translate polish s08_03_d5529a9d:
 
     # avt "\"He was going to get some things ready, I'd doubt he'd just fall asleep.\" "
 
-    avt ""
+    avt "\"Miał przygotować pewne rzeczy, więc wątpię, że po prostu zasnął.\" "
 
 
 
@@ -812,7 +812,9 @@ translate polish s08_03_ff3803d1:
 
     # b "We sat there waiting for any sign of him. The clock turning past midnight before I'm left with nothing to do but trudge over to my bed, taking my worries to sleep with me... "
 
-    b ""
+    b "Kiedyś czułem się tak, jakbym {i}chciał,{/i} \ aby Senpai wrócił do domu... \nMoże jakaś część mnie wciąż tego chce, ale nigdy nie chciałem, żeby tak się stało. "
+
+    b "Usiedliśmy, czekając na jakikolwiek sygnał od niego. Po jakimś czasie zegar wybił północ i już nie pozostało mi nic innego jak tylko rzucić się na łóżko i zasnąć zmartwiony... "
 
 
 
@@ -824,7 +826,7 @@ translate polish s08_03_fb34baef:
 
     # b "The next day was the first day of Ching Ming... but Senpai was nowhere to be found. "
 
-    b ""
+    b "Następny dzień był pierwszym dniem festiwalu Ching Ming... \n...a Senpai'a wciąż nigdzie nie było. "
 
 
 
@@ -838,7 +840,9 @@ translate polish s08_03_7e5c36b5:
 
     # b "Somewhere it annoys me, but I'm mostly just worried... I just don't know what I can \ndo. "
 
-    b ""
+    b "Mieliśmy dzisiaj wyjść... \n...a po nim nie było żadnego śladu. "
+
+    b "Trochę mnie to irytuje, ale głównie się martwię... \nPo prostu nie wiem, co mogę zrobić. "
 
 
 
@@ -852,7 +856,9 @@ translate polish s08_03_f29e53f5:
 
     # b "I'm a bit annoyed by it but I'm mostly worried... I just don't know what I can do. "
 
-    b ""
+    b "Nawet jeśli nie obiecywałem mu, że pójdę, to czy zostawiłby mnie tak po prostu bez słowa? "
+
+    b "Trochę jestem tym poirytowany, ale głównie to się martwię... \nPo prostu nie wiem, co mogę zrobić. "
 
 
 
@@ -864,7 +870,7 @@ translate polish s08_03_de541676:
 
     # b "In a time like this... "
 
-    b ""
+    b "Akurat teraz... "
 
 
 
@@ -876,7 +882,7 @@ translate polish s08_04_tig_311d002d:
 
     # b "I sit at my desk, trying to study, but all I can think about is Senpai's disappearance. Unable to do any work I resort to distracting myself with social media. "
 
-    b ""
+    b "Siadam za biurkiem i próbuję się uczyć, ale wszystko, o czym mogę teraz pomyśleć, to zniknięcie Senpai'a. Niezdolny do pracy, odwracam swoją uwagę od wszystkiego mediami społecznościowymi. "
 
 
 
@@ -892,7 +898,7 @@ translate polish s08_04_tig_1dbc6e52:
 
     voice voice_file.tig(8,11)
 
-    tig lift ""
+    tig lift "\"Liao, wciąż martwisz się o tego kociaka?\" "
 
 
 
@@ -904,7 +910,7 @@ translate polish s08_04_tig_28444525:
 
     # avt "\"Yeah... Of course. He just disappeared, like he wasn't here at all... \" "
 
-    avt ""
+    avt "\"Tak... Oczywiście, że tak. Po prostu zniknął, tak, jakby go tu w ogóle nie było...\" "
 
 
 
@@ -920,7 +926,7 @@ translate polish s08_04_tig_fdf7a41e:
 
     voice voice_file.tig(8,12)
 
-    tig normal ""
+    tig normal "\"...Wolałbym, żebyś po prostu o nim zapomniał, ale pewnie proszę o zbyt wiele.\" "
 
 
 
@@ -934,7 +940,9 @@ translate polish s08_04_tig_6d6838bb:
 
     # avt "\"What if something bad happened?\" "
 
-    avt ""
+    avt "\"To znaczy, to nie tak, że nie chciałem aby odszedł... ale nigdy nie chciałem, żeby stało się to w ten sposób.\" "
+
+    avt "\"A co jeśli wydarzyło się coś złego?\" "
 
 
 
@@ -952,7 +960,9 @@ translate polish s08_04_tig_55474993:
 
     voice voice_file.tig(8,13)
 
-    tig normal ""
+    tig normal "\"Nie wierzę, że to coś złego. W końcu jest on trochę takim tygrysim strażnikiem.\" "
+
+    tig normal "\"Yaoguai'e by go nie zranili i większość ludzi nawet nie jest w stanie go zobaczyć czy też dotknąć, chyba że jest w posiadaniu ciała.\" "
 
 
 
@@ -964,7 +974,7 @@ translate polish s08_04_tig_88b5b4d0:
 
     # avt "\"Then where is he? Why hasn't he said anything yet?\" "
 
-    avt ""
+    avt "\"W takim razie gdzie on jest? Dlaczego jeszcze się nie odezwał?\" "
 
 
 
@@ -980,7 +990,7 @@ translate polish s08_04_tig_9e99a41a:
 
     voice voice_file.tig(8,14)
 
-    tig normal ""
+    tig normal "\"Nie wiem i nie przejmuję się tym zbytnio. Jestem pewien, że wszystko jest z nim w porządku.\" "
 
 
 
@@ -992,7 +1002,7 @@ translate polish s08_04_tig_cee31dcc:
 
     # avt "\"Can you guarantee that?\" "
 
-    avt ""
+    avt "\"Możesz to zagwarantować?\" "
 
 
 
@@ -1010,7 +1020,9 @@ translate polish s08_04_tig_1cfbc509:
 
     voice voice_file.tig(8,15)
 
-    tig normal ""
+    tig normal "\"...No cóż, na tym świecie nie ma żadnych gwarancji.\" "
+
+    tig normal "Ale jeżeli aż tak bardzo ci zależy...\" "
 
 
 
@@ -1026,7 +1038,7 @@ translate polish s08_04_tig_84f03e10:
 
     voice voice_file.tig(8,16)
 
-    tig disappointed ""
+    tig disappointed "\"To przypuszczam, że mogę ci pomóc, jeżeli tak bardzo tego chcesz.\" "
 
 
 
@@ -1038,7 +1050,7 @@ translate polish s08_04_tig_71a5d4b6:
 
     # avt "\"How?\" "
 
-    avt ""
+    avt "\"Jak?\" "
 
 
 
@@ -1054,7 +1066,7 @@ translate polish s08_04_tig_cc68364f:
 
     voice voice_file.tig(8,17)
 
-    tig normal ""
+    tig normal "\"Zwykle musiałbym zapytać Jasnowidzącego i Jasnosłyszącego o pomoc w tym, ale jesteśmy zbyt daleko od domu. Być może moglibyśmy ich dosięgnąć ze świątyni tutaj w Tajpej...\" "
 
 
 
@@ -1066,7 +1078,7 @@ translate polish s08_04_tig_f95671b3:
 
     # avt "\"Temples? There should be plenty of Mazu temples in Taipei, right?\" "
 
-    avt ""
+    avt "\"Świątyni? Tutaj w Tajpej powinno być sporo świątyń Mazu, co nie?\" "
 
 
 
@@ -1084,7 +1096,9 @@ translate polish s08_04_tig_f854cfcd:
 
     voice voice_file.tig(8,18)
 
-    tig normal ""
+    tig normal "\"Nawet jeśli te świątynie są takiej samej religii, to każda może posiadać innego boga. Można by powiedzieć, że to jest taki dom towarowy z wyznaczonymi działami, ale w każdym innym jest wiele produktów.\" "
+
+    tig normal "\"Dziwne byłoby zawracać głowę nieznajomego boga taką drobnostką.\" "
 
 
 
@@ -1102,7 +1116,9 @@ translate polish s08_04_tig_826c53e2:
 
     voice voice_file.tig(8,19)
 
-    tig normal ""
+    tig normal "\"Aczkolwiek, nawet świątynia inna niż Mazu mogłaby mieć tygrysiego strażnika lub nawet dwóch.\" "
+
+    tig normal "\"Taka jak na przykład świątynia najwyższego Boga Miasta w Tajpej. Nie byłoby tam ciężko spytać tygrysiego strażnika o wsparcie.\" "
 
 
 
@@ -1114,7 +1130,7 @@ translate polish s08_04_tig_f83879ce:
 
     # avt "\"Hmm... so we should go to the temple of Taipei's highest City God?\" "
 
-    avt ""
+    avt "\"Hmm... więc powinniśmy iść do świątyni najwyższego Boga Miasta w Tajpej?\" "
 
 
 
@@ -1130,7 +1146,7 @@ translate polish s08_04_tig_92bb8722:
 
     voice voice_file.tig(8,20)
 
-    tig normal ""
+    tig normal "\"Tak. Większość z nas tygrysich strażników dogaduje się między sobą. Na szczęście, dużo jest tutaj świątyń z podobnymi wierzeniami.\" "
 
 
 
@@ -1142,7 +1158,7 @@ translate polish s08_04_tig_a06b391b:
 
     # avt "\"So you won't ask Clairaudience?\" "
 
-    avt ""
+    avt "\"Więc nie spytasz Jasnosłyszącego?\" "
 
 
 
@@ -1158,7 +1174,7 @@ translate polish s08_04_tig_031e6244:
 
     voice voice_file.tig(8,21)
 
-    tig normal ""
+    tig normal "\"Jak już wiesz, wciąż nie mogę oddalać się za bardzo od mojego posążka. W takim razie musiałbym poprosić ich to skontaktowanie się ze wspomnianą świątynią dla mnie.\" "
 
 
 
@@ -1170,7 +1186,7 @@ translate polish s08_04_tig_196d965c:
 
     # avt "\"So basically... you'll ask Clairvoyant and Clairaudience to go ask a guardian tiger at that temple for help?\" "
 
-    avt ""
+    avt "\"Więc po prostu... zapytasz Jasnowidzącego i Jasnosłyszącego o to, żeby oni zapytali tygrysiego strażnika w tej świątyni o pomoc?\" "
 
 
 
@@ -1186,7 +1202,7 @@ translate polish s08_04_tig_3c6c6521:
 
     voice voice_file.tig(8,22)
 
-    tig normal ""
+    tig normal "\"Tak.\" "
 
 
 
