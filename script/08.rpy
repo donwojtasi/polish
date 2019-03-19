@@ -786,7 +786,7 @@ translate polish s08_03_3ca6e7dc:
 
     voice voice_file.tig(8,10)
 
-    tig normal "\"Hmm- Być może zasnął w siebie w domu?\" "
+    tig normal "\"Hmm- Być może zasnął u siebie w domu?\" "
 
 
 
@@ -812,7 +812,7 @@ translate polish s08_03_ff3803d1:
 
     # b "We sat there waiting for any sign of him. The clock turning past midnight before I'm left with nothing to do but trudge over to my bed, taking my worries to sleep with me... "
 
-    b "Kiedyś czułem się tak, jakbym {i}chciał,{/i} \ aby Senpai wrócił do domu... \nMoże jakaś część mnie wciąż tego chce, ale nigdy nie chciałem, żeby tak się stało. "
+    b "Kiedyś czułem się tak, jakbym {i}chciał,{/i} \ aby Senpai wrócił do swojego domu... \nMoże jakaś część mnie wciąż tego chce, ale nigdy nie chciałem, żeby tak się stało. "
 
     b "Usiedliśmy, czekając na jakikolwiek sygnał od niego. Po jakimś czasie zegar wybił północ i już nie pozostało mi nic innego jak tylko rzucić się na łóżko i zasnąć zmartwiony... "
 
@@ -1022,7 +1022,7 @@ translate polish s08_04_tig_1cfbc509:
 
     tig normal "\"...No cóż, na tym świecie nie ma żadnych gwarancji.\" "
 
-    tig normal "Ale jeżeli aż tak bardzo ci zależy...\" "
+    tig normal "\"Ale jeżeli aż tak bardzo ci zależy...\" "
 
 
 
@@ -1096,7 +1096,7 @@ translate polish s08_04_tig_f854cfcd:
 
     voice voice_file.tig(8,18)
 
-    tig normal "\"Nawet jeśli te świątynie są takiej samej religii, to każda może posiadać innego boga. Można by powiedzieć, że to jest taki dom towarowy z wyznaczonymi działami, ale w każdym innym jest wiele produktów.\" "
+    tig normal "\"Nawet jeśli te świątynie są takiej samej religii, to każda może posiadać innego boga. Można by powiedzieć, że to jest taki dom towarowy z wyznaczonymi działami, ale w każdym innym jest wiele różnych produktów.\" "
 
     tig normal "\"Dziwne byłoby zawracać głowę nieznajomego boga taką drobnostką.\" "
 
@@ -1174,7 +1174,7 @@ translate polish s08_04_tig_031e6244:
 
     voice voice_file.tig(8,21)
 
-    tig normal "\"Jak już wiesz, wciąż nie mogę oddalać się za bardzo od mojego posążka. W takim razie musiałbym poprosić ich to skontaktowanie się ze wspomnianą świątynią dla mnie.\" "
+    tig normal "\"Jak już wiesz, wciąż nie mogę oddalać się za bardzo od mojego posążka. W takim razie musiałbym poprosić ich o skontaktowanie się ze wspomnianą świątynią dla mnie.\" "
 
 
 
@@ -1186,7 +1186,7 @@ translate polish s08_04_tig_196d965c:
 
     # avt "\"So basically... you'll ask Clairvoyant and Clairaudience to go ask a guardian tiger at that temple for help?\" "
 
-    avt "\"Więc po prostu... zapytasz Jasnowidzącego i Jasnosłyszącego o to, żeby oni zapytali tygrysiego strażnika w tej świątyni o pomoc?\" "
+    avt "\"Więc po prostu... zapytasz Jasnowidzącego i Jasnosłyszącego o to, żeby zapytali tygrysiego strażnika w tej świątyni o pomoc?\" "
 
 
 
@@ -1214,7 +1214,7 @@ translate polish s08_04_tig_43ceb6e8:
 
     # b "It'd be like asking a friend of a friend to go ask their friend... "
 
-    b ""
+    b "To byłoby jak zapytanie przyjaciela mojego znajomego o to, aby on poprosił swojego przyjaciela... "
 
 
 
@@ -1226,7 +1226,7 @@ translate polish s08_04_tig_4ac3e2dd:
 
     # avt "\"Would they be fine with that?\" "
 
-    avt ""
+    avt "\"Nie mieliby nic przeciwko temu?\" "
 
 
 
@@ -1242,7 +1242,7 @@ translate polish s08_04_tig_7bb7bd3b:
 
     voice voice_file.tig(8,23)
 
-    tig normal ""
+    tig normal "\"Pozostało nam albo to, albo chodzenie i rozwieszanie wszędzie plakatów i rozdawanie ulotek o zaginięciu. Wątpię, żeby było to warte zachodu.\" "
 
 
 
@@ -1254,7 +1254,7 @@ translate polish s08_04_tig_63eed9c5:
 
     # avt "\"Yeah, if we tried that, people would just start spreading rumors about him...\" "
 
-    avt ""
+    avt "\"No zgadzam się, gdybyśmy tego spróbowali, to ludzie zaczęliby szerzyć o nim plotki...\" "
 
 
 
@@ -1270,7 +1270,7 @@ translate polish s08_04_tig_3c149cde:
 
     voice voice_file.tig(8,24)
 
-    tig normal ""
+    tig normal "\"Jak widzisz, z pomocą bogów będzie nam znacznie łatwiej.\" "
 
 
 
@@ -1282,7 +1282,7 @@ translate polish s08_04_tig_e8521408:
 
     # avt "\"I... I guess you're right...\" "
 
-    avt ""
+    avt "\"Ch-{w=0.5}Chyba masz rację...\" "
 
 
 
@@ -1294,7 +1294,7 @@ translate polish s08_04_tig_ask_7546d8d9:
 
     # b "We really don't have another choice. It's a better plan than what I could manage, and if something really did happen, sitting around isn't going to help anything. "
 
-    b ""
+    b "Naprawdę nie mamy innego wyboru. \nTo lepszy plan, niż cokolwiek co ja mógłbym wymyślić, a jeśli naprawdę coś się stało, to siedzenie w niczym nie pomoże. "
 
 
 
@@ -1306,7 +1306,7 @@ translate polish s08_04_tig_ask_9f8d5209:
 
     # avt "\"...Alright. Let's ask them.\" "
 
-    avt ""
+    avt "\"...No dobrze. Zapytajmy ich.\" "
 
 
 
@@ -1324,7 +1324,9 @@ translate polish s08_04_tig_ask_098c80d6:
 
     voice voice_file.tig(8,25)
 
-    tig normal ""
+    tig normal "\"W takim razie udam się na dach.\" "
+
+    tig normal "\"To może zająć trochę czasu. Liao, wróć do nauki.\" "
 
 
 
@@ -1336,7 +1338,7 @@ translate polish s08_04_tig_ask_aa95d370:
 
     # avt "\"Alright.\" "
 
-    avt ""
+    avt "\"Dobrze.\" "
 
 
 
@@ -1348,7 +1350,7 @@ translate polish s08_04_tig_ask_87aae082:
 
     # b "Tiger stands up and proceeds to walk upwards, as if taking a flight of invisible stairs straight through the ceiling and up to the roof. "
 
-    b ""
+    b "Tygrys wstaje i zaczyna iść w górę, tak jakby szedł niewidzialnymi schodami prosto przez sufit na dach. "
 
 
 
@@ -1362,7 +1364,9 @@ translate polish s08_04_tig_ask_4bdebb43:
 
     # b "A little shocked, I try to focus my mind again and get back to studying. "
 
-    b ""
+    b "...Wiem, że jest tylko duchem, ale wciąż nie jestem przyzwyczajony do oglądania takich rzeczy. "
+
+    b "Trochę zszokowany, próbuję się skupić i wrócić do nauki. "
 
 
 
@@ -1378,7 +1382,7 @@ translate polish s08_04_tig_ask_ba45bbc1:
 
     voice voice_file.lpd(8,1)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Liao, zdenerwowany?\" "
 
 
 
@@ -1390,7 +1394,7 @@ translate polish s08_04_tig_ask_2dd7fb8d:
 
     # avt "\"...Hmm? Yeah.\" "
 
-    avt ""
+    avt "\"...Hmm? A, tak.\" "
 
 
 
@@ -1402,7 +1406,7 @@ translate polish s08_04_tig_ask_f3da60ef:
 
     # b "Even Leopard can see how nervous I am, but I promised Tiger I'd try and study. I have to stay focused. "
 
-    b ""
+    b "Nawet Pantera widzi, jak bardzo jestem zdenerwowany, ale obiecałem Tygrysowi, że będę próbował się uczyć. Dlatego muszę pozostać skupiony. "
 
 
 
@@ -1414,7 +1418,7 @@ translate polish s08_04_tig_ask_3ce33df5:
 
     # b "I flip through one of my textbooks. Okay, so what chapters here do I actually need to know for the test... "
 
-    b ""
+    b "Przeglądam jeden z moich podręczników. Dobra, więc jakie to rozdziały muszę znać na sprawdzian... "
 
 
 
@@ -1428,7 +1432,9 @@ translate polish s08_04_tig_ask_c2b5fc1f:
 
     # b " Looking out the window I see the night sky beginning to fall over the bright city lights, the blue hue of day fading into the purple of night. He's still not back. "
 
-    b ""
+    b "Minęło trochę czasu, odkąd Tygrys odszedł... "
+
+    b "Patrząc przez okno, widzę nocne niebo spadające na jasne światła miasta, niebieski odcień dnia zamienia się w purpurę nocy. Wciąż nie wrócił. "
 
 
 
@@ -1440,7 +1446,7 @@ translate polish s08_04_tig_ask_319449fc:
 
     # b "He just went up to the roof, didn't he? How long could it take to speak to \nClairaudience? "
 
-    b ""
+    b "Poszedł po prostu na dach, co nie? Jak długo mogłaby zająć rozmowa z Jasnosłyszącym? "
 
 
 
@@ -1456,7 +1462,11 @@ translate polish s08_04_tig_ask_4cda4638:
 
     # b "Okay, so dinner plan. Get two meals, one for him and one for Leopard. "
 
-    b ""
+    b "Mój brzuch burczy; byłem na tyle zdenerwowany, że zapomniałem zjeść. "
+
+    b "Niezależnie od tego, co robi teraz Tygrys, pewnie będzie szczęśliwy, gdy zaoferuję mu kolację, aby uzupełnić jego Chi. "
+
+    b "Dobrze więc, plan na kolację. Dwa posiłki, jeden dla niego i jeden dla Pantery. "
 
 
 
@@ -1468,7 +1478,7 @@ translate polish s08_04_tig_ask_b80653ef:
 
     # avt "\"Leopard, can you please go up to the roof and ask Tiger what he'd like for dinner?\" "
 
-    avt ""
+    avt "\"Pantero, czy mógłbyś pójść na dach i spytać Tygrysa co chciałby na kolację?\" "
 
 
 
@@ -1484,7 +1494,7 @@ translate polish s08_04_tig_ask_597c4258:
 
     voice voice_file.lpd(8,2)
 
-    lpd normal ""
+    lpd normal "\"Tak.\" "
 
 
 
@@ -1496,7 +1506,7 @@ translate polish s08_04_tig_ask_1f433ab4:
 
     # b "......... "
 
-    b ""
+    b "......... "
 
 
 
@@ -1508,7 +1518,7 @@ translate polish s08_04_tig_ask_324c1c20:
 
     # b "It took just a moment before both of them returned. "
 
-    b ""
+    b "Minęła zaledwie chwila, zanim oboje wrócili. "
 
 
 
@@ -1524,7 +1534,7 @@ translate polish s08_04_tig_ask_925551a4:
 
     voice voice_file.tig(8,26)
 
-    tig normal ""
+    tig normal "\"Nie potrzebuję dzisiaj kolacji Liao. Poza tym, muszę teraz odejść.\" "
 
 
 
@@ -1536,7 +1546,7 @@ translate polish s08_04_tig_ask_09732903:
 
     # avt "\"Huh? Where are you going?\" "
 
-    avt ""
+    avt "\"Co? Dokąd się wybierasz?\" "
 
 
 
@@ -1552,7 +1562,7 @@ translate polish s08_04_tig_ask_5bca0666:
 
     voice voice_file.tig(8,27)
 
-    tig normal ""
+    tig normal "\"Poprosiłem Jasnowidzącego, aby przyjechał i zabrał mnie do świątyni w Tajpej.\" "
 
 
 
@@ -1564,7 +1574,7 @@ translate polish s08_04_tig_ask_c570936e:
 
     # avt "\"A place far from your statue?\" "
 
-    avt ""
+    avt "\"Do miejsca daleko od twojego posążka?\" "
 
 
 
@@ -1582,7 +1592,9 @@ translate polish s08_04_tig_ask_69805aa8:
 
     voice voice_file.tig(8,28)
 
-    tig normal ""
+    tig normal "\"Tak, właśnie dlatego potrzebuję pomocy od Jasnowidzącego.\" "
+
+    tig normal "\"Na szczęście duchowe połączenia są bardzo silne tutaj w Tajpej. To dla nas ważniejsze niż fizyczne odległości.\" "
 
 
 
@@ -1594,7 +1606,7 @@ translate polish s08_04_tig_ask_f2a87ea2:
 
     # avt "\"I see...\" "
 
-    avt ""
+    avt "\"Rozumiem...\" "
 
 
 
@@ -1608,7 +1620,9 @@ translate polish s08_04_tig_ask_8d345483:
 
     # b "I guess this would be the first time he's left my side since coming here. "
 
-    b ""
+    b "A więc tak naprawdę może opuścić swój posążek. Chociaż nie brzmi to tak, jakby łatwo było odejść od niego na większą odległość. "
+
+    b "To będzie chyba pierwszy raz, kiedy mnie opuści, od jego przyjścia tutaj. "
 
 
 
@@ -1624,7 +1638,7 @@ translate polish s08_04_tig_ask_0bb71997:
 
     voice voice_file.tig(8,29)
 
-    tig normal ""
+    tig normal "\"Prawdopodobnie nie wrócę do domu na noc. Poza tym, warto spytać nocnego yaogui'a o naszego kociaka. Upewnij się, że będziesz bezpieczny.\" "
 
 
 
@@ -1636,7 +1650,7 @@ translate polish s08_04_tig_ask_e49e15e7:
 
     # avt "\"Safe?\" "
 
-    avt ""
+    avt "\"Bezpieczny?\" "
 
 
 
@@ -1654,7 +1668,9 @@ translate polish s08_04_tig_ask_e3396213:
 
     voice voice_file.tig(8,30)
 
-    tig frown ""
+    tig frown "\"Jeżeli co się stanie, to możesz położyć ręce na moim posążku i się modlić. Poczuję to.\" "
+
+    tig frown "\"Ponadto, nie pozwól temu aborygenowi nic zrobić, kiedy mnie nie będzie.\" "
 
 
 
@@ -1670,7 +1686,7 @@ translate polish s08_04_tig_ask_ad44f010:
 
     voice voice_file.lpd(8,3)
 
-    lpd normal ""
+    lpd normal "\"...Nie zrobię.\" "
 
 
 
@@ -1682,7 +1698,7 @@ translate polish s08_04_tig_ask_49284999:
 
     # avt "\"Don't worry. I'll be fine.\" "
 
-    avt ""
+    avt "\"Nie martw się. Nic mi nie będzie.\" "
 
 
 
@@ -1698,7 +1714,7 @@ translate polish s08_04_tig_ask_c49c21bd:
 
     voice voice_file.tig(8,31)
 
-    tig normal ""
+    tig normal "\"Ale Liao. Robię to tylko po to, abyś mógł zapomnieć o tym kociaku i skupić się na nauce. \nUcz się, kiedy mnie nie będzie w domu, dobrze?\" "
 
 
 
@@ -1710,7 +1726,7 @@ translate polish s08_04_tig_ask_442df73e:
 
     # avt "\"Okay— Okay— I got it!\" " with hshake
 
-    avt "" with hshake
+    avt "\"No dobrze, dobrze- zrozumiałem!\" " with hshake
 
 
 
@@ -1726,7 +1742,7 @@ translate polish s08_04_tig_ask_0d009c9e:
 
     voice voice_file.tig(8,32)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"A więc pójdę już.\" "
 
 
 
@@ -1738,7 +1754,7 @@ translate polish s08_04_tig_ask_3374e805:
 
     # b "He pets my head softly before heading back up though the ceiling. "
 
-    b ""
+    b "Delikatnie głaszcze moją głowę przed powrotem w górę przez sufit. "
 
 
 
@@ -1750,7 +1766,7 @@ translate polish s08_04_tig_ask_a28d674e:
 
     # b "Seeing him leave like that... I don't know why, but my heart hurts. "
 
-    b ""
+    b "Widząc go tak odchodzącego... Nie wiem dlaczego, ale boli mnie serce. "
 
 
 
@@ -1762,7 +1778,7 @@ translate polish s08_04_tig_ask_4ac226c2:
 
     # avt "\"...Do you want any dinner?\" "
 
-    avt ""
+    avt "\"...Chciałbyś jakąś kolację?\" "
 
 
 
@@ -1778,7 +1794,7 @@ translate polish s08_04_tig_ask_597c4258_1:
 
     voice voice_file.lpd(8,2)
 
-    lpd normal ""
+    lpd normal "\"Dobrze.\" "
 
 
 
@@ -1790,7 +1806,7 @@ translate polish s08_04_tig_ask_95ba8ec0:
 
     # b "As such, we left my room to go get some. A dinner for just me and Leopard. "
 
-    b ""
+    b "Tak więc, opuściliśmy mój pokój, aby zjeść ją. Kolacja tylko dla mnie i dla Pantery. "
 
 
 
