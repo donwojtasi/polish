@@ -2014,7 +2014,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_6eb1beee:
 
     voice voice_file.lpd(8,5)
 
-    lpd normal "\"Liao, martwi Shu-Chi?\" "
+    lpd normal "\"Liao, martwi o Shu-Chi?\" "
 
 
 
@@ -2514,7 +2514,7 @@ translate polish s08_04_tig_ask_day1sleep_lpd_df7a3097:
 
     voice voice_file.lpd(8,16)
 
-    lpd normal ""
+    lpd normal "\"...Hmm.\" "
 
 
 
@@ -2528,7 +2528,9 @@ translate polish s08_04_tig_ask_day1sleep_lpd_cbabe980:
 
     # b "Soon enough his sweet song sends me to sleep next to him. "
 
-    b ""
+    b "Zamykam oczy, kołysany do snu przez lekki oddech Pantery. "
+
+    b "Niedługo potem, zasypiam obok niego, słuchając jego słodkiej piosenki. "
 
 
 
@@ -2540,7 +2542,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_753ffcb0:
 
     # b "I have a shower, get out, and turn off the light in my apartment, ready to go to sleep. "
 
-    b ""
+    b "Biorę prysznic, wychodzę i gaszę światło w pokoju. \nGotowy do spania. "
 
 
 
@@ -2556,7 +2558,11 @@ translate polish s08_04_tig_ask_day1sleep_tig_6108bc7a:
 
     # b "It's nice to spread out a bit, but I feel kind of lonely... "
 
-    b ""
+    b "Podchodzę do łóżka i chowam się pod kołdrą. "
+
+    b "Nie ma Tygrysa... Łóżko jest takie puste bez niego zajmującego jego większość. "
+
+    b "Przyjemnie jest się rozłożyć, ale czuję się trochę samotny... "
 
 
 
@@ -2568,7 +2574,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_98c996d4:
 
     # b "With nothing to draw my attention, I glance about my room. Like usual, I find Leopard curled up on my desk. "
 
-    b ""
+    b "Nie mając niczego, co mogłoby zwrócić moją uwagę, rozglądam się po pokoju. Jak zwykle, widzę Panterę zwiniętego na moim biurku. "
 
 
 
@@ -2580,7 +2586,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_f0347136:
 
     # b "Even if he doesn't want to come sleep on the bed with me, he could just as easily use Senpai's futon tonight. There's no need for him to sleep on the desk. "
 
-    b ""
+    b "Nawet jeżeli nie chce spać ze mną na łóżku, to może po prostu użyć dzisiaj futona Senpai'a. Nie ma potrzeby spać na biurku. "
 
 
 
@@ -2592,7 +2598,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_3e3070f9:
 
     # b "I might as well ask... "
 
-    b ""
+    b "Równie dobrze mógłbym zapytać... "
 
 
 
@@ -2604,7 +2610,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_a39e8906:
 
     # avt "\"Umm, Mister Leopard...\" "
 
-    avt ""
+    avt "\"Umm, Panie Pantero...\" "
 
 
 
@@ -2616,7 +2622,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_b01f746d:
 
     # lpd normal "\"?\" "
 
-    lpd normal ""
+    lpd normal "\"?\" "
 
 
 
@@ -2628,7 +2634,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_b579f7cc:
 
     # avt "\"Since we're the only ones here... Would you like to sleep on the bed?\" "
 
-    avt ""
+    avt "\"Ponieważ jesteśmy tutaj sami... Chciałbyś może spać na łóżku?\" "
 
 
 
@@ -2644,7 +2650,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4b08b13c:
 
     voice voice_file.lpd(8,17)
 
-    lpd normal ""
+    lpd normal "\"...Przyzwyczaiłem się.\" "
 
 
 
@@ -2656,7 +2662,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_12448c02:
 
     # avt "\"I know, but you could try the bed. It could be nice for one night.\" "
 
-    avt ""
+    avt "\"Wiem, ale mógłbyś spróbować na łóżku. Byłoby miło na jedną noc.\" "
 
 
 
@@ -2672,7 +2678,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7277a8b2:
 
     voice voice_file.lpd(8,18)
 
-    lpd normal ""
+    lpd normal "\"...Liao chce, żebym przyszedł na łóżko?\" "
 
 
 
@@ -2684,7 +2690,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_297e7842:
 
     # avt "\"...S-{w=0.2}Sure.\" "
 
-    avt ""
+    avt "\"...N-{w=0.2}No pewnie.\" "
 
 
 
@@ -2696,7 +2702,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_166b18c5:
 
     # b "He shimmies off the desk and walks over as I pull up the covers and invite him in. "
 
-    b ""
+    b "Schodzi z biurka, a następnie podchodzi do łóżka, w czasie gdy ja odkrywam kołdrę i zapraszam go. "
 
 
 
@@ -2708,7 +2714,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_6d7b04dc:
 
     # b "...It felt kinda awkward, but it's not like I can just sit here and not give him somewhere soft to sleep! "
 
-    b ""
+    b "...Czułem się trochę niezręczne, ale to nie tak, że mogłem po prostu tu siedzieć i nie dać mu miękkiego miejsca do spania! "
 
 
 
@@ -2720,7 +2726,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_2a96fa6f:
 
     # b "I shuffle back towards the wall to give him room to get in the bed. He seems emotionless about it all. "
 
-    b ""
+    b "Przysuwam się z powrotem do ściany, żeby zrobić mu miejsce na łóżku. \nWydaje się taki pozbawiony emocji. "
 
 
 
@@ -2732,7 +2738,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_58b48fb9:
 
     # b "Without saying a word, he gets under the sheets next to me, shuts his eyes and seems to fall asleep in an instant. "
 
-    b ""
+    b "Bez słowa, wchodzi pod kołdrę obok mnie, zamyka oczy i wydawałoby się, jakby zasnął w ułamku sekundy. "
 
 
 
@@ -2744,7 +2750,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_45e105bd:
 
     # b "To make sure that he can get enough room, we're laying face to face, mere centimetres away... "
 
-    b ""
+    b "Aby upewnić się, że ma wystarczająco miejsca, kładziemy się twarzą w twarz, centymetry od siebie... "
 
 
 
@@ -2756,7 +2762,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_a04e8620:
 
     # b "I didn't have any other intentions when I invited him to sleep with me! Why am I suddenly feeling so nervous about this? "
 
-    b ""
+    b "Nie miałem żadnych innych zamiarów, kiedy zapraszałem go do spania na łóżku ze mną! Dlaczego nagle jestem taki nerwowy z tego powodu? "
 
 
 
@@ -2768,7 +2774,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_fd5d4f69:
 
     # b "Senpai's gone into the wind and Tiger's off searching for him. It'd be natural for me to be worried... "
 
-    b ""
+    b "Senpai się gdzieś rozmył, a Tygrys poszedł go szukać. To byłoby normalne, że się martwię... "
 
 
 
@@ -2780,7 +2786,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -2792,7 +2798,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2808,7 +2814,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_6eb1beee:
 
     voice voice_file.lpd(8,5)
 
-    lpd normal ""
+    lpd normal "\"Liao, martwi o Shu-Chi?\" "
 
 
 
@@ -2820,7 +2826,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7c5552bc:
 
     # avt "\"Hm? Yeah...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Hm? Tak...\" " with vshake
 
 
 
@@ -2832,7 +2838,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_c3c058f7:
 
     # b "So that's what he thinks my problem is..."
 
-    b ""
+    b "A więc myśli, że taki mam problem... "
 
 
 
@@ -2846,7 +2852,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7205168d:
 
     # avt "\"I always thought he was just annoying... but I guess I got used to it? I mean, without him here, things just feel awkward.\" "
 
-    avt ""
+    avt "\"Po prostu bez Senpai'a jest jakoś {i}inaczej.{/i} \ \" "
+
+    avt "\"Zawsze myślałem, że był denerwujący... ale chyba się do tego przyzwyczaiłem? \nZnaczy, bez niego, wszystko jest takie niezręczne.\" "
 
 
 
@@ -2862,7 +2870,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_ee0777a3:
 
     voice voice_file.lpd(8,6)
 
-    lpd normal ""
+    lpd normal "\"Niezręczne?\" "
 
 
 
@@ -2874,7 +2882,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_250bb59e:
 
     # avt "\"No, nothing. It's just...\" " with hshake
 
-    avt "" with hshake
+    avt "\"Nie, nic. Po prostu...\" " with hshake
 
 
 
@@ -2890,7 +2898,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7aaf0cc8:
 
     voice voice_file.lpd(8,7)
 
-    lpd normal ""
+    lpd normal "\"Liao, dba o Shu-Chi?\" "
 
 
 
@@ -2902,7 +2910,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_23a9d6ab:
 
     # avt "\"Yeah, at least, I hope nothing bad happens to him.\" "
 
-    avt ""
+    avt "\"Tak. \nMam przynajmniej nadzieję, że nic złego mu się nie stanie.\" "
 
 
 
@@ -2918,7 +2926,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_42abd52c:
 
     voice voice_file.lpd(8,8)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nie dobrze bez Shu-Chi?\" "
 
 
 
@@ -2930,7 +2938,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_02a6136e:
 
     # avt "\"That's not it! I-{w=0.2}I just got used to him being around...\" "
 
-    avt ""
+    avt "\"To nie tak! J-{w=0.2}Ja po prostu przyzwyczaiłem się do tego, że jest w pobliżu.\" "
 
 
 
@@ -2946,7 +2954,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_999cfa27:
 
     voice voice_file.lpd(8,9)
 
-    lpd normal ""
+    lpd normal "\"...Liao, chcesz mu iść pomóc?\" "
 
 
 
@@ -2960,7 +2968,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_e81e2b7c:
 
     # avt "\"Tiger said that he couldn't be harmed, but why would he disappear? If I could do anything to help I'd like to.\" "
 
-    avt ""
+    avt "\"Chcę tylko wiedzieć co się stało.\" "
+
+    avt "\"Tygrys powiedział, że nie można go zranić, ale dlaczego po prostu zniknął? Jeżeli mógłbym zrobić cokolwiek, co mogłoby pomóc, to chętnie.\" "
 
 
 
@@ -2972,7 +2982,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_5e3ef62e:
 
     # avt "\"But that doesn't mean I've chosen to help him rebuild his temple in Miaoli! That would take too long.\" "
 
-    avt ""
+    avt "\"Ale to nie znaczy, że zdecydowałem się mu pomóc w przebudowie świątyni w Miaoli! \nTo by zajęło zbyt długo.\" "
 
 
 
@@ -2988,7 +2998,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1bb01892:
 
     voice voice_file.lpd(8,10)
 
-    lpd normal ""
+    lpd normal "\"Co jeśli Shu-Chi musi przebudować świątynię, aby wrócić?\" "
 
 
 
@@ -3000,7 +3010,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7e0a1175:
 
     # avt "\"Oh... I never thought about that...\" "
 
-    avt ""
+    avt "\"O... Nigdy o tym nie pomyślałem...\" "
 
 
 
@@ -3012,7 +3022,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1bfcd70c:
 
     # b "Senpai did say that he'd be out of spirit power soon. Could that have anything to do with his disappearance? "
 
-    b ""
+    b "Senpai mówił, że wkrótce skończy mu się duchowa moc. Czy miałoby to jakiś związek z jego zniknięciem? "
 
 
 
@@ -3026,7 +3036,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_7a8ad0c7:
 
     # b "But rebuilding a temple takes time. I doubt he'd just disappear so suddenly because of that..."
 
-    b ""
+    b "Czy on mógłby zniknąć, jeśli nie pojadę wkrótce do Miaoli? "
+
+    b "Ale przecież przebudowa świątyni zajmuje czas. Wątpię, żeby tak nagle po prostu zniknął przez to... "
 
 
 
@@ -3038,7 +3050,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_536cef0a:
 
     # b "What would happen if he did lose all his powers? Would he turn back into a yaoguai... "
 
-    b ""
+    b "Co by się stało, gdyby stracił wszystkie swoje moce? Czy zmieniłby się z powrotem w yaoguai'a? "
 
 
 
@@ -3050,7 +3062,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_ccdb205b:
 
     # b "I never got a chance to ask him about that strange spirit on the mountain. Could that have anything to do with this? "
 
-    b ""
+    b "Nigdy nie miałem okazji spytać go o tego dziwnego ducha na górze. Czy to miałoby jakiś związek z tym? "
 
 
 
@@ -3062,7 +3074,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_038b1e33:
 
     # b "Where could he have run off to? If he's really not in any trouble, then I'd be so mad at him when he gets back... "
 
-    b ""
+    b "Gdzie mógł uciec? Jeżeli naprawdę nic mu nie jest, to będę na niego bardzo zły, kiedy wróci... "
 
 
 
@@ -3078,7 +3090,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4de70f4b:
 
     voice voice_file.lpd(8,11)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao jest zdenerwowany.\" "
 
 
 
@@ -3090,7 +3102,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_bcd48a2d:
 
     # avt "\"Hmm...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Hmm...\" " with vshake
 
 
 
@@ -3106,7 +3118,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_e2bc2f01:
 
     voice voice_file.lpd(8,12)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nie lubię, gdy Liao jest zdenerwowany.\" "
 
 
 
@@ -3118,7 +3130,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_db0cc140:
 
     # avt "\"Oh... Thank you...\" "
 
-    avt ""
+    avt "\"O... Dziękuję...\" "
 
 
 
@@ -3134,7 +3146,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_bb69b571:
 
     voice voice_file.lpd(8,13)
 
-    lpd normal ""
+    lpd normal "\"Liao przyjdzie do Wutai. Zdenerwowany, ja pomogę.\" "
 
 
 
@@ -3146,7 +3158,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_e2f17046:
 
     # avt "\"Yup. I know what you've said, but...\" "
 
-    avt ""
+    avt "\"No. Wiem co powiedziałeś. ale...\" "
 
 
 
@@ -3162,7 +3174,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_4ac618e9:
 
     voice voice_file.lpd(8,20)
 
-    lpd happy ""
+    lpd happy "\"Liao przyjdź. Ja uszczęśliwię Liao.\" "
 
 
 
@@ -3174,7 +3186,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1d6d7abd:
 
     # avt "\"Haha— Are we making a trade? My help in exchange for yours.\" "
 
-    avt ""
+    avt "\"Haha— Czy my robimy wymianę? Moja pomoc w zamian za twoją.\" "
 
 
 
@@ -3190,7 +3202,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_fad1f025:
 
     voice voice_file.lpd(8,14)
 
-    lpd happy ""
+    lpd happy "\"Liao, pójdziesz ze mną? Uczynię Liao szczęśliwym na zawsze.\" "
 
 
 
@@ -3204,7 +3216,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_ff72e23e:
 
     # b "He really is gifted at saying misleading things isn't he? "
 
-    b ""
+    b "Że c- To prawie tak, jakby chciał mnie poślubić! "
+
+    b "Naprawdę dobrze idzie mu mówienie o rzeczach wprowadzających w błąd, co nie? "
 
 
 
@@ -3216,7 +3230,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_23579d27:
 
     # avt "\"H-{w=0.2}Hey you can't just say it like that. \" "
 
-    avt ""
+    avt "\"H-{w=0.2}Hej, nie możesz tego tak po prostu powiedzieć.\" "
 
 
 
@@ -3228,7 +3242,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_b01f746d_1:
 
     # lpd normal "\"?\" "
 
-    lpd normal ""
+    lpd normal "\"?\" "
 
 
 
@@ -3242,7 +3256,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_faa50448:
 
     # avt "\"I'm not really ready to think about that right now... Will you be okay if I wait until Senpai comes back?\" "
 
-    avt ""
+    avt "\"Wiem co masz na myśli, ale jestem teraz zbyt zestresowany.\" "
+
+    avt "\"Nie jestem gotowy, żeby teraz o tym myśleć... Czy będzie dobrze, jeżeli poczekam dopóki Senpai nie wróci?\" "
 
 
 
@@ -3254,7 +3270,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_1c1d4e55_1:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -3270,7 +3286,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_597c4258:
 
     voice voice_file.lpd(8,15)
 
-    lpd normal ""
+    lpd normal "\"Dobrze.\" "
 
 
 
@@ -3282,7 +3298,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_3a32daa0:
 
     # avt "\"Mm-hmm— Well then, I guess we should go to sleep.\" "
 
-    avt ""
+    avt "\"Mm-hmm! W takim razie powinniśmy już iść spać.\" "
 
 
 
@@ -3298,7 +3314,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_df7a3097:
 
     voice voice_file.lpd(8,16)
 
-    lpd normal ""
+    lpd normal "\"...Hmm.\" "
 
 
 
@@ -3312,7 +3328,9 @@ translate polish s08_04_tig_ask_day1sleep_tig_01_cbabe980:
 
     # b "Soon enough, it sends me to sleep next to him. "
 
-    b ""
+    b "Zamykam oczy, słuchając jego lekkiego oddechu. "
+
+    b "Niedługo potem, zasypiam obok niego. "
 
 
 
