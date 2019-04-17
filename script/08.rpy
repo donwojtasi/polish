@@ -3342,7 +3342,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_a39e8906:
 
     # avt "\"Well, Leopard...?\" "
 
-    avt ""
+    avt "\"No więc... Pantero?\" "
 
 
 
@@ -3354,7 +3354,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_b01f746d:
 
     # lpd normal "\"?\" "
 
-    lpd normal ""
+    lpd normal "\"?\" "
 
 
 
@@ -3366,7 +3366,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_37d1bb87:
 
     # avt "\"Since we're the only ones here... You're free to take Senpai's futon to sleep on. It's better than the desk.\" "
 
-    avt ""
+    avt "\"Ponieważ jesteśmy tutaj sami... Możesz swobodnie spać na futonie Senpai'a. To lepsze niż biurko.\" "
 
 
 
@@ -3378,7 +3378,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -3390,7 +3390,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_dfd42c50:
 
     # avt "\"What's wrong?\" "
 
-    avt ""
+    avt "\"Co jest nie tak?\" "
 
 
 
@@ -3406,7 +3406,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_79607f28:
 
     voice voice_file.lpd(8,21)
 
-    lpd normal ""
+    lpd normal "\"Liao martwi się o mnie?\" "
 
 
 
@@ -3418,7 +3418,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_7a2f3a6f:
 
     # avt "\"Of course, you're my guest. I can't just sit here and let you sleep on a desk...\" "
 
-    avt ""
+    avt "\"Oczywiście, jesteś moim gościem. Nie mogę tak po prostu tu siedzieć i dać ci spać na biurku...\" "
 
 
 
@@ -3434,7 +3434,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_f7036679:
 
     voice voice_file.lpd(8,22)
 
-    lpd normal ""
+    lpd normal "\"Dziękuję. Ale nie.\" "
 
 
 
@@ -3446,7 +3446,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_3fc7cfe6:
 
     # avt "\"Hmm? Why not?\" "
 
-    avt ""
+    avt "\"Hmm? Dlaczego nie?\" "
 
 
 
@@ -3462,7 +3462,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_7ddace91:
 
     voice voice_file.lpd(8,23)
 
-    lpd normal ""
+    lpd normal "\"Zapach Shu-Chi'ego, na futonie.\" "
 
 
 
@@ -3474,7 +3474,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_591bc17f:
 
     # avt "\"Oh. So...\" "
 
-    avt ""
+    avt "\"Ach. Więc...\" "
 
 
 
@@ -3490,7 +3490,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_db0455bf:
 
     voice voice_file.lpd(8,24)
 
-    lpd normal ""
+    lpd normal "\"Lubię biurko. Dziękuję.\" "
 
 
 
@@ -3502,7 +3502,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_20197fac:
 
     # avt "\"Okay...\" "
 
-    avt ""
+    avt "\"No dobrze...\" "
 
 
 
@@ -3518,7 +3518,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_76c14855:
 
     voice voice_file.lpd(8,25)
 
-    lpd normal ""
+    lpd normal "\"Dobranoc.\" "
 
 
 
@@ -3530,7 +3530,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_02d50a3e:
 
     # avt "\"Good night.\" "
 
-    avt ""
+    avt "\"Dobranoc.\" "
 
 
 
@@ -3542,7 +3542,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_6f16d45b:
 
     # b "He stoutly refuses my offer, curls up and closes his eyes. "
 
-    b ""
+    b "Stanowczo odrzuca moją propozycję, zwija się i zamyka oczy. "
 
 
 
@@ -3554,7 +3554,7 @@ translate polish s08_04_tig_ask_day1sleep_tig_02_3444b913:
 
     # b "It's not worth pressuring him anymore. Closing my eyes I'm left with my worries for a while before finally falling asleep. "
 
-    b ""
+    b "Nie warto już na niego naciskać. Zamykam oczy. Jestem zmartwiony jeszcze przez chwilę, aż w końcu zasypiam. "
 
 
 
@@ -3566,7 +3566,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_753ffcb0:
 
     # b "I have a shower, get out, and turn off the light in my apartment, ready to go to sleep. "
 
-    b ""
+    b "Biorę prysznic, wychodzę i gaszę światło w pokoju. \nGotowy do spania. "
 
 
 
@@ -3582,7 +3582,11 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_5a320dfc:
 
     # b "With nothing to draw my attention, I glance about my room. Like usual, I find Leopard curled up on my desk. "
 
-    b ""
+    b "Podchodzę do łóżka i chowam się pod kołdrą. "
+
+    b "Dziwnie się czuję, nie mając Senpai'a koło siebie... "
+
+    b "Nie mając niczego, co mogłoby zwrócić moją uwagę, rozglądam się po pokoju. Jak zwykle, widzę Panterę zwiniętego na moim biurku. "
 
 
 
@@ -3594,7 +3598,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_891d68eb:
 
     # b "I might as well ask... "
 
-    b ""
+    b "Równie dobrze mógłbym zapytać... "
 
 
 
@@ -3606,7 +3610,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_a39e8906:
 
     # avt "\"Umm, Mister Leopard...\" "
 
-    avt ""
+    avt "\"Umm, Panie Pantero...\" "
 
 
 
@@ -3618,7 +3622,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_b01f746d:
 
     # lpd normal "\"?\" "
 
-    lpd normal ""
+    lpd normal "\"?\" "
 
 
 
@@ -3630,7 +3634,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_fe13bfc0:
 
     # avt "\"Since we're the only ones here... You're free to take Senpai's futon to sleep on. It's better than the desk.\" "
 
-    avt ""
+    avt "\"Ponieważ jesteśmy tutaj sami... Możesz swobodnie spać na futonie Senpai'a. To lepsze niż biurko.\" "
 
 
 
@@ -3642,7 +3646,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -3654,7 +3658,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_dfd42c50:
 
     # avt "\"How about it?\" "
 
-    avt ""
+    avt "\"I jak?\" "
 
 
 
@@ -3670,7 +3674,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_468b521d:
 
     voice voice_file.lpd(8,26)
 
-    lpd normal ""
+    lpd normal "\"Nie potrzeba.\" "
 
 
 
@@ -3682,7 +3686,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_7060f8b6:
 
     # avt "\"No need? But...\" "
 
-    avt ""
+    avt "\"Nie potrzeba? Ale...\" "
 
 
 
@@ -3698,7 +3702,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_e3a08116:
 
     voice voice_file.lpd(8,27)
 
-    lpd normal ""
+    lpd normal "\"Przyzwyczaiłem się do tego.\" "
 
 
 
@@ -3710,7 +3714,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_c2903e1e:
 
     # avt "\"Used to it? Sleeping on the table?\" "
 
-    avt ""
+    avt "\"Przyzwyczaiłeś się do tego? Do spania na biurku?\" "
 
 
 
@@ -3726,7 +3730,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_e3a08116_1:
 
     voice voice_file.lpd(8,27)
 
-    lpd normal ""
+    lpd normal "\"Przyzwyczaiłem się do tego.\" "
 
 
 
@@ -3738,7 +3742,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_5f21a4ed:
 
     # avt "\"But it looks really cramped...\" "
 
-    avt ""
+    avt "\"Ale wygląda naprawdę ciasno...\" "
 
 
 
@@ -3754,7 +3758,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_66a7253d:
 
     voice voice_file.lpd(8,28)
 
-    lpd normal ""
+    lpd normal "\"Nie przeszkadza mi to.\" "
 
 
 
@@ -3766,7 +3770,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_f2a87ea2:
 
     # avt "\"I see...\" "
 
-    avt ""
+    avt "\"Rozumiem...\" "
 
 
 
@@ -3782,7 +3786,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_211de9e7:
 
     voice voice_file.lpd(8,29)
 
-    lpd normal ""
+    lpd normal "\"Dziękuję. Śpię biurko.\" "
 
 
 
@@ -3794,7 +3798,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_faa84a63:
 
     # avt "\"Oh... Okay.\" "
 
-    avt ""
+    avt "\"No... no dobrze.\" "
 
 
 
@@ -3810,7 +3814,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_76c14855:
 
     voice voice_file.lpd(8,25)
 
-    lpd normal ""
+    lpd normal "\"Dobranoc.\" "
 
 
 
@@ -3822,7 +3826,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_02d50a3e:
 
     # avt "\"Good night.\" "
 
-    avt ""
+    avt "\"Dobranoc.\" "
 
 
 
@@ -3834,7 +3838,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_6f16d45b:
 
     # b "He stoutly refuses my offer, curls up and closes his eyes. "
 
-    b ""
+    b "Stanowczo odrzuca moją propozycję, zwija się i zamyka oczy. "
 
 
 
@@ -3846,7 +3850,7 @@ translate polish s08_04_tig_ask_day1sleep_lpdcat_02_3444b913:
 
     # b "It's not worth pressuring him anymore. Closing my eyes I'm left with my worries for a while before finally falling asleep. "
 
-    b ""
+    b "Nie warto już na niego naciskać. Zamykam oczy. Jestem zmartwiony jeszcze przez chwilę, aż w końcu zasypiam. "
 
 
 
@@ -3858,7 +3862,7 @@ translate polish s08_04_tig_ask_02_309faedb:
 
     # b "The next morning I go out to get breakfast. I come home to find Tiger waiting for me. "
 
-    b ""
+    b "Następnego ranka wychodzę zjeść śniadanie. \nWracam do domu i zastaję Tygrysa czekającego na mnie. "
 
 
 
@@ -3874,7 +3878,7 @@ translate polish s08_04_tig_ask_02_537fbacd:
 
     voice voice_file.tig(8,33)
 
-    tig normal ""
+    tig normal "\"Liao.\" "
 
 
 
@@ -3886,7 +3890,7 @@ translate polish s08_04_tig_ask_02_d38c574a:
 
     # avt "\"Tiger! You're back!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Tygrysie! Wróciłeś!\" " with vshake
 
 
 
@@ -3902,7 +3906,7 @@ translate polish s08_04_tig_ask_02_be25b623:
 
     voice voice_file.tig(8,34)
 
-    tig disappointed ""
+    tig disappointed "\"Bardzo tak. To było wyczerpujące zadanie, ale wróciłem.\"  "
 
 
 
@@ -3918,7 +3922,7 @@ translate polish s08_04_tig_ask_02_ff97f996:
 
     voice voice_file.tig(8,35)
 
-    tig normal ""
+    tig normal "\"A więc tak. Najprawdopodobniej nasz kociak aktualnie odwiedza dom rodzinny człowieka, którego posiada.\" "
 
 
 
@@ -3930,7 +3934,7 @@ translate polish s08_04_tig_ask_02_ef97aefb:
 
     # avt "\"His home town?\" " with flash
 
-    avt "" with flash
+    avt "\"Jego dom rodzinny?\" " with flash
 
 
 
@@ -3948,7 +3952,9 @@ translate polish s08_04_tig_ask_02_529e528a:
 
     voice voice_file.tig(8,36)
 
-    tig normal ""
+    tig normal "\"Tak. Nawet Jasnowidzący nie był w stanie znaleźć jego śladów.\" "
+
+    tig normal "\"Wygląda na to, że dom, w którym mieszka, ma silną... barierę. Nie udało mi się znaleźć sposobu, aby zajrzeć do środka lub usłyszeć cokolwiek.\" "
 
 
 
@@ -3960,7 +3966,7 @@ translate polish s08_04_tig_ask_02_d0cd0da4:
 
     # avt "\"What? ...What do you mean there's a barrier?\" "
 
-    avt ""
+    avt "\"Co? ...Co masz na myśli mówiąc, że ma barierę?\" "
 
 
 
@@ -3976,7 +3982,7 @@ translate polish s08_04_tig_ask_02_38602504:
 
     voice voice_file.tig(8,37)
 
-    tig normal ""
+    tig normal "\"Nie mogę ci powiedzieć. Pytałem każdego, kogo widziałem, ale niczego nie znalazłem. Ostatecznie znalazłem świadka, ale jedyne co mi powiedział to to, że wszedł on do posiadłości w Keelung.\" "
 
 
 
@@ -3992,7 +3998,7 @@ translate polish s08_04_tig_ask_02_a82fea16:
 
     voice voice_file.tig(8,38)
 
-    tig normal ""
+    tig normal "\"Liao, czy możesz pomyśleć o czymś dziwnym, o sytuacji w jego domu?\" "
 
 
 
