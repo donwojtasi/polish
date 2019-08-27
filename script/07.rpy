@@ -4014,7 +4014,7 @@ translate polish s07_03_ec2eb7c3:
 
     voice voice_file.tig(7,25)
 
-    tig lift ""
+    tig lift "\"Cóż, nie miałbyś tak źle gdybyś wrócił do bycia yaoguai.\" "
 
 
 
