@@ -870,7 +870,7 @@ translate polish s07_5d74d62f:
 
     # avt "\"Hey, okay— okay—\" "
 
-    avt "\"Hek, dobra- dobra-\" "
+    avt "\"Hej, dobra- dobra-\" "
 
 
 

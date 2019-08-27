@@ -418,7 +418,7 @@ translate polish s11_5f783a57:
 
     voice voice_file.lpdcat(11,14)
 
-    lpdcat normal "\"Ty musiałbyś opuścić uczelnię... a ja z powrotem stanę się yaoguai'em włóczącym się po ulicach, by któregoś dnia zniknąć, jak gdyby nigdy mnie tu nie było.\" "
+    lpdcat normal "\"Ty musiałbyś opuścić uczelnię... a ja z powrotem stanę się yaoguai włóczącym się po ulicach, by któregoś dnia zniknąć, jak gdyby nigdy mnie tu nie było.\" "
 
 
 
@@ -436,7 +436,7 @@ translate polish s11_2eebba08:
 
     voice voice_file.tig(11,1)
 
-    tig frown "\"To nieuczciwe straszyć Liao w ten sposób. Nie znikniesz tylko dlatego, że przestanie na ciebie oddziaływać wpływ Fudegong'a. Po prostu staniesz się yaoguai'em. Nic ci nie stanie na przeszkodzie, by znaleźć kolejnego Fudegong'a.\" "
+    tig frown "\"To nieuczciwe straszyć Liao w ten sposób. Nie znikniesz tylko dlatego, że przestanie na ciebie oddziaływać wpływ Fudegong'a. Po prostu staniesz się yaoguai. Nic ci nie stanie na przeszkodzie, by znaleźć kolejnego Fudegong'a.\" "
     
     tig frown "\"Tak długo jak będziesz się dobrze sprawować, nikt nie zrobi tobie krzywdy..\" "
 
@@ -470,7 +470,7 @@ translate polish s11_296447e1:
 
     voice voice_file.lpdcat(11,16)
 
-    lpdcat serious ""
+    lpdcat serious "\"Z mocami czy bez, jest bogiem ziemi. Gdy któregoś dnia ktoś przyniesie ofiarę, będzie ożywiony... ale nie w porządku będzie zostawić go tak po prostu, by o nim zapomnieli. \" "
 
 
 
@@ -486,7 +486,7 @@ translate polish s11_cad963b5:
 
     voice voice_file.tig(11,2)
 
-    tig lift ""
+    tig lift "\"Na tym świecie jest wiele osób w potrzebie, jeśli tak ci zależy czemu nie pomóc im wszystkim?\" "
 
 
 
@@ -502,7 +502,7 @@ translate polish s11_d89f59cd:
 
     voice voice_file.lpdcat(11,17)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"{i}Chcę{/i} \ komuś pomóc, dlatego przyszedłem do Liao... Wiem, że to dla niego trudne. Będzie musiał opuścić szkołę na ponad rok. Do tego trudno mu się dogadać z jego rodziną, wiem z pierwszej ręki jak {i}trudne{/i} \ to jest.\" "
 
 
 
@@ -518,7 +518,7 @@ translate polish s11_7d6fb1aa:
 
     voice voice_file.lpdcat(11,18)
 
-    lpdcat serious ""
+    lpdcat serious "\"Wiem, że opuszczenie szkoły nie jest tak naprawdę problemem, to przekonanie rodziny Liao do zaakceptowania tego, co robi, prawda?\" "
 
 
 
@@ -534,7 +534,7 @@ translate polish s11_9cc10137:
 
     voice voice_file.lpdcat(11,19)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Jasne, {i}mam{/i} \ wspomnienia o relacjach Yan Shu-Chi'ego i jego rodziny... ale pójście do jego domu i doświadczenie tego osobiście, czuję się okropnie prosząc Liao, żeby też przez to przechodził.\" "
 
 
 
