@@ -4030,7 +4030,7 @@ translate polish s07_03_deb4e435:
 
     voice voice_file.lpdcat(7,62)
 
-    lpdcat angry ""
+    lpdcat angry "\"A co jeśli mój Fudegong straci całą swoją duchową moc?\" "
 
 
 
@@ -4048,7 +4048,9 @@ translate polish s07_03_e22eade7:
 
     voice voice_file.tig(7,26)
 
-    tig normal ""
+    tig normal "\"Nic więcej się wtedy nie wydarzy. Bóg Ziemi zostanie jedynie pozbawiony mocy, co wcale nie oznaczałoby jego śmierci.\" "
+
+    tig normal "\"Jeżeli miejscowa ludność nie czuje dłużej potrzeby by mu służyć, to taka jest kolej rzeczy.\" "
 
 
 
@@ -4064,7 +4066,7 @@ translate polish s07_03_0e4150b7:
 
     voice voice_file.lpdcat(7,63)
 
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "*szlocha* "
 
 
 
@@ -4076,7 +4078,7 @@ translate polish s07_03_47b1bc96:
 
     # avt "\"Please, just stop you two. It's hard enough to decide as it is without you making each other cry. This {i}really{/i} \ is difficult for me...\" "
 
-    avt ""
+    avt "\"Proszę, przestańcie już. I bez waszego doprowadzania siebie nawzajem do łez ciężko jest podjąć decyzję. To dla mnie {i}bardzo{/i} \ trudne...\" "
 
 
 
@@ -4092,7 +4094,7 @@ translate polish s07_03_2c3f4c8c:
 
     voice voice_file.lagu(7,47)
 
-    lagu serious ""
+    lagu serious "\"Wiem że jesteś pod presją, ale odkładanie tego na później w niczym nie pomoże. Nie ruszysz w ten sposób z miejsca.\" "
 
 
 
@@ -4104,7 +4106,7 @@ translate polish s07_03_744a7185:
 
     # avt "\"Maybe... Unless something else comes up.\" "
 
-    avt ""
+    avt "\"Możliwe... Chyba, że sprawy przyjmą lepszy obrót.\" "
 
 
 
@@ -4120,7 +4122,7 @@ translate polish s07_03_0b2d446e:
 
     voice voice_file.lpd(7,9)
 
-    lpd worry ""
+    lpd worry "\"Liao musi szybko przyjść Wutai. Coś złego.\" "
 
 
 
@@ -4132,7 +4134,7 @@ translate polish s07_03_2c39d80f:
 
     # avt "\"What is it?\" "
 
-    avt ""
+    avt "\"Co takiego?\" "
 
 
 
@@ -4148,7 +4150,7 @@ translate polish s07_03_e169a0a6:
 
     voice voice_file.lpd(7,10)
 
-    lpd worry ""
+    lpd worry "\"Niebezpieczeństwo. Musimy ich ostrzec.\" "
 
 
 
@@ -4164,7 +4166,7 @@ translate polish s07_03_e4d5ca5d:
 
     voice voice_file.lpdcat(7,64)
 
-    lpdcat serious ""
+    lpdcat serious "\"Każda świątynia zna historie bogów pomagających swym wiernym uniknąć dopełnienia się przepowiedni zagłady. Wybacz Kulau, ale twój problem nie jest niczym wyjątkowym.\" "
 
 
 
@@ -4176,7 +4178,7 @@ translate polish s07_03_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -4192,7 +4194,7 @@ translate polish s07_03_1d17e2be:
 
     voice voice_file.tig(7,27)
 
-    tig frown ""
+    tig frown "\"Właśnie {i}dlatego{/i} \ nie powinieneś wybierać się do innych świątyni! Liao, jesteś częścią rodziny Lin. Powinieneś zatroszczyć się o świątynię Mazu i potrzeby swoich bliskich. Bieganie w kółko i nawracanie wiernych innych przybytków to daremny wysiłek.\" "
 
 
 
@@ -4208,7 +4210,7 @@ translate polish s07_03_88687f8c:
 
     voice voice_file.lpdcat(7,65)
 
-    lpdcat angry ""
+    lpdcat angry "\"Ale z ciebie samolub!\" "
 
 
 
@@ -4224,7 +4226,7 @@ translate polish s07_03_d655acfd:
 
     voice voice_file.tig(7,28)
 
-    tig frown ""
+    tig frown "\"Sam jesteś samolubny!\" "
 
 
 
@@ -4236,7 +4238,7 @@ translate polish s07_03_d5170dd2:
 
     # avt "*sigh* "
 
-    avt ""
+    avt "*wzdycha* "
 
 
 
@@ -4252,7 +4254,7 @@ translate polish s07_03_24ad747b:
 
     voice voice_file.lagu(7,48)
 
-    lagu laugh ""
+    lagu laugh "\"Łahaha- Cóż za kłopotliwa sytuacja w którą się wplątałeś dzieciaku.\" "
 
 
 
@@ -4264,7 +4266,7 @@ translate polish s07_03_3b3e3eb0:
 
     # avt "\"You guys don't get it. I'm not playing around. I'm stressed every day...\" "
 
-    avt ""
+    avt "\"Nie rozumiecie. Traktuję to bardzo poważnie. Codziennie jestem zestresowany...\" "
 
 
 
