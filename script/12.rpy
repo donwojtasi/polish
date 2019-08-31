@@ -12,7 +12,7 @@ translate polish s12_da064df9:
     # voice voice_file.lpdcat(12,1)
     # lpdcat laugh "\"Liao! It's the weekend tomorrow! Yooooou know what that means?\" "
     voice voice_file.lpdcat(12,1)
-    lpdcat laugh "\"LiaO! Jutro mamy weekend! Wieesz co to znaczy?\" "
+    lpdcat laugh "\"Liao! Jutro mamy weekend! Wieesz co to znaczy?\" "
 
 # game/script/12.rpy:15
 translate polish s12_9cd5a0e5:
@@ -26,7 +26,7 @@ translate polish s12_b7972935:
     # voice voice_file.lpdcat(12,2)
     # lpdcat happy "\"Well it means— that we should go on a date!\" "
     voice voice_file.lpdcat(12,2)
-    lpdcat happy "\"Cóz to znaczy- że powinniśmy pójść na randkę!\" "
+    lpdcat happy "\"Cóż to znaczy- że powinniśmy pójść na randkę!\" "
 
 # game/script/12.rpy:26
 translate polish s12_50114d25:
