@@ -18,7 +18,7 @@ translate polish s12_da064df9:
 translate polish s12_9cd5a0e5:
 
     # avt "\"How should I know what that means!\" "
-    avt "\"Jak mógłbym wiedzieć co to znaczy!\" "
+    avt "\"Skąd miałbym wiedzieć co to znaczy!\" "
 
 # game/script/12.rpy:24
 translate polish s12_b7972935:
@@ -46,7 +46,7 @@ translate polish s12_e51188e9:
     # voice voice_file.lpdcat(12,3)
     # lpdcat normal "\"You should go on a date before you get in a relationship! Isn't that normal? You can't expect to date someone without getting to know them first.\" "
     voice voice_file.lpdcat(12,3)
-    lpdcat normal "Powinieneś pójść na randkę zanim wejdziesz w związek! To chyba normalne? Nie możesz oczekiwać, że będziesz się z kimś umawiać zanim go dobrze poznasz.\" "
+    lpdcat normal "\"Powinieneś pójść na randkę zanim wejdziesz w związek! To chyba normalne? Nie możesz oczekiwać, że będziesz się z kimś umawiać zanim go dobrze poznasz.\" "
 
 # game/script/12.rpy:34
 translate polish s12_58fccfac:
@@ -60,7 +60,7 @@ translate polish s12_e101075c:
     # voice voice_file.lpdcat(12,4)
     # lpdcat laugh "\"Since I'm not staying at Liao's home, the least he could do is spend the weekend with me!\" "
     voice voice_file.lpdcat(12,4)
-    lpdcat laugh "Skoro nie mieszkam w domu Liao, przynajmniej mógłby spędzić ze mną weekend!\" "
+    lpdcat laugh "\"Skoro nie mieszkam już w domu Liao, przynajmniej mógłby spędzić ze mną weekend!\" "
 
 # game/script/12.rpy:45
 translate polish s12_56980324:
@@ -68,13 +68,13 @@ translate polish s12_56980324:
     # voice voice_file.lpdcat(12,5)
     # lpdcat difficult "\"Liao... please?\" "
     voice voice_file.lpdcat(12,5)
-    lpdcat difficult "\"Lia... proszę?\" "
+    lpdcat difficult "\"Liao... proszę?\" "
 
 # game/script/12.rpy:47
 translate polish s12_902a8f06:
 
     # b "Senpai's dejected eyes look at me, tears welling up. My heart doesn't have the strength to disappoint him. "
-    b ""
+    b "Senpai patrzy na mnie przygnębionym wzrokiem, w jego oczach zbierają się łzy. Moje serce nie ma siły go rozczarować. "
 
 # game/script/12.rpy:49
 translate polish s12_b8c52b53:
@@ -82,7 +82,7 @@ translate polish s12_b8c52b53:
     # voice voice_file.lpdcat(12,6)
     # lpdcat pout "\"This time, I want a date all alone with Liao! Without Kulau and the old man! Just me and you.\" "
     voice voice_file.lpdcat(12,6)
-    lpdcat pout ""
+    lpdcat pout "\"Tym razem chcę randkę sam na sam z Liao! Bez Kulau i staruszka! Tylko ty i ja.\" "
 
 # game/script/12.rpy:55
 translate polish s12_a4a82f97:
@@ -90,7 +90,7 @@ translate polish s12_a4a82f97:
     # voice voice_file.tig(12,1)
     # tig frown "\"I— That's unreasonable. I cannot let the two of you—\" "
     voice voice_file.tig(12,1)
-    tig frown ""
+    tig frown "\"Ja- To nierozsądne. Nie mogę pozwolić waszej dwójce-\" "
 
 # game/script/12.rpy:61
 translate polish s12_a9cc059b:
@@ -98,7 +98,7 @@ translate polish s12_a9cc059b:
     # voice voice_file.lpd(12,1)
     # lpd obsessed "\"...Liao go shopping. I want to come.\" "
     voice voice_file.lpd(12,1)
-    lpd obsessed ""
+    lpd obsessed "\"...Liao idzie na zakupy. Chcę przyjść.\" "
 
 # game/script/12.rpy:64
 translate polish s12_30843752:
@@ -106,7 +106,7 @@ translate polish s12_30843752:
     # voice voice_file.lpdcat(12,7)
     # lpdcat pout "\"NO WAY.\" " with vshake
     voice voice_file.lpdcat(12,7)
-    lpdcat pout "" with vshake
+    lpdcat pout "\"NIE MA MOWY.\" " with vshake
 
 # game/script/12.rpy:66
 translate polish s12_0eefb596:
@@ -114,7 +114,7 @@ translate polish s12_0eefb596:
     # voice voice_file.lpdcat(12,8)
     # lpdcat pout "\"I've been forced out of Liao's home, my family is against me, and I'm scared. All I want is a date with Liao! Please, I don't need a third and fourth wheel!\" "
     voice voice_file.lpdcat(12,8)
-    lpdcat pout ""
+    lpdcat pout "\"Zostałem wyrzucony z domu Liao, moja rodzina jest przeciwko mnie i boję się. Chcę tylko umówić się z Liao! Proszę, nie potrzebuję trzeciego i czwartego koła!\" "
 
 # game/script/12.rpy:68
 translate polish s12_dafdeb04:
@@ -122,7 +122,7 @@ translate polish s12_dafdeb04:
     # voice voice_file.tig(12,2)
     # tig normal "\"What wheel? Liao doesn't fancy you.\" "
     voice voice_file.tig(12,2)
-    tig normal ""
+    tig normal "\"Jakie koło? Liao nie jest tobą urzeczony.\" "
 
 # game/script/12.rpy:70
 translate polish s12_489515a2:
@@ -130,13 +130,13 @@ translate polish s12_489515a2:
     # voice voice_file.lpdcat(12,9)
     # lpdcat pout "\"Wha— Well maybe not yet. But that's exactly {i}why{/i} \ I want to go on a date with him!\" "
     voice voice_file.lpdcat(12,9)
-    lpdcat pout ""
+    lpdcat pout "\"Co- Cóż może jeszcze nie. Ale to właśnie {i}dlatego{/i} \ chcę pójść z nim na randkę!\" "
 
 # game/script/12.rpy:72
 translate polish s12_d98c90c9:
 
     # avt "\"Isn't this all a bit backwards...\" "
-    avt ""
+    avt "\" Czy to wszystko nie jest na odwrót...\" "
 
 # game/script/12.rpy:82
 translate polish s12_45b6f374:
@@ -145,13 +145,13 @@ translate polish s12_45b6f374:
     # lpdcat normal "\"Nope, I'm right. After all, why should you be in a relationship before you even know if you get along together?\" "
     # lpdcat normal "\"Which is why we should have a nice date together before either of us makes a \ndecision!\" "
     voice voice_file.lpdcat(12,10)
-    lpdcat normal ""
-
+    lpdcat normal "\"Nie, mam rację. Mimo wszystko, po co być w związku zanim się dowiemy, czy dobrze się razem dogadujemy?\" "
+    lpdcat normal "\"Dlatego powinniśmy mieć przyjemną randkę razem zanim któryś z nas podejmie tą \ndecyzję!\" "
 # game/script/12.rpy:84
 translate polish s12_b8bd39e5:
 
     # avt "\"Err... It kind of makes sense...\" "
-    avt ""
+    avt "\"Eee... W sumie to ma sens...\" "
 
 # game/script/12.rpy:86
 translate polish s12_5e0fdc88:
@@ -159,13 +159,13 @@ translate polish s12_5e0fdc88:
     # voice voice_file.lpdcat(12,11)
     # lpdcat laugh "\"So, Liao! Let's have a date!\" "
     voice voice_file.lpdcat(12,11)
-    lpdcat laugh ""
+    lpdcat laugh "\"No, Liao! Pójdźmy na randkę!\" "
 
 # game/script/12.rpy:110
 translate polish s12_reject_6c629b7e:
 
     # avt "\"Sorry, Senpai. I'd rather not...\" "
-    avt ""
+    avt "\"Wybacz, Senpai. Wolałbym nie...\" "
 
 # game/script/12.rpy:117
 translate polish s12_reject_42e05aa1:
@@ -173,22 +173,22 @@ translate polish s12_reject_42e05aa1:
     # voice voice_file.lpdcat(12,12)
     # lpdcat not_reconcile "\"Wha— Y-{w=0.2}You're turning me down?\" "
     voice voice_file.lpdcat(12,12)
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Co- D- {w=0.2}Dajesz mi kosza?\" "
 
 # game/script/12.rpy:119
 translate polish s12_reject_8f487959:
 
     # avt "\"It's not like that. I'm... really happy that you would want to go on a date with me.\" "
     # avt "\"It's just that— you're a really good friend of mine Senpai. I don't want that to change because we're dating...\" "
-    avt ""
-
+    avt "\"To nie tak. Ja... naprawdę się cieszę, że chciałbyś pójść ze mną na randkę.\" "
+    avt "\"Po prostu- jesteś moim dobrym przyjacielem Senpai. Nie chcę, żeby to się zmieniło, dlatego że się ze sobą umawiamy...\" "
 # game/script/12.rpy:125
 translate polish s12_reject_b33d7fde:
 
     # voice voice_file.lpdcat(12,13)
     # lpdcat cry_2 "\"Waaa!\" " with vshake
     voice voice_file.lpdcat(12,13)
-    lpdcat cry_2 "" with vshake
+    lpdcat cry_2 "\"Łaaa!\" " with vshake
 
 # game/script/12.rpy:129
 translate polish s12_reject_d64c9c5c:
@@ -196,13 +196,13 @@ translate polish s12_reject_d64c9c5c:
     # voice voice_file.lpdcat(12,14)
     # lpdcat not_reconcile "*sniffle* \"What about a date between two good friends?\" "
     voice voice_file.lpdcat(12,14)
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"A co powiesz na randkę dwóch dobrych przyjaciół?\" "
 
 # game/script/12.rpy:131
 translate polish s12_reject_a12a1943:
 
     # avt "\"If it's as friends, it's not a date.\" "
-    avt ""
+    avt "\"Jeśli mamy być jako przyjaciele, to nie jest randka.\" "
 
 # game/script/12.rpy:133
 translate polish s12_reject_837637f2:
@@ -210,13 +210,13 @@ translate polish s12_reject_837637f2:
     # voice voice_file.lpdcat(12,15)
     # lpdcat pout "\"How about, just spending time hanging out?\" "
     voice voice_file.lpdcat(12,15)
-    lpdcat pout ""
+    lpdcat pout "\" A co powiesz na to, żeby spędzić gdzieś razem czas?\" "
 
 # game/script/12.rpy:135
 translate polish s12_reject_34523c65:
 
     # avt "\"That's... better. But wouldn't you just think of it as a date anyway?\" "
-    avt ""
+    avt "\"Brzmi... lepiej. Ale nie myślałbyś o tym jako o randce mimo tego?\" "
 
 # game/script/12.rpy:137
 translate polish s12_reject_3b5ef851:
@@ -224,14 +224,14 @@ translate polish s12_reject_3b5ef851:
     # voice voice_file.lpdcat(12,16)
     # lpdcat not_reconcile "\"...Still no?\" "
     voice voice_file.lpdcat(12,16)
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"...Nadal nie?\" "
 
 # game/script/12.rpy:139
 translate polish s12_reject_7d9c16a0:
 
     # avt "\"Senpai, I {i}like{/i} \ being able to spend time with you, going to school, eating dinner... but dating is something completely different.\" "
     # avt "\"If I agreed to help you in Miaoli, what point would there be in dating Shu-chi?!\" "
-    avt ""
+    avt "\"Jeśli zgodziłbym się pomóc ci w Miaoli, jaki sens miałoby umawianie się z Shu-chi?!\" "
 
 # game/script/12.rpy:141
 translate polish s12_reject_eb7b5691:
@@ -239,7 +239,7 @@ translate polish s12_reject_eb7b5691:
     # voice voice_file.lpdcat(12,17)
     # lpdcat pout "\"So... you'd agree to go to Miaoli as my friend?\" "
     voice voice_file.lpdcat(12,17)
-    lpdcat pout ""
+    lpdcat pout "\"Więc... zgodziłbyś się pojechać do Miaoli jako mój przyjaciel?\" "
 
 # game/script/12.rpy:143
 translate polish s12_reject_ee1e1138:
@@ -253,13 +253,13 @@ translate polish s12_reject_13b35b41:
     # voice voice_file.lpdcat(12,18)
     # lpdcat pout "\"...Just say it. I {i}want{/i} \ to know.\" "
     voice voice_file.lpdcat(12,18)
-    lpdcat pout ""
+    lpdcat pout "\" Po prostu to powiedz. Ja {i}chcę{/i} \ wiedzieć.\" "
 
 # game/script/12.rpy:147
 translate polish s12_reject_5eca2676:
 
     # lpdcat wronged "\"......\" "
-    lpdcat wronged ""
+    lpdcat wronged "\"......\" "
 
 # game/script/12.rpy:149
 translate polish s12_reject_7d81ee41:
@@ -267,7 +267,7 @@ translate polish s12_reject_7d81ee41:
     # voice voice_file.lpdcat(12,19)
     # lpdcat laugh "\"Fine. As I said, let's not rush it. If Liao doesn't want it now, I can wait.\" "
     voice voice_file.lpdcat(12,19)
-    lpdcat laugh ""
+    lpdcat laugh "\" W porządku. Tak jak mówiłem, nie pospieszajmy tego. Jeśli Liao teraz tego nie chce, mogę poczekać.\" "
 
 # game/script/12.rpy:151
 translate polish s12_reject_67378beb:
