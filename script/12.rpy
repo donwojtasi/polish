@@ -216,7 +216,7 @@ translate polish s12_reject_837637f2:
 translate polish s12_reject_34523c65:
 
     # avt "\"That's... better. But wouldn't you just think of it as a date anyway?\" "
-    avt "\"Brzmi... lepiej. Ale nie myślałbyś o tym jako o randce mimo tego?\" "
+    avt "\"Brzmi... lepiej. Ale nie myślałbyś o tym jako o randce tak czy tak?\" "
 
 # game/script/12.rpy:137
 translate polish s12_reject_3b5ef851:
@@ -245,7 +245,7 @@ translate polish s12_reject_eb7b5691:
 translate polish s12_reject_ee1e1138:
 
     # avt "\"That's another question...\" "
-    avt ""
+    avt "\"To inna kwestia...\" "
 
 # game/script/12.rpy:145
 translate polish s12_reject_13b35b41:
@@ -275,7 +275,7 @@ translate polish s12_reject_67378beb:
     # voice voice_file.lpdcat(12,20)
     # lpdcat pout "\"There's no point in me staying here, eating dinner and just pretending nothing happened. I'll be heading off now!\" "
     voice voice_file.lpdcat(12,20)
-    lpdcat pout ""
+    lpdcat pout "\"Nie mam sensu, żebym tu został, jadł obiad i udawał, że nic się nie stało. Pójdę już!\" "
 
 # game/script/12.rpy:153
 translate polish s12_reject_39e2a144:
@@ -283,25 +283,25 @@ translate polish s12_reject_39e2a144:
     # voice voice_file.lpdcat(12,21)
     # lpdcat laugh "\"Alrighty Liao! See you on Monday!\" "
     voice voice_file.lpdcat(12,21)
-    lpdcat laugh ""
+    lpdcat laugh "\"Wporządalu Liao! Do zobaczenia w Poniedziałek!\" "
 
 # game/script/12.rpy:158
 translate polish s12_reject_78405762:
 
     # avt "\"Wait, Senpai...\" "
-    avt ""
+    avt "\" Czekaj, Senpai...\" "
 
 # game/script/12.rpy:160
 translate polish s12_reject_872ab2c1:
 
     # b "Senpai bolts away fast as the wind can take him. "
-    b ""
+    b "Senpai czmycha w dal tak szybko jak wiatr go niesie."
 
 # game/script/12.rpy:162
 translate polish s12_reject_12369afd:
 
     # avt "\"...we should eat together.\" "
-    avt ""
+    avt "\"...powinniśmy zjeść razem.\" "
 
 # game/script/12.rpy:164
 translate polish s12_reject_49214bce:
@@ -309,19 +309,19 @@ translate polish s12_reject_49214bce:
     # voice voice_file.tig(12,3)
     # tig normal "\"Regardless he wouldn't have stayed after being turned down. He said as much.\" "
     voice voice_file.tig(12,3)
-    tig normal ""
+    tig normal "\"Mimo wszystko, nie zostałby po tym jak dostał kosza. Powiedział wystarczająco.\" "
 
 # game/script/12.rpy:166
 translate polish s12_reject_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/12.rpy:168
 translate polish s12_reject_7dae7a31:
 
     # avt "\"...Sorry.\" "
-    avt ""
+    avt "\"...Przepraszam.\" "
 
 # game/script/12.rpy:170
 translate polish s12_reject_a2bfa980:
@@ -2202,36 +2202,36 @@ translate polish strings:
 
     # old "\"Should I go on a date with Senpai?\" "
     old "要不要和學長去兩人約會？"
-    new ""
+    new "\"Czy powinienem pójść na randkę z Senpai'em?\" "
 
     # old "Yeah, I want to!"
     old "去吧。"
-    new ""
+    new "Tak, chcę!"
 
     # old "I don't really feel like we should."
     old "不去。"
-    new ""
+    new "Myślę, że nie powinniśmy."
 
     # old "\"Should I comfort Senpai?\" "
     old "要不要安慰學長？"
-    new ""
+    new "\"Czy powinienem pocieszyć Senpai'a?\" "
 
     # old "I have to, I can't bear to see him like this."
     old "安慰他。"
-    new ""
+    new "Muszę. Nie mogę na niego patrzyć w takim stanie."
 
     # old "I shouldn't, I might be misunderstood."
     old "避免誤會。"
-    new ""
+    new "Nie powinienem. Mogę zostać źle zrozumiany."
 
     # old "\"Should I go over to Senpai's place?\" "
     old "要不要去學長家？"
-    new ""
+    new "\"Czy powinienem pójść do domu Senpai'a?\" "
 
     # old "I should spend some more time with him."
     old "去陪陪學長也好。"
-    new ""
+    new "Powinienem spędzić z nim trochę więcej czasu."
 
     # old "It's not a good time."
     old "還是不太適合。"
-    new ""
+    new "To nie jest dobry moment."
