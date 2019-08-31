@@ -4,7 +4,7 @@
 translate polish s12_fb8a7bba:
 
     # b "It's Friday night and once again Senpai is sitting in the cafeteria, waiting for me. "
-    b ""
+    b "Jest Piątkowa noc i po raz kolejny Senpaj siedzi w stołówce i na mnie czeka."
 
 # game/script/12.rpy:13
 translate polish s12_da064df9:
@@ -12,13 +12,13 @@ translate polish s12_da064df9:
     # voice voice_file.lpdcat(12,1)
     # lpdcat laugh "\"Liao! It's the weekend tomorrow! Yooooou know what that means?\" "
     voice voice_file.lpdcat(12,1)
-    lpdcat laugh ""
+    lpdcat laugh "\"LiaO! Jutro mamy weekend! Wieesz co to znaczy?\" "
 
 # game/script/12.rpy:15
 translate polish s12_9cd5a0e5:
 
     # avt "\"How should I know what that means!\" "
-    avt ""
+    avt "\"Jak mógłbym wiedzieć co to znaczy!\" "
 
 # game/script/12.rpy:24
 translate polish s12_b7972935:
@@ -26,13 +26,13 @@ translate polish s12_b7972935:
     # voice voice_file.lpdcat(12,2)
     # lpdcat happy "\"Well it means— that we should go on a date!\" "
     voice voice_file.lpdcat(12,2)
-    lpdcat happy ""
+    lpdcat happy "\"Cóz to znaczy- że powinniśmy pójść na randkę!\" "
 
 # game/script/12.rpy:26
 translate polish s12_50114d25:
 
     # avt "\"Senpai, what kind of date are you talking about! It's not like we're in a relationship.\" "
-    avt ""
+    avt "\" Senpaj, jaką randkę! Przecież nie jesteśmy w związku.\" "
 
 # game/script/12.rpy:28
 translate polish s12_01d2a8db:
