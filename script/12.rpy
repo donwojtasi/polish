@@ -38,7 +38,7 @@ translate polish s12_50114d25:
 translate polish s12_01d2a8db:
 
     # b "As bothersome as he is, I'm kinda happy to see Senpai so upbeat. He even took the effort to come and wait for me. "
-    b ""
+    b "Jak bardzo nie byłby dokuczliwy, poniekąd cieszę się, że Senpai jest taki wesoły. Nawet podjął wysiłek przyjścia i czekania na mnie. "
 
 # game/script/12.rpy:32
 translate polish s12_e51188e9:
@@ -46,13 +46,13 @@ translate polish s12_e51188e9:
     # voice voice_file.lpdcat(12,3)
     # lpdcat normal "\"You should go on a date before you get in a relationship! Isn't that normal? You can't expect to date someone without getting to know them first.\" "
     voice voice_file.lpdcat(12,3)
-    lpdcat normal ""
+    lpdcat normal "Powinieneś pójść na randkę zanim wejdziesz w związek! To chyba normalne? Nie możesz oczekiwać, że będziesz się z kimś umawiać zanim go dobrze poznasz.\" "
 
 # game/script/12.rpy:34
 translate polish s12_58fccfac:
 
     # avt "\"We already know each other very well! Senpai, stop making up excuses...\" " with hshake
-    avt "" with hshake
+    avt "\"Już znamy się bardzo dobrze! Senpai, przestań wymyślać wymówki...\" " with hshake
 
 # game/script/12.rpy:43
 translate polish s12_e101075c:
@@ -60,7 +60,7 @@ translate polish s12_e101075c:
     # voice voice_file.lpdcat(12,4)
     # lpdcat laugh "\"Since I'm not staying at Liao's home, the least he could do is spend the weekend with me!\" "
     voice voice_file.lpdcat(12,4)
-    lpdcat laugh ""
+    lpdcat laugh "Skoro nie mieszkam w domu Liao, przynajmniej mógłby spędzić ze mną weekend!\" "
 
 # game/script/12.rpy:45
 translate polish s12_56980324:
