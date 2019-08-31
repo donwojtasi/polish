@@ -328,13 +328,13 @@ translate polish s12_reject_a2bfa980:
 
     # b "I apologise, knowing full well Senpai can't hear me and never will. "
     # b "Lost, I shuffle into the cafeteria and take a seat. "
-    b ""
-
+    b "Przepraszam, dobrze wiedząc, że Senpai nigdy mnie nie usłyszy. "
+    b "Zagubiony," 
 # game/script/12.rpy:182
 translate polish s12_accept_c8626bd3:
 
     # avt "\"Oh... well. Honestly, I'd be happy to go out with you Senpai.\" "
-    avt ""
+    avt "\"No... cóż. Szczerze, chętnie wyjdę z Senpai'em.\" "
 
 # game/script/12.rpy:191
 translate polish s12_accept_0ec5bfac:
@@ -342,13 +342,13 @@ translate polish s12_accept_0ec5bfac:
     # voice voice_file.lpdcat(12,22)
     # lpdcat laugh "\"Yeah! You'll have heaps of fun going out with someone as super-duper adorable as \nme!\" "
     voice voice_file.lpdcat(12,22)
-    lpdcat laugh ""
+    lpdcat laugh "\"Tak! Będziesz mieć masę zabawy wychodząć z kimś tak super-duper uroczym jak \nja!\" "
 
 # game/script/12.rpy:197
 translate polish s12_accept_59f02047:
 
     # avt "\"Okay you big show off, keep that up and I won't ever compliment you again.\" "
-    avt ""
+    avt "\" Okej wielki pozerze. Rób tak dalej, a więcej cię nie skomplementuję.\" "
 
 # game/script/12.rpy:201
 translate polish s12_accept_42f02317:
@@ -356,22 +356,22 @@ translate polish s12_accept_42f02317:
     # voice voice_file.lpdcat(12,23)
     # lpdcat normal "\"Whaa— But I only say the truth~\" "
     voice voice_file.lpdcat(12,23)
-    lpdcat normal ""
+    lpdcat normal "\"Coo- Kiedy ja tylko mówię prawdę~\" "
 
 # game/script/12.rpy:203
 translate polish s12_accept_f3b3e633:
 
     # avt "\"Fine. Senpai's {i}super-duper{/i} \ adorable. That's not a compliment. \" "
     # avt "\"And tomorrow, I'll go on a date with, got it?\" "
-    avt ""
-
+    avt "\"W porządku. Senpai jest {i}super-duper{/i} \ uroczy. To nie komplement. \" "
+    avt "\"A jutro, pójdę z tobą na randkę, jasne?\" "
 # game/script/12.rpy:208
 translate polish s12_accept_bac18bf0:
 
     # voice voice_file.lpdcat(12,24)
     # lpdcat happy "\"Yep! You're always so nice Liao!\" " with vshake
     voice voice_file.lpdcat(12,24)
-    lpdcat happy "" with vshake
+    lpdcat happy "\"Ta! Zawsze jesteś taki miły Liao!\" " with vshake
 
 # game/script/12.rpy:210
 translate polish s12_accept_9d29d51d:
@@ -379,7 +379,7 @@ translate polish s12_accept_9d29d51d:
     # voice voice_file.lpdcat(12,25)
     # lpdcat laugh "\"I'm gonna go home and get ready! See you tomorrow Liao! Look forward to it!\" "
     voice voice_file.lpdcat(12,25)
-    lpdcat laugh ""
+    lpdcat laugh "\"Pójdę do domu i się przygotuję! Do zobaczenia jutro Liao! Nie mogę się doczekać!\" "
 
 # game/script/12.rpy:214
 translate polish s12_accept_e5f4cdd9:
