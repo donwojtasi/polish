@@ -68,7 +68,7 @@ translate polish s12_56980324:
     # voice voice_file.lpdcat(12,5)
     # lpdcat difficult "\"Liao... please?\" "
     voice voice_file.lpdcat(12,5)
-    lpdcat difficult ""
+    lpdcat difficult "\"Lia... proszę?\" "
 
 # game/script/12.rpy:47
 translate polish s12_902a8f06:
