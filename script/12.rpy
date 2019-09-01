@@ -275,7 +275,7 @@ translate polish s12_reject_67378beb:
     # voice voice_file.lpdcat(12,20)
     # lpdcat pout "\"There's no point in me staying here, eating dinner and just pretending nothing happened. I'll be heading off now!\" "
     voice voice_file.lpdcat(12,20)
-    lpdcat pout "\"Nie mam sensu, żebym tu został, jadł obiad i udawał, że nic się nie stało. Pójdę już!\" "
+    lpdcat pout "\"Nie ma sensu, żebym tu został, jadł obiad i udawał, że nic się nie stało. Pójdę już!\" "
 
 # game/script/12.rpy:153
 translate polish s12_reject_39e2a144:
@@ -309,7 +309,7 @@ translate polish s12_reject_49214bce:
     # voice voice_file.tig(12,3)
     # tig normal "\"Regardless he wouldn't have stayed after being turned down. He said as much.\" "
     voice voice_file.tig(12,3)
-    tig normal "\"Mimo wszystko, nie zostałby po tym jak dostał kosza. Powiedział wystarczająco.\" "
+    tig normal "\"Mimo wszystko, nie zostałby po tym jak dostał kosza. Wyraził się dość jasno.\" "
 
 # game/script/12.rpy:166
 translate polish s12_reject_2166e7b1:
@@ -329,12 +329,12 @@ translate polish s12_reject_a2bfa980:
     # b "I apologise, knowing full well Senpai can't hear me and never will. "
     # b "Lost, I shuffle into the cafeteria and take a seat. "
     b "Przepraszam, dobrze wiedząc, że Senpai nigdy mnie nie usłyszy. "
-    b "Zagubiony," 
+    b "Zagubiony, włóczę nogami po stołówce i zajmuję miejsce. " 
 # game/script/12.rpy:182
 translate polish s12_accept_c8626bd3:
 
     # avt "\"Oh... well. Honestly, I'd be happy to go out with you Senpai.\" "
-    avt "\"No... cóż. Szczerze, chętnie wyjdę z Senpai'em.\" "
+    avt "\"No... cóż. Szczerze, chętnie z tobą wyjdę Senpai.\" "
 
 # game/script/12.rpy:191
 translate polish s12_accept_0ec5bfac:
@@ -356,7 +356,7 @@ translate polish s12_accept_42f02317:
     # voice voice_file.lpdcat(12,23)
     # lpdcat normal "\"Whaa— But I only say the truth~\" "
     voice voice_file.lpdcat(12,23)
-    lpdcat normal "\"Coo- Kiedy ja tylko mówię prawdę~\" "
+    lpdcat normal "\"Coo- Ale ja tylko mówię prawdę~\" "
 
 # game/script/12.rpy:203
 translate polish s12_accept_f3b3e633:
@@ -371,7 +371,7 @@ translate polish s12_accept_bac18bf0:
     # voice voice_file.lpdcat(12,24)
     # lpdcat happy "\"Yep! You're always so nice Liao!\" " with vshake
     voice voice_file.lpdcat(12,24)
-    lpdcat happy "\"Ta! Zawsze jesteś taki miły Liao!\" " with vshake
+    lpdcat happy "\"Ta! Zawsze jesteś strasznie miły Liao!\" " with vshake
 
 # game/script/12.rpy:210
 translate polish s12_accept_9d29d51d:
@@ -386,13 +386,13 @@ translate polish s12_accept_e5f4cdd9:
 
     # b "Senpai practically falls over backward, waving at me as he walks away... Really, what would he even need to prepare?  "
     # b "On top of that, we're already at the cafeteria. He could have at least had dinner with me before storming out of here. "
-    b ""
-
+    b "Senpai praktycznie przewraca się tyłem, machając do mnie, kiedy odchodzi... Serio, co on by miał niby przygotować?  "
+    b "Na dodatek już jesteśmy w stołówce. Mógł chociaż zjeść ze mną obiad zanim stąd wybiegł. "
 # game/script/12.rpy:216
 translate polish s12_accept_a938f0fb:
 
     # b "I'll never understand him will I? I decide to just leave it be and take a seat, eating my dinner for the night alone with Leopard and Tiger. "
-    b ""
+    b " Nigdy go nie zrozumiem, prawda? Decyduję zostawić to w spokoju i zajmuję miejsce, jedząc obiad na noc samotnie z Panterą i Tygrysem. "
 
 # game/script/12.rpy:225
 translate polish s12_accept_f04b9e98:
