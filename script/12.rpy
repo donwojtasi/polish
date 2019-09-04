@@ -398,7 +398,7 @@ translate polish s12_accept_a938f0fb:
 translate polish s12_accept_f04b9e98:
 
     # b "The next morning, I ask Tiger and Leopard to watch over my room. They couldn't come with me today after all. "
-    b ""
+    b "Następnego poranka poprosiłem Tygrysa i Panterę, żeby pilnowali mojego pokoju. Mimo wszystko nie mogli dzisiaj ze mną pójść"
 
 # game/script/12.rpy:229
 translate polish s12_accept_803b124a:
@@ -406,25 +406,25 @@ translate polish s12_accept_803b124a:
     # voice voice_file.tig(12,4)
     # tig normal "\"Liao, I don't wish to lecture you. Just remember to never go anywhere strange with that kitten, okay?\" "
     voice voice_file.tig(12,4)
-    tig normal ""
+    tig normal "\"Liao, nie chcę cię pouczać. Tylko pamiętaj, żeby nigdy nie iść z tym kociakiem w jakiejś dziwne miejsca, dobrze?\" "
 
 # game/script/12.rpy:231
 translate polish s12_accept_4fdf38e4:
 
     # avt "\"Yep, got it. It's not like there's any {i}strange places{/i} \ he'd take me to anyway. Don't worry, I'll see you later!\" "
-    avt ""
+    avt "\"Jasne, rozumiem. Nie żeby były jakieś {i}dziwne miejsca{/i} \w które mógłby mnie zabrać. Nie martw się. Do zobaczenia później!\" "
 
 # game/script/12.rpy:233
 translate polish s12_accept_2d759415:
 
     # tig normal "\"......\" "
-    tig normal ""
+    tig normal "\"......\" "
 
 # game/script/12.rpy:243
 translate polish s12_accept_9722285f:
 
     # avt "\"So, Senpai. Why are we here again?\" "
-    avt ""
+    avt "\"Więc Senpai. Dlaczego znowu tu jesteśmy?\" "
 
 # game/script/12.rpy:247
 translate polish s12_accept_29be5af7:
@@ -432,13 +432,13 @@ translate polish s12_accept_29be5af7:
     # voice voice_file.lpdcat(12,26)
     # lpdcat laugh "\"Because it's fun. You can't just go somewhere once and never again! Not to mention that old man was with us. There were so many places I couldn't show you. This time I'm gonna show you everything!\" "
     voice voice_file.lpdcat(12,26)
-    lpdcat laugh ""
+    lpdcat laugh "\"Bo można się tam dobrze bawić. Nie możesz iść gdzieś raz i nigdy nie wracać! Nie wspominając o tym, że był z nami staruszek. Było tak wiele miejsc, których nie mogłem ci pokazać. Tym razem pokażę ci wszystko!\" "
 
 # game/script/12.rpy:249
 translate polish s12_accept_9cab5001:
 
     # avt "\"Sounds more like you want to take me somewhere you can't say out loud...\" "
-    avt ""
+    avt "\" Brzmi to bardziej jakbyś chciał zabrać mnie do miejsca, którego nie możesz wymówić na głos...\" "
 
 # game/script/12.rpy:251
 translate polish s12_accept_a5ebae82:
