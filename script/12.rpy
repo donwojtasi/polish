@@ -539,7 +539,7 @@ translate polish cg_cat_play_dancing_machine_8cd946e0:
     # b "Senpai pulls me by the wrist around to one of the largest games in the arcade. In stark contrast to the cramped machines around it, the front is left open with a space taped off around the front. "
     # b "I'm lost trying to work out what kind of game it is while Senpai runs up to the display, turning it on and standing in the middle of the play area. "
     b " Senpai ciągnie mnie za nadgarstek do jednej z największych gier w salonie arcade. W kompletnym kontraście do zatłoczonych maszyn wokół, przód jest pozostawiony w wolnej przestrzeni zaklepanej wokół. "
-
+    b "Gubię się próbując rozpracować co to za gra, kiedy Senpai podbiega do wyświetlacza, włączając go i stojąc w środku miejsca do grania. "
 # game/script/12.rpy:311
 translate polish cg_cat_play_dancing_machine_2a58f37d:
 
@@ -552,7 +552,7 @@ translate polish cg_cat_play_dancing_machine_0bda5b1d:
 
     # b "Senpai moves deftly as a flurry of the word \"Perfect\" flashes on the screen every few seconds. Is he following the animations? "
     # b "Regardless, Senpai's moving so well I wouldn't be able to tell the difference between him or a demonstration of the dance anyway. He's beyond practice. "
-    b "Senpai porusza się zwinnie gdy tuman słowa.\"Idealnie\" miga na ekranie co każde kilka sekund. Czy on naśladuje animacje? "
+    b "Senpai porusza się zwinnie gdy tuman słowa \"Idealnie\" miga na ekranie co każde kilka sekund. Czy on naśladuje animacje? "
     b "Mimo wszystko Senpai porusza się tak dobrze, że nie umiałbym odróżnić go od demonstracji tańca. Nie jest w tym nowicjuszem. "
 # game/script/12.rpy:315
 translate polish cg_cat_play_dancing_machine_6f0cdb2b:
