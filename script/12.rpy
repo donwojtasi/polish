@@ -531,22 +531,22 @@ translate polish s12_accept_2e5c610d:
     # voice voice_file.lpdcat(12,33)
     # lpdcat normal "\"Wha— What a sad, sheltered soul you are. How could a member of the dance club not know! Come on, this way!\" "
     voice voice_file.lpdcat(12,33)
-    lpdcat normal "\"C-co ale smutną, chronioną duszą jesteś. Jak członek klubu tanecznego mógł o tym nie wiedzieć! Dawaj, za mną!\" "
+    lpdcat normal "\"C-co? Ale smutną, chronioną duszą jesteś. Jak członek klubu tanecznego mógł o tym nie wiedzieć! Dawaj, za mną!\" "
 
 # game/script/12.rpy:304
 translate polish cg_cat_play_dancing_machine_8cd946e0:
 
     # b "Senpai pulls me by the wrist around to one of the largest games in the arcade. In stark contrast to the cramped machines around it, the front is left open with a space taped off around the front. "
     # b "I'm lost trying to work out what kind of game it is while Senpai runs up to the display, turning it on and standing in the middle of the play area. "
-    b "Senpai ciągnie mnie za nadgarstek do jednej z największych gier. W kontraście do powciskanych maszyn dookoła, przód jest otwarty z wolną przestrzenią. "
+    b "Senpai ciągnie mnie za rękę do jednej z największych gier. W kontraście do powciskanych maszyn dookoła, przód jest otwarty z wolną przestrzenią. "
     b "Gubię się próbując rozpracować co to za gra, kiedy Senpai podbiega do wyświetlacza, włączając go i stojąc w środku miejsca do grania. "
 # game/script/12.rpy:311
 translate polish cg_cat_play_dancing_machine_2a58f37d:
 
     # b "A figure appears on the screen that mirrors Senpai's position in front of it. Wait— how can he control it that far away from the machine? "
     # b "Senpai puts on the same pose as the virtual figure. He starts to dance as the music kicks in. "
-    b "Figura, która naśladuje pozycję Senpai'a pojawia się na ekranie przed nim. Czekaj- jak udaje mu się ją kontrolować tak daleko od maszyny? "
-    b "Senpai powtarza pozę wirtualnej figury i zaczyna tańczyć wraz z muzyką."
+    b "Wirtualna postać, która naśladuje pozycję Senpai'a pojawia się na ekranie przed nim. Czekaj- jak udaje mu się ją kontrolować tak daleko od maszyny? "
+    b "Senpai powtarza pozę wirtualnej postaci i zaczyna tańczyć wraz z muzyką."
 # game/script/12.rpy:313
 translate polish cg_cat_play_dancing_machine_0bda5b1d:
 
