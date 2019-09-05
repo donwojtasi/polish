@@ -545,21 +545,21 @@ translate polish cg_cat_play_dancing_machine_2a58f37d:
 
     # b "A figure appears on the screen that mirrors Senpai's position in front of it. Wait— how can he control it that far away from the machine? "
     # b "Senpai puts on the same pose as the virtual figure. He starts to dance as the music kicks in. "
-    b ""
-
+    b "Figura, która naśladuje pozycję Senpai'a pojawia się na ekranie przed nim. Czekaj- jak udaje mu się ją kontrolować tak daleko od maszyny? "
+    b "Senpai pokazuje tą samą pozę co wirtualna figura. Zaczyna tańczyć kiedy muzyka zaczyna grać. "
 # game/script/12.rpy:313
 translate polish cg_cat_play_dancing_machine_0bda5b1d:
 
     # b "Senpai moves deftly as a flurry of the word \"Perfect\" flashes on the screen every few seconds. Is he following the animations? "
     # b "Regardless, Senpai's moving so well I wouldn't be able to tell the difference between him or a demonstration of the dance anyway. He's beyond practice. "
-    b ""
-
+    b "Senpai porusza się zwinnie gdy tuman słowa.\"Idealnie\" miga na ekranie co każde kilka sekund. Czy on naśladuje animacje? "
+    b "Mimo wszystko Senpai porusza się tak dobrze, że nie umiałbym odróżnić go od demonstracji tańca. Nie jest w tym nowicjuszem. "
 # game/script/12.rpy:315
 translate polish cg_cat_play_dancing_machine_6f0cdb2b:
 
     # b "About thirty seconds into the song, the word \"Great\" jumps on the screen, breaking his \"Perfect\" combo. "
     # b "Senpai clicks his tongue in disappointment. Guess his accuracy on that move was off. "
-    b ""
+    b "Po trzydziestu sekundach piosenki słowo \"Dobrze\" wskakuje na ekran, łamiąc jego kombo \"Idealnie\". "
 
 # game/script/12.rpy:317
 translate polish cg_cat_play_dancing_machine_c520b895:
