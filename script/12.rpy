@@ -446,7 +446,7 @@ translate polish s12_accept_a5ebae82:
     # voice voice_file.lpdcat(12,27)
     # lpdcat normal "\"Wha— Only one of impure heart would ever twist my words in such lecherous ways!\" "
     voice voice_file.lpdcat(12,27)
-    lpdcat normal "\"Co- Tylko ktoś o nieczystym sercu przeręciłby moje słowa w tak lubieżny sposób!\" "
+    lpdcat normal "\"Co- Tylko ktoś o nieczystym sercu przekręciłby moje słowa w tak lubieżny sposób!\" "
 
 # game/script/12.rpy:253
 translate polish s12_accept_4d96b762:
@@ -496,7 +496,7 @@ translate polish s12_accept_1aa6dfba:
 translate polish s12_accept_2f078213:
 
     # b "Senpai's words are vague. I was getting worried he really was going to take me somewhere shady. But, in the end he leads me to an arcade that stretches across the basement of a department store. "
-    b "Słowa Senpai'a były niejasne. Zaczynałem się martwić, że naprawdę zabiera mnie w jakieś podejrzane miejsce. Jednak ostatecznie prowadzi mnie do salonu gier arcade, który rozciąga się przez piwnicę wydziału sklepowego."
+    b "Słowa Senpai'a były niejasne. Zaczynałem się martwić, że naprawdę zabiera mnie w jakieś podejrzane miejsce. Jednak ostatecznie prowadzi mnie do salonu gier, który rozciąga się przez piwnicę wydziału sklepowego."
 
 # game/script/12.rpy:282
 translate polish s12_accept_6732ece0:
@@ -508,7 +508,7 @@ translate polish s12_accept_6732ece0:
 translate polish s12_accept_bd7da379:
 
     # b "As far as my eyes can see, arcade machines are lined up from wall to wall. Honestly, I'm not usually a fan of arcade games. "
-    b "Jak tylko okiem sięgnę, automaty do gier arcade są ustawione w rzędzie od ściany do ściany. Szczerze, zazwyczaj nie jestem fanem gier arcade. "
+    b "Jak tylko okiem sięgnę, automaty do gier są ustawione w rzędzie od ściany do ściany. Szczerze, nie jestem fanem gier arkadowych. "
 
 # game/script/12.rpy:288
 translate polish s12_accept_ea529fd1:
@@ -516,7 +516,7 @@ translate polish s12_accept_ea529fd1:
     # voice voice_file.lpdcat(12,32)
     # lpdcat normal "\"Liao, you play any arcade rhythm games?\" "
     voice voice_file.lpdcat(12,32)
-    lpdcat normal "\"Liao, grasz w jakieś rytmiczne gry arcade?\" "
+    lpdcat normal "\"Liao, grasz w jakieś rytmiczne gry arkadowe?\" "
 
 # game/script/12.rpy:290
 translate polish s12_accept_827c89c2:
@@ -531,14 +531,14 @@ translate polish s12_accept_2e5c610d:
     # voice voice_file.lpdcat(12,33)
     # lpdcat normal "\"Wha— What a sad, sheltered soul you are. How could a member of the dance club not know! Come on, this way!\" "
     voice voice_file.lpdcat(12,33)
-    lpdcat normal "\"Co- Co za smutna dusza pod kloszem. Jak członek klubu tanecznego może o tym nie wiedzieć! Chodź, tędy!\" "
+    lpdcat normal "\"C-co ale smutną, chronioną duszą jesteś. Jak członek klubu tanecznego mógł o tym nie wiedzieć! Dawaj, za mną!\" "
 
 # game/script/12.rpy:304
 translate polish cg_cat_play_dancing_machine_8cd946e0:
 
     # b "Senpai pulls me by the wrist around to one of the largest games in the arcade. In stark contrast to the cramped machines around it, the front is left open with a space taped off around the front. "
     # b "I'm lost trying to work out what kind of game it is while Senpai runs up to the display, turning it on and standing in the middle of the play area. "
-    b " Senpai ciągnie mnie za nadgarstek do jednej z największych gier w salonie arcade. W kompletnym kontraście do zatłoczonych maszyn wokół, przód jest pozostawiony w wolnej przestrzeni zaklepanej wokół. "
+    b "Senpai ciągnie mnie za nadgarstek do jednej z największych gier. W kontraście do powciskanych maszyn dookoła, przód jest otwarty z wolną przestrzenią. "
     b "Gubię się próbując rozpracować co to za gra, kiedy Senpai podbiega do wyświetlacza, włączając go i stojąc w środku miejsca do grania. "
 # game/script/12.rpy:311
 translate polish cg_cat_play_dancing_machine_2a58f37d:
@@ -546,7 +546,7 @@ translate polish cg_cat_play_dancing_machine_2a58f37d:
     # b "A figure appears on the screen that mirrors Senpai's position in front of it. Wait— how can he control it that far away from the machine? "
     # b "Senpai puts on the same pose as the virtual figure. He starts to dance as the music kicks in. "
     b "Figura, która naśladuje pozycję Senpai'a pojawia się na ekranie przed nim. Czekaj- jak udaje mu się ją kontrolować tak daleko od maszyny? "
-    b "Senpai pokazuje tą samą pozę co wirtualna figura. Zaczyna tańczyć kiedy muzyka zaczyna grać. "
+    b "Senpai powtarza pozę wirtualnej figury i zaczyna tańczyć wraz z muzyką."
 # game/script/12.rpy:313
 translate polish cg_cat_play_dancing_machine_0bda5b1d:
 
