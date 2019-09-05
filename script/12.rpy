@@ -446,13 +446,13 @@ translate polish s12_accept_a5ebae82:
     # voice voice_file.lpdcat(12,27)
     # lpdcat normal "\"Wha— Only one of impure heart would ever twist my words in such lecherous ways!\" "
     voice voice_file.lpdcat(12,27)
-    lpdcat normal ""
+    lpdcat normal "\"Co- Tylko ktoś o nieczystym sercu przeręciłby moje słowa w tak lubieżny sposób!\" "
 
 # game/script/12.rpy:253
 translate polish s12_accept_4d96b762:
 
     # avt "\"That's only because you made it sound shady!\" "
-    avt ""
+    avt "\"To tylko dlatego, że sprawiłeś że to zabrzmiało podejrzanie!\" "
 
 # game/script/12.rpy:255
 translate polish s12_accept_34f48ad7:
@@ -460,7 +460,7 @@ translate polish s12_accept_34f48ad7:
     # voice voice_file.lpdcat(12,28)
     # lpdcat laugh "\"He-heh. Whatever you think Liao. I'll just have to take you somewhere awesome then! Come with me!\" "
     voice voice_file.lpdcat(12,28)
-    lpdcat laugh ""
+    lpdcat laugh "\" He-he. Jak uważasz Liao. W takim razie zabiorę cię w jakieś fantastyczne miejsce! Chodź ze mną!\" "
 
 # game/script/12.rpy:264
 translate polish s12_accept_21f5b374:
@@ -468,7 +468,7 @@ translate polish s12_accept_21f5b374:
     # voice voice_file.lpdcat(12,29)
     # lpdcat normal "\"Hehe— You've never been here before, right?\" "
     voice voice_file.lpdcat(12,29)
-    lpdcat normal ""
+    lpdcat normal "\" Hehe- Nigdy wcześniej tu nie byłeś, prawda?\" "
 
 # game/script/12.rpy:266
 translate polish s12_accept_de08df56:
@@ -476,13 +476,13 @@ translate polish s12_accept_de08df56:
     # voice voice_file.lpdcat(12,30)
     # lpdcat laugh "\"There's a bunch of places I'd like to go... but I want to take you to this one first. We're gonna have such a great time together Liao!\" "
     voice voice_file.lpdcat(12,30)
-    lpdcat laugh ""
+    lpdcat laugh "\"Jest kupa miejsc do których chciałbym pójść... ale chcę cię najpierw zabrać do tego. Będziemy się bardzo dobrze razem bawić Liao!\" "
 
 # game/script/12.rpy:268
 translate polish s12_accept_f97af424:
 
     # avt "\"W-{w=0.2}Where are we going?\" "
-    avt ""
+    avt "\"W-{w=0.2}Gdzie my idziemy?\" "
 
 # game/script/12.rpy:270
 translate polish s12_accept_1aa6dfba:
@@ -490,19 +490,19 @@ translate polish s12_accept_1aa6dfba:
     # voice voice_file.lpdcat(12,31)
     # lpdcat laugh "\"You'll find out soon enough!\" "
     voice voice_file.lpdcat(12,31)
-    lpdcat laugh ""
+    lpdcat laugh "\"Niedługo się dowiesz!\" "
 
 # game/script/12.rpy:276
 translate polish s12_accept_2f078213:
 
     # b "Senpai's words are vague. I was getting worried he really was going to take me somewhere shady. But, in the end he leads me to an arcade that stretches across the basement of a department store. "
-    b ""
+    b "Słowa Senpai'a były niejasne. Zaczynałem się martwić, że naprawdę zabiera mnie w jakieś podejrzane miejsce. Jednak ostatecznie prowadzi mnie do salonu gier, który rozciąga się przez piwnicę wydziału sklepowego."
 
 # game/script/12.rpy:282
 translate polish s12_accept_6732ece0:
 
     # avt "\"...Hmm? What's so cool about this place?\" "
-    avt ""
+    avt "\"...Hmm? Co jest takiego fajnego w tym miejscu?\" "
 
 # game/script/12.rpy:284
 translate polish s12_accept_bd7da379:
