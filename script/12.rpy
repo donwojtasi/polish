@@ -887,7 +887,7 @@ translate polish cg_cat_play_dancing_machine_02c09723:
     # voice voice_file.lpdcat(12,43)
     # lpdcat laugh "\"{i}Nothing{/i}. It's my rare chance to have a date with you Liao. I won't let anyone get in the way of that. And...\" "
     voice voice_file.lpdcat(12,43)
-    lpdcat laugh "{i}Nic{/i}. To moja rzadka szansa, by mieć z tobą randkę Liao. Nie pozwolę, żeby ktokolwiek stanął mi na drodze. I...\" "
+    lpdcat laugh "\"{i}Nic{/i}. To moja rzadka szansa, by mieć z tobą randkę Liao. Nie pozwolę, żeby ktokolwiek stanął mi na drodze. I...\" "
 
 # game/script/12.rpy:475
 translate polish cg_cat_play_dancing_machine_7b363b80:
@@ -909,19 +909,19 @@ translate polish cg_cat_play_dancing_machine_c35def9e:
     # voice voice_file.lpdcat(12,45)
     # lpdcat normal "\"It's no big deal. Hey, Liao! We should try that one!\" "
     voice voice_file.lpdcat(12,45)
-    lpdcat normal ""
+    lpdcat normal "\"To nic wielkiego. Hej Liao! Powinieneś sprawdzić ten!\" "
 
 # game/script/12.rpy:485
 translate polish cg_cat_play_dancing_machine_5039ad6f:
 
     # b "I see through Senpai's abysmal attempt at changing the topic. "
-    b ""
+    b "Przejrzałem na wylot beznadziejną próbę zmienienia tematu Senpai'a. "
 
 # game/script/12.rpy:487
 translate polish cg_cat_play_dancing_machine_0381aa70:
 
     # avt "\"Senpai wait, you're leaving?\" "
-    avt ""
+    avt "\"Senpai czekaj, wyjeżdżasz?\" "
 
 # game/script/12.rpy:491
 translate polish cg_cat_play_dancing_machine_ddd6170d:
@@ -929,40 +929,40 @@ translate polish cg_cat_play_dancing_machine_ddd6170d:
     # voice voice_file.lpdcat(12,46)
     # lpdcat laugh "\"It's nothing at all. Don't worry, you've got nothing to do with it. Just a bad joke.\" "
     voice voice_file.lpdcat(12,46)
-    lpdcat laugh ""
+    lpdcat laugh "\"To naprawdę nic. Nie martw się, nie masz z tym nic wspólnego. To tylko zły żart.\" "
 
 # game/script/12.rpy:494
 translate polish cg_cat_play_dancing_machine_ef2c0135:
 
     # avt "\"It doesn't matter? I have nothing to do with it? How? Whether if it's you or Shu-chi Senpai that's leaving, it's something that matters to me!\" " with vshake
     # avt "\"You just made a phone call to have someone taken away by your mysterious secret service! He's going to think there's something between us for sure now!\" "
-    avt "" with vshake
-
+    avt "\"To nie ma znaczenia? Nie mam z tym nic wspólnego? Jak? Nieważne, czy to ty czy wyjeżdzasz, czy Shu-chi Senpai, to coś ma znaczenie dla mnie!\" " with vshake
+    avt "\"Właśnie wykonałeś telefon, żeby ktoś został zabrany przez tajemniczą sekretną usługę! Teraz na pewno pomyśli, że między nami coś jest!\" "
 # game/script/12.rpy:498
 translate polish cg_cat_play_dancing_machine_d2b3b02a:
 
     # voice voice_file.lpdcat(12,47)
     # lpdcat normal "\"Really... It doesn't matter. I'll clear things up, no problem at all!\" "
     voice voice_file.lpdcat(12,47)
-    lpdcat normal ""
+    lpdcat normal "\"Naprawdę... To nie ma znaczenia. Wszystko wyjaśnię, nie ma żadnego problemu!\" "
 
 # game/script/12.rpy:500
 translate polish cg_cat_play_dancing_machine_64249b4b:
 
     # avt "\"No problem?! What in the world could you say to explain that! ...You weren't like this before. What the hell's wrong with you Senpai?\" "
-    avt ""
+    avt "\"Nie ma problemu?! Co mógłbyś niby powiedzić, żeby to wyjaśnić!...Wcześniej taki nie byłeś. Co jest z tobą nie tak Senpai?\" "
 
 # game/script/12.rpy:502
 translate polish cg_cat_play_dancing_machine_2eb346dd:
 
     # avt "\"Ever since you came back after the Ching Ming break I've felt like somethings been wrong. What happened? I care about you! Please, tell me everything!\" "
-    avt ""
+    avt "\"Odkąd wróciłeś po przerwie Ching Ming czułem, że coś jest nie tak. Co się stało? Zależy mi na tobie! Proszę, powiedz mi wszystko!\" "
 
 # game/script/12.rpy:506
 translate polish cg_cat_play_dancing_machine_b7b0a689:
 
     # b "My raised voice blends into background of the noisy arcade. I take Senpai and pull him into a nearby corner. "
-    b ""
+    b "Mój podniesiony głos zlewa się z hałaśliwymi automatami. Łapię Senpai'a i zaciągam go w pobliski róg. "
 
 # game/script/12.rpy:510
 translate polish cg_cat_play_dancing_machine_21d240af:
@@ -970,45 +970,45 @@ translate polish cg_cat_play_dancing_machine_21d240af:
     # voice voice_file.lpdcat(12,48)
     # lpdcat difficult "\"Wha— What are you talking about? Liao, you're overreacting. I'm... well, I'm just upset over leaving. It's no big deal!\" "
     voice voice_file.lpdcat(12,48)
-    lpdcat difficult ""
+    lpdcat difficult "\"O- O czym ty mówisz? Liao przesadzasz. Ja... cóż, po prostu smutno mi, że muszę wyjechać. To nic wielkiego!\" "
 
 # game/script/12.rpy:512
 translate polish cg_cat_play_dancing_machine_0c630fde:
 
     # avt "\"Really, I don't think so. The past few day's you've been {i}different{/i}.\" "
-    avt ""
+    avt "\"Naprawdę, nie wierzę ci. Przez ostatnie dni byłeś {i}inny{/i}.\" "
 
 # game/script/12.rpy:514
 translate polish cg_cat_play_dancing_machine_bffdc448:
 
     # avt "\"To begin with, you haven't even been really trying to come and spend time with me. Sure, it's exam week but it's not that hard.\" "
     # avt "\"Then yesterday you straight up asked to go out with me out of the blue... Now you're telling me you might be leaving. It doesn't make sense.\" "
-    avt ""
-
+    avt "\"Przede wszystkim, nie próbowałeś za bardzo przyjść i spędzić ze mną czasu. Pewnie, to był tydzień egzaminacyjny, ale to nie jest aż takie trudne.\" "
+    avt "\"Potem wczoraj nagle wprost zapytałeś mnie, czy chcę z tobą wyjść... Teraz mówisz mi, że możliwe, że wyjeżdżasz. To nie ma sensu.\" "
 # game/script/12.rpy:516
 translate polish cg_cat_play_dancing_machine_908dbbd3:
 
     # avt "\"I don't know whether it's you or Shu-chi that's leaving. But no matter who it is, you won't be able to date me.\" "
-    avt ""
+    avt "\"Nie wiem czy to ty wyjeżdżasz, czy Shu-Chi. Ale nieważne kto to, nie będziesz mógł się ze mną umawiać.\" "
 
 # game/script/12.rpy:518
 translate polish cg_cat_play_dancing_machine_76bf23a7:
 
     # avt "\"You took me to a place that's specifically popular among the guys at dance club then made a show over kicking out one of your admirers in a way that {i}everyone's{/i} \ going to misunderstand.\" "
     # avt "\"Senpai, I know you're smart enough to have thought this through...\" "
-    avt ""
-
+    avt "\"Zabrałeś mnie w miejsce, które jest szczególnie popularne wśród gości z klubu tanecznego, potem zrobiłeś szopkę wykopując jednego z twoich adoratorów w sposób, który {i}wszyscy{/i} \ źle zrozumieją.\" "
+    avt "\"Senpai, wiem, że jesteś wystarczająco mądry, żeby to przemyśleć...\" "
 # game/script/12.rpy:523
 translate polish cg_cat_play_dancing_machine_f5ada393:
 
     # avt "\"If you really did this on purpose...\" "
-    avt ""
+    avt "\"Jeśli naprawdę zrobiłeś to specjalnie...\" "
 
 # game/script/12.rpy:526
 translate polish cg_cat_play_dancing_machine_6768f5e6:
 
     # avt "\"Something must be up! Please tell me!\" " with vshake
-    avt "" with vshake
+    avt "\"Coś musi być na rzeczy! Proszę, powiedz mi!\" " with vshake
 
 # game/script/12.rpy:528
 translate polish cg_cat_play_dancing_machine_8a1f18a5:
@@ -1016,28 +1016,28 @@ translate polish cg_cat_play_dancing_machine_8a1f18a5:
     # voice voice_file.lpdcat(12,49)
     # lpdcat difficult "\"Liao...\" "
     voice voice_file.lpdcat(12,49)
-    lpdcat difficult ""
+    lpdcat difficult "\"Liao...\" "
 
 # game/script/12.rpy:532
 translate polish cg_cat_play_dancing_machine_f9afad63:
 
     # b "Senpai avoids my eyes. "
-    b ""
+    b "Senpai unika mojego wzroku. "
 
 # game/script/12.rpy:534
 translate polish cg_cat_play_dancing_machine_8febc97b:
 
     # avt "\"I'm not in a relationship with Senpai, and I can't go to Miaoli with you... So maybe I don't have the right to ask this from you...\" "
     # avt "\"But you {i}lived{/i} \ in my home for over a month. I'd hope that we're at least close enough for you to tell me. If you are leaving, I'd like to know why...\" "
-    avt ""
-
+    avt "\"Nie jestem w związku z Senpai'em i nie mogę pojechać z tobą do Miaoli... Więc może nie mam prawa cię o to prosić...\" "
+    avt "\"Ale {i}mieszkałeś{/i} w moim domu ponad miesiąc. Myślałem, że jesteśmy sobie na tyle bliscy, żebyś mi powiedział. Jeśli wyjeżdżasz, chcę wiedzieć dlaczego...\" "
 # game/script/12.rpy:541
 translate polish cg_cat_play_dancing_machine_554e93ce:
 
     # voice voice_file.lpdcat(12,50)
     # lpdcat difficult "\"I— Sorry, Liao. It's not that I don't want to tell you. Just...\" "
     voice voice_file.lpdcat(12,50)
-    lpdcat difficult ""
+    lpdcat difficult "\"Ja- Przepraszam, Liao. Nie chodzi o to, że nie chcę ci powiedzieć. Po prostu...\" "
 
 # game/script/12.rpy:543
 translate polish cg_cat_play_dancing_machine_c4a1d29c:
@@ -1045,13 +1045,13 @@ translate polish cg_cat_play_dancing_machine_c4a1d29c:
     # voice voice_file.lpdcat(12,51)
     # lpdcat difficult "\"I don't want to force you to go to Miaoli with me... I can take care of my own \nbusiness.\" "
     voice voice_file.lpdcat(12,51)
-    lpdcat difficult ""
+    lpdcat difficult "\"Nie chcę cię zmuszać, żebyś pojechał ze mną do Miali... Umiem zadbać o swoje \nsprawy.\" "
 
 # game/script/12.rpy:545
 translate polish cg_cat_play_dancing_machine_b4029453:
 
     # avt "\"Still, I want to know.\" "
-    avt ""
+    avt "\"Mimo wszystko, chcę wiedzieć.\" "
 
 # game/script/12.rpy:547
 translate polish cg_cat_play_dancing_machine_8a637f9f:
@@ -1059,13 +1059,13 @@ translate polish cg_cat_play_dancing_machine_8a637f9f:
     # voice voice_file.lpdcat(12,52)
     # lpdcat serious "\"Ok... I'll tell you. Just, promise me one thing.\" "
     voice voice_file.lpdcat(12,52)
-    lpdcat serious ""
+    lpdcat serious "\"Dobrze... Powiem ci. Tylko obiecaj mi jedno.\" "
 
 # game/script/12.rpy:549
 translate polish cg_cat_play_dancing_machine_8a16379d:
 
     # avt "\"Name it.\" "
-    avt ""
+    avt "\"Powiedz tylko co.\" "
 
 # game/script/12.rpy:551
 translate polish cg_cat_play_dancing_machine_3bcfbc99:
@@ -1073,13 +1073,13 @@ translate polish cg_cat_play_dancing_machine_3bcfbc99:
     # voice voice_file.lpdcat(12,53)
     # lpdcat serious "\"Don't let what I tell you change your decision on helping me. It'd be best to forget what I say right away if you can. I know that you coming or not depends on your family back home...\" "
     voice voice_file.lpdcat(12,53)
-    lpdcat serious ""
+    lpdcat serious "\"Nie pozwól, by to co ci powiem zmieniło twoją decyzję co do pomagania mi. Byłoby najlepiej, gdybyś od razu zapomniał to, co ci powiem. Wiem, że to czy pojedziesz czy nie zależy od twojej rodziny...\" "
 
 # game/script/12.rpy:553
 translate polish cg_cat_play_dancing_machine_8ff96d9a:
 
     # avt "\"I'll work on it. No matter what, I want to know what's going on...\" "
-    avt ""
+    avt "\"Popracuję nad tym. Nieważne, co się stanie chcę wiedzieć co się dzieje...\" "
 
 # game/script/12.rpy:559
 translate polish cg_cat_play_dancing_machine_a8e5a40f:
@@ -1087,7 +1087,7 @@ translate polish cg_cat_play_dancing_machine_a8e5a40f:
     # voice voice_file.lpdcat(12,54)
     # lpdcat normal "\"Well. It's not a big deal.\" "
     voice voice_file.lpdcat(12,54)
-    lpdcat normal ""
+    lpdcat normal "\"Cóż. To nic wielkiego.\" "
 
 # game/script/12.rpy:561
 translate polish cg_cat_play_dancing_machine_70df493b:
@@ -1095,13 +1095,13 @@ translate polish cg_cat_play_dancing_machine_70df493b:
     # voice voice_file.lpdcat(12,55)
     # lpdcat serious "\"It's just that it won't be too long until my Fudegong looses the last of his divine power. I want to be there with him in his last days. That's all.\" "
     voice voice_file.lpdcat(12,55)
-    lpdcat serious ""
+    lpdcat serious "\"Po prostu niedługo mój Fudegong utraci resztki swojej boskiej mocy. Chcę z nim być w jego ostatnie dni. To wszystko.\" "
 
 # game/script/12.rpy:563
 translate polish cg_cat_play_dancing_machine_f51f0117:
 
     # avt "\"...What's going to happen to him?\" "
-    avt ""
+    avt "\"...Co się z nim stanie?\" "
 
 # game/script/12.rpy:566
 translate polish cg_cat_play_dancing_machine_821c84a2:
@@ -1111,27 +1111,27 @@ translate polish cg_cat_play_dancing_machine_821c84a2:
     # lpdcat difficult "\"They'll still be around somewhere even if he looses his godship, they just won't {i}exist{/i} \ anymore... After all, a God of Soil doesn't exist if no one believes they do.\" "
     # lpdcat difficult "\"One day they might recover if someone goes to worship them though.\" "
     voice voice_file.lpdcat(12,56)
-    lpdcat difficult ""
-
-# game/script/12.rpy:568
+    lpdcat difficult "\"Oni... umm... zdegradują go może do {font=tl/polish/NotoSans-SemiCondensedBold.ttf}boga ziemi{/font}.\" "
+    lpdcat difficult "\"Wciąż będą gdzieś w pobliżu nawet, jeśli straci swoją boskość, po prostu oni przestaną {i}istnieć{/i}... \ Mimo wszystko, Górski Bóg nie istnieje jeśli nikt w niego nie wierzy.\" "
+    lpdcat difficult "\"Pewnego dnia jednak mogą wrócić, jeśli ktoś przyjdzie ich czcić.\" "# game/script/12.rpy:568
 translate polish cg_cat_play_dancing_machine_a0229d08:
 
     # voice voice_file.lpdcat(12,57)
     # lpdcat difficult "\"But, even if they do come back, they'll probably end up losing all their memories...\" "
     voice voice_file.lpdcat(12,57)
-    lpdcat difficult ""
+    lpdcat difficult "\"Ale nawet jeśli wrócą, prawdopodobnie stracą wszystkie swoje wspomnienia...\" "
 
 # game/script/12.rpy:570
 translate polish cg_cat_play_dancing_machine_c6c6a398:
 
     # b "In other words, his Fudegong will have forgotten all about him? "
-    b ""
+    b "Innymi słowy, jego Fudegong całkowicie o nim zapomni?"
 
 # game/script/12.rpy:574
 translate polish cg_cat_play_dancing_machine_30dcc94e:
 
     # avt "\"What about you? What will happen to you?\" "
-    avt ""
+    avt "\"A co z tobą? Co stanie się z tobą?\" "
 
 # game/script/12.rpy:576
 translate polish cg_cat_play_dancing_machine_e964a9d9:
@@ -1140,13 +1140,13 @@ translate polish cg_cat_play_dancing_machine_e964a9d9:
     # lpdcat normal "\"I'll turn back to a yaoguai. Don't worry, it won't change who I am. I just won't be a guardian tiger anymore.\" "
     # lpdcat normal "\"Hmm... It's kind of like a company going bankrupt, isn't it? The boss takes the fall while everyone else goes their separate ways.\" "
     voice voice_file.lpdcat(12,58)
-    lpdcat normal ""
-
+    lpdcat normal "\"Znowu stanę się yaoguai. Nie martw się, to nie zmieni tego, kim jestem. Po prostu już nie będę tygrysim strażnikiem.\" "
+    lpdcat normal "\"Hmm... To coś  podobnego, jak firma, która zbankrutuje, prawda? Szef ponosi odpowiedzialność, kiedy wszyscy inni idą w swoją stronę.\" "
 # game/script/12.rpy:578
 translate polish cg_cat_play_dancing_machine_1ddcc1a3:
 
     # avt "\"If it'd take us years to restore the temple, then how come it's got this bad so rapidly?\" "
-    avt ""
+    avt "\"Jeśli zajęłoby lata, by przywrócić świątynie, czemu tak gwałtownie aż tak się pogorszyło?\" "
 
 # game/script/12.rpy:580
 translate polish cg_cat_play_dancing_machine_01be4d96:
@@ -1154,7 +1154,7 @@ translate polish cg_cat_play_dancing_machine_01be4d96:
     # voice voice_file.lpdcat(12,59)
     # lpdcat serious "\"I'd say it takes about two years for a temple to gain a stable following. But as long as there's a priest taking care of the temple it's not hard to maintain.\" "
     voice voice_file.lpdcat(12,59)
-    lpdcat serious ""
+    lpdcat serious "\"Powiedziałbym, że to zajmuje około dwa lata, by świątynia zyskała stabilne poparcie. Ale dopóki mamy kapłana, który zajmuje się świątynią nie jest trudno ją utrzymywać.\" "
 
 # game/script/12.rpy:582
 translate polish cg_cat_play_dancing_machine_ec29959e:
@@ -1162,13 +1162,13 @@ translate polish cg_cat_play_dancing_machine_ec29959e:
     # voice voice_file.lpdcat(12,60)
     # lpdcat serious "\"After all there's a huge difference between a neglected temple and an deserted one. People think about it whether they want to pray or not. If they see someone there they'll assume the temple has an active god.\" "
     voice voice_file.lpdcat(12,60)
-    lpdcat serious ""
+    lpdcat serious "\"Mimo wszystko jest ogromna różnica między zaniedbaną świątynią, a tą opuszczoną. Ludzie zastanawiają się, czy chcą się modlić, czy nie. Jeśli kogoś tam zobaczą uznają, że świątynia ma aktywnego boga.\" "
 
 # game/script/12.rpy:584
 translate polish cg_cat_play_dancing_machine_0c5e9592:
 
     # avt "\"So as long as I'm there, the local God of Soil won't vanish?\" "
-    avt ""
+    avt "\"Więc dopóki tam będę, lokalny Górski Bóg nie zniknie?\" "
 
 # game/script/12.rpy:586
 translate polish cg_cat_play_dancing_machine_ad91d9c4:
@@ -1176,13 +1176,13 @@ translate polish cg_cat_play_dancing_machine_ad91d9c4:
     # voice voice_file.lpdcat(12,61)
     # lpdcat serious "\"Pretty much.\" "
     voice voice_file.lpdcat(12,61)
-    lpdcat serious ""
+    lpdcat serious "\"Mniej więcej.\" "
 
 # game/script/12.rpy:588
 translate polish cg_cat_play_dancing_machine_2ecb157d:
 
     # avt "\"...How much time do we have?\" "
-    avt ""
+    avt "\"...Ile jeszcze mamy czasu?\" "
 
 # game/script/12.rpy:590
 translate polish cg_cat_play_dancing_machine_915d1c0c:
@@ -1190,7 +1190,7 @@ translate polish cg_cat_play_dancing_machine_915d1c0c:
     # voice voice_file.lpdcat(12,62)
     # lpdcat difficult "\"I'm not sure. It's... getting close. Probably a month at most. So yeah, I'll have to go back in the next few days...\" "
     voice voice_file.lpdcat(12,62)
-    lpdcat difficult ""
+    lpdcat difficult "\"Nie jestem pewny. Jest...coraz bliżej. Prawdopodobnie najwyżej miesiąc. Więc no. Za kilka dni muszę tam wrócić...\" "
 
 # game/script/12.rpy:592
 translate polish cg_cat_play_dancing_machine_21765059:
@@ -1198,13 +1198,13 @@ translate polish cg_cat_play_dancing_machine_21765059:
     # voice voice_file.lpdcat(12,63)
     # lpdcat serious "\"I know you wanted to wait until summer break, but that can't happen. I don't expect you to give up your finals just to come with me. So... It's better we stop here.\" "
     voice voice_file.lpdcat(12,63)
-    lpdcat serious ""
+    lpdcat serious "\"Wiem, że chciałeś poczekać do letniej przerwy, ale to niemożliwe. Nie oczekuję, że rzucisz swoje egzaminy końcowe tylko po to, żeby ze mną pojechać. Więc... Lepiej, zatrzymajmy się tutaj.\" "
 
 # game/script/12.rpy:596
 translate polish cg_cat_play_dancing_machine_2501d905:
 
     # avt "\"Stop here?\" " with vshake
-    avt "" with vshake
+    avt "\"Zatrzymajmy się tutaj?\" " with vshake
 
 # game/script/12.rpy:598
 translate polish cg_cat_play_dancing_machine_5df6a53c:
@@ -1212,19 +1212,19 @@ translate polish cg_cat_play_dancing_machine_5df6a53c:
     # voice voice_file.lpdcat(12,64)
     # lpdcat normal "\"I've... just caused you trouble Liao. Even the old man would be happy to see me go.\" "
     voice voice_file.lpdcat(12,64)
-    lpdcat normal ""
+    lpdcat normal "\"Ja... sprawiłem ci wiele problemów Liao. Nawet staruszek cieszyłby się, że odchodzę."
 
 # game/script/12.rpy:601
 translate polish cg_cat_play_dancing_machine_954be41a:
 
     # avt "\"That's not true!\" " with vshake
-    avt "" with vshake
+    avt "\"To nieprawda!\" " with vshake
 
 # game/script/12.rpy:603
 translate polish cg_cat_play_dancing_machine_87c350e9:
 
     # avt "\"You really have to go so soon? That's so sudden... Your God of Soil is almost gone. {i}Why{/i} \ did you keep this from me?\" "
-    avt ""
+    avt "\"Naprawdę musisz tak szybko jechać? To takie nagłe... Twój Górski Bóg prawie zniknął. {i}Dlaczego{/i} \ to przede mną ukrywałeś?\" "
 
 # game/script/12.rpy:605
 translate polish cg_cat_play_dancing_machine_98ad3753:
@@ -1232,13 +1232,13 @@ translate polish cg_cat_play_dancing_machine_98ad3753:
     # voice voice_file.lpdcat(12,65)
     # lpdcat normal "\"If I said so earlier, would that have changed anything? Would you have come to Miaoli with me?\" "
     voice voice_file.lpdcat(12,65)
-    lpdcat normal ""
+    lpdcat normal "\"Gdybym powiedział ci o tym wcześniej, zmieniłoby to coś? Pojechałbyś wtedy ze mną do Miaoli?\" "
 
 # game/script/12.rpy:607
 translate polish cg_cat_play_dancing_machine_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/12.rpy:613
 translate polish cg_cat_play_dancing_machine_adb3d9b5:
@@ -1247,15 +1247,15 @@ translate polish cg_cat_play_dancing_machine_adb3d9b5:
     # lpdcat normal "\"See. I didn't want to put you under more pressure.\" "
     # lpdcat normal "\"What? You want me to remind you every day? \"We're running out of time Liao!\" Oh, I'm {i}sure{/i} \ that would have been better.\" "
     voice voice_file.lpdcat(12,66)
-    lpdcat normal ""
-
+    lpdcat normal "\"Zrozum. Nie chcę, żebyś był pod jeszcze większą presją.\" "
+    lpdcat normal "\"Co? Mam ci codziennie przypominać? \"Kończy nam się czas Liao!\" Och, jestem {i}pewny{/i} \, że tak byłoby lepiej.\" "
 # game/script/12.rpy:615
 translate polish cg_cat_play_dancing_machine_645c6577:
 
     # voice voice_file.lpdcat(12,67)
     # lpdcat difficult "\"And honestly, I did change. Before Ching Ming, sure I {i}had{/i} \ Yan Shu-chi's memories but that didn't mean I {i}felt{/i} \ them. I didn't understand how much family meant... The pressures you're under.\" "
     voice voice_file.lpdcat(12,67)
-    lpdcat difficult ""
+    lpdcat difficult "\"I szczerze, zmieniłem się. Przed Ching Ming, pewnie {i}miałem{/i} \ wspomnienia Yan Shu-chi, ale to nie znaczyło, że je {i}czułem{/i}. \ Nie rozumiałem jak wiele znaczyła rodzina... Pod jaką jesteś presją.\" "
 
 # game/script/12.rpy:617
 translate polish cg_cat_play_dancing_machine_fadb3e27:
