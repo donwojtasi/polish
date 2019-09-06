@@ -566,20 +566,20 @@ translate polish cg_cat_play_dancing_machine_c520b895:
 
     # b "Tech these days really has come a long way... I still remember those arcade dance \npads. "
     # b "Senpai keeps going, getting \"Perfect\" after \"Perfect\". Even without playing it I can tell it's super hard to be this perfect. "
-    b ""
-
+    b "Technologia w tych czasach przebyła naprawdę daleką drogę... Wciąż pamiętam te arkadowe \nmaty taneczne. "
+    b "Senpai tańczy dalej dostając \"Idealnie\" za \"Idealnie\". Nawet nie grając domyślam, że jest super trudno być tak perfekcyjnym. "
 # game/script/12.rpy:321
 translate polish cg_cat_play_dancing_machine_50fda23b:
 
     # b "When Senpai finishes the song I can't help but clap along with the crowd that had formed around him. "
     # b "Even though the choreography is easier than what we're used, to it's still impressive how well he pulled it off within the framework of the game. "
-    b ""
-
+    b "Kiedy Senpai kończy piosenkę nie mogąc się powstrzymać klaszczę razem z uformowanym wokół niego tłumem."
+    b "Mimo, że choreografia jest łatwiejsza niż ta do której przywykliśmy, to wciąż imponujące jak dobrze to odwalił w ramach gry. "
 # game/script/12.rpy:323
 translate polish cg_cat_play_dancing_machine_02cb4e99:
 
     # b "His moves were so fluid that you could barely tell he was even playing a game. Senpai really is awesome. "
-    b ""
+    b "Jego ruchy były tak płynne, że ledwo dało się odczuć, że w ogóle gra w grę. Senpai jest naprawdę niesamowity. "
 
 # game/script/12.rpy:331
 translate polish cg_cat_play_dancing_machine_fa469a13:
@@ -587,34 +587,34 @@ translate polish cg_cat_play_dancing_machine_fa469a13:
     # voice voice_file.lpdcat(12,34)
     # lpdcat laugh "\"Alright, now it's your turn Liao!\" "
     voice voice_file.lpdcat(12,34)
-    lpdcat laugh ""
+    lpdcat laugh "\"Dobra, teraz twoja kolej Liao!\" "
 
 # game/script/12.rpy:335
 translate polish cg_cat_play_dancing_machine_8f3ed1dd:
 
     # avt "\"Hey! There's no way I can be as good as you!\" "
-    avt ""
+    avt "\"Hej! Nie ma szans żebym był tak dobry jak ty!\" "
 
 # game/script/12.rpy:337
 translate polish cg_cat_play_dancing_machine_142091cc:
 
     # b "Sure, I'm a dancer but how am I supposed to know the routines in the game. I can't just go in there and expect to be great without practicing it a few times. "
     # b "Not to mention I'll be going in after Senpai, talk about pressure! "
-    b ""
-
+    b "Pewnie, jestem tanczerzem, ale skąd mam znać układy taneczne w grze. Nie mogę po prostu tam pójść i oczekiwać, że będę dobry bez przećwiczenia tego kilka razy. "
+    b "Nie wspominając, że wejdę tam po Senpai'u, jaka to będzie presja! "
 # game/script/12.rpy:342
 translate polish cg_cat_play_dancing_machine_200c269b:
 
     # voice voice_file.lpdcat(12,35)
     # lpdcat normal "\"It's {i}fiiiiine{/i}. It's not like I expect your first time to be good. Don't worry, I won't laugh!\" "
     voice voice_file.lpdcat(12,35)
-    lpdcat normal ""
+    lpdcat normal "\"Będzie {i}doobrze{/i}. Przecież nie oczekuję, że twoja pierwsza próba będzie dobra. Nie martw się, nie będę się śmiał!\" "
 
 # game/script/12.rpy:344
 translate polish cg_cat_play_dancing_machine_082e6931:
 
     # avt "\"Everyone's watching!\" "
-    avt ""
+    avt "\"Wszyscy patrzą!\" "
 
 # game/script/12.rpy:350
 translate polish cg_cat_play_dancing_machine_a0dd6686:
@@ -622,20 +622,20 @@ translate polish cg_cat_play_dancing_machine_a0dd6686:
     # voice voice_file.lpdcat(12,36)
     # lpdcat laugh "\"There's a first time for everyone! COME! ON! LIAO!\" " with vshake
     voice voice_file.lpdcat(12,36)
-    lpdcat laugh "" with vshake
+    lpdcat laugh "\"Dla każdego przychodzi ta pierwsza próba! DAWAJ! LIAO!\" " with vshake
 
 # game/script/12.rpy:356
 translate polish cg_cat_play_dancing_machine_0945cf05:
 
     # b "Despite my protests, Senpai shoves me in front of the machine and forces me to give it a go. "
     # b "He picks something \"Easy\" for me but I still struggle to keep up with it on my first go, not to mention needing to work out the limits of the machine as I do so. In the end, I barely pass the track. "
-    b ""
-
+    b "Pomimo moich protestów Senpai wpycha mnie na przód maszyny i zmusza mnie bym dał jej szansę. "
+    b "Wybiera dla mnie coś \"Łatwego\", ale wciąż wysilam się żeby z nią nadążyć podczas mojej pierwszej próby, nie wpominając, że musiałem  podczas tego rozpracować limity maszyny. W końcu ledwie kończę piosenkę. "
 # game/script/12.rpy:361
 translate polish cg_cat_play_dancing_machine_eba4a972:
 
     # avt "\"I can't do it...\" "
-    avt ""
+    avt "\"Nie dam rady...\" "
 
 # game/script/12.rpy:365
 translate polish cg_cat_play_dancing_machine_ad387857:
@@ -643,7 +643,7 @@ translate polish cg_cat_play_dancing_machine_ad387857:
     # voice voice_file.lpdcat(12,37)
     # lpdcat normal "\"Most people don't even pass their first go~\" "
     voice voice_file.lpdcat(12,37)
-    lpdcat normal ""
+    lpdcat normal "\"Większości ludzi nie udaje się nawet ukończyć swojej pierwszej próby~\" "
 
 # game/script/12.rpy:367
 translate polish cg_cat_play_dancing_machine_44eb1a48:
@@ -651,13 +651,13 @@ translate polish cg_cat_play_dancing_machine_44eb1a48:
     # voice voice_file.jiahao(12,1)
     # question "\"Oh hey, Liao and Shu-Chi? You guys sure look like you're having fun!\" "
     voice voice_file.jiahao(12,1)
-    question ""
+    question "\"Ooo hej Liao i Shu-Chi? Wygląda na to, że dobrze się bawicie!\" "
 
 # game/script/12.rpy:370
 translate polish cg_cat_play_dancing_machine_11ca2ff0:
 
     # b "It's a familiar voice. I turn around to see Jiahao. "
-    b ""
+    b "To znajomy głos. Odwracam się i widzę Jiahao. "
 
 # game/script/12.rpy:372
 translate polish cg_cat_play_dancing_machine_1ab841f1:
@@ -665,7 +665,7 @@ translate polish cg_cat_play_dancing_machine_1ab841f1:
     # voice voice_file.jiahao(12,2)
     # jiahao "\"You did alright but Shu-Chi Senpai was awesome! I don't think I've ever seen anyone that good at the game before! How long have you been practicing?\" "
     voice voice_file.jiahao(12,2)
-    jiahao ""
+    jiahao "\"Nienajgorzej ci poszło, ale Shu-Chi Senpai był niesamowity! Nigdy wcześniej nie widziałem, żeby ktoś był tak dobry w tą grę! Jak długo ćwiczyłeś?\" "
 
 # game/script/12.rpy:380
 translate polish cg_cat_play_dancing_machine_bf671e1e:
@@ -673,7 +673,7 @@ translate polish cg_cat_play_dancing_machine_bf671e1e:
     # voice voice_file.lpdcat(12,38)
     # lpdcat laugh "\"Haha— I've practiced a bit at home. It's no big deal. It doesn't really need much space anyways.\" "
     voice voice_file.lpdcat(12,38)
-    lpdcat laugh ""
+    lpdcat laugh "\"Haha- Trochę ćwiczyłem w domu. To nic wielkiego. I tak nie potrzeba za dużo miejsca.\" "
 
 # game/script/12.rpy:382
 translate polish cg_cat_play_dancing_machine_81004c84:
@@ -681,13 +681,13 @@ translate polish cg_cat_play_dancing_machine_81004c84:
     # voice voice_file.jiahao(12,3)
     # jiahao "\"Liao... that was your first time, right? You did pretty good.\" "
     voice voice_file.jiahao(12,3)
-    jiahao ""
+    jiahao "\"Liao... to była twoja pierwsza próba, prawda? Bardzo dobrze ci poszło.\" "
 
 # game/script/12.rpy:385
 translate polish cg_cat_play_dancing_machine_9c48a5c1:
 
     # avt "\"Nah, I know I sucked. No need to try and make me feel better.\" " with vshake
-    avt "" with vshake
+    avt "\"Nie, wiem, że byłem beznadziejny. Nie próbuj sprawić żebym poczuł się lepiej.\" " with vshake
 
 # game/script/12.rpy:387
 translate polish cg_cat_play_dancing_machine_8c08916d:
@@ -695,13 +695,13 @@ translate polish cg_cat_play_dancing_machine_8c08916d:
     # voice voice_file.jiahao(12,4)
     # jiahao "\"I'm not trying to. Compared to this...\" "
     voice voice_file.jiahao(12,4)
-    jiahao ""
+    jiahao "\" Nie próbuję. W porównaniu do tego...\" "
 
 # game/script/12.rpy:392
 translate polish cg_cat_play_dancing_machine_96d98c1b:
 
     # b "Jiahao pulls me to the side. "
-    b ""
+    b "Jiahao bierze mnie na stronę. "
 
 # game/script/12.rpy:396
 translate polish cg_cat_play_dancing_machine_4a9e5e59:
@@ -709,25 +709,25 @@ translate polish cg_cat_play_dancing_machine_4a9e5e59:
     # voice voice_file.jiahao(12,5)
     # jiahao "\"Liao, you said you weren't dating Shu-chi Senpai, right? Because you two here together totally looks like a date dude.\" "
     voice voice_file.jiahao(12,5)
-    jiahao ""
+    jiahao "\"Liao, mówiłeś, że nie umawiasz się z Shu-chi Senpai'em, prawda? Bo wy dwaj razem tutaj. To totalnie wygląda jak randka stary.\" "
 
 # game/script/12.rpy:400
 translate polish cg_cat_play_dancing_machine_25e4a0f5:
 
     # avt "\"Uhh...\" " with hshake
-    avt "" with hshake
+    avt "\"Uhh...\" " with hshake
 
 # game/script/12.rpy:404
 translate polish cg_cat_play_dancing_machine_d6c68e74:
 
     # b "I stammer as I feel my face flush with embarrassment. "
-    b ""
+    b "Jąkam się, czując jak moja twarz czerwieni się ze wstydu. "
 
 # game/script/12.rpy:406
 translate polish cg_cat_play_dancing_machine_c822aba8:
 
     # avt "\"S-{w=0.2}Senpai just wanted to hang out and decided to take me here... There's really nothing going on.\" "
-    avt ""
+    avt "\"S-{w=0.2}Senpai po prostu chciał spędzić ze mną czas i zdecydował, że mnie tu zabierze... Naprawdę, nic między nami nie ma.\" "
 
 # game/script/12.rpy:408
 translate polish cg_cat_play_dancing_machine_49e8be2e:
@@ -736,31 +736,31 @@ translate polish cg_cat_play_dancing_machine_49e8be2e:
     # jiahao "\"Well Liao, it's not like I care. But you don't want people to think theres something between you guys, right?\" "
     # jiahao "\"People from the dance club come here all the time. See? Look over there.\" "
     voice voice_file.jiahao(12,6)
-    jiahao ""
-
+    jiahao "\"Cóż Liao, nie obchodzi mnie to. Ale chyba nie chcesz, żeby ludzi myśleli, że coś jest między wami, prawda?\" "
+    jiahao "\"Ludzie z klubu tanecznego cały czas tu przychodzą. Widzisz? Popatrz tam.\" "
 # game/script/12.rpy:410
 translate polish cg_cat_play_dancing_machine_fa4a8346:
 
     # b "I turn my head to see someone I recognise from dance club. "
-    b ""
+    b "Obracam głowę i widzę kogoś, kogo rozpoznaję z klubu tanecznego. "
 
 # game/script/12.rpy:412
 translate polish cg_cat_play_dancing_machine_6daf5257:
 
     # b "And considering he's staring right at me, I'd hazard a guess they're a member of Shu-Chi's fan club. "
-    b ""
+    b "I rozważając to, że gapi się na mnie zgaduję, że jest członkiem fanclubu Shu-Chi. "
 
 # game/script/12.rpy:417
 translate polish cg_cat_play_dancing_machine_3b23b615:
 
     # avt "\"Umm...\" "
-    avt ""
+    avt "\"Umm...\" "
 
 # game/script/12.rpy:419
 translate polish cg_cat_play_dancing_machine_10e4bef0:
 
     # b "I can't believe this... "
-    b ""
+    b "Nie mogę w to uwierzyć... "
 
 # game/script/12.rpy:423
 translate polish cg_cat_play_dancing_machine_21090df7:
@@ -768,25 +768,25 @@ translate polish cg_cat_play_dancing_machine_21090df7:
     # voice voice_file.jiahao(12,7)
     # jiahao "\"Just thought I'd let you know. Now behave yourself Liao. I'll see you later.\" "
     voice voice_file.jiahao(12,7)
-    jiahao ""
+    jiahao "\"Pomyślałem tylko, że dam ci znać. Zachowuj się Liao. Do zobaczenia później.\" "
 
 # game/script/12.rpy:425
 translate polish cg_cat_play_dancing_machine_0c155c3c:
 
     # avt "\"Oh... yeah...\" "
-    avt ""
+    avt "\"Ach... tak...\" "
 
 # game/script/12.rpy:429
 translate polish cg_cat_play_dancing_machine_11d84a0e:
 
     # b "I wave Jiahao goodbye and return back to Senpai. "
-    b ""
+    b "Macham Jiahao na pożegnanie i wracam do Senpai'a. "
 
 # game/script/12.rpy:434
 translate polish cg_cat_play_dancing_machine_5485b788:
 
     # avt "\"Hey... Senpai... mind if we go somewhere else?\" "
-    avt ""
+    avt "\"Hej... Senpai... moglibyśmy pójsć gdzie indziej?\" "
 
 # game/script/12.rpy:436
 translate polish cg_cat_play_dancing_machine_845f7a08:
@@ -794,19 +794,19 @@ translate polish cg_cat_play_dancing_machine_845f7a08:
     # voice voice_file.lpdcat(12,39)
     # lpdcat normal "\"Wha— I thought you were having fun.\" "
     voice voice_file.lpdcat(12,39)
-    lpdcat normal ""
+    lpdcat normal "\"Co- Myślałem, że dobrze się bawiłeś.\" "
 
 # game/script/12.rpy:438
 translate polish cg_cat_play_dancing_machine_2f16d9ff:
 
     # avt "\"Well...\" "
-    avt ""
+    avt "\"Cóż...\" "
 
 # game/script/12.rpy:440
 translate polish cg_cat_play_dancing_machine_5589f65e:
 
     # b "I glance towards the guy from dance club staring at me. "
-    b ""
+    b "Zerkam na  gapiącego się na mnie gościa z klubu tanecznego. "
 
 # game/script/12.rpy:442
 translate polish cg_cat_play_dancing_machine_b3c24fc7:
@@ -814,13 +814,13 @@ translate polish cg_cat_play_dancing_machine_b3c24fc7:
     # voice voice_file.lpdcat(12,40)
     # lpdcat laugh "\"Oh? That guy? Never mind them.\" "
     voice voice_file.lpdcat(12,40)
-    lpdcat laugh ""
+    lpdcat laugh "\"Ach? Ten gość? Nie przejmuj się nim.\" "
 
 # game/script/12.rpy:445
 translate polish cg_cat_play_dancing_machine_34fa1fcb:
 
     # avt "\"I mind...\" " with vshake
-    avt "" with vshake
+    avt "\" Nie potrafię...\" " with vshake
 
 # game/script/12.rpy:447
 translate polish cg_cat_play_dancing_machine_f8e49a76:
@@ -828,19 +828,19 @@ translate polish cg_cat_play_dancing_machine_f8e49a76:
     # voice voice_file.lpdcat(12,41)
     # lpdcat normal "\"Okay— Okay— Stay here and wait.\" "
     voice voice_file.lpdcat(12,41)
-    lpdcat normal ""
+    lpdcat normal "\"Dobrze- Okej- Poczekaj tutaj chwilę.\" "
 
 # game/script/12.rpy:451
 translate polish cg_cat_play_dancing_machine_93714ce7:
 
     # b "Senpai walks off to the side and makes a phone call. "
-    b ""
+    b "Senapi idzie na stronę i wykonuje telefon. "
 
 # game/script/12.rpy:453
 translate polish cg_cat_play_dancing_machine_b073b5e8:
 
     # avt "\"Senpai, is everything okay?\" "
-    avt ""
+    avt "\"Senpai, wszystko w porządku?\" "
 
 # game/script/12.rpy:457
 translate polish cg_cat_play_dancing_machine_f1627642:
@@ -848,38 +848,38 @@ translate polish cg_cat_play_dancing_machine_f1627642:
     # voice voice_file.lpdcat(12,42)
     # lpdcat laugh "\"Yep. Come on! Let's play~\" "
     voice voice_file.lpdcat(12,42)
-    lpdcat laugh ""
+    lpdcat laugh "\"Tak. Dawaj! Bawmy się~\" "
 
 # game/script/12.rpy:459
 translate polish cg_cat_play_dancing_machine_d71b1ba9:
 
     # b "I'm just about to ask what he was up to when... "
-    b ""
+    b "Właśnie miałem zapytać co knuje, kiedy... "
 
 # game/script/12.rpy:463
 translate polish cg_cat_play_dancing_machine_156822ee:
 
     # b "A man in a black suit wearing a pair of dark-tinted sunglasses approaches Shu-chi's admirer from behind, tapping him on the shoulder. "
     # b "Obviously terrified, he walks away with the man in black after a few words are exchanged. "
-    b ""
-
+    b "Mężczyzna w czarnym garniturze noszący parę przyciemnianych okularów przeciwsłonecznych podchodzi do adoratora od tyłu, klepiąc go po ramieniu. "
+    b "Po wymianie kilku słów przerażony adorator odchodzi z facetem w czerni. "
 # game/script/12.rpy:466
 translate polish cg_cat_play_dancing_machine_c9c02275:
 
     # b "No argument, no fight. The man in black just took them away without any dispute. "
-    b ""
+    b "Żadnej kłótni, ani walki. Facet w czerni po prostu wyprosił go bez żadnej sprzeczki. "
 
 # game/script/12.rpy:468
 translate polish cg_cat_play_dancing_machine_d2663355:
 
     # avt "\"............\" "
-    avt ""
+    avt "\"............\" "
 
 # game/script/12.rpy:471
 translate polish cg_cat_play_dancing_machine_0dc977e5:
 
     # avt "\"...Senpai, what did you do?\" " with vshake
-    avt "" with vshake
+    avt "\"...Senpai, coś ty zrobił?\" " with vshake
 
 # game/script/12.rpy:473
 translate polish cg_cat_play_dancing_machine_02c09723:
@@ -887,7 +887,7 @@ translate polish cg_cat_play_dancing_machine_02c09723:
     # voice voice_file.lpdcat(12,43)
     # lpdcat laugh "\"{i}Nothing{/i}. It's my rare chance to have a date with you Liao. I won't let anyone get in the way of that. And...\" "
     voice voice_file.lpdcat(12,43)
-    lpdcat laugh ""
+    lpdcat laugh "{i}Nic{/i}. To moja rzadka szansa, by mieć z tobą randkę Liao. Nie pozwolę, żeby ktokolwiek stanął mi na drodze. I...\" "
 
 # game/script/12.rpy:475
 translate polish cg_cat_play_dancing_machine_7b363b80:
@@ -895,13 +895,13 @@ translate polish cg_cat_play_dancing_machine_7b363b80:
     # voice voice_file.lpdcat(12,44)
     # lpdcat cute "\"...Maybe I'm leaving soon. So no matter what, I don't want to miss this chance.\" "
     voice voice_file.lpdcat(12,44)
-    lpdcat cute ""
+    lpdcat cute "\"Możliwe, że niedługo wyjeżdzam. Więc nieważne co się stanie, nie chcę stracić tej szansy.\" "
 
 # game/script/12.rpy:479
 translate polish cg_cat_play_dancing_machine_f8f0ad90:
 
     # avt "\"Leaving?\" " with flash
-    avt "" with flash
+    avt "\"Wyjeżdżasz?\" " with flash
 
 # game/script/12.rpy:481
 translate polish cg_cat_play_dancing_machine_c35def9e:
