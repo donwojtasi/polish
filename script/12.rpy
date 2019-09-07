@@ -1707,13 +1707,13 @@ translate polish s12_accept_03_47840db8:
 translate polish s12_accept_04_go_c30e5330:
 
     # avt "\"Oh, I see... Don't you want to spend some more time out together?\" "
-    avt ""
+    avt "\"Ach, rozumiem... Nie chcesz spędzić razem ze mną więcej czasu?\" "
 
 # game/script/12.rpy:835
 translate polish s12_accept_04_go_55dd9a7d:
 
     # b "Senpai shakes his head intensely in denial. "
-    b ""
+    b "Senpai trzęsie głową intenstwnie w geście zaprzeczenia. "
 
 # game/script/12.rpy:837
 translate polish s12_accept_04_go_740953d0:
@@ -1721,13 +1721,13 @@ translate polish s12_accept_04_go_740953d0:
     # voice voice_file.lpdcat(12,102)
     # lpdcat wronged "\"Not in the mood...\" "
     voice voice_file.lpdcat(12,102)
-    lpdcat wronged ""
+    lpdcat wronged "\"Nie jestem w nastroju...\" "
 
 # game/script/12.rpy:839
 translate polish s12_accept_04_go_473deaa9:
 
     # avt "\"Yeah, I'm not either really... Time to head off?\" "
-    avt ""
+    avt "\"Tak, ja w sumie też nie... Czas wyrzuszać?\" "
 
 # game/script/12.rpy:841
 translate polish s12_accept_04_go_25f07809:
@@ -1735,26 +1735,26 @@ translate polish s12_accept_04_go_25f07809:
     # voice voice_file.lpdcat(12,103)
     # lpdcat serious "\"Yep.\" "
     voice voice_file.lpdcat(12,103)
-    lpdcat serious ""
+    lpdcat serious "\"Tak.\" "
 
 # game/script/12.rpy:847
 translate polish s12_accept_04_go_56b90d36:
 
     # b "I leave the arcade with Senpai before taking a train, a bus, and then walking towards campus. "
-    b ""
+    b "Wychodzę z salonu gier z Senpai zanim pojadę pociągiem, albo busem, a potem idę w stronę kampusu. "
 
 # game/script/12.rpy:853
 translate polish s12_accept_04_go_f407c88c:
 
     # b "Senpai and I barely talk all the way, both troubled by our thoughts but having no idea where to begin. "
     # b "I'm still a little upset Senpai didn't tell me all of this before now, but I can't really argue with him over it. I probably couldn't help much anyway, even if he told me. "
-    b ""
+    b "Senpai i ja prawie nie rozmawiamy przez całą drogę, oboje zakłopotani naszymi myślami, ale nie mając pojęcia gdzie zacząć. "
 
 # game/script/12.rpy:855
 translate polish s12_accept_04_go_658e236f:
 
     # b "Is there really nothing I can do? My family won't let me go to Miaoli but... "
-    b ""
+    b "Czy naprawdę nic nie mogę zrobić? Moja rodzina nie pozwoli mi pojechać do Miaoli, ale... "
 
 # game/script/12.rpy:857
 translate polish s12_accept_04_go_79c1c314:
