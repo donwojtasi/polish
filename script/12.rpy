@@ -1749,7 +1749,7 @@ translate polish s12_accept_04_go_f407c88c:
     # b "Senpai and I barely talk all the way, both troubled by our thoughts but having no idea where to begin. "
     # b "I'm still a little upset Senpai didn't tell me all of this before now, but I can't really argue with him over it. I probably couldn't help much anyway, even if he told me. "
     b "Senpai i ja prawie nie rozmawiamy przez całą drogę, oboje zakłopotani naszymi myślami, ale nie mając pojęcia gdzie zacząć. "
-
+    b "Wciąż trochę mi smutno, że Senpai nie powiedział mi tego wszystkiego do teraz, ale nie mogę się z nim przez to kłócić. Prawdopodobnie wcale by to nie pomogło nawet gdyby mi powiedział. "
 # game/script/12.rpy:855
 translate polish s12_accept_04_go_658e236f:
 
@@ -1761,20 +1761,20 @@ translate polish s12_accept_04_go_79c1c314:
 
     # b "The real problem is living expenses. If I had enough cash I'd be able to make my own way to Miaoli even if my family didn't want me to. "
     # b "I could work there but I doubt a newly restored temple would receive enough donations... "
-    b ""
-
+    b "Prawdziwym problemem są koszty życia. Gdybym miał wystarczająco dużo pieniędzy mógłbym samemu pojechać do Miaoli nawet, gdyby moja rodzina by tego nie chciała. "
+    b "Mógłbym tam pracować, ale wątpię, że nowo odnowiona świątynia otrzymałaby wystarczająco dużo dotacji... "
 # game/script/12.rpy:859
 translate polish s12_accept_04_go_f8a555a9:
 
     # b "But I'm only in my first year. Leaving school like this is... Could I really go back to college after two years of absence? "
     # b "I'm only in my first year, if I left college like that... would I really go back after two years? Even if they let me come back, how would I keep up? I'd even have to give up on dance practice... "
-    b ""
-
+    b "Ale jestem dopiero na pierwszym roku. Tak rzucając szkołę... Czy naprawdę mógłbym wrócić na studia po dwóch latach nieobecności? "
+    b "Jestem dopiero na pierwszym roku, jeśli bym tak rzucił studia... czy naprawdę wróciłbym po dwóch latach? Nawet jeśli pozwolą mi wrócić, jak miałbym nadążyć? Musiałbym nawet zostawić ćwiczenia tańca... "
 # game/script/12.rpy:861
 translate polish s12_accept_04_go_7b83edfe:
 
     # b "Argh— This is too much... Why can't I just find a win-win somewhere... "
-    b ""
+    b "Argh- Za dużo tego wszystkiego... Dlaczego nie mogę znaleźć jakiegoś kompromisu... "
 
 # game/script/12.rpy:869
 translate polish s12_accept_04_go_f67fb560:
@@ -1782,13 +1782,13 @@ translate polish s12_accept_04_go_f67fb560:
     # voice voice_file.lpdcat(12,104)
     # lpdcat normal "\"Oh... It's raining.\" "
     voice voice_file.lpdcat(12,104)
-    lpdcat normal ""
+    lpdcat normal "\"Och.. Zaczęło padać.\" "
 
 # game/script/12.rpy:871
 translate polish s12_accept_04_go_8f7b8389:
 
     # b "As if on cue I feel the cold touch of a rain drop fall on my nose and I raise my head to the patter of a dozen more. "
-    b ""
+    b "Z miejsca czuję na nosie chłód spadającej kropli deszczu i podnoszę głowę na dźwięk setek innych. "
 
 # game/script/12.rpy:875
 translate polish s12_accept_04_go_45bb16ab:
@@ -1796,19 +1796,19 @@ translate polish s12_accept_04_go_45bb16ab:
     # voice voice_file.lpdcat(12,105)
     # lpdcat laugh "\"Ha-hah... It really fits the mood doesn't it?\" "
     voice voice_file.lpdcat(12,105)
-    lpdcat laugh ""
+    lpdcat laugh "\"Ha-hah... Naprawdę pasuje do nastroju, prawda?\" "
 
 # game/script/12.rpy:877
 translate polish s12_accept_04_go_21eb6419:
 
     # avt "\"Hm...\" "
-    avt ""
+    avt "\"Hmm...\" "
 
 # game/script/12.rpy:879
 translate polish s12_accept_04_go_b07b02aa:
 
     # avt "\"Hey, Senpai? If I did go to Miaoli with you. Would you be able to cover my living expenses?\" "
-    avt ""
+    avt "\"Hej, Senpai? Jeśli pojechałbym z tobą do Miaoli. Umiałbyś pokryć moje koszty utrzymania?\" "
 
 # game/script/12.rpy:883
 translate polish s12_accept_04_go_0ddb3cdc:
@@ -1816,13 +1816,13 @@ translate polish s12_accept_04_go_0ddb3cdc:
     # voice voice_file.lpdcat(12,106)
     # lpdcat serious "\"Well, I can't really promise that. It's not like I'd have Yan Shu-Chi's money at that point. It'd be difficult...\" "
     voice voice_file.lpdcat(12,106)
-    lpdcat serious ""
+    lpdcat serious "\"Cóż, nie mogę tego tak naprawdę obiecać. Nie będę teraz już mieć pieniędzy Yan Shu-Chi. To byłoby trudne...\" "
 
 # game/script/12.rpy:885
 translate polish s12_accept_04_go_034b3c48:
 
     # avt "\"If you can work something out, I might be able to do it...\" "
-    avt ""
+    avt "\"Jeśli coś wymyślisz, może będę mógł pomóc...\" "
 
 # game/script/12.rpy:887
 translate polish s12_accept_04_go_ba9718a4:
@@ -1830,13 +1830,13 @@ translate polish s12_accept_04_go_ba9718a4:
     # voice voice_file.lpdcat(12,107)
     # lpdcat normal "\"Liao, you're coming to Miaoli with me?\" "
     voice voice_file.lpdcat(12,107)
-    lpdcat normal ""
+    lpdcat normal "\"Liao, chcesz pojechać ze mną do Miaoli?\" "
 
 # game/script/12.rpy:889
 translate polish s12_accept_04_go_6f84e747:
 
     # avt "\"If I can.\" "
-    avt ""
+    avt "\"W miarę możliwości.\" "
 
 # game/script/12.rpy:893
 translate polish s12_accept_04_go_24efd734:
@@ -1844,13 +1844,13 @@ translate polish s12_accept_04_go_24efd734:
     # voice voice_file.lpdcat(12,108)
     # lpdcat laugh "\"Because of what I just told you?\" "
     voice voice_file.lpdcat(12,108)
-    lpdcat laugh ""
+    lpdcat laugh "\"Przez to co ci powiedziałem?\" "
 
 # game/script/12.rpy:895
 translate polish s12_accept_04_go_67c5f740:
 
     # avt "\"Yeah, I— You really need my help, I can't jus—\" "
-    avt ""
+    avt "\"Tak ja- Naprawdę potrzebujesz mojej pomocy. Nie mogę po pros-\" "
 
 # game/script/12.rpy:897
 translate polish s12_accept_04_go_1a4a8f63:
@@ -1858,13 +1858,13 @@ translate polish s12_accept_04_go_1a4a8f63:
     # voice voice_file.lpdcat(12,109)
     # lpdcat normal "\"You've always known that I needed you help... but you didn't know what it really meant before now, huh?\" "
     voice voice_file.lpdcat(12,109)
-    lpdcat normal ""
+    lpdcat normal "\"Zawsze wiedziałeś, że potrzebowałem twojej pomocy... ale nie wiedziałeś, co to tak naprawdę znaczyło aż do teraz, co?\" "
 
 # game/script/12.rpy:899
 translate polish s12_accept_04_go_5d9c9a8d:
 
     # b "Senpai had pushed a finger against my lips, silencing my argument. "
-    b ""
+    b "Senpai przyciska palec do moich warg, uciszając mój argument. "
 
 # game/script/12.rpy:901
 translate polish s12_accept_04_go_43eb84cc:
@@ -1873,19 +1873,19 @@ translate polish s12_accept_04_go_43eb84cc:
     # lpdcat laugh "\"Liao, I'm really glad to hear that you're even thinking about it.\" "
     # lpdcat laugh "\"Just don't rush it, okay? To regret me is the last thing I want for you.\" "
     voice voice_file.lpdcat(12,110)
-    lpdcat laugh ""
-
+    lpdcat laugh "\"Liao, naprawdę się cieszę, że o tym myślisz."
+    lpdcat laugh "\"Po prostu zaczekaj z tym, dobrze? Nie chciałbym, żebyś nade mną ubolewał.\" "
 # game/script/12.rpy:903
 translate polish s12_accept_04_go_92f803fc:
 
     # avt "\"I...\" "
-    avt ""
+    avt "\"Ja...\" "
 
 # game/script/12.rpy:905
 translate polish s12_accept_04_go_ed0b49a2:
 
     # b "The rain begins to plummet harder, drowning my words. "
-    b ""
+    b "Deszcz zaczyna padać mocniej, oszuszając moje słowa. "
 
 # game/script/12.rpy:910
 translate polish s12_accept_04_go_268289ee:
@@ -1893,26 +1893,26 @@ translate polish s12_accept_04_go_268289ee:
     # voice voice_file.lpdcat(12,111)
     # lpdcat normal "\"Heck, it's getting heavier! My place isn't that far, come on slowpoke!\" "
     voice voice_file.lpdcat(12,111)
-    lpdcat normal ""
+    lpdcat normal "\"Kurcze, pada coraz mocniej! Już niedaleko do mojej miejscówki, szybciej guzdrało!\" "
 
 # game/script/12.rpy:914
 translate polish s12_accept_04_go_b127ea0c:
 
     # b "We run together, my clothes soaked and the rain splashing into a heavy mist before \nme. "
     # b "Senpai, sprinting ahead of me, turns a corner. "
-    b ""
-
+    b "Biegniemy razem, moje ubrania są przemoczone, a deszcz pluska w ciężkiej mgle przede \nmną. "
+    b "Senpai biegnie przede mną sprintem, skręca za róg. "
 # game/script/12.rpy:916
 translate polish s12_accept_04_go_84815e75:
 
     # b "I dash around it just to see Senpai waving at me from across the street. "
-    b ""
+    b "Pędzę do niego widząc jak Senpai macha do mnie po drugiej stronie ulicy. "
 
 # game/script/12.rpy:920
 translate polish s12_accept_04_go_381078c7:
 
     # b "I run towards him. "
-    b ""
+    b "Podbiegam do niego. "
 
 # game/script/12.rpy:956
 translate polish s12_accept_04_go_fe70c37e:
@@ -1920,7 +1920,7 @@ translate polish s12_accept_04_go_fe70c37e:
     # voice voice_file.lpdcat(12,112)
     # lpdcat2 "\"...!\" "
     voice voice_file.lpdcat(12,112)
-    lpdcat2 ""
+    lpdcat2 "\"...!\" "
 
 # game/script/12.rpy:958
 translate polish s12_accept_04_go_0ddfef3a:
@@ -1928,7 +1928,7 @@ translate polish s12_accept_04_go_0ddfef3a:
     # voice voice_file.lpdcat(12,113)
     # lpdcat2 "\"...Liao! Liao!\" "
     voice voice_file.lpdcat(12,113)
-    lpdcat2 ""
+    lpdcat2 "\"...Liao! Liao!\" "
 
 # game/script/12.rpy:960
 translate polish s12_accept_04_go_9004d00d:
@@ -1936,7 +1936,7 @@ translate polish s12_accept_04_go_9004d00d:
     # voice voice_file.lpdcat(12,114)
     # lpdcat2 "\"I'm so sorry...\" "
     voice voice_file.lpdcat(12,114)
-    lpdcat2 ""
+    lpdcat2 "\"Tak mi przykro...\" "
 
 # game/script/12.rpy:974
 translate polish cg_cry_after_accident_80c6a625:
@@ -1944,7 +1944,7 @@ translate polish cg_cry_after_accident_80c6a625:
     # voice voice_file.lpdcat(12,115)
     # lpdcat2 "\"In the end I...\" "
     voice voice_file.lpdcat(12,115)
-    lpdcat2 ""
+    lpdcat2 "\"Mimo wszystko ja...\" "
 
 # game/script/12.rpy:977
 translate polish cg_cry_after_accident_97d20f46:
@@ -1952,7 +1952,7 @@ translate polish cg_cry_after_accident_97d20f46:
     # voice voice_file.lpdcat(12,116)
     # lpdcat2 "\"If only I was... enough...\" "
     voice voice_file.lpdcat(12,116)
-    lpdcat2 ""
+    lpdcat2 "\"Gdybym tylko był... wystarczająco...\" "
 
 # game/script/12.rpy:979
 translate polish cg_cry_after_accident_1e108016:
@@ -1960,7 +1960,7 @@ translate polish cg_cry_after_accident_1e108016:
     # voice voice_file.lpdcat(12,117)
     # lpdcat2 "\"Why...\" "
     voice voice_file.lpdcat(12,117)
-    lpdcat2 ""
+    lpdcat2 "\"Dlaczego...\" "
 
 # game/script/12.rpy:985
 translate polish cg_cry_after_accident_36dba2fd:
@@ -1968,7 +1968,7 @@ translate polish cg_cry_after_accident_36dba2fd:
     # voice voice_file.lpdcat(12,118)
     # lpdcat2 "\"Ha... Hehe-heh...\" "
     voice voice_file.lpdcat(12,118)
-    lpdcat2 ""
+    lpdcat2 "\"Ha... Hehe-he...\" "
 
 # game/script/12.rpy:997
 translate polish cg_cry_after_accident_82cb099a:
@@ -1976,7 +1976,7 @@ translate polish cg_cry_after_accident_82cb099a:
     # voice voice_file.lpdcat(12,119)
     # lpdcat2 "\"It's already... already...\" "
     voice voice_file.lpdcat(12,119)
-    lpdcat2 ""
+    lpdcat2 "\"To już... już...\" "
 
 # game/script/12.rpy:999
 translate polish cg_cry_after_accident_90702505:
@@ -1984,13 +1984,13 @@ translate polish cg_cry_after_accident_90702505:
     # voice voice_file.lpdcat(12,120)
     # lpdcat2 "\"I-{w=0.2}I'm so sorry... Thank you...\" "
     voice voice_file.lpdcat(12,120)
-    lpdcat2 ""
+    lpdcat2 "\"T-{w=0.2}tak mi przykro... Dziękuję...\" "
 
 # game/script/12.rpy:1008
 translate polish s12_accept_04_dont_go_5feb674c:
 
     # avt "\"I don't think I should. Going right now feels... Tiger asked me not to wander around, sorry...\" "
-    avt ""
+    avt "\"Nie sądzę, że powinienem. Czuję, że pójście tam teraz... Tygrys prosił mnie, żebym nie przechadzał się tak daleko, wybacz...\" "
 
 # game/script/12.rpy:1015
 translate polish s12_accept_04_dont_go_4f9ee32c:
@@ -1998,22 +1998,22 @@ translate polish s12_accept_04_dont_go_4f9ee32c:
     # voice voice_file.lpdcat(12,121)
     # lpdcat pout "\"Whaaa— What's that old man got to do with this. And coming to my place isn't wandering around at all~\" "
     voice voice_file.lpdcat(12,121)
-    lpdcat pout ""
+    lpdcat pout "\"Cooo- Co staruszek ma z tym wspólnego. A pójście do mnie to żadne przchadzanie się~\" "
 
 # game/script/12.rpy:1017
 translate polish s12_accept_04_dont_go_1577f813:
 
     # avt "\"I guess. It just feels like... taking advantage of you.\" "
     # avt "\"It's not really okay to just come over when you're in a bad mood after everything...\" "
-    avt ""
-
+    avt "\"Chyba. Czułbym się jakbym... cię wykorzystywał.\" "
+    avt "\"To nie w porządku tam przyjść, kiedy jesteś w złym nastroju po tym wszystkim...\" "
 # game/script/12.rpy:1020
 translate polish s12_accept_04_dont_go_ecfa2438:
 
     # voice voice_file.lpdcat(12,122)
     # lpdcat not_reconcile "\"I need some comfort now!\" " with vshake
     voice voice_file.lpdcat(12,122)
-    lpdcat not_reconcile "" with vshake
+    lpdcat not_reconcile "\"Potrzebuję teraz trochę otuchy!\" " with vshake
 
 # game/script/12.rpy:1023
 translate polish s12_accept_04_dont_go_85ef9083:
@@ -2021,7 +2021,7 @@ translate polish s12_accept_04_dont_go_85ef9083:
     # voice voice_file.lpdcat(12,123)
     # lpdcat pout "\"Hmm... Fine... I know what you mean. It's something we can do when we're feeling better..\" "
     voice voice_file.lpdcat(12,123)
-    lpdcat pout ""
+    lpdcat pout "\"Hmm... Dobrze... Wiem co masz na myśli. To coś, co możemy zrobić. kiedy będziemy czuć się lepiej..\" "
 
 # game/script/12.rpy:1025
 translate polish s12_accept_04_dont_go_7014f983:
@@ -2029,13 +2029,13 @@ translate polish s12_accept_04_dont_go_7014f983:
     # voice voice_file.lpdcat(12,124)
     # lpdcat wronged "\"Well, I don't really want to stay here... I don't really feel like playing games.\" "
     voice voice_file.lpdcat(12,124)
-    lpdcat wronged ""
+    lpdcat wronged "\"Cóż, tak naprawdę nie chcę tu zostać... Odechciało mi się grać w gry.\" "
 
 # game/script/12.rpy:1027
 translate polish s12_accept_04_dont_go_913ba179:
 
     # avt "\"Wanna go somewhere else?\" "
-    avt ""
+    avt "\"Chcesz iść gdzieś indziej?\" "
 
 # game/script/12.rpy:1029
 translate polish s12_accept_04_dont_go_d7e93e3a:
@@ -2043,14 +2043,14 @@ translate polish s12_accept_04_dont_go_d7e93e3a:
     # voice voice_file.lpdcat(12,125)
     # lpdcat wronged "\"Yeah.\" "
     voice voice_file.lpdcat(12,125)
-    lpdcat wronged ""
+    lpdcat wronged "\"Tak.\" "
 
 # game/script/12.rpy:1035
 translate polish s12_accept_04_dont_go_bb3cdcd9:
 
     # b "We leave the arcade. It's a bit awkward between us for a while so I decide to take us to watch a movie together. "
     # b "Afterwards we go for a stroll through the downtown markets before having dinner. "
-    b ""
+    b "Wychodzimy z salonu gier. Było nam przez chwilę dziwnie, więc zdecydowałem, że zabiorę nas, żebyśmy obejrzeli razem film. "
 
 # game/script/12.rpy:1039
 translate polish s12_accept_04_dont_go_5c1df2df:
@@ -2058,19 +2058,19 @@ translate polish s12_accept_04_dont_go_5c1df2df:
     # voice voice_file.lpdcat(12,126)
     # lpdcat wronged "\"I guess this is the end...\" "
     voice voice_file.lpdcat(12,126)
-    lpdcat wronged ""
+    lpdcat wronged "\"To chyba koniec...\" "
 
 # game/script/12.rpy:1041
 translate polish s12_accept_04_dont_go_f9ddb71e:
 
     # b "Nothing really changed between us during the movie, and walking around the markets felt more like me just following wherever Senpai wanted to go. Even though he sounded disappointed, I could only agree silently to myself. "
-    b ""
+    b "Nic tak naprawdę się między nami nie zmieniło podczas filmu, i spacerowanie po marketach wyglądało bardziej tak, że podążałem za Senpai'em wszędzie gdzie chciał. Chociaż słyszałem w jego głosie rozczarowanie, mogłem tylko po cichu się z tym zgodzić. "
 
 # game/script/12.rpy:1043
 translate polish s12_accept_04_dont_go_4656a810:
 
     # b "After dinner we make our way to the metro station. "
-    b ""
+    b "Po obiedzie idziemy w stronę stacji metra. "
 
 # game/script/12.rpy:1045
 translate polish s12_accept_04_dont_go_5be9c12d:
@@ -2078,37 +2078,37 @@ translate polish s12_accept_04_dont_go_5be9c12d:
     # voice voice_file.lpdcat(12,127)
     # lpdcat serious "\"You need to go, don't you? It's getting late. I'm sure that the old man would just get on your back about it anyways.\" "
     voice voice_file.lpdcat(12,127)
-    lpdcat serious ""
+    lpdcat serious "\"Musisz już jechać, prawda? Robi się późno. Jestem pewny, że staruszek i tak by cię za to ochrzanił."
 
 # game/script/12.rpy:1047
 translate polish s12_accept_04_dont_go_232f1edf:
 
     # avt "\"Hahah— Would he really care? All we did was have dinner after all...\" "
-    avt ""
+    avt "\"Hahah- Naprawdę by go to obchodziło? Mimo wszystko zjedliśmy tylko obiad..."
 
 # game/script/12.rpy:1055
 translate polish s12_accept_04_dont_go_2d759415:
 
     # tig normal "\"......\" "
-    tig normal ""
+    tig normal "\"......\" "
 
 # game/script/12.rpy:1057
 translate polish s12_accept_04_dont_go_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/12.rpy:1059
 translate polish s12_accept_04_dont_go_323df284:
 
     # lpdcat serious "\"......\" "
-    lpdcat serious ""
+    lpdcat serious "\"......\" "
 
 # game/script/12.rpy:1062
 translate polish s12_accept_04_dont_go_38dd5398:
 
     # avt "\"Tiger? What are you doing here?!\" " with vshake
-    avt "" with vshake
+    avt "\"Tygrys? Co ty tu robisz?!\" " with vshake
 
 # game/script/12.rpy:1065
 translate polish s12_accept_04_dont_go_0e00a9a3:
@@ -2116,7 +2116,7 @@ translate polish s12_accept_04_dont_go_0e00a9a3:
     # voice voice_file.tig(12,5)
     # tig normal "\"Oh? I was just worried. Don't mind me. I figured the kitten had noticed me so there was no purpose in hiding further.\" "
     voice voice_file.tig(12,5)
-    tig normal ""
+    tig normal "\"Co? Po prostu się martwiłem. Nie przejmuj się mną. Pomyślałem, że skoro kociak mnie zauważył to nie ma sensu dłużej się ukrywać.\" "
 
 # game/script/12.rpy:1067
 translate polish s12_accept_04_dont_go_f93c4647:
@@ -2124,7 +2124,7 @@ translate polish s12_accept_04_dont_go_f93c4647:
     # voice voice_file.lpdcat(12,128)
     # lpdcat pout "\"Ehh... I noticed you {i}ages{/i} \ ago. If you came any closer I would have been supper \npissed.\" "
     voice voice_file.lpdcat(12,128)
-    lpdcat pout ""
+    lpdcat pout "\"Ehh... Zauważyłem cię {i}bardzo{/i} \ dawno. Gdybyś podszedł choć o krok bliżej byłbym mega \nwkurzony.\" "
 
 # game/script/12.rpy:1069
 translate polish s12_accept_04_dont_go_09207d95:
@@ -2132,7 +2132,7 @@ translate polish s12_accept_04_dont_go_09207d95:
     # voice voice_file.tig(12,6)
     # tig normal "\"Hahaha— Terribly sorry. As a god I should not be involving myself in the relations of humans but I'm just so used to watching over Liao I couldn't leave it be.\" "
     voice voice_file.tig(12,6)
-    tig normal ""
+    tig normal "\"Hahaha- Bardzo mi przykro. Jako bóg nie powinienem wtrącać się w ludzkie relacje, ale jestem tak przywyczajony do czuwania nad Liao, że nie mogłem tego tak zostawić.\" "
 
 # game/script/12.rpy:1071
 translate polish s12_accept_04_dont_go_4705bd2a:
@@ -2140,7 +2140,7 @@ translate polish s12_accept_04_dont_go_4705bd2a:
     # voice voice_file.lpdcat(12,129)
     # lpdcat pout "\"I'm a god {i}and{/i} \ a human, aren't I?\" "
     voice voice_file.lpdcat(12,129)
-    lpdcat pout ""
+    lpdcat pout "\"Jestem bogiem {i}i{/i} \ człowiekiem, prawda?\" "
 
 # game/script/12.rpy:1073
 translate polish s12_accept_04_dont_go_bd775dfe:
@@ -2149,13 +2149,13 @@ translate polish s12_accept_04_dont_go_bd775dfe:
     # lpdcat normal "\"Fine, I might as well head home anyway. \" "
     # lpdcat normal "\"I'll be going back to Miaoli soon... Liao, don't be surprised if you don't see me for a while, okay?\" "
     voice voice_file.lpdcat(12,130)
-    lpdcat normal ""
-
+    lpdcat normal "\"Dobra. Mogę równie dobrze pójść do domu. \" "
+    lpdcat normal "\"Niedługo będę wracać do Miaoli... Liao, nie zdziw się jeśli mnie przez jakiś czas nie zobaczysz, dobrze?\" "
 # game/script/12.rpy:1075
 translate polish s12_accept_04_dont_go_2dd7fb8d:
 
     # avt "\"...Yeah.\" "
-    avt ""
+    avt "\"...Jasne.\" "
 
 # game/script/12.rpy:1079
 translate polish s12_accept_04_dont_go_b7485ab2:
@@ -2163,13 +2163,13 @@ translate polish s12_accept_04_dont_go_b7485ab2:
     # voice voice_file.lpdcat(12,131)
     # lpdcat laugh "\"See you some other time Liao.\" "
     voice voice_file.lpdcat(12,131)
-    lpdcat laugh ""
+    lpdcat laugh "\"Do zobaczenia kiedy indziej Liao.\" "
 
 # game/script/12.rpy:1083
 translate polish s12_accept_04_dont_go_5f759808:
 
     # b "Senpai waves back at me as I watch him walk off into the crowd. "
-    b ""
+    b "Senpai macha do mnie, kiedy patrzę jak odchodzi w stronę tłumu. "
 
 # game/script/12.rpy:1088
 translate polish s12_accept_04_dont_go_e5387bea:
@@ -2177,26 +2177,26 @@ translate polish s12_accept_04_dont_go_e5387bea:
     # voice voice_file.tig(12,7)
     # tig normal "\"...I believe we should head off now as well.\" "
     voice voice_file.tig(12,7)
-    tig normal ""
+    tig normal "\"...Chyba też powinniśmy już wracać.\" "
 
 # game/script/12.rpy:1090
 translate polish s12_accept_04_dont_go_2dd7fb8d_1:
 
     # avt "\"...Yeah I guess.\" "
-    avt ""
+    avt "\"...Chyba tak.\" "
 
 # game/script/12.rpy:1094
 translate polish s12_accept_04_dont_go_b2dc7988:
 
     # b "We head home together. Leopard seemed confused that Senpai wasn't with me, but I didn't feel like explaining it. "
-    b ""
+    b "Wracamy razem do domu. Pantera wydaje się być zdezorientowany z powodu braku Senpai'a, ale nie miałem ochoty mu tego wyjaśniać. "
 
 # game/script/12.rpy:1096
 translate polish s12_accept_04_dont_go_ada30cf8:
 
     # b "I lie down and look at my bookshelf just to see the tung blossom floating on the plate, neglected and withered away... "
     # b "That's a shame... I think to myself as I drain the water, throwing away the blossom. "
-    b ""
+    b "Kładę się na łóżku i patrzę na moją półkę z książkami by zobaczyć płatki kwitnącego tungowca latające na talerzu, zaniedbane i zwiędnięte... "
 
 translate polish strings:
 
