@@ -4,39 +4,39 @@
 translate polish s13_87da3a9f:
 
     # b "Every Sunday our club holds self practice. "
-    b ""
+    b "W każdą Niedzielę nasz klub prowadzi ćwiczenia osobiste. "
 
 # game/script/13.rpy:11
 translate polish s13_ac9a5b21:
 
     # b "Not many people turned up this week due to mid-terms. At least it's really a great way to relax for the people who finished early. Which is why I decided to come today. "
-    b ""
+    b "Niewielu ludzi pojawiło się w tym tygodniu z powodu testów śródsemestralnych. Przynajmniej to naprawdę dobry sposób na relaks dla ludzi, którzy skończyli wcześniej. Dlatego zdecydowałem się tu dzisiaj przyjść. "
 
 # game/script/13.rpy:13
 translate polish s13_04f307f0:
 
     # b "However, I didn't expect to see Senpai here. After yesterday things were a bit awkward but we somewhat manage to say hi. "
-    b ""
+    b "Jednak nie spodziewałem się, że spotkam tu Sepai'a. Po wczoraj sprawy przybrały dziwny obrót, ale jakoś dałem radę się przywitać. "
 
 # game/script/13.rpy:15
 translate polish s13_c9cfbd03:
 
     # b "The club leader starts to go over the dance we're doing for our next show. "
     # b "I do my best to learn it but I doubt I'll end up performing on stage. "
-    b ""
-
+    b "Lider klubu zaczyna przedstawiać taniec, który mamy pokazać na następnym show. "
+    b "Zrobię co w mojej mocy, żeby się tego nauczyć, ale wątpię, że skończę występując na scenie. "
 # game/script/13.rpy:19
 translate polish s13_1c1d4e55:
 
     # lpd normal "\"......\" "
-    lpd normal ""
+    lpd normal "\"......\" "
 
 # game/script/13.rpy:23
 translate polish s13_6f921960:
 
     # b "Leopard's with me, and he absolutely puts his everything into the routine. He follows on flawlessly. "
     # b "He'd be great on stage... even if he'd scare some people at first. "
-    b ""
+    b "Pantera jest ze mną i daje z siebie wszystko w dzisiejszym układzie. Powtarza nasze ruchy bezbłędnie. "
 
 # game/script/13.rpy:25
 translate polish s13_883fc54f:
@@ -44,13 +44,13 @@ translate polish s13_883fc54f:
     # voice voice_file.clubmate(13,1)
     # clubleader "\"Alright, everyone. I want to see you guys try it by yourselves. Just let me know if you need a hand or ask one of our senior students up the front. They've done the routine before.\" "
     voice voice_file.clubmate(13,1)
-    clubleader ""
+    clubleader "\"Dobrze, moi drodzy. Chcę zobaczyć jak próbujecie tego układu sami. Dajcie mi znać, jeśli będziecie potrzebować pomocy albo poproście jednego ze starszych uczniów z przodu. Uczyli się tego układu przed wami.\" "
 
 # game/script/13.rpy:33
 translate polish s13_047e2060:
 
     # b "Senpai's one of the guys standing at the front... When did he get the chance to learn today's routine? He's been with me the whole time before exam break. There hasn't been any club meetings since... "
-    b ""
+    b "Senpai jest jednym z gości stojących z przodu... Kiedy miał czas nauczyć się dzisiejszego układu? Był ze mną przez cały czas podczas przerwy egzaminacyjnej. Od tamtego czasu nie było żadnych spotkań klubu... "
 
 # game/script/13.rpy:35
 translate polish s13_762c8900:
@@ -58,19 +58,19 @@ translate polish s13_762c8900:
     # voice voice_file.lpdcat(13,1)
     # lpdcat normal "\"Liao, you alright? You're kinda spacing out over there. If you're stuck I'm happy to go through it with you.\" "
     voice voice_file.lpdcat(13,1)
-    lpdcat normal ""
+    lpdcat normal "\"Liao, wszystko w porządku? Trochę się wyłączyłeś. Jeśli utknąłeś z chęcia pomogę ci przez to przejść.\" "
 
 # game/script/13.rpy:37
 translate polish s13_54f321e3:
 
     # b "Senpai begins to get in position for the first move.  "
-    b ""
+    b "Senpai zaczyna ustawiać się w pozycji do pierwszego ruchu.  "
 
 # game/script/13.rpy:39
 translate polish s13_761bad65:
 
     # avt "\"It's fine, I was just thinking to myself.\" "
-    avt ""
+    avt "\"Nic mi nie jest. Po prostu głośno myślałem.\" "
 
 # game/script/13.rpy:43
 translate polish s13_c3dfb710:
@@ -78,26 +78,26 @@ translate polish s13_c3dfb710:
     # voice voice_file.lpdcat(13,2)
     # lpdcat laugh "\"Hmm, well while you're here you should take it as a chance to relax. Alright? Ready! Let's start!\" "
     voice voice_file.lpdcat(13,2)
-    lpdcat laugh ""
+    lpdcat laugh "\"Hmm, dobrze dopóki tu jesteś powinieneś wykorzystać to jako szansę na relaks. Dobrze? Gotowy? Zaczynajmy!\" "
 
 # game/script/13.rpy:49
 translate polish s13_8f1df927:
 
     # b "Senpai ends up forcing me to practice with him. "
-    b ""
+    b "Senpai praktycznie zmusza mnie do przećwiczenia z nim układu. "
 
 # game/script/13.rpy:54
 translate polish s13_3dcfe980:
 
     # b "Leopard comes over to dance with us too. Their moves flow in sync while mine pale in comparison... I know Senpai's been practicing for years but how did Leopard get so good? "
-    b ""
+    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje są przy nich blade... Wiem, że Senpai ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
 
 # game/script/13.rpy:56
 translate polish s13_1b91d18d:
 
     # b "I can hardly keep up. I'm frustrated with myself but I know I can't really be expected to manage this on my first few times through, it's just too advanced. "
     # b "The best I can do is kinda jump around, vaguely following along as I piece everything together. "
-    b ""
+    b "Ledwo nadążam. Jestem zdenerwowany na samego siebie, ale wiem, że nie mogę oczekiwać, że dam sobie radę przez kilka pierwszych prób, to po prostu zbyt zaawansowane. "
 
 # game/script/13.rpy:61
 translate polish s13_182971ad:
@@ -105,7 +105,7 @@ translate polish s13_182971ad:
     # voice voice_file.lpdcat(13,3)
     # lpdcat normal "\"Umm— That's not right. It's like this, see?\" "
     voice voice_file.lpdcat(13,3)
-    lpdcat normal ""
+    lpdcat normal "\"Umm- Nie tak. To się robi tak, widzisz?\" "
 
 # game/script/13.rpy:66
 translate polish s13_9b8a4aaa:
@@ -113,13 +113,13 @@ translate polish s13_9b8a4aaa:
     # voice voice_file.lpd(13,1)
     # lpd normal "\"Liao, look at me...\" "
     voice voice_file.lpd(13,1)
-    lpd normal ""
+    lpd normal "\"Liao, spójrz na mnie...\" "
 
 # game/script/13.rpy:70
 translate polish s13_67ae15dd:
 
     # b "Why is Leopard teaching me now! "
-    b ""
+    b "Dlaczego teraz Pantera mnie uczy! "
 
 # game/script/13.rpy:72
 translate polish s13_cddfc6eb:
