@@ -125,13 +125,13 @@ translate polish s13_67ae15dd:
 translate polish s13_cddfc6eb:
 
     # b "My self-confidence falls apart entirely as they tear my dancing to shreds... \n(I mean it wouldn't be the first time...) "
-    b ""
+    b "Moja pewność siebie rozpada się całkowicie kiedy rozrywają mój taniec na strzępy... \n(nie żeby to był pierwszy raz...) "
 
 # game/script/13.rpy:76
 translate polish s13_07c3b7e6:
 
     # b "At least some stuff get's easier after they break them down. But even knowing how they're performed the hardest parts are still way beyond my skills. "
-    b ""
+    b "Przynajmniej część układu staje się łatwiejsza po tym, jak je pokazują. Ale nawet wiedząc jak sobie radzili, najtrudniejsze części wciąż są ponad moje umiejętności. "
 
 # game/script/13.rpy:80
 translate polish s13_12eb72f4:
