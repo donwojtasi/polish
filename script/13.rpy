@@ -131,25 +131,25 @@ translate polish s13_cddfc6eb:
 translate polish s13_07c3b7e6:
 
     # b "At least some stuff get's easier after they break them down. But even knowing how they're performed the hardest parts are still way beyond my skills. "
-    b "Przynajmniej część układu staje się łatwiejsza po tym, jak je pokazują. Ale nawet wiedząc jak sobie radzili, najtrudniejsze części wciąż są ponad moje umiejętności. "
+    b "Przynajmniej część układu staje się łatwiejsza po tym, jak mi go pokazują. Ale nawet wiedząc jak sobie radzili, najtrudniejsze części wciąż są ponad moje umiejętności. "
 
 # game/script/13.rpy:80
 translate polish s13_12eb72f4:
 
     # b "One part's basically just showing off and it's not like I can do anything amazing. After all, this is meant to be for the end of year performance, it's not like it's going to be easy... "
-    b ""
+    b "Jedna z części to praktycznie popisywanie się, ale sam nie potrafię nic niesamowitego. Mimo wszystko, to ma być występ dopiero na koniec roku, więc nie będzie łatwy... "
 
 # game/script/13.rpy:82
 translate polish s13_1c1c7fae:
 
     # b "I don't have Senpai's agility let alone be dance in the face of the laws of physics like Leopard. I try, and I try. In the end I just decide to give up. "
-    b ""
+    b "Nie posiadam szybkości Senpai'a, a tym bardziej nie potrafię tańczyć wbrew prawom fizyki jak Pantera. Próbuję raz za razem, ale w końcu decyduję się zrezygnować. "
 
 # game/script/13.rpy:87
 translate polish s13_c8c5ae48:
 
     # avt "\"It doesn't work, it just doesn't work. I can't do it.\" " with vshake
-    avt "" with vshake
+    avt "\"To nie działa, to po prostu nie działa. Nie potrafię.\" " with vshake
 
 # game/script/13.rpy:89
 translate polish s13_c1fd89fd:
@@ -157,7 +157,7 @@ translate polish s13_c1fd89fd:
     # voice voice_file.lpdcat(13,4)
     # lpdcat normal "\"Alright, that's enough. Just take a break.\" "
     voice voice_file.lpdcat(13,4)
-    lpdcat normal ""
+    lpdcat normal "\"Dobrze, wystarczy. Po prostu zrób sobie przerwę.\" "
 
 # game/script/13.rpy:96
 translate polish s13_ae08fb14:
@@ -165,40 +165,40 @@ translate polish s13_ae08fb14:
     # voice voice_file.lpd(13,2)
     # lpd normal "\"...Liao. Again.\" "
     voice voice_file.lpd(13,2)
-    lpd normal ""
+    lpd normal "\"...Liao. Jeszcze raz.\" "
 
 # game/script/13.rpy:98
 translate polish s13_c90c360d:
 
     # b "For some reason Leopard really wants me to try again. "
-    b ""
+    b "Z jakiegoś powodu Pantera naprawdę chce, żebym spróbował jeszcze raz. "
 
 # game/script/13.rpy:100
 translate polish s13_c044341f:
 
     # avt "\"......?\" "
-    avt ""
+    avt "\"......?\" "
 
 # game/script/13.rpy:102
 translate polish s13_c6829df2:
 
     # b "I don't get it, but he really does earnestly want me to try. So I decide to give it one more go for him. "
-    b ""
+    b "Nie rozumiem tego, ale on naprawdę gorliwie chce, żebym znowu spróbował. Decyduję spróbować dla niego jeszcze raz. "
 
 # game/script/13.rpy:106
 translate polish s13_cbe00327:
 
     # b "I get up to a hard part, I know I can't do it but I might as well anyway. "
     # b "Huh? Wait that worked? "
-    b ""
-
+    b "Docieram do trudnej części, którą wiem, że nie potrafię, ale równie dobrze mogę spróbować. "
+    b "Co? Chwila, to się udało? "
 # game/script/13.rpy:109
 translate polish s13_776bf21f:
 
     # voice voice_file.lpdcat(13,5)
     # lpdcat surprise_1 "\"What...\" "
     voice voice_file.lpdcat(13,5)
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Co...\" "
 
 # game/script/13.rpy:111
 translate polish s13_df21657f:
@@ -206,32 +206,32 @@ translate polish s13_df21657f:
     # voice voice_file.tig(13,1)
     # tig surprise "\"What? Hold on, you're...\" "
     voice voice_file.tig(13,1)
-    tig surprise ""
+    tig surprise "\"Co? Chwila moment, ty...\" "
 
 # game/script/13.rpy:121
 translate polish s13_93f87bfa:
 
     # b "My body feels light as if my weight had left my limbs. I'm even able to pull off a handstand spin perfectly without even having to worry about balancing my momentum. "
-    b ""
+    b "Czuję, że moje ciało jest tak lekkie, jakby waga opuściła moje kończyny. Udaje mi się nawet zrobić obrót ze staniem na rękach, nie musząc się nawet martwić o balansowanie mojego impetu. "
 
 # game/script/13.rpy:136
 translate polish s13_db30bdb1:
 
     # b "Moving in to the second half I breeze through the hardest part of the routine as if it didn't faze me at all! "
     # b "But this is my body! Before I was just surprised by what happened but it's all just impossible. " with vshake
-    b "" with vshake
-
+    b "Docierając do drugiej połowy gładko przechodzę przez najtrudniejszą część układu jakby mnie w ogóle nie peszyła! " with vshake
+    b "Ale to moje ciało! Wcześniej byłem tylko zaskoczony tym, co się stało, ale to wszystko po prostu niemożliwe. " with vshake
 # game/script/13.rpy:138
 translate polish s13_50492cac:
 
     # b "There's no way I can do this... But how is this..."
-    b ""
+    b "Nie ma szans, że umiem to zrobić... Ale jak to..."
 
 # game/script/13.rpy:147
 translate polish s13_cc0c41f6:
 
     # b "Before I work out what's going on I manage to finish routine. As I hold the final pose I hear a wave of applause shower me from everyone in the room. " with hshake
-    b "" with hshake
+    b "Zanim ogarniam, co się dzieje udaje mi się skończyć układ. Kiedy utrzymuje ostatnią pozę słyszę falę oklasków, którą obsypują mnie wszyscy w pomieszczeniu" with hshake
 
 # game/script/13.rpy:151
 translate polish s13_b819b232:
@@ -239,7 +239,7 @@ translate polish s13_b819b232:
     # voice voice_file.clubmate(13,2)
     # clubmate "\"Wow! Liao, you did great!\" " with vshake
     voice voice_file.clubmate(13,2)
-    clubmate "" with vshake
+    clubmate "\"Wow! Liao, świetnie się spisałeś!\" " with vshake
 
 # game/script/13.rpy:154
 translate polish s13_9b55b954:
@@ -247,40 +247,40 @@ translate polish s13_9b55b954:
     # voice voice_file.clubmate(13,3)
     # clubmate "\"How did you learn it so fast?\" " with vshake
     voice voice_file.clubmate(13,3)
-    clubmate "" with vshake
+    clubmate "\"Jak udało ci się tak szybko tego nauczyć?\" " with vshake
 
 # game/script/13.rpy:157
 translate polish s13_1606f380:
 
     # voice voice_file.clubmate(13,4)
-    # clubmate "\"You must have been secretly practicing this whole time! \nI knew Shu-Chi Senpai was—\" " with vshake
+    # clubmate "\"You must have been secretly practicing this whole time! \nI knew Shu-Chi Senpai was\" " with vshake
     voice voice_file.clubmate(13,4)
-    clubmate "" with vshake
+    clubmate "\"Musiałeś potajemnie ćwiczyć przez cały ten czas! \nWiedziałem, że Shu-Chi Senpai ćwiczył—\" " with vshake
 
 # game/script/13.rpy:161
 translate polish s13_4572314a:
 
     # b "The last guy was quickly pulled to the side by someone else. " with flash
-    b "" with flash
+    b "Ostatni gość został szybko pociągnięty na stronę przez kogoś innego. " with flash
 
 # game/script/13.rpy:163
 translate polish s13_9a59531b:
 
     # b "I stand there, confused and out of breath. I {i}know{/i} \ I couldn't possibly have pulled that off. "
     # b "There's no way I could have just learnt all of it just like that. What's going on... "
-    b ""
+    b "Stoję w miejscu, zdezorientowany i zdyszany. {i}Wiem{/i} \ Niemożliwe, że to wszystko odwaliłem samemu. "
 
 # game/script/13.rpy:171
 translate polish s13_f3556ac8:
 
     # b "Senpai looks on with a face of embarrassment. Tiger on the other hand is furious. "
-    b ""
+    b "Senpai patrzy z zakłopotaniem na twarzy. Tygrys za to wygląda na wściekłego."
 
 # game/script/13.rpy:173
 translate polish s13_19494e1e:
 
     # avt "\"What happened...\" "
-    avt ""
+    avt "\"Co się stało...\" "
 
 # game/script/13.rpy:181
 translate polish s13_fdc0e027:
@@ -288,13 +288,13 @@ translate polish s13_fdc0e027:
     # voice voice_file.lpdcat(13,6)
     # lpdcat panic "\"Oh... Liao, you danced so well! Come here.\" "
     voice voice_file.lpdcat(13,6)
-    lpdcat panic ""
+    lpdcat panic "\"Och... Liao, tańczyłeś tak dobrze! Podejdź tutaj.\" "
 
 # game/script/13.rpy:184
 translate polish s13_91d443af:
 
     # b "Someone in the crowd wolf wistles at us, but I follow Senpai over to a corner anyway. "
-    b ""
+    b "Ktoś w tłumie gwiżdże na nas, ale i tak podążam za Senpai'em do rogu. "
 
 # game/script/13.rpy:187
 translate polish s13_968d4dc7:
@@ -302,13 +302,13 @@ translate polish s13_968d4dc7:
     # voice voice_file.lpdcat(13,7)
     # lpdcat difficult "\"Err... Kulau, You've crossed the line...\" "
     voice voice_file.lpdcat(13,7)
-    lpdcat difficult ""
+    lpdcat difficult "\"Eee... Kulau, przegiąłeś pałę...\" "
 
 # game/script/13.rpy:191
 translate polish s13_1553364e:
 
     # lpd obsessed "\"......?\" "
-    lpd obsessed ""
+    lpd obsessed "\"......?\" "
 
 # game/script/13.rpy:199
 translate polish s13_26671b89:
@@ -316,13 +316,13 @@ translate polish s13_26671b89:
     # voice voice_file.tig(13,2)
     # tig angry "\"What did you do? Did I not tell you to not touch Liao? Or what? Did you think it didn't matter as long as you didn't do something evil?\" "
     voice voice_file.tig(13,2)
-    tig angry ""
+    tig angry "\"Coś ty zrobił? Czy nie mówiłem ci, żebyś nie tykał Liao? Myślałeś, że nie miało to znaczenia, o ile nie zrobiłeś czegoś złego?\" "
 
 # game/script/13.rpy:202
 translate polish s13_425845a4:
 
     # b "Wait, wait— What did he do to me? "
-    b ""
+    b "Czekaj, czekaj— Co on mi zrobił? "
 
 # game/script/13.rpy:204
 translate polish s13_47d0c662:
@@ -330,20 +330,20 @@ translate polish s13_47d0c662:
     # voice voice_file.lpdcat(13,8)
     # lpdcat difficult "\"Liao, Kulau just took control of your body. Didn't you notice?\" "
     voice voice_file.lpdcat(13,8)
-    lpdcat difficult ""
+    lpdcat difficult "\"Liao, Kulau po prostu przejął kontrolę nad twoim ciałem. Nie zauważyłeś?\" "
 
 # game/script/13.rpy:206
 translate polish s13_7b6349e7:
 
     # avt "\"What...\" "
-    avt ""
+    avt "\"Co...\" "
 
 # game/script/13.rpy:208
 translate polish s13_91026b9d:
 
     # b "I know I couldn't have done that myself, but I was {i}controlled?{/i} \ I didn't notice \nanything... "
     # b "I guess it kinda felt like my body was moving by itself, but it also really did feel like I was in control. I didn't think about it that much... "
-    b ""
+    b "Wiem, że nie mogłem tego zrobić samemu, ale byłem {i}kontrolowany?{/i} \ Nie zauważyłem \nniczego... "
 
 # game/script/13.rpy:210
 translate polish s13_5424d150:
@@ -351,7 +351,7 @@ translate polish s13_5424d150:
     # voice voice_file.lpd(13,3)
     # lpd obsessed "\"Can, not do?\" "
     voice voice_file.lpd(13,3)
-    lpd obsessed ""
+    lpd obsessed "\"Nie mogę tego robić?\" "
 
 # game/script/13.rpy:212
 translate polish s13_dfa1fee8:
@@ -359,7 +359,7 @@ translate polish s13_dfa1fee8:
     # voice voice_file.lpdcat(13,9)
     # lpdcat difficult "\"Well, a bit of help is fine but you didn't even let him do anything by himself. I don't really care but you probs pissed of the old man off...\" "
     voice voice_file.lpdcat(13,9)
-    lpdcat difficult ""
+    lpdcat difficult "\"Cóż, odrobina pomocy jest w porządku, ale nawet nie pozwoliłeś mu zrobić nic samemu. Mi to nie przeszkadza, ale prawdopodobnie wkurzyłeś staruszka...\" "
 
 # game/script/13.rpy:215
 translate polish s13_ac07d927:
@@ -367,7 +367,7 @@ translate polish s13_ac07d927:
     # voice voice_file.tig(13,3)
     # tig angry "\"Of course!\" " with vshake
     voice voice_file.tig(13,3)
-    tig angry "" with vshake
+    tig angry "\"Oczywiście, że tak!\" " with vshake
 
 # game/script/13.rpy:217
 translate polish s13_868c4780:
