@@ -375,7 +375,7 @@ translate polish s13_868c4780:
     # voice voice_file.lpdcat(13,10)
     # lpdcat difficult "\"It would have been better to help him out when he's back home though. What do you think is gonna happen now that everyone has seen him dance so well? What happens when he messes it up next time?\" "
     voice voice_file.lpdcat(13,10)
-    lpdcat difficult ""
+    lpdcat difficult "\"Byłoby lepiej mu pomóc, kiedy wróci do domu. Jak myślisz, co się stanie teraz, kiedy wszyscy widzieli jak tak dobrze tańczy? Co się stanie jeśli następnym razem coś schrzani?\" "
 
 # game/script/13.rpy:222
 translate polish s13_7119a2db:
@@ -383,7 +383,7 @@ translate polish s13_7119a2db:
     # voice voice_file.tig(13,4)
     # tig angry "\"I've told you to think about the consequences of your actions!\" "
     voice voice_file.tig(13,4)
-    tig angry ""
+    tig angry "\"Mówiłem ci, co myślę o konsekwencjach twoich poczynań!\" "
 
 # game/script/13.rpy:226
 translate polish s13_8834b3a0:
@@ -393,15 +393,15 @@ translate polish s13_8834b3a0:
     # tig angry "\"Would you wish for Liao to never perform in front of the others again? Or would you rather dance for him from now on?\" "
     # tig angry "\"Maybe you'd rather attend every dance club meeting on Liao's behalf? Do you understand what you just did!\" "
     voice voice_file.tig(13,5)
-    tig angry ""
-
-# game/script/13.rpy:228
+    tig angry "\"Nie pomyślałeś o ludziach wokół ciebie? Co jest z tobą nie tak?\" "
+    tig angry "\"Chciałbyś, żeby Liao nigdy więcej nie występował przed innymi? Czy wolałbyś od teraz tańczyć za niego?\" "
+    tig angry "\"Może wolałbyś brać udział w każdym spotkaniu klubu tanecznego w jego imieniu? Czy ty rozumiesz co właśnie zrobiłeś!\" "# game/script/13.rpy:228
 translate polish s13_592ea892:
 
     # voice voice_file.lpdcat(13,11)
     # lpdcat serious "\"Drop it, old man. It doesn't really matter... I'll just tell them I've been teaching Liao...\" "
     voice voice_file.lpdcat(13,11)
-    lpdcat serious ""
+    lpdcat serious "\"Daj spokój sraruszku. To nie ma tak naprawdę znaczenia... Po prostu im powiem, że uczyłem Liao...\" "
 
 # game/script/13.rpy:230
 translate polish s13_c4c4e511:
@@ -409,7 +409,7 @@ translate polish s13_c4c4e511:
     # voice voice_file.tig(13,6)
     # tig angry "\"Liao danced unreasonably well just then. How could you implore them to believe you after witnessing that?\" "
     voice voice_file.tig(13,6)
-    tig angry ""
+    tig angry "\"Liao przed chwilą tańczył niedorzecznie dobrze. Jak mógłbyś ich upraszać, żeby ci uwierzyli po tym czego byli świadkiem?\" "
 
 # game/script/13.rpy:232
 translate polish s13_40830035:
@@ -418,7 +418,7 @@ translate polish s13_40830035:
     # tig angry "\"Will they not look for another reason? What if they leap to some odd conclusion?\" "
     # tig angry "\"Even if they believe your story about teaching them, kitten. It would only serve to add to the rumours about your relationship!\" "
     voice voice_file.tig(13,7)
-    tig angry ""
+    tig angry "\"Nawet jeśli by uwierzyli w twoją historię o uczeniu go, kociaku. Posłużyli by się tym, by zwiększyć plotki o waszym związku!\" "
 
 # game/script/13.rpy:237
 translate polish s13_15a4fa0e:
@@ -426,7 +426,7 @@ translate polish s13_15a4fa0e:
     # voice voice_file.tig(13,8)
     # tig angry "\"You fool. If you were ever to think about the consequences... How can you call yourself a god worthy to lead anyone?\" "
     voice voice_file.tig(13,8)
-    tig angry ""
+    tig angry "\"Ty głupcze. Gdybyś kiedykolwiek myślał o konsekwencjach... Jak możesz nazywać się bogiem godnym, by kogokolwiek prowadzić?\" "
 
 # game/script/13.rpy:242
 translate polish s13_ec7ea448:
@@ -434,13 +434,13 @@ translate polish s13_ec7ea448:
     # voice voice_file.tig(13,9)
     # tig angry "\"Look at what you've done. Liao might have to quit his club over this! You've put Liao's dreams in jeopardy! You may even have ruined them.\" "
     voice voice_file.tig(13,9)
-    tig angry ""
+    tig angry "\"Spójrz co zrobiłeś. Liao pewnie będzie musiał przez to odejść z klubu! Wystawiłeś marzenia Liao na zagrożenie! Możliwe, że je zrujnowałeś.\" "
 
 # game/script/13.rpy:246
 translate polish s13_3b5e46f7:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/13.rpy:248
 translate polish s13_7469205a:
@@ -448,19 +448,19 @@ translate polish s13_7469205a:
     # voice voice_file.lpd(13,4)
     # lpd obsessed "\"Ruined... Liao's dream?\" "
     voice voice_file.lpd(13,4)
-    lpd obsessed ""
+    lpd obsessed "\"Zrujnowałem... Marzenia Liao?\" "
 
 # game/script/13.rpy:250
 translate polish s13_3b23b615:
 
     # avt "\"Umm...\" "
-    avt ""
+    avt "\"Umm...\" "
 
 # game/script/13.rpy:254
 translate polish s13_0a96c187:
 
     # b "I don't think it's that serious. It's just gonna be— well, awkward. "
-    b ""
+    b "Nie sądzę, że to aż tak poważne. To po prostu będzie- cóż, dziwne. "
 
 # game/script/13.rpy:256
 translate polish s13_cfb830cd:
