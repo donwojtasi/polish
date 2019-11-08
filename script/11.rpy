@@ -552,9 +552,9 @@ translate polish s11_ac948bcc:
 
     voice voice_file.lpdcat(11,20)
 
-    lpdcat difficult ""
+    lpdcat difficult "\"Rodzina Liao nigdy nie zaakceptuje tego, o co go proszę...\" "
     
-    lpdcat difficult ""
+    lpdcat difficult "\"Gdyby przez to przeszedł i uciekł ze mną do Miaoli na ponad rok... czy naprawdę mógłby wrócić do domu?\" "
 
 
 
@@ -572,9 +572,9 @@ translate polish s11_3441143e:
 
     voice voice_file.lpdcat(11,21)
 
-    lpdcat serious ""
+    lpdcat serious "\" Więc może wcale nie będzie tak źle się wycofać, i żebym znów stał się yaoguai.\" "
     
-    lpdcat serious ""
+    lpdcat serious "\"Jasne, to koniec mojej świątyni, ale przecież nikt nie zginie...\" "
 
 
 
@@ -586,7 +586,7 @@ translate polish s11_3a8409c4:
 
     # avt "\"You're really giving up?\" " with flash
 
-    avt "" with flash
+    avt "\"Naprawdę się poddajesz?\" " with flash
 
 
 
@@ -602,7 +602,7 @@ translate polish s11_a7dd8506:
 
     voice voice_file.lpdcat(11,22)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"...Na pewno się nie poddam! Wyjedziesz ze mną do Miaoli, Liao?\" "
 
 
 
@@ -614,7 +614,7 @@ translate polish s11_2166e7b1_1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -630,7 +630,7 @@ translate polish s11_d17b469e:
 
     voice voice_file.lpdcat(11,23)
 
-    lpdcat normal ""
+    lpdcat normal "\"To nie ma znaczenia czy się poddam, czy nie. To wciąż twoja decyzja.\" "
 
 
 
@@ -648,9 +648,9 @@ translate polish s11_8760a719:
 
     voice voice_file.lpdcat(11,24)
 
-    lpdcat serious ""
+    lpdcat serious "\"Myślę jednak nad zachowaniem dystansu. Liao może być tylko moim przyjacielem.\" "
     
-    lpdcat serious ""
+    lpdcat serious "\"Jeśli ma możliwość mi pomóc, to będzie okej- Jeśli nie, żegnanie się nie będzie tak bolało.\" "
 
 
 
@@ -662,7 +662,7 @@ translate polish s11_64b969e7:
 
     # avt "\"Senpai, it's a bit late to be saying that...\" "
 
-    avt ""
+    avt "\"Senpai, trochę późno, by mówić takie rzeczy...\" "
 
 
 
@@ -678,7 +678,7 @@ translate polish s11_9d5fe9d6:
 
     voice voice_file.lpdcat(11,25)
 
-    lpdcat cute ""
+    lpdcat cute "\"Hmm? A coooo, już się we mnie zakochałeś lub coś takiego?\" "
 
 
 
@@ -690,7 +690,7 @@ translate polish s11_2803a673:
 
     # avt "\"Not at all! Senpai, don't kill the mood!\" "
 
-    avt ""
+    avt "\"Wcale nie! Senpai, nie niszcz atmosfery!\" "
 
 
 
@@ -706,7 +706,7 @@ translate polish s11_3519fc95:
 
     voice voice_file.lpdcat(11,26)
 
-    lpdcat normal ""
+    lpdcat normal "\"Ale... Ja serio nie chcę cię tym wszystkim zamęczać.\" "
 
 
 
@@ -722,7 +722,7 @@ translate polish s11_c6ef79e2:
 
     voice voice_file.lpdcat(11,27)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Dalej będziemy przyjaciółmi, niezależnie od sytuacji! Będę wpadać i z tobą rozmawiać. Dalej jednak jest tydzień egzaminów i jesteśmy obaj zajęci, co nie?\" "
 
 
 
@@ -734,7 +734,7 @@ translate polish s11_21eb6419:
 
     # avt "\"Yeah...\" "
 
-    avt ""
+    avt "\"Ta...\" "
 
 
 
@@ -750,7 +750,7 @@ translate polish s11_d72a62dc:
 
     voice voice_file.lpdcat(11,28)
 
-    lpdcat normal ""
+    lpdcat normal "\"Więc musimy się spiąć i skupić na egzaminach! Te sprawy mogą poczekać!\" "
 
 
 
@@ -762,7 +762,7 @@ translate polish s11_2166e7b1_2:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -778,7 +778,7 @@ translate polish s11_c5c3c047:
 
     voice voice_file.lpdcat(11,29)
 
-    lpdcat laugh ""
+    lpdcat laugh "\"Ale na razie zapomnijmy o tym przymulaczu rozmowy. Czas zamówić jakieś żarcie! Kulau, chodźmy!\" "
 
 
 
@@ -790,7 +790,7 @@ translate polish s11_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
