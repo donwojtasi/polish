@@ -330,7 +330,7 @@ translate polish s13_47d0c662:
     # voice voice_file.lpdcat(13,8)
     # lpdcat difficult "\"Liao, Kulau just took control of your body. Didn't you notice?\" "
     voice voice_file.lpdcat(13,8)
-    lpdcat difficult "\"Liao, Kulau po prostu przejął kontrolę nad twoim ciałem. Nie zauważyłeś?\" "
+    lpdcat difficult "\"Liao, Kulau właśnie przejął kontrolę nad twoim ciałem. Nie zauważyłeś?\" "
 
 # game/script/13.rpy:206
 translate polish s13_7b6349e7:
@@ -395,7 +395,7 @@ translate polish s13_8834b3a0:
     voice voice_file.tig(13,5)
     tig angry "\"Nie pomyślałeś o ludziach wokół ciebie? Co jest z tobą nie tak?\" "
     tig angry "\"Chciałbyś, żeby Liao nigdy więcej nie występował przed innymi? Czy wolałbyś od teraz tańczyć za niego?\" "
-    tig angry "\"Może wolałbyś brać udział w każdym spotkaniu klubu tanecznego w jego imieniu? Czy ty rozumiesz co właśnie zrobiłeś!\" "# game/script/13.rpy:228
+    tig angry "\"Może wolałbyś brać udział w każdym spotkaniu klubu tanecznego w jego imieniu? Czy ty rozumiesz co właśnie zrobiłeś?!\" "# game/script/13.rpy:228
 translate polish s13_592ea892:
 
     # voice voice_file.lpdcat(13,11)
@@ -409,7 +409,7 @@ translate polish s13_c4c4e511:
     # voice voice_file.tig(13,6)
     # tig angry "\"Liao danced unreasonably well just then. How could you implore them to believe you after witnessing that?\" "
     voice voice_file.tig(13,6)
-    tig angry "\"Liao przed chwilą tańczył niedorzecznie dobrze. Jak mógłbyś ich upraszać, żeby ci uwierzyli po tym czego byli świadkiem?\" "
+    tig angry "\"Liao przed chwilą tańczył absurdalnie dobrze. Jak mógłbyś ich upraszać, żeby ci uwierzyli po tym czego byli świadkiem?\" "
 
 # game/script/13.rpy:232
 translate polish s13_40830035:
@@ -418,7 +418,7 @@ translate polish s13_40830035:
     # tig angry "\"Will they not look for another reason? What if they leap to some odd conclusion?\" "
     # tig angry "\"Even if they believe your story about teaching them, kitten. It would only serve to add to the rumours about your relationship!\" "
     voice voice_file.tig(13,7)
-    tig angry "\"Nawet jeśli by uwierzyli w twoją historię o uczeniu go, kociaku. Posłużyli by się tym, by zwiększyć plotki o waszym związku!\" "
+    tig angry "\"Nawet jeśli by uwierzyli w twoją historię o uczeniu go, kociaku. Posłużyliby się tym, by doliczyć to do plotek o waszym związku!\" "
 
 # game/script/13.rpy:237
 translate polish s13_15a4fa0e:
@@ -434,7 +434,7 @@ translate polish s13_ec7ea448:
     # voice voice_file.tig(13,9)
     # tig angry "\"Look at what you've done. Liao might have to quit his club over this! You've put Liao's dreams in jeopardy! You may even have ruined them.\" "
     voice voice_file.tig(13,9)
-    tig angry "\"Spójrz co zrobiłeś. Liao pewnie będzie musiał przez to odejść z klubu! Wystawiłeś marzenia Liao na zagrożenie! Możliwe, że je zrujnowałeś.\" "
+    tig angry "\"Spójrz co narobiłeś. Liao pewnie będzie musiał przez to odejść z klubu! Naraziłeś marzenia Liao na niebezpieczeństwo! Możliwe, że je zrujnowałeś.\" "
 
 # game/script/13.rpy:246
 translate polish s13_3b5e46f7:
@@ -448,7 +448,7 @@ translate polish s13_7469205a:
     # voice voice_file.lpd(13,4)
     # lpd obsessed "\"Ruined... Liao's dream?\" "
     voice voice_file.lpd(13,4)
-    lpd obsessed "\"Zrujnowałem... Marzenia Liao?\" "
+    lpd obsessed "\"Zrujnowałem... marzenia Liao?\" "
 
 # game/script/13.rpy:250
 translate polish s13_3b23b615:
@@ -466,32 +466,32 @@ translate polish s13_0a96c187:
 translate polish s13_cfb830cd:
 
     # b "At the very least I won't be able to practice that routine during club time anymore, enough people saw me that it wouldn't make sense if I sucked at it next time. "
-    b ""
+    b "Przynajmniej nie będę musiał już ćwiczyć tego układu podczas ćwiczeń klubu, tyle osób mnie widziało, że byłoby to nielogiczne, gdybym następnym razem był do bani. "
 
 # game/script/13.rpy:258
 translate polish s13_45ab529e:
 
     # b "But what if they ask me to be in the end of semester performance... I'll be forced to beg Leopard to help me. "
-    b ""
+    b "Ale jeśli poproszą mnie bym był częścią występu na końcu semestru... Będę zmuszony błagać Panterę, by mi pomógł. "
 
 # game/script/13.rpy:260
 translate polish s13_45d4daba:
 
     # b "They might just think I'm really good now and ask me to perform at every show... and I'll just be asked, over and over again... "
-    b ""
+    b "Mogą myśleć, że jestem teraz naprawdę dobry i będą prosić bym występował na każdym show... i będę w kółko o to proszony... "
 
 # game/script/13.rpy:262
 translate polish s13_b37c02ce:
 
     # b "Dancing is about your ability to coordinate and move in rhythm, it's just gonna be really weird for me to struggle after doing all of that flawlessly. "
     # b "My head hurts just thinking about how to explain it to everyone... "
-    b ""
-
+    b "Taniec polega na umiejętności koordynacji i ruchu w rytm, to będzie naprawdę dziwne zmagać się z tym po tym jak zrobiłem to bezbłędnie. "
+    b "Od myślenia o tym jak mam im to wytłumaczyć aż boli mnie głowa... "
 # game/script/13.rpy:266
 translate polish s13_e311497b:
 
     # avt "\"I mean, it's not that bad. Worst case I just leave dance club. It's not like I couldn't just learn dancing anywhere...\" "
-    avt ""
+    avt "\"Nie jest tak źle. W najgorszym wypadku rzucę klub taneczny. Mogę przecież nauczyć się tańca gdziekolwiek...\" "
 
 # game/script/13.rpy:268
 translate polish s13_f71b1b1a:
