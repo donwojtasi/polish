@@ -804,9 +804,9 @@ translate polish s11_9efff916:
 
     # b "At first watching Senpai run around like usual makes me smile... but afterwards I just feel worse than before, like something was empty. "
 
-    b ""
+    b "Senpai cięgnie Panterę za obrożę do baru. Jak na to nie patrzeć, tam nie ma żadnego jedzenia. "
     
-    b ""
+    b "Na początku widok biegającego jak zawsze Senpai-a przywołuje u mnie uśmiech na twarzy... ale potem czuję się nawet gorzej niż wcześniej, jakby czegoś brakowało. "
 
 
 
@@ -818,7 +818,7 @@ translate polish s11_cdb275fc:
 
     # b "Tiger goes with me to help buy dinner, trying to comfort me in the process. Soon enough Senpai returns with Leopard and we all sit down together. I'm too tired to think about what I'm eating. "
 
-    b ""
+    b "Tygrys idzie ze mną kupić obiad, jednocześnie próbując mnie pocieszyć. Za chwilę Senpai wraca z Panterą i wszyscy razem siadamy. Jestem zbyt padnięty, żeby myśleć, co w ogóle jem. "
 
 
 
@@ -830,7 +830,7 @@ translate polish s11_a6696e1e:
 
     # b "He's beaming, obviously trying to keep everybody in good spirits. Even Tiger follows his lead and goes along with his shenanigans... but... "
 
-    b ""
+    b "Promienuje szczęściem, oczywiście próbując utrzymać wszystkich w dobrym humorze. Nawet Tygrys idzie za jego przykładem i pogrywa z jego sztuczkami... ale... "
 
 
 
@@ -842,7 +842,7 @@ translate polish s11_97ebe987:
 
     # b "...I don't know why but all I can think about is Senpai leaving. I've always thought about him leaving... but now that he is I'm just... sad about it. "
 
-    b ""
+    b "...Nie wiem, czemu, ale jedyne, o czym myślę, to wyjazd Senpai-a. Zawsze się tego spodziewałem... ale teraz, kiedy faktycznie wyjeżdża, jestem... zdołowany. "
 
 
 
@@ -854,7 +854,7 @@ translate polish s11_070cce12:
 
     # b "Today's the day of my mathematics exam. "
 
-    b ""
+    b "Dziś jest dzień zaliczeń z matematyki. "
 
 
 
@@ -866,7 +866,7 @@ translate polish s11_d1da201c:
 
     # b "I worked really hard to cover everything during the break. Even then, I'm still not confident about this exam. "
 
-    b ""
+    b "Ciężko pracowałem, żeby wyuczyć się wszystkiego podczas przerwy. Dalej nie jestem jednak zbyt pewny tego zaliczenia. "
 
 
 
@@ -878,7 +878,7 @@ translate polish s11_3061a507:
 
     # b "I just suck at maths and I don't know if studying helped me remember anything at all... especially considering everything else I've had to deal with. \n(I was so scared I left it to last in my revision...) "
 
-    b ""
+    b "Po prostu ssę z matmy i nie mam pojęcia, czy nauka pomogła mi cokolwiek zapamiętać... Szczególnie biorąc pod uwagę wszystko inne, z czym musiałem sobie poradzić. /n(Tak bardzo się bałem, że zostawiłem to na później...) "
 
 
 
@@ -892,9 +892,9 @@ translate polish s11_a7381e3a:
 
     # b "I need to focus on my test and stop paying attention to him... but I guess he could... "
 
-    b ""
+    b "Skupiam oczy na Panterze, który ogląda posępny pokój zaliczeń. Pewnie nigdy nie widział tylu ludzi zdających w jednym pomieszczeniu. "
     
-    b ""
+    b "Muszę się skupić na swoim teście i przestać zwracać na niego uwagę... ale może mógłby... "
 
 
 
@@ -908,9 +908,9 @@ translate polish s11_58307d86:
 
     # b "I really don't want to fail. All I need is a pass... If I ask Leopard to help... "
 
-    b ""
+    b "Spoglądam na Tygrysa, czyta książkę w pustej ławce w tylnym rzędzie, ledwo zwracając na mnie uwagę. Chyba okazja jak każda inna. "
     
-    b ""
+    b "Serio nie chcę tego oblać. Jedyne, czego potrzebuję, to zdać... Gdybym poprosił Panterę o pomoc... "
 
 
 
@@ -924,9 +924,9 @@ translate polish s11_02_dont_cheat_29b9039f:
 
     # b "If I fail, I fail. Passing one subject isn't worth doing that. "
 
-    b ""
+    b "Nie mogę. Pantera nie ma bladego pojęcia, że ściąganie jest złe. Nie mogę go zwodzić. "
     
-    b ""
+    b "Jeśli nie zdam, to nie zdam. Zaliczenie jednego przedmiotu nie jest tego warte. "
 
 
 
@@ -938,7 +938,7 @@ translate polish s11_02_dont_cheat_742eed5b:
 
     # b "It sucks... but I have to continue on. I need to have the conviction to do this test. I can do it! "
 
-    b ""
+    b "To do bani... ale muszę brnąć dalej. Muszę się przekonać, żeby zrobić ten test. Dam radę! "
 
 
 
@@ -950,7 +950,7 @@ translate polish s11_02_dont_cheat_e8d0ffc2:
 
     # b "The bell rings for the end of the exam as I more or less finish off the last section of the paper. I had to skip a bunch, but I'm confident in at least half of them. I should pass... "
 
-    b ""
+    b "Dzwonek dzwoni na zakończenie egzaminu, kiedy mniej więcej wypisuję ostatnią część papieru. Musiałem wiele pominąć, ale jestem pewiem przynajmniej połowy z nich. Powinienem zdać... "
 
 
 
@@ -962,7 +962,7 @@ translate polish s11_02_dont_cheat_c4c23eb2:
 
     # b "The rest right now is in the hands of fate.I pray to {font=tl/None/NotoSansCJKtc-Bold.otf}Emperor Wenchang{/font} before packing up my stationery and leaving. "
 
-    b ""
+    b "Reszta jest jak na razie w rękach losu. Modlę się do {font=tl/None/NotoSansCJKtc-Bold.otf}Cesarza Wenchanga{/font} przed spakowaniem swojego sprzętu i wyjściem z sali. "
 
 
 
@@ -974,7 +974,7 @@ translate polish s11_02_cheat_a0f9dd33:
 
     # b "It's not worth the risk of failing. I signal to get Leopards attention. "
 
-    b ""
+    b "Nie warto ryzykować oblania. Daję znak, żeby zyskać uwagę Pantery. "
 
 
 
@@ -986,7 +986,7 @@ translate polish s11_02_cheat_af54c937:
 
     # lpd normal "\"......?\" "
 
-    lpd normal ""
+    lpd normal "\"......?\" "
 
 
 
@@ -998,7 +998,7 @@ translate polish s11_02_cheat_6c820e8b:
 
     # b "I scribble a message down on the spare paper we're given for calculations. \"Can you help me by looking at the other students?\" I write to leopard. "
 
-    b ""
+    b "Bazgram wiadomość na dodatkowej stronie przeznaczonej do obliczeń. \"Możesz mi pomóc, patrząc na innych uczniów?\" piszę do Pantery. "
 
 
 
@@ -1014,7 +1014,7 @@ translate polish s11_02_cheat_41150711:
 
     voice voice_file.lpd(11,1)
 
-    lpd obsessed ""
+    lpd obsessed "\"...Liao nie mówić, nie sprawiedliwe?\" "
 
 
 
@@ -1026,7 +1026,7 @@ translate polish s11_02_cheat_2faf45e7:
 
     # b "I respond on the paper. \"It's okay this time. I really need your help.\" As long as I just get a pass this should be okay... right?"
 
-    b ""
+    b "Odpowiadam na papierze. \"Tym razem to w porządku. Naprawdę potrzebuję twojej pomocy.\" Tak długo jak po prostu zdam powinno być okej... co nie? "
 
 
 
@@ -1038,7 +1038,7 @@ translate polish s11_02_cheat_bb575f4a:
 
     # lpd obsessed "\"?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"?\" "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish s11_02_cheat_015ce36b:
 
     # b "Leopard didn't seem to understand why I changed my mind, but that didn't stop him from wanting to help me. "
 
-    b ""
+    b "Pantera raczej nie zrozumiał, czemu zmieniłem zdanie, ale to nie powstrzymało go, żeby chcieć mi pomóc. "
 
 
 
@@ -1064,9 +1064,9 @@ translate polish s11_02_cheat_ebe4f3b7:
 
     # b "Instead, he walks around the classroom, checking a variety of students papers, examining each one thoroughly. "
 
-    b ""
+    b "Spodziewałem się, że wróci od razu po spojrzeniu na test innego ucznia, ale nie wrócił. "
     
-    b ""
+    b "Zamiast tego obchodzi całą salę, sprawdzając różne papiery uczniów, przyglądając się każdemu uważnie. "
 
 
 
@@ -1082,11 +1082,11 @@ translate polish s11_02_cheat_8e7ba8e2:
 
     # b "It doesn't seem like he'll be coming back for a while... I'll have to start giving this a go or else I won't have anything done! "
 
-    b ""
+    b "Nie wiem, co on robi, ale dopóki nie ma go przy mojej ławce nie za bardzo mam co robić. "
     
-    b ""
+    b "Więc czekam, siedząc sobie, gryząc mój długopis i delikatnie stukając palcami o ławkę. "
     
-    b ""
+    b "Raczej nie wróci tak szybko... Będę musiał sam spróbować albo inaczej nic nie napiszę! "
 
 
 
@@ -1098,7 +1098,7 @@ translate polish s11_02_cheat_b08d79c3:
 
     # b "This question, I know what the formula for this is... {w=0.5}Damn it! This isn't right... Where did I go wrong? "
 
-    b ""
+    b "To zadanie, wiem, jaki jest na to wzór... {w=0.5}A niech to! To nie odpowiedź... Co zrobiłem źle? "
 
 
 
@@ -1114,7 +1114,7 @@ translate polish s11_02_cheat_743d8655:
 
     voice voice_file.lpd(11,2)
 
-    lpd normal ""
+    lpd normal "\"Trzy.\" "
 
 
 
@@ -1126,7 +1126,7 @@ translate polish s11_02_cheat_8194637d:
 
     # b "Deep in thought trying to work out this question, I'm startled when I hear Leopard's voice come from behind me. "
 
-    b ""
+    b "Tak skupiłem się na rozwiązywaniem zadania, że głos Pantery za mną powoduje u mnie cichy zawał. "
 
 
 
@@ -1138,7 +1138,7 @@ translate polish s11_02_cheat_1577424e:
 
     # b "I look up and Leopard has finally returned. He looks assuredly at my paper. "
 
-    b ""
+    b "Zerkam do góry, Pantera w końcu wrócił. Patrzy pewny siebie na mój test. "
 
 
 
@@ -1150,7 +1150,7 @@ translate polish s11_02_cheat_ea49f826:
 
     # b "Leopard nods as I write down the answer. "
 
-    b ""
+    b "Pantera kiwa głową, gdy zapisuję odpowiedź. "
 
 
 
@@ -1162,7 +1162,7 @@ translate polish s11_02_cheat_2c769e72:
 
     # b "Well that's one question down at least. Why did that take him so long? There's no way we'd be able to make it at that rate. I sigh to myself and begin working on the next question... "
 
-    b ""
+    b "Cóż, jedno pytanie mniej. Czemu zajęło mu to tak długo? Nie ma mowy, żebyśmy to zrobili w takim tempie. Wzdycham do siebie i zaczynam pracować nad kolejnym zadaniem... "
 
 
 
@@ -1178,7 +1178,7 @@ translate polish s11_02_cheat_1189b84c:
 
     voice voice_file.lpd(11,3)
 
-    lpd normal ""
+    lpd normal "\"Cztery.\" "
 
 
 
@@ -1190,7 +1190,7 @@ translate polish s11_02_cheat_ef356ee0:
 
     # b "Leopard speaks out the answer before I finish reading the question. "
 
-    b ""
+    b "Pantera dyktuje odpowiedź zanim jeszcze skończyłem czytać pytanie. "
 
 
 
@@ -1202,7 +1202,7 @@ translate polish s11_02_cheat_b747a11c:
 
     # b "Surprised, I write it down and move my pen to point at the next question. "
 
-    b ""
+    b "Zaskoczony zapisuję je na kartce i przesuwam długopis na następne pytanie. "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish s11_02_cheat_ca342e9c:
 
     voice voice_file.lpd(11,4)
 
-    lpd normal ""
+    lpd normal "\"Jeden.\" "
 
 
 
@@ -1230,7 +1230,7 @@ translate polish s11_02_cheat_10d16caa:
 
     # b "...Wait, did he actually memorise all the answers? "
 
-    b ""
+    b "...Chwila, czy on faktycznie zapamiętał wszystkie odpowiedzi? "
 
 
 
@@ -1242,7 +1242,7 @@ translate polish s11_02_cheat_67faac39:
 
     # b "That's not easy... How's his memory this good?! Did he really remember {i}every{/i} \ question? \n(It's no wonder he took so long...) "
 
-    b ""
+    b "To nie jest proste... Jakim cudem on ma taką dobrą pamięć? Czy on serio pamięta {i}każde{/i} \ pytanie? \n(Nic dziwnego, że tak mu to długo zajęło...) "
 
 
 
@@ -1254,7 +1254,7 @@ translate polish s11_02_cheat_5283757d:
 
     # b "I go down through the questions and Leopard quickly gives me the answers. It doesn't take long before we finish the paper and start to go back double-checking the answers for the first half. "
 
-    b ""
+    b "Kontynuuję do kolejnych pytań i Pantera szybko podaje mi odpowiedzi. Szybko kończymy stronę i zaczynamy sprawdzać ponownie odpowiedzi z pierwszej połowy. "
 
 
 
@@ -1270,7 +1270,7 @@ translate polish s11_02_cheat_36ac5e99:
 
     voice voice_file.tig(11,3)
 
-    tig angry "" with vshake
+    tig angry "\"Hej! Aborygenie! Co ty wyprawiasz?\" " with vshake
 
 
 
@@ -1282,7 +1282,7 @@ translate polish s11_02_cheat_ea95a129:
 
     # avt "\"!\" "
 
-    avt ""
+    avt "\"!\" "
 
 
 
@@ -1294,7 +1294,7 @@ translate polish s11_02_cheat_b01f746d:
 
     # lpd normal "\"?\" "
 
-    lpd normal ""
+    lpd normal "\"?\" "
 
 
 
@@ -1310,7 +1310,7 @@ translate polish s11_02_cheat_dda2e8ee:
 
     voice voice_file.tig(11,4)
 
-    tig angry ""
+    tig angry "Co to za numery, które podajesz Liao? Odpowiedzi innych uczniów?\" "
 
 
 
@@ -1326,7 +1326,7 @@ translate polish s11_02_cheat_6bf48b4e:
 
     voice voice_file.tig(11,5)
 
-    tig angry ""
+    tig angry "\"Nie zdajesz sobie sprawy, czym jest ściąganie? Czy może wy aborygeni nie macie nawet pojęcia, czym jest test?\" "
 
 
 
@@ -1342,7 +1342,7 @@ translate polish s11_02_cheat_8561cd00:
 
     voice voice_file.lpd(11,5)
 
-    lpd normal ""
+    lpd normal "\"Ściąganie... Liao powiedział. Ja wiem.\" "
 
 
 
@@ -1358,7 +1358,7 @@ translate polish s11_02_cheat_ab8f64ab:
 
     voice voice_file.tig(11,6)
 
-    tig angry ""
+    tig angry "\"A więc {i}celowo{/i} \ pozwalasz Liao ściągać?!\" "
 
 
 
@@ -1370,7 +1370,7 @@ translate polish s11_02_cheat_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -1382,7 +1382,7 @@ translate polish s11_02_cheat_f0495fbd:
 
     # avt "\"No...\" "
 
-    avt ""
+    avt "\"Nie...\" "
 
 
 
@@ -1394,7 +1394,7 @@ translate polish s11_02_cheat_243d3a0d:
 
     # b "As soon as I open my mouth I remember the deadly silence of the exam hall. Acting quickly, I cough to cover my voice. I can't help defend Leopard here. " with hshake
 
-    b "" with hshake
+    b "Gdy tylko otwieram buzię, przypominam sobie o martwej ciszy w sali egzaminacyjnej. Szybko reagując, kaszlę, żeby ukryć mój głos. Nie mogę tutaj obronić pantery. " with hshake
 
 
 
@@ -1410,7 +1410,7 @@ translate polish s11_02_cheat_f36ea9cd:
 
     voice voice_file.tig(11,7)
 
-    tig angry ""
+    tig angry "\"Nie wiesz, jak bardzo to szkodzi jego rozwojowi? Hmm, nie wiesz? Cóż, sporo byś się natrudził, szukając kogoś, kto nie wie. Czemu chociaż raz nie pomyślisz, zanim coś zrobisz? \" "
 
 
 
@@ -1426,7 +1426,7 @@ translate polish s11_02_cheat_b529927e:
 
     voice voice_file.tig(11,8)
 
-    tig angry ""
+    tig angry "\"Nie możesz podawać Liao odpowiedzi innych uczniów. Niby dlaczego nie wolno im ze sobą rozmawiać? Pomyśl za siebe choć raz!\" "
 
 
 
@@ -1438,7 +1438,7 @@ translate polish s11_02_cheat_781beaf8:
 
     # lpd angry_1 "\"......\" "
 
-    lpd angry_1 ""
+    lpd angry_1 "\"......\" "
 
 
 
@@ -1456,7 +1456,7 @@ translate polish s11_02_cheat_650afbe1:
 
     voice voice_file.tig(11,9)
 
-    tig angry ""
+    tig angry "\"Jeśli nie rozumiesz podstaw dzisiejszej społeczności, lepiej, żebyć trzymał się z dala od Liao. Bycie aborygenem to szczególnie marna wymówka!\" "
     
     tig angry ""
 
@@ -1474,7 +1474,7 @@ translate polish s11_02_cheat_63f41045:
 
     voice voice_file.lpd(11,6)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Liao powiedział...\" "
 
 
 
@@ -1492,9 +1492,9 @@ translate polish s11_02_cheat_2e1e8700:
 
     voice voice_file.tig(11,10)
 
-    tig angry ""
+    tig angry "\"Mam w nosie, co powiedział Liao. Musisz umieć sam oceniać. Czyż nie jesteś bogiem? Jak możesz prowadzić w ten sposób swoich wyznawców?\" "
     
-    tig angry ""
+    tig angry "Nic dziwnego, że potrzebujesz wyroczni. Bez kogoś, któ mówi, co masz robić, jesteś bezużyteczny.\" "
 
 
 
@@ -1510,7 +1510,7 @@ translate polish s11_02_cheat_d26c1517:
 
     voice voice_file.lpd(11,7)
 
-    lpd angry_1 ""
+    lpd angry_1 "\"Bóg Han, uważaj na słowa!\" "
 
 
 
@@ -1528,9 +1528,9 @@ translate polish s11_02_cheat_cc76d847:
 
     voice voice_file.tig(11,11)
 
-    tig angry ""
+    tig angry "\"Po cóż miałbym to robić? Nie zrobiłeś nic dobrego odkąd przyszedłeś do Liao. Przez ciebie wszystko jest trudniejsze dla nas obu.\" "
     
-    tig angry ""
+    tig angry "\"Chociaż to nie jest z naszej winy, jeśli ktokolwiek słucha takiego tępaka jak ty... twoi wyznawcy muszą być takimi samymi bezmózgami jak ty sam.\" "
 
 
 
@@ -1546,7 +1546,7 @@ translate polish s11_02_cheat_62c3c49e:
 
     voice voice_file.lpd(11,8)
 
-    lpd angry_1 "" with vshake
+    lpd angry_1 "\"Bóg Han, uważaj na słowa!\" " with vshake
 
 
 
