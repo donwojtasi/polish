@@ -90,7 +90,7 @@ translate polish s13_8f1df927:
 translate polish s13_3dcfe980:
 
     # b "Leopard comes over to dance with us too. Their moves flow in sync while mine pale in comparison... I know Senpai's been practicing for years but how did Leopard get so good? "
-    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje wypadają przy nich blado... Wiem, że Senpai ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
+    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje wypadają przy nich blado... Wiem, że Senpaj ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
 
 # game/script/13.rpy:56
 translate polish s13_1b91d18d:
@@ -499,13 +499,13 @@ translate polish s13_f71b1b1a:
     # voice voice_file.tig(13,10)
     # tig angry "\"Do you really expect to become proficient without a teacher let alone a venue? If you did leave, would you pay for those resources?\" "
     voice voice_file.tig(13,10)
-    tig angry ""
+    tig angry "\"Czy naprawdę oczekujesz, że staniesz się wprawny bez nauczyciela, a co dopiero lokalu? Gdybyś odszedł, opłaciłbyś to?\" "
 
 # game/script/13.rpy:270
 translate polish s13_b1e13756:
 
     # avt "\"You're just exaggerating, I should be able to work past this...\" "
-    avt ""
+    avt "\"Trochę przesadzasz, powinienem sobie z tym poradzić...\" "
 
 # game/script/13.rpy:272
 translate polish s13_662571cd:
