@@ -50,7 +50,7 @@ translate polish s13_883fc54f:
 translate polish s13_047e2060:
 
     # b "Senpai's one of the guys standing at the front... When did he get the chance to learn today's routine? He's been with me the whole time before exam break. There hasn't been any club meetings since... "
-    b "Senpai jest jednym z gości stojących z przodu... Kiedy miał czas nauczyć się dzisiejszego układu? Był ze mną przez cały czas podczas przerwy egzaminacyjnej. Od tamtego czasu nie było żadnych spotkań klubu... "
+    b "Senpaj jest jednym z gości stojących z przodu... Kiedy miał czas nauczyć się dzisiejszego układu? Był ze mną przez cały czas podczas przerwy egzaminacyjnej. Od tamtego czasu nie było żadnych spotkań klubu... "
 
 # game/script/13.rpy:35
 translate polish s13_762c8900:
@@ -64,7 +64,7 @@ translate polish s13_762c8900:
 translate polish s13_54f321e3:
 
     # b "Senpai begins to get in position for the first move.  "
-    b "Senpai zaczyna ustawiać się w pozycji do pierwszego ruchu.  "
+    b "Senpaj zaczyna ustawiać się w pozycji do pierwszego ruchu.  "
 
 # game/script/13.rpy:39
 translate polish s13_761bad65:
@@ -84,13 +84,13 @@ translate polish s13_c3dfb710:
 translate polish s13_8f1df927:
 
     # b "Senpai ends up forcing me to practice with him. "
-    b "Senpai praktycznie zmusza mnie do przećwiczenia z nim układu. "
+    b "Senpaj praktycznie zmusza mnie do przećwiczenia z nim układu. "
 
 # game/script/13.rpy:54
 translate polish s13_3dcfe980:
 
     # b "Leopard comes over to dance with us too. Their moves flow in sync while mine pale in comparison... I know Senpai's been practicing for years but how did Leopard get so good? "
-    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje są przy nich blade... Wiem, że Senpai ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
+    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje wypadają przy nich blado... Wiem, że Senpai ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
 
 # game/script/13.rpy:56
 translate polish s13_1b91d18d:
@@ -98,14 +98,14 @@ translate polish s13_1b91d18d:
     # b "I can hardly keep up. I'm frustrated with myself but I know I can't really be expected to manage this on my first few times through, it's just too advanced. "
     # b "The best I can do is kinda jump around, vaguely following along as I piece everything together. "
     b "Ledwo nadążam. Jestem zdenerwowany na samego siebie, ale wiem, że nie mogę oczekiwać, że dam sobie radę przez kilka pierwszych prób, to po prostu zbyt zaawansowane. "
-    b "Mogę jedynie podskakiwać, niewyraźnie idąc za nim w ślad próbując złożyć wszystko do kupy. "
+    b "Mogę jedynie podskakiwać, niewyraźnie idąc za nimi w ślad próbując złożyć wszystko do kupy. "
 # game/script/13.rpy:61
 translate polish s13_182971ad:
 
     # voice voice_file.lpdcat(13,3)
     # lpdcat normal "\"Umm— That's not right. It's like this, see?\" "
     voice voice_file.lpdcat(13,3)
-    lpdcat normal "\"Umm- Nie tak. To się robi tak, widzisz?\" "
+    lpdcat normal "\"Umm- Nie tak. To się robi w ten sposób, widzisz?\" "
 
 # game/script/13.rpy:66
 translate polish s13_9b8a4aaa:
@@ -119,13 +119,13 @@ translate polish s13_9b8a4aaa:
 translate polish s13_67ae15dd:
 
     # b "Why is Leopard teaching me now! "
-    b "Dlaczego teraz Pantera mnie uczy! "
+    b "Dlaczego teraz Pantera mnie uczy?! "
 
 # game/script/13.rpy:72
 translate polish s13_cddfc6eb:
 
     # b "My self-confidence falls apart entirely as they tear my dancing to shreds... \n(I mean it wouldn't be the first time...) "
-    b "Moja pewność siebie rozpada się całkowicie kiedy rozrywają mój taniec na strzępy... \n(nie żeby to był pierwszy raz...) "
+    b "Moja pewność siebie rozpada się całkowicie, kiedy rozrywają mój taniec na strzępy... \n(nie żeby to był pierwszy raz...) "
 
 # game/script/13.rpy:76
 translate polish s13_07c3b7e6:
@@ -143,7 +143,7 @@ translate polish s13_12eb72f4:
 translate polish s13_1c1c7fae:
 
     # b "I don't have Senpai's agility let alone be dance in the face of the laws of physics like Leopard. I try, and I try. In the end I just decide to give up. "
-    b "Nie posiadam szybkości Senpai'a, a tym bardziej nie potrafię tańczyć wbrew prawom fizyki jak Pantera. Próbuję raz za razem, ale w końcu decyduję się zrezygnować. "
+    b "Nie posiadam szybkości Senpaja, a tym bardziej nie potrafię tańczyć wbrew prawom fizyki jak Pantera. Próbuję raz za razem, ale w końcu decyduję się zrezygnować. "
 
 # game/script/13.rpy:87
 translate polish s13_c8c5ae48:
@@ -231,7 +231,7 @@ translate polish s13_50492cac:
 translate polish s13_cc0c41f6:
 
     # b "Before I work out what's going on I manage to finish routine. As I hold the final pose I hear a wave of applause shower me from everyone in the room. " with hshake
-    b "Zanim ogarniam, co się dzieje udaje mi się skończyć układ. Kiedy utrzymuje ostatnią pozę słyszę falę oklasków, którą obsypują mnie wszyscy w pomieszczeniu" with hshake
+    b "Zanim ogarniam, co się dzieje udaje mi się skończyć układ. Kiedy utrzymuję ostatnią pozę słyszę falę oklasków, którą obsypują mnie wszyscy w pomieszczeniu. " with hshake
 
 # game/script/13.rpy:151
 translate polish s13_b819b232:
