@@ -16,7 +16,7 @@ translate polish s13_ac9a5b21:
 translate polish s13_04f307f0:
 
     # b "However, I didn't expect to see Senpai here. After yesterday things were a bit awkward but we somewhat manage to say hi. "
-    b "Jednak nie spodziewałem się, że spotkam tu Sepai'a. Po wczoraj sprawy przybrały dziwny obrót, ale jakoś dałem radę się przywitać. "
+    b "Jednak nie spodziewałem się, że spotkam tu Senpaja. Po wczoraj sprawy przybrały dziwny obrót, ale jakoś dałem radę się przywitać. "
 
 # game/script/13.rpy:15
 translate polish s13_c9cfbd03:
@@ -98,8 +98,8 @@ translate polish s13_1b91d18d:
     # b "I can hardly keep up. I'm frustrated with myself but I know I can't really be expected to manage this on my first few times through, it's just too advanced. "
     # b "The best I can do is kinda jump around, vaguely following along as I piece everything together. "
     b "Ledwo nadążam. Jestem zdenerwowany na samego siebie, ale wiem, że nie mogę oczekiwać, że dam sobie radę przez kilka pierwszych prób, to po prostu zbyt zaawansowane. "
-
-# game/script/13.rpy:61
+    b "Mogę jedynie podskakiwać, niewyraźnie idąc za nim w ślad próbując złożyć wszystko do kupy. "
+# game/script/13.rpy:61
 translate polish s13_182971ad:
 
     # voice voice_file.lpdcat(13,3)

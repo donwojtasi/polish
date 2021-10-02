@@ -2128,7 +2128,7 @@ translate polish start_8bf61d6b:
 
     # b "I pick up the phone. It's Shu-Chi Senpai from dance club. "
 
-    b "Odbieram połączenie. To Shu-Chi Senpai z klubu tanecznego.  "
+    b "Odbieram połączenie. To Shu-Chi Senpaj z klubu tanecznego.  "
 
 
 
@@ -2140,7 +2140,7 @@ translate polish start_97686b4f:
 
     # avt "\"Hello? Senpai... Uh... What's up?\" "
 
-    avt "\"Halo? Senpai... Emm... co tam?\" "
+    avt "\"Halo? Senpaj... Emm... co tam?\" "
 
 
 
@@ -2184,7 +2184,7 @@ translate polish start_27bbbb4d:
 
     # b "If senpai does come over... what will I do about these two big cats? \n(It's probably safe to assume he can't see them.) "
 
-    b "Jeśli Senpai wpadnie z wizytą, to co zrobię z tymi dwoma dużymi kotami? \n(Raczej można bezpiecznie założyć, że nie potrafi ich zobaczyć.) "
+    b "Jeśli Senpaj wpadnie z wizytą, to co zrobię z tymi dwoma dużymi kotami? \n(Raczej można bezpiecznie założyć, że nie potrafi ich zobaczyć.) "
 
 
 
@@ -2248,7 +2248,7 @@ translate polish start_b6ce43ea:
 
     # avt "\"You on your own Senpai?\" "
 
-    avt "\"Przychodzisz sam, Senpai?\" "
+    avt "\"Przychodzisz sam, Senpaj?\" "
 
 
 
@@ -2264,7 +2264,7 @@ translate polish start_f3d5318e:
 
     voice voice_file.lpdcat(1,2)
 
-    senpai "\"Ymm? No tak.\" "
+    senpai "\"Hmm? No tak.\" "
 
 
 
@@ -2332,7 +2332,7 @@ translate polish start_aa0e33c4:
 
     # avt "\"Wait, S-Senpai...\" "
 
-    avt "\"Czekaj, Senpai...\" "
+    avt "\"Czekaj, Senpaj...\" "
 
 
 
@@ -2396,7 +2396,7 @@ translate polish start_1646361a:
 
     # avt "\"Guys, just hold on a second. My senpai is coming over so please keep it down and stay quiet, understood?\" "
 
-    avt "\"Chłopaki, zaczekajcie chwilę. Przychodzi mój senpai, więc proszę uspokójcie się i bądźcie cicho, zrozumiano?\" "
+    avt "\"Chłopaki, zaczekajcie chwilę. Przychodzi mój senpaj, więc proszę uspokójcie się i bądźcie cicho, zrozumiano?\" "
 
 
 
@@ -2448,7 +2448,7 @@ translate polish start_e9ca69f0:
 
     # avt "\"Uh, um— Just a second Senpai...\" "
 
-    avt "\"Ehh, umm- czekaj chwilę Senpai...\" "
+    avt "\"Ehh, umm- czekaj chwilę Senpaj...\" "
 
 
 
@@ -2500,7 +2500,7 @@ translate polish start_29b40fbb:
 
     # avt"\"Y-you! You're Shu-Chi Senpai?!\" "
 
-    avt "\"T-ty! Ty jesteś Shu-Chi Senpai?!\" "
+    avt "\"T-ty! Ty jesteś Shu-Chi Senpaj?!\" "
 
 
 
@@ -2512,7 +2512,7 @@ translate polish start_73639ff2:
 
     # b "What happened to Senpai?! "
 
-    b " Co się stało z Senpai'em?! "
+    b " Co się stało z Senpajem?! "
 
 
 
@@ -2524,7 +2524,7 @@ translate polish start_0103f86d:
 
     # b "This can't be right! Senpai's definitely human! "
 
-    b "To niemożliwe! Senpai na pewno jest człowiekiem! "
+    b "To niemożliwe! Senpaj na pewno jest człowiekiem! "
 
 
 
@@ -2538,7 +2538,7 @@ translate polish start_e8e07219:
 
     # b "If someone at school was a beast-man, there'd be mayhem over it! "
 
-    b "Gość stojący przede mną jest podobnego wzrostu i tej samej drobnej budowy, co Senpai...\nale przecież Senpai nie jest kotem! "
+    b "Gość stojący przede mną jest podobnego wzrostu i tej samej drobnej budowy, co Senpaj...\nale przecież Senpaj nie jest kotem! "
 
     b "Jeśli ktokolwiek taki pojawiłby się w szkole, byłaby z tego niezła afera! "
 
@@ -2568,7 +2568,7 @@ translate polish start_a4fb413a:
 
     # avt "\"Senpai, you look like... how did you?\" "
 
-    avt "\"Senpai, wyglądasz jak... jakim cudem?\" "
+    avt "\"Senpaj, wyglądasz jak... jakim cudem?\" "
 
 
 
@@ -2644,7 +2644,7 @@ translate polish start_d0476f20:
 
     # avt "\"Senpai, you... you're... a cat?\" "
 
-    avt "\"Senpai, ty... ty jesteś... kotem?\" "
+    avt "\"Senpaj, ty... ty jesteś... kotem?\" "
 
 
 
@@ -2728,7 +2728,7 @@ translate polish start_14a41b6a:
 
     # avt "\"Senpai... you clearly didn't look like that before!\" "
 
-    avt "\"Senpai... przecież wcześniej tak nie wyglądałeś!\" "
+    avt "\"Senpaj... przecież wcześniej tak nie wyglądałeś!\" "
 
 
 
@@ -3572,7 +3572,7 @@ translate polish start_4bbe96e6:
 
     # b "Disregarding my protests Senpai makes himself at home, plopping himself down at my table, digging into his plastic bag, and taking out the lou mei— ready to eat it. "
 
-    b "Ignorując moje protesty, Senpai rozgaszcza się zasiadając przy stole. Zagląda do swej plastikowej torby i wyjmuje z niej Lou mei- gotów do jedzenia. "
+    b "Ignorując moje protesty, Senpaj rozgaszcza się zasiadając przy stole. Zagląda do swej plastikowej torby i wyjmuje z niej Lou mei- gotów do jedzenia. "
 
 
 
@@ -3784,7 +3784,7 @@ translate polish start_b170ad98:
 
     # b  "Damn it, Senpai's right. "
 
-    b "Cholera, Senpai ma rację. "
+    b "Cholera, Senpaj ma rację. "
 
 
 
@@ -3808,7 +3808,7 @@ translate polish start_0c506ca0:
 
     # avt "\"Senpai you're so cunning!\" "
 
-    avt "\"Senpai, ale z ciebie chytry lis!\" "
+    avt "\"Senpaj, ale z ciebie chytry lis!\" "
 
 
 
@@ -3936,7 +3936,7 @@ translate polish start_cf9e2f72:
 
     # b "Granted, within the club it's no secret that me and Senpai are gay. Senpai himself is quite the charmer and cute to boot. His potential suitors alone could fill a whole classroom. "
 
-    b "Pewnie, w klubie to żadna tajemnica, że ja i Senpai jesteśmy gejami. Sam Senpai jest całkiem uroczy i słodki aż do bólu. Jego wielbiciele mogliby zapełnić całą klasę. "
+    b "Pewnie, w klubie to żadna tajemnica, że ja i Senpaj jesteśmy gejami. Sam Senpaj jest całkiem uroczy i słodki aż do bólu. Jego wielbiciele mogliby zapełnić całą klasę. "
 
 
 
@@ -4012,7 +4012,7 @@ translate polish start_bf90885f:
 
     b "Dobra, spróbujmy inaczej. "
 
-    b "Jeśli pantera odejdzie, Senpai nie będzie miał powodu, by tu zostać. Zapytajmy go. "
+    b "Jeśli pantera odejdzie, Senpaj nie będzie miał powodu, by tu zostać. Zapytajmy go. "
 
 
 
@@ -4260,7 +4260,7 @@ translate polish start_a90ec023:
 
     # avt "\"Senpai, you have no shame.\" "
 
-    avt "\"Senpai, nie masz wstydu.\" "
+    avt "\"Senpaj, nie masz wstydu.\" "
 
 
 
@@ -4466,7 +4466,7 @@ translate polish start_860256f2:
 
     b "Jak tak sobie o tym pomyślę, to dwie pozostałe opcje nie są wiele lepsze. "
 
-    b "Odnowienie świątyni Senpai'a oznacza wzięcie za nią odpowiedzialności! "
+    b "Odnowienie świątyni Senpaja oznacza wzięcie za nią odpowiedzialności! "
 
     b "W przeciwnym razie, jak przyciągnęlibyśmy ludzi? Pukalibyśmy do drzwi z broszurami i pytali: {i}\"Czy masz chwilę, by porozmawiać o naszym Panu i tygrysach?\"{/i} "
 
@@ -4600,7 +4600,7 @@ translate polish start_71e364b5:
 
     # avt "\"Um... Senpai?\" "
 
-    avt "\"Um... Senpai?\" "
+    avt "\"Um... Senpaj?\" "
 
 
 
@@ -4668,7 +4668,7 @@ translate polish start_8a50dde8:
 
     # b "I wait for a while, but Senpai doesn't respond. All I can hear is him vaguely humming along. "
 
-    b "Czekam przez chwilę, ale Senpai nie odpowiada. Wszystko co słyszę, to niewyraźne mruczenie. "
+    b "Czekam przez chwilę, ale Senpaj nie odpowiada. Wszystko co słyszę, to niewyraźne mruczenie. "
 
 
 
@@ -4680,7 +4680,7 @@ translate polish start_1d94c5bd:
 
     # avt "\"Senpai? You found it yet?\" "
 
-    avt "\"Senpai? Nie znalazłeś ich jeszcze?\" "
+    avt "\"Senpaj? Nie znalazłeś ich jeszcze?\" "
 
 
 
@@ -4748,7 +4748,7 @@ translate polish start_361ccc51:
 
     # avt "\"Senpai, stop teasing me please... I just need you to bring me some clothes...\" "
 
-    avt "\"Senpai, przestań mnie drażnić... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
+    avt "\"Senpaj, przestań mnie drażnić... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
 
 
 
@@ -4776,7 +4776,7 @@ translate polish start_0f8b09ec:
 
     # avt "\"Damn it, I know you're doing this on purpose Senpai!\" "
 
-    avt "\"Cholera. Wiedziałem, że robisz to celowo Senpai!\" "
+    avt "\"Cholera. Wiedziałem, że robisz to celowo Senpaj!\" "
 
 
 
@@ -4956,7 +4956,7 @@ translate polish start_780c5074:
 
     # b "Ignoring Senpai, I take a shirt from the closet. I usually only wear shorts in here, but naturally I couldn't do so in front of them. "
 
-    b "Wyjmuję z szafy koszulkę, ignorując Senpai'a. Zazwyczaj chodzę tu tylko w spodenkach, ale przy nich nawet nie ma takiej opcji. "
+    b "Wyjmuję z szafy koszulkę, ignorując Senpaja. Zazwyczaj chodzę tu tylko w spodenkach, ale przy nich nawet nie ma takiej opcji. "
 
 
 
@@ -5024,7 +5024,7 @@ translate polish start_ab58cb1a:
 
     # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? ...That's like an indirect kiss! "
 
-    b "Senpai podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ...to jak pocałunek nie wprost! "
+    b "Senpaj podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ...to jak pocałunek nie wprost! "
 
 
 
