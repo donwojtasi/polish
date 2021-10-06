@@ -687,7 +687,7 @@ translate polish s13_195b58df:
     # voice voice_file.tig(13,22)
     # tig frown "*humph* "
     voice voice_file.tig(13,22)
-    tig frown "*hmm* "
+    tig frown "*humph* "
 
 # game/script/13.rpy:339
 translate polish s13_ac854a32:
@@ -727,7 +727,7 @@ translate polish s13_624b43d7:
 translate polish s13_9593e1d7:
 
     # b "If I... really had no intentions to go to Wutai, I should have stopped him. I didn't deserve his help if I was never going to repay him... "
-    b ""
+    b "Gdybym... naprawdę nie miał zamiaru pojechać do Wutai, powinienem był go powstrzymać. \nNie\ zasługiwałem na jego pomoc, jeśli nigdy nie miałem zamiaru mu się odwdzięczyć... "
 
 # game/script/13.rpy:360
 translate polish s13_3b50b7ac:
@@ -736,19 +736,19 @@ translate polish s13_3b50b7ac:
     # tig frown "\"I know he just wanted to help you, but he doesn't understand what he's doing. You're the one who gets hurt in the end. \" "
     # tig frown "\"It's better to do something before it's too late.\" "
     voice voice_file.tig(13,25)
-    tig frown ""
-
+    tig frown "\"Wiem, że chciał ci tylko pomóc, ale sam nie rozumie, co on wyprawia. Koniec końców to ty zostajesz pokrzywdzony. \" "
+    tig frown "\"Lepiej coś zrobić, zanim będzie za późno.\" "
 # game/script/13.rpy:362
 translate polish s13_626637ad:
 
     # avt "\"So you just decided to get rid of him!\" "
-    avt ""
+    avt "\"Więc zdecydowałeś się go pozbyć!\" "
 
 # game/script/13.rpy:364
 translate polish s13_92f803fc:
 
     # avt "\"I...\" "
-    avt ""
+    avt "\"Ja...\" "
 
 # game/script/13.rpy:369
 translate polish s13_e88eca98:
@@ -759,7 +759,7 @@ translate polish s13_e88eca98:
     # b "He helped me cheat in class even though he knew it was wrong... "
     # b "He protected the tung blossoms so we could at least take one of them home with us... "
     # b "And... {w=0.5}he comforted me when I felt sad and alone. "
-    b ""
+    b "Nagle przypomina mi się wszystko, co Pantera dla mnie zrobiła. "
 
 # game/script/13.rpy:373
 translate polish s13_ad7ba116:
