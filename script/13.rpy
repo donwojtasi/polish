@@ -513,7 +513,7 @@ translate polish s13_662571cd:
     # voice voice_file.tig(13,11)
     # tig frown "\"Sure, you might be able to get away this time. But what about next? And after that?\" "
     voice voice_file.tig(13,11)
-    tig frown ""
+    tig frown "\"Jasne, tym razem może ci to ujść na sucho. Ale co będzie następnym razem? I następnym?\" "
 
 # game/script/13.rpy:277
 translate polish s13_a0584ea8:
@@ -521,7 +521,7 @@ translate polish s13_a0584ea8:
     # voice voice_file.tig(13,12)
     # tig angry "\"Aborigine, I knew you were trouble during the math exam. Now you've just proved me right!\" "
     voice voice_file.tig(13,12)
-    tig angry ""
+    tig angry "\"Aborygenie, wiedziałem, że sprawiasz problemy podczas egzaminu z matmy. Teraz udowodniłeś mi, że mam rację!\" "
 
 # game/script/13.rpy:281
 translate polish s13_6cfb7540:
@@ -529,7 +529,7 @@ translate polish s13_6cfb7540:
     # voice voice_file.tig(13,13)
     # tig angry "\"If you cannot figure out how the modern world functions, you shouldn't get in the way of others!\" "
     voice voice_file.tig(13,13)
-    tig angry ""
+    tig angry "\"Jeśli nie jesteś w stanie zrozumieć jak działa nowoczesny świat, nie powinieneś wchodzić innym w drogę!\" "
 
 # game/script/13.rpy:283
 translate polish s13_0e9380de:
@@ -537,7 +537,7 @@ translate polish s13_0e9380de:
     # voice voice_file.tig(13,14)
     # tig angry "\"Who knows what you'll interfere with next? You're just getting in the way of Liao's \nlife!\" "
     voice voice_file.tig(13,14)
-    tig angry ""
+    tig angry "\"Kto wie, w co się wmieszasz następnym razem? Stajesz na drodze \nżycia\ Liao!\" "
 
 # game/script/13.rpy:288
 translate polish s13_6a83f5e4:
@@ -545,7 +545,7 @@ translate polish s13_6a83f5e4:
     # voice voice_file.lpdcat(13,12)
     # lpdcat difficult "\"Hey— Old man. Calm down for a sec...\" "
     voice voice_file.lpdcat(13,12)
-    lpdcat difficult ""
+    lpdcat difficult "\"Hej— Staruszku. Uspokój się na chwilę...\" "
 
 # game/script/13.rpy:291
 translate polish s13_24940dd1:
@@ -553,13 +553,13 @@ translate polish s13_24940dd1:
     # voice voice_file.tig(13,15)
     # tig angry "\"Leave me be.\" "
     voice voice_file.tig(13,15)
-    tig angry ""
+    tig angry "\"Zostaw mnie w spokoju.\" "
 
 # game/script/13.rpy:293
 translate polish s13_3b5e46f7_1:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/13.rpy:295
 translate polish s13_f91f559e:
@@ -567,7 +567,7 @@ translate polish s13_f91f559e:
     # voice voice_file.tig(13,16)
     # tig angry "\"I don't care what this kitten says.\" "
     voice voice_file.tig(13,16)
-    tig angry ""
+    tig angry "\"Nie obchodzi mnie, co mówi ten kociak.\" "
 
 # game/script/13.rpy:298
 translate polish s13_11c06e42:
@@ -575,7 +575,7 @@ translate polish s13_11c06e42:
     # voice voice_file.lpdcat(13,13)
     # lpdcat not_reconcile "\"I'm not a kitten!\" "
     voice voice_file.lpdcat(13,13)
-    lpdcat not_reconcile ""
+    lpdcat not_reconcile "\"Nie jestem kociakiem!\" "
 
 # game/script/13.rpy:300
 translate polish s13_f5de9dbe:
@@ -584,8 +584,8 @@ translate polish s13_f5de9dbe:
     # tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
     # tig frown "\"It's not worth the risk to allow you to stay.\" "
     voice voice_file.tig(13,17)
-    tig frown ""
-
+    tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
+    tig frown "\"It's not worth the risk to allow you to stay.\" "
 # game/script/13.rpy:302
 translate polish s13_6c037936:
 
