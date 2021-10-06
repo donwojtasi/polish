@@ -537,7 +537,7 @@ translate polish s13_0e9380de:
     # voice voice_file.tig(13,14)
     # tig angry "\"Who knows what you'll interfere with next? You're just getting in the way of Liao's \nlife!\" "
     voice voice_file.tig(13,14)
-    tig angry "\"Kto wie, w co się wmieszasz następnym razem? Stajesz na drodze \nżycia\ Liao!\" "
+    tig angry "\"Kto wie, w co będziesz ingerował następnym razem? Stajesz na drodze życia Liao!\" "
 
 # game/script/13.rpy:288
 translate polish s13_6a83f5e4:
@@ -584,8 +584,8 @@ translate polish s13_f5de9dbe:
     # tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
     # tig frown "\"It's not worth the risk to allow you to stay.\" "
     voice voice_file.tig(13,17)
-    tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
-    tig frown "\"It's not worth the risk to allow you to stay.\" "
+    tig frown "\"Nie pozowolę, żeby tak dalej było. Gdyby coś takiego miało się znowu wydarzyć, kto wie, czy będzie można to naprawić.\" "
+    tig frown "\"Pozwolenie ci zostać nie jest warte ryzyka.\" "
 # game/script/13.rpy:302
 translate polish s13_6c037936:
 
@@ -593,27 +593,27 @@ translate polish s13_6c037936:
     # tig frown "\"Now, I will only tell you one more time. Liao has no obligation to help you, and he has no obligation to have you by his side.\" "
     # tig frown "\"If you are to interfere with his life, you are better off keeping your distance. For Liao's sake.\" "
     voice voice_file.tig(13,18)
-    tig frown ""
-
+    tig frown "\"Zatem, powiem ci to ostatni raz. Liao nie ma obowiązku ci pomagać, i nie ma obowiązku, byś był u jego boku.\" "
+    tig frown "\"Jeśli masz dalej ingerować w jego życie, lepiej trzymaj się z daleka. Dla dobra Liao.\" "
 # game/script/13.rpy:304
 translate polish s13_6f51b0c9:
 
     # voice voice_file.tig(13,19)
     # tig frown "\"Understood?\" "
     voice voice_file.tig(13,19)
-    tig frown ""
+    tig frown "\"Zrozumiałeś?\" "
 
 # game/script/13.rpy:310
 translate polish s13_3b5e46f7_2:
 
     # lpd obsessed "\"......\" "
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 # game/script/13.rpy:312
 translate polish s13_db0e0aeb:
 
     # avt "\"Tiger, don't be so fierce with him...\" "
-    avt ""
+    avt "\"Tygrysie, nie bądź dla niego taki ostry...\" "
 
 # game/script/13.rpy:315
 translate polish s13_9266c07f:
@@ -621,7 +621,7 @@ translate polish s13_9266c07f:
     # voice voice_file.tig(13,20)
     # tig angry "\"Liao! ...Do not talk back to me.\" " with vshake
     voice voice_file.tig(13,20)
-    tig angry "" with vshake
+    tig angry "\"Liao! ...Nie pyskuj do mnie.\" " with vshake
 
 # game/script/13.rpy:317
 translate polish s13_1f0b2e77:
@@ -629,7 +629,7 @@ translate polish s13_1f0b2e77:
     # voice voice_file.tig(13,21)
     # tig frown "\"If you heard me clearly, you should know what to do.\" "
     voice voice_file.tig(13,21)
-    tig frown ""
+    tig frown "\"Jeśli słyszałeś mnie wyraźnie, powinieneś wiedzieć, co zrobić.\" "
 
 # game/script/13.rpy:319
 translate polish s13_1dc2082d:
@@ -637,7 +637,7 @@ translate polish s13_1dc2082d:
     # voice voice_file.lpdcat(13,14)
     # lpdcat panic "\"Hey... just drop it. The old man's just {i}angry{/i} \ right now. You should—\" "
     voice voice_file.lpdcat(13,14)
-    lpdcat panic ""
+    lpdcat panic "\"Hej... daj sobie siana. Staruszek jest po prostu {i}wkurzony{/i}. \ Powinieneś—\" "
 
 # game/script/13.rpy:321
 translate polish s13_f51d4b2d:
@@ -645,13 +645,13 @@ translate polish s13_f51d4b2d:
     # voice voice_file.lpd(13,5)
     # lpd disappointed "\"Understood.\" "
     voice voice_file.lpd(13,5)
-    lpd disappointed ""
+    lpd disappointed "\"Zrozumiałem.\" "
 
 # game/script/13.rpy:323
 translate polish s13_fdbee339:
 
     # avt "\"Leopard...\" "
-    avt ""
+    avt "\"Pantero...\" "
 
 # game/script/13.rpy:325
 translate polish s13_b0ea0f32:
@@ -659,19 +659,19 @@ translate polish s13_b0ea0f32:
     # voice voice_file.lpd(13,6)
     # lpd disappointed "\"I leave.\" "
     voice voice_file.lpd(13,6)
-    lpd disappointed ""
+    lpd disappointed "\"Odchodzę.\" "
 
 # game/script/13.rpy:331
 translate polish s13_49d5f346:
 
     # avt "\"Hmm? Hold on... you...\" "
-    avt ""
+    avt "\"Co? Poczekaj... ty...\" "
 
 # game/script/13.rpy:333
 translate polish s13_713baaf2:
 
     # b "Before I can stop him, Leopard's gone. He vanished. I couldn't work out which way he went even if I wanted. "
-    b ""
+    b "Zanim, jestem w stanie go powstrzymać, Pantery już nie ma. Zniknął. Nawet gdybym chciał, nie mogłem rozgryźć, którędy poszedł. "
 
 # game/script/13.rpy:335
 translate polish s13_776bf21f_1:
@@ -679,7 +679,7 @@ translate polish s13_776bf21f_1:
     # voice voice_file.lpdcat(13,15)
     # lpdcat surprise_1 "\"Wha...\" "
     voice voice_file.lpdcat(13,15)
-    lpdcat surprise_1 ""
+    lpdcat surprise_1 "\"Co...\" "
 
 # game/script/13.rpy:337
 translate polish s13_195b58df:
@@ -687,13 +687,13 @@ translate polish s13_195b58df:
     # voice voice_file.tig(13,22)
     # tig frown "*humph* "
     voice voice_file.tig(13,22)
-    tig frown ""
+    tig frown "*hmm* "
 
 # game/script/13.rpy:339
 translate polish s13_ac854a32:
 
     # avt "\"Tiger... That wasn't necessary!\" "
-    avt ""
+    avt "\"Tygrysie... To nie było konieczne!\" "
 
 # game/script/13.rpy:341
 translate polish s13_1b6c760f:
@@ -701,7 +701,7 @@ translate polish s13_1b6c760f:
     # voice voice_file.tig(13,23)
     # tig frown "\"Liao, I'm sorry. It was for your own sake.\" "
     voice voice_file.tig(13,23)
-    tig frown ""
+    tig frown "\"Przepraszam, Liao. Zrobiłem to dla twojego dobra.\" "
 
 # game/script/13.rpy:343
 translate polish s13_9bf6b401:
@@ -709,19 +709,19 @@ translate polish s13_9bf6b401:
     # voice voice_file.tig(13,24)
     # tig frown "\"At least one problem has been solved. You no longer need to worry about going to Wutai.\" "
     voice voice_file.tig(13,24)
-    tig frown ""
+    tig frown "\"Przynajmniej jeden problem z głowy. Nie musisz się już martwić o podróż do Wutai.\" "
 
 # game/script/13.rpy:345
 translate polish s13_e970b177:
 
     # avt "\"How could you... He was trying to help me!\" " with hshake
-    avt "" with hshake
+    avt "\"Jak mogłeś... Próbował mi pomóc!\" " with hshake
 
 # game/script/13.rpy:350
 translate polish s13_624b43d7:
 
     # b "He helps me, I help him... Leopard's words suddenly come to my mind. Is that... why he wanted to help me today? All of this is because I {i}didn't{/i} \ stop him? "
-    b ""
+    b "On pomaga mi, ja pomagam jemu... Słowa Pantery nagle przyszły mi do głowy. Czy to... dlatego chciał mi dzisiaj pomóc? To wszystko wydarzyło się, dlatego, że go {i}nie{/i} \ powstrzymałem? "
 
 # game/script/13.rpy:352
 translate polish s13_9593e1d7:
