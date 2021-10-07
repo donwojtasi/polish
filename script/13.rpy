@@ -4,19 +4,19 @@
 translate polish s13_87da3a9f:
 
     # b "Every Sunday our club holds self practice. "
-    b "W każdą Niedzielę nasz klub prowadzi ćwiczenia osobiste. "
+    b "W każdą niedzielę nasz klub prowadzi ćwiczenia osobiste. "
 
 # game/script/13.rpy:11
 translate polish s13_ac9a5b21:
 
     # b "Not many people turned up this week due to mid-terms. At least it's really a great way to relax for the people who finished early. Which is why I decided to come today. "
-    b "Niewielu ludzi pojawiło się w tym tygodniu z powodu testów śródsemestralnych. Przynajmniej to naprawdę dobry sposób na relaks dla ludzi, którzy skończyli wcześniej. Dlatego zdecydowałem się tu dzisiaj przyjść. "
+    b "Niewielu ludzi pojawiło się w tym tygodniu z powodu testów śródsemestralnych. Przynajmniej to naprawdę dobry sposób na relaks dla ludzi, którzy skończyli wcześniej. Właśnie dlatego zdecydowałem się tu dzisiaj przyjść. "
 
 # game/script/13.rpy:13
 translate polish s13_04f307f0:
 
     # b "However, I didn't expect to see Senpai here. After yesterday things were a bit awkward but we somewhat manage to say hi. "
-    b "Jednak nie spodziewałem się, że spotkam tu Senpaja. Po wczoraj sprawy przybrały dziwny obrót, ale jakoś dałem radę się przywitać. "
+    b "Jednak nie spodziewałem się, że spotkam tu Senpaja. Po wczoraj \nsprawy\ przybrały dziwny obrót, ale jakoś dałem radę się przywitać. "
 
 # game/script/13.rpy:15
 translate polish s13_c9cfbd03:
@@ -24,7 +24,7 @@ translate polish s13_c9cfbd03:
     # b "The club leader starts to go over the dance we're doing for our next show. "
     # b "I do my best to learn it but I doubt I'll end up performing on stage. "
     b "Lider klubu zaczyna przedstawiać taniec, który mamy pokazać na następnym show. "
-    b "Zrobię co w mojej mocy, żeby się tego nauczyć, ale wątpię, że skończę występując na scenie. "
+    b "Zrobię, co w mojej mocy, żeby się tego nauczyć, ale wątpię, że skończę występując na scenie. "
 # game/script/13.rpy:19
 translate polish s13_1c1d4e55:
 
@@ -36,8 +36,8 @@ translate polish s13_6f921960:
 
     # b "Leopard's with me, and he absolutely puts his everything into the routine. He follows on flawlessly. "
     # b "He'd be great on stage... even if he'd scare some people at first. "
-    b "Pantera jest ze mną i daje z siebie wszystko w dzisiejszym układzie. Powtarza nasze ruchy bezbłędnie. "
-
+    b "Lampart jest ze mną i daje z siebie wszystko w dzisiejszym układzie. Powtarza nasze ruchy bezbłędnie. "
+    b "Byłby świetny na scenie... nawet jeśli na początku wystraszyłby paru ludzi. "
 # game/script/13.rpy:25
 translate polish s13_883fc54f:
 
@@ -58,7 +58,7 @@ translate polish s13_762c8900:
     # voice voice_file.lpdcat(13,1)
     # lpdcat normal "\"Liao, you alright? You're kinda spacing out over there. If you're stuck I'm happy to go through it with you.\" "
     voice voice_file.lpdcat(13,1)
-    lpdcat normal "\"Liao, wszystko w porządku? Trochę się wyłączyłeś. Jeśli utknąłeś z chęcia pomogę ci przez to przejść.\" "
+    lpdcat normal "\"Liao, wszystko w porządku? Trochę się wyłączyłeś. \nJeśli\ utknąłeś, z chęcią pomogę ci przez to przejść.\" "
 
 # game/script/13.rpy:37
 translate polish s13_54f321e3:
@@ -78,7 +78,7 @@ translate polish s13_c3dfb710:
     # voice voice_file.lpdcat(13,2)
     # lpdcat laugh "\"Hmm, well while you're here you should take it as a chance to relax. Alright? Ready! Let's start!\" "
     voice voice_file.lpdcat(13,2)
-    lpdcat laugh "\"Hmm, dobrze dopóki tu jesteś powinieneś wykorzystać to jako szansę na relaks. Dobrze? Gotowy? Zaczynajmy!\" "
+    lpdcat laugh "\"Hmm, cóż, dopóki tu jesteś powinieneś wykorzystać to \njako\ szansę na relaks. Dobrze? Gotowy? Zaczynajmy!\" "
 
 # game/script/13.rpy:49
 translate polish s13_8f1df927:
@@ -90,7 +90,7 @@ translate polish s13_8f1df927:
 translate polish s13_3dcfe980:
 
     # b "Leopard comes over to dance with us too. Their moves flow in sync while mine pale in comparison... I know Senpai's been practicing for years but how did Leopard get so good? "
-    b "Pantera podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane podczas, kiedy moje wypadają przy nich blado... Wiem, że Senpaj ćwiczył przez lata, ale jak Pantera nagle tak się poprawił? "
+    b "Lampart podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane, podczas gdy moje wypadają przy nich blado... Wiem, że Senpaj ćwiczył przez lata, ale jak Lampart nagle tak bardzo się poprawił? "
 
 # game/script/13.rpy:56
 translate polish s13_1b91d18d:
@@ -105,7 +105,7 @@ translate polish s13_182971ad:
     # voice voice_file.lpdcat(13,3)
     # lpdcat normal "\"Umm— That's not right. It's like this, see?\" "
     voice voice_file.lpdcat(13,3)
-    lpdcat normal "\"Umm- Nie tak. To się robi w ten sposób, widzisz?\" "
+    lpdcat normal "\"Umm- Nie tak. Ten ruch robi się w ten sposób, widzisz?\" "
 
 # game/script/13.rpy:66
 translate polish s13_9b8a4aaa:
@@ -119,31 +119,31 @@ translate polish s13_9b8a4aaa:
 translate polish s13_67ae15dd:
 
     # b "Why is Leopard teaching me now! "
-    b "Dlaczego teraz Pantera mnie uczy?! "
+    b "Dlaczego teraz Lampart mnie uczy?! "
 
 # game/script/13.rpy:72
 translate polish s13_cddfc6eb:
 
     # b "My self-confidence falls apart entirely as they tear my dancing to shreds... \n(I mean it wouldn't be the first time...) "
-    b "Moja pewność siebie rozpada się całkowicie, kiedy rozrywają mój taniec na strzępy... \n(nie żeby to był pierwszy raz...) "
+    b "Moja pewność siebie rozpada się całkowicie, podczas gdy oni rozrywają mój taniec na strzępy... (nie żeby to był pierwszy raz...) "
 
 # game/script/13.rpy:76
 translate polish s13_07c3b7e6:
 
     # b "At least some stuff get's easier after they break them down. But even knowing how they're performed the hardest parts are still way beyond my skills. "
-    b "Przynajmniej część układu staje się łatwiejsza po tym, jak mi go pokazują. Ale nawet wiedząc jak sobie radzili, najtrudniejsze części wciąż są ponad moje umiejętności. "
+    b "Przynajmniej część układu staje się łatwiejsza po tym, jak mi go wykładają. Jednak nawet wiedząc, jak sobie radzili, najtrudniejsze części wciąż są ponad moje umiejętności. "
 
 # game/script/13.rpy:80
 translate polish s13_12eb72f4:
 
     # b "One part's basically just showing off and it's not like I can do anything amazing. After all, this is meant to be for the end of year performance, it's not like it's going to be easy... "
-    b "Jedna z części to praktycznie popisywanie się, ale sam nie potrafię nic niesamowitego. Mimo wszystko, to ma być występ dopiero na koniec roku, więc nie będzie łatwy... "
+    b "Jedna z części to praktycznie popisywanie się, ale sam nie potrafię nic niesamowitego. \nMimo\ wszystko, to ma być występ dopiero na koniec roku, więc nie będzie łatwy... "
 
 # game/script/13.rpy:82
 translate polish s13_1c1c7fae:
 
     # b "I don't have Senpai's agility let alone be dance in the face of the laws of physics like Leopard. I try, and I try. In the end I just decide to give up. "
-    b "Nie posiadam szybkości Senpaja, a tym bardziej nie potrafię tańczyć wbrew prawom fizyki jak Pantera. Próbuję raz za razem, ale w końcu decyduję się zrezygnować. "
+    b "Nie posiadam szybkości Senpaja, a tym bardziej nie potrafię tańczyć wbrew prawom \nfizyki\ jak Lampart. Próbuję raz za razem, ale w końcu decyduję się zrezygnować. "
 
 # game/script/13.rpy:87
 translate polish s13_c8c5ae48:
@@ -171,7 +171,7 @@ translate polish s13_ae08fb14:
 translate polish s13_c90c360d:
 
     # b "For some reason Leopard really wants me to try again. "
-    b "Z jakiegoś powodu Pantera naprawdę chce, żebym spróbował jeszcze raz. "
+    b "Z jakiegoś powodu Lampart naprawdę chce, żebym spróbował jeszcze raz. "
 
 # game/script/13.rpy:100
 translate polish s13_c044341f:
@@ -183,7 +183,7 @@ translate polish s13_c044341f:
 translate polish s13_c6829df2:
 
     # b "I don't get it, but he really does earnestly want me to try. So I decide to give it one more go for him. "
-    b "Nie rozumiem tego, ale on naprawdę gorliwie chce, żebym znowu spróbował. Decyduję spróbować dla niego jeszcze raz. "
+    b "Nie rozumiem tego, ale on naprawdę gorliwie chce, żebym znowu \nspróbował.\ Decyduję spróbować dla niego jeszcze raz. "
 
 # game/script/13.rpy:106
 translate polish s13_cbe00327:
@@ -219,8 +219,8 @@ translate polish s13_db30bdb1:
 
     # b "Moving in to the second half I breeze through the hardest part of the routine as if it didn't faze me at all! "
     # b "But this is my body! Before I was just surprised by what happened but it's all just impossible. " with vshake
-    b "Docierając do drugiej połowy gładko przechodzę przez najtrudniejszą część układu jakby mnie w ogóle nie peszyła! " with vshake
-    b "Ale to moje ciało! Wcześniej byłem tylko zaskoczony tym, co się stało, ale to wszystko po prostu niemożliwe. " with vshake
+    b "Docierając do drugiej połowy, gładko przechodzę przez \nnajtrudniejszą\ część układu, jakby mnie w ogóle nie peszyła! " with vshake
+    b "Ale to moje ciało! Wcześniej byłem tylko zaskoczony tym, \nco\ się stało, ale to wszystko po prostu niemożliwe. " with vshake
 # game/script/13.rpy:138
 translate polish s13_50492cac:
 
@@ -231,7 +231,7 @@ translate polish s13_50492cac:
 translate polish s13_cc0c41f6:
 
     # b "Before I work out what's going on I manage to finish routine. As I hold the final pose I hear a wave of applause shower me from everyone in the room. " with hshake
-    b "Zanim ogarniam, co się dzieje udaje mi się skończyć układ. Kiedy utrzymuję ostatnią pozę słyszę falę oklasków, którą obsypują mnie wszyscy w pomieszczeniu. " with hshake
+    b "Zanim ogarniam, co się dzieje udaje mi się skończyć układ. Kiedy utrzymuję ostatnią \npozę\ słyszę falę oklasków, którą obsypują mnie wszyscy w pomieszczeniu. " with hshake
 
 # game/script/13.rpy:151
 translate polish s13_b819b232:
@@ -239,7 +239,7 @@ translate polish s13_b819b232:
     # voice voice_file.clubmate(13,2)
     # clubmate "\"Wow! Liao, you did great!\" " with vshake
     voice voice_file.clubmate(13,2)
-    clubmate "\"Wow! Liao, świetnie się spisałeś!\" " with vshake
+    clubmate "\"Wow! Liao, świetnie sobie poradziłeś!\" " with vshake
 
 # game/script/13.rpy:154
 translate polish s13_9b55b954:
@@ -268,8 +268,8 @@ translate polish s13_9a59531b:
 
     # b "I stand there, confused and out of breath. I {i}know{/i} \ I couldn't possibly have pulled that off. "
     # b "There's no way I could have just learnt all of it just like that. What's going on... "
-    b "Stoję w miejscu, zdezorientowany i zdyszany. {i}Wiem{/i} \ Niemożliwe, że to wszystko odwaliłem samemu. "
-
+    b "Stoję w miejscu, zdezorientowany i zdyszany. {i}Wiem{/i}. \ Niemożliwe, że to wszystko odwaliłem samemu. "
+    b "To niemożliwe bym nauczyłbym się całości tak po prostu. Co jest grane... "
 # game/script/13.rpy:171
 translate polish s13_f3556ac8:
 
@@ -294,7 +294,7 @@ translate polish s13_fdc0e027:
 translate polish s13_91d443af:
 
     # b "Someone in the crowd wolf wistles at us, but I follow Senpai over to a corner anyway. "
-    b "Ktoś w tłumie gwiżdże na nas, ale i tak podążam za Senpai'em do rogu. "
+    b "Ktoś w tłumie gwiżdże na nas, ale i tak podążam za Senpajem do rogu. "
 
 # game/script/13.rpy:187
 translate polish s13_968d4dc7:
@@ -302,7 +302,7 @@ translate polish s13_968d4dc7:
     # voice voice_file.lpdcat(13,7)
     # lpdcat difficult "\"Err... Kulau, You've crossed the line...\" "
     voice voice_file.lpdcat(13,7)
-    lpdcat difficult "\"Eee... Kulau, przegiąłeś pałę...\" "
+    lpdcat difficult "\"Eee... Kulau, przesadziłeś...\" "
 
 # game/script/13.rpy:191
 translate polish s13_1553364e:
@@ -343,8 +343,8 @@ translate polish s13_91026b9d:
 
     # b "I know I couldn't have done that myself, but I was {i}controlled?{/i} \ I didn't notice \nanything... "
     # b "I guess it kinda felt like my body was moving by itself, but it also really did feel like I was in control. I didn't think about it that much... "
-    b "Wiem, że nie mogłem tego zrobić samemu, ale byłem {i}kontrolowany?{/i} \ Nie zauważyłem \nniczego... "
-
+    b "Wiem, że nie mogłem tego zrobić samemu, ale byłem {i}kontrolowany?{/i} \ Nie zauważyłem niczego... "
+    b "Chyba czułem jakby moje ciało samo się poruszało, ale też naprawdę \nczułem\ jakbym sam je kontrolował. Nie myślałem o tym zbyt dużo... "
 # game/script/13.rpy:210
 translate polish s13_5424d150:
 
@@ -359,7 +359,7 @@ translate polish s13_dfa1fee8:
     # voice voice_file.lpdcat(13,9)
     # lpdcat difficult "\"Well, a bit of help is fine but you didn't even let him do anything by himself. I don't really care but you probs pissed of the old man off...\" "
     voice voice_file.lpdcat(13,9)
-    lpdcat difficult "\"Cóż, odrobina pomocy jest w porządku, ale nawet nie pozwoliłeś mu zrobić nic samemu. Mi to nie przeszkadza, ale prawdopodobnie wkurzyłeś staruszka...\" "
+    lpdcat difficult "\"Cóż, odrobina pomocy jest w porządku, ale nawet nie pozwoliłeś mu niczego zrobić samemu. Mi to nie przeszkadza, ale prawdopodobnie wkurzyłeś staruszka...\" "
 
 # game/script/13.rpy:215
 translate polish s13_ac07d927:
@@ -375,7 +375,7 @@ translate polish s13_868c4780:
     # voice voice_file.lpdcat(13,10)
     # lpdcat difficult "\"It would have been better to help him out when he's back home though. What do you think is gonna happen now that everyone has seen him dance so well? What happens when he messes it up next time?\" "
     voice voice_file.lpdcat(13,10)
-    lpdcat difficult "\"Byłoby lepiej mu pomóc, kiedy wróci do domu. Jak myślisz, co się stanie teraz, kiedy wszyscy widzieli jak tak dobrze tańczy? Co się stanie jeśli następnym razem coś schrzani?\" "
+    lpdcat difficult "\"Byłoby lepiej mu pomóc, kiedy wróci do domu. Jak myślisz, co się stanie teraz, kiedy wszyscy widzieli jak tak dobrze tańczy? Co się stanie, jeśli następnym razem coś schrzani?\" "
 
 # game/script/13.rpy:222
 translate polish s13_7119a2db:
@@ -394,14 +394,14 @@ translate polish s13_8834b3a0:
     # tig angry "\"Maybe you'd rather attend every dance club meeting on Liao's behalf? Do you understand what you just did!\" "
     voice voice_file.tig(13,5)
     tig angry "\"Nie pomyślałeś o ludziach wokół ciebie? Co jest z tobą nie tak?\" "
-    tig angry "\"Chciałbyś, żeby Liao nigdy więcej nie występował przed innymi? Czy wolałbyś od teraz tańczyć za niego?\" "
-    tig angry "\"Może wolałbyś brać udział w każdym spotkaniu klubu tanecznego w jego imieniu? Czy ty rozumiesz co właśnie zrobiłeś?!\" "# game/script/13.rpy:228
+    tig angry "\"Chciałbyś, żeby Liao nigdy więcej nie występował przed \ninnymi?\ Czy wolałbyś od teraz tańczyć za niego?\" "
+    tig angry "\"Może wolałbyś brać udział w każdym spotkaniu klubu tanecznego \nw\ jego imieniu? Czy ty rozumiesz co właśnie zrobiłeś?!\" "# game/script/13.rpy:228
 translate polish s13_592ea892:
 
     # voice voice_file.lpdcat(13,11)
     # lpdcat serious "\"Drop it, old man. It doesn't really matter... I'll just tell them I've been teaching Liao...\" "
     voice voice_file.lpdcat(13,11)
-    lpdcat serious "\"Daj spokój staruszku. To nie ma tak naprawdę znaczenia... Po prostu im powiem, że uczyłem Liao...\" "
+    lpdcat serious "\"Daj spokój, staruszku. To nie ma tak naprawdę znaczenia... Po prostu im powiem, że uczyłem Liao...\" "
 
 # game/script/13.rpy:230
 translate polish s13_c4c4e511:
@@ -409,16 +409,16 @@ translate polish s13_c4c4e511:
     # voice voice_file.tig(13,6)
     # tig angry "\"Liao danced unreasonably well just then. How could you implore them to believe you after witnessing that?\" "
     voice voice_file.tig(13,6)
-    tig angry "\"Liao przed chwilą tańczył absurdalnie dobrze. Jak mógłbyś ich upraszać, żeby ci uwierzyli po tym czego byli świadkiem?\" "
+    tig angry "\"Liao przed chwilą tańczył absurdalnie dobrze. Jak mógłbyś ich \nupraszać\, żeby ci uwierzyli po tym, czego byli świadkami?\" "
 
 # game/script/13.rpy:232
 translate polish s13_40830035:
 
     # voice voice_file.tig(13,7)
     # tig angry "\"Will they not look for another reason? What if they leap to some odd conclusion?\" "
-    # tig angry "\"Even if they believe your story about teaching them, kitten. It would only serve to add to the rumours about your relationship!\" "
+    tig angry "\"Nie będą szukać innego powodu? Co jeśli dojdą do jakiegoś dziwnego wniosku?\" "    # tig angry "\"Even if they believe your story about teaching them, kitten. It would only serve to add to the rumours about your relationship!\" "
     voice voice_file.tig(13,7)
-    tig angry "\"Nawet jeśli by uwierzyli w twoją historię o uczeniu go, kociaku. Posłużyliby się tym, by doliczyć to do plotek o waszym związku!\" "
+    tig angry "\"Nawet jeśli uwierzyliby w twoją historię o uczeniu go, kociaku. \nPosłużyliby\ się tym, by doliczyć to do plotek o waszym związku!\" "
 
 # game/script/13.rpy:237
 translate polish s13_15a4fa0e:
@@ -426,7 +426,7 @@ translate polish s13_15a4fa0e:
     # voice voice_file.tig(13,8)
     # tig angry "\"You fool. If you were ever to think about the consequences... How can you call yourself a god worthy to lead anyone?\" "
     voice voice_file.tig(13,8)
-    tig angry "\"Ty głupcze. Gdybyś kiedykolwiek myślał o konsekwencjach... Jak możesz nazywać się bogiem godnym, by kogokolwiek prowadzić?\" "
+    tig angry "\"Ty głupcze. Gdybyś kiedykolwiek myślał o konsekwencjach... Jak \nmożesz\ nazywać się bogiem godnym, by kogokolwiek prowadzić?\" "
 
 # game/script/13.rpy:242
 translate polish s13_ec7ea448:
@@ -434,7 +434,7 @@ translate polish s13_ec7ea448:
     # voice voice_file.tig(13,9)
     # tig angry "\"Look at what you've done. Liao might have to quit his club over this! You've put Liao's dreams in jeopardy! You may even have ruined them.\" "
     voice voice_file.tig(13,9)
-    tig angry "\"Spójrz co narobiłeś. Liao pewnie będzie musiał przez to odejść z klubu! Naraziłeś marzenia Liao na niebezpieczeństwo! Możliwe, że je zrujnowałeś.\" "
+    tig angry "\"Spójrz co narobiłeś. Liao pewnie będzie musiał przez to odejść z klubu! \nNaraziłeś\ marzenia Liao na niebezpieczeństwo! Możliwe, że je zrujnowałeś.\" "
 
 # game/script/13.rpy:246
 translate polish s13_3b5e46f7:
@@ -472,26 +472,26 @@ translate polish s13_cfb830cd:
 translate polish s13_45ab529e:
 
     # b "But what if they ask me to be in the end of semester performance... I'll be forced to beg Leopard to help me. "
-    b "Ale jeśli poproszą mnie bym był częścią występu na końcu semestru... Będę zmuszony błagać Panterę, by mi pomógł. "
+    b "Ale jeśli poproszą mnie bym był częścią występu na końcu \nsemestru...\ Będę zmuszony błagać Lamparta, by mi pomógł. "
 
 # game/script/13.rpy:260
 translate polish s13_45d4daba:
 
     # b "They might just think I'm really good now and ask me to perform at every show... and I'll just be asked, over and over again... "
-    b "Mogą myśleć, że jestem teraz naprawdę dobry i będą prosić bym występował na każdym show... i będę w kółko o to proszony... "
+    b "Mogą myśleć, że jestem teraz naprawdę dobry i będą prosić \nbym\ występował na każdym show... i będę w kółko o to proszony... "
 
 # game/script/13.rpy:262
 translate polish s13_b37c02ce:
 
     # b "Dancing is about your ability to coordinate and move in rhythm, it's just gonna be really weird for me to struggle after doing all of that flawlessly. "
     # b "My head hurts just thinking about how to explain it to everyone... "
-    b "Taniec polega na umiejętności koordynacji i ruchu w rytm, to będzie naprawdę dziwne zmagać się z tym po tym jak zrobiłem to bezbłędnie. "
-    b "Od myślenia o tym jak mam im to wytłumaczyć aż boli mnie głowa... "
+    b "Taniec polega na umiejętności koordynacji i ruchu w rytm, to będzie \nnaprawdę\ dziwne zmagać się z tym po tym jak zrobiłem to bezbłędnie. "
+    b "Od myślenia o tym, jak mam im to wytłumaczyć aż boli mnie głowa... "
 # game/script/13.rpy:266
 translate polish s13_e311497b:
 
     # avt "\"I mean, it's not that bad. Worst case I just leave dance club. It's not like I couldn't just learn dancing anywhere...\" "
-    avt "\"Nie jest tak źle. W najgorszym wypadku rzucę klub taneczny. Mogę przecież nauczyć się tańca gdziekolwiek...\" "
+    avt "\"Nie jest tak źle. W najgorszym wypadku rzucę klub \ntaneczny.\ Mogę przecież nauczyć się tańca gdziekolwiek...\" "
 
 # game/script/13.rpy:268
 translate polish s13_f71b1b1a:
@@ -499,7 +499,7 @@ translate polish s13_f71b1b1a:
     # voice voice_file.tig(13,10)
     # tig angry "\"Do you really expect to become proficient without a teacher let alone a venue? If you did leave, would you pay for those resources?\" "
     voice voice_file.tig(13,10)
-    tig angry "\"Czy naprawdę oczekujesz, że staniesz się wprawny bez nauczyciela, a co dopiero lokalu? Gdybyś odszedł, opłaciłbyś to?\" "
+    tig angry "\"Czy naprawdę oczekujesz, że staniesz się wprawny bez \nnauczyciela\, a co dopiero lokalu? Gdybyś odszedł, opłaciłbyś to?\" "
 
 # game/script/13.rpy:270
 translate polish s13_b1e13756:
@@ -521,7 +521,7 @@ translate polish s13_a0584ea8:
     # voice voice_file.tig(13,12)
     # tig angry "\"Aborigine, I knew you were trouble during the math exam. Now you've just proved me right!\" "
     voice voice_file.tig(13,12)
-    tig angry "\"Aborygenie, wiedziałem, że sprawiasz problemy podczas egzaminu z matmy. Teraz udowodniłeś mi, że mam rację!\" "
+    tig angry "\"Aborygenie, wiedziałem, że sprawiasz problemy podczas \negzaminu\ z matmy. Teraz udowodniłeś mi, że mam rację!\" "
 
 # game/script/13.rpy:281
 translate polish s13_6cfb7540:
@@ -529,7 +529,7 @@ translate polish s13_6cfb7540:
     # voice voice_file.tig(13,13)
     # tig angry "\"If you cannot figure out how the modern world functions, you shouldn't get in the way of others!\" "
     voice voice_file.tig(13,13)
-    tig angry "\"Jeśli nie jesteś w stanie zrozumieć jak działa nowoczesny świat, nie powinieneś wchodzić innym w drogę!\" "
+    tig angry "\"Jeśli nie jesteś w stanie zrozumieć jak działa nowoczesny \nświat\, nie powinieneś wchodzić innym w drogę!\" "
 
 # game/script/13.rpy:283
 translate polish s13_0e9380de:
@@ -584,7 +584,7 @@ translate polish s13_f5de9dbe:
     # tig frown "\"I can't let this continue. If something like this were to happen again, who knows if it could be mended.\" "
     # tig frown "\"It's not worth the risk to allow you to stay.\" "
     voice voice_file.tig(13,17)
-    tig frown "\"Nie pozowolę, żeby tak dalej było. Gdyby coś takiego miało się znowu wydarzyć, kto wie, czy będzie można to naprawić.\" "
+    tig frown "\"Nie pozowolę, żeby tak dalej było. Gdyby coś takiego miało się \nznowu\ wydarzyć, kto wie, czy będzie można to naprawić.\" "
     tig frown "\"Pozwolenie ci zostać nie jest warte ryzyka.\" "
 # game/script/13.rpy:302
 translate polish s13_6c037936:
@@ -593,7 +593,7 @@ translate polish s13_6c037936:
     # tig frown "\"Now, I will only tell you one more time. Liao has no obligation to help you, and he has no obligation to have you by his side.\" "
     # tig frown "\"If you are to interfere with his life, you are better off keeping your distance. For Liao's sake.\" "
     voice voice_file.tig(13,18)
-    tig frown "\"Zatem, powiem ci to ostatni raz. Liao nie ma obowiązku ci pomagać, i nie ma obowiązku, byś był u jego boku.\" "
+    tig frown "\"Zatem, powiem ci to ostatni raz. Liao nie ma obowiązku ci \npomagać\, a także nie ma obowiązku, byś był u jego boku.\" "
     tig frown "\"Jeśli masz dalej ingerować w jego życie, lepiej trzymaj się z daleka. Dla dobra Liao.\" "
 # game/script/13.rpy:304
 translate polish s13_6f51b0c9:
@@ -651,7 +651,7 @@ translate polish s13_f51d4b2d:
 translate polish s13_fdbee339:
 
     # avt "\"Leopard...\" "
-    avt "\"Pantero...\" "
+    avt "\"Lamparcie...\" "
 
 # game/script/13.rpy:325
 translate polish s13_b0ea0f32:
@@ -671,7 +671,7 @@ translate polish s13_49d5f346:
 translate polish s13_713baaf2:
 
     # b "Before I can stop him, Leopard's gone. He vanished. I couldn't work out which way he went even if I wanted. "
-    b "Zanim, jestem w stanie go powstrzymać, Pantery już nie ma. Zniknął. Nawet gdybym chciał, nie mogłem rozgryźć, którędy poszedł. "
+    b "Zanim, jestem w stanie go powstrzymać, Lamparta już nie ma. Zniknął. Nawet gdybym chciał, nie mogłem rozgryźć, którędy poszedł. "
 
 # game/script/13.rpy:335
 translate polish s13_776bf21f_1:
@@ -687,7 +687,7 @@ translate polish s13_195b58df:
     # voice voice_file.tig(13,22)
     # tig frown "*humph* "
     voice voice_file.tig(13,22)
-    tig frown "*humph* "
+    tig frown "*odchrząkuje* "
 
 # game/script/13.rpy:339
 translate polish s13_ac854a32:
@@ -736,7 +736,7 @@ translate polish s13_3b50b7ac:
     # tig frown "\"I know he just wanted to help you, but he doesn't understand what he's doing. You're the one who gets hurt in the end. \" "
     # tig frown "\"It's better to do something before it's too late.\" "
     voice voice_file.tig(13,25)
-    tig frown "\"Wiem, że chciał ci tylko pomóc, ale sam nie rozumie, co on wyprawia. Koniec końców to ty zostajesz pokrzywdzony. \" "
+    tig frown "\"Wiem, że chciał ci tylko pomóc, ale sam nie rozumie, co on \nwyprawia.\ Koniec końców to ty zostajesz pokrzywdzony. \" "
     tig frown "\"Lepiej coś zrobić, zanim będzie za późno.\" "
 # game/script/13.rpy:362
 translate polish s13_626637ad:
@@ -765,7 +765,7 @@ translate polish s13_e88eca98:
 translate polish s13_ad7ba116:
 
     # avt "\"I-{w=0.2}I won't even have a chance to say thanks...\" "
-    avt ""
+    avt "\"N-{w=0.2}nawet nie będę mieć szansy mu podziękować...\" "
 
 # game/script/13.rpy:375
 translate polish s13_b1b38033:
