@@ -773,7 +773,7 @@ translate polish s13_b1b38033:
     # voice voice_file.tig(13,26)
     # tig normal "\"...I'm sorry.\" "
     voice voice_file.tig(13,26)
-    tig normal ""
+    tig normal "\"...Przepraszam.\" "
 
 # game/script/13.rpy:377
 translate polish s13_97881033:
@@ -781,13 +781,13 @@ translate polish s13_97881033:
     # voice voice_file.tig(13,27)
     # tig normal "\"But Liao, this is—\" "
     voice voice_file.tig(13,27)
-    tig normal ""
+    tig normal "\"Ale Liao, to—\" "
 
 # game/script/13.rpy:379
 translate polish s13_7c25ee6d:
 
     # b "Tiger stopped his sentence there. Looking onwards at each other in silence... It said everything that needed to be said. "
-    b ""
+    b "Tygrys tutaj zatrzymał swoje zdanie. Patrząc się na wszystkich w ciszy... To powiedziało wszystko. "
 
 # game/script/13.rpy:385
 translate polish s13_f9b0421b:
@@ -795,7 +795,7 @@ translate polish s13_f9b0421b:
     # voice voice_file.lpdcat(13,16)
     # lpdcat panic "\"Wow... this is awkward...\" " with hshake
     voice voice_file.lpdcat(13,16)
-    lpdcat panic "" with hshake
+    lpdcat panic "Wow... to trochę niezręczne...\" " with hshake
 
 # game/script/13.rpy:389
 translate polish s13_7ee38493:
@@ -803,7 +803,7 @@ translate polish s13_7ee38493:
     # voice voice_file.lpdcat(13,17)
     # lpdcat normal "\"Alright, enough is enough. It's not like this has to be the end. Maybe Kulau will come back.\" "
     voice voice_file.lpdcat(13,17)
-    lpdcat normal ""
+    lpdcat normal "\"Dobra, dość tego. To nie musi być koniec. Może Kulau jeszcze wróci.\" "
 
 # game/script/13.rpy:391
 translate polish s13_ce4bf2f3:
@@ -811,7 +811,7 @@ translate polish s13_ce4bf2f3:
     # voice voice_file.lpdcat(13,18)
     # lpdcat normal "\"The old man can clear things up, and Liao would have plenty of time to talk, right?\" "
     voice voice_file.lpdcat(13,18)
-    lpdcat normal ""
+    lpdcat normal "\"Staruszek może wszystko wyjaśnić, a Liao miałby mnóstwo czasu na rozmowę, prawda?\" "
 
 # game/script/13.rpy:393
 translate polish s13_8cf15f21:
@@ -819,7 +819,7 @@ translate polish s13_8cf15f21:
     # voice voice_file.lpdcat(13,19)
     # lpdcat wronged "\"There's no need to... worry so much...\" "
     voice voice_file.lpdcat(13,19)
-    lpdcat wronged ""
+    lpdcat wronged "\"Nie ma potrzeby... tak bardzo się zamartwiać...\" "
 
 # game/script/13.rpy:395
 translate polish s13_03eb0388:
@@ -827,25 +827,25 @@ translate polish s13_03eb0388:
     # voice voice_file.tig(13,28)
     # tig frown "*tch* "
     voice voice_file.tig(13,28)
-    tig frown ""
+    tig frown "*prycha* "
 
 # game/script/13.rpy:397
 translate polish s13_3b0fe3d9:
 
     # avt "\"Maybe... but...\" "
-    avt ""
+    avt "\"Może... ale...\" "
 
 # game/script/13.rpy:399
 translate polish s13_8a4fc3c6:
 
     # b "What if he {i}doesn't{/i} \ come back? "
-    b ""
+    b "Co jeśli {i}nie{/i} \ wróci? "
 
 # game/script/13.rpy:401
 translate polish s13_f9fac311:
 
     # avt "\"...I-{w=0.2}I want to go home.\" "
-    avt ""
+    avt "\"...Ch-{w=0.2}chcę iść do domu.\" "
 
 # game/script/13.rpy:403
 translate polish s13_0cefc785:
@@ -853,7 +853,7 @@ translate polish s13_0cefc785:
     # voice voice_file.lpdcat(13,20)
     # lpdcat serious "\"That's, a good idea. Liao's probably not in the mood for practise anyway.\" "
     voice voice_file.lpdcat(13,20)
-    lpdcat serious ""
+    lpdcat serious "\"Dobry pomysł. I tak Liao prawdopodobnie nie jest w nastroju na ćwiczenia.\" "
 
 # game/script/13.rpy:405
 translate polish s13_1f473cae:
@@ -861,7 +861,7 @@ translate polish s13_1f473cae:
     # voice voice_file.lpdcat(13,21)
     # lpdcat serious "\"Which means... I should probably take this chance to tell you.\" "
     voice voice_file.lpdcat(13,21)
-    lpdcat serious ""
+    lpdcat serious "\"Co oznacza... Powinienem wykorzystać tą szansę, by ci powiedzieć.\" "
 
 # game/script/13.rpy:407
 translate polish s13_81029d2c:
@@ -869,7 +869,7 @@ translate polish s13_81029d2c:
     # voice voice_file.lpdcat(13,22)
     # lpdcat serious "\"I've asked for the day off class tomorrow. I'll be leaving tonight.\" "
     voice voice_file.lpdcat(13,22)
-    lpdcat serious ""
+    lpdcat serious "\"Poprosiłem by jutro było wolne od lekcji. Dzisiaj wyjeżdżam.\" "
 
 # game/script/13.rpy:409
 translate polish s13_fe51e72b:
@@ -877,7 +877,7 @@ translate polish s13_fe51e72b:
     # voice voice_file.lpdcat(13,23)
     # lpdcat serious "\"You know, to go have a big fight with my family. Fun times.\" "
     voice voice_file.lpdcat(13,23)
-    lpdcat serious ""
+    lpdcat serious "\"No wiesz, żeby mieć wielką kłótnię z rodziną. Przyjemny czas.\" "
 
 # game/script/13.rpy:411
 translate polish s13_be08e90b:
@@ -885,7 +885,7 @@ translate polish s13_be08e90b:
     # voice voice_file.lpdcat(13,24)
     # lpdcat wronged "\"Yan Shu-Chi's on bad terms... I really don't know how bad it's gonna get, but that's just how it is...\" "
     voice voice_file.lpdcat(13,24)
-    lpdcat wronged ""
+    lpdcat wronged "\"Yan Shu-Chi jest z nią w złych stosunkach... Naprawdę nie wiem, jak bardzo się pogorszą, ale tak już musi być...\" "
 
 # game/script/13.rpy:413
 translate polish s13_bc396a40:
@@ -893,7 +893,7 @@ translate polish s13_bc396a40:
     # voice voice_file.lpdcat(13,25)
     # lpdcat wronged "\"And I plan to take this as my chance to... leave him for good.\" "
     voice voice_file.lpdcat(13,25)
-    lpdcat wronged ""
+    lpdcat wronged "\"I planuję wykorzystać tą szansę, by... zostawić ją na dobre.\" "
 
 # game/script/13.rpy:423
 translate polish s13_02_not_lpdcat_last_date_5a14c30e:
@@ -908,7 +908,7 @@ translate polish s13_02_not_lpdcat_last_date_8836e935:
     # lpdcat serious "\"It's not out of nowhere... I've seen this coming for days. It's just been getting, more intense.\" "
     # lpdcat serious "\"I have to face it sooner or later.\" "
     voice voice_file.lpdcat(13,26)
-    lpdcat serious ""
+    lpdcat serious "\"Ta decyzja nie wynikła znikąd... Przeczuwałem to od dawna. To stawało się coraz bardziej dotkliwe.\" "
 
 # game/script/13.rpy:427
 translate polish s13_02_not_lpdcat_last_date_c5061851:
@@ -916,13 +916,13 @@ translate polish s13_02_not_lpdcat_last_date_c5061851:
     # voice voice_file.lpdcat(13,27)
     # lpdcat serious "\"That's why I need to go back for a few days. This is Yan-Shu-Chi's family affair. You can't get involved...\" "
     voice voice_file.lpdcat(13,27)
-    lpdcat serious ""
+    lpdcat serious "\"Dlatego muszę wrócić na kilka dni. To sprawa rodzinna Yan-Shu-Chi. Nie możesz się w to angażować...\" "
 
 # game/script/13.rpy:429
 translate polish s13_02_not_lpdcat_last_date_f8a6debb:
 
     # avt "\"But, at least partially, this is because of me, isn't it?\" "
-    avt ""
+    avt "Ale przynajmniej po części to moja wina, prawda?\" "
 
 # game/script/13.rpy:431
 translate polish s13_02_not_lpdcat_last_date_291ee00a:
@@ -930,7 +930,7 @@ translate polish s13_02_not_lpdcat_last_date_291ee00a:
     # voice voice_file.lpdcat(13,28)
     # lpdcat serious "\"Yeah it is, but you'll getting involved with them will just make things worse.\" "
     voice voice_file.lpdcat(13,28)
-    lpdcat serious ""
+    lpdcat serious "\"To prawda, ale angażowanie ciebie tylko wszystko pogorszy.\" "
 
 # game/script/13.rpy:433
 translate polish s13_02_not_lpdcat_last_date_0f94d2fb:
@@ -938,7 +938,7 @@ translate polish s13_02_not_lpdcat_last_date_0f94d2fb:
     # voice voice_file.lpdcat(13,29)
     # lpdcat normal "\"I'll manage by myself. I'll do it. You just won't be able to see me for a few days, that's all.\" "
     voice voice_file.lpdcat(13,29)
-    lpdcat normal ""
+    lpdcat normal "\"Dam sobie radę sam. Zrobię to. Nie będziesz mógł się ze mną widzieć przez kilka dni, to wszystko."
 
 # game/script/13.rpy:435
 translate polish s13_02_not_lpdcat_last_date_0af8170c:
@@ -946,19 +946,19 @@ translate polish s13_02_not_lpdcat_last_date_0af8170c:
     # voice voice_file.lpdcat(13,30)
     # lpdcat normal "\"You should, just go home now.\" "
     voice voice_file.lpdcat(13,30)
-    lpdcat normal ""
+    lpdcat normal "\"Powinieneś pójść do domu.\" "
 
 # game/script/13.rpy:440
 translate polish s13_02_not_lpdcat_last_date_a8118553:
 
     # b "But, Senpai..."
-    b ""
+    b "Ale Senpaj..."
 
 # game/script/13.rpy:442
 translate polish s13_02_not_lpdcat_last_date_96dede30:
 
     # b "My heart turns over itself inside me, a mess of feelings where I don't know what to do. "
-    b ""
+    b "Moje serce przewraca się do góry nogami wewnątrz mnie, kupa uczuć, gdy nie wiem, co zrobić. "
 
 # game/script/13.rpy:444
 translate polish s13_02_not_lpdcat_last_date_b1206d09:
@@ -966,13 +966,13 @@ translate polish s13_02_not_lpdcat_last_date_b1206d09:
     # voice voice_file.tig(13,29)
     # tig normal "\"...I think we should go now.\" "
     voice voice_file.tig(13,29)
-    tig normal ""
+    tig normal "\"... Powinniśmy już iść.\" "
 
 # game/script/13.rpy:446
 translate polish s13_02_not_lpdcat_last_date_3bf0dc1b:
 
     # avt "\"Oh, umm... yeah...\" "
-    avt ""
+    avt "\"Och, umm... tak...\" "
 
 # game/script/13.rpy:454
 translate polish s13_02_lpdcat_last_date_99add9c3:
@@ -981,15 +981,15 @@ translate polish s13_02_lpdcat_last_date_99add9c3:
     # lpdcat serious "\"Well, as you know, I'm going back to Miaoli pretty soon... There's no point in me staying here any longer.\" "
     # lpdcat serious "\"And I don't plan to jeopardise Yan Shu-Chi's relationship with his family any longer...\" "
     voice voice_file.lpdcat(13,31)
-    lpdcat serious ""
-
+    lpdcat serious "\"Cóż, jak już wiesz, dość niedługo wracam do Miaoli... Nie ma powodu, bym dłużej tu zostawał."
+    lpdcat serious "\"I nie planuję dłużej narażać na niebezpieczeństwo relacji Yan Shu-Chi z jego rodziną...\" "
 # game/script/13.rpy:456
 translate polish s13_02_lpdcat_last_date_dfa37256:
 
     # voice voice_file.lpdcat(13,32)
     # lpdcat serious "\"So, I guess this is the last time we'll see each other.\" "
     voice voice_file.lpdcat(13,32)
-    lpdcat serious ""
+    lpdcat serious "\"Więc to chyba ostatni raz, kiedy się widzimy.\" "
 
 # game/script/13.rpy:458
 translate polish s13_02_lpdcat_last_date_6feb25c9:
@@ -997,13 +997,13 @@ translate polish s13_02_lpdcat_last_date_6feb25c9:
     # voice voice_file.lpdcat(13,33)
     # lpdcat normal "\"Haha— You know, I always wanted to say goodbye to you with a big smile on your \nface.\" "
     voice voice_file.lpdcat(13,33)
-    lpdcat normal ""
+    lpdcat normal "\"Haha— Wiesz, zawsze chciałem cię pożegnać z wielkim uśmiechem na twojej twarzy.\" "
 
 # game/script/13.rpy:460
 translate polish s13_02_lpdcat_last_date_c58b3097:
 
     # avt "\"Senpai...\" "
-    avt ""
+    avt "\"Senpaj...\" "
 
 # game/script/13.rpy:462
 translate polish s13_02_lpdcat_last_date_4b2df9a8:
@@ -1011,7 +1011,7 @@ translate polish s13_02_lpdcat_last_date_4b2df9a8:
     # voice voice_file.lpdcat(13,34)
     # lpdcat laugh "\"Don't worry about it. I can't make our feelings change on the flip of a coin. It was just a silly wish of mine.\" "
     voice voice_file.lpdcat(13,34)
-    lpdcat laugh ""
+    lpdcat laugh "\"Nie przejmuj się tym. Nie mogę sprawić, że uczucia zmienią się \nniczym\ podrzucona moneta. To było tylko moje głupiutkie życzenie.\" "
 
 # game/script/13.rpy:464
 translate polish s13_02_lpdcat_last_date_e0603899:
@@ -1019,7 +1019,7 @@ translate polish s13_02_lpdcat_last_date_e0603899:
     # voice voice_file.lpdcat(13,35)
     # lpdcat normal "\"Who knows, I might get a chance to come visit you sometime. Even if I'm a yaoguai.\" "
     voice voice_file.lpdcat(13,35)
-    lpdcat normal ""
+    lpdcat normal "\"Kto wie, zawsze jest szansa, że czasami będę cię odwiedzał. Nawet jeśli jestem yaoguai.\" "
 
 # game/script/13.rpy:467
 translate polish s13_02_lpdcat_last_date_2e075607:
@@ -1027,7 +1027,7 @@ translate polish s13_02_lpdcat_last_date_2e075607:
     # voice voice_file.lpdcat(13,36)
     # lpdcat cute "\"Old man, please show some mercy~\" "
     voice voice_file.lpdcat(13,36)
-    lpdcat cute ""
+    lpdcat cute "\"Staruszku, proszę okaż trochę łaski~\" "
 
 # game/script/13.rpy:469
 translate polish s13_02_lpdcat_last_date_dda38b34:
@@ -1035,7 +1035,7 @@ translate polish s13_02_lpdcat_last_date_dda38b34:
     # voice voice_file.tig(13,30)
     # tig normal "\"What, as long as you don't cause trouble it wouldn't be worth my time to harm you.\" " with vshake
     voice voice_file.tig(13,30)
-    tig normal "" with vshake
+    tig normal "\"Dopóki nie będziesz sprawiał problemów, ranienie cię nie byłoby wartego mojego czasu.\" " with vshake
 
 # game/script/13.rpy:471
 translate polish s13_02_lpdcat_last_date_e281da9d:
@@ -1043,7 +1043,7 @@ translate polish s13_02_lpdcat_last_date_e281da9d:
     # voice voice_file.tig(13,31)
     # tig normal "\"You are welcome to visit... as long as you don't drag Liao back to Miaoli of course.\" "
     voice voice_file.tig(13,31)
-    tig normal ""
+    tig normal "\"Twoja wizyta będzie mile widziana... oczywiście, dopóki nie zaciągniesz Liao z powrotem do Miaoli.\" "
 
 # game/script/13.rpy:473
 translate polish s13_02_lpdcat_last_date_5c39ea54:
@@ -1051,7 +1051,7 @@ translate polish s13_02_lpdcat_last_date_5c39ea54:
     # voice voice_file.lpdcat(13,37)
     # lpdcat laugh "\"Hehe— Thanks old man. Was that so hard to say? I guess even if I turn back into a yaoguai, my Fudegong could still be revived after all.\" "
     voice voice_file.lpdcat(13,37)
-    lpdcat laugh ""
+    lpdcat laugh "\"Hehe— Dzięki, staruszku. Czy to było takie trudne? Chyba nawet jeśli zmienię się z powrotem w yaoguai, mój Fudegong wciąż będzie mógł zostać wskrzeszony mimo wszystko.\" "
 
 # game/script/13.rpy:475
 translate polish s13_02_lpdcat_last_date_b87169c0:
@@ -1059,7 +1059,7 @@ translate polish s13_02_lpdcat_last_date_b87169c0:
     # voice voice_file.tig(13,32)
     # tig normal "\"We shall see.\" "
     voice voice_file.tig(13,32)
-    tig normal ""
+    tig normal "\"Zobaczymy.\" "
 
 # game/script/13.rpy:477
 translate polish s13_02_lpdcat_last_date_de6d588d:
@@ -1067,13 +1067,13 @@ translate polish s13_02_lpdcat_last_date_de6d588d:
     # voice voice_file.lpdcat(13,38)
     # lpdcat laugh "\"Hehe— Yep, we will. Okay Liao, guess I'll see you when I see you.\" "
     voice voice_file.lpdcat(13,38)
-    lpdcat laugh ""
+    lpdcat laugh "\"Hehe— Tak, zobaczymy. Dobrze, Liao, chyba zobaczymy się, kiedy się zobaczymy."
 
 # game/script/13.rpy:480
 translate polish s13_02_lpdcat_last_date_ec85c52e:
 
     # b "Senpai throws my backpack to me. "
-    b ""
+    b "Senpaj rzuca mi mój plecak. "
 
 # game/script/13.rpy:482
 translate polish s13_02_lpdcat_last_date_eaa606b0:
@@ -1081,7 +1081,7 @@ translate polish s13_02_lpdcat_last_date_eaa606b0:
     # voice voice_file.lpdcat(13,39)
     # lpdcat normal "\"Go home, I'll be sure to cover things up for you here.\" "
     voice voice_file.lpdcat(13,39)
-    lpdcat normal ""
+    lpdcat normal "\"Wracaj do domu, ogarnę tu wszystko za ciebie.\" "
 
 # game/script/13.rpy:484
 translate polish s13_02_lpdcat_last_date_8110132d:
@@ -1089,31 +1089,31 @@ translate polish s13_02_lpdcat_last_date_8110132d:
     # voice voice_file.lpdcat(13,40)
     # lpdcat laugh "\"Goodbye Liao~\" "
     voice voice_file.lpdcat(13,40)
-    lpdcat laugh ""
+    lpdcat laugh "\"Żegnaj Liao~\" "
 
 # game/script/13.rpy:486
 translate polish s13_02_lpdcat_last_date_2dd7fb8d:
 
     # avt "\"...Yeah.\" "
-    avt ""
+    avt "\"...Tak.\" "
 
 # game/script/13.rpy:488
 translate polish s13_02_lpdcat_last_date_df43061c:
 
-    # avt "\"Goodbye Senpai.\" "
-    avt ""
+    #avt "\"Goodbye, Senpai.\" "
+    avt "Żegnaj Senpaj"
 
 # game/script/13.rpy:498
 translate polish s13_02_lpdcat_last_date_829571bb:
 
-    # b "It's bittersweet, but we say our goodbyes and I head home with Tiger. "
-    b ""
+    #b "To słodko-gorzkie, ale żegnamy się i zmierzam do domu z Tygrysem. "
+    b "To słodko-gorzkie, ale żegnamy się i zmierzam do domu z Tygrysem. "
 
 # game/script/13.rpy:513
 translate polish s13_03_9a41103c:
 
     # b "Even later that night, Leopard hadn't come home. "
-    b ""
+    b "Nawet później tej nocy Lampart nie wrócił do domu. "
 
 # game/script/13.rpy:516
 translate polish s13_03_0a0fb2ec:
