@@ -4,7 +4,7 @@ translate polish strings:
 
     # old "Convention"
     old "展會"
-    new "Konwencja"
+    new "Konwent"
 
     # old "Mansion"
     old "大屋"

@@ -401,7 +401,7 @@ translate polish s13_592ea892:
     # voice voice_file.lpdcat(13,11)
     # lpdcat serious "\"Drop it, old man. It doesn't really matter... I'll just tell them I've been teaching Liao...\" "
     voice voice_file.lpdcat(13,11)
-    lpdcat serious "\"Daj spokój sraruszku. To nie ma tak naprawdę znaczenia... Po prostu im powiem, że uczyłem Liao...\" "
+    lpdcat serious "\"Daj spokój staruszku. To nie ma tak naprawdę znaczenia... Po prostu im powiem, że uczyłem Liao...\" "
 
 # game/script/13.rpy:230
 translate polish s13_c4c4e511:
@@ -753,13 +753,13 @@ translate polish s13_92f803fc:
 # game/script/13.rpy:369
 translate polish s13_e88eca98:
 
-    # b "Suddenly, I'm hit by everything Leopard's done for me. "
-    # b "He always helped me during dance practice... "
-    # b "That time he brought me coffee when I was exhausted... "
-    # b "He helped me cheat in class even though he knew it was wrong... "
-    # b "He protected the tung blossoms so we could at least take one of them home with us... "
+    b "Nagle przypomina mi się wszystko, co Lampart dla mnie zrobił. "
+    b "Zawsze pomagał mi podczas ćwiczeń tanecznych... "
+    b "Raz przyniósł mi kawę, gdy byłem wyczerpany... "
+    b "Pomógł mi oszukiwać na lekcji, mimo że wiedział, że to złe... "
+    b "Ochronił kwitnące tungi, byśmy mogli wziąć do domu choć jeden z nich... "
     # b "And... {w=0.5}he comforted me when I felt sad and alone. "
-    b "Nagle przypomina mi się wszystko, co Pantera dla mnie zrobiła. "
+    b "A także... {w=0.5}pocieszył mnie, gdy czułem się smutny i samotny. "
 
 # game/script/13.rpy:373
 translate polish s13_ad7ba116:

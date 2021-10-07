@@ -8,7 +8,7 @@ translate polish strings:
 
     # old "Clouded Leopard"
     old "雲豹"
-    new "Mglista Pantera"
+    new "Lampart Mglisty"
     
     # old "Leopard Cat"
     old "石虎"
