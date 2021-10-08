@@ -1,13 +1,13 @@
-The Chief God
+Główne Bóstwo
 
-A temple usually doesn't enshrine only one god. According to the needs of their worshippers, large temples may contain statues of multiple gods for people to worship. Typically, there are four types of god in such temples:
+Świątynia zazwyczaj czci więcej niż jednego boga. Zależnie od potrzeb ich wiernych duże świątynie mogą mieścić posągi wielu bóstw. W takich świątyniach zazawyczaj występują cztery rodzaje bóstw:
 
-The Chief God: The god primarily worshipped in the temple. People usually name the temple after the god's name/title. For example: Mazu Temple.
+Główne Bóstwo: Bóg głównie czczony w świątyni. Ludzie zazwyczaj nadają imię świątyni po imieniu/tytule boga. Na przykład: Świątynia Mazu.
 
-Secondary Gods: Secondary gods are god related to the chief god, including the chief god's spouse, subordinates, or guards.
+Bóstwa Poboczne: Bóstwa Poboczne są bosko związane z głównym bóstwem, wliczając w to współmałżonka głównego bóstwa, jego podwładnych, lub strażników.
 
-Temple-Sharing Gods: They don't have specific relations with the chief god, but they are enshrined in the same temple for various reasons.
+Bóstwa Dzielące Świątynię: Nie mają konkretnych relacji z głównym bóstwem, ale są czczone w tej samej świątyni z różnych powodów.
 
-Visiting Gods: Gods enshrined in other temples with their statues temporarily placed in said temple.
+Bóstwa Odwiedzające: Bóstwa czczone w innych świątyniach, których psągi zostały tymczasowo przeniesione do rzeczonej świątyni.
 
-For example, many gods of soil have guardian tiger statues as their guards. In such case, the god of soil is the Chief God and the guardian tigers are secondary gods in the temple.
+Przykładowo wielu bogów ziemi miało posągi tygrysich strażników jako swoją straż. W takim wypadku bóg ziemi jest Głównym Bóstwem, a tygrysi strażnicy są bóstwami pobocznymi świątyni.

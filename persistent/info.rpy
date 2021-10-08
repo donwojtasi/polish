@@ -124,7 +124,7 @@ translate polish strings:
 
     # old "The Chief God"
     old "主神"
-    new "Wyższy Bóg"
+    new "Główne Bóstwo"
 
     # old "Emperor Wen..."
     old "文昌帝君"
@@ -144,7 +144,7 @@ translate polish strings:
 
     # old "City God's Twe..."
     old "城隍十二司"
-    new "Boża Dwunastka"
+    new "Dwunastka Bogów..."
 
     # old "Xia-Hai City God"
     old "霞海城隍"
