@@ -795,7 +795,7 @@ translate polish s13_f9b0421b:
     # voice voice_file.lpdcat(13,16)
     # lpdcat panic "\"Wow... this is awkward...\" " with hshake
     voice voice_file.lpdcat(13,16)
-    lpdcat panic "Wow... to trochę niezręczne...\" " with hshake
+    lpdcat panic "\"Wow... to trochę niezręczne...\" " with hshake
 
 # game/script/13.rpy:389
 translate polish s13_7ee38493:
@@ -1120,21 +1120,21 @@ translate polish s13_03_0a0fb2ec:
 
     # b "It's late and I'm wide awake... I just don't feel like doing anything. "
     # b "So I just sit at my computer, scrolling through page after page, not really reading anything. Doing what essentially amounts to nothing. "
-    b ""
-
+    b "Jest późno, a ja jestem całkowicie obudzony... Nie mam ochoty na cokolwiek. "
+    b "Dlatego po prostu siedzę przy komputerze, przewijam stronę \npo\ stronie, niczego nie czytając, co zasadniczo niczego nie wnosi. "
 # game/script/13.rpy:521
 translate polish s13_03_9b80c920:
 
     # voice voice_file.tig(13,33)
     # tig nervous "\"...Sorry, Liao.\" "
     voice voice_file.tig(13,33)
-    tig nervous ""
+    tig nervous "\"...Wybacz mi, Liao.\" "
 
 # game/script/13.rpy:523
 translate polish s13_03_417d4d33:
 
     # avt "\"Hmm? Why the sudden apology?\" "
-    avt ""
+    avt "\"Hmm? Skąd te nagłe przeprosiny?\" "
 
 # game/script/13.rpy:525
 translate polish s13_03_3660c513:
@@ -1142,13 +1142,13 @@ translate polish s13_03_3660c513:
     # voice voice_file.tig(13,34)
     # tig nervous "\"I was too... excited. There was no need for me to be that forceful with him.\" "
     voice voice_file.tig(13,34)
-    tig nervous ""
+    tig nervous "\"Byłem zbyt... podekscytowany. Nie było potrzeby, \nżebym\ był taki zaciekły w stosunku do niego.\" "
 
 # game/script/13.rpy:527
 translate polish s13_03_22150f85:
 
     # avt "\"...I never thought you would say that.\" "
-    avt ""
+    avt "\"...Nigdby bym nie pomyślał, że to powiesz.\" "
 
 # game/script/13.rpy:529
 translate polish s13_03_24fae009:
@@ -1156,13 +1156,13 @@ translate polish s13_03_24fae009:
     # voice voice_file.tig(13,35)
     # tig nervous "\"I just wanted to get rid of him. I saw my opportunity and took it...\" "
     voice voice_file.tig(13,35)
-    tig nervous ""
+    tig nervous "\"Chciałem po prostu się go pozbyć. \nZobaczyłem\ okazję i wykorzystałem ją...\" "
 
 # game/script/13.rpy:531
 translate polish s13_03_d241b2b3:
 
     # avt "\"So you... drove him away.\" "
-    avt ""
+    avt "\"Więc... odpędziłeś go.\" "
 
 # game/script/13.rpy:533
 translate polish s13_03_07d45713:
@@ -1170,37 +1170,37 @@ translate polish s13_03_07d45713:
     # voice voice_file.tig(13,36)
     # tig embarrassed "\"Liao, I'm sorry. I didn't mean to hurt your feelings.\" "
     voice voice_file.tig(13,36)
-    tig embarrassed ""
+    tig embarrassed "\"Liao, przykro mi. Nie chciałem zranić twoich uczuć.\" "
 
 # game/script/13.rpy:535
 translate polish s13_03_141d98bb:
 
     # avt "\"Do I look upset?\" "
-    avt ""
+    avt "\"Czy wyglądam na przygnębionego?\" "
 
 # game/script/13.rpy:539
 translate polish s13_03_ea4a6bc6:
 
     # b "Because I {i}am{/i} \ upset. Leopard left without a word and Senpai's going now as well. How could I not care? "
-    b ""
+    b "Bo {i}jestem{/i}.\ Lampart odszedł bez słowa, a Senpaj \nteż\ odejdzie. Jak może mnie to nie obchodzić? "
 
 # game/script/13.rpy:541
 translate polish s13_03_5c427d39:
 
     # b "I don't blame Tiger for it. He's never been the one who wanted them to be here in the first place. He was just provoked... I should have been the one to step in there. "
-    b ""
+    b "Nie obwiniam za to Tygrysa. W końcu sam nie chciał, żeby tutaj byli. Został \npo\ prostu sprowokowany... To ja powinienem był tam zainterweniować. "
 
 # game/script/13.rpy:543
 translate polish s13_03_67db4a2f:
 
     # b "And I guess... {w=0.5}It just feels like I've lost something important. "
-    b ""
+    b "I chyba... {w=0.5}Czuję jakbym utracił coś ważnego. "
 
 # game/script/13.rpy:545
 translate polish s13_03_ac2ed14b:
 
     # b "It's all just happened so suddenly. "
-    b ""
+    b "To wszystko wydarzyło się tak nagle. "
 
 # game/script/13.rpy:549
 translate polish s13_03_3be0ea0c:
@@ -1208,20 +1208,20 @@ translate polish s13_03_3be0ea0c:
     # voice voice_file.tig(13,37)
     # tig nervous "\"...Liao, would you rather they came back?\" "
     voice voice_file.tig(13,37)
-    tig nervous ""
+    tig nervous "\"...Liao, czy wolałbyś, żeby wrócili?\" "
 
 # game/script/13.rpy:555
 translate polish s13_03_5b22f87f:
 
     # avt "\"Things were just happier when they were around. As dumb as that sounds.\" "
     # avt "\"But... maybe they were just being nice to me because they wanted me to help them, right?\" "
-    avt ""
-
+    avt "\"Wszystko było weselsze, gdy tu byli. Jak głupio by to nie brzmiało.\" "
+    avt "\"Ale... może po prostu byli dla mnie mili, bo chcieli żebym im pomógł, racja?\" "
 # game/script/13.rpy:557
 translate polish s13_03_8c7d36bc:
 
     # avt "\"Did I really have any intentions to help them... It'd just be wrong to feel good for what they did for me. I'd just be taking advantage of them.\" "
-    avt ""
+    avt "\"Czy miałem jakikolwiek zamiar im pomóc... To byłoby nie w porządku \nczuć\ się dobrze za to, co dla mnie zrobili. To byłoby zwykłe wykorzystanie ich.\" "
 
 # game/script/13.rpy:559
 translate polish s13_03_b306ae92:
@@ -1229,13 +1229,13 @@ translate polish s13_03_b306ae92:
     # voice voice_file.tig(13,38)
     # tig nervous "\"Is that really what's important? Did you not enjoy their company?\" "
     voice voice_file.tig(13,38)
-    tig nervous ""
+    tig nervous "\"Czy to naprawdę ważne? Czy nie bawiłeś się dobrze w ich towarzystwie?\""
 
 # game/script/13.rpy:561
 translate polish s13_03_35d25cf4:
 
     # avt "\"Well... There's a lot of things to think about other than whether I just liked them around or not. I'm conflicted...\" "
-    avt ""
+    avt "\"Cóż... Jest więcej rzeczy do przemyślenia niż, czy lubiłem \nmieć\ ich u boku, czy nie. Nie umiem zdecydować...\" "
 
 # game/script/13.rpy:563
 translate polish s13_03_dba713ba:
@@ -1243,25 +1243,25 @@ translate polish s13_03_dba713ba:
     # voice voice_file.tig(13,39)
     # tig nervous "\"Liao, if you wish, I can get them back. At least the aborigine.\" "
     voice voice_file.tig(13,39)
-    tig nervous ""
+    tig nervous "\"Liao, jeśli takie twoje życzenie, mogę sprowadzić \nich\ z powrotem. A przynajmniej aborygena.\" "
 
 # game/script/13.rpy:565
 translate polish s13_03_77e13ac4:
 
     # avt "\"No, don't. He'll come back if he wants to. Asking him doesn't feel right...\" "
-    avt ""
+    avt "\"Nie, nie rób tego. Wróci, jeśli zachce. Proszenie go o to nie wydaje się właściwe."
 
 # game/script/13.rpy:569
 translate polish s13_03_2166e7b1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/13.rpy:571
 translate polish s13_03_889adbd4:
 
     # tig disappointed "\"......\" "
-    tig disappointed ""
+    tig disappointed "\"......\" "
 
 # game/script/13.rpy:573
 translate polish s13_03_43fc51c6:
@@ -1269,13 +1269,13 @@ translate polish s13_03_43fc51c6:
     # voice voice_file.tig(13,40)
     # tig disappointed "\"Liao, do you think I'm too forceful?\" "
     voice voice_file.tig(13,40)
-    tig disappointed ""
+    tig disappointed "\"Liao, czy uważasz, że jestem zbyt zaciekły?\" "
 
 # game/script/13.rpy:575
 translate polish s13_03_2f96d97e:
 
     # avt "\"It's fine. It's just a part of who you are.\" "
-    avt ""
+    avt "\"Jest w porządku. To część tego, kim jesteś.\" "
 
 # game/script/13.rpy:577
 translate polish s13_03_adbf85cf:
@@ -1283,13 +1283,13 @@ translate polish s13_03_adbf85cf:
     # voice voice_file.tig(13,41)
     # tig normal "\"Do you see me as too controlling?\" "
     voice voice_file.tig(13,41)
-    tig normal ""
+    tig normal "\"Czy postrzegasz mnie jako osobę z manią kontroli?\" "
 
 # game/script/13.rpy:579
 translate polish s13_03_e93f030f:
 
     # avt "\"A little, but I know it's only because you care about me.\" "
-    avt ""
+    avt "\"Odrobinę, ale wiem, że to dlatego, że ci na mnie zależy.\" "
 
 # game/script/13.rpy:584
 translate polish s13_03_7d05ed51:
@@ -1297,13 +1297,13 @@ translate polish s13_03_7d05ed51:
     # voice voice_file.tig(13,42)
     # tig normal "\"If you were to choose, would you rather not see us anymore?\" "
     voice voice_file.tig(13,42)
-    tig normal ""
+    tig normal "\"Gdybyś miał wybór, wolałbyś już nas nie widzieć?\" "
 
 # game/script/13.rpy:586
 translate polish s13_03_c457b023:
 
     # avt "\"...Don't talk like that.\" " with hshake
-    avt "" with hshake
+    avt "\"...Nie mów tak.\" " with hshake
 
 # game/script/13.rpy:588
 translate polish s13_03_ced3eddd:
@@ -1311,13 +1311,13 @@ translate polish s13_03_ced3eddd:
     # voice voice_file.tig(13,43)
     # tig normal "\"Would you wish to stay with me, and only me?\" "
     voice voice_file.tig(13,43)
-    tig normal ""
+    tig normal "\"Chciałbyś zostać ze mną i tylko ze mną?\" "
 
 # game/script/13.rpy:590
 translate polish s13_03_2166e7b1_1:
 
     # avt "\"......\" "
-    avt ""
+    avt "\"......\" "
 
 # game/script/13.rpy:592
 translate polish s13_03_6a1020d6:
@@ -1326,8 +1326,8 @@ translate polish s13_03_6a1020d6:
     # tig normal "\"I've given a lot of thought about it. As to how things would be if you were to go \nhome.\" "
     # tig normal "\"The other guardian tigers, they're very traditional. Honestly, you'll probably be bothered by them more than anything.\" "
     voice voice_file.tig(13,44)
-    tig normal ""
-
+    tig normal "\"Dużo nad tym myślałem. Nad tym jak sprawy by się potoczyły gdybyś wrócił do domu.\" "
+    tig normal "\"Inni tygrysi strażnicy, są bardzo tradycyjni. Szczerze mówiąc, \nprawdopodobnie\ przeszkadzaliby ci ponad wszystko.\" "
 # game/script/13.rpy:594
 translate polish s13_03_50dc1aa9:
 
