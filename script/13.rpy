@@ -1221,7 +1221,7 @@ translate polish s13_03_5b22f87f:
 translate polish s13_03_8c7d36bc:
 
     # avt "\"Did I really have any intentions to help them... It'd just be wrong to feel good for what they did for me. I'd just be taking advantage of them.\" "
-    avt "\"Czy miałem jakikolwiek zamiar im pomóc... To byłoby nie w porządku \nczuć\ się dobrze za to, co dla mnie zrobili. To byłoby zwykłe wykorzystanie ich.\" "
+    avt "\"Czy miałem jakikolwiek zamiar im pomóc... To byłoby nie w porządku czuć się \ndobrze\ za to, co dla mnie zrobili. To byłoby zwykłe wykorzystanie ich.\" "
 
 # game/script/13.rpy:559
 translate polish s13_03_b306ae92:
