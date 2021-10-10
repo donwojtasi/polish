@@ -1372,7 +1372,7 @@ translate polish s13_03_86d8d694:
     # voice voice_file.tig(13,49)
     # tig embarrassed "\"In truth... he was moving your body with spirit power, it's not the same. But my feeling still stands. After all, it is the method one would control someone with weak spiritual power, such as your brother.\" "
     voice voice_file.tig(13,49)
-    tig embarrassed "\"W rzeczywistości... poruszał twoim ciałem siłą ducha, więc to nie to samo. Jednak to uczucie wciąż pozostaje. Mimo wszystko, to metoda, która kontrolowałaby kogoś ze słabą siłą duchową, jak twojego brata.\" "
+    tig embarrassed "\"W rzeczywistości... poruszał twoim ciałem siłą ducha, więc to nie to samo. Jednak to uczucie wciąż pozostaje. Mimo wszystko, to metoda, która kontrolowałaby kogoś ze słabą siłą duchową np. twojego brata.\" "
 
 # game/script/13.rpy:608
 translate polish s13_03_bd06bbbf:
@@ -1463,13 +1463,13 @@ translate polish s13_03_dc9295aa:
     # voice voice_file.tig(13,55)
     # tig laugh_1 "\"But you're all children to us. Not only you, but your father, and even your grandfather as well. Human life is short after all.\" "
     voice voice_file.tig(13,55)
-    tig laugh_1 "\"Ale wszyscy jesteś dla nas dziećmi. Nie tylko ty, ale też twój ojciec, a także \ntwój\ dziadek. Mimo wszystko ludzkie życie jest krótkie.\" "
+    tig laugh_1 "\"Ale wszyscy jesteście dla nas dziećmi. Nie tylko ty, ale też twój ojciec, a także twój dziadek. Mimo wszystko ludzkie życie jest krótkie.\" "
 
 # game/script/13.rpy:644
 translate polish s13_03_4e33938a:
 
     # avt "\"Didn't you only come from statue a year ago?\" "
-    avt "\""
+    avt "\"Czy nie wyszedłeś z posążku jakoś rok temu?\" "
 
 # game/script/13.rpy:646
 translate polish s13_03_abb7691a:
@@ -1477,13 +1477,13 @@ translate polish s13_03_abb7691a:
     # voice voice_file.tig(13,56)
     # tig laugh_1 "\"Well, it has been at least ten years since my statue was carved.\" "
     voice voice_file.tig(13,56)
-    tig laugh_1 ""
+    tig laugh_1 "\"Cóż, minęło przynajmniej dziesięć lat, odkąd go wyrzeźbiono.\" "
 
 # game/script/13.rpy:648
 translate polish s13_03_962cad5e:
 
     # avt "\"Ten years! You're younger than me!\" "
-    avt ""
+    avt "\"Dziesięć lat! Jesteś ode mnie młodszy!\" "
 
 # game/script/13.rpy:650
 translate polish s13_03_cf78dc61:
@@ -1491,19 +1491,19 @@ translate polish s13_03_cf78dc61:
     # voice voice_file.tig(13,57)
     # tig laugh_1 "\"It makes no difference. It still remains that everyone from the Lin family are the children of the gods.\" "
     voice voice_file.tig(13,57)
-    tig laugh_1 ""
+    tig laugh_1 "\"To nie ma sensu. Tak już pozostało, że wszyscy z rodziny Lin są dziećmi bogów.\" "
 
 # game/script/13.rpy:652
 translate polish s13_03_ebf5be5b:
 
     # avt "\"Whatever... that still doesn't mean you {i}need{/i} \ to treat me like I'm your kid...\" "
-    avt ""
+    avt "\"Nieważne... to wciąż nie znaczy, że {i}musisz{/i} \ traktować mnie jak swoje dziecko...\" "
 
 # game/script/13.rpy:659
 translate polish s13_03_f7f6f5a8:
 
     # avt "\"It's weird! I'm in college!\" "
-    avt ""
+    avt "\"To dziwne! Chodzę na studia!\" "
 
 # game/script/13.rpy:665
 translate polish s13_03_2e745039:
@@ -1511,13 +1511,13 @@ translate polish s13_03_2e745039:
     # voice voice_file.tig(13,58)
     # tig laugh_1 "\"Alright— Alright— I'll treat you like an adult from now on, how does that sound?\" "
     voice voice_file.tig(13,58)
-    tig laugh_1 ""
+    tig laugh_1 "\"Dobrze— Dobrze— Od teraz będę cię traktować jak dorosłego, co ty na to?\" "
 
 # game/script/13.rpy:667
 translate polish s13_03_03e5f1b1:
 
     # avt "\"What does that mean?\" "
-    avt ""
+    avt "\"Co to znaczy?\" "
 
 # game/script/13.rpy:669
 translate polish s13_03_3ce207a6:
@@ -1525,13 +1525,13 @@ translate polish s13_03_3ce207a6:
     # voice voice_file.tig(13,59)
     # tig laugh_2 "\"Oh, you see... this month's offerings are on you. Does that please you?\" "
     voice voice_file.tig(13,59)
-    tig laugh_2 ""
+    tig laugh_2 "\"Och, bo widzisz... ofiary z tego miesiąca są na twój rachunek. Czy to cię zadowala?\" "
 
 # game/script/13.rpy:672
 translate polish s13_03_6e131847:
 
     # avt "\"You just want me to buy stuff for you!\" " with vshake
-    avt "" with vshake
+    avt "\"Po prostu chcesz, żebym kupował ci rzeczy!\" " with vshake
 
 # game/script/13.rpy:674
 translate polish s13_03_911284c4:
@@ -1539,13 +1539,13 @@ translate polish s13_03_911284c4:
     # voice voice_file.tig(13,60)
     # tig laugh_1 "\"Isn't that the responsibility of an adult?\" "
     voice voice_file.tig(13,60)
-    tig laugh_1 ""
+    tig laugh_1 "\"Czy to nie obowiązek dorosłego?\" "
 
 # game/script/13.rpy:676
 translate polish s13_03_5bc34f61:
 
     # avt "\"I'm still living on an allowance!\" "
-    avt ""
+    avt "\"Wciąż utrzymuję się z kieszonkowego!\" "
 
 # game/script/13.rpy:678
 translate polish s13_03_0b885319:
@@ -1553,13 +1553,13 @@ translate polish s13_03_0b885319:
     # voice voice_file.tig(13,61)
     # tig laugh_1 "\"Well you told me to treat you like an adult.\" "
     voice voice_file.tig(13,61)
-    tig laugh_1 ""
+    tig laugh_1 "\"Cóż, powiedziałeś, żebym traktował cię jak dorosłego.\" "
 
 # game/script/13.rpy:680
 translate polish s13_03_3e91217b:
 
     # avt "\"...It sounds more like you want to bully me.\" "
-    avt ""
+    avt "\"...Brzmi to bardziej jakbyś chciał mnie dręczyć.\" "
 
 # game/script/13.rpy:685
 translate polish s13_03_afff4bf6:
@@ -1567,7 +1567,7 @@ translate polish s13_03_afff4bf6:
     # voice voice_file.tig(13,62)
     # tig laugh_2 "\"Ha-hahaha—\" " with vshake
     voice voice_file.tig(13,62)
-    tig laugh_2 "" with vshake
+    tig laugh_2 "\"Ha-hahaha—\" " with vshake
 
 # game/script/13.rpy:687
 translate polish s13_03_53335191:
@@ -1575,7 +1575,7 @@ translate polish s13_03_53335191:
     # voice voice_file.tig(13,63)
     # tig normal "\"But in all seriousness, Liao....\" "
     voice voice_file.tig(13,63)
-    tig normal ""
+    tig normal "\"Ale tak zupełnie poważnie, Liao...\" "
 
 # game/script/13.rpy:689
 translate polish s13_03_0bc21ef0:
@@ -1583,7 +1583,7 @@ translate polish s13_03_0bc21ef0:
     # voice voice_file.tig(13,64)
     # tig normal "\"Now that they're gone, if you ever feel alone...\" "
     voice voice_file.tig(13,64)
-    tig normal ""
+    tig normal "\"Teraz gdy już ich nie ma, jeśli kiedykolwiek poczujesz się samotny...\" "
 
 # game/script/13.rpy:691
 translate polish s13_03_f8e3a90b:
@@ -1591,13 +1591,13 @@ translate polish s13_03_f8e3a90b:
     # voice voice_file.tig(13,65)
     # tig gentle "\"I'll do my best to cheer you up, okay?\" "
     voice voice_file.tig(13,65)
-    tig gentle ""
+    tig gentle "\"Zrobię co w mojej mocy, by cię pocieszyć, dobrze?\" "
 
 # game/script/13.rpy:693
 translate polish s13_03_9888d47c:
 
     # avt "\"Well, cheer me up and we'll see.\" "
-    avt ""
+    avt "\"Cóż, pociesz mnie i zobaczymy.\" "
 
 # game/script/13.rpy:695
 translate polish s13_03_eee1e00a:
@@ -1605,13 +1605,13 @@ translate polish s13_03_eee1e00a:
     # voice voice_file.tig(13,66)
     # tig lift "\"What? You don't believe me?\" "
     voice voice_file.tig(13,66)
-    tig lift ""
+    tig lift "\"Co? Nie wierzysz mi?\" "
 
 # game/script/13.rpy:697
 translate polish s13_03_5ce325e4:
 
     # avt "\"Because despite his age, my guardian tiger's a grumpy old man.\" "
-    avt ""
+    avt "\"Bo pomimo jego wieku mój tygrysi strażnik jest zrzędliwym staruszkiem.\" "
 
 # game/script/13.rpy:699
 translate polish s13_03_634187bb:
@@ -1619,19 +1619,19 @@ translate polish s13_03_634187bb:
     # voice voice_file.tig(13,67)
     # tig laugh_1 "\"I'll still take good care of you.\" "
     voice voice_file.tig(13,67)
-    tig laugh_1 ""
+    tig laugh_1 "\"Mimo tego dobrze się tobą zaopiekuję.\" "
 
 # game/script/13.rpy:701
 translate polish s13_03_cdb759eb:
 
     # avt "\"...Mm-hmm, thanks.\" "
-    avt ""
+    avt "\"...Mm-hmm, dzięki.\" "
 
 # game/script/13.rpy:703
 translate polish s13_03_6ce8c1bc:
 
     # b "Tiger strokes his paw through my hair gently. "
-    b ""
+    b "Tygrys przejechał łapą delikatnie po moich włosach. "
 
 # game/script/13.rpy:705
 translate polish s13_03_ea07e4cd:
@@ -1639,161 +1639,161 @@ translate polish s13_03_ea07e4cd:
     # voice voice_file.tig(13,68)
     # tig normal "\"Now, I believe it's getting late. Time for bed then?\" "
     voice voice_file.tig(13,68)
-    tig normal ""
+    tig normal "\"Chyba robi się już późno. Może już czas pójść spać?\" "
 
 # game/script/13.rpy:707
 translate polish s13_03_2dd7fb8d:
 
     # avt "\"...Yeah.\" "
-    avt ""
+    avt "\"...Tak.\" "
 
 # game/script/13.rpy:719
 translate polish s13_03_d98dc441:
 
     # b "Tiger's the only one here, so he sleeps with me tonight. "
-    b ""
+    b "Został tylko Tygrys, więc dzisiaj on śpi ze mną. "
 
 # game/script/13.rpy:721
 translate polish s13_03_3fdfb68b:
 
     # b "Even though I slept with Tiger once during the exam break it's not exactly something you get used to quickly... "
-    b ""
+    b "Mimo że spałem już z Tygrysem podczas przerwy od egzaminów nie jest to coś, do czego idzie się szybko przyzwyczaić... "
 
 # game/script/13.rpy:724
 translate polish s13_03_4e6ba42b:
 
     # b "Compared to Leopard, Tiger takes up heaps more space than what I'm used to. It takes a while to get comfortable, but in the end I lie down being hugged from behind like last time. "
-    b ""
+    b "W porówaniu do Lamparta, Tygrys zajmuje masę więcej miejsca niż do tego przywykłem. Chwilę zajmuje by poczuć się komfortwo, ale w końcu leżę przytulony od tyłu jak ostatnim razem. "
 
 # game/script/13.rpy:726
 translate polish s13_03_15de9132:
 
     # b "I know I shouldn't let my imagination go wild but lying in his arms like this... I can't stop my heart from racing... "
-    b ""
+    b "Wiem, że nie powinienem pozwalać mojej wyobraźni szaleć, ale leżąc w jego ramionach... Nie mogę powstrzymać przyspieszonego bicia mojego serca... "
 
 # game/script/13.rpy:728
 translate polish s13_03_ed612703:
 
     # b "I try to distract myself by thinking about other things, but my efforts are just rewarded by thinking over everything that happened today. "
     # b "Tiger notices my distress, stroking his paw through my hair gently. "
+    b "Próbuję odwrócić swoją uwagę, myśląc o innych rzeczach, ale moje wysiłki zostały nagrodzone rozmyślaniem nad wszystkim, co się dzisiaj działo. "
     b ""
-
 # game/script/13.rpy:730
 translate polish s13_03_de4bfca0:
 
     # b "Between his tender pets and his warm embrace, I find it easy to calm down. Held tight against his body, it makes me feel safe. "
-    b ""
+    b "Przy jego czułych pieszczotach i ciepłym uścisku łatwo mi się uspokoić. Trzymany mocno przy jego ciele czułem się bezpieczny. "
 
 # game/script/13.rpy:732
 translate polish s13_03_90613caa:
 
     # b "It feels really nice... "
-    b ""
+    b "Jest mi bardzo przyjemnie... "
 
 # game/script/13.rpy:742
 translate polish s13_03_451b6df3:
 
     # b "After turning off the light, Tiger and I lie in bed together. "
-    b ""
+    b "Po wyłączeniu światła razem z Tygrysem leżymy w łóżku. "
 
 # game/script/13.rpy:744
 translate polish s13_03_71d33f8e:
 
     # b "Without Senpai around since the start of exam break, Tiger's been sleeping with me. "
-    b ""
+    b "Tygrys spał ze mną od początku przerwy od egzaminów, teraz gdy nie ma już Senpaja. "
 
 # game/script/13.rpy:746
 translate polish s13_03_2c6dd83c:
 
     # b "I haven't really got used to sleeping with him though. It's not bad, but I kinda wish Senpai was here... "
-    b ""
+    b "Jednak nie przywykłem do zasypiania z nim. Nie jest źle, ale trochę chciałbym, żeby Senpaj tu był... "
 
 # game/script/13.rpy:749
 translate polish s13_03_a458c61f:
 
     # b "We sleep together in the same position as usual, his arms embrace me from behind with his hands resting against my chest. "
-    b ""
+    b "Śpimy razem w tej samej pozycji co zwykle, jego ręce ściskają \nmnie\ od tyłu, a jego dłonie spoczywają na mojej piersi. "
 
 # game/script/13.rpy:751
 translate polish s13_03_b55cfdfe:
 
     # b "I nuzzle his hand, feeling the warmth of his soft fur brush up against my face. "
-    b ""
+    b "Trącam jego dłoń, czując ciepło jego gładkiego futra ocierającego się o moją twarz. "
 
 # game/script/13.rpy:753
 translate polish s13_03_1e883066:
 
     # b "I close my eyes to the rhythm of each of his deep breaths. "
-    b ""
+    b "Zamykam oczy do rytmu każdego z jego głębokich oddechów. "
 
 # game/script/13.rpy:755
 translate polish s13_03_ff3b3caf:
 
     # b "And gradually, fall asleep in the reassuring warmth of his body around me. "
-    b ""
+    b "I stopniowo zasypiam w uspokajającym cieple jego ciała wokół mojego. "
 
 # game/script/13.rpy:764
 translate polish s13_03_d98dc441_1:
 
     # b "Tiger's the only one here, so he sleeps with me tonight. "
-    b ""
+    b "Jest tu tylko Tygrys, więc dzisiaj ze mną śpi. "
 
 # game/script/13.rpy:766
 translate polish s13_03_d1c96b0a:
 
     # b "It's my first time sleeping with Tiger. I'm a little bit nervous, after all... "
-    b ""
+    b "To pierwszy raz, kiedy śpię z Tygrysem. Jestem trochę nerwowy, mimo wszystko... "
 
 # game/script/13.rpy:768
 translate polish s13_03_f78b4fe2:
 
     # b "He's massive! He basically takes up the whole single bed. There's nowhere left for me to sleep... "
-    b ""
+    b "Jest ogromny! Praktycznie zajmuje całe łóżko pojedyncze. Nie mam już miejsca do spania... "
 
 # game/script/13.rpy:771
 translate polish s13_03_986603a9:
 
     # b "We adjust again and again, but no matter what I always find my self in his arms. I'm a bit shy but... "
-    b ""
+    b "Co chwilę poprawiamy się na łóżku, ale bez względu na wszystko \nodnajduję\ się w jego ramionach. Jestem trochę nieśmiały, ale... "
 
 # game/script/13.rpy:773
 translate polish s13_03_d390fd0d:
 
     # b "Tiger's arms embrace me from behind, as if he were hugging me tight, protecting me from danger. "
-    b ""
+    b "Ręce Tygrysa ściskają mnie od tyłu, jakby mocno mnie przytulał, chroniąc mnie przed niebezpieczeństwem. "
 
 # game/script/13.rpy:775
 translate polish s13_03_90613caa_1:
 
     # b "It feels really nice... "
-    b ""
+    b "Jest mi bardzo miło... "
 
 # game/script/13.rpy:784
 translate polish s13_03_d9a5e7a6:
 
     # b "After turning off the light, Tiger and I lie in bed together. "
-    b ""
+    b "Po wyłączeniu światła razem z Tygrysem leżymy w łóżku."
 
 # game/script/13.rpy:787
 translate polish s13_03_2dd5f3a7:
 
     # b "We sleep together in the same position as usual, his arms embrace me from behind with his hands resting against my chest. "
-    b ""
+    b "Śpimy razem w tej samej pozycji co zwykle, jego ręce ściskają \nmnie\ od tyłu, a jego dłonie spoczywają na mojej piersi. "
 
 # game/script/13.rpy:789
 translate polish s13_03_b55cfdfe_1:
 
     # b "I nuzzle his hand, feeling the warmth of his soft fur brush up against my face. "
-    b ""
+    b "Trącam jego dłoń, czując ciepło jego gładkiego futra ocierającego się o moją twarz. "
 
 # game/script/13.rpy:791
 translate polish s13_03_1e883066_1:
 
     # b "I close my eyes to the rhythm of each of his deep breaths. "
-    b ""
+    b "Zamykam oczy do rytmu każdego z jego głębokich oddechów. "
 
 # game/script/13.rpy:793
 translate polish s13_03_ff3b3caf_1:
 
     # b "And gradually, fall asleep in the reassuring warmth of his body around me. "
-    b ""
+    b "I stopniowo zasypiam w uspokajającym cieple jego ciała wokół mojego. "
