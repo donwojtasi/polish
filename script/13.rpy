@@ -1221,7 +1221,7 @@ translate polish s13_03_5b22f87f:
 translate polish s13_03_8c7d36bc:
 
     # avt "\"Did I really have any intentions to help them... It'd just be wrong to feel good for what they did for me. I'd just be taking advantage of them.\" "
-    avt "\"Czy miałem jakikolwiek zamiar im pomóc... To byłoby nie w porządku czuć się \ndobrze\ za to, co dla mnie zrobili. To byłoby zwykłe wykorzystanie ich.\" "
+    avt "\"Czy miałem jakikolwiek zamiar im pomóc... To byłoby nie w porządku czuć się dobrze za to, co dla mnie zrobili. To byłoby zwykłe wykorzystanie ich.\" "
 
 # game/script/13.rpy:559
 translate polish s13_03_b306ae92:
@@ -1327,14 +1327,14 @@ translate polish s13_03_6a1020d6:
     # tig normal "\"The other guardian tigers, they're very traditional. Honestly, you'll probably be bothered by them more than anything.\" "
     voice voice_file.tig(13,44)
     tig normal "\"Dużo nad tym myślałem. Nad tym jak sprawy by się potoczyły gdybyś wrócił do domu.\" "
-    tig normal "\"Inni tygrysi strażnicy, są bardzo tradycyjni. Szczerze mówiąc, \nprawdopodobnie\ przeszkadzaliby ci ponad wszystko.\" "
+    tig normal "\"Inni tygrysi strażnicy są bardzo tradycyjni. Szczerze mówiąc, \nprawdopodobnie\ przeszkadzaliby ci ponad wszystko.\" "
 # game/script/13.rpy:594
 translate polish s13_03_50dc1aa9:
 
     # voice voice_file.tig(13,45)
     # tig nervous "\"If you were to not go back... You are still a son of the Lin family. Could you really distinguish yourself from them forever?\" "
     voice voice_file.tig(13,45)
-    tig nervous ""
+    tig nervous "\"Gdybyś miał nie wracać... Wciąż jesteś synem z rodziny Lin. \nCzy\ naprawdę chcesz wiecznie się od nich oddalać?\" "
 
 # game/script/13.rpy:596
 translate polish s13_03_2132b41a:
@@ -1342,7 +1342,7 @@ translate polish s13_03_2132b41a:
     # voice voice_file.tig(13,46)
     # tig nervous "\"I realise that driving your family away may not be the best for you, but I cannot accept you leaving for Miaoli or Wutai.\" "
     voice voice_file.tig(13,46)
-    tig nervous ""
+    tig nervous "\"Zdaję sobie sprawę, że odpędzanie twojej rodziny może nie być najlepsze \ndla\ ciebie, ale nie mogę zaakceptować twojej podróży do Miaoli lub Wutai."
 
 # game/script/13.rpy:598
 translate polish s13_03_a9b7f55f:
@@ -1350,13 +1350,13 @@ translate polish s13_03_a9b7f55f:
     # voice voice_file.tig(13,47)
     # tig nervous "\"When the aborigine... controlled your body, I was furious.\" "
     voice voice_file.tig(13,47)
-    tig nervous ""
+    tig nervous "\"Gdy ten aborygen... kontrolował twoje ciało, byłem wściekły.\" "
 
 # game/script/13.rpy:600
 translate polish s13_03_3e94c03c:
 
     # avt "\"Why?\" "
-    avt ""
+    avt "\"Dlaczego?\" "
 
 # game/script/13.rpy:604
 translate polish s13_03_5c835f03:
@@ -1364,7 +1364,7 @@ translate polish s13_03_5c835f03:
     # voice voice_file.tig(13,48)
     # tig nervous "\"You are a Jitong! What he did was almost possession, I couldn't let that go by.\" " with vshake
     voice voice_file.tig(13,48)
-    tig nervous "" with vshake
+    tig nervous "\"Jesteś Jitongiem! To co zrobił było prawie opętaniem, nie mogłem puścić tego płazem.\" " with vshake
 
 # game/script/13.rpy:606
 translate polish s13_03_86d8d694:
@@ -1372,7 +1372,7 @@ translate polish s13_03_86d8d694:
     # voice voice_file.tig(13,49)
     # tig embarrassed "\"In truth... he was moving your body with spirit power, it's not the same. But my feeling still stands. After all, it is the method one would control someone with weak spiritual power, such as your brother.\" "
     voice voice_file.tig(13,49)
-    tig embarrassed ""
+    tig embarrassed "\"W rzeczywistości... poruszał twoim ciałem siłą ducha, więc to nie to samo. Jednak to uczucie wciąż pozostaje. Mimo wszystko, to metoda, która kontrolowałaby kogoś ze słabą siłą duchową, jak twojego brata.\" "
 
 # game/script/13.rpy:608
 translate polish s13_03_bd06bbbf:
@@ -1380,7 +1380,7 @@ translate polish s13_03_bd06bbbf:
     # voice voice_file.tig(13,50)
     # tig nervous "\"Watching as he... manipulated your body as if you were his. I couldn't take it.\" "
     voice voice_file.tig(13,50)
-    tig nervous ""
+    tig nervous "\"Obserwowanie jak... manipulował twoim ciałem, \njakbyś\ był jego własnością. Nie mogłem tego znieść.\" "
 
 # game/script/13.rpy:610
 translate polish s13_03_8bf59c02:
@@ -1388,19 +1388,19 @@ translate polish s13_03_8bf59c02:
     # voice voice_file.tig(13,51)
     # tig embarrassed "\"Alas. I doubt you understand all of this, and I know he meant you no harm. It's just...\" "
     voice voice_file.tig(13,51)
-    tig embarrassed ""
+    tig embarrassed "\"Niestety wątpię, że to wszystko rozumiesz i wiem, że nie chciał zrobić ci krzywdy. Po prostu...\" "
 
 # game/script/13.rpy:612
 translate polish s13_03_637b33dc:
 
     # avt "\"Tiger...\" "
-    avt ""
+    avt "\"Tygrysie...\" "
 
 # game/script/13.rpy:614
 translate polish s13_03_0a28077a:
 
     # avt "\"I'm sorry.\" "
-    avt ""
+    avt "\"Przepraszam.\" "
 
 # game/script/13.rpy:621
 translate polish s13_03_4ceb0ccc:
@@ -1408,13 +1408,13 @@ translate polish s13_03_4ceb0ccc:
     # voice voice_file.tig(13,52)
     # tig nervous "\"Haha— Now you're the one apologetic one.\" "
     voice voice_file.tig(13,52)
-    tig nervous ""
+    tig nervous "\"Haha— Teraz to ty przepraszasz.\" "
 
 # game/script/13.rpy:623
 translate polish s13_03_f8489cbd:
 
     # avt "\"I... I haven't been thinking about how you feel.\" "
-    avt ""
+    avt "\"Nie... Nie myślałem o tym, jak się czujesz.\" "
 
 # game/script/13.rpy:625
 translate polish s13_03_769c8ca5:
@@ -1422,20 +1422,20 @@ translate polish s13_03_769c8ca5:
     # voice voice_file.tig(13,53)
     # tig laugh_1 "\"No, it's fine. I'm a god. It's my duty to protect my worshippers. They shouldn't be worrying about our feelings.\" "
     voice voice_file.tig(13,53)
-    tig laugh_1 ""
+    tig laugh_1 "\"Nie, wszystko gra. Jestem bogiem. Moim obowiązkiem jest ochrona \nmoich\ wierzących. Nie powinni się martwić naszymi uczuciami.\" "
 
 # game/script/13.rpy:627
 translate polish s13_03_71871104:
 
     # avt "\"How isn't it? We take care of our temples for the gods, clean them, repair them, give sacrifices to them.\" "
     # avt "\"I've been thinking about you even before I could see you. But ever since I knew you were there...\" "
-    avt ""
-
+    avt "\"Jak to? Dbamy o nasze świątynie dla bogów, sprzątamy je, naprawiamy, dajemy im ofiary.\" "
+    avt "\"Myślałem o tobie, nawet zanim mogłem cię zobaczyć. \nJednak\ odkąd wiedziałem,że byłeś przy mnie...\" "
 # game/script/13.rpy:629
 translate polish s13_03_b67d30a7:
 
     # avt "\"It feels like all I've cared about is myself. I've never really seriously considered what you wanted or needed.\" "
-    avt ""
+    avt "\"Wydaje się, że dbałem tylko o samego siebie. Nawet nigdy \npoważnie\ nie rozważałem, czego chciałeś albo potrzebowałeś.\" "
 
 # game/script/13.rpy:631
 translate polish s13_03_eef6d077:
@@ -1443,19 +1443,19 @@ translate polish s13_03_eef6d077:
     # voice voice_file.tig(13,54)
     # tig normal "\"...You're so mature Liao.\" "
     voice voice_file.tig(13,54)
-    tig normal ""
+    tig normal "\"...Jesteś taki dojrzały, Liao.\" "
 
 # game/script/13.rpy:633
 translate polish s13_03_1a2d9215:
 
     # b "Tiger pats my head. "
-    b ""
+    b "Tygrys poklepał mnie po głowie. "
 
 # game/script/13.rpy:635
 translate polish s13_03_9db85034:
 
     # avt "\"H-{w=0.2}Hey, you don't need to treat me like a kid.\" " with hshake
-    avt "" with hshake
+    avt "\"H-{w=0.2}Hej, nie musisz mnie traktować jak dzieciaka.\" " with hshake
 
 # game/script/13.rpy:637
 translate polish s13_03_dc9295aa:
@@ -1463,13 +1463,13 @@ translate polish s13_03_dc9295aa:
     # voice voice_file.tig(13,55)
     # tig laugh_1 "\"But you're all children to us. Not only you, but your father, and even your grandfather as well. Human life is short after all.\" "
     voice voice_file.tig(13,55)
-    tig laugh_1 ""
+    tig laugh_1 "\"Ale wszyscy jesteś dla nas dziećmi. Nie tylko ty, ale też twój ojciec, a także \ntwój\ dziadek. Mimo wszystko ludzkie życie jest krótkie.\" "
 
 # game/script/13.rpy:644
 translate polish s13_03_4e33938a:
 
     # avt "\"Didn't you only come from statue a year ago?\" "
-    avt ""
+    avt "\""
 
 # game/script/13.rpy:646
 translate polish s13_03_abb7691a:
