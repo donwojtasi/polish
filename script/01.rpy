@@ -44,7 +44,7 @@ translate polish start_192da5bd:
 
     b "Wzdychając z ulgą, upuszczam plecak na podłogę i szukam kluczy. "
 
-    b "Hmm... {w=0.5}Gdzie one się podziały? Szukam po kieszeniach, ale bez skutku. "
+    b "Hmm... {w=0.5}Gdzie one się podziały? Szukam po kieszeniach dżinsów, ale bez skutku. "
 
     b "Pewnie schowałem je do plecaka... "
 
@@ -58,7 +58,7 @@ translate polish start_46435378:
 
     # b "Oh hey! Finally, there they are! "
 
-    b "Tak! Są wreszcie! "
+    b "Tak! Wreszcie je znalazłem! "
 
 
 
@@ -78,7 +78,7 @@ translate polish start_1df83b50:
 
     b "Uhhhhh- Ledwo stoję na nogach... "
 
-    b "Po chwili wysiłku, otwieram drzwi. Szczęśliwie robiąc to {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
+    b "Po chwili wysiłku, otwieram drzwi. Na szczęście robiąc to {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
 
 
 
@@ -120,7 +120,7 @@ translate polish start_cbb76b19:
 
     # b "I mean I {i}wanted{/i} \ to stay, but I would've just collapsed if I didn't head home... "
 
-    b "Wszyscy tam jeszcze zostali, świętując wspaniały występ jaki udało się nam wykonać... \nA ja musiałem wrócić do domu. "
+    b "Wszyscy tam jeszcze zostali, świętując wspaniały występ, jaki udało się nam wykonać... \nA ja musiałem wrócić do domu. "
 
     b "Mam przez to na myśli, że bardzo {i}chciałem{/i} \ zostać, ale chyba bym tam zemdlał... "
 
@@ -136,7 +136,7 @@ translate polish start_2eb5e9db:
 
     # b "Still, seeing the excitement in everyone's faces warmed my heart. \nEven if I was only stage crew, I felt it too. "
 
-    b "Po tym wszystkim co razem przeszliśmy, nie mogę się nawet poszwendać z resztą ekipy...\nA tak ciężko pracowaliśmy na dzisiejszy wieczór. "
+    b "Po tym wszystkim nie mogę się nawet poszwendać z resztą ekipy...\nA tak ciężko pracowaliśmy na dzisiejszy wieczór. "
 
     b "Widok ekscytacji na twarzach wszystkich rozgrzał moje serce. \nMogłem to poczuć, nawet jeśli jestem tylko członkiem ekipy scenicznej. "
 
@@ -194,7 +194,7 @@ translate polish start_aad233e5:
 
     b "Co do? " with vshake
 
-    b "Jakimś cudem, {i}w tej chwili{/i}, w moim pokoju, na moim łóżku, siedzi człekopodobny tygrys i czyta jedną z moich książek! "
+    b "Jakimś cudem, {i}w tej chwili{/i}, w moim pokoju, na moim łóżku siedzi {i}człekopodobny tygrys{/i} i czyta jedną z moich książek! "
 
 
 
@@ -246,7 +246,7 @@ translate polish start_af31c65b:
 
     voice voice_file.tig(1,1)
 
-    tig normal "\"Liao? Czy coś się stało? ...{w=0.5}możesz mnie zobaczyć?\" "
+    tig normal "\"Liao? Czy coś się stało? ...{w=0.5}Widzisz mnie?\" "
 
 
 
@@ -300,7 +300,7 @@ translate polish start_b2de64c5:
 
     # b "Gu-{w=0.2}Guardian tiger?! "
 
-    b "Tyg... {w=0.2}tygrysim strażnikiem?! "
+    b "Ty... {w=0.2}Tygrysim strażnikiem?! "
 
 
 
@@ -316,9 +316,9 @@ translate polish start_37a13961:
 
     # b "Despite that, I never expected to see a real guardian tiger that's for sure! "
 
-    b "Hmm... {w=0.5}Mamy tygrysiego strażnika naszej rodziny. W sumie... {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
+    b "Hmm... {w=0.5}Mamy tygrysiego strażnika w naszej rodzinie. W sumie... {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
 
-    b "W końcu urodziłem się w rodzinie {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jitong{/font}-utrzymujemy własną świątynię. "
+    b "W końcu urodziłem się w rodzinie mediów {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jitong{/font}, prowadzących własną świątynię. "
 
     b "Mimo wszystko nie spodziewałem się, że naprawdę jakiegoś zobaczę! "
 
@@ -334,9 +334,9 @@ translate polish start_5bd40f3a:
 
     # b "How is this even possible! Aren't guardian tigers considered gods? Even if they exist, normal people can't just see them... right? "
 
-    b "Pewnie, widziałem mnóstwo posągów tygrysów, ale żeby żywy, mówiący.... no i- {i}muskularny{/i} \ tygrysi strażnik? "
+    b "Pewnie, widziałem mnóstwo posągów tygrysów, ale żeby żywy, mówiący.... no i— {i}muskularny{/i} \ tygrysi strażnik? "
 
-    b "Jak to w ogóle możliwe? Czy oni nie są uznawani za bogów? Nawet jeśli istnieją, nie powinni być widzialni gołym okiem... {w=0.5}prawda? "
+    b "Jak to w ogóle możliwe?! Czy oni nie są uznawani za bogów? Nawet jeśli istnieją, nie powinni być widzialni gołym okiem... prawda? "
 
 
 
@@ -348,7 +348,7 @@ translate polish start_c8b200ac:
 
     # avt "\"Sorry, I don't recognise you... \" "
 
-    avt "\"Przepraszam, ale cię nie poznaję... \" "
+    avt "\"Przepraszam, ale nie poznaję cię... \" "
 
 
 
@@ -364,7 +364,7 @@ translate polish start_b548db8d:
 
     voice voice_file.tig(1,3)
 
-    tig normal "\"Wcześniej nie mogłeś mnie zobaczyć. Jak to możliwe, że tak nagle to potrafisz?\nTakie zdolności wykraczały poza twoją duchową moc.\" "
+    tig normal "\"Jednak wcześniej nie mogłeś mnie zobaczyć. Jak to możliwe, że tak nagle to potrafisz?\nTakie zdolności wykraczały poza twoją duchową moc.\" "
 
 
 
@@ -376,7 +376,7 @@ translate polish start_943d416f:
 
     # avt "\"I{w=0.2}-I'm just as confused as you are...\" "
 
-    avt "\"Ja... {w=0.2}Jestem tak samo zaskoczony jak ty...\" "
+    avt "\"Je... {w=0.2}Jestem tak samo zaskoczony jak ty...\" "
 
 
 
@@ -394,7 +394,7 @@ translate polish start_50022975:
 
     b "Muszę to rozgryźć... "
 
-    b "Powiedział, że \"nie mogłem wcześniej go zobaczyć\"... "
+    b "Powiedział, że \"wcześniej nie mogłem go zobaczyć\"... "
 
     b "Czy to oznacza, że był tu przez cały ten czas?! "
 
@@ -408,7 +408,7 @@ translate polish start_c5bd6627:
 
     # b "Now that I think about it, I did bring a small tiger statue with me from home... Could that be why he's here? "
 
-    b "Jak tak o tym pomyślę, to przywiozłem przecież z domu mały posążek tygrysa...\nCzy to dlatego on tu jest? "
+    b "Jak tak o tym pomyślę, to przywiozłem przecież z domu mały posążek tygrysa...\nCzy to dlatego tu jest? "
 
 
 
@@ -452,7 +452,7 @@ translate polish start_c3ebe9e3:
 
     # avt "\"Ahh... Well, I don't know...\" "
 
-    avt "\"Emmm... {w=0.5}Nie mam pojęcia...\" "
+    avt "\"Umm... {w=0.5}Nie mam pojęcia...\" "
 
 
 
@@ -492,7 +492,7 @@ translate polish start_e9e699c9:
 
     # b "How can a guardian tiger be so careless! " with vshake
 
-    b "Jak tygrysi strażnik może być tak obojętny! " with vshake
+    b "Jak tygrysi strażnik może być tak obojętny?! " with vshake
 
 
 
@@ -504,7 +504,7 @@ translate polish start_b590e9b4:
 
     # avt "\"Uhh, Um— So, you're a guardian tiger right? The very one in the statue I brought here to Taipei?\" "
 
-    avt "\"Uhh, Umm... A więc jesteś tygrysim strażnikiem, tak? Tym w posążku, który przywiozłem\ndo Tajpej?\" "
+    avt "\"Eee, Umm... A więc jesteś tygrysim strażnikiem, tak? Tym w posążku, który przywiozłem\ndo Tajpej?\" "
 
 
 
@@ -580,7 +580,7 @@ translate polish start_6365c00f:
 
     # b "It makes sense, I did put his statue on my bookshelf. He {i}has{/i} \ no other choice but stick around here all the time... "
 
-    b "To ma sens, postawiłem jego posążek na półce z książkami. {i}Nie miał{/i} \ innego wyboru, niż siedzieć cały czas tutaj... "
+    b "To ma sens, postawiłem jego posążek na półce z książkami. {i}Nie miał{/i} \ innego wyboru, niż siedzieć tutaj cały czas... "
 
 
 
@@ -592,7 +592,7 @@ translate polish start_66ee01cf:
 
     # avt "\"Uh, wait... You would have seen... {i}'that'{/i}... right?\" "
 
-    avt "\"Ehh, czekaj... Widziałbyś... {i}\"to\"{/i}... prawda?\" "
+    avt "\"Eee, czekaj... Widziałbyś... {i}\"to\"{/i}... prawda?\" "
 
 
 
@@ -620,7 +620,7 @@ translate polish start_c737401c:
 
     # avt "\"I mean... uhh... So you watch {i}everything{/i} \ I do at home?\" "
 
-    avt "\"Myślę o... emm... czy przyglądasz się {i}wszystkiemu{/i} co robię, gdy tu jestem?\" "
+    avt "\"Myślę o... emm... czy przyglądasz się {i}wszystkiemu{/i}, co robię, gdy tu jestem?\" "
 
 
 
@@ -664,7 +664,7 @@ translate polish start_7d960998:
 
     voice voice_file.tig(1,10)
 
-    tig normal "\"Naprawdę nie masz się czego wstydzić. Czuwałem nad tobą od dziecka i muszę ci powiedzieć, że widywałem gorsze rzeczy.\" "
+    tig normal "\"Naprawdę nie masz się czego wstydzić. Czuwałem nad tobą od dziecka, widywałem gorsze rzeczy.\" "
 
 
 
@@ -692,7 +692,7 @@ translate polish start_3a31461e:
 
     voice voice_file.tig(1,11)
 
-    tig lift "\"Hah? Ach tak, masz dość {i}specyficzny gust.{/i} Zdaje mi się, że nie znajdziesz takiego chłopaka w rzeczywistości.\" "
+    tig lift "\"Co? Ach tak, masz dość {i}specyficzny gust.{/i} Zdaje mi się, że nie znajdziesz takiego chłopaka w rzeczywistości.\" "
 
 
 
@@ -732,7 +732,7 @@ translate polish start_625e6850:
 
     voice voice_file.tig(1,12)
 
-    tig lift "\"A czego się spodziewałeś? Znam każdy jeden plik w twoim komputerze.\nChciałbyś bym ci je wszystkie wymienił?\" "
+    tig lift "\"A czego się spodziewałeś? Znam każdy plik na twoim komputerze.\nChciałbyś bym ci je wszystkie wymienił?\" "
 
 
 
@@ -760,7 +760,7 @@ translate polish start_c52a2118:
 
     voice voice_file.tig(1,13)
 
-    tig laugh_2 "\"Hahahaha... Mniejsza, to cudownie nareszcie mieć kogoś, kto potrafi nas dostrzec. Minęły dziesięciolecia. Nie sądziłem, że kiedykolwiek spotkam taką osobę.\" "
+    tig laugh_2 "\"Mniejsza, to cudownie nareszcie mieć kogoś, kto potrafi nas dostrzec. Minęły dziesięciolecia. Nie sądziłem, że kiedykolwiek spotkam taką osobę.\" "
 
 
 
@@ -844,7 +844,7 @@ translate polish start_7d6e9fe8:
 
     # b "The guardian tiger leans in close and sniffs at me. "
 
-    b "Tygrys pochyla się nade mną i dokładnie mnie obwąchuje. "
+    b "Tygrysi strażnik pochyla się nade mną i dokładnie mnie obwąchuje. "
 
 
 
@@ -856,7 +856,7 @@ translate polish start_1985801c:
 
     # b "His muscled form towers in front of me. With that well-outlined body, as well as his soft, stripy fur... My heart almost skips a beat. "
 
-    b "Jego umięśniona sylwetka góruje nade mną. Z tym dobrze zarysowanym ciałem, a także jego miękkim, pręgowanym futrem... Moje serce staje na ułamek sekundy. "
+    b "Jego umięśniona sylwetka góruje nade mną. Z tym dobrze zarysowanym ciałem, a także jego miękkim, pręgowanym futrem... Moje serce na chwilę zamiera. "
 
 
 
@@ -872,7 +872,7 @@ translate polish start_769400ab:
 
     voice voice_file.tig(1,16)
 
-    tig frown "\"Zdaje się, że ktoś dokonał zmiany w twej mocy. Tylko jak... {w=0.5}Liao, nie masz przypadkiem żadnego pomysłu?\" "
+    tig frown "\"Zdaje się, że ktoś dokonał zmiany w twej mocy duchowej. Tylko jak... {w=0.5}Liao, nie masz przypadkiem jakiegoś pomysłu?\" "
 
 
 
@@ -896,7 +896,7 @@ translate polish start_a99dd369:
 
     # b "The only thing is me being exhausted, but considering how much I was running around at the performance tonight, it's not like I shouldn't be tired anyway. "
 
-    b "Do głowy przychodzi mi jedynie fakt, że jestem zmęczony; ale tak pewnie powinno być\nbiorąc pod uwagę ile nalatałem się przy dzisiejszym występie. "
+    b "Do głowy przychodzi mi jedynie fakt, że jestem wykończony; ale to nie dziwne\nbiorąc pod uwagę ile nalatałem się przy dzisiejszym występie. "
 
 
 
@@ -920,7 +920,7 @@ translate polish start_bcbbde24:
 
     # b "What kind of bootleg shonen anime is this! "
 
-    b "Czy to jest jakieś przygodowe anime! "
+    b "Co to za bootleg shonen anime?! "
 
 
 
@@ -948,7 +948,7 @@ translate polish start_f6eb49f1:
 
     # b "For a supposed guardian tiger of my family isn't he way too nonchalant about what happened to me? "
 
-    b "Czy jako rzekomy tygrysi strażnik mojej rodziny, nie jest zbyt nonszalancki w stosunku do tego, co mi się przydarzyło? "
+    b "Czy jako rzekomy tygrysi strażnik mojej rodziny, nie jest zbyt \nnonszalancki\ w stosunku do tego, co mi się przydarzyło? "
 
 
 
@@ -960,7 +960,7 @@ translate polish start_b91bfd6b:
 
     # avt "\"...So, you think there'll be any side effects to this?\" "
 
-    avt "\"...nie sądzisz, że będzie to miało jakieś skutki uboczne?\" "
+    avt "\"...Nie sądzisz, że będzie to miało jakieś skutki uboczne?\" "
 
 
 
@@ -992,7 +992,7 @@ translate polish start_e9a6b429:
 
     voice voice_file.tig(1,19)
 
-    tig laugh_1 "\"Nie bój się- nic ci nie będzie, tak długo jak ja tu jestem.\" "
+    tig laugh_1 "\"Nie bój się, nic ci nie będzie, dopóki tu jestem.\" "
 
 
 
@@ -1024,7 +1024,7 @@ translate polish start_ac8935d0:
 
     tig normal "\"Jestem przecież bogiem. A jeśli zdarzy się coś, z czym sobie nie poradzę, możemy szukać pomocy u {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Boga miasta{/font}, a nawet {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Świętej Matki{/font} w naszej świątyni.\" "
 
-    tig normal "\"Nie ma sprawy z którą nie poradziłaby sobie ta dwójka.\" "
+    tig normal "\"Nie ma sprawy,     z którą nie poradziłaby sobie ta dwójka.\" "
 
 
 
@@ -1036,7 +1036,7 @@ translate polish start_3efef01c:
 
     # avt "\"I guess that does sound impressive...\" "
 
-    avt "\"Myślę, że brzmi to imponująco...\" "
+    avt "\"Sądzę, że brzmi to imponująco...\" "
 
 
 
@@ -1056,7 +1056,7 @@ translate polish start_0147c0e6:
 
     tig laugh_1 "\"Mimo to, wielu ludzi pogardza {font=tl/polish/NotoSans-SemiCondensedBold.ttf}rytuałem opętania{/font}, który pozwala się z nimi skontaktować...\" "
 
-    tig laugh_1 "\"Nawet jeśli nie wyglądasz na wyznawcę, to jest ktoś, kto może prosić ich o błogosławieństwo ochrony w twoim imieniu.\" "
+    tig laugh_1 "\"Mimo wszystko—nawet jeśli nie wyglądasz na wyznawcę, możesz prosić ich o błogosławieństwo ochrony.\" "
 
 
 
@@ -1084,7 +1084,7 @@ translate polish start_7d719eba:
 
     # b "Well, it's good to hear that he's happy to speak to me... {w=0.5}although seems a bit concerned about me.. "
 
-    b "Miło słyszeć, że cieszy go nasza rozmowa... {w=0.5}chociaż wydaje się nieco zaniepokojony o mnie... "
+    b "Miło słyszeć, że cieszy go nasza rozmowa... {w=0.5}chociaż wydaje się nieco o mnie zaniepokojony... "
 
 
 
@@ -1108,7 +1108,7 @@ translate polish start_1f0d7080:
 
     # avt "\"Wait, what did you mean by saying I don't seem to be a fan—\" "
 
-    avt "\"Czekaj, co masz na myśli mówiąc, że nie wyglądam na wyznawcę...\" "
+    avt "\"Czekaj, co masz na myśli mówiąc, że nie wyglądam na wyznawcę—\" "
 
 
 
@@ -1132,7 +1132,7 @@ translate polish start_f99b9f07:
 
     # b "I didn't even hear them buzz the front door... Hopefully it's not a neigbhour coming to complain... I haven't been that noisy, have I? "
 
-    b "Nie słyszałem nikogo dzwoniącego do drzwi wejściowych... Mam nadzieję, że to nie sąsiadka przyszła się poskarżyć... Nie byłem aż taki głośny, prawda? "
+    b "Nie słyszałem nikogo dzwoniącego do drzwi wejściowych... Mam nadzieję, że to nie sąsiadka, która przyszła się poskarżyć... Nie byłem aż taki głośny, prawda? "
 
 
 
@@ -1160,7 +1160,7 @@ translate polish start_e4bc96cb:
 
     # b "Wait— Wait... {w=0.5}Shouldn't I be the only person who can see him? "
 
-    b "Chwila... {w=0.5}Nie powinienem być jedyną osobą, która go widzi? "
+    b "Chwila— Chwila... {w=0.5}Nie powinienem być jedyną osobą, która go widzi? "
 
 
 
@@ -1204,7 +1204,7 @@ translate polish start_cb3d021a:
 
     # avt "\"Uhh... Who are you?\" "
 
-    avt "\"Yhhh... {w=0.5}Kim jesteś?\" "
+    avt "\"Eee... {w=0.5}Kim jesteś?\" "
 
 
 
@@ -1222,7 +1222,7 @@ translate polish start_8f74640e:
 
     b "{i}To się nie dzieje naprawdę...{/i} "
 
-    b "Najpierw tygrysi strażnik-stalker, a teraz pukająca do drzwi Pantera?! "
+    b "Najpierw tygrysi strażnik-stalker, a teraz pukający do drzwi Lampart?! "
 
     b "Musiałem dostać omamów od tego zmęczenia... "
 
@@ -1238,9 +1238,9 @@ translate polish start_dba4e869:
 
     # b "Actually, hold on— That reminds me of some of our costumes... "
 
-    b "Kim on może być? Ja... nie przypominam sobie żadnych panterzych bogów ani potworów...\nO jego dziwnym ubiorze nie wspominając... "
+    b "Kim on może być? Nie... Nie przypominam sobie żadnych lamparcich bogów ani potworów...\nO jego dziwnym ubiorze nie wspominając... "
 
-    b "Faktycznie, chwila- Przywodzi mi na myśl niektóre z naszych kostiumów... "
+    b "Właściwie, chwila— Przywodzi mi na myśl niektóre z naszych kostiumów... "
 
 
 
@@ -1296,7 +1296,7 @@ translate polish start_52361b9e:
 
     # avt "\"Uh... what?\" "
 
-    avt "\"Yyyy... Co?\" "
+    avt "\"Eee... Co?\" "
 
 
 
@@ -1312,7 +1312,7 @@ translate polish start_ff9e940a:
 
     voice voice_file.lpd(1,3)
 
-    lpd normal "\"...witaj.\" "
+    lpd normal "\"...Witaj.\" "
 
 
 
@@ -1340,7 +1340,7 @@ translate polish start_9691cf89:
 
     # avt "\"Umm, hello.\" "
 
-    avt "\"Umm, witaj.\" "
+    avt "\"Eee, witaj.\" "
 
 
 
@@ -1352,7 +1352,7 @@ translate polish start_49583393:
 
     # b "...I guess I was on the right track, he must be an aboriginal spirit. "
 
-    b "Myślę, że byłem na właściwym tropie- on musi być aborygeńskim duchem. "
+    b "...Myślę, że byłem na właściwym tropie, on musi być aborygeńskim duchem. "
 
 
 
@@ -1392,7 +1392,7 @@ translate polish start_3b44183b:
 
     # b "It takes me a second more than it should to realise he wants to enter my room. It is impolite of me to leave him waiting at the doorway, but... "
 
-    b "Dłuższą chwilę zajęło mi by zorientować się, że chce wejść do mojego pokoju. To niegrzeczne z mojej strony, kazać mu czekać w drzwiach, ale... "
+    b "Dłuższą chwilę zajęło mi by zorientować się, że chce wejść do mojego pokoju. To niegrzeczne z mojej strony kazać mu czekać w drzwiach, ale... "
 
 
 
@@ -1420,7 +1420,7 @@ translate polish start_5b23d985:
 
     voice voice_file.lpd(1,6)
 
-    lpd normal "\"Mglista Pantera.\" "
+    lpd normal "\"Lampart Mglisty.\" "
 
 
 
@@ -1448,7 +1448,7 @@ translate polish start_fc1da6c5:
 
     # avt "\"Okay, I think I'm starting to get where this is going...\" "
 
-    avt "\"Dobrze, powoli zaczynam rozumieć do czego to zmierza...\" "
+    avt "\"Dobrze, powoli zaczynam rozumieć, do czego to zmierza...\" "
 
 
 
@@ -1492,7 +1492,7 @@ translate polish start_8c96b8a5:
 
     voice voice_file.lpd(1,9)
 
-    lpd normal "\"Duch mglistej pantery.\" "
+    lpd normal "\"Duch lamparta mglistego.\" "
 
 
 
@@ -1600,7 +1600,7 @@ translate polish start_c27dd094:
 
     # b "He points directly at my eyes with black, pointed claws... Huh, so that's how beast-men fingers are. "
 
-    b "Wskazuje prosto w moje oczy swoimi czarnymi, spiczastymi pazurami... Hah, a więc to tak wyglądają ich palce. "
+    b "Wskazuje prosto w moje oczy swoimi czarnymi, spiczastymi pazurami... Hmm, a więc to tak wyglądają ich palce. "
 
 
 
@@ -1704,7 +1704,7 @@ translate polish start_b3a5f399:
 
     # b "So he awakened my powers because he wanted my help, that makes sense so far... \n(I have a bad feeling about this.) "
 
-    b "A więc to on jest za to odpowiedzialny, bo chciał mojej pomocy- na razie ma to sens... \n(Mam co do tego złe przeczucia.) "
+    b "A więc to on jest za to odpowiedzialny, bo chciał mojej pomocy, na razie ma to sens... \n(Mam co do tego złe przeczucia.) "
 
 
 
@@ -1758,7 +1758,7 @@ translate polish start_479cb204:
 
     # b "Which means what he's saying makes sense... but that doesn't change the face that Pingtung is on the completely opposite side of Taiwan! "
 
-    b "Wutai... Chwila, to miejsce pojawiło się gdy szukaliśmy informacji na potrzeby występu.\nJeśli dobrze pamiętam, to ludność Rukai rzeczywiście mieszka w Wutai. "
+    b "Wutai... Chwila, to miejsce pojawiło się, gdy szukaliśmy informacji na potrzeby występu.\nJeśli dobrze pamiętam, to ludność Rukai rzeczywiście mieszka w Wutai. "
 
     b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to jednak faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
 
@@ -1772,7 +1772,7 @@ translate polish start_3341c5c3:
 
     # b "And I don't even know what he wants me for! Why should I even think about going with some spirit that just came knocking on my door?!"
 
-    b "I nawet nie wiem, czego ode mnie chce! Czemu miało by mi nawet przejść przez myśl, by pójść sobie za jakimś duchem, który tak po prostu zapukał do moich drzwi?! "
+    b "I nawet nie wiem, czego ode mnie chce! Czemu miałoby mi nawet przejść przez myśl, by pójść sobie za jakimś duchem, który tak po prostu zapukał do moich drzwi?! "
 
 
 
@@ -1832,7 +1832,7 @@ translate polish start_f468ed00:
 
     tig angry "\"Hej, ty! Pamiętaj, że nikt cię nie prosił o darowanie mu tej mocy.\" "
 
-    tig angry "\"A teraz wtargnąłeś do jego domu, i pierwsze co robisz, to żądasz od niego by z tobą poszedł!\" " with hshake
+    tig angry "\"A teraz wtargnąłeś do jego domu i pierwsze, co robisz, to żądasz od niego, by z tobą poszedł!\" " with hshake
 
 
 
@@ -1898,7 +1898,7 @@ translate polish start_c237ee64:
 
     voice voice_file.tig(1,26)
 
-    tig angry "\"Stoję tutaj przez cały ten czas- na pewno zauważyłeś, prawda? A mimo to chcesz zabrać mojego chłopca, nie siląc się na tak niewiele jak powitanie?\" "
+    tig angry "\"Stoję tutaj przez cały ten czas, na pewno zauważyłeś, prawda? A mimo to chcesz zabrać mojego chłopca, nie siląc się na tak niewiele jak powitanie?\" "
 
     tig angry "\"Sądziłem, że widziałem już najgorsze, ale ty aborygenie, naprawdę jesteś zatrważający.\" "
 
@@ -1916,7 +1916,7 @@ translate polish start_855d3c48:
 
     voice voice_file.lpd(1,16)
 
-    lpd normal "\"...nie jestem zły.\" "
+    lpd normal "\"...Nie jestem zły.\" "
 
 
 
@@ -2014,9 +2014,9 @@ translate polish start_60548f53:
 
     # b "Woah! Wait, how did things end up with them trying to fight each other? "
 
-    b "Pantera i tygrys utkwili w sobie spojrzenia. Tygrys zaciska pięści. Wygląda na gotowego do walki. "
+    b "Lampart i tygrys utkwili w sobie spojrzenia. Tygrys zaciska pięści. Wygląda na gotowego do walki. "
 
-    b "Chwila, jakim cudem sprawy przyjęły taki obrót, że nagle chcą ze sobą walczyć? "
+    b "Chwila, jakim cudem sprawy przybrały taki obrót, że nagle chcą ze sobą walczyć? "
 
 
 
@@ -2040,7 +2040,7 @@ translate polish start_699cc8b6:
 
     # b "The two men (well cats?) glare at each other whilst I stand between them. "
 
-    b "Dwaj mężczyźni (koty?) gapią się zaciekle na siebie, a ja postanawiam stanąć między nimi. "
+    b "Dwaj mężczyźni (koty?) spoglądają na siebie z gniewem, a ja postanawiam stanąć między nimi. "
 
 
 
@@ -2052,7 +2052,7 @@ translate polish start_bd9bd4d9:
 
     # b "I figure there's no way they'll hurt me, right? But if they're really going to fight, what else can I do? "
 
-    b "Orientuję się, że przecież mnie nie skrzywdzą, prawda? Ale jeśli naprawdę chcą walczyć,\nto co innego mogę zrobić? "
+    b "Myślę, że mnie nie skrzywdzą, prawda? Ale jeśli naprawdę chcą walczyć,\nto co jeszcze mogę zrobić? "
 
 
 
@@ -2064,7 +2064,7 @@ translate polish start_ee8cd750:
 
     # b "...But aren't they spirits? "
 
-    b "...czy oni nie są przecież duchami? "
+    b "...Tylko czy oni nie są duchami? "
 
 
 
@@ -2088,7 +2088,7 @@ translate polish start_10634d1c:
 
     # b "W-Wait— {w=0.5}Who decided to call me {i}right now{/i} \ of all times?! "
 
-    b "Cz-czekaj- {w=0.5} Kto {i}akurat teraz{/i} \ musi do mnie wydzwaniać? "
+    b "Cz-Czekaj- {w=0.5} Kto {i}akurat teraz{/i} \ musi do mnie wydzwaniać? "
 
 
 
@@ -2102,7 +2102,7 @@ translate polish start_2d6fbe46:
 
     # b "Trembling, I keep an eye on the two puffed up cats as I reach for my phone... "
 
-    b "Dzwonek telefonu przerwał ich kłótnię. Obaj odwrócili się w moją stronę, dokładnie obserwując co się dzieje. "
+    b "Dzwonek telefonu przerwał ich kłótnię. Obaj odwrócili się w moją stronę, dokładnie obserwując, co się dzieje. "
 
     b "Mając dwa nadęte koty na oku, podnoszę drżącą ręką telefon... "
 
@@ -2172,7 +2172,7 @@ translate polish start_cc4c6fd0:
 
     # b "W-what? Right now?! "
 
-    b "C-co? W tej chwili?! "
+    b "C-Co? W tej chwili?! "
 
 
 
@@ -2208,7 +2208,7 @@ translate polish start_e32a3f10:
 
     # b "If manga's taught me anything this isn't going to end well! "
 
-    b "Jeśli manga nauczyła mnie czegokolwiek- to nie skończy się dobrze! "
+    b "Jeśli manga nauczyła mnie czegokolwiek, to nie skończy się dobrze! "
 
 
 
@@ -2264,7 +2264,7 @@ translate polish start_f3d5318e:
 
     voice voice_file.lpdcat(1,2)
 
-    senpai "\"Hmm? No tak.\" "
+    senpai "\"Co? No tak.\" "
 
 
 
@@ -2292,7 +2292,7 @@ translate polish start_c696abdd:
 
     voice voice_file.lpdcat(1,3)
 
-    senpai "\"Heh, Jestem... na dole.\" "
+    senpai "\"Heh, Właściwie jestem... na dole.\" "
 
 
 
@@ -2320,7 +2320,7 @@ translate polish start_45b497c6:
 
     voice voice_file.lpdcat(1,4)
 
-    senpai "\"Na razie, idę na górę.\" "
+    senpai "\"Do zobaczenia, idę na górę.\" "
 
 
 
@@ -2332,7 +2332,7 @@ translate polish start_aa0e33c4:
 
     # avt "\"Wait, S-Senpai...\" "
 
-    avt "\"Czekaj, Senpaj...\" "
+    avt "\"Czekaj, S-Senpaj...\" "
 
 
 
