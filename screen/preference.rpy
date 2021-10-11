@@ -56,7 +56,7 @@ translate polish strings:
 
     # old "Full screen"
     old "全螢幕"
-    new "Pełen ekran"
+    new "Pełny Ekran"
 
     # old "Language"
     old "語系選擇"

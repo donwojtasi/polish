@@ -1730,7 +1730,7 @@ translate polish s13_03_1e883066:
 translate polish s13_03_ff3b3caf:
 
     # b "And gradually, fall asleep in the reassuring warmth of his body around me. "
-    b "I stopniowo zasypiam w uspokajającym cieple jego ciała wokół mojego. "
+    b "I stopniowo zasypiam w uspokajającym cieple uścisku jego ciała. "
 
 # game/script/13.rpy:764
 translate polish s13_03_d98dc441_1:
@@ -1796,4 +1796,4 @@ translate polish s13_03_1e883066_1:
 translate polish s13_03_ff3b3caf_1:
 
     # b "And gradually, fall asleep in the reassuring warmth of his body around me. "
-    b "I stopniowo zasypiam w uspokajającym cieple jego ciała wokół mojego. "
+    b "I stopniowo zasypiam w uspokajającym cieple uścisku jego ciała. "
