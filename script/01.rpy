@@ -2372,7 +2372,7 @@ translate polish start_5ec29cd9:
 
     # b "But since Senpai won't be able to see them it should be okay... {w=0.5}crap, I need to at least close the door before he comes up! "
 
-    b "Ale wszystko będzie dobrze, skoro nie potrafi ich zobaczyć... {w=0.5}cholera, muszę przynajmniej zamknąć drzwi zanim przyjdzie! "
+    b "Ale wszystko będzie dobrze, skoro nie potrafi ich zobaczyć... {w=0.5}cholera, muszę przynajmniej zamknąć drzwi, zanim przyjdzie! "
 
 
 
@@ -2384,7 +2384,7 @@ translate polish start_e1dde551:
 
     # b "Tugging Leopard by the shoulder I push him into the room, shutting the door behind him. "
 
-    b "Ciągnąc Panterę za ramię wpycham go do pokoju, zamykając za nim drzwi. "
+    b "Ciągnąc Lamparta za ramię wpycham go do pokoju, zamykając za nim drzwi. "
 
 
 
@@ -2420,7 +2420,7 @@ translate polish start_145a542f:
 
     # avt "\"Okay, so what I need you to—\" "
 
-    avt "\"Okej, co potrzebuję by—\" "
+    avt "\"Okej, potrzebuję żebyście—\" "
 
 
 
@@ -2448,7 +2448,7 @@ translate polish start_e9ca69f0:
 
     # avt "\"Uh, um— Just a second Senpai...\" "
 
-    avt "\"Ehh, umm- czekaj chwilę Senpaj...\" "
+    avt "\"Eee, umm- czekaj chwilę Senpaj...\" "
 
 
 
@@ -2476,7 +2476,7 @@ translate polish start_861cf7a9:
 
     voice voice_file.lpdcat(1,6)
 
-    lpdcat laugh "\"Obiad dla Liao gotowy! ...Ech?\" "
+    lpdcat laugh "\"Jedno zamówienie na obiad dla Liao gotowe! ...Hmm?\" "
 
 
 
@@ -2540,7 +2540,7 @@ translate polish start_e8e07219:
 
     b "Gość stojący przede mną jest podobnego wzrostu i tej samej drobnej budowy, co Senpaj...\nale przecież Senpaj nie jest kotem! "
 
-    b "Jeśli ktokolwiek taki pojawiłby się w szkole, byłaby z tego niezła afera! "
+    b "Jeśli ktokolwiek taki pojawiłby się w szkole, byłoby z tego niezłe zamieszanie! "
 
 
 
@@ -2556,7 +2556,7 @@ translate polish start_25869910:
 
     voice voice_file.lpdcat(1,7)
 
-    lpdcat surprise_1 "\"Yhh, racja... Liao, czy ty?\" "
+    lpdcat surprise_1 "\"Eee, racja... Liao, czy ty?\" "
 
 
 
@@ -2840,7 +2840,7 @@ translate polish start_b0314b49:
 
     voice voice_file.lpd(1,19)
 
-    lpd normal "\"...Mglista pantera z Rukai.\" "
+    lpd normal "\"...Lampart Mglisty z Rukai.\" "
 
 
 
@@ -2912,7 +2912,7 @@ translate polish start_2afb567c:
 
     # avt "\"...Really? ...I never would have guessed.\" "
 
-    avt "\"...naprawdę? W życiu bym nie zgadł...\" "
+    avt "\"...Naprawdę? W życiu bym nie zgadł...\" "
 
 
 
@@ -2972,7 +2972,7 @@ translate polish start_ffe3c9ed:
 
     voice voice_file.lpdcat(1,20)
 
-    lpdcat difficult "\"Tak naprawdę to jestem tygrysim strażnikiem małej świątyni w Miaoli...\" "
+    lpdcat difficult "\"Tak naprawdę jestem tygrysim strażnikiem małej świątyni w Miaoli...\" "
 
 
 
@@ -3004,7 +3004,7 @@ translate polish start_1bed3a6d:
 
     voice voice_file.lpdcat(1,21)
 
-    lpdcat difficult "\"...mniejsza. Wiem że to dziwne, nie musisz mi tego mówić.\" "
+    lpdcat difficult "\"...Mniejsza. Wiem że to dziwne, nie musisz mi tego mówić.\" "
 
 
 
@@ -3022,7 +3022,7 @@ translate polish start_bf2c4258:
 
     voice voice_file.lpdcat(1,22)
 
-    lpdcat serious "\"Rzadko zdarza się, by kotek bengalski był tygrysim strażnikiem, ale nim jestem.\nJeśli masz jakieś wątpliwości, spytaj mojego {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fudegong'a{/font}, a nie mnie.\" "
+    lpdcat serious "\"Rzadko zdarza się, by kotek bengalski był tygrysim strażnikiem, ale nim jestem.\nJeśli masz jakieś wątpliwości, spytaj mojego {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fudegonga{/font}, a nie mnie.\" "
 
     lpdcat serious "\"Zresztą, nie żebym sam się na to pisał...\" "
 
@@ -3048,7 +3048,7 @@ translate polish start_d57eb73d:
 
     lpdcat serious "\"Jeśli nikt nie będzie się nią opiekował, mój Fudegong najpewniej...\" "
 
-    lpdcat serious "\"Gdy to się stanie, będę zmuszony by żyć jak bezpański kot, a nie chcę by tak się stało.\" "
+    lpdcat serious "\"Gdy to się stanie, będę zmuszony żyć jak bezpański kot, a nie chcę by tak się stało.\" "
 
 
 
@@ -3066,7 +3066,7 @@ translate polish start_22966d3e:
 
     voice voice_file.lpdcat(1,24)
 
-    lpdcat difficult "\"A więc Liao, czy możesz pomóc mi odbudować świątynię, proszę?\" "
+    lpdcat difficult "\"A więc Liao, czy możesz mi pomóc odbudować świątynię, proszę?\" "
 
     lpdcat difficult "\"Zrobię wszystko co zechcesz, jeśli chcesz czegoś w zamian...\" "
 
@@ -3116,7 +3116,7 @@ translate polish start_96cfd651:
 
     tig frown "\"Nie możesz go zabrać. Liao żyje pod moją opieką. Nie ma powodu, by służył w jakiejkolwiek innej świątyni.\" "
 
-    tig frown "\"Jeśli zechce, to ci pomoże- ale i tak musi wrócić do domu.\" "
+    tig frown "\"Jeśli zechce, to ci pomoże, ale i tak musi wrócić do domu.\" "
 
 
 
@@ -3196,7 +3196,7 @@ translate polish start_6b1f19de:
 
     # avt "\"So, your temple is in Miaoli, right? Well as great as it sounds, reviving a temple is easier said than done. I—\" "
 
-    avt "\"Twoja świątynia jest w Miaoli, prawda? Brzmi świetnie, ale o ożywieniu świątyni łatwiej powiedzieć, niż zrobić. Ja-\" "
+    avt "\"Twoja świątynia jest w Miaoli, prawda? Brzmi świetnie, ale o ożywieniu świątyni łatwiej powiedzieć, niż zrobić. Ja—\" "
 
 
 
@@ -3212,7 +3212,7 @@ translate polish start_72138e2c:
 
     voice voice_file.lpd(1,20)
 
-    lpd normal "\"Liao iść do Wutai.\" "
+    lpd normal "\"Liao pójdzie do Wutai.\" "
 
 
 
@@ -3312,7 +3312,7 @@ translate polish start_9a85909c:
 
     # b "All three of the big cats stopped, their eyes fixed on me. "
 
-    b "Cała trójka kotów zamilkła, wpatrując się na mnie. "
+    b "Cała trójka kotów zamilkła, wpatrując się we mnie. "
 
 
 
@@ -3338,7 +3338,7 @@ translate polish start_44c3fb97:
 
     # avt "\"I don't want to get involved with any of this, please!\" "
 
-    avt "\"Pragnę jedynie solidnie się uczyć, tańczyć, spędzać czas z przyjaciółmi, ukończyć szkołę i znaleźć wreszcie pracę w mieście.\" "
+    avt "\"Pragnę jedynie pilnie się uczyć, tańczyć, spędzać czas z przyjaciółmi, ukończyć studia i znaleźć wreszcie pracę w mieście.\" "
 
     avt "\"Błagam, nie chcę mieć z tym nic wspólnego!\" "
 
@@ -3368,7 +3368,7 @@ translate polish start_6b0d2cc8:
 
     # avt "\"I never asked for it! You can't just force me to do what you want!\" "
 
-    avt "\"Nigdy się o to nie prosiłem! Nie możecie mnie zmusić, bym zrobił co wam się podoba!\" "
+    avt "\"Nigdy o niego nie prosiłem! Nie możecie mnie zmusić, bym zrobił co wam się podoba!\" "
 
 
 
@@ -3456,7 +3456,7 @@ translate polish start_9d7d4445:
 
     voice voice_file.lpd(1,25)
 
-    lpd normal "\"Nie poddać się.\" "
+    lpd normal "\"Nie poddam się.\" "
 
 
 
@@ -3472,7 +3472,7 @@ translate polish start_c25da48b:
 
     voice voice_file.tig(1,40)
 
-    tig angry "\"Czy musisz być taki uparty...\" "
+    tig angry "\"Aleś ty uparty...\" "
 
 
 
@@ -3500,7 +3500,7 @@ translate polish start_0d7a0d97_2:
 
     # avt "\"Huh?\" "
 
-    avt "\"Hę?\" "
+    avt "\"Co?\" "
 
 
 
@@ -3532,7 +3532,7 @@ translate polish start_2af98c60:
 
     voice voice_file.lpdcat(1,31)
 
-    lpdcat normal "\"Przecież kto zdobędzie Liao, otrzyma jego pomoc, praaaawda?\" "
+    lpdcat normal "\"Przecież ten, kto zdobędzie Liao, otrzyma jego pomoc, prawdaaa?\" "
 
 
 
@@ -3572,7 +3572,7 @@ translate polish start_4bbe96e6:
 
     # b "Disregarding my protests Senpai makes himself at home, plopping himself down at my table, digging into his plastic bag, and taking out the lou mei— ready to eat it. "
 
-    b "Ignorując moje protesty, Senpaj rozgaszcza się zasiadając przy stole. Zagląda do swej plastikowej torby i wyjmuje z niej Lou mei- gotów do jedzenia. "
+    b "Ignorując moje protesty, Senpaj rozgaszcza się, zasiadając przy stole. Zagląda do swej plastikowej torby i wyjmuje z niej Lou mei- gotów do jedzenia. "
 
 
 
@@ -3654,7 +3654,7 @@ translate polish start_027a3c6e:
 
     voice voice_file.tig(1,41)
 
-    tig normal "\"Liao, powinienem był ci powiedzieć, że ludzie nie mogą nas usłyszeć. Dla nich, wyglądasz jakbyś gadał sam do siebie.\" "
+    tig normal "\"Liao, powinienem był ci powiedzieć, że ludzie nie mogą nas usłyszeć. Dla nich wyglądasz, jakbyś gadał sam do siebie.\" "
 
     tig normal "\"Jeśli będziesz zbyt głośny, mogą pomyśleć żeś zwariował...\" "
 
@@ -3708,7 +3708,7 @@ translate polish start_e1f59157:
 
     # b "Aaaaaa— {w=0.5}I let my secret out... Please don't notice, please don't notice... "
 
-    b "Aaaaaa- {w=0.5}Wydało się... Może nikt nie zauważy, może nikt nie zauważy... "
+    b "Aaaaaa- {w=0.5}Wydało się... Proszę niech nikt nie zauważy, niech nikt nie zauważy... "
 
 
 
@@ -3724,7 +3724,7 @@ translate polish start_0cc40536:
 
     voice voice_file.tig(1,42)
 
-    tig normal "\"Liao, wiem co chcesz powiedzieć, ale nie możesz się na to godzić tylko ze względu na twój... {i}specyficzny gust.{/i}\" "
+    tig normal "\"Liao, wiem, co chcesz powiedzieć, ale nie możesz się na to godzić tylko ze względu na twój... {i}specyficzny gust.{/i}\" "
 
 
 
@@ -3756,7 +3756,7 @@ translate polish start_c833e931:
 
     voice voice_file.lpdcat(1,33)
 
-    lpdcat laugh "\"Ale Liao, czy chcesz czy nie, i tak widzimy się jutro w klubie tanecznym.\" "
+    lpdcat laugh "\"Ale Liao, czy tego chcesz, czy nie i tak widzimy się jutro w klubie tanecznym.\" "
 
 
 
@@ -3796,7 +3796,7 @@ translate polish start_d2801f21:
 
     # b  "I love going dance club, and it means so much to me. There's no way I'd leave just to avoid him and he knows it. "
 
-    b "Uwielbiam chodzić do klubu tanecznego- tak wiele dla mnie znaczy. Nie ma opcji bym odłączył, i dobrze o tym wie. "
+    b "Uwielbiam chodzić do klubu tanecznego, tak wiele dla mnie znaczy. Nie ma opcji, bym odszedł, by go unikać i dobrze o tym wie. "
 
 
 
@@ -3882,7 +3882,7 @@ translate polish start_4495ef8b:
 
     voice voice_file.lpdcat(1,37)
 
-    lpdcat normal "\"Tygrys zdecydowanie nigdzie się nie wybiera, a i ten panterzy gość raczej w najbliższym czasie nie odejdzie, prawda?\" "
+    lpdcat normal "\"Tygrysi strażnik zdecydowanie nigdzie się nie wybiera, a i ten lamparci gość raczej w najbliższym czasie nie odejdzie, prawda?\" "
 
     lpdcat normal "\"To byłoby niesprawiedliwe, gdybym tylko ja nie mógł z tobą zamieszkać~\" "
 
@@ -3964,7 +3964,7 @@ translate polish start_694bfc38:
 
     voice voice_file.lpdcat(1,39)
 
-    lpdcat laugh "\"Nie będzie przecież żadnego problemu, tak długo jak nie będziemy wracać razem z uczelni.\" "
+    lpdcat laugh "\"Nie będzie przecież żadnego problemu, dopóki nie będziemy wracać razem z uczelni.\" "
 
 
 
@@ -3982,7 +3982,7 @@ translate polish start_e0528d59:
 
     voice voice_file.lpdcat(1,40)
 
-    lpdcat normal "\"Mamy inne rozkłady zajęć.\" "
+    lpdcat normal "\"Mamy też inne rozkłady zajęć.\" "
 
     lpdcat normal "\"Możesz też powiedzieć ludziom, że widujesz się ze mną w domu! Widzisz, to żaden problem.\" "
 
@@ -4012,7 +4012,7 @@ translate polish start_bf90885f:
 
     b "Dobra, spróbujmy inaczej. "
 
-    b "Jeśli pantera odejdzie, Senpaj nie będzie miał powodu, by tu zostać. Zapytajmy go. "
+    b "Jeśli ten lampart odejdzie, Senpaj nie będzie miał powodu, by tu zostać. Zapytajmy go. "
 
 
 
@@ -4024,7 +4024,7 @@ translate polish start_09553e84:
 
     # avt "\"Umm, Mister Clouded Leopard, you... do you really have to stay? Could you please...\" "
 
-    avt "\"Umm, Panie Mglista Pantero, czy... naprawdę musisz tu zostawać? Czy mógłbyś proszę...\" "
+    avt "\"Umm, Panie Lamparcie Mglisty, czy... naprawdę musisz tu zostawać? Czy mógłbyś proszę...\" "
 
 
 
@@ -4052,7 +4052,7 @@ translate polish start_3b23b615:
 
     # avt "\"Uh...\" "
 
-    avt "\"Yyyy...\" "
+    avt "\"Eee...\" "
 
 
 
@@ -4108,7 +4108,7 @@ translate polish start_3b23b615_1:
 
     # avt  "\"Uh...\" "
 
-    avt "\"Yyyy...\" "
+    avt "\"Eee...\" "
 
 
 
@@ -4132,7 +4132,7 @@ translate polish start_322e9985:
 
     # b " Does this guy even know what he's saying? How'd he get so fluent all of a sudden? "
 
-    b " Czy ten gość w ogóle wie co mówi? W jaki sposób nagle zaczął tak płynnie mówić? "
+    b " Czy ten gość w ogóle wie, co mówi? W jaki sposób nagle zaczął tak płynnie mówić? "
 
 
 
@@ -4144,7 +4144,7 @@ translate polish start_4ff97389:
 
     # avt "\"Whaa— It's just that at the moment... I can't fit all three of you in this room.\" "
 
-    avt "\"Cooo- To dlatego, że w tej chwili... nie pomieszczę was wszystkich w tym pokoju.\" "
+    avt "\"Cooo— To dlatego, że w tej chwili... nie pomieszczę was wszystkich w tym pokoju.\" "
 
 
 
@@ -4160,7 +4160,7 @@ translate polish start_eed434ae:
 
     voice voice_file.lpd(1,29)
 
-    lpd normal "\"Nie problem.\" "
+    lpd normal "\"Nie ma problemu.\" "
 
 
 
@@ -4188,7 +4188,7 @@ translate polish start_4d9650c2:
 
     voice voice_file.lpdcat(1,41)
 
-    lpdcat normal "\"Umm Liao, zapomniałeś? Są duchami, nie muszą zajmować żadnej \"realnej\" przestrzeni.\" "
+    lpdcat normal "\"Umm, Liao, zapomniałeś? Są duchami, nie muszą zajmować żadnej \"realnej\" przestrzeni.\" "
 
 
 
@@ -4276,7 +4276,7 @@ translate polish start_17c89aab_1:
 
     voice voice_file.lpdcat(1,35)
 
-    lpdcat cute "\"Heh- W sumie racja.\" "
+    lpdcat cute "\"Heh— W sumie racja.\" "
 
 
 
@@ -4288,7 +4288,7 @@ translate polish start_c9065cc9:
 
     # avt "\"Again, that's not a compliment!\" "
 
-    avt "\"Znowu, to nie był komplement!\" "
+    avt "\"Znowu to powiem, to nie był komplement!\" "
 
 
 
@@ -4334,9 +4334,9 @@ translate polish start_a753e8f7:
 
     # avt "\"Regardless, I'm exhausted and actually {i}need{/i} \ to take a shower!\" "
 
-    avt "\"Nie musisz tego robić... Mam to gdzieś.\" "
+    avt "\"Nie musisz tego robić. Mam to gdzieś.\" "
 
-    avt "\"Jestem bardzo zmęczony i koniecznie {i}muszę{/i} \ wziąć prysznic!\" "
+    avt "\"Jestem wykończony i koniecznie {i}muszę{/i} \ wziąć prysznic!\" "
 
 
 
@@ -4366,9 +4366,9 @@ translate polish start_ead5aeed:
 
     # b "What did I do to deserve all this! "
 
-    b "Co jest z nimi nie tak? To prawda że są uroczy, ale mimo to- fakt, że wszyscy naraz od tak wpadli do mojego życia, to trochę za dużo! "
+    b "Co jest z nimi nie tak? To prawda, że są uroczy, ale mimo to fakt, że wszyscy naraz od tak wpadli do mojego życia, to trochę za dużo! "
 
-    b "Czym sobie na to zasłużyłem! "
+    b "Czym sobie na to zasłużyłem?! "
 
 
 
