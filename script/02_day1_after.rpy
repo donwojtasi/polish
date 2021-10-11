@@ -38,7 +38,7 @@ translate polish day1_after_01_tig_062d49d0:
 
     voice voice_file.lpdcat(2,1)
 
-    lpdcat cry_2 "\"Ohhh~ Jesteś okrutny Liao!\" "
+    lpdcat cry_2 "\"Ooo~ Jesteś okrutny Liao!\" "
 
 
 
@@ -50,7 +50,7 @@ translate polish day1_after_01_tig_2d0da8a1:
 
     # avt "\"Sorry, Senpai... I'll go get you a quilt, it's the least I can do to make up for it.\" "
 
-    avt "\"Wybacz, Senpai... Poszukam ci jakiejś kołdry, chociaż tyle mogę dla ciebie zrobić.\" "
+    avt "\"Wybacz, Senpaj... Poszukam ci jakiejś kołdry, chociaż tyle mogę dla ciebie zrobić.\" "
 
 
 
@@ -66,7 +66,7 @@ translate polish day1_after_01_tig_db927990:
 
     voice voice_file.lpdcat(2,2)
 
-    lpdcat cry_2 "\"Ooo- buuhuu...\" "
+    lpdcat cry_2 "\"Ooo- buu...\" "
 
 
 
@@ -78,7 +78,7 @@ translate polish day1_after_01_tig_0bd8ae57:
 
     # b "I go to the closet and get out the spare quilt, passing it to Senpai. "
 
-    b "Podchodzę do szafy, wyjmuję z niej zapasową kołdrę i podaję ją Senpai'owi. "
+    b "Podchodzę do szafy, wyjmuję z niej zapasową kołdrę i podaję ją Senpajowi. "
 
 
 
@@ -94,7 +94,7 @@ translate polish day1_after_01_tig_ca335cca:
 
     voice voice_file.lpdcat(2,3)
 
-    lpdcat wronged "\"Skoro tak ma być...\" "
+    lpdcat wronged "\"Cóż, skoro tak ma być...\" "
 
 
 
@@ -106,7 +106,7 @@ translate polish day1_after_01_tig_0ae6d1fe:
 
     # b "Senpai quickly rolls out the quilt on the ground. "
 
-    b "Senpai w mgnieniu oka rozkłada sobie posłanie na podłodze. "
+    b "Senpaj w mgnieniu oka rozkłada sobie posłanie na podłodze. "
 
 
 
@@ -134,7 +134,7 @@ translate polish day1_after_01_tig_3b23b615:
 
     # avt "\"Uh...\" "
 
-    avt "\"Yyy...\" "
+    avt "\"Eee...\" "
 
 
 
@@ -158,7 +158,7 @@ translate polish day1_after_01_tig_6df67c1e:
 
     # avt "\"Senpai, how can I get out of the room with you blocking the way?\" "
 
-    avt "\"Senpai, jak mam wyjść z pokoju skoro blokujesz przejście?\" "
+    avt "\"Senpaj, jak mam wyjść z pokoju, skoro blokujesz przejście?\" "
 
 
 
@@ -174,7 +174,7 @@ translate polish day1_after_01_tig_a2079805:
 
     voice voice_file.lpdcat(2,5)
 
-    lpdcat normal "\"Oczywiście Liao dostaje darmową przepustkę! Jesteś mile widziany na moim terytorium, możesz też spać ze mną na podłodze~\" "
+    lpdcat normal "\"Oczywiście Liao dostaje darmową przepustkę! Jesteś mile widziany w moim rewirze, możesz też spać ze mną na podłodze~\" "
 
 
 
@@ -186,7 +186,7 @@ translate polish day1_after_01_tig_c9ef18c6:
 
     # b "No matter how you look at there's no space for me squeeze into his \"territory\" even if I wanted to. "
 
-    b "Jakby nie patrzeć, na jego \"terytorium\" nie ma ani odrobiny miejsca w które mógłbym się wcisnąć, nawet gdybym bardzo chciał. "
+    b "Jakby nie patrzeć, na jego \"rewirze\" nie ma ani odrobiny miejsca, w które mógłbym się wcisnąć, nawet gdybym bardzo chciał. "
 
 
 
@@ -200,7 +200,7 @@ translate polish day1_after_01_tig_72757def:
 
     # avt "\"Can you just allow me to sleep for a while?\" "
 
-    avt "\"W porządku Senpai. Wiem, że bardzo się ekscytujesz, ale jestem teraz okropnie zmęczony.\" "
+    avt "\"W porządku, Senpaj. Wiem, że bardzo się ekscytujesz, ale jestem teraz okropnie zmęczony.\" "
 
     avt "\"Pozwolisz mi trochę pospać?\" "
 
@@ -230,7 +230,7 @@ translate polish day1_after_01_tig_452f3661:
 
     # b "Letting out a sigh, I go to the door and turn off the light. "
 
-    b "Wzdycham i idę zgasić światło. "
+    b "Wzdycham i podchodzę do drzwi zgasić światło. "
 
 
 
@@ -266,7 +266,7 @@ translate polish day1_after_01_tig_f8ede7c1:
 
     # b "Is he really going to be sleeping with me every night? H-He's kinda big... I don't think I'll fall asleep that easily with him next to me. "
 
-    b "Czy naprawdę chce ze mną spać każdej nocy? J-jest całkiem spory... Nie sądzę, że tak łatwo przy nim zasnę... "
+    b "Czy naprawdę chce ze mną spać każdej nocy? J-Jest całkiem spory... Nie sądzę, że tak łatwo przy nim zasnę... "
 
 
 

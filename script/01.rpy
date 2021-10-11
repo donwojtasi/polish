@@ -10,7 +10,7 @@ translate polish start_22088c7d:
 
     # b "With heavy footsteps I clamber up the staircase to my apartment, exhausted and out of breath... "
 
-    b "Wyczerpany i zdyszany, ciężkim krokiem wdrapuję się po schodach prowadzących do mojego pokoju... "
+    b "Wyczerpany i zdyszany, ciężkim krokiem wdrapuję się \npo\ schodach prowadzących do mojego pokoju... "
 
 
 
@@ -78,7 +78,7 @@ translate polish start_1df83b50:
 
     b "Uhhhhh- Ledwo stoję na nogach... "
 
-    b "Po chwili wysiłku, otwieram drzwi. Na szczęście robiąc to {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
+    b "Po chwili wysiłku, otwieram drzwi. Na szczęście robiąc \nto\ {i}bez{/i} \ skrobania kluczem gdzie popadnie. "
 
 
 
@@ -92,9 +92,9 @@ translate polish start_c80771cd:
 
     # b "I stand there and close my eyes for a moment...{w=0.5} They're too heavy to open. \nSo for now, I don't... "
 
-    b "Boże, pod sam koniec byłem już tak bardzo zmęczony. Nie mam pojęcia, co we mnie wstąpiło. "
+    b "Boże, byłem tak bardzo zmęczony, odkąd skończyliśmy. Nie mam pojęcia, co we mnie wstąpiło. "
 
-    b "Stoję tam i zamykam na chwilę oczy...{w=0.5} Są zbyt ciężkie, by je otworzyć.\nWięc na razie, nie będę... "
+    b "Stoję tam i zamykam na chwilę oczy...{w=0.5} Są zbyt ciężkie, \nby\ je otworzyć.Więc na razie, nie będę próbować... "
 
 
 
@@ -120,9 +120,9 @@ translate polish start_cbb76b19:
 
     # b "I mean I {i}wanted{/i} \ to stay, but I would've just collapsed if I didn't head home... "
 
-    b "Wszyscy tam jeszcze zostali, świętując wspaniały występ, jaki udało się nam wykonać... \nA ja musiałem wrócić do domu. "
+    b "Wszyscy tam jeszcze zostali, świętując wspaniały występ, jaki \nudało\ się nam wykonać... \nA ja musiałem wrócić do domu. "
 
-    b "Mam przez to na myśli, że bardzo {i}chciałem{/i} \ zostać, ale chyba bym tam zemdlał... "
+    b "Mam przez to na myśli, że bardzo {i}chciałem{/i} zostać, ale chyba bym tam zemdlał... "
 
 
 
@@ -194,7 +194,7 @@ translate polish start_aad233e5:
 
     b "Co do? " with vshake
 
-    b "Jakimś cudem, {i}w tej chwili{/i}, w moim pokoju, na moim łóżku siedzi {i}człekopodobny tygrys{/i} i czyta jedną z moich książek! "
+    b "Jakimś cudem, {i}w tej chwili{/i}, w moim pokoju, na moim łóżku \nsiedzi\ {i}człekopodobny tygrys{/i} i czyta jedną z moich książek! "
 
 
 
@@ -316,7 +316,7 @@ translate polish start_37a13961:
 
     # b "Despite that, I never expected to see a real guardian tiger that's for sure! "
 
-    b "Hmm... {w=0.5}Mamy tygrysiego strażnika w naszej rodzinie. W sumie... {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
+    b "Hmm... {w=0.5}Mamy tygrysiego strażnika w naszej rodzinie. W \nsumie...\ {w=0.5}powinienem powiedzieć {i}tygrysich strażników{/i}. "
 
     b "W końcu urodziłem się w rodzinie mediów {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jitong{/font}, prowadzących własną świątynię. "
 
@@ -334,9 +334,9 @@ translate polish start_5bd40f3a:
 
     # b "How is this even possible! Aren't guardian tigers considered gods? Even if they exist, normal people can't just see them... right? "
 
-    b "Pewnie, widziałem mnóstwo posągów tygrysów, ale żeby żywy, mówiący.... no i— {i}muskularny{/i} \ tygrysi strażnik? "
+    b "Pewnie, widziałem mnóstwo posągów tygrysów, ale żeby \nżywy,\ mówiący.... no i— {i}muskularny{/i} \ tygrysi strażnik? "
 
-    b "Jak to w ogóle możliwe?! Czy oni nie są uznawani za bogów? Nawet jeśli istnieją, nie powinni być widzialni gołym okiem... prawda? "
+    b "Jak to w ogóle możliwe?! Czy oni nie są uznawani za bogów? Nawet jeśli \nistnieją,\ nie powinni być widzialni gołym okiem... prawda? "
 
 
 
@@ -408,7 +408,7 @@ translate polish start_c5bd6627:
 
     # b "Now that I think about it, I did bring a small tiger statue with me from home... Could that be why he's here? "
 
-    b "Jak tak o tym pomyślę, to przywiozłem przecież z domu mały posążek tygrysa...\nCzy to dlatego tu jest? "
+    b "Jak tak o tym pomyślę, to przywiozłem przecież z \ndomu\ mały posążek tygrysa...\nCzy to dlatego tu jest? "
 
 
 
@@ -422,7 +422,7 @@ translate polish start_7a03bfc1:
 
     # b "So— If this is a {i}for real{/i} \ guardian tiger, why exactly can I see him all of a sudden?! "
 
-    b "Mimo, że zostałem wychowany w rodzinie duchowych mediów Jitong, to nie widziałem wcześniej żadnych duchów... "
+    b "Mimo, że zostałem wychowany w rodzinie duchowych mediów \nJitong,\ to nie widziałem wcześniej żadnych duchów... "
 
     b "Więc... jeśli jest to {i}prawdziwy{/i} \ tygrysi strażnik, to czemu nagle mogę go zobaczyć?! "
 
@@ -440,7 +440,7 @@ translate polish start_22c914b4:
 
     voice voice_file.tig(1,4)
 
-    tig normal "\"Liao, nie brałeś dziś udziału w tym aborygeńskim tańcu? Przypominasz sobie może coś dziwnego?\" "
+    tig normal "\"Liao, nie brałeś dziś udziału w tym aborygeńskim \ntańcu?\ Przypominasz sobie może coś dziwnego?\" "
 
 
 
@@ -504,7 +504,7 @@ translate polish start_b590e9b4:
 
     # avt "\"Uhh, Um— So, you're a guardian tiger right? The very one in the statue I brought here to Taipei?\" "
 
-    avt "\"Eee, Umm... A więc jesteś tygrysim strażnikiem, tak? Tym w posążku, który przywiozłem\ndo Tajpej?\" "
+    avt "\"Eee, umm— A więc jesteś tygrysim strażnikiem, tak? Tym w \nposążku,\ który przywiozłem\ndo Tajpej?\" "
 
 
 
@@ -550,7 +550,7 @@ translate polish start_01c9ffc3:
 
     b "Odkąd przeprowadziłem się do Tajpej na studia, mieszkałem sam w tym małym pokoju. "
 
-    b "Jestem studentem, więc zazwyczaj nie dbam za bardzo o swój pokój, nie mówiąc już o tym\n{i}co{\i} \ w nim robię... "
+    b "Jestem studentem, więc zazwyczaj nie dbam za bardzo o swój \npokój,\ nie mówiąc już o tym\n{i}co{\i} w nim robię... "
 
     b "Jeśli ten gość cały czas był przy mnie... "
 
@@ -568,7 +568,7 @@ translate polish start_b680a801:
 
     voice voice_file.tig(1,7)
 
-    tig normal "\"Oczywiście, byłem tutaj przez cały ten czas. Nie mogę przecież za bardzo oddalać się od posążka.\" "
+    tig normal "\"Oczywiście, byłem tutaj przez cały ten czas. Nie mogę \nprzecież\ za bardzo oddalać się od posążka.\" "
 
 
 
@@ -580,7 +580,7 @@ translate polish start_6365c00f:
 
     # b "It makes sense, I did put his statue on my bookshelf. He {i}has{/i} \ no other choice but stick around here all the time... "
 
-    b "To ma sens, postawiłem jego posążek na półce z książkami. {i}Nie miał{/i} \ innego wyboru, niż siedzieć tutaj cały czas... "
+    b "To ma sens, postawiłem jego posążek na półce z książkami. \n{i}Nie miał{/i} \ innego wyboru, niż siedzieć tutaj cały czas... "
 
 
 
@@ -664,7 +664,7 @@ translate polish start_7d960998:
 
     voice voice_file.tig(1,10)
 
-    tig normal "\"Naprawdę nie masz się czego wstydzić. Czuwałem nad tobą od dziecka, widywałem gorsze rzeczy.\" "
+    tig normal "\"Naprawdę nie masz się czego wstydzić. Czuwałem nad \ntobą\ od dziecka, widywałem gorsze rzeczy.\" "
 
 
 
@@ -692,7 +692,7 @@ translate polish start_3a31461e:
 
     voice voice_file.tig(1,11)
 
-    tig lift "\"Co? Ach tak, masz dość {i}specyficzny gust.{/i} Zdaje mi się, że nie znajdziesz takiego chłopaka w rzeczywistości.\" "
+    tig lift "\"Co? Ach tak, masz dość {i}specyficzny gust.{/i} Zdaje mi się, że \nnie\ znajdziesz takiego chłopaka w rzeczywistości.\" "
 
 
 
@@ -704,7 +704,7 @@ translate polish start_ef462079:
 
     # avt "\"Yeah, of course I know I can't find those—\" "
 
-    avt "\"Oczywiście, wiem, że takiego nie znajdę-\" "
+    avt "\"Oczywiście, wiem, że takiego nie znajdę—\" "
 
 
 
@@ -716,7 +716,7 @@ translate polish start_c8099458:
 
     # avt "\"Hold on! You even know I like guys!\" " with flash
 
-    avt "\"Czekaj! Skąd wiesz, że lubię chłopaków!\" " with flash
+    avt "\"Czekaj! Skąd wiesz, że lubię chłopaków?!\" " with flash
 
 
 
@@ -732,7 +732,7 @@ translate polish start_625e6850:
 
     voice voice_file.tig(1,12)
 
-    tig lift "\"A czego się spodziewałeś? Znam każdy plik na twoim komputerze.\nChciałbyś bym ci je wszystkie wymienił?\" "
+    tig lift "\"A czego się spodziewałeś? Znam każdy plik na \ntwoim\ komputerze.\nChciałbyś bym ci je wszystkie wymienił?\" "
 
 
 
@@ -790,7 +790,7 @@ translate polish start_92695d23:
 
     voice voice_file.tig(1,14)
 
-    tig normal "\"Od zawsze w każdym pokoleniu twojej rodziny był ktoś taki. Jednak sprawa miała się inaczej w przypadku dwóch ostatnich.\" "
+    tig normal "\"Od zawsze w każdym pokoleniu twojej rodziny był ktoś taki. \nJednak\ sprawa miała się inaczej w przypadku dwóch ostatnich.\" "
 
     tig normal "\"Martwiliśmy się, że ta moc przepadła na zawsze.\" "
 
@@ -804,7 +804,7 @@ translate polish start_69fcf4d7:
 
     # b "I never thought we could actually communicate with spirits... {w=0.5}So all our rituals are more than just for show? "
 
-    b "Nigdy nie przypuszczałem, że możemy komunikować się z innymi bytami... {w=0.5}A więc te wszystkie rytuały, nie były tylko na pokaz? "
+    b "Nigdy nie przypuszczałem, że możemy komunikować się z \ninnymi\ bytami... {w=0.5}A więc te wszystkie rytuały nie były tylko na pokaz? "
 
 
 
@@ -832,7 +832,7 @@ translate polish start_59213553:
 
     voice voice_file.tig(1,15)
 
-    tig normal "\"Cóż, miałeś w sobie pewną dozę mocy duchowej już jako dziecko, wciąż jednak za mało,\nby nas dostrzec. Jednakże... dzisiaj to się zmieniło...\" "
+    tig normal "\"Cóż, miałeś w sobie pewną dozę mocy duchowej już jako dziecko, wciąż jednak za mało, by nas dostrzec. Jednakże... dzisiaj to się zmieniło...\" "
 
 
 
@@ -872,7 +872,7 @@ translate polish start_769400ab:
 
     voice voice_file.tig(1,16)
 
-    tig frown "\"Zdaje się, że ktoś dokonał zmiany w twej mocy duchowej. Tylko jak... {w=0.5}Liao, nie masz przypadkiem jakiegoś pomysłu?\" "
+    tig frown "\"Zdaje się, że ktoś dokonał zmiany w twej mocy duchowej. Tylko \njak...\ {w=0.5}Liao, nie masz przypadkiem jakiegoś pomysłu?\" "
 
 
 
@@ -936,7 +936,7 @@ translate polish start_6ce08f38:
 
     voice voice_file.tig(1,17)
 
-    tig normal "\"Och, żadnych pomysłów? Zapomnij więc o tym. Przynajmniej nic ci nie jest. Jak już mówiłem, dobrze się stało.\" "
+    tig normal "\"Och, żadnych pomysłów? Zapomnij więc o tym. Przynajmniej \nnic\ ci nie jest. Jak już mówiłem, dobrze się stało.\" "
 
 
 
@@ -1056,7 +1056,7 @@ translate polish start_0147c0e6:
 
     tig laugh_1 "\"Mimo to, wielu ludzi pogardza {font=tl/polish/NotoSans-SemiCondensedBold.ttf}rytuałem opętania{/font}, który pozwala się z nimi skontaktować...\" "
 
-    tig laugh_1 "\"Mimo wszystko—nawet jeśli nie wyglądasz na wyznawcę, możesz prosić ich o błogosławieństwo ochrony.\" "
+    tig laugh_1 "\"Mimo wszystko—nawet jeśli nie wyglądasz na \nwyznawcę,\ możesz prosić ich o błogosławieństwo ochrony.\" "
 
 
 
@@ -1072,7 +1072,7 @@ translate polish start_a2ac57a8:
 
     voice voice_file.tig(1,22)
 
-    tig laugh_2 "\"Jeżeli o mnie chodzi, to po tych wszystkich latach czuwania nad tobą, jestem niezmiernie\nszczęśliwy, mogąc z tobą porozmawiać.\" "
+    tig laugh_2 "\"Jeżeli o mnie chodzi, to po tych wszystkich latach czuwania \nnad\ tobą, jestem niezmiernie\nszczęśliwy, mogąc z tobą porozmawiać.\" "
 
 
 
@@ -1096,7 +1096,7 @@ translate polish start_4ce7442c:
 
     # b "Also, I wonder why people wouldn't want to be possessed... Could the tales of the {font=tl/None/NotoSansCJKtc-Bold.otf}Oracle's Misfortune{/font} be true? "
 
-    b "Zastanawiam się, dlaczego ludzie nie chcą być opętani... Czyżby opowieści o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Proroczym pechu{/font}\nbyły prawdziwe? "
+    b "Zastanawiam się, dlaczego ludzie nie chcą być opętani... \nCzyżby\ opowieści o {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Proroczym pechu{/font}\nbyły prawdziwe? "
 
 
 
@@ -1160,7 +1160,7 @@ translate polish start_e4bc96cb:
 
     # b "Wait— Wait... {w=0.5}Shouldn't I be the only person who can see him? "
 
-    b "Chwila— Chwila... {w=0.5}Nie powinienem być jedyną osobą, która go widzi? "
+    b "Chwila— Chwila... {w=0.5}Czy nie jestem jedyną osobą, która go widzi? "
 
 
 
@@ -1176,11 +1176,11 @@ translate polish start_5b5637c4:
 
     # b "With that anxiety quelled, my worry turns towards whoever is outside my door... "
 
-    b "Biorę głęboki oddech i ponownie na niego spoglądam. Nie wydaje się przejmować tym, co kryje się za drzwiami, ani czuć potrzeby ukrycia się. "
+    b "Biorę głęboki oddech i ponownie na niego spoglądam. Nie wydaje \nsię\ przejmować tym, co kryje się za drzwiami, ani czuć potrzeby ukrycia się. "
 
     b "Najwyraźniej niepotrzebnie się martwiłem. "
 
-    b "Pozbywszy się tego lęku, kieruję swój niepokój w kierunku drzwi, zastanawiając się kto\nza nimi stoi... "
+    b "Pozbywszy się tego lęku, kieruję swój niepokój w kierunku \ndrzwi,\ zastanawiając się kto\nza nimi stoi... "
 
 
 
@@ -1238,7 +1238,7 @@ translate polish start_dba4e869:
 
     # b "Actually, hold on— That reminds me of some of our costumes... "
 
-    b "Kim on może być? Nie... Nie przypominam sobie żadnych lamparcich bogów ani potworów...\nO jego dziwnym ubiorze nie wspominając... "
+    b "Kim on może być? Nie... Nie przypominam sobie żadnych lamparcich \nbogów\ ani potworów... O jego dziwnym ubiorze nie wspominając... "
 
     b "Właściwie, chwila— Przywodzi mi na myśl niektóre z naszych kostiumów... "
 
@@ -1392,7 +1392,7 @@ translate polish start_3b44183b:
 
     # b "It takes me a second more than it should to realise he wants to enter my room. It is impolite of me to leave him waiting at the doorway, but... "
 
-    b "Dłuższą chwilę zajęło mi by zorientować się, że chce wejść do mojego pokoju. To niegrzeczne z mojej strony kazać mu czekać w drzwiach, ale... "
+    b "Dłuższą chwilę zajęło mi by zorientować się, że chce wejść do \nmojego\ pokoju. To niegrzeczne z mojej strony kazać mu czekać w drzwiach, ale... "
 
 
 
@@ -1532,7 +1532,7 @@ translate polish start_39385a16:
 
     # b "He looks around for a moment, and then points to the leaflet on my bed. It's the schedule of today's performance. "
 
-    b "Rozgląda się przez chwilę dookoła, a następnie wskazuje na ulotkę leżącą na moim łóżku.\nTo plan dzisiejszego występu. "
+    b "Rozgląda się przez chwilę dookoła, a następnie wskazuje na \nulotkę\ leżącą na moim łóżku.\nTo plan dzisiejszego występu. "
 
 
 
@@ -1600,7 +1600,7 @@ translate polish start_c27dd094:
 
     # b "He points directly at my eyes with black, pointed claws... Huh, so that's how beast-men fingers are. "
 
-    b "Wskazuje prosto w moje oczy swoimi czarnymi, spiczastymi pazurami... Hmm, a więc to tak wyglądają ich palce. "
+    b "Wskazuje prosto w moje oczy swoimi czarnymi, spiczastymi \npazurami...\ Hmm, a więc to tak wyglądają ich palce. "
 
 
 
@@ -1704,7 +1704,7 @@ translate polish start_b3a5f399:
 
     # b "So he awakened my powers because he wanted my help, that makes sense so far... \n(I have a bad feeling about this.) "
 
-    b "A więc to on jest za to odpowiedzialny, bo chciał mojej pomocy, na razie ma to sens... \n(Mam co do tego złe przeczucia.) "
+    b "A więc to on jest za to odpowiedzialny, bo chciał mojej \npomocy,\ na razie ma to sens... (Mam co do tego złe przeczucia.) "
 
 
 
@@ -1758,9 +1758,9 @@ translate polish start_479cb204:
 
     # b "Which means what he's saying makes sense... but that doesn't change the face that Pingtung is on the completely opposite side of Taiwan! "
 
-    b "Wutai... Chwila, to miejsce pojawiło się, gdy szukaliśmy informacji na potrzeby występu.\nJeśli dobrze pamiętam, to ludność Rukai rzeczywiście mieszka w Wutai. "
+    b "Wutai... Chwila, to miejsce pojawiło się, gdy szukaliśmy informacji na potrzeby występu.\nJeśli dobrze pamiętam to ludność Rukai rzeczywiście mieszka w Wutai. "
 
-    b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to jednak faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
+    b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to \njednak\ faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
 
 
 
@@ -1796,7 +1796,7 @@ translate polish start_9efac352:
 
     # b "Aww geez, why does he have to give me {i}that{/i} \ look... "
 
-    b "Ooo jeny, czemu musi patrzeć na mnie w {i}ten{/i} \ sposób... "
+    b "Ooo jeny, czemu musi patrzeć na mnie w {i}ten{/i} sposób... "
 
 
 
@@ -1812,7 +1812,7 @@ translate polish start_5fb3d600:
 
     b "Chociaż tego nie okazuje, to myślę że go zawiodłem... "
 
-    b "Zadał sobie tyle trudu, by obudzić we mnie te moce, a po tym wszystkim ja z miejsca mu odmawiam... "
+    b "Zadał sobie tyle trudu, by obudzić we mnie te moce, a po \ntym\ wszystkim ja z miejsca mu odmawiam... "
 
 
 
@@ -2014,7 +2014,7 @@ translate polish start_60548f53:
 
     # b "Woah! Wait, how did things end up with them trying to fight each other? "
 
-    b "Lampart i tygrys utkwili w sobie spojrzenia. Tygrys zaciska pięści. Wygląda na gotowego do walki. "
+    b "Lampart i tygrys utkwili w sobie spojrzenia. Tygrys zaciska \npięści.\ Wygląda na gotowego do walki. "
 
     b "Chwila, jakim cudem sprawy przybrały taki obrót, że nagle chcą ze sobą walczyć? "
 
@@ -2052,7 +2052,7 @@ translate polish start_bd9bd4d9:
 
     # b "I figure there's no way they'll hurt me, right? But if they're really going to fight, what else can I do? "
 
-    b "Myślę, że mnie nie skrzywdzą, prawda? Ale jeśli naprawdę chcą walczyć,\nto co jeszcze mogę zrobić? "
+    b "Myślę, że mnie nie skrzywdzą, prawda? Ale jeśli naprawdę chcą walczyć, to co jeszcze mogę zrobić? "
 
 
 
@@ -2088,7 +2088,7 @@ translate polish start_10634d1c:
 
     # b "W-Wait— {w=0.5}Who decided to call me {i}right now{/i} \ of all times?! "
 
-    b "Cz-Czekaj- {w=0.5} Kto {i}akurat teraz{/i} \ musi do mnie wydzwaniać? "
+    b "Cz-Czekaj— {w=0.5} Kto {i}akurat teraz{/i} musi do mnie wydzwaniać? "
 
 
 
@@ -2102,7 +2102,7 @@ translate polish start_2d6fbe46:
 
     # b "Trembling, I keep an eye on the two puffed up cats as I reach for my phone... "
 
-    b "Dzwonek telefonu przerwał ich kłótnię. Obaj odwrócili się w moją stronę, dokładnie obserwując, co się dzieje. "
+    b "Dzwonek telefonu przerwał ich kłótnię. Obaj odwrócili się \nw\ moją stronę, dokładnie obserwując, co się dzieje. "
 
     b "Mając dwa nadęte koty na oku, podnoszę drżącą ręką telefon... "
 
@@ -2158,7 +2158,7 @@ translate polish start_53dca347:
 
     voice voice_file.lpdcat(1,1)
 
-    senpai "\"Hej Liao, dzwonię by sprawdzić co z tobą, bo przed wyjściem bardzo słabo wyglądałeś. Trochę się martwiliśmy. Czy czujesz się już lepiej?\" "
+    senpai "\"Hej Liao, dzwonię by sprawdzić co z tobą, bo przed wyjściem \nbardzo\ słabo wyglądałeś. Trochę się martwiliśmy. Czy czujesz się już lepiej?\" "
 
     senpai "\"Pomyślałem, że będziesz głodny, więc kupiłem dla nas co nieco. Zjedzmy razem obiad!\" "
 
@@ -3212,7 +3212,7 @@ translate polish start_72138e2c:
 
     voice voice_file.lpd(1,20)
 
-    lpd normal "\"Liao pójdzie do Wutai.\" "
+    lpd normal "\"Liao iść do Wutai.\" "
 
 
 
@@ -4132,7 +4132,7 @@ translate polish start_322e9985:
 
     # b " Does this guy even know what he's saying? How'd he get so fluent all of a sudden? "
 
-    b " Czy ten gość w ogóle wie, co mówi? W jaki sposób nagle zaczął tak płynnie mówić? "
+    b " Czy ten gość w ogóle wie, co mówi? Skąd nagle zaczął tak płynnie mówić? "
 
 
 
@@ -4412,7 +4412,7 @@ translate polish start_1258c4f7:
 
     b "Odłóżmy kwestię pomocy na bok. Ten tygrysi strażnik... Naprawdę był ze mną od kiedy się urodziłem? "
 
-    b "Myślę że tak, ale... "
+    b "Myślę, że tak, ale... "
 
 
 
@@ -4424,7 +4424,7 @@ translate polish start_8f4cd0d9:
 
     # b "But doesn't that mean if I keep him around, I'd never be able to cut ties with my \nfamily? "
 
-    b "Jeśli będzie kręcił się w pobliżu- czy oznacza to, że nigdy nie będę mógł oderwać się od mojej rodziny? "
+    b "Jeśli będzie kręcił się w pobliżu, czy oznacza to, że nigdy nie będę mógł oderwać się od mojej rodziny? "
 
 
 
@@ -4448,7 +4448,7 @@ translate polish start_1dbdf752:
 
     # b "Come on! What year is this? Who wants to be a Jitong?! "
 
-    b "Dajcie spokój! Który mamy rok? Kto jeszcze chce być Jitong'iem?! "
+    b "Dajcie spokój! Który mamy rok? Kto jeszcze chce być Jitongiem?! "
 
 
 
@@ -4508,7 +4508,7 @@ translate polish start_2104e9da:
 
     # b "It's not that I don't want to help them, but it's not like I can just up and agree to change my life for these guys! "
 
-    b "Chciałbym im jakoś pomóc, ale nie mogę pozwolić by z ich powodu całe moje życie zostało wywrócone do góry nogami! "
+    b "Chciałbym im jakoś pomóc, ale nie mogę pozwolić, by z ich powodu całe moje życie zostało wywrócone do góry nogami! "
 
 
 
@@ -4562,7 +4562,7 @@ translate polish start_34e30421:
 
     # b "But right now, with the three of them waiting in my room... that is no longer an \noption. "
 
-    b "Będąc samemu w moim pokoju, mogę przez niego przejść na golasa by je zabrać. "
+    b "Będąc samemu w moim pokoju, mogę przez niego przejść na golasa, by je zabrać. "
 
     b "Ale teraz, z trzema kotami czekającymi za drzwiami... nie ma takiej opcji. "
 
@@ -4668,7 +4668,7 @@ translate polish start_8a50dde8:
 
     # b "I wait for a while, but Senpai doesn't respond. All I can hear is him vaguely humming along. "
 
-    b "Czekam przez chwilę, ale Senpaj nie odpowiada. Wszystko co słyszę, to niewyraźne mruczenie. "
+    b "Czekam przez chwilę, ale Senpaj nie odpowiada. Wszystko, co słyszę to niewyraźne mruczenie. "
 
 
 
@@ -4680,7 +4680,7 @@ translate polish start_1d94c5bd:
 
     # avt "\"Senpai? You found it yet?\" "
 
-    avt "\"Senpaj? Nie znalazłeś ich jeszcze?\" "
+    avt "\"Senpaj? Znalazłeś ja w końcu?\" "
 
 
 
@@ -4696,7 +4696,7 @@ translate polish start_72e36106:
 
     voice voice_file.lpdcat(1,48)
 
-    lpdcat "\"Nie- Nie mogę znaleźć.\" "
+    lpdcat "\"Nie— Nie mogę znaleźć.\" "
 
 
 
@@ -4708,7 +4708,7 @@ translate polish start_0b00bfd1:
 
     # avt "\"How could you not find it? There's only one closet in my room...\" "with hshake
 
-    avt "\"Jak mogłeś nic nie znaleźć? W moim pokoju jest tylko jedna szafa...\" " with hshake
+    avt "\"Jak mogłeś ich nie znaleźć? W moim pokoju jest tylko jedna szafa...\" " with hshake
 
 
 
@@ -4736,7 +4736,7 @@ translate polish start_51a91eab:
 
     # b "There's no way he can't find it. He's absolutely messing with me. "
 
-    b "Niemożliwe że ich nie znalazł. Po prostu się ze mnie nabija. "
+    b "Niemożliwe, że ich nie znalazł. Po prostu się ze mnie nabija. "
 
 
 
@@ -4748,7 +4748,7 @@ translate polish start_361ccc51:
 
     # avt "\"Senpai, stop teasing me please... I just need you to bring me some clothes...\" "
 
-    avt "\"Senpaj, przestań mnie drażnić... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
+    avt "\"Senpaj, przestań mnie drażnić, proszę... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
 
 
 
@@ -4764,7 +4764,7 @@ translate polish start_ea624081:
 
     voice voice_file.lpdcat(1,50)
 
-    lpdcat "\"Ale kiedy ja naprawdę nie mogę nic znaleźć Liao. {i}Może{/i} \ jeśli zgodzisz się żebym został, będę miał więcej czasu by dokładnie się rozejrzeć.\" "
+    lpdcat "\"Ale kiedy ja naprawdę nie mogę nic znaleźć Liao. {i}Może{/i},\ jeśli zgodzisz się, żebym został, będę miał więcej czasu, by dokładnie się rozejrzeć.\" "
 
 
 
@@ -4776,7 +4776,7 @@ translate polish start_0f8b09ec:
 
     # avt "\"Damn it, I know you're doing this on purpose Senpai!\" "
 
-    avt "\"Cholera. Wiedziałem, że robisz to celowo Senpaj!\" "
+    avt "\"Cholera. Wiedziałem, że robisz to celowo, Senpaj!\" "
 
 
 
@@ -4792,7 +4792,7 @@ translate polish start_971b57c4:
 
     voice voice_file.lpdcat(1,51)
 
-    lpdcat "\"Co? Niee- Mówiłem tylko, że skoro i tak czekasz, to czemu nie pomyślisz o...\" "
+    lpdcat "\"Co? Niee— Mówiłem tylko, że skoro i tak czekasz, to czemu nie pomyślisz o—\" "
 
 
 
@@ -4820,7 +4820,7 @@ translate polish start_dced7cc0:
 
     # b "Huh? What's going on? "
 
-    b "Hę? Co się dzieje? "
+    b "Co? Co się dzieje? "
 
 
 
@@ -4832,7 +4832,7 @@ translate polish start_cb379000:
 
     # b "I stand around confused as the bathroom door opens suddenly, revealing Leopard holding a pair of my shorts. "
 
-    b "Stoję zdezorientowany, gdy nagle drzwi łazienki otwierają się- ukazując Panterę trzymającego parę moich shortów. "
+    b "Stoję zdezorientowany, gdy nagle drzwi łazienki otwierają się, ukazując Lamparta trzymającego parę moich bokserek. "
 
 
 
@@ -4844,7 +4844,7 @@ translate polish start_62cf63c3:
 
     # b "What? I thought the door was locked! I hide behind it quickly, carefully taking the shorts from Leopard without exposing any of my bare skin to the three big cats in the other room." with hshake
 
-    b "Co? Myślałem, że drzwi są zamknięte! Szybko chowam się za nimi i ostrożnie odbieram spodnie od Pantery. Próbuję przy tym nie odsłonić nawet kawałka gołej skóry trzem dużym kotom w pokoju obok. " with hshake
+    b "Co? Myślałem, że drzwi są zamknięte! Szybko chowam się za nimi i ostrożnie odbieram bokserki od Pantery. Próbuję przy tym nie odsłonić nawet kawałka gołej skóry trzem dużym kotom w pokoju obok. " with hshake
 
 
 
@@ -4868,7 +4868,7 @@ translate polish start_fad2f013:
 
     # b "After handing me my shorts, he leaves. I shut the door firmly behind him and slump against it, my heart pounding as I slide to the floor. "
 
-    b "Po przekazaniu mi spodni, wychodzi bez słowa. Szybko zamykam za nim drzwi i opieram się o nie. Moje serce łomocze, a ja zawstydzony osuwam się na podłogę. "
+    b "Po przekazaniu mi bokserek wychodzi bez słowa. Szybko zamykam za nim drzwi i opieram się o nie. Moje serce łomocze, a ja zawstydzony osuwam się na podłogę. "
 
 
 
@@ -4884,11 +4884,11 @@ translate polish start_4fe2e827:
 
     # b "...Seeing me didn't even faze him in the slightest. "
 
-    b "Czy on właśnie zobaczył moje nagie ciało? Kto do cholery otwiera na oścież drzwi do łazienki, by podać komuś ciuchy! "
+    b "Czy on właśnie zobaczył moje nagie ciało? Kto do cholery otwiera na oścież drzwi do łazienki, by podać komuś ciuchy?! "
 
     b "Całe to \"przynieś mi ubrania\" traci w tym wypadku sens, prawda? "
 
-    b "...no i wcale nie zmieszał go mój widok. "
+    b "...No i wcale nie zmieszał go mój widok. "
 
 
 
@@ -4902,7 +4902,7 @@ translate polish start_15737a37:
 
     # b "Well even if he was a bit forward about it, at least he got me out of that situation... "
 
-    b "Czy to dlatego, że jest duchem i go to nie obchodzi? Możliwe... "
+    b "Czy to dlatego, że jest duchem i go to nie obchodzi? To dość pradopodobne... "
 
     b "Przynajmniej wyciągnął mnie z opresji, mimo że postąpił trochę lekkomyślnie... "
 
@@ -4916,7 +4916,7 @@ translate polish start_3f273f59:
 
     # b "I look at my shorts haplessly. No shirt, but that will have to do. It's better than going out naked... I guess? "
 
-    b "Spoglądam zawiedziony na spodenki. Nie mam koszulki, ale muszą mi wystarczyć.\nTo lepsze, niż paradowanie nago... prawda? "
+    b "Spoglądam nieszczęśliwie na bokserki. Nie mam koszulki, ale muszą mi wystarczyć.\nTo lepsze, niż paradowanie nago... prawda? "
 
 
 
@@ -4928,7 +4928,7 @@ translate polish start_ff525a9f:
 
     # b "I put on the shorts and head out of the bathroom. "
 
-    b "Zakładam shorty i wychodzę z łazienki. "
+    b "Zakładam bokserki i wychodzę z łazienki. "
 
 
 
@@ -4956,7 +4956,7 @@ translate polish start_780c5074:
 
     # b "Ignoring Senpai, I take a shirt from the closet. I usually only wear shorts in here, but naturally I couldn't do so in front of them. "
 
-    b "Wyjmuję z szafy koszulkę, ignorując Senpaja. Zazwyczaj chodzę tu tylko w spodenkach, ale przy nich nawet nie ma takiej opcji. "
+    b "Wyjmuję z szafy koszulkę, ignorując Senpaja. Zazwyczaj chodzę tu tylko w bokserkach, ale przy nich nawet nie ma takiej opcji. "
 
 
 
@@ -4984,7 +4984,7 @@ translate polish start_f36a3ac3:
 
     # avt "\"Not really, I'm just tired.\" "
 
-    avt "\"Nie, po prostu jestem bardzo zmęczony.\" "
+    avt "\"Nie, po prostu jestem zmęczony.\" "
 
 
 
@@ -4996,7 +4996,7 @@ translate polish start_9a28601e:
 
     # avt "\"I was already exhausted when I came back, not to mention all the trouble you three gave me. I could really use some sleep now.\" "
 
-    avt "\"Już po powrocie byłem wykończony, nie wspominając o kłopotach jakich przysporzyła mi wasza trójka. Naprawdę, bardzo chcę się teraz położyć.\" "
+    avt "\"Już po powrocie byłem wykończony, nie wspominając o kłopotach, jakich przysporzyła mi wasza trójka. Naprawdę bardzo chcę się teraz położyć.\" "
 
 
 
@@ -5024,7 +5024,7 @@ translate polish start_ab58cb1a:
 
     # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? ...That's like an indirect kiss! "
 
-    b "Senpaj podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ...to jak pocałunek nie wprost! "
+    b "Senpaj podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę chce bym użył tej samej pary pałeczek? ...To niczym pośredni pocałunek! "
 
 
 
@@ -5036,7 +5036,7 @@ translate polish start_20cd605c:
 
     # avt "\"...I-I don't really care for it at the moment.\" "
 
-    avt "\"...n-naprawdę nie mam teraz ochoty.\" "
+    avt "\"...N-Naprawdę nie mam teraz ochoty.\" "
 
 
 
@@ -5052,7 +5052,7 @@ translate polish start_ba523aa4:
 
     voice voice_file.lpdcat(1,56)
 
-    lpdcat cry_2 "\"Ooooh- Ale kupiłem to dla ciebie~\" "
+    lpdcat cry_2 "\"Ooo- Ale kupiłem to dla ciebie~\" "
 
 
 
@@ -5096,7 +5096,7 @@ translate polish start_8270b80a:
 
     voice voice_file.lpdcat(1,57)
 
-    lpdcat cry_2 "\"Oooh... Łapię.\" "
+    lpdcat cry_2 "\"Ooo... Łapię.\" "
 
 
 
@@ -5142,9 +5142,9 @@ translate polish start_66488c8b:
 
     # avt "\"Before I awakened, you were just an ordinary guy. Now, all of a sudden, you're like this...\" "
 
-    avt "\"Yyy- Senpai... Tak naprawdę to wciąż nie wiem co się z tobą dzieje.\" "
+    avt "\"Eee— Senpaj... Tak naprawdę to wciąż nie wiem, co się z tobą dzieje.\" "
 
-    avt "\"Przed moim przebudzeniem, byłeś zwyczajnym gościem. Teraz nagle zmieniłeś się nie do poznania...\" "
+    avt "\"Przed moim przebudzeniem byłeś zwyczajnym gościem. Teraz nagle zmieniłeś się nie do poznania...\" "
 
 
 
@@ -5160,7 +5160,7 @@ translate polish start_c6a9b04b:
 
     voice voice_file.lpdcat(1,60)
 
-    lpdcat normal "\"Jak mówiłeś, to z powodu twoich mocy. Koniec końców, ja tylko opętałem Yan Shu-Chi.\" "
+    lpdcat normal "\"Tak jak mówiłeś, to z powodu twoich mocy. Koniec końców, ja tylko opętałem Yan Shu-Chi.\" "
 
 
 
@@ -5188,7 +5188,7 @@ translate polish start_4acd34bf:
 
     # avt "\"So you're not {i}actually{/i} \ Yan Shu-Chi Senpai?\" "
 
-    avt "\"A więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpai'em?\" "
+    avt "\"A więc tak {i}naprawdę{/i} \ nie jesteś Yan Shu-Chi Senpajem?\" "
 
 
 
@@ -5238,9 +5238,9 @@ translate polish start_b0ec67e6:
 
     voice voice_file.lpdcat(1,62)
 
-    lpdcat normal "\"Zwrócę mu jego ciało gdy odejdę.\" "
+    lpdcat normal "\"Zwrócę mu jego ciało, gdy odejdę.\" "
 
-    lpdcat normal "\"Nie martw się, postępowałem zgodnie z jego charakterem, a gdy już będzie po wszystkim zostaną mu tylko mgliste wspomnienia odnośnie tego, co się stało.\" "
+    lpdcat normal "\"Nie martw się, postępowałem zgodnie z jego charakterem, a gdy już będzie po wszystkim zostaną mu tylko mgliste wspomnienia tego, co się stało.\" "
 
 
 
@@ -5292,7 +5292,7 @@ translate polish start_e63f06e3:
 
     # avt "\"Well, I suppose I could let you use the bed... but are the other two really okay with it? I mean floating in the air doesn't seem very comfortable...\" "
 
-    avt "\"Myślę, że mógłbym pozwolić ci spać na łóżku... ale czy reszcie to nie przeszkadza?\nUnoszenie się w powietrzu chyba nie brzmi zbyt wygodnie...\" "
+    avt "\"Cóż, chyba mógłbym pozwolić ci spać na łóżku... ale czy reszcie to nie przeszkadza?\nUnoszenie się w powietrzu chyba nie brzmi zbyt wygodnie...\" "
 
 
 
@@ -5304,7 +5304,7 @@ translate polish start_9a717c47:
 
     # b "Even though I don't want them to stay, the warm host inside me can't simply leave his guests with nowhere to sleep. "
 
-    b "Nawet jeśli nie chcę by tu zostali, gościnność nie pozwoli mi zostawić gości bez miejsca do spania. "
+    b "Mimo że nie chcę, by tu zostali, gościnność nie pozwoli mi zostawić gości bez miejsca do spania. "
 
 
 
@@ -5320,7 +5320,7 @@ translate polish start_b962fb1f:
 
     lpd normal "\"......\" "
 
-    lpd normal "*wpatruje się w łóżko* "
+    lpd normal "*intensywnie wpatruje się w łóżko* "
 
 
 
@@ -5336,7 +5336,7 @@ translate polish start_db9b3888:
 
     voice voice_file.tig(1,47)
 
-    tig normal "\"To wykluczone. Zazwyczaj to ja śpię z Liao w łóżku i nie ma opcji, bym zrzekł się tego miejsca. Na korytarzu powinno być wystarczająco dużo miejsca dla takiego podrzędnego kociaka jak ty.\" "
+    tig normal "\"To wykluczone. Zazwyczaj to ja śpię z Liao w łóżku i nie ma opcji, bym odstąpił to miejsce. Na korytarzu powinno być wystarczająco dużo miejsca dla takiego zwyczajnego kociaka jak ty.\" "
 
 
 
@@ -5352,7 +5352,7 @@ translate polish start_56c75a53:
 
     voice voice_file.lpdcat(1,64)
 
-    lpdcat angry "\"Hej! Co masz na myśli przez {i}kociaka!{/i}\" "
+    lpdcat angry "\"Hej! Co masz na myśli przez {i}kociaka!?{/i}\" "
 
 
 
@@ -5400,7 +5400,7 @@ translate polish start_9a52c6b9:
 
     voice voice_file.lpdcat(1,66)
 
-    lpdcat cry_2 "\"Ooooch- Liao... Wstaw się za mną, prooooszę~\" "
+    lpdcat cry_2 "\"Ooo- Liao... Wstaw się za mną, prooooszę~\" "
 
 
 
@@ -5412,7 +5412,7 @@ translate polish start_3b23b615_2:
 
     # avt  "\"Uh...\" "
 
-    avt "\"Yyyh...\" "
+    avt "\"Eee...\" "
 
 
 
@@ -5424,7 +5424,7 @@ translate polish start_e2f11661:
 
     # b "Why would I have to stand up for him? Wait, didn't the tiger just say something odd? "
 
-    b "Dlaczego miałbym się za nim wstawiać?\nChwila, czy tygrys właśnie nie powiedział czegoś dziwnego? "
+    b "Dlaczego miałbym się za nim wstawiać?\nChwila, czy tygrys nie powiedział właśnie czegoś dziwnego? "
 
 
 
@@ -5540,7 +5540,7 @@ translate polish start_b962fb1f_1:
 
     lpd normal "\"......\" "
 
-    lpd normal "*wpatruje się w łóżko* "
+    lpd normal "*intensywnie wpatruje się w łóżko* "
 
 
 
@@ -5560,5 +5560,5 @@ translate polish strings:
 
     old "書齊學長"
 
-    new "Shu-Chi Senpai"
+    new "Shu-Chi Senpaj"
 
