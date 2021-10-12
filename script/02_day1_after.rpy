@@ -146,7 +146,7 @@ translate polish day1_after_01_tig_7233a355:
 
     # b "This room is in no way big enough for someone to claim part of it. That{i} \"territory\" {/i}is right next to the door, so you can't even get out without stepping on his sheets. "
 
-    b "Ten pokój jest zbyt mały, by ktoś przejmował jego część. Wspomniany{i} \"rewir\" {/i}jest tuż przy drzwiach, więc nie da się stąd wyjść bez stąpania po jego pościeli. "
+    b "Ten pokój jest zbyt mały, by ktoś przejmował jego część. Wspomniany{i} \"rewir\" {/i} \njest tuż przy drzwiach, więc nie da się stąd wyjść bez stąpania po jego pościeli. "
 
 
 
@@ -186,7 +186,7 @@ translate polish day1_after_01_tig_c9ef18c6:
 
     # b "No matter how you look at there's no space for me squeeze into his \"territory\" even if I wanted to. "
 
-    b "Jakby nie patrzeć, na jego \"rewirze\" nie ma ani odrobiny miejsca, w które mógłbym się wcisnąć, nawet gdybym bardzo chciał. "
+    b "Jakby nie patrzeć, na jego \"rewirze\" nie ma ani odrobiny miejsca, \nw które mógłbym się wcisnąć, nawet gdybym bardzo chciał. "
 
 
 
@@ -254,7 +254,7 @@ translate polish day1_after_01_tig_2b679be0:
 
     # b "Tiger is lying in the bed as well. My bed's pretty small for two as it is, and with his size he ends up taking up most of it. " with hshake
 
-    b "Tygrys leży tuż koło mnie. Już dla dwóch osób moje łóżko byłoby dość małe, a on przy swoim rozmiarze zajmuje jego większą część. " with hshake
+    b "Tygrys leży tuż koło mnie. Już dla dwóch osób moje łóżko byłoby \ndość małe, a on przy swoim rozmiarze zajmuje jego większą część. " with hshake
 
 
 
@@ -266,7 +266,7 @@ translate polish day1_after_01_tig_f8ede7c1:
 
     # b "Is he really going to be sleeping with me every night? H-He's kinda big... I don't think I'll fall asleep that easily with him next to me. "
 
-    b "Czy naprawdę chce ze mną spać każdej nocy? J-Jest całkiem spory... Nie sądzę, że tak łatwo przy nim zasnę... "
+    b "Czy naprawdę chce ze mną spać każdej nocy? J-Jest całkiem \nspory... Nie sądzę, że tak łatwo przy nim zasnę... "
 
 
 
@@ -294,7 +294,7 @@ translate polish day1_after_01_tig_42cb276c:
 
     voice voice_file.tig(2,1)
 
-    tig normal "\"Tak. Teraz, gdy mnie widzisz, możesz mnie także poczuć. To dlatego zrobiło się tu trochę... ciasno.\" "
+    tig normal "\"Tak. Teraz, gdy mnie widzisz, możesz mnie także \npoczuć. To dlatego zrobiło się tu trochę... ciasno.\" "
 
 
 
@@ -322,7 +322,7 @@ translate polish day1_after_01_tig_3aa556d1:
 
     voice voice_file.tig(2,2)
 
-    tig normal "\"Połóż się tutaj. Nie martw się- nie pozwolę, byś spadł z łóżka.\" "
+    tig normal "\"Połóż się tutaj. Nie martw się. Nie pozwolę, byś spadł z łóżka.\" "
 
 
 
@@ -350,7 +350,7 @@ translate polish day1_after_01_tig_5beecaf1:
 
     # b "I don't think I have any other options though... "
 
-    b "Wygląda, że nie mam wyboru... "
+    b "Wygląda na to, że nie mam wyboru... "
 
 
 
@@ -366,7 +366,7 @@ translate polish day1_after_01_tig_c27300ed:
 
     voice voice_file.lpdcat(2,7)
 
-    lpdcat none "\"Liao, gulasz się zmarnuje jeśli go nie zjemy. Masz coś przeciwko, że go dokończę?\" "
+    lpdcat none "\"Liao, gulasz się zmarnuje, jeśli go nie zjemy. Masz coś przeciwko, jeśli go dokończę?\" "
 
 
 
@@ -392,7 +392,7 @@ translate polish day1_after_01_tig_81ee078a:
 
     # b "How can he eat in such a dark room... "
 
-    b "Odwracając głowę widzę Senpai'a, który siedzi na swoim posłaniu i je z papierowej miski. "
+    b "Odwracając głowę widzę Senpaja, który siedzi na swoim posłaniu i je z papierowej miski. "
 
     b "Jak on może jeść w takiej ciemności... "
 
@@ -422,7 +422,7 @@ translate polish day1_after_01_tig_1aafc3b8:
 
     voice voice_file.lpdcat(2,8)
 
-    lpdcat cute "\"Nie martw się; będę bardzo, bardzo uważny!\" "
+    lpdcat cute "\"Nie martw się, będę bardzo, bardzo uważny!\" "
 
 
 
@@ -434,7 +434,7 @@ translate polish day1_after_01_tig_f893d27a:
 
     # b "He answers while stuffing his mouth full of food. It's not my problem if he makes a mess, he's the one sleeping in it. "
 
-    b "Odpowiada, zapychając buzię jedzeniem. To nie mój problem- jeśli zrobi bajzel to sam będzie w nim spał. "
+    b "Odpowiada, zapychając buzię jedzeniem. To nie mój \nproblem, jeśli zrobi bajzel to sam będzie w nim spał. "
 
 
 
@@ -446,7 +446,7 @@ translate polish day1_after_01_tig_11a9d200:
 
     # b "I look back to the bed to see Tiger waiting for me. Taking a deep breath... {w=0.5}I slowly rest myself into Tiger's arms. "
 
-    b "Odwracam się ponownie i widzę czekającego na mnie Tygrysa. Biorąc głęboki oddech...\n{w=0.5}powoli rozkładam się w jego ramionach. "
+    b "Odwracam się ponownie i widzę czekającego na mnie Tygrysa. \nBiorąc głęboki oddech... {w=0.5}Powoli rozkładam się w jego ramionach. "
 
 
 
@@ -460,7 +460,7 @@ translate polish day1_after_01_tig_63c8b8f2:
 
     # b "I wrap myself tight in the blankets, keeping the warmth in. "
 
-    b "Przykrywa mnie kołdrą. Noc jest zimna, a pościel wciąż trochę chłodna- ale otoczony jego ciepłem wcale tego nie czuję. "
+    b "Przykrywa mnie kołdrą. Noc jest zimna, a pościel wciąż trochę \nchłodna, ale otoczony jego ciepłem wcale tego nie czuję. "
 
     b "Owijam się ciasno kocem, nie pozwalając ciepłu uciec. "
 
@@ -474,7 +474,7 @@ translate polish day1_after_01_tig_5b1a65a5:
 
     # b "Usually it takes time to warm up the sheets, yet with Tiger here with me they're already getting there. Still... I can't fall asleep! "
 
-    b "Zazwyczaj mija trochę czasu zanim pościel się nagrzeje, jednak z Tygrysem u boku jest już prawie taka jak trzeba. A jednak... wciąż nie mogę zasnąć! "
+    b "Zazwyczaj mija trochę czasu, zanim pościel się nagrzeje, jednak z Tygrysem u boku jest już prawie taka, jak trzeba. A jednak... wciąż nie mogę zasnąć! "
 
 
 
@@ -510,7 +510,7 @@ translate polish day1_after_01_tig_86c51199:
 
     # b "He seems so calm... {w=0.5}Agh— Why am I so nervous?! "
 
-    b "Wydaje się taki spokojny... {w=0.5}Arr- Czemu się tak denerwuję?! "
+    b "Wydaje się taki spokojny... {w=0.5}Arr— Czemu się tak denerwuję?! "
 
 
 
@@ -526,7 +526,7 @@ translate polish day1_after_01_tig_8fc0d0ea:
 
     b "Staram się kontrolować oddech, a całe moje ciało napina się. "
 
-    b "To się nie dzieje naprawdę- {i}na pewno{/i} \ biorę udział w jakiejś kiepskiej komedii romantycznej! "
+    b "To się nie dzieje naprawdę {i}na pewno{/i} biorę udział w jakiejś kiepskiej komedii romantycznej! "
 
 
 
@@ -538,7 +538,7 @@ translate polish day1_after_01_tig_2a75ce38:
 
     # b "Keep calm Liao! Get rid of your lewd fantasies! This guy is a guardian tiger... {w=0.5}a god! "
 
-    b "Uspokój się Liao! Pozbądź się swych sprośnych fantazji! Ten gość jest tygrysim strażnikiem... {w=0.5}Bogiem! "
+    b "Uspokój się Liao! Pozbądź się swych sprośnych fantazji! \nTen gość jest tygrysim strażnikiem... {w=0.5}Bogiem! "
 
 
 
@@ -574,7 +574,7 @@ translate polish day1_after_01_tig_c04cbdf7:
 
     b "Jego ciało jest takie ciepłe... Jakim cudem mogę je poczuć? Jakim cudem mogę {i}czuć{/i} boga? "
 
-    b "Gdybym nie to, pewnie zastanawiałbym się czy on naprawdę istnieje. Ale... "
+    b "Gdybym nie to, pewnie zastanawiałbym się, czy on naprawdę istnieje. Ale... "
 
 
 
@@ -610,7 +610,7 @@ translate polish day1_after_01_tig_c01b7570:
 
     # b "Even though I come from form a Jitong family, I never thought about actually meeting a real god. "
 
-    b "Co z tego, że jestem członkiem rodziny Jitong. Nigdy nie przypuszczałem, że mogę spotkać prawdziwego boga. "
+    b "Co z tego, że jestem członkiem rodziny Jitong. Nigdy nie \nprzypuszczałem, że mogę spotkać prawdziwego boga. "
 
 
 
@@ -640,7 +640,7 @@ translate polish day1_after_01_tig_0cb82592:
 
     # b "If I couldn't see it for myself, I wouldn't believe someone even if they told me. "
 
-    b "A teraz, ten bóg- olbrzymi człowiek-tygrys- leży przy mnie; a ściśle mówiąc, przytula mnie... "
+    b "A teraz, ten bóg, olbrzymi człowiek-tygrys- leży przy mnie, a ściśle mówiąc, przytula mnie... "
 
     b "Gdybym nie widział tego na własne oczy, nikomu bym w coś takiego nie uwierzył. "
 
@@ -656,9 +656,9 @@ translate polish day1_after_01_tig_48c94fdb:
 
     # b "...Why did he appear to me as an anthro tiger? Maybe his appearance is determined by my imagination? "
 
-    b "A poza tym, w porównaniu do tygrysiego strażnika śpiącego w moim łóżku, ten posążek jest niczym. "
+    b "A poza tym, w porównaniu do tygrysiego strażnika \nśpiącego w moim łóżku, ten posążek jest niczym. "
 
-    b "Czemu ukazał mi się pod postacią antropomorficznego tygrysa? A może jego wygląd zależy od mojej wyobraźni? "
+    b "Czemu ukazał mi się pod postacią antropomorficznego \ntygrysa? A może jego wygląd zależy od mojej wyobraźni? "
 
 
 
@@ -670,7 +670,7 @@ translate polish day1_after_01_tig_7ff79d63:
 
     # b "So perhaps it's totally based on my preference, he could be just a normal tiger to other worshippers... {w=0.5}Actually that's pretty cool. "
 
-    b "Idąc tym tropem, wiele wynikałoby z moich upodobań; dla innych wyznawców mógłby wyglądać jak zwykły tygrys... {w=0.5}Brzmi nieźle. "
+    b "Idąc tym tropem, wiele wynikałoby z moich upodobań, dla innych \nwyznawców mógłby wyglądać jak zwykły tygrys... {w=0.5}Brzmi nieźle. "
 
 
 
@@ -682,7 +682,7 @@ translate polish day1_after_01_tig_a9e37f00:
 
     # b "Well, it's still a weird coincidence to have three beast-man deities appear in my home... Considering my {i}unique tastes{/i} \ as Tiger puts it. "
 
-    b "To jednak wciąż dziwny zbieg okoliczności, że aż trzy zwierzęce bóstwa pojawiły się w moim domu...\nbiorąc pod uwagę mój {i}specyficzny gust{/i} \ jak to określił Tygrys. "
+    b "To jednak wciąż dziwny zbieg okoliczności, że aż trzy zwierzęce bóstwa pojawiły się w moim domu... biorąc pod uwagę mój {i}specyficzny gust{/i} jak to określił Tygrys. "
 
 
 
@@ -694,7 +694,7 @@ translate polish day1_after_01_tig_7e2626a2:
 
     # b "I look around my room, Senpai is sleeping quietly on the floor. Leopard's laying across my desk... right on top of my keyboard. "
 
-    b "Rozglądam się po pokoju. Senpai cicho śpi na podłodze, a Pantera rozłożył się na biurku... bezpośrednio na klawiaturze. "
+    b "Rozglądam się po pokoju. Senpai cicho śpi na podłodze, \na Lampart rozłożył się na biurku... bezpośrednio na klawiaturze. "
 
 
 
@@ -726,7 +726,7 @@ translate polish day1_after_01_tig_b56a0a03:
 
     b "Nadal nie mogę zasnąć. "
 
-    b "A niektórzy mówią, że to takie łatwe, gdy się jest zmęczonym... {w=0.5}Wszystko, co dzisiaj się wydarzyło nie pozwala mi zmrużyć oka. "
+    b "A niektórzy mówią, że to takie łatwe, gdy się jest zmęczonym... \n{w=0.5}Wszystko, co dzisiaj się wydarzyło nie pozwala mi zmrużyć oka. "
 
 
 
@@ -740,9 +740,9 @@ translate polish day1_after_01_tig_59490943:
 
     # b "I start to wonder how to escape from his embrace just as he gently touches my nose. "
 
-    b "Nagle Tygrys zakrywa ręką moją całą klatkę piersiową- sprawiając, że czuję się trochę spięty. "
+    b "Nagle Tygrys zakrywa ręką moją całą klatkę piersiową, sprawiając, że czuję się trochę spięty. "
 
-    b "Zaczynam kombinować, jak by tu uwolnić się spod jego uścisku, gdy znienacka delikatnie mizia mnie po nosie. "
+    b "Zaczynam kombinować, jak by tu uwolnić się spod jego \nuścisku, gdy znienacka delikatnie mizia mnie po nosie. "
 
 
 
@@ -754,7 +754,7 @@ translate polish day1_after_01_tig_e79f23d5:
 
     # avt "\"...You still awake?\" "
 
-    avt "\"...wciąż nie śpisz?\" "
+    avt "\"...Wciąż nie śpisz?\" "
 
 
 
@@ -770,7 +770,7 @@ translate polish day1_after_01_tig_55daf759:
 
     voice voice_file.tig(2,3)
 
-    tig normal "\"Tak. Właściwie, to bogowie wcale nie muszą spać.\" "
+    tig normal "\"Tak. Właściwie to bogowie wcale nie muszą spać.\" "
 
 
 
@@ -804,7 +804,7 @@ translate polish day1_after_01_tig_7481c296:
 
     voice voice_file.tig(2,4)
 
-    tig normal "\"Kociak chce go dlatego, że posiada fizyczne ciało. Nie mam pomysłu co do tego aborygena.\" "
+    tig normal "\"Kociak chce go, dlatego że posiada fizyczne ciało. Nie mam pojęcia co do tego aborygena.\" "
 
     tig normal "\"Jeżeli o mnie chodzi... Przyzwyczaiłem się do tego...\" "
 
@@ -864,7 +864,7 @@ translate polish day1_after_01_tig_b655dbd9:
 
     voice voice_file.tig(2,6)
 
-    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą- a więc moim obowiązkiem jest cię chronić,\ntak jakbyś był małym dzieckiem.\" "
+    tig laugh_2 "\"Cokolwiek sądzisz, jesteś moim wyznawcą, a więc moim \nobowiązkiem jest cię chronić tak, jakbyś był małym dzieckiem.\" "
 
 
 
@@ -880,7 +880,7 @@ translate polish day1_after_01_tig_7f7ef53d:
 
     voice voice_file.tig(2,7)
 
-    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem taki stary. Zwał jak zwał, jesteś moim kolegą albo dziecięcą sympatią.\" "
+    tig laugh_2 "\"Dorastałeś przy mnie przez te wszystkie lata, ale bądź co bądź nie jestem aż \ntaki stary. Zwał jak zwał, jesteś moim kolegą albo dziecięcą sympatią.\" "
 
 
 
@@ -910,9 +910,9 @@ translate polish day1_after_01_tig_f0cb9830:
 
     voice voice_file.tig(2,8)
 
-    tig normal "\"Istotnie, w końcu jestem tylko {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenling'iem{/font}, wiesz?\" "
+    tig normal "\"Istotnie, w końcu jestem tylko {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Fenlingiem{/font}, wiesz?\" "
 
-    tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym jak przywiodłeś mnie do Tajpej. Nie mam wspomnień z mej pierwotnej formy.\" "
+    tig normal "\"Dokładnie rzecz biorąc, narodziłem się po tym jak przywiozłeś \nmnie do Tajpej. Nie mam wspomnień z mej pierwotnej formy.\" "
 
 
 
@@ -940,7 +940,7 @@ translate polish day1_after_01_tig_82633901:
 
     voice voice_file.tig(2,9)
 
-    tig lift "\"A mimo to pamiętam wszystko co jest związane z twoim dzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko, gdy...\" "
+    tig lift "\"A mimo to pamiętam wszystko, co jest związane z twoim \ndzieciństwem. Na przykład, ostatni raz zmoczyłeś łóżko, gdy...\" "
 
 
 
@@ -970,7 +970,7 @@ translate polish day1_after_01_tig_69d9fd03:
 
     voice voice_file.tig(2,10)
 
-    tig normal "\"Dobrze, już dobrze- Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
+    tig normal "\"Dobrze, już dobrze— Krótko mówiąc, wiem wszystko o tobie i twojej rodzinie.\" "
 
     tig normal "\"Więc jak sądzisz? Kwalifikuję się do bycia twoją dziecięcą sympatią?\" "
 
@@ -1040,7 +1040,7 @@ translate polish day1_after_01_tig_e18a4da3:
 
     voice voice_file.tig(2,12)
 
-    tig normal "\"Naprawdę? Nie miałem pojęcia o implikacjach. Jeśli jednak nasza relacja jest tak bliska, to na pewno z łatwością pokonam tę dwójkę- a już na pewno kociaka.\" "
+    tig normal "\"Naprawdę? Nie miałem pojęcia o implikacjach. Jeśli jednak nasza relacja jest \ntak bliska, to na pewno z łatwością pokonam tę dwójkę, a już na pewno kociaka.\" "
 
 
 
@@ -1052,7 +1052,7 @@ translate polish day1_after_01_tig_5b256b5e:
 
     # b "Eh— What is he talking about? "
 
-    b "Ech- O czym on znowu mówi? "
+    b "Ech— O czym on znowu mówi? "
 
 
 
@@ -1082,7 +1082,7 @@ translate polish day1_after_01_tig_a9d3bf50:
 
     # b "But I don't want to think about that right now. "
 
-    b "Nie odpowiedziałem. Wiem, co przez to rozumie- i wiem też, że będę musiał tam wrócić, jeśli nie znajdę pracy po ukończeniu studiów. "
+    b "Nie odpowiedziałem. Wiem, co przez to rozumie i wiem też, że będę \nmusiał tam wrócić, jeśli nie znajdę pracy po ukończeniu studiów. "
 
     b "Ale nie chcę o tym teraz myśleć. "
 
@@ -1140,7 +1140,7 @@ translate polish day1_after_01_tig_63c3331e:
 
     # avt "\"Are you going to be angry at me?\" "
 
-    avt "\"...nie wiem.\" "
+    avt "\"...Nie wiem.\" "
 
     avt "\"Prawdę mówiąc... myślę, że w domu jest nudno.\" "
 
@@ -1164,7 +1164,7 @@ translate polish day1_after_01_tig_8fcce49d:
 
     tig "\"Dlaczego miałbym być zły?\" "
 
-    tig "\"Niemniej jednak, chciałbym abyś przynajmniej rozważył powrót. Nie jest tam aż tak znowu nudno-\na przynajmniej teraz, gdy możesz nas zobaczyć- już nie będzie,.\" "
+    tig "\"Niemniej jednak, chciałbym abyś przynajmniej rozważył powrót. Nie jest tam aż tak znowu nudno, a przynajmniej teraz nie będzie, gdy możesz nas zobaczyć.\" "
 
 
 
@@ -1204,7 +1204,7 @@ translate polish day1_after_01_tig_71b96aa5:
 
     # b "I never thought about it like that before. Living with a lot of furry guardian tigers... {w=0.5}sounds... {w=0.5}pretty good? "
 
-    b "Nigdy wcześniej nie myślałem o tym w ten sposób. Życie z mnóstwem futrzastych tygrysich strażników... {w=0.5}brzmi... {w=0.5}całkiem nieźle? "
+    b "Nigdy wcześniej nie myślałem o tym w ten sposób. Życie z mnóstwem \nfutrzastych tygrysich strażników... {w=0.5}brzmi... {w=0.5}całkiem nieźle? "
 
 
 
@@ -1216,7 +1216,7 @@ translate polish day1_after_01_tig_2c3ff3f7:
 
     # avt "\"Ummm— but...\" "
 
-    avt "\"Ymmm- ale...\" "
+    avt "\"Ymmm— ale...\" "
 
 
 
@@ -1260,7 +1260,7 @@ translate polish day1_after_01_tig_366640ee:
 
     voice voice_file.tig(2,18)
 
-    tig laugh_1 "\"Wiem, że dobry z ciebie chłopiec. Nie martw się- należycie się tobą zaopiekuję, gdy wrócisz do domu.\" "
+    tig laugh_1 "\"Wiem, że dobry z ciebie chłopiec. Nie martw się, \nnależycie się tobą zaopiekujemy, gdy wrócisz do domu.\" "
 
 
 
@@ -1278,7 +1278,7 @@ translate polish day1_after_01_tig_a4d32cbd:
 
     voice voice_file.tig(2,19)
 
-    tig laugh_1 "\"Jak zapewne wiesz, trzech tygrysich strażników opiekuje się twoją rodziną- choć tak naprawdę jest ich więcej.\" "
+    tig laugh_1 "\"Jak zapewne wiesz, trzech tygrysich strażników opiekuje \nsię twoją rodziną, choć tak naprawdę jest ich więcej.\" "
 
     tig laugh_1 "\"Ta trójka jest dobrze znana, ponieważ na ogół biorą udział w obrzędach {font=tl/polish/NotoSans-SemiCondensedBold.ttf}Kaidao{/font}.\" "
 
@@ -1300,9 +1300,9 @@ translate polish day1_after_01_tig_4a6abaec:
 
     voice voice_file.tig(2,20)
 
-    tig laugh_1 "\"Doprawdy, jest nas bardzo, bardzo wielu; a to dlatego, że każdy posąg skrywa w sobie jakiegoś ducha.\" "
+    tig laugh_1 "\"Doprawdy, jest nas bardzo, bardzo wielu, a to dlatego, \nże każdy posąg skrywa w sobie jakiegoś ducha.\" "
 
-    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek jest możliwe, że będziesz mógł zobaczyć jedynie tygrysich strażników.\" "
+    tig laugh_1 "\"W świątyni są także inni bogowie. Aczkolwiek jest możliwe, \nże będziesz mógł zobaczyć jedynie tygrysich strażników.\" "
 
     tig laugh_1 "\"Z pewnością będziesz zdumiony ich majestatem...\" "
 
@@ -1334,7 +1334,7 @@ translate polish day1_after_01_tig_4c18bf91:
 
     # b "Immersed in his low, warm voice, as I fall sleep. "
 
-    b "...ostatnie co pamiętam, to mocne objęcia mojego tygrysiego strażnika. "
+    b "...Ostatnie co pamiętam, to mocne objęcia mojego tygrysiego strażnika. "
 
     b "Wkrótce zasypiam, pogrążony w jego niskim, ciepłym głosie. "
 
