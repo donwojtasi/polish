@@ -1422,7 +1422,7 @@ translate polish s13_03_769c8ca5:
     # voice voice_file.tig(13,53)
     # tig laugh_1 "\"No, it's fine. I'm a god. It's my duty to protect my worshippers. They shouldn't be worrying about our feelings.\" "
     voice voice_file.tig(13,53)
-    tig laugh_1 "\"Nie, wszystko gra. Jestem bogiem. Moim obowiązkiem jest ochrona \nmoich\ wierzących. Nie powinni się martwić naszymi uczuciami.\" "
+    tig laugh_1 "\"Nie, wszystko gra. Jestem bogiem. Moim obowiązkiem jest ochrona \nmoich\ wyznawców. Nie powinni się martwić naszymi uczuciami.\" "
 
 # game/script/13.rpy:627
 translate polish s13_03_71871104:
