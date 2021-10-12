@@ -2304,7 +2304,7 @@ translate polish day1_after_01_lpd_307d5782:
 
     # avt "\"Sent spirits home? You mean you went to Pingtung and came back?\" "
 
-    avt "\"Wysłałeś je do domu? Mówisz, że udałeś się do Pingtung i z powrotem?\" "
+    avt "\"Wysłałeś je do domu? Mówisz, że udałeś się do Pingdong i z powrotem?\" "
 
 
 
@@ -2560,7 +2560,7 @@ translate polish day1_after_01_lpd_3ced4ef8:
 
     avt "\"To nie znaczy, że nie chcę ci pomóc. Ale taka pomoc, nawet z \nduchowymi ścieżkami, to wielkie poświęcenie.\" "
 
-    avt "\"Mam swoje własne życie i nie chcę go spędzić w górach Pingtunga.\" "
+    avt "\"Mam swoje własne życie i nie chcę go spędzić w górach Pingdonga.\" "
 
 
 

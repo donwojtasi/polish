@@ -1760,7 +1760,7 @@ translate polish start_479cb204:
 
     b "Wutai... Chwila, to miejsce pojawiło się, gdy szukaliśmy informacji na potrzeby \nwystępu.Jeśli dobrze pamiętam to ludność Rukai rzeczywiście mieszka w Wutai. "
 
-    b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to \njednak\ faktu, że Pingtung leży po przeciwnej stronie Tajwanu! "
+    b "Czyli to co mówi jak na razie trzyma się kupy... Nie zmienia to \njednak\ faktu, że Pingdong leży po przeciwnej stronie Tajwanu! "
 
 
 
@@ -3240,7 +3240,7 @@ translate polish start_b202f726:
 
     # avt "\"Hey, Pingtung is still a lot further away...\" "
 
-    avt "\"Hej, mimo wszystko Pingtung jest o wiele dalej...\" "
+    avt "\"Hej, mimo wszystko Pingdong jest o wiele dalej...\" "
 
 
 
@@ -3324,7 +3324,7 @@ translate polish start_a9174bf8:
 
     # avt "\"I don't want to go to Miaoli or Pingtung, or back home.\" "
 
-    avt "\"Nie chcę iść ani do Miaoli, ani do Pingtung, ani nawet wracać do domu.\" "
+    avt "\"Nie chcę iść ani do Miaoli, ani do Pingdong, ani nawet wracać do domu.\" "
 
 
 
@@ -4484,7 +4484,7 @@ translate polish start_821a0b5a:
 
     b "Nie wspominając o tym, który chce mnie zabrać do Wutai. "
 
-    b "Oczywiście, nie jest to aż tak nudne jak bycie kapłanem świątynnym, \nale myśl o samotnym życiu w jakimś plemieniu w wiejskim Pingtung... "
+    b "Oczywiście, nie jest to aż tak nudne jak bycie kapłanem świątynnym, \nale myśl o samotnym życiu w jakimś plemieniu w wiejskim Pingdong... "
 
 
 
