@@ -22,7 +22,7 @@ translate polish day2_01_tig_e823d87d:
 
     # b "Soooo heavy... Something is definitely pinning me down, suffocating me with its entire mass. I uselessly try to struggle against it. "
 
-    b "Taaaak ciężkie... Coś mnie przygniata, dusząc całą swą masą. \nBezskutecznie staram się od tego uwolnić. "
+    b "Taaaak ciężkie... Coś mnie przygniata, dusząc całą \nswą masą. Bezskutecznie staram się od tego uwolnić. "
 
 
 
@@ -40,7 +40,7 @@ translate polish day2_01_tig_43214818:
 
     b "Nie mogę ruszyć ani ręką, ani nogą. A co dopiero się obrócić. "
 
-    b "Chłodny podmuch uderza w moją twarz, ale na niewiele \nsię to zdaje wobec wszechobecnego gorąca. "
+    b "Chłodny podmuch uderza w moją twarz, ale na \nniewiele się to zdaje wobec wszechobecnego gorąca. "
 
     b "Co się dzieje? Biorę głęboki oddech i otwieram oczy. "
 
@@ -214,7 +214,7 @@ translate polish day2_01_tig_d9767d80:
 
     # b "\"My chest finally free of Tiger's weight, I cough while trying to regain my breath. Suddenly, Tiger pulls me into his chest and pats me on the back.\" " with hshake
 
-    b "Kaszlę próbując odzyskać oddech po uwolnieniu spod ciężaru \nTygrysa. Nagle Tygrys przyciąga mnie do swojej piersi i klepie po plecach. " with hshake
+    b "Kaszlę próbując odzyskać oddech po uwolnieniu spod ciężaru Tygrysa. \nNagle Tygrys przyciąga mnie do swojej piersi i klepie po plecach. " with hshake
 
 
 
@@ -226,7 +226,7 @@ translate polish day2_01_tig_1f9ede78:
 
     # b "\"I feel like such a kid, but I can't help but like the way he strokes the back of my neck with his fluffy paw.\" "
 
-    b "\"Czuję się jak dziecko, ale mimo to podoba mi się sposób, \nw jaki stuka mnie po szyi swoją miękką łapą.\" "
+    b "\"Czuję się jak dziecko, ale mimo to podoba mi się \nsposób, w jaki stuka mnie po szyi swoją miękką łapą.\" "
 
 
 
@@ -264,7 +264,7 @@ translate polish day2_01_tig_b553a230:
 
     # b "It's almost enough to forget the way he almost crushed me last night. "
 
-    b "Ale czuć tu dokładnie silną klatkę piersiową, na której można \nsię oprzeć, gdy jego futro ogrzewa mnie w ten rześki, wiosenny poranek. "
+    b "Ale czuć tu dokładnie silną klatkę piersiową, na której można się oprzeć, \ngdy jego futro ogrzewa mnie w ten rześki, wiosenny poranek. "
 
     b "Już prawie zapomniałem, że tej nocy niemal mnie zgniótł. "
 
@@ -318,7 +318,7 @@ translate polish day2_01_tig_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpaj sadowi się na swoim posłaniu, patrząc na nas \nsennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpaj sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -358,7 +358,7 @@ translate polish day2_01_tig_f7f49483:
 
     # b "It's ten o'clock, wow... {w=0.5}I can't believe I woke up this late. I must have been exhausted last night. "
 
-    b "Już dziesiąta rano, wow... {w=0.5}Nie mogę uwierzyć, że wstałem \ntak późno. Musiałem być wczoraj wykończony. "
+    b "Już dziesiąta rano, wow... {w=0.5}Nie mogę uwierzyć, że \nwstałem tak późno. Musiałem być wczoraj wykończony. "
 
 
 
@@ -1626,7 +1626,7 @@ translate polish day2_02_61d8e4e2:
 
     # avt "\"...Could you stop, please? I-It makes me uncomfortable.\" "
 
-    avt "\"...A mógłbyś proszę przestać? Cz-czuję się przez to trochę niezręcznie.\" "
+    avt "\"...A mogbyście proszę przestać? Cz-Czuję się przez to trochę niezręcznie.\" "
 
 
 
@@ -1696,7 +1696,7 @@ translate polish day2_02_222f0848:
 
     # b "Granted, am I really in a position to discuss my privacy with gods... "
 
-    b "To nie znaczy, że nie przeszkadza mi fakt, że robił to wcześniej! \nCzy oni wiedzą o moim prawie do prywatności? "
+    b "To nie znaczy, że nie przeszkadza mi fakt, że robił to \nwcześniej! Czy oni wiedzą o moim prawie do prywatności? "
 
     b "Znaczy się, czy ja w ogóle mogę dyskutować o tym z bogami... "
 
@@ -1742,7 +1742,7 @@ translate polish day2_02_84a4197e:
 
     voice voice_file.tig(3,22)
 
-    tig lift "\"Czy to dlatego, że nie chcesz, by inni wiedzieli, co robisz? Czy może, dlatego że nie czujesz się komfortowo, gdy ktoś cię obserwuje?\" "
+    tig lift "\"Czy to dlatego, że nie chcesz, by inni wiedzieli, co robisz? Czy może, \ndlatego że nie czujesz się komfortowo, gdy ktoś cię obserwuje?\" "
 
 
 
@@ -1812,7 +1812,7 @@ translate polish day2_02_2959637f:
 
     # b "With nothing else to do, I spend my time on the internet until twelve. "
 
-    b "Dobrze, teraz mam spokój. To znaczy— Wciąż są {i}pewne{/i} rzeczy, których \nnie mogę otworzyć będąc z nimi w jednym pokoju, ale jakoś to przeżyję. "
+    b "Dobrze, teraz mam spokój. To znaczy— Wciąż są {i}pewne{/i} \ rzeczy, których \nnie mogę otworzyć będąc z nimi w jednym pokoju, ale jakoś to przeżyję. "
 
     b "Nie mając nic lepszego do roboty, spędzam czas korzystając z internetu do dwunastej. "
 
@@ -1910,7 +1910,7 @@ translate polish day2_02_7ea62281:
 
     # b "He doesn't really care does he... People say the further you get in college the less you care about it. Surely the code of honor my senpai lives by. "
 
-    b "Nic sobie z tego nie robi... Ludzie mówią, że im dłużej jesteś na studiach, \ntym mniej cię one obchodzą. Zdaję się, że mój senpaj żyje zgodnie z tą zasadą. "
+    b "Nic sobie z tego nie robi... Ludzie mówią, że im dłużej jesteś na studiach, tym \nmniej cię one obchodzą. Zdaję się, że mój senpaj żyje zgodnie z tą zasadą. "
 
 
 
@@ -2074,7 +2074,7 @@ translate polish day2_02_eb2afb96:
 
     voice voice_file.lpdcat(3,14)
 
-    lpdcat "\"Daj spokój, gdy para zaczyna mieszkać ze sobą, powinna \nprzynajmniej chodzić razem do szkoły~\" "
+    lpdcat "\"Daj spokój, gdy para zaczyna mieszkać ze sobą, \npowinna przynajmniej chodzić razem do szkoły~\" "
 
 
 
@@ -2114,7 +2114,7 @@ translate polish day2_02_43a336f0:
 
     voice voice_file.lpdcat(3,15)
 
-    lpdcat cute "\"Oj tam, wyluzuj. Przecież nie mogę zamknąć się na cały dzień w twoim pokoju. \nNo i nie mam do niego klucza. To czemu by nie pójść razem do szkoły?\" "
+    lpdcat cute "\"Oj tam, wyluzuj. Przecież nie mogę zamknąć się na cały dzień w twoim pokoju. \nNo i nie mam do niego klucza. To, czemu by nie pójść razem do szkoły?\" "
 
 
 
@@ -2150,7 +2150,7 @@ translate polish day2_02_0c8feffa:
 
     # avt "\"Senpai, I think it's better for you to go home. You don't even have any clothes or anything with you, right?\" "
 
-    avt "\"Senpaj, lepiej będzie, jeśli wrócisz do domu. Nie masz ze sobą \nżadnych rzeczy, ani ubrań na zmianę, prawda?\" "
+    avt "\"Senpaj, lepiej będzie, jeśli wrócisz do domu. Nie masz \nze sobą żadnych rzeczy, ani ubrań na zmianę, prawda?\" "
 
 
 
@@ -2194,7 +2194,7 @@ translate polish day2_02_8fcd7926:
 
     voice voice_file.lpdcat(3,17)
 
-    lpdcat cute "\"Tak jak mówiłem wczoraj, nie zamierzam z nimi przegrać. \nZostanę z tobą, choćby nie wiem co!\" "
+    lpdcat cute "\"Tak jak mówiłem wczoraj, nie zamierzam z nimi \nprzegrać. Zostanę z tobą, choćby nie wiem co!\" "
 
 
 
@@ -2370,7 +2370,7 @@ translate polish day2_02_43023c66:
 
     # b "Senpai sits back on the mattress, pulls up the quilt to cover his legs and starts to play with his phone. All right, now that's sorted... "
 
-    b "Senpaj siada z powrotem na materacu, okrywa nogi kołdrą i \nzaczyna bawić się telefonem. Dobrze, to jego mam na razie z głowy... "
+    b "Senpaj siada z powrotem na materacu, okrywa nogi kołdrą i zaczyna \nbawić się telefonem. Dobrze, to jego mam na razie z głowy... "
 
 
 
@@ -2382,7 +2382,7 @@ translate polish day2_02_5047e692:
 
     # b "I walk over and get back on my computer, messing about online until it's time to head off to class. "
 
-    b "Podchodzę i siadam ponownie przy komputerze, oglądając \ngłupoty w internecie aż do wyjścia na zajęcia. "
+    b "Podchodzę i siadam ponownie przy komputerze, \noglądając głupoty w internecie aż do wyjścia na zajęcia. "
 
 
 
@@ -2654,7 +2654,7 @@ translate polish day2_02_1f9441c5:
 
     # avt "\"Putting your reason aside, Tiger. Didn't you say that you can't be too far from the statue?\" "
 
-    avt "\"Pomijając twoje motywy, Tygrysie. Nie wspominałeś, że \nnie możesz za bardzo oddalać się od posążka?\" "
+    avt "\"Pomijając twoje motywy, Tygrysie. Nie wspominałeś, \nże nie możesz za bardzo oddalać się od posążka?\" "
 
 
 
@@ -2710,7 +2710,7 @@ translate polish day2_02_70893b15:
 
     # b "Really! My karma must be pretty crap if I can't even get some peace and quiet at \nschool! "
 
-    b "Serio! Moja karma musi być naprawdę do kitu, skoro nawet \nw szkole nie mogę zaznać odrobiny ciszy i spokoju! "
+    b "Serio! Moja karma musi być naprawdę do kitu, skoro \nnawet w szkole nie mogę zaznać odrobiny ciszy i spokoju! "
 
 
 
@@ -2722,7 +2722,7 @@ translate polish day2_02_2222d5cd:
 
     # b "I mean, it's not {i}that{/i} \ bad to be around three beast-men, but where's my freedom? Where's my right to privacy? "
 
-    b "Może i towarzystwo trzech zwierzoludzi nie jest {i}takie{/i} złe, \nale gdzie moja wolność? Gdzie moja prywatność? "
+    b "Może i towarzystwo trzech zwierzoludzi nie jest {i}takie{/i} \nzłe, ale gdzie moja wolność? Gdzie moja prywatność? "
 
 
 
@@ -2814,7 +2814,7 @@ translate polish day2_02_b53cfb78:
 
     voice voice_file.lpdcat(3,27)
 
-    lpdcat cute "\"Mogę chodzić z tobą do szkoły! Potem możemy razem rozmawiać! \nJeśli chcesz zrobię ci notatki z zajęć! Zrobię wszystko, co zechcesz, Liao!\" "
+    lpdcat cute "\"Mogę chodzić z tobą do szkoły! Potem możemy razem rozmawiać! Jeśli \nchcesz zrobię ci notatki z zajęć! Zrobię wszystko, co zechcesz, Liao!\" "
 
 
 
@@ -2870,7 +2870,7 @@ translate polish day2_02_27752648:
 
     avt "\"Coooo-\" "
 
-    avt "\"...Dobra, możesz iść, jeśli chcesz. I tak nie mam nic \nlepszego do roboty. Tylko bez śmieszkowania. Zrozumiano?\" "
+    avt "\"...Dobra, możesz iść, jeśli chcesz. I tak nie mam niczego \nlepszego do roboty. Tylko bez śmieszkowania. Zrozumiano?\" "
 
 
 
