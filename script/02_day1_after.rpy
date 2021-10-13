@@ -3384,7 +3384,7 @@ translate polish day1_after_01_lpdcat_dabcda37:
 
     # b "Senpai gets up, seals the bowl with a plastic bag and puts in inside the fridge... Yeah I feel dumb for not thinking of that. "
 
-    b "SenpaJ wstaje, owija miskę plastikową torbą i wkłada ją \ndo lodówki... Czuję się głupio, że o tym nie pomyślałem. "
+    b "Senpaj wstaje, owija miskę plastikową torbą i wkłada ją \ndo lodówki... Czuję się głupio, że o tym nie pomyślałem. "
 
 
 
@@ -3726,7 +3726,7 @@ translate polish day1_after_01_lpdcat_ddffe41f:
 
     voice voice_file.lpdcat(2,44)
 
-    lpdcat normal "\"Mmm? Co tam?\" "
+    lpdcat normal "\"Hmm? Co tam?\" "
 
 
 
