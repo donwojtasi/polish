@@ -544,9 +544,9 @@ translate polish day2_01_lpd_f47aca0a:
 
     b "Poranek jest dość chłodny. "
 
-    b "Zawsze, zanim otworzę oczy, próbuję rozgrzać swe ciało, owijając się kołdrą jak naleśnik i pchając się w kierunku ściany. "
+    b "Zawsze, zanim otworzę oczy, próbuję rozgrzać swe ciało, \nowijając się kołdrą jak naleśnik i pchając się w kierunku ściany. "
 
-    b "Tym razem coś tu nie gra. Zamiast ściany, wyczuwam coś miękkiego. Próbuję to odepchnąć, ale stawia opór, wracając na swoje miejsce. "
+    b "Tym razem coś tu nie gra. Zamiast ściany, wyczuwam coś miękkiego. \nPróbuję to odepchnąć, ale stawia opór, wracając na swoje miejsce. "
 
 
 
@@ -560,7 +560,7 @@ translate polish day2_01_lpd_430f85ee:
 
     # b "I give the quilt a few hard tugs and finally get it around me. Great, finally. "
 
-    b "Chłodny powiew wpada do pokoju. Próbuję powstrzymać go przed dostaniem się pod kołdrę, ale ta gdzieś utknęła. "
+    b "Chłodny powiew wpada do pokoju. Próbuję powstrzymać \ngo przed dostaniem się pod kołdrę, ale ta gdzieś utknęła. "
 
     b "Szarpię zawzięcie parę razy i wreszcie udaje mi się nią owinąć. No w końcu. "
 
@@ -634,7 +634,7 @@ translate polish day2_01_lpd_4cfe41bb:
 
     # b "I'm so surprised I throw myself backwards nearly falling off the bed as Leopard catches me again, saving me from my untimely fall. "
 
-    b "Jestem tak zaskoczony, że rzucam się do tyłu i nieomal spadam z łóżka. Ma szczęście Lampart znów mnie łapie, ratując przed niechybnym upadkiem. "
+    b "Jestem tak zaskoczony, że rzucam się do tyłu i nieomal spadam z łóżka. \nNa szczęście Lampart znów mnie łapie, ratując przed niechybnym upadkiem. "
 
 
 
@@ -658,7 +658,7 @@ translate polish day2_01_lpd_a3a0c9b8:
 
     # b "Half my body hangs off the bed while the other half is held in place by Leopards arms. It's a strange, uncomfortable position. "
 
-    b "Połowa mego ciała zwisa z łóżka, a resztę trzyma w swych ramionach Lampart. To dość dziwna i niezbyt wygodna pozycja. "
+    b "Połowa mego ciała zwisa z łóżka, a resztę trzyma w swych \nramionach Lampart. To dość dziwna i niezbyt wygodna pozycja. "
 
 
 
@@ -686,7 +686,7 @@ translate polish day2_01_lpd_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpaj sadowi się na swoim posłaniu, patrząc na nas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpaj sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -714,7 +714,7 @@ translate polish day2_01_lpd_da84b50c:
 
     # b "Senpai starts looking for his phone, while I break loose from the clouded leopard's \ngrasp. "
 
-    b "Senpaj szuka swojego telefonu, podczas gdy ja uwalniam się spod uścisku lamparta mglistego. "
+    b "Senpaj szuka swojego telefonu, podczas gdy ja \nuwalniam się spod uścisku lamparta mglistego. "
 
 
 
@@ -798,7 +798,7 @@ translate polish day2_01_lpd_7dea1925:
 
     # b "I go over and grab Senpai's quilt and throw it over his body for him. When I turn around I see Tiger staring at me. "
 
-    b "Podchodzę bliżej i okrywam go kołdrą. Gdy się odwracam, dostrzegam Tygrysa wpatrującego się we mnie. "
+    b "Podchodzę bliżej i okrywam go kołdrą. Gdy się odwracam, \ndostrzegam Tygrysa wpatrującego się we mnie. "
 
 
 
@@ -834,7 +834,7 @@ translate polish day2_01_lpd_aac3a1b9:
 
     # b "I should be nice and wish him a good morning, but with the way he's looking at me... I'm too embarrassed. Did I do something wrong? "
 
-    b "Powinienem być miły i życzyć mu dobrego dnia, ale sposób, w jaki się na mnie patrzy... Za bardzo się wstydzę. Czy zrobiłem coś nie tak? "
+    b "Powinienem być miły i życzyć mu dobrego dnia, ale sposób, w jaki \nsię na mnie patrzy... Za bardzo się wstydzę. Czy zrobiłem coś nie tak? "
 
 
 
@@ -892,7 +892,7 @@ translate polish day2_01_lpd_3c62f9b0:
 
     # avt "\"As for the other one... \" "
 
-    avt "\"Przecież... Nie mogę stąd wyrzucić Senpaja, kiedy śpi. Mimo że przysparza mi problemów nie wypada tak postępować.\" "
+    avt "\"Przecież... Nie mogę stąd wyrzucić Senpaja, kiedy śpi. Mimo \nże przysparza mi problemów nie wypada tak postępować.\" "
 
     avt "\"Co do mojego drugiego gościa...\" "
 
@@ -946,7 +946,7 @@ translate polish day2_01_lpd_900a9fe3:
 
     # avt "\"As you can see, I can't throw either of them out right now anyway. Might as well leave them be.\" "
 
-    avt "\"Jak widzisz, nie mogę ich już teraz tak po prostu stąd wyrzucić. Równie dobrze mogą tu zostać.\" "
+    avt "\"Jak widzisz, nie mogę ich już teraz tak po prostu \nstąd wyrzucić. Równie dobrze mogą tu zostać.\" "
 
 
 
@@ -962,7 +962,7 @@ translate polish day2_01_lpd_73eb28fa:
 
     voice voice_file.tig(3,9)
 
-    tig frown "\"Naprawdę nie masz poczucia pilości, Liao.\" "
+    tig frown "\"Naprawdę nie masz poczucia pilności, Liao.\" "
 
 
 
@@ -990,7 +990,7 @@ translate polish day2_01_lpd_600b7f1a:
 
     voice voice_file.tig(3,10)
 
-    tig normal "\"Wygląda na to, że wciąż muszę cię pilnować. Nie zdziwiłbym się, gdyby ten aborygen spróbował zrobić coś dziwnego.\" "
+    tig normal "\"Wygląda na to, że wciąż muszę cię pilnować. Nie zdziwiłbym \nsię, gdyby ten aborygen spróbował zrobić coś dziwnego.\" "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish day2_01_lpd_1c993e3c:
 
     # b "\"I take a look at my phone. It's just past ten. I mean, it's later than I would usually wake up but my Monday mornings are free anyway.\" "
 
-    b "\"Spoglądam na telefon. Jest już po dziesiątej. Wstałem później niż zwykle, na szczęście to nie problem, ponieważ w poniedziałki rano mam wolne.\" "
+    b "\"Spoglądam na telefon. Jest już po dziesiątej. Wstałem później niż zwykle, \nna szczęście to nie problem, ponieważ w poniedziałki rano mam wolne.\" "
 
 
 
