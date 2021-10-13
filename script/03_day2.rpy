@@ -1086,7 +1086,7 @@ translate polish day2_01_lpdcat_b047e199:
 
     # b "What the hell? I can see pieces of golden, tasty... salt & pepper chicken?"
 
-    b "Co do diabła? Widzę kawałki złocistego, smakowitego... kurczaka z solą i pieprzem? (Salt and pepper chicken) "
+    b "Co do diabła? Widzę kawałki złocistego, smakowitego... \nkurczaka z solą i pieprzem? (Salt and pepper chicken) "
 
 
 
@@ -1098,7 +1098,7 @@ translate polish day2_01_lpdcat_e430100c:
 
     # b "Those fried basils look so appetizing. Mmmm— five pieces of chicken? Man, I'm feeling hungry... "
 
-    b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm— pięć kawałków kurczaka? Rety, teraz to dopiero czuję się głodny... "
+    b "Kruche liście smażonej bazylii wyglądają tak apetycznie. Mmmm— \npięć kawałków kurczaka? Rety, teraz to dopiero czuję się głodny... "
 
 
 
@@ -1186,7 +1186,7 @@ translate polish day2_01_lpdcat_bb935663:
 
     # b "Senpai snatches the sheets from on top of me and goes back to sleep, leaving me trembling in the cold spring morning breeze. "with hshake
 
-    b "Senpaj ściąga ze mnie kołdrę i znowu zasypia, pozostawiając mnie drżącego w chłodzie wiosennej, porannej bryzy. " with hshake
+    b "Senpaj ściąga ze mnie kołdrę i znowu zasypia, \na ja ndrżę w chłodzie wiosennej, porannej bryzy. " with hshake
 
 
 
@@ -1238,7 +1238,7 @@ translate polish day2_01_lpdcat_f5c2bb8a:
 
     # b "I turn around and find Tiger staring at me. It reminds me of what happened last night. "
 
-    b "Odwracam się i dostrzegam Tygrysa wpatrującego się we mnie. Od razu przypominam sobie wydarzenia ubiegłej nocy. "
+    b "Odwracam się i dostrzegam Tygrysa wpatrującego się we mnie. \nOd razu przypominam sobie wydarzenia ubiegłej nocy. "
 
 
 
@@ -1250,7 +1250,7 @@ translate polish day2_01_lpdcat_602b2cf6:
 
     # b "He stands before me, sun shining down on him through the window... I can't keep staring much longer, or it'll look weird. "
 
-    b "Stoi prze mną, w blasku wpadającego przez okno słońca... Nie mogę tak się dłużej wpatrywać, bo dziwnie to będzie wyglądać. "
+    b "Stoi prze mną, w blasku wpadającego przez okno słońca... \nNie mogę tak się dłużej wpatrywać, bo dziwnie to będzie wyglądać. "
 
 
 
@@ -1292,7 +1292,7 @@ translate polish day2_01_lpdcat_2496d514:
 
     # b "I just decide to get out of bed. "
 
-    b "Dlaczego musi się mnie o to pytać? Nie mogę do końca powiedzieć, że dobrze mi się spało z Senpajem, a spojrzenie Tygrysa zdecydowanie nie pomaga. "
+    b "Dlaczego musi się mnie o to pytać? Nie mogę do końca powiedzieć, że dobrze \nmi się spało z Senpajem, a spojrzenie Tygrysa zdecydowanie nie pomaga. "
 
     b "Postanawiam, że wstanę już z łóżka. "
 
@@ -1386,7 +1386,7 @@ translate polish day2_01_lpdcat_d724a3f9:
 
     # b "I look these two... {w=0.5}cats, up and down while they're standing beside my desk. My little room is now getting pretty crowded I suppose. "
 
-    b "Wodzę wzrokiem z góry na dół po obydwu... {w=0.5}kotach, gdy tak stoją przy moim biurku. Myślę, że mój mały pokój staje się dość zatłoczony. "
+    b "Wodzę wzrokiem z góry na dół po obydwu... {w=0.5}kotach, gdy tak stoją \nprzy moim biurku. Myślę, że mój mały pokój staje się dość zatłoczony. "
 
 
 
@@ -1398,7 +1398,7 @@ translate polish day2_01_lpdcat_2e99f1f5:
 
     # b "Then there's Senpai curled up under my quilt, his fluffy little head poking out of the \nend. "
 
-    b "Do tego jest jeszcze zwinięty pod kołdrą Senpaj, tylko jego puszysta główka wystaje z samego końca. "
+    b "Do tego jest jeszcze zwinięty pod kołdrą Senpaj, \ntylko jego puszysta główka wystaje z samego końca. "
 
 
 
@@ -1426,7 +1426,7 @@ translate polish day2_01_lpdcat_baf3cbf4:
 
     voice voice_file.tig(3,15)
 
-    tig frown "\"Hmm— Nie taki znów dziwny jak na moje standardy, wkrótce się przyzwyczaisz. Choć istotną różnicą jest fakt, że dzisiaj nie ma dla mnie miejsca w twoim łóżku.\" "
+    tig frown "\"Hmm— Nie taki znów dziwny jak na moje standardy, wkrótce się przyzwyczaisz. \nChoć istotną różnicą jest fakt, że dzisiaj nie ma dla mnie miejsca w twoim łóżku.\" "
 
 
 
@@ -1438,7 +1438,7 @@ translate polish day2_01_lpdcat_968c7ece:
 
     # b "So Tiger really is bothered about that... There's not really much I can do since I already let Senpai use the bed. "
 
-    b "A więc Tygrys ciągle jest zły z tego powodu... Cóż, teraz już nic na to nie poradzę, skoro pozwoliłem Senpajowi korzystać z łóżka. "
+    b "A więc Tygrys ciągle jest zły z tego powodu... Cóż, teraz już nic \nna to nie poradzę, skoro pozwoliłem Senpajowi korzystać z łóżka. "
 
 
 
@@ -1478,7 +1478,7 @@ translate polish day2_01_lpdcat_ea9ef7c4:
 
     # b "Tiger points to my phone on the bedside table... It's already ten. I usually get up around nine. "
 
-    b "Tygrys wskazuje na mój telefon leżący na nocnym stoliku... Jest już dziesiąta. Zazwyczaj wstaję dobrą godzinę wcześniej. "
+    b "Tygrys wskazuje na mój telefon leżący na nocnym stoliku... \nJest już dziesiąta. Zazwyczaj wstaję dobrą godzinę wcześniej. "
 
 
 
