@@ -30,7 +30,7 @@ translate polish week1_01_b85d4f87:
 
     b "Cieszę się, że ubiegłej nocy nie robili już z tego powodu afery. "
 
-    b "Niestety nie mogę spać całego dnia. Już prawie czas, by wychodzić- tak więc szybko wstaję z łóżka i szykuję się do zajęć... "
+    b "Niestety nie mogę spać całego dnia. Już prawie czas, by wychodzić, więc szybko wstaję z łóżka i szykuję się do zajęć... "
 
 
 
@@ -46,7 +46,7 @@ translate polish week1_01_7109c66b:
 
     voice voice_file.tig(4,1)
 
-    tig normal "\"Zaczekaj Liao! Powinieneś porządniej się ubrać. Na zewnątrz jest dzisiaj chłodno.\" "
+    tig normal "\"Zaczekaj, Liao! Powinieneś porządniej się ubrać. Na zewnątrz jest dzisiaj chłodno.\" "
 
 
 
@@ -86,7 +86,7 @@ translate polish week1_01_f07976e9:
 
     # avt "\"Well... I'll be fine later on. Even Senpai's wearing even less than me.\" "
 
-    avt "\"No cóż... przecież później zrobi się cieplej. Senpai ubiera się jeszcze lżej ode mnie.\" "
+    avt "\"No cóż... przecież później zrobi się cieplej. Senpaj ubiera się jeszcze lżej ode mnie.\" "
 
 
 
@@ -118,7 +118,7 @@ translate polish week1_01_d3ef246c:
 
     voice voice_file.tig(4,3)
 
-    tig frown "\"Hah- A kogo obchodzi ten kociak. Nawet z mocą tygrysiego strażnika nie uchroni swego ciała przed przeziębieniem... Z tobą natomiast, sprawy mają się inaczej- tak długo, jak jesteś pod wpływem mojego błogosławieństwa. \" "
+    tig frown "\"Hah— A kogo obchodzi ten kociak. Nawet z mocą tygrysiego strażnika nie uchroni swego ciała przed przeziębieniem... Z tobą natomiast, sprawy mają się inaczej, dopóki jesteś pod wpływem mojego błogosławieństwa. \" "
 
 
 
@@ -146,7 +146,7 @@ translate polish week1_01_41bdf8f9:
 
     # avt "\"So... If you're with me, I'll be fine.\" "
 
-    avt "\"A więc... nic mi nie grozi, tak długo jak przy mnie jesteś?\" "
+    avt "\"A więc... Nic mi nie grozi, dopóki przy mnie jesteś?\" "
 
 
 
@@ -164,9 +164,9 @@ translate polish week1_01_d52e19ac:
 
     voice voice_file.tig(4,4)
 
-    tig normal "\"O ile mogę uchronić cię przed przeziębieniem, to moje błogosławieństwa na nic się zdadzą, jeżeli już zachorujesz.\" "
+    tig normal "\"O ile mogę uchronić cię przed przeziębieniem, to moje \nbłogosławieństwa na nic się zdadzą, jeżeli już zachorujesz.\" "
 
-    tig normal "\"Dobry z ciebie dzieciak Liao, ale trochę dodatkowych ubrań nie zaszkodzi.\" "
+    tig normal "\"Dobry z ciebie dzieciak, Liao, ale trochę dodatkowych ubrań nie zaszkodzi.\" "
 
 
 
@@ -190,7 +190,7 @@ translate polish week1_01_82b82f07:
 
     # b "I can't argue with him. So I end up putting a thick, fluffy coat on over the top of what I was going to wear. "
 
-    b "Nie ma sensu się z nim kłócić. Zakładam grubą, puszystą kamizelkę na ciuchy w których miałem dzisiaj chodzić. "
+    b "Nie ma sensu się z nim kłócić. Zakładam grubą, puszystą kamizelkę na ciuchy, w których miałem dzisiaj chodzić. "
 
 
 
@@ -204,7 +204,7 @@ translate polish week1_01_a2941021:
 
     # b "I can already tell I'll be hot after walking in it for a while... "
 
-    b "Wątpię, żeby mi się przydała- ale przynajmniej futerko grzeje mnie od środka. "
+    b "Wątpię, żeby mi się przydała, ale przynajmniej futerko grzeje mnie od środka. "
 
     b "Już teraz czuję, że jak w tym trochę pochodzę, to będzie mi za gorąco... "
 
@@ -242,7 +242,7 @@ translate polish week1_01_c35d05e6:
 
     # b "Once I make it to class, I sit down and things get started. At least Tiger and Leopard haven't got into any fights so far today. "
 
-    b "Zajęcia rozpoczynają się, gdy tylko docieram do klasy i siadam na swoim miejscu. Przynajmniej jak na razie, Tygrys i Pantera nie wdali się w żadne kłótnie. "
+    b "Zajęcia rozpoczynają się, gdy tylko docieram do klasy i siadam na swoim \nmiejscu. Przynajmniej jak na razie, Tygrys i Lampart nie wdali się w żadne kłótnie. "
 
 
 
@@ -270,7 +270,7 @@ translate polish week1_01_8be4e828:
 
     # b "Leopard sits next to me, focusing completely on the lecture. Compared to Senpai tapping away on his phone, he's an honour student. "
 
-    b "Pantera siedzi przy mnie, całkowicie pochłonięty wykładem. Jest wzorowym studentem w porównaniu do Senpai'a- który nic, tylko bawi się telefonem. "
+    b "Lampart siedzi przy mnie, całkowicie pochłonięty wykładem. Jest wzorowym studentem w porównaniu do Senpaja, który nic, tylko bawi się telefonem. "
 
 
 
@@ -282,7 +282,7 @@ translate polish week1_01_758ce164:
 
     # b "...But I doubt he would understand a word the teacher's saying. Why is he trying so \nhard? "
 
-    b "...choć wątpię, by rozumiał cokolwiek z tego, co mówi wykładowca. Dlaczego tak bardzo się stara? "
+    b "...Choć wątpię, by rozumiał cokolwiek z tego, co mówi wykładowca. Dlaczego tak bardzo się stara? "
 
 
 
@@ -322,7 +322,7 @@ translate polish week1_01_cb76f767:
 
     # b "Disregarding Senpai's protests to go to a restaurant, we head to the cafeteria during lunch. After all, I promised Tiger that I'd get him a hamburger last night. "
 
-    b "Ignorując protesty Senpai'a, który chce zjeść na mieście, idziemy do stołówki podczas przerwy na drugie śniadanie. Wczoraj wieczorem obiecałem przecież Tygrysowi, że wezmę dla niego hamburgera. "
+    b "Ignorując protesty Senpaja, który chce zjeść na mieście, idziemy do stołówki podczas przerwy na drugie śniadanie. Wczoraj wieczorem obiecałem przecież Tygrysowi, że wezmę dla niego hamburgera. "
 
 
 
