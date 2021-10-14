@@ -11220,7 +11220,7 @@ translate polish week1_sunday_lpdcat_home_781b668b:
 
     # b "...Ignoring Senpai's protests, I spend the whole Sunday, lazing around, sleeping, daydreaming, and surfing the net... "
 
-    b "...Ignorując komentarze Senpai'a, spędzam całą niedzielę leniuchując, śpiąc, marząc i przeglądając internet... "
+    b "...Ignorując komentarze Senpaja, spędzam całą niedzielę leniuchując, śpiąc, marząc i przeglądając internet... "
 
 
 
@@ -11248,7 +11248,7 @@ translate polish strings:
 
     old "和雲豹……不知去哪。"
 
-    new "Iść... gdzieś z Panem Panterą."
+    new "Iść... gdzieś z Panem Lampartem."
 
 
 
@@ -11256,7 +11256,7 @@ translate polish strings:
 
     old "和學長去逛街。"
 
-    new "Iść na zakupy z Senpai'em."
+    new "Iść na zakupy z Senpajem."
 
 
 
@@ -11264,7 +11264,7 @@ translate polish strings:
 
     old "要不要買動物帽給學長？"
 
-    new "Kupić kapelusz dla Shu-Chi Senpai'a?"
+    new "Kupić kapelusz dla Shu-Chi Senpaja?"
 
 
 
@@ -11288,7 +11288,7 @@ translate polish strings:
 
     old "陪雲豹出門"
 
-    new "Spędzić czas z Panterą."
+    new "Spędzić czas z Lampartem."
 
 
 
@@ -11296,7 +11296,7 @@ translate polish strings:
 
     old "陪石虎出門"
 
-    new "Spędzić czas z Senpai'em."
+    new "Spędzić czas z Senpajem."
 
 
 
