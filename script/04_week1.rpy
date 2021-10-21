@@ -378,7 +378,7 @@ translate polish week1_01_d311185b:
 
     # avt "\"I don't want anything romantic. What kind of person dines at fancy restaurants every day anyway.\" "
 
-    avt "\"Nie chcę nic romantycznego. Kto w ogóle stołuje się na co dzień w tych wymyślnych restauracjach.\" "
+    avt "\"Nie chcę nic romantycznego. Kto w ogóle stołuje się na co dzień w tych wymyślnych restauracjach?\" "
 
 
 
