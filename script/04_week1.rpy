@@ -438,7 +438,7 @@ translate polish week1_01_02b9a58f:
 
     voice voice_file.lpdcat(4,7)
 
-    lpdcat cry_2 "\"Weee- Liao, ale ty jesteś dla mnie niedobry~\" "
+    lpdcat cry_2 "\"Łeee— Liao, ale ty jesteś dla mnie niedobry~\" "
 
 
 

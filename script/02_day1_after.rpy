@@ -1840,7 +1840,7 @@ translate polish day1_after_01_lpd_26f82385:
 
     voice voice_file.lpdcat(2,21)
 
-    lpdcat panic "\"Cooo— Ale kupiłem to specjalnie dla ciebie!\" "
+    lpdcat panic "\"Łeee— Ale kupiłem to specjalnie dla ciebie!\" "
 
 
 
@@ -3260,7 +3260,7 @@ translate polish day1_after_01_lpdcat_85221014:
 
     voice voice_file.lpdcat(2,33)
 
-    lpdcat cry_2 "\"Cooo— Liao znowu się nade mną znęca!\" "
+    lpdcat cry_2 "\"Łeee— Liao znowu się nade mną znęca!\" "
 
 
 

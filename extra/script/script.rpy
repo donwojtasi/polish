@@ -236,7 +236,7 @@ translate polish furry_con_9a5323ee:
 
     # voice voice_file.lpdcat("18S",1)
     # lpdcat_e surprise_1 "\"Waaagh— You meanies!\" "
-    lpdcat_e surprise_1 "\"Waaaa! Jak możecie!\""
+    lpdcat_e surprise_1 "\"Łeeeee! Jak możecie!\""
 
 # game/extra/script/script.rpy:117
 translate polish furry_con_d31c2d7b:
