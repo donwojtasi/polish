@@ -1142,7 +1142,7 @@ translate polish s13_03_3660c513:
     # voice voice_file.tig(13,34)
     # tig nervous "\"I was too... excited. There was no need for me to be that forceful with him.\" "
     voice voice_file.tig(13,34)
-    tig nervous "\"Byłem zbyt... podekscytowany. Nie było potrzeby, \nżebym\ był taki zaciekły w stosunku do niego.\" "
+    tig nervous "\"Byłem zbyt... podekscytowany. Nie było potrzeby, \nżebym\ był taki surowy w stosunku do niego.\" "
 
 # game/script/13.rpy:527
 translate polish s13_03_22150f85:
@@ -1269,7 +1269,7 @@ translate polish s13_03_43fc51c6:
     # voice voice_file.tig(13,40)
     # tig disappointed "\"Liao, do you think I'm too forceful?\" "
     voice voice_file.tig(13,40)
-    tig disappointed "\"Liao, czy uważasz, że jestem zbyt zaciekły?\" "
+    tig disappointed "\"Liao, czy uważasz, że jestem zbyt surowy?\" "
 
 # game/script/13.rpy:575
 translate polish s13_03_2f96d97e:
