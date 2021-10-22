@@ -6242,7 +6242,7 @@ translate polish day2_04_6ad49600:
 
     voice voice_file.jiahao(3,5)
 
-    jiahao "\"Eee? Plemienia?\" "
+    jiahao "\"Coo? Plemienia?\" "
 
 
 

@@ -1376,7 +1376,7 @@ translate polish day1_after_01_lpd_f6b6d2e1:
 
     voice voice_file.tig(2,21)
 
-    tig frown "*odchrząkuje* "
+    tig frown "*pffff* "
 
 
 
@@ -2412,7 +2412,7 @@ translate polish day1_after_01_lpd_12b3678c:
 
     # avt "\"So why do you need me? Do you need someone to... uh... be your oracle?\" "
 
-    avt "\"To dlaczego mnie potrzebujesz? Czy potrzebny ci ktoś, kto... eee... będzie twoją wyrocznią?\" "
+    avt "\"To dlaczego mnie potrzebujesz? Czy potrzebny ci ktoś, kto... eee... będzie twoim prorokiem?\" "
 
 
 
@@ -3862,7 +3862,7 @@ translate polish day1_after_01_lpdcat_3ebe7bde:
 
     voice voice_file.lpdcat(2,49)
 
-    lpdcat normal "\"Eee— w sumie tak.\" "
+    lpdcat normal "\"Ech— w sumie tak.\" "
 
 
 
