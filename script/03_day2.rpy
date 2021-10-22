@@ -2302,7 +2302,7 @@ translate polish day2_02_60857492:
 
     voice voice_file.lpdcat(3,20)
 
-    lpdcat wronged "\"Ouu- Jeśli nie chcesz zjeść razem ze mną, to wolę nic nie jeść.\" "
+    lpdcat wronged "\"Łuu- Jeśli nie chcesz zjeść razem ze mną, to wolę nic nie jeść.\" "
 
 
 
@@ -3858,7 +3858,7 @@ translate polish day2_02_fe2e2267:
 
     voice voice_file.lpdcat(3,35)
 
-    lpdcat cry_2 "\"Buu— To taka dobra okazja, by zjeść coś z tobą, Liao...\" "
+    lpdcat cry_2 "\"Łuu— To taka dobra okazja, by zjeść coś z tobą, Liao...\" "
 
 
 

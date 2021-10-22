@@ -1480,7 +1480,7 @@ translate polish day1_after_01_lpd_3f1d3d82:
 
     voice voice_file.lpdcat(2,12)
 
-    lpdcat wronged "\"Ouu— skoro tak mówisz...\" "
+    lpdcat wronged "\"Łuu— skoro tak mówisz...\" "
 
 
 
@@ -1524,7 +1524,7 @@ translate polish day1_after_01_lpd_ce6de70d:
 
     voice voice_file.lpdcat(2,14)
 
-    lpdcat cry_2 "\"Ouu— To było wredne!\" " with hshake
+    lpdcat cry_2 "\"Łuu— To było wredne!\" " with hshake
 
 
 

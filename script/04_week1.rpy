@@ -30,7 +30,7 @@ translate polish week1_01_b85d4f87:
 
     b "Cieszę się, że ubiegłej nocy nie robili już z tego powodu afery. "
 
-    b "Niestety nie mogę spać całego dnia. Już prawie czas, by wychodzić, więc szybko wstaję z łóżka i szykuję się do zajęć... "
+    b "Niestety nie mogę przespać całego dnia. Już prawie czas, by wychodzić, więc szybko wstaję z łóżka i szykuję się do zajęć... "
 
 
 
