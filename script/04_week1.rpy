@@ -3888,7 +3888,7 @@ translate polish week1_saturday_lpd_301ef62e:
 
     # b "Senpai grabs his phone and walks out. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i wychodzi. Tak nagle, że nawet gdybym \npróbował to nie zdążyłbym go zatrzymać. "
+    b "Senpaj zabiera swój telefon i wychodzi. Tak nagle, że \nnawet gdybym próbował to nie zdążyłbym go zatrzymać. "
 
 
 
@@ -6660,7 +6660,7 @@ translate polish cg_03_a5ac3d17:
 
     voice voice_file.lpdcat(4,39)
 
-    lpdcat laugh "\"Łuuu— Jesteśmy tu! Więc Liao, są jakieś zakupy, które \nchcesz zrobić? A może chcesz się gdzieś przejść?\" "
+    lpdcat laugh "\"Łuuu— Jesteśmy tu! Więc Liao, są jakieś zakupy, \nktóre chcesz zrobić? A może chcesz się gdzieś przejść?\" "
 
 
 
@@ -7128,7 +7128,7 @@ translate polish cg_03_e0e6e210:
 
     voice voice_file.lpdcat(4,51)
 
-    lpdcat panic "\"Cooo— Liao, czy dopiero co nie martwiłeś się, że jest mi za zimno? Daj spokój, kup ją.\nKup mi proszeee~\" " with vpunch
+    lpdcat panic "\"Cooo— Liao, czy dopiero co nie martwiłeś się, że \njest mi za zimno? Daj spokój, kup ją.Kup mi proszeee~\" " with vpunch
 
 
 
@@ -7188,7 +7188,7 @@ translate polish week1_03_lpdcat_buy_5cb8971b:
 
     # b "Senpai shouts with joy when he sees me paying for the hat. The pom poms dance in the air as he bounces with excitement. I put my hand on top of his head, both to calm him down and to keep the hat from falling off. "
 
-    b "Senpaj aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy skacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić, oraz uchronić czapkę \nprzed spadnięciem. "
+    b "Senpaj aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy \nskacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić, oraz uchronić czapkę przed spadnięciem. "
 
 
 
@@ -7256,7 +7256,7 @@ translate polish week1_03_lpdcat_buy_37c7cd11:
 
     # b "Tiger came over just to mention that. For me to think that is one thing, but for him to say that as well... "
 
-    b "Tygrys podszedł tutaj tylko po to by to powiedzieć. Żebym ja tak \npomyślał to jedno, ale żeby on też to powiedział... "
+    b "Tygrys podszedł tutaj tylko po to by to powiedzieć. Żebym \nja tak pomyślał to jedno, ale żeby on też to powiedział... "
 
 
 
@@ -7320,7 +7320,7 @@ translate polish week1_03_lpdcat_buy_107291f9:
 
     # b "Personally, I don't understand clothes, jewellery, video games and the such. But I'm happy to keep Senpai company. "
 
-    b "Osobiście nie znam się na ciuchach, biżuterii, grach wideo i takich tam. \nMimo to cieszę się, że mogę dotrzymać mu towarzystwa. "
+    b "Osobiście nie znam się na ciuchach, biżuterii, grach wideo i takich \ntam. Mimo to cieszę się, że mogę dotrzymać mu towarzystwa. "
 
 
 
@@ -8544,7 +8544,7 @@ translate polish week1_04_lpdcat_9b421745:
 
     # b "Senpai moves in close, he's a bit shorter than me. Then he reaches and pats my shoulder softly with his paw. "
 
-    b "Senpaj przysuwa się bliżej, jest trochę niższy ode mnie. \nSięga łapą i delikatnie klepie mnie po ramieniu. "
+    b "Senpaj przysuwa się bliżej, jest trochę niższy ode \nmnie. Sięga łapą i delikatnie klepie mnie po ramieniu. "
 
 
 
@@ -9248,7 +9248,7 @@ translate polish week1_sunday_tig_lpd_301ef62e:
 
     # b "Senpai grabs his phone and starts heading out immediately. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i natychmiast wychodzi. Tak nagle, że nawet \ngdybym próbował, to nie zdążyłbym go zatrzymać. "
+    b "Senpaj zabiera swój telefon i natychmiast wychodzi. Tak nagle, że \nnawet gdybym próbował, to nie zdążyłbym go zatrzymać. "
 
 
 
