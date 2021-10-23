@@ -10,7 +10,7 @@ translate polish week2_01_c6e15a2b:
 
     # b "After that weekend, my new college life living with three big cat spirits pretty much began for real. "
 
-    b "Po weekendzie, moje studenckie życie z kocimi duchami rozpoczyna się na dobre. "
+    b "Po weekendzie moje studenckie życie z kocimi duchami rozpoczyna się na dobre. "
 
 
 
@@ -34,7 +34,7 @@ translate polish week2_01_d21ed498:
 
     # b "I mean, I've never wanted an ordinary, boring life, but I know for a fact no other college students have to deal with this. "
 
-    b "Nudna, szara codzienność nigdy nie była szczytem moich marzeń- ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
+    b "Nudna, szara codzienność nigdy nie była szczytem moich marzeń, ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
 
 
 
@@ -72,9 +72,9 @@ translate polish week2_01_881eb04f:
 
     # b "I don't even bother taking them on about it anymore. I've just learned to be okay about it. After all, getting rid of Senpai is mission impossible. "
 
-    b "Chłopaki w klubie wciąż nie chcą uwierzyć, że między mną a Senpai'em nic nie zaszło. "
+    b "Chłopaki w klubie wciąż nie chcą uwierzyć, że między mną a Senpajem nic nie zaszło. "
 
-    b "Już nie próbuję im tego tłumaczyć. Nauczyłem się tym nie przejmować. Pozbycie się Senpai'a jest przecież niemożliwe. "
+    b "Już nie próbuję im tego tłumaczyć. Nauczyłem się tym nie przejmować. Pozbycie się Senpaja jest przecież niemożliwe. "
 
 
 
@@ -86,7 +86,7 @@ translate polish week2_01_58f01429:
 
     # b "All in all, I still can't say living with these cats is something I've gotten used to. "
 
-    b "W sumie, to wciąż nie mogę powiedzieć, że życie z tymi kotami to coś do czego przywykłem. "
+    b "W sumie to wciąż nie mogę powiedzieć, że życie z tymi kotami to coś, do czego przywykłem. "
 
 
 
@@ -134,7 +134,7 @@ translate polish s05_5_633401d9:
 
     # b "That day, I was going to the bookstore to see if there was anything I would want to pick up and read, for myself and partially at the request of a certain guardian tiger. "
 
-    b "Tego dnia wybrałem się do księgarni by zobaczyć, czy znajdę coś co akurat chciałbym przeczytać. Częściowo dla siebie, a częściowo na prośbę pewnego tygrysiego strażnika. "
+    b "Tego dnia wybrałem się do księgarni by zobaczyć, czy znajdę coś, co akurat chciałbym przeczytać. Częściowo dla siebie, a częściowo na prośbę pewnego tygrysiego strażnika. "
 
 
 
@@ -148,7 +148,7 @@ translate polish s05_5_1bc03641:
 
     # b "I guess he doesn't really have much interest in it. Especially considering he can't read Chinese. "
 
-    b "Senpai akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście był ze mną, ale Pantera wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
+    b "Senpaj akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście był ze mną, ale Lampart wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
 
     b "Myślę, że nie interesuje go to zbytnio. Pewnie dlatego, że nie potrafi czytać po chińsku. "
 
@@ -190,7 +190,7 @@ translate polish s05_5_b58b64a0:
 
     # b "I check over a few book covers, but none struck my tastes. So I kept browsing along down the shop, finding myself in a corner that I don't recall ever paying attention to before. "
 
-    b "Przeleciałem wzrokiem po kilku okładkach, ale nic nie trafiło w mój gust. Buszowałem dalej wśród półek, niespodzianie znajdując się w zakamarku na który wcześniej nie zwracałem uwagi. "
+    b "Przeleciałem wzrokiem po kilku okładkach, ale nic nie trafiło w mój gust. Buszowałem dalej wśród półek, niespodzianie znajdując się w zakamarku, na który wcześniej nie zwracałem uwagi. "
 
 
 
@@ -234,7 +234,7 @@ translate polish s05_5_15891fd3:
 
     # b "Tiger suddenly seemed very interested in a certain bookcase. I went over to see what was so curious about it. "
 
-    b "Tygrys zdaje się być nagle bardzo zainteresowany jednym z regałów. Podchodzę bliżej, by zobaczyć co go tak zaintrygowało. "
+    b "Tygrys zdaje się być nagle bardzo zainteresowany jednym z regałów. Podchodzę bliżej, by zobaczyć, co go tak zaintrygowało. "
 
 
 
@@ -246,7 +246,7 @@ translate polish s05_5_ee853f05:
 
     # avt "\"Huh, oh? ...Textbooks?\" "
 
-    avt "\"Ach? ...podręczniki?\" "
+    avt "\"Ach? ...Podręczniki?\" "
 
 
 
@@ -330,7 +330,7 @@ translate polish s05_5_8cb99e55:
 
     # b "I'm not too sure about Tiger's grasp on physics, but it seems like the explanations are given through analogous stories. He'll probably get the gist of it. "
 
-    b "W sumie nie wiem jak dużo Tygrys wie o fizyce- ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać o co chodzi. "
+    b "W sumie nie wiem jak dużo Tygrys wie o fizyce, ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać, o co chodzi. "
 
 
 
@@ -418,7 +418,7 @@ translate polish s05_5_3e46cb3d:
 
     voice voice_file.tig(5,7)
 
-    tig laugh_2 "\"Dobrze, powodzenia. Myślę, że przejrzę sobie tę w międzyczasie.\" "
+    tig laugh_2 "\"Powodzenia. Myślę, że przejrzę sobie tę w międzyczasie.\" "
 
 
 
@@ -454,7 +454,7 @@ translate polish s05_5_07d25d2c:
 
     # b "Turning back to the literature section, I pick out a book to read. I promised that I'd wait for Senpai to finish class so we could walk back together, so I might as well do something while I'm waiting. "
 
-    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpai'owi, że poczekam aż skończy zajęcia i razem wrócimy do domu- więc co mi szkodzi przez ten czas coś porobić. "
+    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpajowi, że poczekam, aż skończy zajęcia i razem wrócimy do domu, więc co mi szkodzi przez ten czas coś porobić. "
 
 
 
@@ -470,7 +470,7 @@ translate polish s05_5_0e924d74:
 
     b "Czytam swoją książkę, co raz spoglądając na Tygrysa pochłoniętego w swojej. "
 
-    b "Mijają godziny; ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak szybko czyta?) "
+    b "Mijają godziny, ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak szybko czyta?) "
 
 
 
@@ -488,7 +488,7 @@ translate polish s05_5_16de6244:
 
     b "Tygrys zamyka książkę z satysfakcjonującym klapnięciem. Wstaje i ponosi z półki kolejną. "
 
-    b "Mija trochę czasu zanim udaje mi się dokończyć swoją książkę. Wtedy Senpai nareszcie do mnie dzwoni. "
+    b "Mija trochę czasu zanim udaje mi się dokończyć swoją książkę. Wtedy Senpaj nareszcie do mnie dzwoni. "
 
     b "Heh, dobrze się składa... "
 
@@ -502,7 +502,7 @@ translate polish s05_5_f758297a:
 
     # avt "\"Oh, Senpai, we're pretty much done at the bookstore. I'll be over in like five minutes.\" "
 
-    avt "\"Och Senpai, praktycznie załatwiliśmy już wszystko w księgarni. Będę za jakieś pięć minut.\" "
+    avt "\"Och, Senpaj, praktycznie załatwiliśmy już wszystko w księgarni. Będę za jakieś pięć minut.\" "
 
 
 
