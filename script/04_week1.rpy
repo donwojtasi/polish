@@ -3888,7 +3888,7 @@ translate polish week1_saturday_lpd_301ef62e:
 
     # b "Senpai grabs his phone and walks out. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i wychodzi. Tak nagle, że \nnawet gdybym próbował to nie zdążyłbym go zatrzymać. "
+    b "Senpaj zabiera swój telefon i wychodzi. Tak nagle, \nże nawet gdybym próbował to nie zdążyłbym go zatrzymać. "
 
 
 
@@ -9248,7 +9248,7 @@ translate polish week1_sunday_tig_lpd_301ef62e:
 
     # b "Senpai grabs his phone and starts heading out immediately. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i natychmiast wychodzi. Tak nagle, że \nnawet gdybym próbował, to nie zdążyłbym go zatrzymać. "
+    b "Senpaj zabiera swój telefon i natychmiast wychodzi. Tak nagle, \nże nawet gdybym próbował, to nie zdążyłbym go zatrzymać. "
 
 
 
