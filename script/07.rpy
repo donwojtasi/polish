@@ -2234,7 +2234,7 @@ translate polish s07_03_f8b41742:
 
     voice voice_file.lagu(7,2)
 
-    lagu2 normal "\"Uhh- To mięso jest o wiele za słone, nie uważasz?\" " with flash
+    lagu2 normal "\"Uch— To mięso jest o wiele za słone, nie uważasz?\" " with flash
 
 
 
