@@ -10,7 +10,7 @@ translate polish s06_686be3a3:
 
     # b "Since speaking with Randolph, I've been thinking over what he said... about trying to find some other solution with the cats. "
 
-    b "Od czasu rozmowy z Randolfem zastanawiałem się nad tym, co powiedział... o próbie \nznalezienia innego rozwiązania naszych problemów. "
+    b "Od czasu rozmowy z Randolfem zastanawiałem się nad tym, co powiedział... \no próbie znalezienia innego rozwiązania naszych problemów. "
 
 
 
@@ -46,7 +46,7 @@ translate polish s06_43d140a6:
 
     # b "...I guess I've got no choice but to talk. Talk to each of them and try to understand everything. "
 
-    b "...Chyba nie mam innego wyboru. Muszę porozmawiać z każdym z nich i spróbować wszystko zrozumieć. "
+    b "...Chyba nie mam innego wyboru. Muszę porozmawiać z każdym \nz nich i spróbować wszystko zrozumieć. "
 
 
 
@@ -134,7 +134,7 @@ translate polish s06_e0383bb8:
 
     # b "A vague answer leaves me as I stumble my thoughts. Not that he seems too interested in listening anyway. "
 
-    b "Udzielam nieco niejasnej odpowiedzi, gubiąc się w myślach. I tak nie wydaje się, by bardzo go interesowała. "
+    b "Udzielam nieco niejasnej odpowiedzi, gubiąc się w myślach. \nI tak nie wydaje się, by bardzo go interesowała. "
 
 
 
@@ -198,7 +198,7 @@ translate polish s06_b9da53b2:
 
     tig normal "\"Hmm? Och, racja, nie martw się. Nie zamierzam \nżadnej z nich kupować. Są o wiele za drogie.\" "
 
-    tig normal "\"To prawda, że zawierają dużo informacji, ale mają też za \ndużo błyszczących stron ze zdjęciami. Chyba tylko po to, by podnieść koszty druku. Kompletnie niepotrzebnie.\" "
+    tig normal "\"To prawda, że zawierają dużo informacji, ale mają też za dużo błyszczących stron ze zdjęciami. Chyba tylko po to, by podnieść koszty druku. Kompletnie niepotrzebnie.\" "
 
 
 
@@ -210,7 +210,7 @@ translate polish s06_34f69b40:
 
     # avt "\"Even if they were two dollars there's no way I could buy enough to keep you \nsatisfied!\" "
 
-    avt "\"Nawet gdybym płacił dwa dolary za sztukę, nie mógłbym kupić ci wystarczająco dużo, by cię zadowolić.\" "
+    avt "\"Nawet gdybym płacił dwa dolary za sztukę, nie mógłbym \nkupić ci wystarczająco dużo, by cię zadowolić.\" "
 
 
 
@@ -226,7 +226,7 @@ translate polish s06_cea70f31:
 
     voice voice_file.tig(6,4)
 
-    tig laugh_1 "\"Hahaha— Święta prawda. Myślę też, że musi być jakiś lepszy sposób na zdobycie tych wszystkich informacji.\" "
+    tig laugh_1 "\"Hahaha— Święta prawda. Myślę też, że musi być jakiś \nlepszy sposób na zdobycie tych wszystkich informacji.\" "
 
 
 
@@ -410,7 +410,7 @@ translate polish s06_dd1b6343:
 
     voice voice_file.tig(6,9)
 
-    tig normal "\"Pomóc mi? W czym niby mógłbym potrzebować pomocy... Czy chcesz może \nporozmawiać o zostaniu Jitongiem w naszej świątyni?\" "
+    tig normal "\"Pomóc mi? W czym niby mógłbym potrzebować pomocy... Czy chcesz \nmoże porozmawiać o zostaniu Jitongiem w naszej świątyni?\" "
 
 
 
@@ -422,7 +422,7 @@ translate polish s06_7e0455c6:
 
     # avt "\"Yes. Is there any way that I {i}don't{/i} \ have to go home and become a Jitong?\" "
 
-    avt "\"Tak. Czy jest jakiś sposób, bym {i}nie{/i} musiał wracać do domu i zostać Jitongiem?\" "
+    avt "\"Tak. Czy jest jakiś sposób, bym {i}nie{/i} \ musiał wracać do domu i zostać Jitongiem?\" "
 
 
 
@@ -442,11 +442,11 @@ translate polish s06_8dae540a:
 
     voice voice_file.tig(6,10)
 
-    tig normal "\"Twoja moc komunikacji z duchami jest rzadko spotykana, posiadasz coś \nniepospolitego i bardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
+    tig normal "\"Twoja moc komunikacji z duchami jest rzadko spotykana, posiadasz coś niepospolitego i \nbardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
 
-    tig normal "\"Jestem przekonany, że zarówno twoja rodzina jaki i sama Święta \nMatka byłaby zachwycona, gdybyś wybrał tę drogę.\" "
+    tig normal "\"Jestem przekonany, że zarówno twoja rodzina jaki i sama \nŚwięta Matka byłaby zachwycona, gdybyś wybrał tę drogę.\" "
 
-    tig normal "\"Zdaję sobie sprawę z twojego pragnienia pozostania w Tajpej. Jednak nie musisz \npodejmować takich decyzji w tej chwili. Do ukończenia studiów pozostało ci jeszcze wiele semestrów.\" "
+    tig normal "\"Zdaję sobie sprawę z twojego pragnienia pozostania w Tajpej. Jednak nie musisz \npodejmować takich decyzji w tej chwili. Do ukończenia studiów pozostało ci jeszcze \nwiele semestrów.\" "
 
 
 
@@ -528,7 +528,7 @@ translate polish s06_a1c638b3:
 
     voice voice_file.tig(6,13)
 
-    tig normal "\"Gdybyś jednak postanowił zostać w Tajpej... Przypuszczam, że mógłbyś otworzyć tu małą świątynię.\" "
+    tig normal "\"Gdybyś jednak postanowił zostać w Tajpej... Przypuszczam, \nże mógłbyś otworzyć tu małą świątynię.\" "
 
     tig normal "\"A jeśli nie jest to tym, czego pragniesz, ani ja, ani nikt inny nie stanie ci na drodze.\" "
 
@@ -564,9 +564,9 @@ translate polish s06_151d3f3d:
 
     voice voice_file.tig(6,14)
 
-    tig normal "\"Tak jak mówiłem wcześniej. Nie musisz się spieszyć, masz sporo czasu, by to wszystko przemyśleć.\" "
+    tig normal "\"Tak jak mówiłem wcześniej. Nie musisz się spieszyć, \nmasz sporo czasu, by to wszystko przemyśleć.\" "
 
-    tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie jakimś kociakom i nie będzie żadnego problemu.\" "
+    tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie jakimś \nkociakom i nie będzie żadnego problemu.\" "
 
 
 
@@ -606,7 +606,7 @@ translate polish s06_bda77211:
 
     # b "For a while, an uneasy silence dwelled over us, so I decided to try and change the \nsubject. "
 
-    b "Na moment nastała pomiędzy nami nieprzyjemna cisza, zatem postanowiłem zmienić temat. "
+    b "Na moment nastała pomiędzy nami nieprzyjemna \ncisza, zatem postanowiłem zmienić temat. "
 
 
 
@@ -694,7 +694,7 @@ translate polish s06_9f611634:
 
     # b "In short, I end up spending the rest of the night looking up stuff for him on the internet... I wanted to play games tonight too... "
 
-    b "Krótko mówiąc, koniec końców spędzam resztę nocy szukając w internecie \nrzeczy, o które prosił... A chciałem sobie pograć w jakieś gry... "
+    b "Krótko mówiąc, koniec końców spędzam resztę nocy szukając w \ninternecie rzeczy, o które prosił... A chciałem sobie pograć w jakieś gry... "
 
 
 
@@ -708,7 +708,7 @@ translate polish s06_d5cebe46:
 
     # b "I can't exactly talk to him during class... and afterwards Tiger always joins us. "
 
-    b "Przez następne kilka dni próbuję pogadać sam na sam z Lampartem, \nco nie jest najłatwiejszym zadaniem. "
+    b "Przez następne kilka dni próbuję pogadać sam na sam \nz Lampartem, co nie jest najłatwiejszym zadaniem. "
 
     b "Nie mogę rozmawiać z nim na zajęciach... a tuż po nich Tygrys dołącza do nas. "
 
@@ -738,7 +738,7 @@ translate polish s06_555bbd83:
 
     b "Lampart zawsze na nie przychodzi, podczas gdy Tygrys stoi na \nuboczu, a Senpaj zazwyczaj jest zajęty swoimi rówieśnikami. "
 
-    b "Dzisiaj upewniam się, że stoję gdzieś w rogu z dala od Senpaja i Tygrysa. \nLampart idzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
+    b "Dzisiaj upewniam się, że stoję gdzieś w rogu z dala od Senpaja i Tygrysa. Lampart \nidzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
 
 
 
@@ -866,7 +866,7 @@ translate polish s06_9010f98c:
 
     # avt "\"Hmm— You say that your tribe needs an oracle, but if I don't go to Wutai? Is there any other way to help you?\" "
 
-    avt "\"Hmm— Mówisz, że twoje plemię potrzebuje wyroczni, ale co jeśli nie \npójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
+    avt "\"Hmm— Mówisz, że twoje plemię potrzebuje wyroczni, ale co jeśli \nnie pójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
 
 
 
@@ -894,7 +894,7 @@ translate polish s06_4031173e:
 
     # avt "\"Like, finding someway I don't need to be there physically? The internet's pretty handy these days! People could just send questions and I could answer back from home.\" "
 
-    avt "\"Na przykład, znajdując jakiś sposób abym nie musiał tam fizycznie być? Internet w dzisiejszych \nczasach jest bardzo pomocny! Ludzie mogliby wysyłać pytania, a ja odpowiadać na nie z domu.\" "
+    avt "\"Na przykład, znajdując jakiś sposób abym nie musiał tam fizycznie być? Internet w dzisiejszych czasach jest bardzo pomocny! Ludzie mogliby wysyłać pytania, a ja odpowiadać na nie z domu.\" "
 
 
 
@@ -952,7 +952,7 @@ translate polish s06_1258599b:
 
     # avt "\"I just... don't really want to leave Taipei.\" "
 
-    avt "\"Wiem, że na tym polega bycie wyrocznią... tylko nie mam pojęcia, jakie \nproblemy chciałbyś, bym rozwiązał. Muszę coś zrobić? A może wystarczy, że powiem ludziom, co się dzieje?\" "
+    avt "\"Wiem, że na tym polega bycie wyrocznią... tylko nie mam pojęcia, jakie problemy chciałbyś, bym rozwiązał. Muszę coś zrobić? A może wystarczy, że powiem ludziom, co się dzieje?\" "
 
     avt "\"Po prostu... naprawdę nie chcę opuszczać Tajpej.\" "
 
@@ -982,7 +982,7 @@ translate polish s06_98ef785f:
 
     # avt "\"But what can I do for you from here? There {i}has{/i} \ to be something.\" "
 
-    avt "\"Ale co mógłbym tutaj dla ciebie zrobić? Musi {i}być{/i} coś takiego.\" "
+    avt "\"Ale co mógłbym tutaj dla ciebie zrobić? Musi {i}być{/i} \ coś takiego.\" "
 
 
 
@@ -1104,7 +1104,7 @@ translate polish s06_c9dc8ac1:
 
     # b "\"And Leopard, he's determined to get {i}something{/i} \ across to his tribe.\" "
 
-    b "Pewnie, są rzeczy, które {i}koniecznie{/i} trzeba \nprzedyskutować w cztery oczy, ale to nie tyczy się wszystkiego... "
+    b "Pewnie, są rzeczy, które {i}koniecznie{/i} trzeba przedyskutować w cztery oczy, \nale to nie tyczy się wszystkiego... "
 
     b "Może Lampart potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu? "
 
@@ -1122,7 +1122,7 @@ translate polish s06_a170659b:
 
     b "Równie ważny jest fakt, że muszą zaufać mi jako wyroczni. "
 
-    b "Bycie chińczykiem Han samo w sobie to utrudnia. Jako głos w słuchawce miałbym jeszcze mniejsze szanse... "
+    b "Bycie chińczykiem Han samo w sobie to utrudnia. Jako \ngłos w słuchawce miałbym jeszcze mniejsze szanse... "
 
 
 
@@ -1178,7 +1178,7 @@ translate polish s06_cc89f667:
 
     voice voice_file.lpdcat(6,2)
 
-    lpdcat normal "\"Będziesz miał coś przeciwko, jeśli się tu wcisnę? Zdaje się, \nże ty i Kulau macie tu sami mnóstwo frajdy.\" "
+    lpdcat normal "\"Będziesz miał coś przeciwko, jeśli się tu wcisnę? Zdaje \nsię, że ty i Kulau macie tu sami mnóstwo frajdy.\" "
 
 
 
@@ -1264,7 +1264,7 @@ translate polish s06_7c188729:
 
     voice voice_file.lpdcat(6,5)
 
-    lpdcat laugh "\"Tak {i}bym{/i} tego nie ujął. Jeśli nie wrócisz do domu, mógłbyś \npomóc mi w odnowieniu świątyni, a {i}potem{/i} iść do Wutai. Bułka z masłem!\" "
+    lpdcat laugh "\"Tak {i}bym{/i} tego nie ujął. Jeśli nie wrócisz do domu, mógłbyś pomóc mi \nw odnowieniu świątyni, a {i}potem{/i} iść do Wutai. Bułka z masłem!\" "
 
     lpdcat laugh "\"Wiem, że Kulau chciałby tam iść JAK NAJSZYBCIEJ, ale przecież możemy \nto jeszcze przedyskutować, prawda? Więc jak na razie jesteśmy kumplami!\" "
 
@@ -1290,7 +1290,7 @@ translate polish s06_2d24582b:
 
     # avt "\"Ehh... Alright. But Senpai, what's with you calling him Kulau?\" "
 
-    avt "\"Ehh... No dobra. Ale Senpai, dlaczego przez cały czas nazywasz go \"Kulau\"?\" "
+    avt "\"Ech... No dobra. Ale Senpai, dlaczego przez cały czas nazywasz go \"Kulau\"?\" "
 
 
 
@@ -1528,7 +1528,7 @@ translate polish s06_4c5e01dc:
 
     b "Tygrys i Lampart zawsze towarzyszą mi podczas zajęć. "
 
-    b "Gdy ćwiczymy w klubie tanecznym odciągnięcie Senpaja od grona jego wielbicieli graniczy z cudem. "
+    b "Gdy ćwiczymy w klubie tanecznym odciągnięcie \nSenpaja od grona jego wielbicieli graniczy z cudem. "
 
     b "W domu też jest niewiele lepiej. Z całą ich trójką w pobliżu, nie \nmam szans na prywatną rozmowę z którymkolwiek z nich. "
 
@@ -1586,7 +1586,7 @@ translate polish s06_82b7dd4f:
 
     # b "He was eating pork rib noodles... The school cafeteria is famous for having the best fried ribs around, and they're even better when dipped in rich soupy broth! ...But now's not the time to shill my college."
 
-    b "Zajadał się makaronem z żeberkami... Nasza szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. \nZanurzone w intensywnym bulionie są jeszcze lepsze! ...Ale nie czas teraz na wychwalanie mojej uczelni. "
+    b "Zajadał się makaronem z żeberkami... Nasza szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone w intensywnym bulionie są jeszcze lepsze! ...Ale nie czas teraz na wychwalanie mojej uczelni. "
 
 
 
@@ -1598,7 +1598,7 @@ translate polish s06_da55dea0:
 
     # avt "\"You know— about what you want— about going with you to Miaoli to help restore your temple...\" "
 
-    avt "\"Wiesz co— chcę porozmawiać— o pójściu z tobą do Miaoli w celu pomocy z odnową twojej świątyni...\" "
+    avt "\"Wiesz co— chcę porozmawiać— o pójściu z tobą do \nMiaoli w celu pomocy z odnową twojej świątyni...\" "
 
 
 
@@ -1654,7 +1654,7 @@ translate polish s06_ba1b9e9d:
 
     # avt "\"Well, say I wanted to stay here in Taipei, is there any way I can still help you?\" "
 
-    avt "\"No cóż. Powiedzmy, że chciałbym tu zostać, w Tajpej. Czy jest jakiś sposób, bym wciąż mógł ci pomóc?\" "
+    avt "\"No cóż. Powiedzmy, że chciałbym tu zostać, w Tajpej. \nCzy jest jakiś sposób, bym wciąż mógł ci pomóc?\" "
 
 
 
@@ -1670,7 +1670,7 @@ translate polish s06_8cf7f6c6:
 
     voice voice_file.lpdcat(6,12)
 
-    lpdcat serious "\"Otóż... to tak nie działa. Są ceremonie świątynne, które trzeba odprawić. Jak namówiłbyś \nludzi do czczenia nas, skoro nawet by cię tam nie było?\" "
+    lpdcat serious "\"Otóż... to tak nie działa. Są ceremonie świątynne, które trzeba odprawić. \nJak namówiłbyś ludzi do czczenia nas, skoro nawet by cię tam nie było?\" "
 
 
 
@@ -1726,7 +1726,7 @@ translate polish s06_32a6ef75:
 
     voice voice_file.lpdcat(6,14)
 
-    lpdcat serious "\"Ale... wciąż musiałbyś być kapłanem! To bardziej... skomplikowane niż tylko wysyłanie wiernym naszego orędzia, wiesz?\" "
+    lpdcat serious "\"Ale... wciąż musiałbyś być kapłanem! To bardziej... skomplikowane \nniż tylko wysyłanie wiernym naszego orędzia, wiesz?\" "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish s06_0c69b38d:
 
     voice voice_file.lpdcat(6,15)
 
-    lpdcat normal "\"Może to dziwnie zabrzmi, ale sądzę, że powinieneś myśleć o tym w bardziej przyziemny sposób.\" "
+    lpdcat normal "\"Może to dziwnie zabrzmi, ale sądzę, że powinieneś \nmyśleć o tym w bardziej przyziemny sposób.\" "
 
 
 
@@ -1858,7 +1858,7 @@ translate polish s06_3b23b615:
 
     # avt "\"Eh...\" "
 
-    avt "\"Eh...\" "
+    avt "\"Ech...\" "
 
 
 
@@ -1886,7 +1886,7 @@ translate polish s06_d25fe53e:
 
     voice voice_file.tig(6,19)
 
-    tig frown "\"Jak uważasz. Możesz robić, co zechcesz. Ale nie zdziw \nsię, jak odeślę cię z powrotem do Miaoli.\" "
+    tig frown "\"Jak uważasz. Możesz robić, co zechcesz. Ale nie \nzdziw się, jak odeślę cię z powrotem do Miaoli.\" "
 
 
 
@@ -2034,7 +2034,7 @@ translate polish s06_6c2c953b:
 
     # b "Following his orders I scroll down the page, his eyes peering over my shoulder. "
 
-    b "Wykonując jego polecenia, przewijam w dół strony, \na jego oczy spoglądają mi przez ramię. "
+    b "Wykonując jego polecenia, przewijam w dół \nstrony, a jego oczy spoglądają mi przez ramię. "
 
 
 
@@ -2174,7 +2174,7 @@ translate polish s06_3cfbc7b8:
 
     # avt "\"Isn't there a better way to do this? ...I'm pretty bored just sitting here watching you \nread.\" "
 
-    avt "\"Nie ma na to jakiegoś lepszego sposobu? ...Trochę mnie nudzi siedzenie tutaj i obserwowanie jak czytasz.\"  "
+    avt "\"Nie ma na to jakiegoś lepszego sposobu? ...Trochę mnie \nnudzi siedzenie tutaj i obserwowanie jak czytasz.\"  "
 
 
 
@@ -2442,7 +2442,7 @@ translate polish s06_02_convince_11dd25cb:
 
     # avt "\"Senpai, if you and Tiger can get used to helping each other out on the computer, then maybe he'd stop asking you to leave.\" "
 
-    avt "\"Senpaj, jeżeli ty i Tygrys przywykniecie do pomagania sobie nawzajem przy \nkomputerze, to może on wreszcie przestanie kazać ci stąd odejść.\" "
+    avt "\"Senpaj, jeżeli ty i Tygrys przywykniecie do pomagania sobie nawzajem \nprzy komputerze, to może on wreszcie przestanie kazać ci stąd odejść.\" "
 
 
 
@@ -2498,7 +2498,7 @@ translate polish s06_02_convince_5dc07503:
 
     # avt "\"Wouldn't that be a shame? It's only help clicking the mouse. It's not like you need to be friends, he just has to do what you say.\" "
 
-    avt "\"To byłaby wielka szkoda, prawda? To jedynie pomoc w klikaniu myszką. Nie musicie od \nrazu zostawać przyjaciółmi, on ma tylko robić to, co mu każesz.\" "
+    avt "\"To byłaby wielka szkoda, prawda? To jedynie pomoc w klikaniu myszką. Nie \nmusicie od razu zostawać przyjaciółmi, on ma tylko robić to, co mu każesz.\" "
 
 
 
@@ -2670,7 +2670,7 @@ translate polish s06_03_eb5a79e3:
 
     # avt "\"What? Bro?\" "
 
-    avt "\"Co? To ty bracie?\" "
+    avt "\"Co? To ty, bracie?\" "
 
 
 
@@ -2714,7 +2714,7 @@ translate polish s06_03_53341a76:
 
     voice voice_file.brother(6,3)
 
-    phone "\"Dobrze wiesz, że nie lubię rozmawiać przez telefon. Tata powiedział mi o tym, że \nwidziałeś tygrysich strażników. Nie przegapiłbym okazji by cię o to zapytać.\" "
+    phone "\"Dobrze wiesz, że nie lubię rozmawiać przez telefon. Tata powiedział mi o tym, \nże widziałeś tygrysich strażników. Nie przegapiłbym okazji by cię o to zapytać.\" "
 
 
 
@@ -3274,7 +3274,7 @@ translate polish s06_04_confess_723b9e16:
 
     # avt "\"Huh, wouldn't that be impossible?! There's no way people can {i}really{/i} \ see the guardian \ntigers...\" "
 
-    avt "\"Hę, nie byłoby to niemożliwe?! Nie ma mowy, by ludzie {i}naprawdę{/i} mogli zobaczyć tygrysich strażników...\" "
+    avt "\"Hę, nie byłoby to niemożliwe?! Nie ma mowy, by ludzie \n{i}naprawdę{/i} mogli zobaczyć tygrysich strażników...\" "
 
 
 
@@ -3398,7 +3398,7 @@ translate polish s06_04_confess_276a5477:
 
     # avt "\"It's... not my imagination, but all too real... Yeah, the guardian tiger is actually right here next to me— he can speak too.\" "
 
-    avt "\"To... nie moja wyobraźnia, to wszystko jest zbyt prawdziwe... Tak, tygrysi strażnik \nwłaśnie siedzi tuż obok i potrafi do mnie mówić.\" "
+    avt "\"To... nie moja wyobraźnia, to wszystko jest zbyt prawdziwe... Tak, \ntygrysi strażnik właśnie siedzi tuż obok i potrafi do mnie mówić.\" "
 
 
 
@@ -3482,7 +3482,7 @@ translate polish s06_04_confess_654867f0:
 
     voice voice_file.tig(6,42)
 
-    tig normal "\"Liao, wiesz, że dla większości ludzi to normalne by myśleć w ten \nsposób. Jesteś wyjątkowy, a oni nie widzą tego co ty.\" "
+    tig normal "\"Liao, wiesz, że dla większości ludzi to normalne by myśleć w \nten sposób. Jesteś wyjątkowy, a oni nie widzą tego co ty.\" "
 
 
 
@@ -3626,7 +3626,7 @@ translate polish s06_04_confess_854baa30:
 
     voice voice_file.brother(6,26)
 
-    phone "\"Hę, taki wielki wyszedł z takiego małego \nposążka? Eee— Co by tu jeszcze? Och tak, jak ma na imię?\" "
+    phone "\"Hę, taki wielki wyszedł z takiego małego posążka? \nEee— Co by tu jeszcze? Och tak, jak ma na imię?\" "
 
 
 
@@ -3766,7 +3766,7 @@ translate polish s06_04_confess_6d647b03:
 
     voice voice_file.lpdcat(6,31)
 
-    lpdcat pout "\"Pewnie, że chce! Też jestem tygrysim strażnikiem. To mega dziwne, gdy za \nkażdym razem nazywasz staruszka w ten sposób.\" "
+    lpdcat pout "\"Pewnie, że chce! Też jestem tygrysim strażnikiem. To mega \ndziwne, gdy za każdym razem nazywasz staruszka w ten sposób.\" "
 
 
 
@@ -3796,7 +3796,7 @@ translate polish s06_04_confess_6a1c9bf7:
 
     voice voice_file.tig(6,45)
 
-    tig normal "\"Cóż, mało mnie to interesuje. Jestem tylko małym bogiem, przyzwyczaiłem się już do braku imienia.\" "
+    tig normal "\"Cóż, mało mnie to interesuje. Jestem tylko małym \nbogiem, przyzwyczaiłem się już do braku imienia.\" "
 
     tig normal "\"Jeżeli ten mały kociak czuje się z tym niezręcznie tym lepiej!\" "
 
@@ -4006,7 +4006,7 @@ translate polish s06_04_confess_d7d2c7a7:
 
     voice voice_file.brother(6,32)
 
-    phone "\"...Cóż, jeżeli zadam wam parę pytań, to będę mógł udowodnić, że naprawdę widzisz tygrysiego strażnika.\" "
+    phone "\"...Cóż, jeżeli zadam wam parę pytań, to będę mógł \nudowodnić, że naprawdę widzisz tygrysiego strażnika.\" "
 
 
 
@@ -4050,7 +4050,7 @@ translate polish s06_04_confess_d5b6c0ed:
 
     voice voice_file.brother(6,34)
 
-    phone "\"Myślę, że musiałbyś być szalony by aż tak mnie okłamywać. Ale \ntrochę ciężko w to uwierzyć. Po prostu chcę się upewnić.\" "
+    phone "\"Myślę, że musiałbyś być szalony, by aż tak mnie okłamywać. \nAle trochę ciężko w to uwierzyć. Po prostu chcę się upewnić.\" "
 
 
 
@@ -4062,7 +4062,7 @@ translate polish s06_04_confess_40a8d86f:
 
     # avt "\"It's alright if you don't believe me... It might even have been best if I didn't tell you at all...\" "
 
-    avt "\"W porządku, jeżeli mi nie wierzysz... Pewnie nawet lepiej byłoby, gdybym wcale ci o tym nie powiedział...\" "
+    avt "\"W porządku, jeżeli mi nie wierzysz... Pewnie nawet \nlepiej byłoby, gdybym wcale ci o tym nie powiedział...\" "
 
 
 
@@ -4094,7 +4094,7 @@ translate polish s06_04_confess_bcf79542:
 
     voice voice_file.brother(6,36)
 
-    phone "\"Mimo wszystko jestem trochę zasmucony, że to tobie udaje się zobaczyć tygrysich strażników, a nie mnie...\" "
+    phone "\"Mimo wszystko jestem trochę zasmucony, że to tobie \nudaje się zobaczyć tygrysich strażników, a nie mnie...\" "
 
 
 
@@ -4118,7 +4118,7 @@ translate polish s06_04_confess_cb0b3e96:
 
     # b "I'd probably be better if my brother was the one who could see the guardian tigers and not me. After all, he's a Jitong already... "
 
-    b "Byłoby jednak o wiele lepiej, gdyby to mój brat mógł zobaczyć tygrysich \nstrażników, a nie ja. Przecież to on został Jitongiem... "
+    b "Byłoby jednak o wiele lepiej, gdyby to mój brat mógł zobaczyć \ntygrysich strażników, a nie ja. Przecież to on został Jitongiem... "
 
 
 
@@ -4130,7 +4130,7 @@ translate polish s06_04_confess_ff52749a:
 
     # b "But it was always because of Leopard that I've got this power. If Leopard gave to my brother instead, then it could have been an even bigger problem for my family. "
 
-    b "A to wszystko zasługa Lamparta. Gdyby dał tę moc mojemu bratu zamiast mi, moja \nrodzina mogłaby mieć jeszcze większe problemy z tego powodu. "
+    b "A to wszystko zasługa Lamparta. Gdyby dał tę moc mojemu bratu zamiast \nmi, moja rodzina mogłaby mieć jeszcze większe problemy z tego powodu. "
 
 
 
@@ -4158,7 +4158,7 @@ translate polish s06_04_confess_da9d8226:
 
     voice voice_file.brother(6,37)
 
-    phone "\"Wiem i nie powiem. Myślę, że powinieneś być bardziej ostrożny. Po prostu nie \nwyjawiaj ludziom spraw, których będziesz później żałował. No i powinieneś znaleźć lepsze miejsce do schowania swojej mangi.\"  "
+    phone "\"Wiem i nie powiem. Myślę, że powinieneś być bardziej ostrożny. Po prostu nie wyjawiaj ludziom spraw, których będziesz później żałował. No i powinieneś znaleźć lepsze miejsce do schowania swojej mangi.\"  "
 
 
 
@@ -4294,7 +4294,7 @@ translate polish s06_04_confess_ce08583b:
 
     voice voice_file.tig(6,49)
 
-    tig normal "\"Cóż, podejrzewam, że wszyscy bogowie w domu już o \ntym wiedzą, a zatem nie jest to wielki problem.\" "
+    tig normal "\"Cóż, podejrzewam, że wszyscy bogowie w domu już \no tym wiedzą, a zatem nie jest to wielki problem.\" "
 
 
 
@@ -4322,7 +4322,7 @@ translate polish s06_04_confess_c11657ac:
 
     voice voice_file.tig(6,50)
 
-    tig normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jasnowidzący i Jasnosłyszący{/font} są tam, tylko jeszcze nie przybyli tu, by cię zobaczyć. Ale jestem przekonany, że z niecierpliwością czekają na twój powrót.\" "
+    tig normal "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Jasnowidzący i Jasnosłyszący{/font} są tam, tylko jeszcze nie przybyli tu, by cię \nzobaczyć. Ale jestem przekonany, że z niecierpliwością czekają na twój powrót.\" "
 
 
 
@@ -4386,7 +4386,7 @@ translate polish s06_04_confess_e653d22b:
 
     # b "I know I'm just searching for someone to believe me but openeing up to my brother might not have been a great idea... Maybe I should've just said that I didn't know anything... "
 
-    b "Zdaję sobie sprawę, że po prostu szukam kogoś, kto mi uwierzy, ale otwarcie się \nprzy moim bracie mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic o tym nie wiem... "
+    b "Zdaję sobie sprawę, że po prostu szukam kogoś, kto mi uwierzy, ale otwarcie się przy moim bracie mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic o tym nie wiem... "
 
 
 
@@ -4398,7 +4398,7 @@ translate polish s06_04_confess_1d8ffd31:
 
     # b "I take a deep breath and look back to my computer. The website I was searching through with Tiger is still up on the screen. "
 
-    b "Biorę głęboki oddech i spoglądam ponownie w kierunku komputera. Strona, którą \nprzeglądałem wraz z Tygrysem wciąż znajduje się na ekranie. "
+    b "Biorę głęboki oddech i spoglądam ponownie w kierunku komputera. Strona, \nktórą przeglądałem wraz z Tygrysem wciąż znajduje się na ekranie. "
 
 
 
