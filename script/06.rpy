@@ -2334,7 +2334,7 @@ translate polish s06_02_dont_convince_90276946:
 
     voice voice_file.lpdcat(6,24)
 
-    lpdcat pout "\"Och, a co z tobą, staruszku? Zawsze depczesz Liao po piętach. Oczekujesz, że cię posłucha, \nbo jesteś jakimś tam {i}opiekunem{/i} rodziny Lin!\" "
+    lpdcat pout "\"Och, a co z tobą, staruszku? Zawsze depczesz Liao po piętach. \nOczekujesz, że cię posłucha, bo jesteś jakimś tam {i}opiekunem{/i} rodziny Lin!\" "
 
 
 
@@ -2738,7 +2738,7 @@ translate polish s06_04_lie_520ead2e:
 
     # avt "\"I-I haven't seen any! I just heard that our family Jitongs can see them.\" "
 
-    avt "\"N-nie widziałem ani jednego! Po prostu usłyszałem, że \nJitongowie z naszej rodziny mogą ich zobaczyć.\"  "
+    avt "\"N-nie widziałem ani jednego! Po prostu usłyszałem, \nże Jitongowie z naszej rodziny mogą ich zobaczyć.\"  "
 
 
 
@@ -2802,7 +2802,7 @@ translate polish s06_04_lie_1513aee2:
 
     voice voice_file.brother(6,6)
 
-    phone "\"Tata powiedział mi, że nie wolno nam nikomu o tym rozpowiadać. \nMyślę jednak, że fajnie byłoby jakiegoś zobaczyć.\" "
+    phone "\"Tata powiedział mi, że nie wolno nam nikomu o tym \nrozpowiadać. Myślę jednak, że fajnie byłoby jakiegoś zobaczyć.\" "
 
 
 
@@ -2864,7 +2864,7 @@ translate polish s06_04_lie_c5778902:
 
     voice voice_file.brother(6,9)
 
-    phone "\"Nieważne, po twojej ostatniej rozmowie z tatą, powiedział bardzo stanowczo, żeby \nnie rozpowiadać wokoło takich rzeczy. Nie żartował i dlatego sądziłem, że coś mogło się stać.\" "
+    phone "\"Nieważne, po twojej ostatniej rozmowie z tatą, powiedział bardzo stanowczo, żeby nie \nrozpowiadać wokoło takich rzeczy. Nie żartował i dlatego sądziłem, że coś mogło się stać.\" "
 
     phone "\"Okazało się, że to nic takiego, więc wszystko jest w porządku.\" "
 
@@ -2910,7 +2910,7 @@ translate polish s06_04_lie_e8c599d3:
 
     voice voice_file.brother(6,11)
 
-    phone "\"Dobrze wiem, że wcale się nie modliłeś. Skoro go ze sobą zabrałeś to poświęć mu choć trochę uwagi.\" "
+    phone "\"Dobrze wiem, że wcale się nie modliłeś. Skoro go \nze sobą zabrałeś to poświęć mu choć trochę uwagi.\" "
 
 
 
@@ -2934,7 +2934,7 @@ translate polish s06_04_lie_641b1da2:
 
     # b "In the corner of my eye I can see said guardian tiger shooting a fierce glare at me... "
 
-    b "Kątem oka dostrzegam, jak wspomniany tygrysi strażnik posyła w moim kierunku ostre spojrzenie... "
+    b "Kątem oka dostrzegam, jak wspomniany tygrysi \nstrażnik posyła w moim kierunku ostre spojrzenie... "
 
 
 
@@ -2950,7 +2950,7 @@ translate polish s06_04_lie_c44e5372:
 
     voice voice_file.brother(6,12)
 
-    phone "\"Ok, nie będę ci ględził, dopóki wiesz co robić. W każdym razie muszę już kończyć. Porozmawiamy innym razem.\" "
+    phone "\"Ok, nie będę ci ględził, dopóki wiesz co robić. W każdym \nrazie muszę już kończyć. Porozmawiamy innym razem.\" "
 
 
 
@@ -2978,7 +2978,7 @@ translate polish s06_04_lie_941b9d89:
 
     voice voice_file.brother(6,13)
 
-    phone "\"A tak w ogóle. Ta twoja skrytka pod łóżkiem. Powinieneś ją lepiej schować, znalazłem ją w sekundę.\"  "
+    phone "\"A tak w ogóle. Ta twoja skrytka pod łóżkiem. \nPowinieneś ją lepiej schować, znalazłem ją w sekundę.\"  "
 
 
 
@@ -3058,7 +3058,7 @@ translate polish s06_04_lie_69b0d41e:
 
     # b "So... he found some of the books I brought home? I mean that's not a big deal, right? "
 
-    b "On... znalazł część książek, które przywiozłem do domu? \nChyba nie ma co się przejmować, prawda? "
+    b "On... znalazł część książek, które przywiozłem do \ndomu? Chyba nie ma co się przejmować, prawda? "
 
 
 
@@ -3070,7 +3070,7 @@ translate polish s06_04_lie_47b8bd26:
 
     # b "My bookshelf in Taipei if filled to the brim. If I didn't send some home, how would I be able to buy more?! "
 
-    b "Moja półka w Tajpej jest zapełniona po brzegi. Jak mógłbym kupić \nich więcej, gdybym nie wywiózł części z nich do domu?! "
+    b "Moja półka w Tajpej jest zapełniona po brzegi. Jak mógłbym \nkupić ich więcej, gdybym nie wywiózł części z nich do domu?! "
 
 
 
@@ -3218,7 +3218,7 @@ translate polish s06_04_lie_76adc9fd:
 
     voice voice_file.lpdcat(6,29)
 
-    lpdcat pout "\"To zawsze musi być kurczak! Codziennie! Bengalski kotek taki jak ja nie może dzień w dzień tolerować tego samego, nawet jeśli jest to soczysty, pyszny kurczak!\" "
+    lpdcat pout "\"To zawsze musi być kurczak! Codziennie! Bengalski kotek taki jak ja nie może dzień \nw dzień tolerować tego samego, nawet jeśli jest to soczysty, pyszny kurczak!\" "
 
 
 
@@ -4386,7 +4386,7 @@ translate polish s06_04_confess_e653d22b:
 
     # b "I know I'm just searching for someone to believe me but openeing up to my brother might not have been a great idea... Maybe I should've just said that I didn't know anything... "
 
-    b "Zdaję sobie sprawę, że po prostu szukam kogoś, kto mi uwierzy, ale otwarcie się przy moim bracie mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic o tym nie wiem... "
+    b "Zdaję sobie sprawę, że po prostu szukam kogoś, kto mi uwierzy, ale otwarcie się przy moim bracie mogło nie być najlepszym pomysłem... Może powinienem był powiedzieć, że nic o tym \nnie wiem... "
 
 
 
