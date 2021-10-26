@@ -16,7 +16,7 @@ translate polish strings:
 
     # old "Ending Review - Clouded Leopard"
     old "結局回顧 - 雲豹"
-    new "Podsumowanie - Mglista Pantera"
+    new "Podsumowanie - Lampart Mglisty"
 
     # old "Ending Review - Leopard Cat"
     old "結局回顧 - 石虎"
