@@ -10,7 +10,7 @@ translate polish s06_686be3a3:
 
     # b "Since speaking with Randolph, I've been thinking over what he said... about trying to find some other solution with the cats. "
 
-    b "Od czasu rozmowy z Randolfem zastanawiałem się nad tym, co powiedział... \no próbie znalezienia innego rozwiązania naszych problemów. "
+    b "Od czasu rozmowy z Randolfem zastanawiałem się nad tym, co \npowiedział... o próbie znalezienia innego rozwiązania naszych problemów. "
 
 
 
@@ -46,7 +46,7 @@ translate polish s06_43d140a6:
 
     # b "...I guess I've got no choice but to talk. Talk to each of them and try to understand everything. "
 
-    b "...Chyba nie mam innego wyboru. Muszę porozmawiać z każdym \nz nich i spróbować wszystko zrozumieć. "
+    b "...Chyba nie mam innego wyboru. Muszę porozmawiać \nz każdym z nich i spróbować wszystko zrozumieć. "
 
 
 
@@ -134,7 +134,7 @@ translate polish s06_e0383bb8:
 
     # b "A vague answer leaves me as I stumble my thoughts. Not that he seems too interested in listening anyway. "
 
-    b "Udzielam nieco niejasnej odpowiedzi, gubiąc się w myślach. \nI tak nie wydaje się, by bardzo go interesowała. "
+    b "Udzielam nieco niejasnej odpowiedzi, gubiąc się w \nmyślach. I tak nie wydaje się, by bardzo go interesowała. "
 
 
 
@@ -164,7 +164,7 @@ translate polish s06_55d0934e:
 
     # b "But back to the point... "
 
-    b "Nigdy przedtem nie widziałem kogoś tak bardzo zainteresowanego \njakością szkolnych podręczników. (Przynajmniej byłby z niego dobry nauczyciel.) "
+    b "Nigdy przedtem nie widziałem kogoś tak bardzo zainteresowanego jakością \nszkolnych podręczników. (Przynajmniej byłby z niego dobry nauczyciel.) "
 
     b "Wracając do tematu... "
 
@@ -198,7 +198,7 @@ translate polish s06_b9da53b2:
 
     tig normal "\"Hmm? Och, racja, nie martw się. Nie zamierzam \nżadnej z nich kupować. Są o wiele za drogie.\" "
 
-    tig normal "\"To prawda, że zawierają dużo informacji, ale mają też za dużo błyszczących stron ze zdjęciami. Chyba tylko po to, by podnieść koszty druku. Kompletnie niepotrzebnie.\" "
+    tig normal "\"To prawda, że zawierają dużo informacji, ale mają też za dużo błyszczących stron \nze zdjęciami. Chyba tylko po to, by podnieść koszty druku. Kompletnie niepotrzebnie.\" "
 
 
 
@@ -410,7 +410,7 @@ translate polish s06_dd1b6343:
 
     voice voice_file.tig(6,9)
 
-    tig normal "\"Pomóc mi? W czym niby mógłbym potrzebować pomocy... Czy chcesz \nmoże porozmawiać o zostaniu Jitongiem w naszej świątyni?\" "
+    tig normal "\"Pomóc mi? W czym niby mógłbym potrzebować pomocy... Czy \nchcesz może porozmawiać o zostaniu Jitongiem w naszej świątyni?\" "
 
 
 
@@ -422,7 +422,7 @@ translate polish s06_7e0455c6:
 
     # avt "\"Yes. Is there any way that I {i}don't{/i} \ have to go home and become a Jitong?\" "
 
-    avt "\"Tak. Czy jest jakiś sposób, bym {i}nie{/i} \ musiał wracać do domu i zostać Jitongiem?\" "
+    avt "\"Tak. Czy jest jakiś sposób, bym {i}nie{/i} musiał wracać do domu i zostać Jitongiem?\" "
 
 
 
@@ -442,7 +442,7 @@ translate polish s06_8dae540a:
 
     voice voice_file.tig(6,10)
 
-    tig normal "\"Twoja moc komunikacji z duchami jest rzadko spotykana, posiadasz coś niepospolitego i \nbardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
+    tig normal "\"Twoja moc komunikacji z duchami jest rzadko spotykana, posiadasz coś \nniepospolitego i bardzo wyjątkowego. To była by okropna strata, by z niej nie skorzystać.\" "
 
     tig normal "\"Jestem przekonany, że zarówno twoja rodzina jaki i sama \nŚwięta Matka byłaby zachwycona, gdybyś wybrał tę drogę.\" "
 
@@ -528,7 +528,7 @@ translate polish s06_a1c638b3:
 
     voice voice_file.tig(6,13)
 
-    tig normal "\"Gdybyś jednak postanowił zostać w Tajpej... Przypuszczam, \nże mógłbyś otworzyć tu małą świątynię.\" "
+    tig normal "\"Gdybyś jednak postanowił zostać w Tajpej... Chyba mógłbyś otworzyć tu małą świątynię.\" "
 
     tig normal "\"A jeśli nie jest to tym, czego pragniesz, ani ja, ani nikt inny nie stanie ci na drodze.\" "
 
@@ -566,7 +566,7 @@ translate polish s06_151d3f3d:
 
     tig normal "\"Tak jak mówiłem wcześniej. Nie musisz się spieszyć, \nmasz sporo czasu, by to wszystko przemyśleć.\" "
 
-    tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie jakimś \nkociakom i nie będzie żadnego problemu.\" "
+    tig normal "\"Po prostu nie obiecuj, że poświęcisz swe życie \njakimś kociakom i nie będzie żadnego problemu.\" "
 
 
 
@@ -866,7 +866,7 @@ translate polish s06_9010f98c:
 
     # avt "\"Hmm— You say that your tribe needs an oracle, but if I don't go to Wutai? Is there any other way to help you?\" "
 
-    avt "\"Hmm— Mówisz, że twoje plemię potrzebuje wyroczni, ale co jeśli \nnie pójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
+    avt "\"Hmm— Mówisz, że twoje plemię potrzebuje wyroczni, ale co \njeśli nie pójdę do Wutai? Czy jest jakiś inny sposób by ci pomóc?\" "
 
 
 
@@ -894,7 +894,7 @@ translate polish s06_4031173e:
 
     # avt "\"Like, finding someway I don't need to be there physically? The internet's pretty handy these days! People could just send questions and I could answer back from home.\" "
 
-    avt "\"Na przykład, znajdując jakiś sposób abym nie musiał tam fizycznie być? Internet w dzisiejszych czasach jest bardzo pomocny! Ludzie mogliby wysyłać pytania, a ja odpowiadać na nie z domu.\" "
+    avt "\"Na przykład, znajdując jakiś sposób abym nie musiał tam fizycznie być? Internet w dzisiejszych czasach jest bardzo pomocny! Ludzie mogliby wysyłać pytania, a ja odpowiadać na nie z \ndomu.\" "
 
 
 
@@ -1104,7 +1104,7 @@ translate polish s06_c9dc8ac1:
 
     # b "\"And Leopard, he's determined to get {i}something{/i} \ across to his tribe.\" "
 
-    b "Pewnie, są rzeczy, które {i}koniecznie{/i} trzeba przedyskutować w cztery oczy, \nale to nie tyczy się wszystkiego... "
+    b "Pewnie, są rzeczy, które {i}koniecznie{/i} trzeba przedyskutować \nw cztery oczy, ale to nie tyczy się wszystkiego... "
 
     b "Może Lampart potrzebuje mnie jedynie by przekazać wiadomość swojemu plemieniu? "
 
@@ -1342,7 +1342,7 @@ translate polish s06_e0b55215:
 
     # b "I'm kinda worried that Leopard would take offense to Senpai's new nickname for him... but his expression never changes. "
 
-    b "Trochę się martwię, iż Lampart mógłby uznać swoje nowe przezwisko \nza obrazę... ale wyraz jego twarzy nigdy się nie zmienia. "
+    b "Trochę się martwię, iż Lampart mógłby uznać swoje nowe \nprzezwisko za obrazę... ale wyraz jego twarzy nigdy się nie zmienia. "
 
 
 
@@ -1586,7 +1586,7 @@ translate polish s06_82b7dd4f:
 
     # b "He was eating pork rib noodles... The school cafeteria is famous for having the best fried ribs around, and they're even better when dipped in rich soupy broth! ...But now's not the time to shill my college."
 
-    b "Zajadał się makaronem z żeberkami... Nasza szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone w intensywnym bulionie są jeszcze lepsze! ...Ale nie czas teraz na wychwalanie mojej uczelni. "
+    b "Zajadał się makaronem z żeberkami... Nasza szkolna stołówka jest znana z najlepszych smażonych żeberek w okolicy. Zanurzone w intensywnym bulionie są jeszcze lepsze! \n...Ale nie czas teraz na wychwalanie mojej uczelni. "
 
 
 
@@ -1598,7 +1598,7 @@ translate polish s06_da55dea0:
 
     # avt "\"You know— about what you want— about going with you to Miaoli to help restore your temple...\" "
 
-    avt "\"Wiesz co— chcę porozmawiać— o pójściu z tobą do \nMiaoli w celu pomocy z odnową twojej świątyni...\" "
+    avt "\"Wiesz co— chcę porozmawiać— o pójściu z tobą \ndo Miaoli w celu pomocy z odnową twojej świątyni...\" "
 
 
 
@@ -2174,7 +2174,7 @@ translate polish s06_3cfbc7b8:
 
     # avt "\"Isn't there a better way to do this? ...I'm pretty bored just sitting here watching you \nread.\" "
 
-    avt "\"Nie ma na to jakiegoś lepszego sposobu? ...Trochę mnie \nnudzi siedzenie tutaj i obserwowanie jak czytasz.\"  "
+    avt "\"Nie ma na to jakiegoś lepszego sposobu? ...Trochę \nmnie nudzi siedzenie tutaj i obserwowanie jak czytasz.\"  "
 
 
 
@@ -4398,7 +4398,7 @@ translate polish s06_04_confess_1d8ffd31:
 
     # b "I take a deep breath and look back to my computer. The website I was searching through with Tiger is still up on the screen. "
 
-    b "Biorę głęboki oddech i spoglądam ponownie w kierunku komputera. Strona, \nktórą przeglądałem wraz z Tygrysem wciąż znajduje się na ekranie. "
+    b "Biorę głęboki oddech i spoglądam ponownie w kierunku komputera. \nStrona, którą przeglądałem wraz z Tygrysem wciąż znajduje się na ekranie. "
 
 
 
