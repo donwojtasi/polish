@@ -70,7 +70,7 @@ translate polish s06_f73c6f1f:
 
     # b "It'd be easy to talk to Tiger privately at least. Since we're in the bookstore, Senpai's in class and Leopard can't read anyway so he's be off gallivanting somewhere. "
 
-    b "Przynajmniej nie będzie problemu, by porozmawiać z Tygrysem sam na sam. Gdy jesteśmy \nw księgarni, Senpaj ma zajęcia, a Lampart i tak nie umie czytać, więc gdzieś się włóczy. "
+    b "Przynajmniej nie będzie problemu, by porozmawiać z Tygrysem sam na sam. Gdy jesteśmy \nw księgarni, Senpai ma zajęcia, a Lampart i tak nie umie czytać, więc gdzieś się włóczy. "
 
 
 
@@ -736,7 +736,7 @@ translate polish s06_555bbd83:
 
     # b "Today, I make sure to go to a corner away from Senpai and Tiger to practise. Leopard followed me so this should be as good of a time as any. "
 
-    b "Lampart zawsze na nie przychodzi, podczas gdy Tygrys stoi na \nuboczu, a Senpaj zazwyczaj jest zajęty swoimi rówieśnikami. "
+    b "Lampart zawsze na nie przychodzi, podczas gdy Tygrys stoi na \nuboczu, a Senpai zazwyczaj jest zajęty swoimi rówieśnikami. "
 
     b "Dzisiaj upewniam się, że stoję gdzieś w rogu z dala od Senpaja i Tygrysa. Lampart \nidzie za mną, a więc to dobry moment by wreszcie przestać z tym zwlekać.  "
 
@@ -1278,7 +1278,7 @@ translate polish s06_3bc0cae9:
 
     # b "Senpai grabs Leopard's paw in his to emphasise his point. Leopard doesn't seem to object to the move, but his face is {i}always{/i} \ the same, so I can't really tell either way. "
 
-    b "Senpaj chwyta Lamparta za łapę by podkreślić swój wywód. Nie wydaje się, żeby Lampart \nmiał coś przeciwko temu, ale jego wyraz twarzy jest {i}zawsze{/i} taki sam, więc ciężko mi to stwierdzić. "
+    b "Senpai chwyta Lamparta za łapę by podkreślić swój wywód. Nie wydaje się, żeby Lampart \nmiał coś przeciwko temu, ale jego wyraz twarzy jest {i}zawsze{/i} taki sam, więc ciężko mi to stwierdzić. "
 
 
 
@@ -1406,7 +1406,7 @@ translate polish s06_673b7a00:
 
     # avt "\"Well, then— You know Senpai, it's pretty rude to cut into other people's \nconversations.\" "
 
-    avt "\"W takim razie— Wiesz, Senpaj, to trochę nie na miejscu wtrącać się w rozmowy innych.\" "
+    avt "\"W takim razie— Wiesz, Senpai, to trochę nie na miejscu wtrącać się w rozmowy innych.\" "
 
 
 
@@ -1558,7 +1558,7 @@ translate polish s06_83e6fc6c:
 
     # avt "\"You know, Senpai...\" "
 
-    avt "\"Wiesz co, Senpaj...\" "
+    avt "\"Wiesz co, Senpai...\" "
 
 
 
@@ -1754,7 +1754,7 @@ translate polish s06_bcd88c3d:
 
     # avt "\"Your reasoning isn't very convincing Senpai...\" "
 
-    avt "\"Twoje rozumowanie nie jest zbyt przekonujące, Senpaj...\" "
+    avt "\"Twoje rozumowanie nie jest zbyt przekonujące, Senpai...\" "
 
 
 
@@ -2442,7 +2442,7 @@ translate polish s06_02_convince_11dd25cb:
 
     # avt "\"Senpai, if you and Tiger can get used to helping each other out on the computer, then maybe he'd stop asking you to leave.\" "
 
-    avt "\"Senpaj, jeżeli ty i Tygrys przywykniecie do pomagania sobie nawzajem \nprzy komputerze, to może on wreszcie przestanie kazać ci stąd odejść.\" "
+    avt "\"Senpai, jeżeli ty i Tygrys przywykniecie do pomagania sobie nawzajem \nprzy komputerze, to może on wreszcie przestanie kazać ci stąd odejść.\" "
 
 
 
@@ -3778,7 +3778,7 @@ translate polish s06_04_confess_9eb42f3e:
 
     # avt "\"Oh? But Senpai...\" "
 
-    avt "\"Och? Ale Senpaj...\" "
+    avt "\"Tak? Ale Senpai...\" "
 
 
 

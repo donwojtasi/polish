@@ -86,7 +86,7 @@ translate polish week1_01_f07976e9:
 
     # avt "\"Well... I'll be fine later on. Even Senpai's wearing even less than me.\" "
 
-    avt "\"No cóż... przecież później zrobi się cieplej. Senpaj ubiera się jeszcze lżej ode mnie.\" "
+    avt "\"No cóż... przecież później zrobi się cieplej. Senpai ubiera się jeszcze lżej ode mnie.\" "
 
 
 
@@ -854,7 +854,7 @@ translate polish week1_01_76ae5720:
 
     # avt "\"Ugh... I told you it's all Senpai who...\" "
 
-    avt "\"Uhh... Mówiłem ci już, to wszystko Senpaj, który...\" "
+    avt "\"Uhh... Mówiłem ci już, to wszystko Senpai, który...\" "
 
 
 
@@ -950,7 +950,7 @@ translate polish week1_01_edc9f91c:
 
     b "Gdy lider klubu ogłasza, że jesteśmy wolni, bierzemy swoje rzeczy i szykujemy się do wyjścia... "
 
-    b "Nagle podchodzi do mnie Senpaj. "
+    b "Nagle podchodzi do mnie Senpai. "
 
 
 
@@ -978,7 +978,7 @@ translate polish week1_01_b2f641d5:
 
     # avt "\"Senpai, I told you not to talk to me during practice.\" "
 
-    avt "\"Senpaj, mówiłem ci, chyba żebyś ze mną nie rozmawiał podczas treningu.\" "
+    avt "\"Senpai, mówiłem ci, chyba żebyś ze mną nie rozmawiał podczas treningu.\" "
 
 
 
@@ -1090,7 +1090,7 @@ translate polish week1_01_c58b3097:
 
     # avt "\"Senpai...\" "
 
-    avt "\"Senpaj...\" "
+    avt "\"Senpai...\" "
 
 
 
@@ -1302,7 +1302,7 @@ translate polish week1_saturday_tig_dc1838f1:
 
     # b "Senpai clenches his fists and Leopard sends me a piercing glare. Why does this stuff always end up being so complicated... "
 
-    b "Senpaj zaciska pięści, a Lampart posyła mi przenikliwe \nspojrzenie. Dlaczego to zawsze jest takie skomplikowane... "
+    b "Senpai zaciska pięści, a Lampart posyła mi przenikliwe \nspojrzenie. Dlaczego to zawsze jest takie skomplikowane... "
 
 
 
@@ -3026,7 +3026,7 @@ translate polish cg_01_74799ca2:
 
     # b "I don't really want any myself, but this is a good chance to get him something as an apology. Senpai's back home to help me eat this stuff anyway. "
 
-    b "Sam nie mam na nic ochoty, ale to dobra okazja, by wziąć coś dla niego \nw ramach przeprosin. W domu Senpaj pomoże mi to wszystko zjeść. "
+    b "Sam nie mam na nic ochoty, ale to dobra okazja, by wziąć coś dla niego \nw ramach przeprosin. W domu Senpai pomoże mi to wszystko zjeść. "
 
 
 
@@ -3386,7 +3386,7 @@ translate polish cg_01_2058cd1c:
 
     # b "Senpai is surprised when I ask him to help with the snacks I got Tiger. "
 
-    b "Senpaj jest zaskoczony, gdy pytam się, czy pomoże mi to wszystko zjeść. "
+    b "Senpai jest zaskoczony, gdy pytam się, czy pomoże mi to wszystko zjeść. "
 
 
 
@@ -3502,7 +3502,7 @@ translate polish cg_01_bd61c8f5:
 
     # b "So, if that's the case... crap. I assumed Senpai would help me out. Otherwise I wouldn't have let that Tiger get so much. What do I do now? "
 
-    b "Jeśli tak się sprawy mają... cholera. Liczyłem, że Senpaj mi pomoże. Nie pozwoliłbym \nTygrysowi wziąć tak dużo, gdybym o tym wiedział. Co ja z tym teraz zrobię? "
+    b "Jeśli tak się sprawy mają... cholera. Liczyłem, że Senpai mi pomoże. Nie pozwoliłbym \nTygrysowi wziąć tak dużo, gdybym o tym wiedział. Co ja z tym teraz zrobię? "
 
 
 
@@ -3688,7 +3688,7 @@ translate polish week1_saturday_lpd_4c39e888:
 
     # avt "\"It's ok Senpai. I'm going with him.\" "
 
-    avt "\"Dla mnie to nie problem, Senpaj. Wychodzę z nim.\" "
+    avt "\"Dla mnie to nie problem, Senpai. Wychodzę z nim.\" "
 
 
 
@@ -3888,7 +3888,7 @@ translate polish week1_saturday_lpd_301ef62e:
 
     # b "Senpai grabs his phone and walks out. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i wychodzi. Tak nagle, \nże nawet gdybym próbował to nie zdążyłbym go zatrzymać. "
+    b "Senpai zabiera swój telefon i wychodzi. Tak nagle, \nże nawet gdybym próbował to nie zdążyłbym go zatrzymać. "
 
 
 
@@ -6588,7 +6588,7 @@ translate polish week1_saturday_lpdcat_a09f2950:
 
     # b "Senpai has constantly been trying to get me to have dinner with him after all. Though it's not like I've made an effort to compromise with him either. "
 
-    b "Senpaj przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż \nnie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
+    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż \nnie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
 
 
 
@@ -6864,7 +6864,7 @@ translate polish cg_03_64ce7b1f:
 
     # b " That's totally irrelevant! But he's right, I've never seen Senpai wear much. "
 
-    b "To zupełnie nieistotne! Ale ma rację, nigdy nie widziałem, by Senpaj ciepło się ubierał. "
+    b "To zupełnie nieistotne! Ale ma rację, nigdy nie widziałem, by Senpai ciepło się ubierał. "
 
 
 
@@ -6916,7 +6916,7 @@ translate polish cg_03_9a1a1b05:
 
     # b "Senpai cheerfully leads me around the corner and up to one of the street-side stands. "
 
-    b "Senpaj radośnie prowadzi mnie do jednej z wystaw sklepowych położonych za rogiem. "
+    b "Senpai radośnie prowadzi mnie do jednej z wystaw sklepowych położonych za rogiem. "
 
 
 
@@ -6980,7 +6980,7 @@ translate polish cg_03_d3c3ee39:
 
     # b "Senpai tries on a hat that looks like a husky. Wait, is it okay to try these straight off the shelf?! "
 
-    b "Senpaj zakłada na siebie czapkę wyglądającą jak husky. \nCzekaj, czy wypada przymierzać je bezpośrednio w sklepie?! "
+    b "Senpai zakłada na siebie czapkę wyglądającą jak husky. \nCzekaj, czy wypada przymierzać je bezpośrednio w sklepie?! "
 
 
 
@@ -7004,7 +7004,7 @@ translate polish cg_03_6229848b:
 
     # b "Senpai adjusts the hat and swings around dramatically. The dangling pom poms swoosh around in the air as he moves. "
 
-    b "Senpaj poprawia czapkę i gwałtownie się obraca. \nZwisające pompony wirują w powietrzu, gdy się porusza. "
+    b "Senpai poprawia czapkę i gwałtownie się obraca. \nZwisające pompony wirują w powietrzu, gdy się porusza. "
 
 
 
@@ -7188,7 +7188,7 @@ translate polish week1_03_lpdcat_buy_5cb8971b:
 
     # b "Senpai shouts with joy when he sees me paying for the hat. The pom poms dance in the air as he bounces with excitement. I put my hand on top of his head, both to calm him down and to keep the hat from falling off. "
 
-    b "Senpaj aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy \nskacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić, oraz uchronić czapkę przed spadnięciem. "
+    b "Senpai aż krzyczy z radości widząc, że płacę za czapkę. Pompony tańczą w powietrzu, gdy \nskacze z radości. Kładę rękę na jego głowie, by go nieco uspokoić, oraz uchronić czapkę przed spadnięciem. "
 
 
 
@@ -7216,7 +7216,7 @@ translate polish week1_03_lpdcat_buy_bc67f244:
 
     # b " Senpai lowers his head and gives an adorable look. Damn. How does he do that? "
 
-    b "Senpaj pochyla nieco głowę i robi naprawdę uroczą minę. Kurde. Jak on to robi? "
+    b "Senpai pochyla nieco głowę i robi naprawdę uroczą minę. Kurde. Jak on to robi? "
 
 
 
@@ -7332,7 +7332,7 @@ translate polish week1_03_lpdcat_buy_a0c44084:
 
     # b "After a while, Senpai says he wants to get a gift for me. So he ends up getting me a husky plush toy that matches his hat. Even though it's cute, I don't think I have a place to put it. "
 
-    b "Po chwili Senpaj oznajmia, że też chce znaleźć dla mnie prezent. Wreszcie znajduje dla mnie pluszaka husky, podobnego do jego czapki. Mimo że jest uroczy, nie wiem, czy znajdę miejsce, by go postawić. "
+    b "Po chwili Senpai oznajmia, że też chce znaleźć dla mnie prezent. Wreszcie znajduje dla mnie pluszaka husky, podobnego do jego czapki. Mimo że jest uroczy, nie wiem, czy znajdę miejsce, by go postawić. "
 
 
 
@@ -7344,7 +7344,7 @@ translate polish week1_03_lpdcat_buy_a3256e35:
 
     # b "Afterwards Senpai goes through a few clothes stores but doesn't end up buying anything. "
 
-    b "Potem Senpaj ciągnie mnie przez kilka sklepów z ubraniami, ale ostatecznie nic nie kupuje. "
+    b "Potem Senpai ciągnie mnie przez kilka sklepów z ubraniami, ale ostatecznie nic nie kupuje. "
 
 
 
@@ -7400,7 +7400,7 @@ translate polish week1_03_lpdcat_dontbuy_272cdefe:
 
     # avt "\"Senpai, at least try to be convincing...\" "
 
-    avt "\"Senpaj, przynajmniej spróbuj być przekonujący...\" "
+    avt "\"Senpai, przynajmniej spróbuj być przekonujący...\" "
 
 
 
@@ -7436,7 +7436,7 @@ translate polish week1_03_lpdcat_dontbuy_9a0fd12a:
 
     # b "So, I shake my head in disagreement. Senpai pouts back. "
 
-    b "Kręcę głową w geście odmowy. Senpaj się dąsa. "
+    b "Kręcę głową w geście odmowy. Senpai się dąsa. "
 
 
 
@@ -7492,7 +7492,7 @@ translate polish week1_03_lpdcat_dontbuy_595c49d7:
 
     # avt "\"We're not a couple though. You're a good friend to me Senpai but don't expect me to just buy gifts for you.\" "
 
-    avt "\"Nie jesteśmy przecież parą. Jesteś moim dobrym przyjacielem, \nSenpaj, ale nie oczekuj, że będę ci kupował prezenty.\" "
+    avt "\"Nie jesteśmy przecież parą. Jesteś moim dobrym przyjacielem, \nSenpai, ale nie oczekuj, że będę ci kupował prezenty.\" "
 
 
 
@@ -7580,7 +7580,7 @@ translate polish week1_04_lpdcat_4e12a0d0:
 
     # b "I'm tired, we'd been walking for ages at this point. I must be visibly straining so to the point where Senpai picks up on it. "
 
-    b "Jestem zmęczony, a chodziliśmy godzinami po sklepach. Pewnie to \npo mnie widać, bo w pewnym momencie sam Senpaj to zauważa. "
+    b "Jestem zmęczony, a chodziliśmy godzinami po sklepach. Pewnie to \npo mnie widać, bo w pewnym momencie sam Senpai to zauważa. "
 
 
 
@@ -7708,7 +7708,7 @@ translate polish week1_04_lpdcat_1bf41a43:
 
     # b "It's subtle, but I notice Senpai grumbling under his breath when I said that. "
 
-    b "Słyszę jak Senpaj cicho burczy coś pod nosem po tym, co powiedziałem. "
+    b "Słyszę jak Senpai cicho burczy coś pod nosem po tym, co powiedziałem. "
 
 
 
@@ -7736,7 +7736,7 @@ translate polish week1_04_lpdcat_2248b14e:
 
     # b "Senpai brings us to a food cart. If the lines this long the food must be amazing! Well, lets hope it is... "
 
-    b "Senpaj prowadzi nas do wózka z jedzeniem. Musi być niesamowite, skoro \nczekamy w tak długiej kolejce! A przynajmniej taką mam nadzieję... "
+    b "Senpai prowadzi nas do wózka z jedzeniem. Musi być niesamowite, skoro \nczekamy w tak długiej kolejce! A przynajmniej taką mam nadzieję... "
 
 
 
@@ -7760,7 +7760,7 @@ translate polish week1_04_lpdcat_57ccccbd:
 
     # b "Senpai attempts to hold the bag of fried chicken and his drink at the same time... Now he's trying to use the skewer to pick up the chicken from the bag as well. I hope he doesn't spill the tea everywhere. "
 
-    b "Senpaj próbuje jednocześnie trzymać torbę z kurczakiem i pić... A teraz stara się użyć \nszpikulca, by wyjąć kurczaka z dna torby. Mam nadzieję, że nie porozlewa wszędzie herbaty. "
+    b "Senpai próbuje jednocześnie trzymać torbę z kurczakiem i pić... A teraz stara się użyć \nszpikulca, by wyjąć kurczaka z dna torby. Mam nadzieję, że nie porozlewa wszędzie herbaty. "
 
 
 
@@ -7928,7 +7928,7 @@ translate polish week1_04_lpdcat_cd78e1a8:
 
     # b "Senpai has his mouth open ...waiting for me to feed him. "
 
-    b "Senpaj otworzył szeroko buzię... czekając aż go nakarmię. "
+    b "Senpai otworzył szeroko buzię... czekając aż go nakarmię. "
 
 
 
@@ -7940,7 +7940,7 @@ translate polish week1_04_lpdcat_e30fa2e4:
 
     # avt "\"...Senpai. Can't you just eat your own?\" "
 
-    avt "\"...Senpaj. Nie możesz sam sobie poradzić?\" "
+    avt "\"...Senpai. Nie możesz sam sobie poradzić?\" "
 
 
 
@@ -7968,7 +7968,7 @@ translate polish week1_04_lpdcat_80b09c7e:
 
     # avt "\"Senpai... Unlike him, people can actually see you! Please don't embarrass me so \nmuch.\" "
 
-    avt "\"Senpaj... W przeciwieństwie do niego, ciebie ludzie \nmogą zobaczyć! Proszę nie zawstydzaj mnie tak.\" "
+    avt "\"Senpai... W przeciwieństwie do niego, ciebie ludzie \nmogą zobaczyć! Proszę nie zawstydzaj mnie tak.\" "
 
 
 
@@ -8052,7 +8052,7 @@ translate polish week1_04_lpdcat_4ec0d515:
 
     # avt "\"Senpai, sometimes you're such an idiot you know...\" "
 
-    avt "\"Senpaj, czasami niezły z ciebie głupek, wiesz...\" "
+    avt "\"Senpai, czasami niezły z ciebie głupek, wiesz...\" "
 
 
 
@@ -8092,7 +8092,7 @@ translate polish week1_04_lpdcat_34c50762:
 
     # avt "\"Senpai, do you just treat everyone like this?\" "
 
-    avt "\"Senpaj, czy wszystkich tak traktujesz?\" "
+    avt "\"Senpai, czy wszystkich tak traktujesz?\" "
 
 
 
@@ -8140,7 +8140,7 @@ translate polish week1_04_lpdcat_4609a539:
 
     # avt "\"Umm... Senpai, {i}why{/i} \ do you want to be in a relationship with me?\" "
 
-    avt "\"Umm... Senpaj,{i}czemu{/i} chcesz być ze mną w związku?\" "
+    avt "\"Umm... Senpai,{i}czemu{/i} chcesz być ze mną w związku?\" "
 
 
 
@@ -8152,7 +8152,7 @@ translate polish week1_04_lpdcat_7ba83e85:
 
     # b "Senpai winks at me and swallows the chicken he was chewing on. "
 
-    b "Senpaj mruga w moją stronę i przełyka kurczaka, którego żuł. "
+    b "Senpai mruga w moją stronę i przełyka kurczaka, którego żuł. "
 
 
 
@@ -8304,7 +8304,7 @@ translate polish week1_04_lpdcat_18e881c6:
 
     # avt "\"But, even if we went back to Miaoli. Senpai, uh, you wouldn't be Senpai anymore, right?\" "
 
-    avt "\"Ale nawet gdybyśmy wrócili do Miaoli. Senpaj, ee, nie byłbyś dłużej Senpajem, prawda?\" "
+    avt "\"Ale nawet gdybyśmy wrócili do Miaoli. Senpai, ee, nie byłbyś dłużej Senpajem, prawda?\" "
 
 
 
@@ -8544,7 +8544,7 @@ translate polish week1_04_lpdcat_9b421745:
 
     # b "Senpai moves in close, he's a bit shorter than me. Then he reaches and pats my shoulder softly with his paw. "
 
-    b "Senpaj przysuwa się bliżej, jest trochę niższy ode \nmnie. Sięga łapą i delikatnie klepie mnie po ramieniu. "
+    b "Senpai przysuwa się bliżej, jest trochę niższy ode \nmnie. Sięga łapą i delikatnie klepie mnie po ramieniu. "
 
 
 
@@ -8740,7 +8740,7 @@ translate polish week1_04_lpdcat_f848a04a:
 
     # b "Senpai shows up suddenly with a bag of marinated cocktail sausages, cutting off my conversation with Tiger. "
 
-    b "Senpaj pojawia się nagle z torbą marynowanych kiełbasek \nkoktajlowych, przerywając moją rozmowę z Tygrysem. "
+    b "Senpai pojawia się nagle z torbą marynowanych kiełbasek \nkoktajlowych, przerywając moją rozmowę z Tygrysem. "
 
 
 
@@ -8768,7 +8768,7 @@ translate polish week1_04_lpdcat_d68ff4bf:
 
     # avt "\"...Yeah Senpai. I'll have some.\" "
 
-    avt "\"...Tak, Senpaj. Chętnie wezmę trochę.\" "
+    avt "\"...Tak, Senpai. Chętnie wezmę trochę.\" "
 
 
 
@@ -8820,7 +8820,7 @@ translate polish week1_04_lpdcat_dbefc7e1:
 
     # b "I'm still super tired, so I just lie down on my bed and use my phone. After Senpai's shower, I end up talking with him for a little while. Afterwards, we end up going to bed early for the night. "
 
-    b "Wciąż jestem bardzo zmęczony, więc kładę się na łóżku i stukam w telefon. Gdy Senpaj wraca \nspod prysznica, rozmawiam z nim przez krótką chwilę. Potem kładziemy się spać o wiele wcześniej niż zwykle. "
+    b "Wciąż jestem bardzo zmęczony, więc kładę się na łóżku i stukam w telefon. Gdy Senpai wraca \nspod prysznica, rozmawiam z nim przez krótką chwilę. Potem kładziemy się spać o wiele wcześniej niż zwykle. "
 
 
 
@@ -9048,7 +9048,7 @@ translate polish week1_sunday_tig_lpd_4c39e888:
 
     # avt "\"It's ok Senpai. I'm going with him.\" "
 
-    avt "\"Dla mnie to nie problem, Senpaj. Wychodzę z nim.\" "
+    avt "\"Dla mnie to nie problem, Senpai. Wychodzę z nim.\" "
 
 
 
@@ -9248,7 +9248,7 @@ translate polish week1_sunday_tig_lpd_301ef62e:
 
     # b "Senpai grabs his phone and starts heading out immediately. It's so sudden, I wouldn't be able to stop him if I tried. "
 
-    b "Senpaj zabiera swój telefon i natychmiast wychodzi. Tak nagle, \nże nawet gdybym próbował, to nie zdążyłbym go zatrzymać. "
+    b "Senpai zabiera swój telefon i natychmiast wychodzi. Tak nagle, \nże nawet gdybym próbował, to nie zdążyłbym go zatrzymać. "
 
 
 
@@ -9680,7 +9680,7 @@ translate polish week1_sunday_tig_lpdcat_a09f2950:
 
     # b "Senpai has constantly been trying to get me to have dinner with him after all. Though it's not like I've made an effort to compromise with him either. "
 
-    b "Senpaj przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż \nnie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
+    b "Senpai przez cały czas próbował nakłonić mnie, bym zjadł z nim obiad. Chociaż \nnie żebym podejmował jakąkolwiek próbę pójścia z nim na kompromis. "
 
 
 
@@ -10044,7 +10044,7 @@ translate polish week1_sunday_lpd_tig_15ab2bc2:
 
     # b "Senpai trudges over to sit in a corner of the room in a fit of pique. grumpily poking at his phone. "
 
-    b "Senpaj wygląda na urażonego i siada w rogu pokoju, zaciekle stukając w telefon. "
+    b "Senpai wygląda na urażonego i siada w rogu pokoju, zaciekle stukając w telefon. "
 
 
 
@@ -10900,7 +10900,7 @@ translate polish week1_sunday_lpdcat_lpd_4c39e888:
 
     # avt "\"It's ok Senpai. I'm going with him.\" "
 
-    avt "\"Dla mnie to nie problem, Senpaj. Wychodzę z nim.\" "
+    avt "\"Dla mnie to nie problem, Senpai. Wychodzę z nim.\" "
 
 
 

@@ -50,7 +50,7 @@ translate polish s07_d13b7b99:
 
     # b "Senpai jumps out of nowhere, determined to get my attention.\n(Shocking the living daylights out of me like usual.) "
 
-    b "Senpaj pojawia się znikąd chcąc zwrócić na siebie moją uwagę.\n(Jak zwykle śmiertelnie mnie strasząc.) "
+    b "Senpai pojawia się znikąd chcąc zwrócić na siebie moją uwagę.\n(Jak zwykle niemal doprowadzając mnie do zawału.) "
 
 
 
@@ -78,7 +78,7 @@ translate polish s07_465ac3a6:
 
     # avt "\"Again? Senpai, you always want to go out. Aren't you tired?\" "
 
-    avt "\"Znowu? Senpaj, zawsze gdzieś cię nosi. Nie jesteś zmęczony?\" "
+    avt "\"Znowu? Senpai, zawsze gdzieś cię nosi. Nie jesteś zmęczony?\" "
 
 
 
@@ -610,7 +610,7 @@ translate polish s07_706b14df:
 
     # avt "\"Are you even capable of felling cold Senpai...\" "
 
-    avt "\"Czy jesteś w stanie czuć jakiekolwiek zimno, Senpaj...\" "
+    avt "\"Czy jesteś w stanie czuć jakiekolwiek zimno, Senpai...\" "
 
 
 
@@ -794,7 +794,7 @@ translate polish s07_35c30c41:
 
     voice voice_file.lpdcat(7,22)
 
-    lpdcat not_reconcile "\"Oooo0— Chcę spróbować!\" "
+    lpdcat not_reconcile "\"Ooooo— Chcę spróbować!\" "
 
 
 
@@ -806,7 +806,7 @@ translate polish s07_ea36143d:
 
     # b "Senpai runs over and gives me a big hug. " with vshake
 
-    b "Senpaj podbiega i mocno mnie przytula. " with vshake
+    b "Senpai podbiega i mocno mnie przytula. " with vshake
 
 
 
@@ -958,7 +958,7 @@ translate polish s07_b1125a14:
 
     # avt "\"Hey Senpai, what do tung flowers even look like?\" "
 
-    avt "\"Hej, Senpaj, jak wyglądają kwiaty tungowca?\" "
+    avt "\"Hej, Senpai, jak wyglądają kwiaty tungowca?\" "
 
 
 
@@ -1274,7 +1274,7 @@ translate polish s07_83f9137c:
 
     # avt "\"Senpai... I still think this place is really nice. Isn't it the perfect time to have our picnic anyway?\" "
 
-    avt "\Senpaj... I tak myślę, że całkiem tu przyjemnie. Czyż to nie świetny moment na nasz piknik?\" "
+    avt "\Senpai... I tak myślę, że całkiem tu przyjemnie. Czyż to nie świetny moment na nasz piknik?\" "
 
 
 
@@ -1314,7 +1314,7 @@ translate polish s07_f6c00385:
 
     # b "Senpai runs over to the tree, holding his paws against the trunk... "
 
-    b "Senpaj podbiega do drzewa, opierając łapy na jego pniu... "
+    b "Senpai podbiega do drzewa, opierając łapy na jego pniu... "
 
 
 
@@ -1354,7 +1354,7 @@ translate polish s07_7b821894:
 
     # b "Senpai stands before the tree, puts his paws up to his chest, and performs some kind of ritualistic hand sign. A green aura slowly starts to emanate from within him. " with flash_green
 
-    b "Senpaj staje przed drzewem, kładzie łapy na klatce piersiowej i wykonuje jakiś rytualny znak ręką. Powoli zaczyna z niego emanować zielona aura. " with flash_green
+    b "Senpai staje przed drzewem, kładzie łapy na klatce piersiowej i wykonuje jakiś rytualny znak ręką. Powoli zaczyna z niego emanować zielona aura. " with flash_green
 
 
 
@@ -1578,7 +1578,7 @@ translate polish s07_060f3c6b:
 
     # b "Senpai swiftly takes the blanket out from his backpack and spreads it down between falling tung petals. "
 
-    b "Senpaj wyciąga szybko koc ze swojego plecaka i rozkłada go wśród spadających wokoło płatków. "
+    b "Senpai wyciąga szybko koc ze swojego plecaka i rozkłada go wśród spadających wokoło płatków. "
 
 
 
@@ -1606,7 +1606,7 @@ translate polish s07_7ffb4237:
 
     # avt "\"Sweets? We aren't kids you know... {i}Mister Big College Senpai{/i}.\" "
 
-    avt "\"Słodycze? Nie jesteśmy już dziećmi... {i}Panie Senpaj, studencie od siedmiu boleści{/i}.\" "
+    avt "\"Słodycze? Nie jesteśmy już dziećmi... {i}Panie Senpai, studencie od siedmiu boleści{/i}.\" "
 
 
 
@@ -1634,7 +1634,7 @@ translate polish s07_270eb852:
 
     # b "Senpai drops his backpack down and takes out some cookies, crackers and an assortment of pastries. I mean you {i}could{/i} \ eat that all in one go, but it's hardly a proper meal. "
 
-    b "Senpaj upuszcza plecak i wyciąga z niego ciastka, herbatniki i inne słodkie rzeczy. Zmierzam do tego, że {i}da się{/i} \ to wszystko zjeść za jednym razem, ale ciężko nazwać to dobrym posiłkiem. "
+    b "Senpai upuszcza plecak i wyciąga z niego ciastka, herbatniki i inne słodkie rzeczy. Zmierzam do tego, że {i}da się{/i} \ to wszystko zjeść za jednym razem, ale ciężko nazwać to dobrym posiłkiem. "
 
 
 
@@ -1674,7 +1674,7 @@ translate polish s07_68295b75:
 
     # b "I made it while Senpai was still sleeping. I never cook so I just used some recipe I found on the internet— so it probably didn't turn out any good. "
 
-    b "Zrobiłem je, gdy Senpaj jeszcze spał. Nigdy nie gotuję, toteż skorzystałem z przepisu znalezionego w internecie— pewnie nie wyszło z tego nic dobrego. "
+    b "Zrobiłem je, gdy Senpai jeszcze spał. Nigdy nie gotuję, toteż skorzystałem z przepisu znalezionego w internecie— pewnie nie wyszło z tego nic dobrego. "
 
 
 
@@ -1994,7 +1994,7 @@ translate polish s07_9bd9b0b8:
 
     # b "Senpai looks at me with unconvincing sad puppy eyes while Tiger and Leopard slowly close in on me... What should I do? "
 
-    b "Senpaj spogląda na mnie nieprzekonująco smutnymi oczami, a Tygrys i Lampart powoli się zbliżają... Co powinienem zrobić? "
+    b "Senpai spogląda na mnie nieprzekonująco smutnymi oczami, a Tygrys i Lampart powoli się zbliżają... Co powinienem zrobić? "
 
 
 
@@ -2150,7 +2150,7 @@ translate polish s07_02_lpdcat_146d5ef0:
 
     # avt "\"Senpai, that junk food is all you brought, right?\" "
 
-    avt "\"Senpaj, te śmieciowe żarcie to wszystko co ze sobą zabrałeś?\" "
+    avt "\"Senpai, te śmieciowe żarcie to wszystko co ze sobą zabrałeś?\" "
 
 
 
@@ -3462,7 +3462,7 @@ translate polish s07_03_743bb4bc:
 
     # avt "\"Well... at least I know Senpai is a—\" "
 
-    avt "\"Cóż... przynajmniej wiem, że Senpaj jest-\" "
+    avt "\"Cóż... przynajmniej wiem, że Senpai jest-\" "
 
 
 
@@ -3590,7 +3590,7 @@ translate polish s07_03_140bc049:
 
     # avt "\"Senpai, please don't make it worse!\" "
 
-    avt "\"Senpaj, proszę, nie pogarszaj sprawy!\" "
+    avt "\"Senpai, proszę, nie pogarszaj sprawy!\" "
 
 
 

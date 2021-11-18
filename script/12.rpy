@@ -4,7 +4,7 @@
 translate polish s12_fb8a7bba:
 
     # b "It's Friday night and once again Senpai is sitting in the cafeteria, waiting for me. "
-    b "Jest Piątkowa noc i po raz kolejny Senpaj siedzi w stołówce i na mnie czeka."
+    b "Jest Piątkowa noc i po raz kolejny Senpai siedzi w stołówce i na mnie czeka."
 
 # game/script/12.rpy:13
 translate polish s12_da064df9:
@@ -26,13 +26,13 @@ translate polish s12_b7972935:
     # voice voice_file.lpdcat(12,2)
     # lpdcat happy "\"Well it means— that we should go on a date!\" "
     voice voice_file.lpdcat(12,2)
-    lpdcat happy "\"Cóż to znaczy- że powinniśmy pójść na randkę!\" "
+    lpdcat happy "\"Cóż to znaczy— że powinniśmy pójść na randkę!\" "
 
 # game/script/12.rpy:26
 translate polish s12_50114d25:
 
     # avt "\"Senpai, what kind of date are you talking about! It's not like we're in a relationship.\" "
-    avt "\" Senpaj, jaką randkę! Przecież nie jesteśmy w związku.\" "
+    avt "\" Senpai, jaką randkę?! Przecież nie jesteśmy w związku.\" "
 
 # game/script/12.rpy:28
 translate polish s12_01d2a8db:

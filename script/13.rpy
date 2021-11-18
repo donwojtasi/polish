@@ -50,7 +50,7 @@ translate polish s13_883fc54f:
 translate polish s13_047e2060:
 
     # b "Senpai's one of the guys standing at the front... When did he get the chance to learn today's routine? He's been with me the whole time before exam break. There hasn't been any club meetings since... "
-    b "Senpaj jest jednym z gości stojących z przodu... Kiedy miał czas nauczyć się dzisiejszego układu? Był ze mną przez cały czas podczas przerwy egzaminacyjnej. Od tamtego czasu nie było żadnych spotkań klubu... "
+    b "Senpai jest jednym z gości stojących z przodu... Kiedy miał czas nauczyć się dzisiejszego układu? Był ze mną przez cały czas podczas przerwy egzaminacyjnej. Od tamtego czasu nie było żadnych spotkań klubu... "
 
 # game/script/13.rpy:35
 translate polish s13_762c8900:
@@ -64,7 +64,7 @@ translate polish s13_762c8900:
 translate polish s13_54f321e3:
 
     # b "Senpai begins to get in position for the first move.  "
-    b "Senpaj zaczyna ustawiać się w pozycji do pierwszego ruchu.  "
+    b "Senpai zaczyna ustawiać się w pozycji do pierwszego ruchu.  "
 
 # game/script/13.rpy:39
 translate polish s13_761bad65:
@@ -84,13 +84,13 @@ translate polish s13_c3dfb710:
 translate polish s13_8f1df927:
 
     # b "Senpai ends up forcing me to practice with him. "
-    b "Senpaj praktycznie zmusza mnie do przećwiczenia z nim układu. "
+    b "Senpai praktycznie zmusza mnie do przećwiczenia z nim układu. "
 
 # game/script/13.rpy:54
 translate polish s13_3dcfe980:
 
     # b "Leopard comes over to dance with us too. Their moves flow in sync while mine pale in comparison... I know Senpai's been practicing for years but how did Leopard get so good? "
-    b "Lampart podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane, podczas gdy moje wypadają przy nich blado... Wiem, że Senpaj ćwiczył przez lata, ale jak Lampart nagle tak bardzo się poprawił? "
+    b "Lampart podchodzi, by też z nami zatańczyć. Ich ruchy są idealnie zsynchronizowane, podczas gdy moje wypadają przy nich blado... Wiem, że Senpai ćwiczył przez lata, ale jak Lampart nagle tak bardzo się poprawił? "
 
 # game/script/13.rpy:56
 translate polish s13_1b91d18d:
@@ -952,7 +952,7 @@ translate polish s13_02_not_lpdcat_last_date_0af8170c:
 translate polish s13_02_not_lpdcat_last_date_a8118553:
 
     # b "But, Senpai..."
-    b "Ale Senpaj..."
+    b "Ale Senpai..."
 
 # game/script/13.rpy:442
 translate polish s13_02_not_lpdcat_last_date_96dede30:
@@ -1003,7 +1003,7 @@ translate polish s13_02_lpdcat_last_date_6feb25c9:
 translate polish s13_02_lpdcat_last_date_c58b3097:
 
     # avt "\"Senpai...\" "
-    avt "\"Senpaj...\" "
+    avt "\"Senpai...\" "
 
 # game/script/13.rpy:462
 translate polish s13_02_lpdcat_last_date_4b2df9a8:
@@ -1101,7 +1101,7 @@ translate polish s13_02_lpdcat_last_date_2dd7fb8d:
 translate polish s13_02_lpdcat_last_date_df43061c:
 
     #avt "\"Goodbye, Senpai.\" "
-    avt "Żegnaj Senpaj"
+    avt "Żegnaj Senpai"
 
 # game/script/13.rpy:498
 translate polish s13_02_lpdcat_last_date_829571bb:
@@ -1182,7 +1182,7 @@ translate polish s13_03_141d98bb:
 translate polish s13_03_ea4a6bc6:
 
     # b "Because I {i}am{/i} \ upset. Leopard left without a word and Senpai's going now as well. How could I not care? "
-    b "Bo {i}jestem{/i}.\ Lampart odszedł bez słowa, a Senpaj \nteż\ odejdzie. Jak może mnie to nie obchodzić? "
+    b "Bo {i}jestem{/i}.\ Lampart odszedł bez słowa, a Senpai \nteż\ odejdzie. Jak może mnie to nie obchodzić? "
 
 # game/script/13.rpy:541
 translate polish s13_03_5c427d39:
@@ -1706,7 +1706,7 @@ translate polish s13_03_71d33f8e:
 translate polish s13_03_2c6dd83c:
 
     # b "I haven't really got used to sleeping with him though. It's not bad, but I kinda wish Senpai was here... "
-    b "Jednak nie przywykłem do zasypiania z nim. Nie jest źle, ale trochę chciałbym, żeby Senpaj tu był... "
+    b "Jednak nie przywykłem do zasypiania z nim. Nie jest źle, ale trochę chciałbym, żeby Senpai tu był... "
 
 # game/script/13.rpy:749
 translate polish s13_03_a458c61f:

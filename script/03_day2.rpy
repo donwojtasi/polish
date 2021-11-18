@@ -1198,7 +1198,7 @@ translate polish day2_01_lpdcat_34f9afa8:
 
     # avt "\"Senpai! Hey, damn it...\" "
 
-    avt "\"Senpaj! Hej, cholera...\" "
+    avt "\"Senpai! Hej, cholera...\" "
 
 
 
@@ -1398,7 +1398,7 @@ translate polish day2_01_lpdcat_2e99f1f5:
 
     # b "Then there's Senpai curled up under my quilt, his fluffy little head poking out of the \nend. "
 
-    b "Do tego jest jeszcze zwinięty pod kołdrą Senpaj, \ntylko jego puszysta główka wystaje z samego końca. "
+    b "Do tego jest jeszcze zwinięty pod kołdrą Senpai, \ntylko jego puszysta główka wystaje z samego końca. "
 
 
 
@@ -1826,7 +1826,7 @@ translate polish day2_02_67331fce:
 
     # avt "\"Senpai! Senpai! It's time to get up.\" "
 
-    avt "\"Senpaj! Senpaj! Czas wstawać.\" "
+    avt "\"Senpai! Senpai! Czas wstawać.\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish day2_02_e95d67e3:
 
     # b "\"Senpai slides out of the bed and meanders his way into the bathroom.\" "
 
-    b "\"Senpaj wysuwa się spod kołdry i człapie do łazienki.\" "
+    b "\"Senpai wysuwa się spod kołdry i człapie do łazienki.\" "
 
 
 
@@ -1962,7 +1962,7 @@ translate polish day2_02_4c6d0763:
 
     # avt "\"Hey, Senpai. What's your plans for this afternoon?\" "
 
-    avt "\"Hej, Senpaj. Jakie masz plany na popołudnie?\" "
+    avt "\"Hej, Senpai. Jakie masz plany na popołudnie?\" "
 
 
 
@@ -2086,7 +2086,7 @@ translate polish day2_02_53849820:
 
     # avt "\"Stop messing with me Senpai! This isn't some cheesy romance manga you know!\" "
 
-    avt "\"Przestań się ze mnie nabijać, Senpaj! To nie jest jakaś kiepska manga romantyczna!\" "
+    avt "\"Przestań się ze mnie nabijać, Senpai! To nie jest jakaś kiepska manga romantyczna!\" "
 
 
 
@@ -2098,7 +2098,7 @@ translate polish day2_02_2670da57:
 
     # b "\"Senpai walks out from the bathroom, wiping his face dry with my towel. \nYes, my towel.\" "
 
-    b "\"Senpaj wychodzi z łazienki wycierając twarz \nmoim ręcznikiem. Tak, moim ręcznikiem.\" "
+    b "\"Senpai wychodzi z łazienki wycierając twarz \nmoim ręcznikiem. Tak, moim ręcznikiem.\" "
 
 
 
@@ -2150,7 +2150,7 @@ translate polish day2_02_0c8feffa:
 
     # avt "\"Senpai, I think it's better for you to go home. You don't even have any clothes or anything with you, right?\" "
 
-    avt "\"Senpaj, lepiej będzie, jeśli wrócisz do domu. Nie masz \nze sobą żadnych rzeczy, ani ubrań na zmianę, prawda?\" "
+    avt "\"Senpai, lepiej będzie, jeśli wrócisz do domu. Nie masz \nze sobą żadnych rzeczy, ani ubrań na zmianę, prawda?\" "
 
 
 
@@ -2178,7 +2178,7 @@ translate polish day2_02_5c6d9c9a:
 
     # avt "\"...Senpai, why are you insisting so hard on this?\" "
 
-    avt "\"...Senpaj, dlaczego tak bardzo się na to uparłeś?\" "
+    avt "\"...Senpai, dlaczego tak bardzo się na to uparłeś?\" "
 
 
 
@@ -2798,7 +2798,7 @@ translate polish day2_02_e0b35ed1:
 
     # avt "\"That's not the point Senpai...\" "
 
-    avt "\"Nie o to chodzi, Senpaj...\" "
+    avt "\"Nie o to chodzi, Senpai...\" "
 
 
 
@@ -2908,7 +2908,7 @@ translate polish day2_02_7272fa30:
 
     # b "Thankfully, there's a lot of people here today so he won't be noticed. "
 
-    b "Senpaj przychodzi na moje zajęcia, tak jak sobie życzył. Mimo że nie jest to \nnawet jego przedmiot. Nie ma powodu, dla którego miałby tu siedzieć. "
+    b "Senpai przychodzi na moje zajęcia, tak jak sobie życzył. Mimo że nie jest to \nnawet jego przedmiot. Nie ma powodu, dla którego miałby tu siedzieć. "
 
     b "Na szczęście dzisiaj jest tu mnóstwo ludzi, więc nikt go nie zauważy. "
 
@@ -2924,7 +2924,7 @@ translate polish day2_02_69c9eee0:
 
     # b "(Do they really need their own seats though?) "
 
-    b "Siadam tam, gdzie zwykle, w samym środku sali, a Senpaj \nprzysiada się tuż obok. Tak samo Tygrys i Lampart... "
+    b "Siadam tam, gdzie zwykle, w samym środku sali, a Senpai \nprzysiada się tuż obok. Tak samo Tygrys i Lampart... "
 
     b "(Tak w ogóle, czy oni naprawdę potrzebują własnych miejsc?) "
 
@@ -2974,7 +2974,7 @@ translate polish day2_02_27ddfcda:
 
     # b "Class begins, I start making notes while Senpai plays with his phone. All goes as expected. Well except for Leopard, who to my surprise is leaning over onto my desk to see what I'm writing. "
 
-    b "Lekcja się rozpoczyna. Robię notatki, a Senpaj bawi się telefonem. Wszystko idzie jak \ntrzeba. No, nie licząc Lamparta, który ku mojemu zaskoczeniu nachyla się nad ławką, \nżeby zobaczyć, co piszę. "
+    b "Lekcja się rozpoczyna. Robię notatki, a Senpai bawi się telefonem. Wszystko idzie jak \ntrzeba. No, nie licząc Lamparta, który ku mojemu zaskoczeniu nachyla się nad ławką, \nżeby zobaczyć, co piszę. "
 
 
 
@@ -3406,7 +3406,7 @@ translate polish day2_02_e63c08f8:
 
     b "Dwie gaduły siedzą już cicho... Niewiele to pomaga, bo do \nkońca zajęć czuję, że uwaga wszystkich skupia się na mnie. "
 
-    b "Muszę jakoś wymknąć się z sali. Przynajmniej Senpaj uspokajająco klepie mnie po ramieniu. "
+    b "Muszę jakoś wymknąć się z sali. Przynajmniej Senpai uspokajająco klepie mnie po ramieniu. "
 
 
 
@@ -3718,7 +3718,7 @@ translate polish day2_02_575c9217:
 
     b "Przynajmniej powstrzymują się od kłótni podczas \nkolejnej lekcji. Wreszcie mogę zaznać trochę spokoju. "
 
-    b "Senpaj znowu całkowicie skupia się na swoim telefonie, ale mi brakuje dużo notatek. "
+    b "Senpai znowu całkowicie skupia się na swoim telefonie, ale mi brakuje dużo notatek. "
 
 
 
@@ -3742,7 +3742,7 @@ translate polish day2_02_8e31dbdc:
 
     b "Na szczęście do końca zajęć nie zostało już wiele czasu \ni wreszcie mogę dać odpocząć skołatanym nerwom. "
 
-    b "Gdy tylko wychodzę na zewnątrz, Senpaj staje przede mną, gwałtownie blokując mi drogę. "
+    b "Gdy tylko wychodzę na zewnątrz, Senpai staje przede mną, gwałtownie blokując mi drogę. "
 
 
 
@@ -3798,7 +3798,7 @@ translate polish day2_02_c9ebe189:
 
     # avt "\"...Senpai, aren't you forgetting that we have club practice tonight?\" "
 
-    avt "\"...Senpaj, nie zapominasz przypadkiem, że dziś wieczorem mamy ćwiczenia w klubie?\" "
+    avt "\"...Senpai, nie zapominasz przypadkiem, że dziś wieczorem mamy ćwiczenia w klubie?\" "
 
 
 
@@ -3842,7 +3842,7 @@ translate polish day2_02_78c47aee:
 
     # avt "\"Sorry Senpai, there's no way I'm dancing after eating that much food.\" "
 
-    avt "\"Wybacz, Senpaj, nie ma szans, bym tańczył po takiej ilości jedzenia.\" "
+    avt "\"Wybacz, Senpai, nie ma szans, bym tańczył po takiej ilości jedzenia.\" "
 
 
 
@@ -3970,7 +3970,7 @@ translate polish day2_02_ff3b1603:
 
     # b "Senpai ends up getting himself some pork rib noodles... and well, an extra-large soft drink. "
 
-    b "Senpaj bierze dla siebie makaron z żeberkami wieprzowymi... no i super-duży napój gazowany. "
+    b "Senpai bierze dla siebie makaron z żeberkami wieprzowymi... no i super-duży napój gazowany. "
 
 
 
@@ -3982,7 +3982,7 @@ translate polish day2_02_8ba50f43:
 
     # avt "\"Senpai, are you really going to drink that much before practice?\" "
 
-    avt "\"Senpaj, jesteś aby pewien, że chcesz wypić tak dużo przed ćwiczeniami?\" "
+    avt "\"Senpai, jesteś aby pewien, że chcesz wypić tak dużo przed ćwiczeniami?\" "
 
 
 
@@ -4858,7 +4858,7 @@ translate polish day2_02_8e4cc5e1:
 
     # avt "\"Senpai? Are you all right? You don't seem yourself. Did you get a cold?\" "
 
-    avt "\"Senpaj? Wszystko w porządku? Nie jesteś sobą. Złapałeś przeziębienie, czy co?\" "
+    avt "\"Senpai? Wszystko w porządku? Nie jesteś sobą. Złapałeś przeziębienie, czy co?\" "
 
 
 
@@ -5474,7 +5474,7 @@ translate polish day2_03_normal_54ab841f:
 
     # avt "\"There's no way that will work, and you know that well Senpai. I'd have no tutor, or clubmates. So I wouldn't get anywhere.\" "
 
-    avt "\"Nie ma szans, by to zadziałało i dobrze o tym wiesz, Senpaj. Nie miałbym \nnauczyciela ani kolegów z klubu. W ten sposób niczego bym nie osiągnął.\" "
+    avt "\"Nie ma szans, by to zadziałało i dobrze o tym wiesz, Senpai. Nie miałbym \nnauczyciela ani kolegów z klubu. W ten sposób niczego bym nie osiągnął.\" "
 
 
 
@@ -5502,7 +5502,7 @@ translate polish day2_03_normal_78769784:
 
     # avt "\"But Senpai, I couldn't do all this while I'm at school, could I?\" "
 
-    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, prawda, Senpaj?\" "
+    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, prawda, Senpai?\" "
 
 
 
@@ -5730,7 +5730,7 @@ translate polish day2_04_25cd9518:
 
     # b "Senpai heads off immediately, it seems like they're going to have a meeting. After all, Senpai is pretty important around here. He's practically the backbone of our club. "
 
-    b "Senpaj natychmiast się oddala. Wygląda na to, że chcą coś omówić. W końcu \nSenpaj jest tutaj ważną osobą. Stanowi praktycznie trzon naszego klubu. "
+    b "Senpai natychmiast się oddala. Wygląda na to, że chcą coś omówić. W końcu \nSenpai jest tutaj ważną osobą. Stanowi praktycznie trzon naszego klubu. "
 
 
 
@@ -6162,7 +6162,7 @@ translate polish day2_04_682fc7c6:
 
     # b "I mean it's hard to deny some of the stuff they've been saying. I mean, after all Senpai— well Shu-Chi possessed by a leopard cat— has been living with me since last night. "
 
-    b "W zasadzie to ciężko zaprzeczyć niektórym rzeczom, które mówili. W gruncie rzeczy Senpaj— \na dokładnie to Shu-Chi opętany przez kotka bengalskiego— od wczoraj ze mną mieszka. "
+    b "W zasadzie to ciężko zaprzeczyć niektórym rzeczom, które mówili. W gruncie rzeczy Senpai— \na dokładnie to Shu-Chi opętany przez kotka bengalskiego— od wczoraj ze mną mieszka. "
 
 
 
@@ -6710,7 +6710,7 @@ translate polish day2_04_bf08b054:
 
     # avt "\"Senpai... This whole time that's been your real intention, right?\" "
 
-    avt "\"Senpaj... Czyżby przez cały ten czas takie były twoje prawdziwe intencje?\" "
+    avt "\"Senpai... Czyżby przez cały ten czas takie były twoje prawdziwe intencje?\" "
 
 
 
@@ -6790,7 +6790,7 @@ translate polish day2_04_026cabf2:
 
     # avt "\"I don't think your words are very credible Senpai...\" "
 
-    avt "\"Jakoś ciężko mi uwierzyć w twoje słowa, Senpaj...\" "
+    avt "\"Jakoś ciężko mi uwierzyć w twoje słowa, Senpai...\" "
 
 
 
@@ -7014,7 +7014,7 @@ translate polish day2_04_8fe5df55:
 
     # b "After the shower I get dressed and start to tidy up my room when— I hear a knock from the door. It's probably Senpai. "
 
-    b "Po umyciu się i zmianie ubrań zaczynam sprzątać swój \npokój. Nagle słyszę pukanie do drzwi. To pewnie Senpaj. "
+    b "Po umyciu się i zmianie ubrań zaczynam sprzątać swój \npokój. Nagle słyszę pukanie do drzwi. To pewnie Senpai. "
 
 
 
@@ -7054,7 +7054,7 @@ translate polish day2_04_a8bc0d99:
 
     # avt "\"Senpai... That bag's huge. Where are you even going to put it?\" "
 
-    avt "\"Senpaj... Ta walizka jest ogromna. Gdzie ty chcesz ją niby postawić?\" "
+    avt "\"Senpai... Ta walizka jest ogromna. Gdzie ty chcesz ją niby postawić?\" "
 
 
 
@@ -7116,7 +7116,7 @@ translate polish day2_04_2bc015e8:
 
     b "Co to ma być za odpowiedź? Poddaję się, nie będę próbował się z nim sprzeczać... "
 
-    b "Senpaj wprasza się do pokoju, nucąc radosną melodię podczas rozpakowywania swych rzeczy. "
+    b "Senpai wprasza się do pokoju, nucąc radosną melodię podczas rozpakowywania swych rzeczy. "
 
     b "Skończył zanim się spostrzegłem, po czym rusza do łazienki. "
 
@@ -7314,7 +7314,7 @@ translate polish day2_04_3f96b96a:
 
     # b "Everything that's happened, everything I could do, and the things I didn't do. They all weigh on my mind as I fall sleep... "
 
-    b "I tak Senpaj pewnie zgasi światło... "
+    b "I tak Senpai pewnie zgasi światło... "
 
     b "Zaczynam rozmyślać zamykając oczy. "
 

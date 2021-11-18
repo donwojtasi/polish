@@ -148,7 +148,7 @@ translate polish s05_5_1bc03641:
 
     # b "I guess he doesn't really have much interest in it. Especially considering he can't read Chinese. "
 
-    b "Senpaj akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście \nbył ze mną, ale Lampart wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
+    b "Senpai akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście \nbył ze mną, ale Lampart wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
 
     b "Myślę, że nie interesuje go to zbytnio. Pewnie dlatego, że nie potrafi czytać po chińsku. "
 
@@ -488,7 +488,7 @@ translate polish s05_5_16de6244:
 
     b "Tygrys zamyka książkę z satysfakcjonującym klapnięciem. Wstaje i ponosi z półki kolejną. "
 
-    b "Mija trochę czasu zanim udaje mi się dokończyć swoją \nksiążkę. Wtedy Senpaj nareszcie do mnie dzwoni. "
+    b "Mija trochę czasu zanim udaje mi się dokończyć swoją \nksiążkę. Wtedy Senpai nareszcie do mnie dzwoni. "
 
     b "Heh, dobrze się składa... "
 
@@ -502,7 +502,7 @@ translate polish s05_5_f758297a:
 
     # avt "\"Oh, Senpai, we're pretty much done at the bookstore. I'll be over in like five minutes.\" "
 
-    avt "\"Och, Senpaj, praktycznie załatwiliśmy już wszystko w księgarni. Będę za jakieś pięć minut.\" "
+    avt "\"Ooo, Senpai, praktycznie załatwiliśmy już wszystko w księgarni. Będę za jakieś pięć minut.\" "
 
 
 
@@ -1062,7 +1062,7 @@ translate polish s05_5_dont_buy_bbb91350:
 
     # avt "\"Ready to go? Senpai's probably waiting for us at this point.\" "
 
-    avt "\"Gotowy do wyjścia? Senpaj już pewnie na nas czeka.\" "
+    avt "\"Gotowy do wyjścia? Senpai już pewnie na nas czeka.\" "
 
 
 
@@ -3694,7 +3694,7 @@ translate polish week2_06_ask_c58b3097:
 
     # avt "\"Senpai...\" "
 
-    avt "\"Senpaj...\" "
+    avt "\"Senpai...\" "
 
 
 
@@ -3766,7 +3766,7 @@ translate polish week2_06_ask_6dad96e9:
 
     # avt "\"You're the one who hit their head! Come on Senpai, stop messing with me!\" "
 
-    avt "\"To chyba ciebie ktoś uderzył w głowę! Daj spokój, Senpaj, przestań się ze mnie nabijać!\" "
+    avt "\"To chyba ciebie ktoś uderzył w głowę! Daj spokój, Senpai, przestań się ze mnie nabijać!\" "
 
 
 
@@ -3810,7 +3810,7 @@ translate polish week2_06_ask_681cd150:
 
     # avt "\"Senpai, you're {i}human{/i} \ to everyone else, not a leopard cat.\" "
 
-    avt "\"Senpaj, dla całej reszty wyglądasz jak {i}człowiek{/i}, a nie kot bengalski.\" "
+    avt "\"Senpai, dla całej reszty wyglądasz jak {i}człowiek{/i}, a nie kot bengalski.\" "
 
 
 
@@ -4102,7 +4102,7 @@ translate polish week2_06_ask_e8532b93:
 
     # avt "\"Why do I feel that you're the one making me out to be an idiot Senpai...\" "
 
-    avt "\"Czemu czuję się jakbyś właśnie w ten sposób robił ze mnie idiotę, Senpaj...\" "
+    avt "\"Czemu czuję się jakbyś właśnie w ten sposób robił ze mnie idiotę, Senpai...\" "
 
 
 
@@ -4538,7 +4538,7 @@ translate polish week2_07_d13b7b99:
 
     # b "Senpai jumped out of nowhere with intense determination, almost shocking the living daylights out of me. "
 
-    b "Senpaj wyskoczył znikąd pełen entuzjazmu, niemal doprowadzając mnie do zawału. "
+    b "Senpai wyskoczył znikąd pełen entuzjazmu, niemal doprowadzając mnie do zawału. "
 
 
 
@@ -4918,7 +4918,7 @@ translate polish week2_07_2381c287:
 
     b "To trochę dziwne, ale jakoś nie mogłem mu odmówić. Naprawdę tego chce. "
 
-    b "Mija dosłownie parę chwil, a Senpaj już przegląda swój telefon \nw poszukiwaniu gorących źródeł na ten weekend... "
+    b "Mija dosłownie parę chwil, a Senpai już przegląda swój telefon \nw poszukiwaniu gorących źródeł na ten weekend... "
 
 
 
@@ -5062,7 +5062,7 @@ translate polish week2_07_d599f07b:
 
     # avt "\"You don't need to call me \"kid\" Senpai.\" "
 
-    avt "\"Nie musisz nazywać mnie \"dzieciakiem\", Senpaj.\" "
+    avt "\"Nie musisz nazywać mnie \"dzieciakiem\", Senpai.\" "
 
 
 
@@ -5078,7 +5078,7 @@ translate polish week2_07_12df4afb:
 
     voice voice_file.lpdcat(5,33)
 
-    lpdcat cute "\"Dobrze więc. Pozwól że ja— twój wspaniały Senpaj— przedstawię ci to miejsce!\" "
+    lpdcat cute "\"Dobrze więc. Pozwól że ja— twój wspaniały Senpai— przedstawię ci to miejsce!\" "
 
 
 
@@ -5194,7 +5194,7 @@ translate polish week2_07_b9f9cba1:
 
     # b "Senpai hurries me along the street enthusiastically. The other two walk behind us. "
 
-    b "Senpaj entuzjastycznie pośpiesza mnie, gdy idziemy przez ulicę. Pozostali dwaj idą za nami. "
+    b "Senpai entuzjastycznie pośpiesza mnie, gdy idziemy przez ulicę. Pozostali dwaj idą za nami. "
 
 
 
@@ -5326,7 +5326,7 @@ translate polish week2_07_5102e7fc:
 
     # avt "\"Senpai's right. We might as well go to the hot spring first. All right? Come on guys... let's get there already!\" "
 
-    avt "\"Senpaj ma rację. Możemy najpierw iść do gorącego \nźródła. Dobrze? No dalej... chodźmy już tam!\" "
+    avt "\"Senpai ma rację. Możemy najpierw iść do gorącego \nźródła. Dobrze? No dalej... chodźmy już tam!\" "
 
 
 
@@ -5394,7 +5394,7 @@ translate polish cg_04_52f8b5dd:
 
     # b "Senpai runs into a nearby building. The building itself resembles a traditional Japanese inn. "
 
-    b "Senpaj wbiega do środka budynku nieopodal, \nprzypominającego tradycyjną japońską gospodę. "
+    b "Senpai wbiega do środka budynku nieopodal, \nprzypominającego tradycyjną japońską gospodę. "
 
 
 
@@ -5418,7 +5418,7 @@ translate polish cg_04_28b90b77:
 
     # b "Huh, so Senpai already had everything booked online and printed? I didn't even notice. He's more on top of things than I thought. "
 
-    b "Hę, więc Senpaj miał już wszystko zarezerwowane online i wydrukował te \nkupony? Nawet nie zauważyłem. Jest bardziej na czasie, niż myślałem. "
+    b "Hę, więc Senpai miał już wszystko zarezerwowane online i wydrukował te \nkupony? Nawet nie zauważyłem. Jest bardziej na czasie, niż myślałem. "
 
 
 
@@ -5830,7 +5830,7 @@ translate polish cg_04_8430216b:
 
     # b "Senpai turns on the faucet, the bath beginning to fill. Next, he starts to remove his clothes then and there. "
 
-    b "Senpaj odkręca kran, kąpiel zaczyna się wypełniać. \nNastępnie zaczyna zdejmować swoje ubrania. "
+    b "Senpai odkręca kran, kąpiel zaczyna się wypełniać. \nNastępnie zaczyna zdejmować swoje ubrania. "
 
 
 
@@ -5998,7 +5998,7 @@ translate polish cg_04_5b4c26be:
 
     # b "Senpai is already shoulder deep in the freshly steaming bath. "
 
-    b "Senpaj jest już po szyję zanurzony w świeżej, parującej kąpieli. "
+    b "Senpai jest już po szyję zanurzony w świeżej, parującej kąpieli. "
 
 
 
@@ -6026,7 +6026,7 @@ translate polish cg_04_7910dab5:
 
     # avt "\"Please... don't keep staring at me Senpai.\" "
 
-    avt "\"Błagam... Senpaj, nie gap się tak na mnie.\" "
+    avt "\"Błagam... Senpai, nie gap się tak na mnie.\" "
 
 
 
@@ -6314,7 +6314,7 @@ translate polish cg_04_f58fdaab:
 
     # avt "\"Dammit! You're the one who said it Senpai!\" "
 
-    avt "\"Cholera! To ty to powiedziałeś, Senpaj!\" "
+    avt "\"Cholera! To ty to powiedziałeś, Senpai!\" "
 
 
 
@@ -6534,7 +6534,7 @@ translate polish cg_04_d036a9df:
 
     # b "Meanwhile, Senpai is trying to swim in the bath, his lithe body exposed under the rippling, steamy water. "
 
-    b "W międzyczasie Senpaj próbuje pływać w basenie, a jego \nsmukłe ciało jest widoczne spod falującej, rozgrzanej wody. "
+    b "W międzyczasie Senpai próbuje pływać w basenie, a jego \nsmukłe ciało jest widoczne spod falującej, rozgrzanej wody. "
 
 
 
@@ -6618,7 +6618,7 @@ translate polish cg_04_7d02f07b:
 
     # b "Senpai attempts to feel me up under the water and I dodge him as swiftly as I can manage in a steaming hot bath. " with vpunch
 
-    b "Senpaj próbuje wyczuć mnie pod wodą, a ja unikam \ngo na tyle szybko, na ile mogę w parnej, gorącej kąpieli. " with vpunch
+    b "Senpai próbuje wyczuć mnie pod wodą, a ja unikam \ngo na tyle szybko, na ile mogę w parnej, gorącej kąpieli. " with vpunch
 
 
 
@@ -6706,7 +6706,7 @@ translate polish cg_04_20659bd4:
 
     b "Tygrys stuknął Senpaja w głowę, nie za mocno, ale i niezbyt lekko. "
 
-    b "Senpaj się cofa, chwytając się za głowę. Wygląda jakby miał się zaraz rozpłakać. "
+    b "Senpai się cofa, chwytając się za głowę. Wygląda jakby miał się zaraz rozpłakać. "
 
 
 
@@ -6874,7 +6874,7 @@ translate polish cg_04_71c5f1d5:
 
     # b "Senpai's left the bath as well. He walks around with a robe on which is too large for him, the lower hem dragging across the ground behind his feet. "
 
-    b "Senpaj też wychodzi z kąpieli. Krąży wokoło w przydużym szlafroku, \nktórego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
+    b "Senpai też wychodzi z kąpieli. Krąży wokoło w przydużym szlafroku, \nktórego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
 
 
 
@@ -6950,7 +6950,7 @@ translate polish week2_08_164585e8:
 
     # b "Senpai stretches his whole body while he talks. "
 
-    b "Senpaj przeciąga się, gdy mówi. "
+    b "Senpai przeciąga się, gdy mówi. "
 
 
 
@@ -7362,7 +7362,7 @@ translate polish week2_08_f02859e4:
 
     # avt "\"Senpai, it's getting late... and you're not wearing enough to stay out at night. Shouldn't we go home now?\" "
 
-    avt "\"Robi się późno, Senpaj... a ty nie jesteś zbyt ciepło ubrany, by \nbyć poza domem w nocy. Nie powinniśmy zbierać się do domu?\" "
+    avt "\"Robi się późno, Senpai... a ty nie jesteś zbyt ciepło ubrany, by \nbyć poza domem w nocy. Nie powinniśmy zbierać się do domu?\" "
 
 
 
@@ -7658,7 +7658,7 @@ translate polish week2_08_c3d38583:
 
     b "Lampart zdaje się być zaniepokojony. Jestem pewien, że nie chce zbliżać się do yauguai. "
 
-    b "Teraz sam jestem poddenerwowany. Czemu Senpaj chce, żebym z nim porozmawiał? "
+    b "Teraz sam jestem poddenerwowany. Czemu Senpai chce, żebym z nim porozmawiał? "
 
 
 
@@ -8258,7 +8258,7 @@ translate polish week2_08_1e6982d0:
 
     # avt "\"Finally, this is my Senpai. He's a leopard cat guardian tiger, who also wants my help to rejuvenate his temple in Miaoli...\" "
 
-    avt "\"Wreszcie, to mój Senpaj. Jest kotkiem bengalskim, a także tygrysim \nstrażnikiem, który chce bym pomógł mu odnowić jego świątynię w Miaoli...\" "
+    avt "\"Wreszcie, to mój Senpai. Jest kotkiem bengalskim, a także tygrysim \nstrażnikiem, który chce bym pomógł mu odnowić jego świątynię w Miaoli...\" "
 
 
 
@@ -9530,7 +9530,7 @@ translate polish week2_08_9cfd5f3f:
 
     # b "As we watch Randolph leave, Senpai is already back on his phone.\" "
 
-    b "Gdy patrzymy jak Randolf wychodzi Senpaj od razu zaczyna bawić się swoim telefonem.\" "
+    b "Gdy patrzymy jak Randolf wychodzi Senpai od razu zaczyna bawić się swoim telefonem.\" "
 
 
 

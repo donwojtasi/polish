@@ -3602,7 +3602,7 @@ translate polish day1_after_01_lpdcat_2fb2567f:
 
     # b "After turning off the light, I lay myself into the bed and get cosy under the quilt. Senpai lies down next to me. "
 
-    b "Po zgaszeniu światła, kładę się do łóżka i przykrywam ciepłą kołdrą. Senpaj leży tuż przy mnie. "
+    b "Po zgaszeniu światła, kładę się do łóżka i przykrywam ciepłą kołdrą. Senpai leży tuż przy mnie. "
 
 
 
@@ -3614,7 +3614,7 @@ translate polish day1_after_01_lpdcat_8d445410:
 
     # b "The bed isn't that large we have no choice but to have our bodies touch. Surprisingly Senpai doesn't make any moves. "
 
-    b "Łóżko nie jest zbyt duże, więc mimo wszystko nasze ciała \nocierają się o siebie. O dziwo Senpaj wcale się nie rusza. "
+    b "Łóżko nie jest zbyt duże, więc mimo wszystko nasze ciała \nocierają się o siebie. O dziwo Senpai wcale się nie rusza. "
 
 
 
@@ -3710,7 +3710,7 @@ translate polish day1_after_01_lpdcat_60531533:
 
     # avt "\"Hey... um, Senpai. You still awake?\" "
 
-    avt "\"Hej... um, Senpaj. Wciąż nie śpisz?\" "
+    avt "\"Hej... um, Senpai. Wciąż nie śpisz?\" "
 
 
 
