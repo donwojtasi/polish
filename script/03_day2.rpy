@@ -318,7 +318,7 @@ translate polish day2_01_tig_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpaj sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpai sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -346,7 +346,7 @@ translate polish day2_01_tig_7f14f811:
 
     # b "Senpai looks for his phone, and I pick up mine. "
 
-    b "Senpaj szuka swojego telefonu, gdy podnoszę mój własny. "
+    b "Senpai szuka swojego telefonu, gdy podnoszę mój własny. "
 
 
 
@@ -370,7 +370,7 @@ translate polish day2_01_tig_cfcf6aac:
 
     # avt "\"...Morning Senpai. It's ten by the way.\" "
 
-    avt "\"...Dobry, Senpaj. Tak w ogóle to jest już dziesiąta.\" "
+    avt "\"...Dobry, Senpai. Tak w ogóle to jest już dziesiąta.\" "
 
 
 
@@ -686,7 +686,7 @@ translate polish day2_01_lpd_2940c3f4:
 
     # b "Senpai sits up in his bed, looking sleepily. It seems we just woke him up. "
 
-    b "Senpaj sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
+    b "Senpai sadowi się na swoim posłaniu, patrząc na \nnas sennym wzrokiem. Zdaje się, że go obudziliśmy. "
 
 
 
@@ -714,7 +714,7 @@ translate polish day2_01_lpd_da84b50c:
 
     # b "Senpai starts looking for his phone, while I break loose from the clouded leopard's \ngrasp. "
 
-    b "Senpaj szuka swojego telefonu, podczas gdy ja \nuwalniam się spod uścisku lamparta mglistego. "
+    b "Senpai szuka swojego telefonu, podczas gdy ja \nuwalniam się spod uścisku lamparta mglistego. "
 
 
 
@@ -770,7 +770,7 @@ translate polish day2_01_lpd_2701edb2:
 
     # avt "\"Senpai, you're...\" "
 
-    avt "\"Senpaj, ty...\" "
+    avt "\"Senpai, ty...\" "
 
 
 
@@ -1158,7 +1158,7 @@ translate polish day2_01_lpdcat_c90493db:
 
     # avt "\"...Senpai!\" " with vpunch
 
-    avt "\"...Senpaj!\" " with vpunch
+    avt "\"...Senpai!\" " with vpunch
 
 
 
@@ -1186,7 +1186,7 @@ translate polish day2_01_lpdcat_bb935663:
 
     # b "Senpai snatches the sheets from on top of me and goes back to sleep, leaving me trembling in the cold spring morning breeze. "with hshake
 
-    b "Senpaj ściąga ze mnie kołdrę i znowu zasypia, \na ja drżę w chłodzie wiosennej, porannej bryzy. " with hshake
+    b "Senpai ściąga ze mnie kołdrę i znowu zasypia, \na ja drżę w chłodzie wiosennej, porannej bryzy. " with hshake
 
 
 

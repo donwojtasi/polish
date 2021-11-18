@@ -50,7 +50,7 @@ translate polish day1_after_01_tig_2d0da8a1:
 
     # avt "\"Sorry, Senpai... I'll go get you a quilt, it's the least I can do to make up for it.\" "
 
-    avt "\"Wybacz, Senpaj... Poszukam ci jakiejś kołdry, chociaż tyle mogę dla ciebie zrobić.\" "
+    avt "\"Wybacz, Senpai... Poszukam ci jakiejś kołdry, chociaż tyle mogę dla ciebie zrobić.\" "
 
 
 
@@ -106,7 +106,7 @@ translate polish day1_after_01_tig_0ae6d1fe:
 
     # b "Senpai quickly rolls out the quilt on the ground. "
 
-    b "Senpaj w mgnieniu oka rozkłada sobie posłanie na podłodze. "
+    b "Senpai w mgnieniu oka rozkłada sobie posłanie na podłodze. "
 
 
 
@@ -158,7 +158,7 @@ translate polish day1_after_01_tig_6df67c1e:
 
     # avt "\"Senpai, how can I get out of the room with you blocking the way?\" "
 
-    avt "\"Senpaj, jak mam wyjść z pokoju, skoro blokujesz przejście?\" "
+    avt "\"Senpai, jak mam wyjść z pokoju, skoro blokujesz przejście?\" "
 
 
 
@@ -200,7 +200,7 @@ translate polish day1_after_01_tig_72757def:
 
     # avt "\"Can you just allow me to sleep for a while?\" "
 
-    avt "\"W porządku, Senpaj. Wiem, że bardzo się ekscytujesz, ale jestem teraz okropnie zmęczony.\" "
+    avt "\"W porządku, Senpai. Wiem, że bardzo się ekscytujesz, ale jestem teraz okropnie zmęczony.\" "
 
     avt "\"Pozwolisz mi trochę pospać?\" "
 
@@ -1404,7 +1404,7 @@ translate polish day1_after_01_lpd_56629900:
 
     # avt "\"You're not exactly my guest at this point Senpai.\" "
 
-    avt "\"Noo, nie do końca tak to bym ujął, Senpaj.\" "
+    avt "\"Noo, nie do końca tak to bym ujął, Senpai.\" "
 
 
 
@@ -1796,7 +1796,7 @@ translate polish day1_after_01_lpd_57cc4288:
 
     # avt "\"...Senpai, you'll gain weight if you eat too much before sleeping, you know?\" "
 
-    avt "\"...Senpaj, przytyjesz, jeśli będziesz się obżerał przed snem, wiesz o tym?\" "
+    avt "\"...Senpai, przytyjesz, jeśli będziesz się obżerał przed snem, wiesz o tym?\" "
 
 
 
@@ -2836,7 +2836,7 @@ translate polish day1_after_01_lpdcat_26b64f73:
 
     # b "Senpai jumps onto my bed before I even have time to say anything. "
 
-    b "Senpaj wskakuje do łóżka, zanim mogę cokolwiek powiedzieć. "
+    b "Senpai wskakuje do łóżka, zanim mogę cokolwiek powiedzieć. "
 
 
 
@@ -2864,7 +2864,7 @@ translate polish day1_after_01_lpdcat_cf30c800:
 
     # avt "\"Sorry Tiger, after all Senpai's got...\" "
 
-    avt "\"Wybacz, Tygrysie, Senpaj ma przecież...\" "
+    avt "\"Wybacz, Tygrysie, Senpai ma przecież...\" "
 
 
 
@@ -3384,7 +3384,7 @@ translate polish day1_after_01_lpdcat_dabcda37:
 
     # b "Senpai gets up, seals the bowl with a plastic bag and puts in inside the fridge... Yeah I feel dumb for not thinking of that. "
 
-    b "Senpaj wstaje, owija miskę plastikową torbą i wkłada ją \ndo lodówki... Czuję się głupio, że o tym nie pomyślałem. "
+    b "Senpai wstaje, owija miskę plastikową torbą i wkłada ją \ndo lodówki... Czuję się głupio, że o tym nie pomyślałem. "
 
 
 
@@ -3396,7 +3396,7 @@ translate polish day1_after_01_lpdcat_eacf28f7:
 
     # b "...So Senpai is really a guardian tiger of a small temple, huh? I can't believe that a guardian tiger could actually be so small. "
 
-    b "...Więc Senpaj naprawdę jest tygrysim strażnikiem w małej świątyni? \nNie mogę uwierzyć, że tygrysi strażnik może być taki mały. "
+    b "...Więc Senpai naprawdę jest tygrysim strażnikiem w małej świątyni? \nNie mogę uwierzyć, że tygrysi strażnik może być taki mały. "
 
 
 
@@ -3540,7 +3540,7 @@ translate polish day1_after_01_lpdcat_19a10ab4:
 
     # avt "\"Senpai... I'm going to sleep on the floor at this rate.\" "
 
-    avt "\"Senpaj... Jak tak dalej pójdzie, będę spał na podłodze.\" "
+    avt "\"Senpai... Jak tak dalej pójdzie, będę spał na podłodze.\" "
 
 
 
@@ -3572,7 +3572,7 @@ translate polish day1_after_01_lpdcat_4923fd95:
 
     # b "I'm not going to bother reassuring him, so I just lay down in the bed next to him and pull up the quilt. "
 
-    b "Senpaj wygląda jakby miał się zaraz rozpłakać... Teraz na pewno się nie powstrzyma. "
+    b "Senpai wygląda jakby miał się zaraz rozpłakać... Teraz na pewno się nie powstrzyma. "
 
     b "Nie chcę się męczyć z jego uspokajaniem, a więc ulegam temu, co mówi i podciągam kołdrę. "
 
