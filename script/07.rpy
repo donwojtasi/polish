@@ -3722,7 +3722,7 @@ translate polish s07_03_84966e16:
 
     voice voice_file.lagu(7,37)
 
-    lagu normal "\"Naprawdę? W najgorszym wypadku wszyscy jesteście bardzo ze sobą zżyci. Powiedziałbym, że cokolwiek się wydarzy, nadal będziecie wspaniałymi kompanami.\" "
+    lagu normal "\"Naprawdę? W najgorszym wypadku wszyscy jesteście bardzo ze sobą zżyci. Powiedziałbym, \nże cokolwiek się wydarzy, nadal będziecie wspaniałymi kompanami.\" "
 
 
 
@@ -3734,7 +3734,7 @@ translate polish s07_03_38d11c80:
 
     # avt "\"Great companions? Would that really be how it works out? You still don't know everything. You don't even know what they're asking me to do.\" "
 
-    avt "\"Wspaniałymi kompanami? Czy to naprawdę mogłoby iść w tym kierunku? Wciąż nie masz pojęcia o wszystkim. Nawet nie wiesz o co mnie proszą.\" "
+    avt "\"Wspaniałymi kompanami? Czy to naprawdę mogłoby iść w tym kierunku? Wciąż \nnie masz pojęcia o wszystkim. Nawet nie wiesz, o co mnie proszą.\" "
 
 
 
@@ -3778,7 +3778,7 @@ translate polish s07_03_80eb3a33:
 
     voice voice_file.lagu(7,39)
 
-    lagu serious "\"W takim razie sądzę, że musisz tylko obiecać to temu z którym chciałbyś spędzić resztę swojego życia.\" "
+    lagu serious "\"W takim razie sądzę, że musisz tylko obiecać to temu, z którym chciałbyś spędzić resztę swojego życia.\" "
 
 
 
@@ -3790,7 +3790,7 @@ translate polish s07_03_fc72b07f:
 
     # avt "\"Why'd you have to put it like that!\" "
 
-    avt "\"Dlaczego ubrałeś to w takie słowa!\" "
+    avt "\"Dlaczego ubrałeś to w takie słowa?!\" "
 
 
 
@@ -3850,7 +3850,7 @@ translate polish s07_03_ac8c732a:
 
     voice voice_file.lagu(7,42)
 
-    lagu serious "\"Nie możesz wiecznie odkładać tej decyzji. Uważam, że powinieneś wybrać towarzysza z którym najlepiej się dogadujesz i zostać z nim na zawsze.\" "
+    lagu serious "\"Nie możesz wiecznie odkładać tej decyzji. Uważam, że powinieneś wybrać \ntowarzysza, z którym najlepiej się dogadujesz i zostać z nim na zawsze.\" "
 
 
 
@@ -3880,9 +3880,9 @@ translate polish s07_03_416484ac:
 
     voice voice_file.lagu(7,43)
 
-    lagu serious "Bez względu na to, wpływ innych zawsze będzie kreować drogę jaką podążysz.\" "
+    lagu serious "\"Bez względu na to, wpływ innych zawsze będzie kreować drogę, jaką podążysz.\" "
 
-    lagu serious "Wyobraź sobie, że byłbyś w związku z innym człowiekiem, nie zmieniłoby twojego życia w ten sam sposób?\" "
+    lagu serious "\"Wyobraź sobie, że byłbyś w związku z innym człowiekiem, nie zmieniłoby twojego życia w ten sam sposób?\" "
 
 
 
@@ -3922,7 +3922,7 @@ translate polish s07_03_7ace18e9:
 
     # avt "\"I want to make my own decision! Please, I don't want you trying to make my {i}own{/i} \ decisions for me!\" "
 
-    avt "\"Chcę sam o tym zadecydować! Proszę, nie chcę abyś próbował podejmować za mnie moje {i}własne{/i} \ decyzje!\" "
+    avt "\"Chcę sam o tym zadecydować! Proszę, nie chcę, abyś próbował podejmować za mnie moje {i}własne{/i} \ decyzje!\" "
 
 
 
@@ -3950,7 +3950,7 @@ translate polish s07_03_4c6a9850:
 
     # b "...As annoying as it is, he's not wrong. "
 
-    b "...bez względu na to jak bardzo to irytujące, ma rację. "
+    b "...Bez względu na to, jak bardzo to irytujące, ma rację. "
 
 
 
@@ -3966,7 +3966,7 @@ translate polish s07_03_997568cd:
 
     voice voice_file.lagu(7,46)
 
-    lagu normal "\"Nawet jeśli nie ma {i}doskonałego{/i} \ sposobu by to rozstrzygnąć, myślę że powinieneś zadecydować jak najszybciej. Zabieranie im czasu będzie przez wszystkich odbierane jako bardzo lekceważące.\" "
+    lagu normal "\"Nawet jeśli nie ma {i}doskonałego{/i} \ sposobu, by to rozstrzygnąć, myślę że powinieneś zadecydować jak najszybciej. Zabieranie im czasu będzie przez wszystkich odbierane jako bardzo lekceważące.\" "
 
 
 
@@ -3982,7 +3982,7 @@ translate polish s07_03_57aba9be:
 
     voice voice_file.tig(7,24)
 
-    tig normal "\"Nie mam nic przeciwko. Jest w porządku tak długo jeśli Liao wróci do domu po ukończeniu studiów. Nie będzie miał czasu by zostać świątynnym kapłanem, czy aborygeńską wyrocznią.\" "
+    tig normal "\"Nie mam nic przeciwko. Jest w porządku, dopóki Liao wróci do domu po ukończeniu studiów. Nie będzie miał czasu, by zostać świątynnym kapłanem, czy aborygeńską wyrocznią.\" "
 
 
 
@@ -4014,7 +4014,7 @@ translate polish s07_03_ec2eb7c3:
 
     voice voice_file.tig(7,25)
 
-    tig lift "\"Cóż, nie miałbyś tak źle gdybyś wrócił do bycia yaoguai.\" "
+    tig lift "\"Cóż, nie miałbyś tak źle, gdybyś wrócił do bycia yaoguai.\" "
 
 
 
@@ -4050,7 +4050,7 @@ translate polish s07_03_e22eade7:
 
     tig normal "\"Nic więcej się wtedy nie wydarzy. Bóg Ziemi zostanie jedynie pozbawiony mocy, co wcale nie oznaczałoby jego śmierci.\" "
 
-    tig normal "\"Jeżeli miejscowa ludność nie czuje dłużej potrzeby by mu służyć, to taka jest kolej rzeczy.\" "
+    tig normal "\"Jeżeli miejscowa ludność nie czuje dłużej potrzeby, by mu służyć, to taka jest kolej rzeczy.\" "
 
 
 
@@ -4078,7 +4078,7 @@ translate polish s07_03_47b1bc96:
 
     # avt "\"Please, just stop you two. It's hard enough to decide as it is without you making each other cry. This {i}really{/i} \ is difficult for me...\" "
 
-    avt "\"Proszę, przestańcie już. I bez waszego doprowadzania siebie nawzajem do łez ciężko jest podjąć decyzję. To dla mnie {i}bardzo{/i} \ trudne...\" "
+    avt "\"Proszę, przestańcie już. I bez waszego doprowadzania siebie nawzajem \ndo łez ciężko jest podjąć decyzję. To dla mnie {i}bardzo{/i} \ trudne...\" "
 
 
 
@@ -4094,7 +4094,7 @@ translate polish s07_03_2c3f4c8c:
 
     voice voice_file.lagu(7,47)
 
-    lagu serious "\"Wiem że jesteś pod presją, ale odkładanie tego na później w niczym nie pomoże. Nie ruszysz w ten sposób z miejsca.\" "
+    lagu serious "\"Wiem, że jesteś pod presją, ale odkładanie tego na później w niczym nie pomoże. Nie ruszysz w ten sposób z miejsca.\" "
 
 
 
@@ -4210,7 +4210,7 @@ translate polish s07_03_88687f8c:
 
     voice voice_file.lpdcat(7,65)
 
-    lpdcat angry "\"Ale z ciebie samolub!\" "
+    lpdcat angry "\"Naprawdę niezły z ciebie samolub!\" "
 
 
 
@@ -4254,7 +4254,7 @@ translate polish s07_03_24ad747b:
 
     voice voice_file.lagu(7,48)
 
-    lagu laugh "\"Hahaha- Cóż za kłopotliwa sytuacja w którą się wplątałeś dzieciaku.\" "
+    lagu laugh "\"Hahaha— Cóż za kłopotliwa sytuacja, w którą się wplątałeś dzieciaku.\" "
 
 
 
