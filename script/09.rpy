@@ -574,7 +574,7 @@ translate polish s09_f70e6348:
 
     voice voice_file.lagu(9,2)
 
-    lagu normal "\"Ahaha- przyszedłem cię zobaczyć dzieciaku.\" "
+    lagu normal "\"Hahahaha- przyszedłem cię zobaczyć dzieciaku.\" "
 
 
 
@@ -1190,7 +1190,7 @@ translate polish s09_423c7a9a:
 
     voice voice_file.lagu(9,19)
 
-    lagu laugh "\"Ahaha- Jesteś naprawdę świetny dzieciaku. Widzimy się następnym razem.\" "
+    lagu laugh "\"Hahahaha- Jesteś naprawdę świetny dzieciaku. Widzimy się następnym razem.\" "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish s09_f7462f64:
 
     voice voice_file.lagu(9,20)
 
-    lagu laugh "\"Ahahaha-\" "
+    lagu laugh "\"Hahahaha-\" "
 
 
 
