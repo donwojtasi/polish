@@ -1180,7 +1180,7 @@ translate polish start_5b5637c4:
 
     b "Najwyraźniej niepotrzebnie się martwiłem. "
 
-    b "Pozbywszy się tego lęku, kieruję swój niepokój w \nkierunku ndrzwi, zastanawiając się kto za nimi stoi... "
+    b "Pozbywszy się tego lęku, kieruję swój niepokój w \nkierunku drzwi, zastanawiając się kto za nimi stoi... "
 
 
 
@@ -2396,7 +2396,7 @@ translate polish start_1646361a:
 
     # avt "\"Guys, just hold on a second. My senpai is coming over so please keep it down and stay quiet, understood?\" "
 
-    avt "\"Chłopaki, zaczekajcie chwilę. Przychodzi mój senpai, więc \nproszę uspokójcie się i bądźcie cicho, zrozumiano?\" "
+    avt "\"Chłopaki, zaczekajcie chwilę. Przychodzi mój Senpai, więc \nproszę uspokójcie się i bądźcie cicho, zrozumiano?\" "
 
 
 
@@ -2538,7 +2538,7 @@ translate polish start_e8e07219:
 
     # b "If someone at school was a beast-man, there'd be mayhem over it! "
 
-    b "Gość stojący przede mną jest podobnego wzrostu i tej samej \ndrobnej budowy, co Senpaj... ale przecież Senpaj nie jest kotem! "
+    b "Gość stojący przede mną jest podobnego wzrostu i tej samej \ndrobnej budowy, co Senpai... ale przecież Senpai nie jest kotem! "
 
     b "Jeśli ktokolwiek taki pojawiłby się w szkole, byłoby z tego niezłe zamieszanie! "
 
@@ -3572,7 +3572,7 @@ translate polish start_4bbe96e6:
 
     # b "Disregarding my protests Senpai makes himself at home, plopping himself down at my table, digging into his plastic bag, and taking out the lou mei— ready to eat it. "
 
-    b "Ignorując moje protesty, Senpai rozgaszcza się, zasiadając przy stole. Zagląda do \nswej plastikowej torby i wyjmuje z niej Lou mei— gotów do jedzenia. "
+    b "Ignorując moje protesty, Senpai rozgaszcza się, zasiadając przy stole. Zagląda do \nswej plastikowej torby i wyjmuje z niej lou mei— gotów do jedzenia. "
 
 
 
@@ -4380,7 +4380,7 @@ translate polish start_7dfb4203:
 
     # b "Sometimes I do fantasize about beast-men being real, having one close to me. Who would've thought... "
 
-    b "Czasami marzę o tym, by zwierzoludzie byli prawdziwi, a \ntymczasem miałem przy sobie jednego z nich. Kto by pomyślał... "
+    b "Czasami marzę o tym, by zwierzoludzie byli prawdziwi, \nby mieć przy sobie jednego z nich. Kto by pomyślał... "
 
 
 
@@ -4600,7 +4600,7 @@ translate polish start_71e364b5:
 
     # avt "\"Um... Senpai?\" "
 
-    avt "\"Um... Senpaj?\" "
+    avt "\"Um... Senpai?\" "
 
 
 
@@ -4668,7 +4668,7 @@ translate polish start_8a50dde8:
 
     # b "I wait for a while, but Senpai doesn't respond. All I can hear is him vaguely humming along. "
 
-    b "Czekam przez chwilę, ale Senpaj nie odpowiada. Wszystko, co słyszę to niewyraźne mruczenie. "
+    b "Czekam przez chwilę, ale Senpai nie odpowiada. Wszystko, co słyszę to niewyraźne mruczenie. "
 
 
 
@@ -4680,7 +4680,7 @@ translate polish start_1d94c5bd:
 
     # avt "\"Senpai? You found it yet?\" "
 
-    avt "\"Senpaj? Znalazłeś je w końcu?\" "
+    avt "\"Senpai? Znalazłeś je w końcu?\" "
 
 
 
@@ -4748,7 +4748,7 @@ translate polish start_361ccc51:
 
     # avt "\"Senpai, stop teasing me please... I just need you to bring me some clothes...\" "
 
-    avt "\"Senpaj, przestań mnie drażnić, proszę... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
+    avt "\"Senpai, przestań mnie drażnić, proszę... Chcę tylko, byś przyniósł mi jakieś ubrania...\" "
 
 
 
@@ -4776,7 +4776,7 @@ translate polish start_0f8b09ec:
 
     # avt "\"Damn it, I know you're doing this on purpose Senpai!\" "
 
-    avt "\"Cholera. Wiedziałem, że robisz to celowo, Senpaj!\" "
+    avt "\"Cholera. Wiedziałem, że robisz to celowo, Senpai!\" "
 
 
 
@@ -5024,7 +5024,7 @@ translate polish start_ab58cb1a:
 
     # b "Senpai raised his half-eaten bowl of stew. He really wants me to use the same pair of chopsticks? ...That's like an indirect kiss! "
 
-    b "Senpaj podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę \nchce bym użył tej samej pary pałeczek? ...To niczym pośredni pocałunek! "
+    b "Senpai podniósł swoją na wpół zjedzoną miskę gulaszu. Czy on naprawdę \nchce bym użył tej samej pary pałeczek? ...To niczym pośredni pocałunek! "
 
 
 
@@ -5560,5 +5560,5 @@ translate polish strings:
 
     old "書齊學長"
 
-    new "Shu-Chi Senpaj"
+    new "Shu-Chi Senpai"
 

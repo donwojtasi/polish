@@ -526,7 +526,7 @@ translate polish day1_after_01_tig_8fc0d0ea:
 
     b "Staram się kontrolować oddech, a całe moje ciało napina się. "
 
-    b "To się nie dzieje naprawdę {i}na pewno{/i} biorę udział w jakiejś kiepskiej komedii romantycznej! "
+    b "To się nie dzieje naprawdę, {i}na pewno{/i} biorę udział w jakiejś kiepskiej komedii romantycznej! "
 
 
 
@@ -640,7 +640,7 @@ translate polish day1_after_01_tig_0cb82592:
 
     # b "If I couldn't see it for myself, I wouldn't believe someone even if they told me. "
 
-    b "A teraz, ten bóg, olbrzymi człowiek-tygrys- leży przy mnie, a ściśle mówiąc, przytula mnie... "
+    b "A teraz, ten bóg, olbrzymi człowiek-tygrys leży przy mnie, a ściśle mówiąc, przytula mnie... "
 
     b "Gdybym nie widział tego na własne oczy, nikomu bym w coś takiego nie uwierzył. "
 
