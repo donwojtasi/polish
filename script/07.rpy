@@ -4282,7 +4282,7 @@ translate polish s07_03_ed7cc6bc:
 
     voice voice_file.lagu(7,49)
 
-    lagu serious ""
+    lagu serious "\"Chyba powinienem ci przypomnieć, że ta sytuacja sama się nie rożwiąże. Będziesz się nią stresowałem, dopóki nie podejmiesz decyzji. Raczej nikt z nich nei chce, żebyś przez to przechodził.\" "
 
 
 
@@ -4294,7 +4294,7 @@ translate polish s07_03_79133a7e:
 
     # avt "\"I guess so...\" "
 
-    avt ""
+    avt "\"Na to wygląda...\" "
 
 
 
@@ -4310,7 +4310,7 @@ translate polish s07_03_e436235a:
 
     voice voice_file.lagu(7,50)
 
-    lagu serious ""
+    lagu serious "\"A yaoguai... rozpowiadają plotki. Im szybciej się z tym uporasz tym lepiej."
 
 
 
@@ -4322,7 +4322,7 @@ translate polish s07_03_05964337:
 
     # avt "\"What does that mean?\" "
 
-    avt ""
+    avt "\"Co to oznacza?\" "
 
 
 
@@ -4338,7 +4338,7 @@ translate polish s07_03_e9643862:
 
     voice voice_file.lagu(7,51)
 
-    lagu normal ""
+    lagu normal "Hahah— Nic. Pomyśl tylko, z kim chciałbyś współpracować. Bez względu na wszystko, zranisz któregoś z nich. Więc dla ich dobra nie kombinuj."
 
 
 
@@ -4350,7 +4350,7 @@ translate polish s07_03_9e6bd210:
 
     # avt "\"Why do you have to make it sound like I'm breaking up with someone!\" " with hshake
 
-    avt "" with hshake
+    avt "\"Dlaczego musisz sprawiać, że to brzmi jakbym z kimś zrywał?!\" " with hshake
 
 
 
@@ -4368,9 +4368,9 @@ translate polish s07_03_12df7488:
 
     voice voice_file.lagu(7,52)
 
-    lagu laugh ""
+    lagu laugh "A mylę się? Mimo wszystko, ich wyglądy są oparte na twoich preferencjach. Nie wspominając o rzeczach, w których mogą ci {i}pomóc{/i} \."
 
-
+    lagu laugh "\"Słyszałem gdzieś, że ci bogowie spełniają twoje {i}specjalne pragnienia{/i} \, czyż nie, dzieciaku?\" "
 
 # game/script/07.rpy:1050
 
@@ -4380,7 +4380,7 @@ translate polish s07_03_5c26bb70:
 
     # avt "\"How do you know about that!\" "
 
-    avt ""
+    avt "\"Skąd o tym wiesz?!"
 
 
 
@@ -4396,7 +4396,7 @@ translate polish s07_03_366b9e5b:
 
     voice voice_file.lagu(7,53)
 
-    lagu laugh ""
+    lagu laugh "\"A więc to prawda? Tylko zgadywałem.\" "
 
 
 
@@ -4408,7 +4408,7 @@ translate polish s07_03_b0c055e1:
 
     # avt "\"W-{w=0.2}Why...\" "
 
-    avt ""
+    avt "\"D-{w=0.2}Dlaczego...\" "
 
 
 
@@ -4420,7 +4420,7 @@ translate polish s07_03_8029f2e7:
 
     # b "The yaoguai are gossiping about me like that? About {i}that{/i} \ stuff?! Thinking about it is almost too embarrassing to handle... "
 
-    b ""
+    b "Yaoguai o mnie plotkują? O {i}tych{/i} \ sprawach?! Samo myślenie o tym jest zbyt zawstydzające... "
 
 
 
