@@ -4498,7 +4498,7 @@ translate polish day2_02_e8d74fd4:
 
     voice voice_file.lpdcat(3,48)
 
-    lpdcat serious "\"Dokładnie. Jeśli kupisz hamburgera dla staruszka, będzie mógł nacieszyć się jego smakiem. \nJednak i tak będziesz musiał go później zjeść, w przeciwnym wypadku się zmarnuje\" "
+    lpdcat serious "\"Dokładnie. Jeśli kupisz hamburgera dla staruszka, będzie mógł nacieszyć się jego smakiem. \nJednak i tak będziesz musiał go później zjeść, w przeciwnym wypadku się zmarnuje.\" "
 
 
 
@@ -4614,7 +4614,7 @@ translate polish day2_02_50681b67:
 
     # b "\"So all this time I've been serving my guardian tiger? But by that logic... I've done... {w=0.5}embarrassing things in the temple. Is that even okay?\" "
 
-    b "\"Przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem \nrozumowania... Robiłem... {w=0.5}okropne rzeczy w jego świątyni. Czy to aby w porządku?\" "
+    b "Przez cały ten czas służyłem mojemu tygrysiemu strażnikowi? Idąc tym tokiem \nrozumowania... Robiłem... {w=0.5}okropne rzeczy w jego świątyni. Czy to aby w porządku? "
 
 
 
@@ -5502,7 +5502,7 @@ translate polish day2_03_normal_78769784:
 
     # avt "\"But Senpai, I couldn't do all this while I'm at school, could I?\" "
 
-    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, prawda, Senpai?\" "
+    avt "\"Nie mógłbym zrobić tego wszystkiego będąc w szkole, prawda Senpai?\" "
 
 
 
@@ -6878,7 +6878,7 @@ translate polish day2_04_b4b3e032:
 
     # avt "\"Senpaaaaai!\" "
 
-    avt "\"Senpaaaaaj!\" "
+    avt "\"Senpaaaaai!\" "
 
 
 

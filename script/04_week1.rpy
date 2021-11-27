@@ -1378,7 +1378,7 @@ translate polish week1_saturday_tig_7039e536:
 
     voice voice_file.tig(4,13)
 
-    tig normal "\"Kiedyś to twój komputer mnie zdumiewałk, ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przerosły moje wyobrażenia. To takie wygodne, wspaniałe urządzenie.\" "
+    tig normal "\"Kiedyś to twój komputer mnie zdumiewał, ale gdy tylko przyjrzałem się bliżej twojemu smartfonowi, jego możliwości przerosły moje wyobrażenia. To takie wygodne, wspaniałe urządzenie.\" "
 
 
 
