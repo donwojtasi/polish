@@ -22,7 +22,7 @@ translate polish week2_01_00d3fa82:
 
     # b "I come and go from school as usual, but for the most part my life has been turned on it's head. "
 
-    b "Chodzę do szkoły tak jak zwykle, ale cała reszta \nmojego życia została wywrócona do góry nogami. "
+    b "Chodzę do szkoły tak jak zwykle, ale cała reszta mojego życia została wywrócona do góry nogami. "
 
 
 
@@ -34,7 +34,7 @@ translate polish week2_01_d21ed498:
 
     # b "I mean, I've never wanted an ordinary, boring life, but I know for a fact no other college students have to deal with this. "
 
-    b "Nudna, szara codzienność nigdy nie była szczytem moich marzeń, \nale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
+    b "Nudna, szara codzienność nigdy nie była szczytem moich marzeń, ale wiem, że inni studenci nie muszą się mierzyć z czymś takim. "
 
 
 
@@ -46,7 +46,7 @@ translate polish week2_01_03ed8e58:
 
     # b "I've tried my best to keep things normal, but people still catch me talking to myself, and well, those rumors aren't great... "
 
-    b "Próbowałem z całych sił, by zachować pozory normalności, ale ludzie \nwciąż zastają mnie mówiącego do siebie, a do tego te plotki... "
+    b "Próbowałem z całych sił, by zachować pozory normalności, ale ludzie wciąż zastają mnie mówiącego do siebie, a do tego te plotki... "
 
 
 
@@ -58,7 +58,7 @@ translate polish week2_01_d2b7d9fc:
 
     # b "I didn't have many friends at school as it stood and that doesn't help to make things better. Luckily I can handle classes by myself. "
 
-    b "W szkole nigdy nie miałem zbyt wielu przyjaciół i coś czuję, że to się \nprędko nie zmieni. Przynajmniej nie potrzebuję pomocy z nauką. "
+    b "W szkole nigdy nie miałem zbyt wielu przyjaciół i coś czuję, że to się prędko nie zmieni. Przynajmniej nie potrzebuję pomocy z nauką. "
 
 
 
@@ -74,7 +74,7 @@ translate polish week2_01_881eb04f:
 
     b "Chłopaki w klubie wciąż nie chcą uwierzyć, że między mną, a Senpajem nic nie zaszło. "
 
-    b "Już nie próbuję im tego tłumaczyć. Nauczyłem się tym nie \nprzejmować. Pozbycie się Senpaja jest przecież niemożliwe. "
+    b "Już nie próbuję im tego tłumaczyć. Nauczyłem się tym nie przejmować. Pozbycie się Senpaja jest przecież niemożliwe. "
 
 
 
@@ -98,7 +98,7 @@ translate polish week2_01_3fd7162a:
 
     # b "My room isn't big enough to give me any privacy. After all I've got... {i}certain needs{/i}, you know? "
 
-    b "Mój pokój jest za mały, bym mógł zachować choć odrobinę \nprywatności. Mam przecież... {i}swoje potrzeby{/i}, prawda? "
+    b "Mój pokój jest za mały, bym mógł zachować choć odrobinę prywatności. Mam przecież... {i}swoje potrzeby{/i}, prawda? "
 
 
 
@@ -110,7 +110,7 @@ translate polish week2_01_170185c7:
 
     # b "In the end there's nothing else I can do but to try and survive this. Besides, it's not like everything is to hate about it. "
 
-    b "Koniec końców, mogę jedynie próbować to jakoś znieść. \nZresztą, nie żeby wszystko w obecnej sytuacji mi przeszkadzało. "
+    b "Koniec końców, mogę jedynie próbować to jakoś znieść. Zresztą, nie żeby wszystko w obecnej sytuacji mi przeszkadzało. "
 
 
 
@@ -122,7 +122,7 @@ translate polish week2_01_0912708c:
 
     # b "I mean, it's hard to not find some enjoyment from living with three hot guys all the time, right? "
 
-    b "Raczej trudno nie znaleźć choć odrobiny przyjemności, \nżyjąc cały czas w otoczeniu trzech gorących facetów. "
+    b "Raczej trudno nie znaleźć choć odrobiny przyjemności, mieszkając cały czas w otoczeniu trzech gorących facetów. "
 
 
 
@@ -148,7 +148,7 @@ translate polish s05_5_1bc03641:
 
     # b "I guess he doesn't really have much interest in it. Especially considering he can't read Chinese. "
 
-    b "Senpai akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście \nbył ze mną, ale Lampart wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
+    b "Senpai akurat miał zajęcia, więc z nami nie poszedł. Tygrys oczywiście był ze mną, ale Lampart wyszedł, gdy tylko zaczęliśmy przeglądać półki. "
 
     b "Myślę, że nie interesuje go to zbytnio. Pewnie dlatego, że nie potrafi czytać po chińsku. "
 
@@ -234,7 +234,7 @@ translate polish s05_5_15891fd3:
 
     # b "Tiger suddenly seemed very interested in a certain bookcase. I went over to see what was so curious about it. "
 
-    b "Tygrys zdaje się być nagle bardzo zainteresowany jednym z \nregałów. Podchodzę bliżej, by zobaczyć, co go tak zaintrygowało. "
+    b "Tygrys zdaje się być nagle bardzo zainteresowany jednym z regałów. Podchodzę bliżej, by zobaczyć, co go tak zaintrygowało. "
 
 
 
@@ -258,7 +258,7 @@ translate polish s05_5_1c46e06c:
 
     # b "I'm surprised at Tiger's interest in these school textbooks. It just looks like boring study material tome.. "
 
-    b "Zdziwiło mnie, że Tygrys zainteresował się szkolnymi podręcznikami. \nTo przecież tylko nudny tom materiału do wkucia... "
+    b "Zdziwiło mnie, że Tygrys zainteresował się szkolnymi podręcznikami. To przecież tylko nudny tom materiału do wkucia... "
 
 
 
@@ -290,7 +290,7 @@ translate polish s05_5_1aab5a1a:
 
     voice voice_file.tig(5,4)
 
-    tig normal "\"Co cię tak dziwi... Po prostu chciałbym odkryć jak działa ta cała technologia. \nCzy sądzisz, że znaleźlibyśmy tutaj jakieś materiały na ten temat?\" "
+    tig normal "\"Co cię tak dziwi... Po prostu chciałbym odkryć jak działa ta cała technologia. Czy sądzisz, że znaleźlibyśmy tutaj jakieś materiały na ten temat?\" "
 
 
 
@@ -318,7 +318,7 @@ translate polish s05_5_ca981441:
 
     b "Trochę to trwało, ale wreszcie znalazłem książkę o rozwoju komputerów. "
 
-    b "Po przejrzeniu paru stron wygląda na to, że są tam rozdziały o historii \nkomputerów, powstaniu internetu i inne podobne tematy. "
+    b "Po przejrzeniu paru stron wygląda na to, że są tam rozdziały o historii komputerów, powstaniu internetu i inne podobne tematy. "
 
 
 
@@ -330,7 +330,7 @@ translate polish s05_5_8cb99e55:
 
     # b "I'm not too sure about Tiger's grasp on physics, but it seems like the explanations are given through analogous stories. He'll probably get the gist of it. "
 
-    b "W sumie nie wiem jak dużo Tygrys wie o fizyce, ale zdaje się, że zagadnienia \nwytłumaczone są w dość przystępny sposób. Powinien załapać, o co chodzi. "
+    b "W sumie nie wiem jak dużo Tygrys wie o fizyce, ale zdaje się, że zagadnienia wytłumaczone są w dość przystępny sposób. Powinien załapać, o co chodzi. "
 
 
 
@@ -370,7 +370,7 @@ translate polish s05_5_ed606708:
 
     # b "The guardian tiger reaches for the book... pulling out its Chi form. Proceeding to flip though a few pages. "
 
-    b "Tygrysi strażnik sięga po książkę... wydobywając jej formę Chi. \nZaczyna ją kartkować, zatrzymując się na wybranych stronach. "
+    b "Tygrysi strażnik sięga po książkę... wydobywając jej formę Chi. Zaczyna ją kartkować, zatrzymując się na wybranych stronach. "
 
 
 
@@ -454,7 +454,7 @@ translate polish s05_5_07d25d2c:
 
     # b "Turning back to the literature section, I pick out a book to read. I promised that I'd wait for Senpai to finish class so we could walk back together, so I might as well do something while I'm waiting. "
 
-    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpajowi, że poczekam, aż skończy zajęcia i razem wrócimy do domu, więc co mi szkodzi \nprzez ten czas coś porobić. "
+    b "Wracam do działu z literaturą i biorę do poczytania pierwszą lepszą książkę. Obiecałem Senpajowi, że poczekam, aż skończy zajęcia i razem wrócimy do domu, więc co mi szkodzi przez ten czas coś porobić. "
 
 
 
@@ -470,7 +470,7 @@ translate polish s05_5_0e924d74:
 
     b "Czytam swoją książkę, co raz spoglądając na Tygrysa pochłoniętego w swojej. "
 
-    b "Mijają godziny, ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak \nszybko czyta?) "
+    b "Mijają godziny, ja jestem mniej więcej w połowie swojej lektury, a on już prawie kończy! Niemożliwe, by moja książka była obszerniejsza niż jego podręcznik! (Jakim cudem tak szybko czyta?) "
 
 
 
@@ -488,7 +488,7 @@ translate polish s05_5_16de6244:
 
     b "Tygrys zamyka książkę z satysfakcjonującym klapnięciem. Wstaje i ponosi z półki kolejną. "
 
-    b "Mija trochę czasu zanim udaje mi się dokończyć swoją \nksiążkę. Wtedy Senpai nareszcie do mnie dzwoni. "
+    b "Mija trochę czasu zanim udaje mi się dokończyć swoją książkę. Wtedy Senpai nareszcie do mnie dzwoni. "
 
     b "Heh, dobrze się składa... "
 
@@ -582,7 +582,7 @@ translate polish s05_5_41cfdd62:
 
     # b "After being told that we need to leave, he promptly closes the book in his paws. Though he seems a bit dejected about having to stop... "
 
-    b "Po usłyszeniu że musimy odejść, natychmiast zamyka książkę w swoich \nłapach. Choć wydaje się nieco przygnębiony tym, że musi przestać... "
+    b "Po usłyszeniu że musimy odejść, natychmiast zamyka książkę w swoich łapach. Choć wydaje się nieco przygnębiony tym, że musi przestać... "
 
 
 
@@ -594,7 +594,7 @@ translate polish s05_5_19c8c457:
 
     # avt "\"You only just started reading that one, why not buy it if you want to keep reading \nlater?\" "
 
-    avt "\"Dopiero zacząłeś czytać tę książkę, więc dlaczego by \njej nie kupić, jeśli chciałbyś ją później dokończyć?\"  "
+    avt "\"Dopiero zacząłeś czytać tę książkę, więc dlaczego by jej nie kupić, jeśli chciałbyś ją później \ndokończyć?\"  "
 
 
 
@@ -674,7 +674,7 @@ translate polish s05_5_buy_1_1d544c1d:
 
     # avt "\"How about this. If we get the book, we can just save money elsewhere by not buying as much junk food for you. Perfect!\" "
 
-    avt "\"Co powiesz na to? Jeśli weźmiemy książkę, możemy zaoszczędzić pieniądze \ngdzie indziej, nie kupując ci tak dużo niezdrowego jedzenia. Idealnie!\" "
+    avt "\"Co powiesz na to? Jeśli weźmiemy książkę, możemy zaoszczędzić pieniądze gdzie indziej, nie kupując ci tak dużo niezdrowego jedzenia. Idealnie!\" "
 
 
 
@@ -730,7 +730,7 @@ translate polish s05_5_buy_1_e943fc35:
 
     voice voice_file.tig(5,12)
 
-    tig nervous "\"...Wolałbym książkę. W końcu wiedza jest warta więcej niż \nzbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
+    tig nervous "\"...Wolałbym książkę. W końcu wiedza jest warta więcej niż zbytek jedzenia. Pragnę dotrzymywać kroku dzisiejszej młodzieży.\" "
 
 
 
@@ -756,7 +756,7 @@ translate polish s05_5_buy_1_4254e111:
 
     # b "Bracing my wallet, I decide to take the book over to the cashier. "
 
-    b "W każdym razie, ktoś taki jak Tygrys, który nie wie nic o współczesnej \ntechnologii, nauczyłby się z niej wielu przydatnych rzeczy. "
+    b "W każdym razie, ktoś taki jak Tygrys, który nie wie nic o współczesnej technologii, nauczyłby się z niej wielu przydatnych rzeczy. "
 
     b "Zabieram książkę do kasy i wyciągam portfel. "
 
@@ -826,7 +826,7 @@ translate polish s05_5_buy_1_6b769edb:
 
     # b "That was a joke, but the price of this book isn't funny. We'll have to be crafty with spending money for the next few days... "
 
-    b "To był tylko żart, choć patrząc na cenę książki, nie jest mi wcale do śmiechu. \nBędziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
+    b "To był tylko żart, choć patrząc na cenę książki, nie jest mi wcale do śmiechu. Będziemy musieli dobrze zaplanować wydatki na następne kilka dni... "
 
 
 
@@ -1050,7 +1050,7 @@ translate polish s05_5_dont_buy_bc7c1062:
 
     # b "It probably wouldn't have been very useful anyway. I flick through it to find it's mostly glossy photographs, like a coffee table book. "
 
-    b "I tak pewnie nie przydałaby się nam za bardzo. Przeszukuję ją i znajduję \ngłównie błyszczące fotografie, jak w dużym albumie z grafikami. "
+    b "I tak pewnie nie przydałaby się nam za bardzo. Przeszukuję ją i znajduję głównie błyszczące fotografie, jak w dużym albumie z grafikami. "
 
 
 
@@ -1090,7 +1090,7 @@ translate polish s05_5_dont_buy_722ed642:
 
     # avt "\"Besides, not buying books just means we can spend more money on dinner! Anything you'd like?\" "
 
-    avt "\"Poza tym nie kupowanie książek oznacza, że możemy \nwydać więcej pieniędzy na obiady! Masz na coś ochotę?\" "
+    avt "\"Poza tym nie kupowanie książek oznacza, że możemy wydać więcej pieniędzy na obiady! Masz na coś ochotę?\" "
 
 
 
@@ -1134,7 +1134,7 @@ translate polish s05_5_dont_buy_e63c518c:
 
     # b "So we left the bookstore and headed over to the cafeteria, talking about what food to get the whole way. "
 
-    b "Wychodzimy z księgarni i udajemy się do stołówki, całą \ndrogę dyskutując, co by tu wziąć do jedzenia. "
+    b "Wychodzimy z księgarni i udajemy się do stołówki, całą drogę dyskutując, co by tu wziąć do jedzenia. "
 
 
 
@@ -1158,7 +1158,7 @@ translate polish week2_03_1d39702a:
 
     # b "Well, usually a quiz is no big deal but recently, all my study plans have been severely messed up by some cats... "
 
-    b "Zazwyczaj to żaden problem, ale ostatnio moje wszystkie \nstudenckie plany zostały zepsute przez pewne koty... "
+    b "Zazwyczaj to żaden problem, ale ostatnio moje wszystkie studenckie plany zostały zepsute przez pewne koty... "
 
 
 
@@ -1182,7 +1182,7 @@ translate polish week2_03_d0a50f23:
 
     # b "It's not like math was my strength to begin with. Even though I managed to review the whole topic, doesn't change the fact I didn't understand all of it. "
 
-    b "Matma nigdy nie była moją mocną stroną. Mimo że udało mi się powtórzyć \ncały temat, nie zmienia to faktu, że nie zrozumiałem wszystkiego. "
+    b "Matma nigdy nie była moją mocną stroną. Mimo że udało mi się powtórzyć cały temat, nie zmienia to faktu, że nie zrozumiałem wszystkiego. "
 
 
 
@@ -1206,7 +1206,7 @@ translate polish week2_03_9bbe5364:
 
     # b "But, I'll never get through this quiz by complaining about it. I keep calm, walk into the class and gently take my seat. "
 
-    b "Nie ma szans bym napisał ten test ciągle narzekając. Starając się \nzachować spokój, wchodzę do klasy i cicho zajmuję swoje miejsce. "
+    b "Nie ma szans bym napisał ten test ciągle narzekając. Starając się zachować spokój, wchodzę do klasy i cicho zajmuję swoje miejsce. "
 
 
 
@@ -1218,7 +1218,7 @@ translate polish week2_03_1ae43a26:
 
     # b "It's kinda weird to be in class at this point without Senpai with me. It's not his class so obviously he can't get away with sitting in on the test. "
 
-    b "To trochę dziwne, być teraz w klasie bez Senpaja siedzącego obok. To nie są jego \nzajęcia, więc siedzenie tu podczas testu nie uszłoby mu oczywiście na sucho. "
+    b "To trochę dziwne, być teraz w klasie bez Senpaja siedzącego obok. To nie są jego zajęcia, więc siedzenie tu podczas testu nie uszłoby mu oczywiście na sucho. "
 
 
 
@@ -1250,7 +1250,7 @@ translate polish week2_03_7dfe33bc:
 
     # b "All that fury and determination I had just a while ago, burnt out to a crisp. My mind resorting to absent-mindedly scribbling on the back of the exam paper. "
 
-    b "Cała ta zawziętość i determinacja, którą jeszcze chwilę temu miałem, gdzieś uleciała. \nMój umysł ucieka się do bezmyślnego skrobania po papierze egzaminacyjnym. "
+    b "Cała ta zawziętość i determinacja, którą jeszcze chwilę temu miałem, gdzieś uleciała. Mój umysł ucieka się do bezmyślnego skrobania po papierze egzaminacyjnym. "
 
 
 
@@ -1392,7 +1392,7 @@ translate polish week2_03_aac9a080:
 
     # b "Was he actually learning math?! "
 
-    b "Podczas zajęć zawsze siedział skupiony z tym swoim poważnym spojrzeniem, \nale myślałem, że po prostu próbuje poduczyć się mandaryńskiego. "
+    b "Podczas zajęć zawsze siedział skupiony z tym swoim poważnym spojrzeniem, ale myślałem, że po prostu próbuje poduczyć się mandaryńskiego. "
 
     b "Czy on tak naprawdę uczył się matematyki?! "
 
@@ -1406,7 +1406,7 @@ translate polish week2_03_3c0aa275:
 
     # b "But how... {w=0.5}Even if his Mandarin was good enough, you can't just walk into college level calculus and get an A! "
 
-    b "Ale jak... {w=0.5}Nawet jeśli jego mandaryński byłby wystarczająco dobry, to nie da \nsię od tak przeskoczyć na poziom szkoły wyższej i dostać najwyższą ocenę! "
+    b "Ale jak... {w=0.5}Nawet jeśli jego mandaryński byłby wystarczająco dobry, to nie da się od tak przeskoczyć na poziom szkoły wyższej i dostać najwyższą ocenę! "
 
 
 
@@ -1462,7 +1462,7 @@ translate polish week2_03_a5aa71f1:
 
     # b "I mean, are these even the answers? I'd doubt he'd lie about it though and it's not like I've got any better options. "
 
-    b "Tylko, czy to są w ogóle prawidłowe odpowiedzi? Chociaż wątpię, \nby próbował mnie oszukać, nie mam za bardzo innego wyboru. "
+    b "Tylko, czy to są w ogóle prawidłowe odpowiedzi? Chociaż wątpię, by próbował mnie oszukać, nie mam za bardzo innego wyboru. "
 
 
 
@@ -1490,7 +1490,7 @@ translate polish week2_03_d578bd07:
 
     # b "With class over. I turn in my quiz and whisper to Leopard while everyone packs up their stuff. "
 
-    b "Gdy dzwoni wreszcie dzwonek, oddaję swoją kartkę i szepczę \ndo Lamparta, podczas gdy wszyscy pakują swoje rzeczy. "
+    b "Gdy dzwoni wreszcie dzwonek, oddaję swoją kartkę i szepczę do Lamparta, podczas gdy wszyscy pakują swoje rzeczy. "
 
 
 
@@ -1578,7 +1578,7 @@ translate polish week2_03_e87a0f80:
 
     # b "That's cheating...{w=0.5}Well. I was already cheating when got his help on the quiz to begin with. It doesn't matter whether where he got the answers from. "
 
-    b "To się nazywa ściąganie...{w=0.5}No cóż, tak naprawdę to oszukiwałem już od chwili, \ngdy zgodziłem się na jego pomoc. Nieważne, w jaki sposób mi pomagał i co zrobił. "
+    b "To się nazywa ściąganie...{w=0.5}No cóż, tak naprawdę to oszukiwałem już od chwili, gdy zgodziłem się na jego pomoc. Nieważne, w jaki sposób mi pomagał i co zrobił. "
 
 
 
@@ -1614,7 +1614,7 @@ translate polish week2_03_099b293a:
 
     # b "I see Tiger sitting in the back row of the classroom, seemingly delighted by the book he's reading. "
 
-    b "Widzę Tygrysa siedzącego w tylnym rogu klasy, \nwidocznie uszczęśliwionego książką, którą czyta. "
+    b "Widzę Tygrysa siedzącego w tylnym rogu klasy, widocznie uszczęśliwionego książką, którą czyta. "
 
 
 
@@ -1638,7 +1638,7 @@ translate polish week2_03_7a2b5e32:
 
     # b "I start to pack my stuff and get ready to leave. There's nothing I can do anyway, and at least I completed the first half by myself... "
 
-    b "Zaczynam pakować swoje rzeczy i przygotowywać się do wyjścia. Nic już \nteraz nie mogę zrobić, przynajmniej sam wypełniłem pierwszą połowę... "
+    b "Zaczynam pakować swoje rzeczy i przygotowywać się do wyjścia. Nic już teraz nie mogę zrobić, przynajmniej sam wypełniłem pierwszą połowę... "
 
 
 
@@ -1666,7 +1666,7 @@ translate polish week2_03_6c754480:
 
     b "Dobra! Od teraz muszę się tylko bardziej przyłożyć do nauki! "
 
-    b "Nie pozwolę by taka sytuacja zaszła ponownie. Tylko jak powinienem \nwytłumaczyć to Lampartowi? Ciekawe, czy on wie, co to jest egzamin. "
+    b "Nie pozwolę by taka sytuacja zaszła ponownie. Tylko jak powinienem wytłumaczyć to Lampartowi? Ciekawe, czy on wie, co to jest egzamin. "
 
 
 
@@ -1738,7 +1738,7 @@ translate polish week2_03_b6727aa4:
 
     # avt "\"I mean... you shouldn't copy other people's answers. That's against the rules, and not fair to others. So don't do that.\" "
 
-    avt "\"To znaczy... nie powinieneś kopiować odpowiedzi od innych osób. To \nsprzeczne z zasadami i nie w porządku wobec innych. Nie rób tak więcej.\" "
+    avt "\"To znaczy... nie powinieneś kopiować odpowiedzi od innych osób. To sprzeczne z zasadami i nie w porządku wobec innych. Nie rób tak więcej.\" "
 
 
 
@@ -1766,7 +1766,7 @@ translate polish week2_03_cee99e92:
 
     # avt "\"Well see, it's unfair because I'm the only one who can see other people's answers. Understand now?\" "
 
-    avt "\"Zrozum, to nie w porządku, ponieważ tylko ja mogę \npodejrzeć odpowiedzi całej reszty. Teraz rozumiesz?\" "
+    avt "\"Zrozum, to nie w porządku, ponieważ tylko ja mogę podejrzeć odpowiedzi całej reszty. Teraz rozumiesz?\" "
 
 
 
@@ -1794,7 +1794,7 @@ translate polish week2_03_d6719ab5:
 
     # avt "\"So don't do that again. Sorry I didn't realise those were other people's answers and I just followed you. So next time, please don't tell me other people's answers.\" "
 
-    avt "\"Nie rób tego więcej. Przepraszam, że nie zorientowałem się, skąd masz te \nodpowiedzi i po prostu je od ciebie wziąłem. Następnym razem mi nie podpowiadaj.\"   "
+    avt "\"Nie rób tego więcej. Przepraszam, że nie zorientowałem się, skąd masz te odpowiedzi i po prostu je od ciebie wziąłem. Następnym razem mi nie podpowiadaj.\"   "
 
 
 
@@ -1842,7 +1842,7 @@ translate polish week2_03_44525028:
 
     # b "Even if I pass this quiz, that's all I get out of it. I won't pass the final exam without actual study anyway... "
 
-    b "Nawet jeśli zdam ten test, to byłoby na tyle. Nie uporam \nsię z końcowym egzaminem bez konkretnej nauki... "
+    b "Nawet jeśli zdam ten test, to byłoby na tyle. Nie uporam się z końcowym egzaminem bez konkretnej nauki... "
 
 
 
@@ -1890,7 +1890,7 @@ translate polish week2_03_fddd4106:
 
     # b "No! I can't think about just cheating my way through this. I absolutely can't do that! " with vpunch
 
-    b "Nie! Nie powinienem nawet myśleć o oszukiwaniu, by \nprzez to przebrnąć. Absolutnie nie mogę tego zrobić! " with vpunch
+    b "Nie! Nie powinienem nawet myśleć o oszukiwaniu, by przez to przebrnąć. Absolutnie nie mogę tego zrobić! " with vpunch
 
 
 
@@ -1934,7 +1934,7 @@ translate polish week2_04_d55dd73b:
 
     voice voice_file.jiahao(5,1)
 
-    jiahao "\"Hej, Liao, pamiętasz jak pytałeś mnie, czy znam jakichś \nbogów Rukai przypominających lamparty mgliste?\" "
+    jiahao "\"Hej, Liao, pamiętasz jak pytałeś mnie, czy znam jakichś bogów Rukai przypominających lamparty mgliste?\" "
 
 
 
@@ -1990,7 +1990,7 @@ translate polish week2_04_58a21b1c:
 
     voice voice_file.jiahao(5,3)
 
-    jiahao "\"Tak więc, o ile nie ma żadnych mglistych lampartów-bogów, \no tyle Rukai posiada legendę o lamparcie mglistym.\" "
+    jiahao "\"Tak więc, o ile nie ma żadnych mglistych lampartów-bogów, o tyle Rukai posiada legendę o lamparcie mglistym.\" "
 
 
 
@@ -2028,7 +2028,7 @@ translate polish week2_04_0a531081:
 
     jiahao "\"Gdy już mieli opuścić to miejsce, plemienny lampart mglisty nie chciał iść ani kroku dalej.\" "
 
-    jiahao "\"Zmusiło ich to do zatrzymania się i rozejrzenia wokoło. Lampart \npoprowadził ich do wymarzonego miejsca, idealnego do życia i rozwoju.\" "
+    jiahao "\"Zmusiło ich to do zatrzymania się i rozejrzenia wokoło. Lampart poprowadził ich do wymarzonego miejsca, idealnego do życia i rozwoju.\" "
 
     jiahao "\"To tam się osiedlili i założyli plemię Wutai, które znamy obecnie.\" "
 
@@ -2068,7 +2068,7 @@ translate polish week2_04_cc4d94f9:
 
     jiahao "\"Choć nie możemy być do końca pewni, czy to naprawdę się wydarzyło.\" "
 
-    jiahao "\"Powiedziałbym, że okoliczności, w jakich nasi \nprzodkowie się wtedy przenieśli, były trochę... dziwne.\" "
+    jiahao "\"Powiedziałbym, że okoliczności, w jakich nasi przodkowie się wtedy przenieśli, były trochę... dziwne.\" "
 
     jiahao "\"Ale przecież to tylko opowieść.\" "
 
@@ -2114,7 +2114,7 @@ translate polish week2_04_edbd16af:
 
     voice voice_file.jiahao(5,8)
 
-    jiahao "\"Ciężko powiedzieć, nasze plemię nie wyznaje lampartów mglistych, ale darzy \nje szczególnym szacunkiem. Koniec końców może i jest jakiś bóg-lampart?\" "
+    jiahao "\"Ciężko powiedzieć, nasze plemię nie wyznaje lampartów mglistych, ale darzy je szczególnym szacunkiem. Koniec końców może i jest jakiś bóg-lampart?\" "
 
 
 
@@ -2186,7 +2186,7 @@ translate polish week2_04_6396a159:
 
     voice voice_file.jiahao(5,10)
 
-    jiahao "\"Pewnie. Jak już mówiłem, Rukai darzy szacunkiem \nlamparty mgliste, nigdy byśmy ich nie skrzywdzili.\" "
+    jiahao "\"Pewnie. Jak już mówiłem, Rukai darzy szacunkiem lamparty mgliste, nigdy byśmy ich nie skrzywdzili.\" "
 
 
 
@@ -2202,7 +2202,7 @@ translate polish week2_04_5466a0db:
 
     voice voice_file.jiahao(5,11)
 
-    jiahao "\"Nie ma jednak powodu by twierdzić, że wszystkie są bogami... No cóż, może \nten, który poprowadził plemię do Wutai nim jest, ale nie cały gatunek.\" "
+    jiahao "\"Nie ma jednak powodu by twierdzić, że wszystkie są bogami... No cóż, może ten, który poprowadził plemię do Wutai nim jest, ale nie cały gatunek.\" "
 
 
 
@@ -2246,7 +2246,7 @@ translate polish week2_04_8e0cfc41:
 
     voice voice_file.jiahao(5,13)
 
-    jiahao "\"I tak nie sądzę, żeby zwierzę mogło od tak zostać bogiem. Według naszej \nkultury, wszyscy bogowie istnieli na długo przed powstaniem wszechświata.\" "
+    jiahao "\"I tak nie sądzę, żeby zwierzę mogło od tak zostać bogiem. Według naszej kultury, wszyscy bogowie istnieli na długo przed powstaniem wszechświata.\" "
 
 
 
@@ -2272,7 +2272,7 @@ translate polish week2_04_7a287051:
 
     # b "Maybe he might even be the one from Jiahao's legend? "
 
-    b "Może jest dla tego inne określenie? Mimo to mam na pewno \npodstawy, by przypuszczać, że on pochodzi z plemienia Rukai. "
+    b "Może jest dla tego inne określenie? Mimo to mam na pewno podstawy, by przypuszczać, że on pochodzi z plemienia Rukai. "
 
     b "Kto wie, czy to nie o nim mówił Jiahao w swojej legendzie. "
 
@@ -2430,7 +2430,7 @@ translate polish week2_04_f4a1c095:
 
     # b "Now that that's over, I pretend to tell Jiahao that I need to the bathroom so I can get a chance to talk to Leopard alone. "
 
-    b "Gdy wszystko sobie wyjaśniliśmy udałem przed Jiahao, że muszę \niść do łazienki, by móc pogadać z Lampartem sam na sam. "
+    b "Gdy wszystko sobie wyjaśniliśmy udałem przed Jiahao, że muszę iść do łazienki, by móc pogadać z Lampartem sam na sam. "
 
 
 
@@ -2442,7 +2442,7 @@ translate polish week2_04_8bd31d2f:
 
     # avt "\"So, uh... Leopard. Jiahao said he didn't know about any clouded leopard gods in the Rukai. You know anything about that?\" "
 
-    avt "\"Więc, umm... Lamparcie. Jiahao powiedział, że nic nie wie o \nżadnych mglistych lampartach-bogach z Rukai. Wiesz coś o tym?\" "
+    avt "\"Więc, umm... Lamparcie. Jiahao powiedział, że nic nie wie o żadnych mglistych lampartach-bogach z Rukai. Wiesz coś o tym?\" "
 
 
 
@@ -2670,7 +2670,7 @@ translate polish week2_04_f15d2ae7:
 
     # b "I guess he's done a lot for the Rukai people. "
 
-    b "To znaczy, że od dłuższego czasu wskazywał drogę ludności Rukai, by mogli \nznaleźć lepsze miejsca do życia, tak? Myślę, że naprawdę dużo dla nich zrobił. "
+    b "To znaczy, że od dłuższego czasu wskazywał drogę ludności Rukai, by mogli znaleźć lepsze miejsca do życia, tak? Myślę, że naprawdę dużo dla nich zrobił. "
 
 
 
@@ -2750,7 +2750,7 @@ translate polish week2_04_cd5e5d2a:
 
     # b "And that Aidridringane who sent him here... Hopefully this all turns out good in the \nend. "
 
-    b "I ten Aidridringane, który go tutaj wysłał... Mam \nnadzieję, że w końcu wszystko dobrze się ułoży. "
+    b "I ten Aidridringane, który go tutaj wysłał... Mam nadzieję, że w końcu wszystko dobrze się ułoży. "
 
 
 
@@ -2762,7 +2762,7 @@ translate polish week2_04_72168ad2:
 
     # b "Afterwards I go back to my seat, wave to Senpai, and focus on our club leader's choreography tutorials for the rest of the meeting... "
 
-    b "Później wracam na swoje miejsce, macham do Senpaja i skupiam się \nna instrukcjach choreograficznych aż do końca naszego spotkania... "
+    b "Później wracam na swoje miejsce, macham do Senpaja i skupiam się na instrukcjach choreograficznych aż do końca naszego spotkania... "
 
 
 
@@ -2790,7 +2790,7 @@ translate polish week2_05_bdb55f89:
 
     # b "Honestly, I don't want to pick up but it's been ages since I've talked to anyone from my family. "
 
-    b "Szczerze mówiąc, to wolałbym nie odbierać, ale minęły \nwieki, od kiedy rozmawiałem z kimkolwiek z rodziny. "
+    b "Szczerze mówiąc, to wolałbym nie odbierać, ale minęły wieki, od kiedy rozmawiałem z kimkolwiek z rodziny. "
 
 
 
@@ -2854,7 +2854,7 @@ translate polish week2_05_294596bc:
 
     # b "Well I can't really say having to suddenly deal with those three cats is {i}fine{/i}... but should I talk about that to dad? "
 
-    b "Nie mogę powiedzieć, że nagła konieczność użerania się z tymi trzema \nkotami jest {i}w porządku{/i}... ale czy powinienem mówić o tym tacie? "
+    b "Nie mogę powiedzieć, że nagła konieczność użerania się z tymi trzema kotami jest {i}w porządku{/i}... ale czy powinienem mówić o tym tacie? "
 
 
 
@@ -2868,7 +2868,7 @@ translate polish week2_05_b2afc75b:
 
     # b "But if dad finds out that I can do that... wouldn't he just force me to go back home? "
 
-    b "Bardzo chciałbym się dowiedzieć, czy w mojej rodzinie były jeszcze jakieś \nosoby ze zdolnością widzenia tygrysich strażników i innych duchów. "
+    b "Bardzo chciałbym się dowiedzieć, czy w mojej rodzinie były jeszcze jakieś osoby ze zdolnością widzenia tygrysich strażników i innych duchów. "
 
     b "Ale jeśli tata się dowie, że to potrafię... czy nie będzie mnie zmuszać do powrotu? "
 
@@ -2882,7 +2882,7 @@ translate polish week2_05_4ed6c0b3:
 
     # b "My older brother handles all the temple work these days, he takes it super seriously. "
 
-    b "Mój starszy brat jest teraz odpowiedzialny za wszystkie \nsprawy dotyczące świątyni, traktuje to bardzo poważnie. "
+    b "Mój starszy brat jest teraz odpowiedzialny za wszystkie sprawy dotyczące świątyni, traktuje to bardzo poważnie. "
 
 
 
@@ -2946,7 +2946,7 @@ translate polish week2_06_ask_7e749f94:
 
     # b "I hesitate a little bit. But I figure that asking him directly is the best option. "
 
-    b "Waham się przez krótką chwilę, ale dochodzę do wniosku, \nże powiedzenie tego prosto z mostu jest najlepszą opcją. "
+    b "Waham się przez krótką chwilę, ale dochodzę do wniosku, że powiedzenie tego prosto z mostu jest najlepszą opcją. "
 
 
 
@@ -2974,7 +2974,7 @@ translate polish week2_06_ask_4e580c0b:
 
     # avt "\"I mean, umm... can we see guardian tigers during divination? Has anyone in our family been able to see them before?\" "
 
-    avt "\"Mam na myśli, umm... czy możemy zobaczyć tygrysich strażników podczas \nwróżenia? Czy ktokolwiek z naszej rodziny mógł ich wcześniej zobaczyć?\" "
+    avt "\"Mam na myśli, umm... czy możemy zobaczyć tygrysich strażników podczas wróżenia? Czy ktokolwiek z naszej rodziny mógł ich wcześniej zobaczyć?\" "
 
 
 
@@ -3022,7 +3022,7 @@ translate polish week2_06_ask_ea7f27a6:
 
     voice voice_file.father(5,5)
 
-    phone "\"Tak, odpowiedź brzmi {i}nie{/i}. Czemu tak nagle cię to \ninteresuje? Czy ludzie nagadali ci jakichś rzeczy?\" "
+    phone "\"Tak, odpowiedź brzmi {i}nie{/i}. Czemu tak nagle cię to interesuje? Czy ludzie nagadali ci jakichś rzeczy?\" "
 
 
 
@@ -3034,7 +3034,7 @@ translate polish week2_06_ask_59df171e:
 
     # avt "\"Oh ...no, I'm just curious. I mean, we've been a Jitong family for a long time, maybe there's something more to the guardian tigers...\" "
 
-    avt "\"Och... nie, po prostu jestem ciekaw. To znaczy, jesteśmy rodziną Jitong \nod dawna, może za tymi tygrysimi strażnikami kryje się coś więcej...\" "
+    avt "\"Och... nie, po prostu jestem ciekaw. To znaczy, jesteśmy rodziną Jitong od dawna, może za tymi tygrysimi strażnikami kryje się coś więcej...\" "
 
 
 
@@ -3056,7 +3056,7 @@ translate polish week2_06_ask_dce516ad:
 
     phone "\"W sumie, to o czymś mi przypomniałeś.\" "
 
-    phone "\"Gdy byłem małym chłopcem, mój dziadek, to jest twój pradziadek, \nzawsze mówił, że jest doglądany przez tygrysich strażników.\" "
+    phone "\"Gdy byłem małym chłopcem, mój dziadek, to jest twój pradziadek, zawsze mówił, że jest doglądany przez tygrysich strażników.\" "
 
     phone "\"Jeśli to była prawda, to zapewne żył dobrze, uczciwie i był życzliwy dla innych.\" "
 
@@ -3106,7 +3106,7 @@ translate polish week2_06_ask_767d3e4e:
 
     voice voice_file.father(5,9)
 
-    phone "\"Myślę, że... tygrysi strażnicy na pewno są zajęci. Bardzo \nwątpię, by tracili swój czas na nas, śmiertelników!\" "
+    phone "\"Myślę, że... tygrysi strażnicy na pewno są zajęci. Bardzo wątpię, by tracili swój czas na nas, śmiertelników!\" "
 
 
 
@@ -3122,7 +3122,7 @@ translate polish week2_06_ask_accbe820:
 
     voice voice_file.father(5,10)
 
-    phone "\"Twój pradziadek zwykł używać tych historyjek, by nakłonić dzieci do \nposłuszeństwa. Współcześni ludzie nie są tak dogmatyczni jak on.\" "
+    phone "\"Twój pradziadek zwykł używać tych historyjek, by nakłonić dzieci do posłuszeństwa. Współcześni ludzie nie są tak dogmatyczni jak on.\" "
 
 
 
@@ -3140,9 +3140,9 @@ translate polish week2_06_ask_628dabe1:
 
     voice voice_file.father(5,11)
 
-    phone "\"Proszę nie mów o tym nikomu. W przeciwnym razie, ludzie \nmogą zacząć myśleć o nas jako o bandzie oszustów.\" "
+    phone "\"Proszę nie mów o tym nikomu. W przeciwnym razie, ludzie mogą zacząć myśleć o nas jako o bandzie oszustów.\" "
 
-    phone "\"Może i jesteśmy Jitongami tygrysich strażników, ale to \nnie znaczy, że naprawdę możemy z nimi rozmawiać!\" "
+    phone "\"Może i jesteśmy Jitongami tygrysich strażników, ale to nie znaczy, że naprawdę możemy z nimi rozmawiać!\" "
 
 
 
@@ -3226,7 +3226,7 @@ translate polish week2_06_ask_09e528d7:
 
     # avt "\"It's been going alright. Life has been pretty good here and dance club has been going well.\" "
 
-    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem \nnieźle, a klub taneczny świetnie sobie radzi.\" "
+    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem nieźle, a klub taneczny świetnie sobie radzi.\" "
 
 
 
@@ -3498,7 +3498,7 @@ translate polish week2_06_ask_55925818:
 
     tig normal "\"Oczywiście, że potrafisz. Do kogo innego byś teraz niby mówił?\" "
 
-    tig normal "\"Nie ma się czym przejmować. Zobaczyć znaczy uwierzyć. Nie mogę \nmieć pretensji do twojego taty i dziadka, oni nie mogą nas dostrzec.\" "
+    tig normal "\"Nie ma się czym przejmować. Zobaczyć znaczy uwierzyć. Nie mogę mieć pretensji do twojego taty i dziadka, oni nie mogą nas dostrzec.\" "
 
 
 
@@ -3614,7 +3614,7 @@ translate polish week2_06_ask_e0a07d45:
 
     tig normal "\"Wystarczy, że zrobię coś, czego ty nie możesz.\" "
 
-    tig normal "\"Na przykład, wezmę książkę z półki i przeczytam ci którąś \nstronę. Na pewno nie znasz wszystkiego na pamięć.\" "
+    tig normal "\"Na przykład, wezmę książkę z półki i przeczytam ci którąś stronę. Na pewno nie znasz wszystkiego na pamięć.\" "
 
 
 
@@ -3628,7 +3628,7 @@ translate polish week2_06_ask_ae6ffdb4:
 
     # avt "\"Isn't there a better way you can prove your existence?\" "
 
-    avt "\"Ale przecież... Przeczytałem już wszystkie, które tu mam. \nJest szansa, że akurat ten fragment mogłem zapamiętać.\" "
+    avt "\"Ale przecież... Przeczytałem już wszystkie, które tu mam. Jest szansa, że akurat ten fragment mogłem zapamiętać.\" "
 
     avt "\"Nie ma jakiegoś lepszego sposobu, by udowodnić wasze istnienie?\" "
 
@@ -3650,7 +3650,7 @@ translate polish week2_06_ask_701f9670:
 
     tig normal "\"Świetne spostrzeżenie. Jest kilka innych opcji...\" "
 
-    tig normal "\"Co powiesz na to? Otworzysz stronę internetową, której nigdy wcześniej \nnie widziałeś. Zamkniesz oczy, a ja ci ją przeczytam. Proste.\" "
+    tig normal "\"Co powiesz na to? Otworzysz stronę internetową, której nigdy wcześniej nie widziałeś. Zamkniesz oczy, a ja ci ją przeczytam. Proste.\" "
 
 
 
@@ -3726,7 +3726,7 @@ translate polish week2_06_ask_8bafa2f7:
 
     voice voice_file.lpdcat(5,4)
 
-    lpdcat serious "\"Wszystko okej, Liao? Złapałeś przeziębienie? Tylko mi nie \nmów, że jest aż tak źle, że widzisz różne dziwne rzeczy?\" "
+    lpdcat serious "\"Wszystko okej, Liao? Złapałeś przeziębienie? Tylko mi nie mów, że jest aż tak źle, że widzisz różne dziwne rzeczy?\" "
 
 
 
@@ -3798,7 +3798,7 @@ translate polish week2_06_ask_f65d1be8:
 
     voice voice_file.lpdcat(5,7)
 
-    lpdcat normal "\"Nawet jeśli Likulau i staruszek tylko ci się przywidzieli, to ja jestem \nprawdziwą osobą, którą każdy może zobaczyć i stoję tuż obok.\" "
+    lpdcat normal "\"Nawet jeśli Likulau i staruszek tylko ci się przywidzieli, to ja jestem prawdziwą osobą, którą każdy może zobaczyć i stoję tuż obok.\" "
 
 
 
@@ -3826,7 +3826,7 @@ translate polish week2_06_ask_c92b115a:
 
     voice voice_file.lpdcat(5,8)
 
-    lpdcat confused "\"Daj spokój, serio jesteś taki tępy? Czy naprawdę \nuważasz, że Yan Shu-Chi od tak by z tobą zamieszkał?\" "
+    lpdcat confused "\"Daj spokój, serio jesteś taki tępy? Czy naprawdę uważasz, że Yan Shu-Chi od tak by z tobą zamieszkał?\" "
 
 
 
@@ -3842,7 +3842,7 @@ translate polish week2_06_ask_f9fc51a8:
 
     voice voice_file.lpdcat(5,9)
 
-    lpdcat "\"Myślisz, że opowiadałby ci historię o odnowieniu świątyni w Miaoli? \nByłbym pod nie lada wrażeniem, gdybyś sam to wszystko wymyślił.\" "
+    lpdcat "\"Myślisz, że opowiadałby ci historię o odnowieniu świątyni w Miaoli? Byłbym pod nie lada wrażeniem, gdybyś sam to wszystko wymyślił.\" "
 
 
 
@@ -3870,7 +3870,7 @@ translate polish week2_06_ask_b21959e2:
 
     voice voice_file.lpdcat(5,10)
 
-    lpdcat normal "\"Szczerze to nie obchodzi mnie, czy to ma jakiś związek z twoją rodziną. \nJedyne co się liczy to fakt, że możesz mnie teraz zobaczyć.\" "
+    lpdcat normal "\"Szczerze to nie obchodzi mnie, czy to ma jakiś związek z twoją rodziną. Jedyne co się liczy to fakt, że możesz mnie teraz zobaczyć.\" "
 
 
 
@@ -4170,7 +4170,7 @@ translate polish week2_06_dontask_82dc3059:
 
     # avt "\"It's okay, I was just wondering about the books I sent home last week...\" "
 
-    avt "\"Nic mi nie jest, zastanawiałem się tylko co z tymi książkami, \nktóre wysłałem do domu w zeszłym tygodniu...\" "
+    avt "\"Nic mi nie jest, zastanawiałem się tylko co z tymi książkami, które wysłałem do domu w zeszłym tygodniu...\" "
 
 
 
@@ -4186,7 +4186,7 @@ translate polish week2_06_dontask_62cd4acc:
 
     voice voice_file.father(5,20)
 
-    phone "\"Wszystko z nimi w porządku! Postawiliśmy je tylko na \ntwojej półce. Nikt ich nie dotykał od tamtego czasu.\" "
+    phone "\"Wszystko z nimi w porządku! Postawiliśmy je tylko na twojej półce. Nikt ich nie dotykał od tamtego czasu.\" "
 
 
 
@@ -4202,7 +4202,7 @@ translate polish week2_06_dontask_75d654d4:
 
     voice voice_file.father(5,21)
 
-    phone "\"Ale poważnie, Liao, nie powinieneś spędzać tak dużo czasu \nna czytaniu powieści. Nie pomogą ci w twoich studiach.\" "
+    phone "\"Ale poważnie, Liao, nie powinieneś spędzać tak dużo czasu na czytaniu powieści. Nie pomogą ci w twoich studiach.\" "
 
 
 
@@ -4254,7 +4254,7 @@ translate polish week2_06_dontask_09e528d7:
 
     # avt "\"It's been going alright. Life has been pretty good here and dance club has been going well.\" "
 
-    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem \nnieźle, a klub taneczny świetnie sobie radzi.\" "
+    avt "\"Wszystko dobrze się układa. Żyje mi się tutaj całkiem nieźle, a klub taneczny świetnie sobie radzi.\" "
 
 
 
@@ -4422,7 +4422,7 @@ translate polish week2_06_dontask_289a7fda:
 
     # b "I didn't ask after all... {w=0.5}I wonder if this ability I have is real? That I'm not just seeing \nthings. "
 
-    b "I w końcu się nie zapytałem... {w=0.5}Zastanawiam się, czy \nnaprawdę mam tę umiejętność? Czy nie mam po prostu jakichś zwidów. "
+    b "I w końcu się nie zapytałem... {w=0.5}Zastanawiam się, czy naprawdę mam tę umiejętność? Czy nie mam po prostu jakichś zwidów. "
 
 
 
@@ -4436,9 +4436,9 @@ translate polish week2_06_dontask_d3542190:
 
     # b "Maybe I should just wait until I've finished school and everything else in Taipei. "
 
-    b "Czy powinienem wrócić do domu podczas przerwy? ...Użeranie się z tymi \nwszystkimi tygrysimi strażnikami brzmi jak prawdziwa mordęga. "
+    b "Czy powinienem wrócić do domu podczas przerwy? ...Użeranie się z tymi wszystkimi tygrysimi strażnikami brzmi jak prawdziwa mordęga. "
 
-    b "Może najlepiej będzie, jeśli poczekam aż skończę \nszkołę i załatwię już wszystkie inne sprawy w Tajpej. "
+    b "Może najlepiej będzie, jeśli poczekam aż skończę szkołę i załatwię już wszystkie inne sprawy w Tajpej. "
 
 
 
@@ -4486,7 +4486,7 @@ translate polish week2_06_dontask_e78b421f:
 
     # b "I put down my phone and return back to my desktop. Saving my dilemma for another day... "
 
-    b "Kładę telefon na półkę i wracam z powrotem do \nkomputera. Odkładając mój dylemat na inny dzień... "
+    b "Kładę telefon na półkę i wracam z powrotem do komputera. Odkładając mój dylemat na inny dzień... "
 
 
 
@@ -4582,7 +4582,7 @@ translate polish week2_07_ddef5b79:
 
     voice voice_file.lpdcat(5,16)
 
-    lpdcat laugh "\"Mm-hmm- Ostatnio było naprawdę zimno. To najlepszy moment, \nby nacieszyć się przyjemnymi, ciepłymi gorącymi źródłami~\" "
+    lpdcat laugh "\"Mm-hmm- Ostatnio było naprawdę zimno. To najlepszy moment, by nacieszyć się przyjemnymi, ciepłymi gorącymi źródłami~\" "
 
 
 
@@ -4610,7 +4610,7 @@ translate polish week2_07_88ba5db8:
 
     # avt "\"Now that you mention it... I've never been to a hot spring before. By the way isn't that expensive?\" "
 
-    avt "\"Skoro o tym wspomniałeś... W sumie nigdy nie byłem w \ngorących źródłach. Chociaż, nie jest to aby za drogie?\" "
+    avt "\"Skoro o tym wspomniałeś... W sumie nigdy nie byłem w gorących źródłach. Chociaż, nie jest to aby za drogie?\" "
 
 
 
@@ -4654,7 +4654,7 @@ translate polish week2_07_79fb7d45:
 
     # avt "\"T-The price of one or two dinners... I already spent heaps on books and things this month... I don't think I've got any more money to squeeze out of my budget.\" "
 
-    avt "\"C-Cena dwóch obiadów... Zdążyłem wydać już mnóstwo pieniędzy na książki i inne rzeczy w \ntym miesiącu... Raczej nie wycisnę już z mojego budżetu więcej pieniędzy na przyjemności.\" "
+    avt "\"C-Cena dwóch obiadów... Zdążyłem wydać już mnóstwo pieniędzy na książki i inne rzeczy w tym miesiącu... Raczej nie wycisnę już z mojego budżetu więcej pieniędzy na przyjemności.\" "
 
 
 
@@ -4682,7 +4682,7 @@ translate polish week2_07_101d8df3:
 
     # avt "\"Well, really no. You only see it in anime. And wouldn't we be bathing with a bunch of strangers?\" "
 
-    avt "\"Cóż, raczej nie. Takie rzeczy widzisz tylko w anime. Czy \nzresztą nie musielibyśmy się kąpać wraz z obcymi ludźmi?\" "
+    avt "\"Cóż, raczej nie. Takie rzeczy widzisz tylko w anime. Czy zresztą nie musielibyśmy się kąpać wraz z obcymi ludźmi?\" "
 
 
 
@@ -4742,7 +4742,7 @@ translate polish week2_07_bb12be1a:
 
     voice voice_file.lpdcat(5,23)
 
-    lpdcat normal "\"Zazwyczaj są podzielone względem płci. Możesz jednak spotkać \npubliczne źródła, w których kąpią się różni ludzie...\" "
+    lpdcat normal "\"Zazwyczaj są podzielone względem płci. Możesz jednak spotkać publiczne źródła, w których kąpią się różni ludzie...\" "
 
 
 
@@ -4918,7 +4918,7 @@ translate polish week2_07_2381c287:
 
     b "To trochę dziwne, ale jakoś nie mogłem mu odmówić. Naprawdę tego chce. "
 
-    b "Mija dosłownie parę chwil, a Senpai już przegląda swój telefon \nw poszukiwaniu gorących źródeł na ten weekend... "
+    b "Mija dosłownie parę chwil, a Senpai już przegląda swój telefon w poszukiwaniu gorących źródeł na ten weekend... "
 
 
 
@@ -5022,7 +5022,7 @@ translate polish week2_07_46bfe943:
 
     voice voice_file.lpdcat(5,31)
 
-    lpdcat normal "\"Serio?! Ale to miejsce jest bardzo znane! Jesteś w Tajpej \njuż ponad pół roku i wcale nic nie zwiedzałeś?\" "
+    lpdcat normal "\"Serio?! Ale to miejsce jest bardzo znane! Jesteś w Tajpej już ponad pół roku i wcale nic nie zwiedzałeś?\" "
 
 
 
@@ -5114,7 +5114,7 @@ translate polish week2_07_f5d2666a:
 
     lpdcat serious "\"W porząsiu, czy widziałeś jak przejeżdżaliśmy obok małej rzeki w drodze tutaj?\" "
 
-    lpdcat serious "\"Dlatego że jest tutaj od groma gorących źródeł, \nczęść z nich jest bezpośrednio z nią połączona!\" "
+    lpdcat serious "\"Dlatego że jest tutaj od groma gorących źródeł, część z nich jest bezpośrednio z nią połączona!\" "
 
 
 
@@ -5130,7 +5130,7 @@ translate polish week2_07_6f8b7483:
 
     voice voice_file.lpdcat(5,36)
 
-    lpdcat serious "\"Czyli w zasadzie, rzeka jest ogrzewana przez okoliczne źródła. \nMimo to sam jeszcze nie miałem okazji jej wypróbować.\" "
+    lpdcat serious "\"Czyli w zasadzie, rzeka jest ogrzewana przez okoliczne źródła. Mimo to sam jeszcze nie miałem okazji jej wypróbować.\" "
 
 
 
@@ -5148,9 +5148,9 @@ translate polish week2_07_85eee872:
 
     voice voice_file.lpdcat(5,37)
 
-    lpdcat normal "\"Słyszałem też, że jest tutaj dość sporo prywatnych łaźni. \nWiększość domów tych sklepikarzy zapewne je ma.\" "
+    lpdcat normal "\"Słyszałem też, że jest tutaj dość sporo prywatnych łaźni. Większość domów tych sklepikarzy zapewne je ma.\" "
 
-    lpdcat normal "\"...Wiesz, zastanawiałem się co pojawiło się pierwsze. Ludzie \nznajdujący gorące źródła, czy ludzie budujący tę ulicę?\" "
+    lpdcat normal "\"...Wiesz, zastanawiałem się co pojawiło się pierwsze. Ludzie znajdujący gorące źródła, czy ludzie budujący tę ulicę?\" "
 
 
 
@@ -5166,7 +5166,7 @@ translate polish week2_07_ada3ce20:
 
     voice voice_file.lpdcat(5,38)
 
-    lpdcat normal "\"Poza tym, nie wydaje mi się, żeby pływanie w rzece było dobrym pomysłem. \nNiektórzy ludzie to robią, bo to nic nie kosztuje, ale chyba lepiej tego nie robić.\" "
+    lpdcat normal "\"Poza tym, nie wydaje mi się, żeby pływanie w rzece było dobrym pomysłem. Niektórzy ludzie to robią, bo to nic nie kosztuje, ale chyba lepiej tego nie robić.\" "
 
 
 
@@ -5182,7 +5182,7 @@ translate polish week2_07_454fb44a:
 
     voice voice_file.lpdcat(5,39)
 
-    lpdcat laugh "\"Dobra, już starczy tego nudnego ględzenia. Cel \nnaszej wyprawy jest już przed nami, chodźmy!\" "
+    lpdcat laugh "\"Dobra, już starczy tego nudnego ględzenia. Cel naszej wyprawy jest już przed nami, chodźmy!\" "
 
 
 
@@ -5286,7 +5286,7 @@ translate polish week2_07_d48e6fe4:
 
     # b "Tiger is drawn towards the {font=tl/None/NotoSansCJKtc-Bold.otf}roast suckling pig{/font}, which has been prepared into tiny meat cubes right at the shop. "
 
-    b "Tygrysa przyciągnęło {font=tl/polish/NotoSans-SemiCondensedBold.ttf}pieczone prosię{/font}, które było poszatkowane \nw małe mięsne kosteczki tuż przed sklepem. "
+    b "Tygrysa przyciągnęło {font=tl/polish/NotoSans-SemiCondensedBold.ttf}pieczone prosię{/font}, które było poszatkowane w małe mięsne kosteczki tuż przed sklepem. "
 
 
 
@@ -5314,7 +5314,7 @@ translate polish week2_07_fdf8fcab:
 
     # b "I could do with a snack, but considering I have to eat whatever Tiger and Leopard want to... I suddenly feel super-duper full again. "
 
-    b "Mała przekąska byłaby spoko, ale wiedząc, że musiałbym zjeść, \ncokolwiek chcą Tygrys i Lampart... Nagle znów czuję się mega pełen. "
+    b "Mała przekąska byłaby spoko, ale wiedząc, że musiałbym zjeść, cokolwiek chcą Tygrys i Lampart... Nagle znów czuję się mega pełen. "
 
 
 
@@ -5326,7 +5326,7 @@ translate polish week2_07_5102e7fc:
 
     # avt "\"Senpai's right. We might as well go to the hot spring first. All right? Come on guys... let's get there already!\" "
 
-    avt "\"Senpai ma rację. Możemy najpierw iść do gorącego \nźródła. Dobrze? No dalej... chodźmy już tam!\" "
+    avt "\"Senpai ma rację. Możemy najpierw iść do gorącego źródła. Dobrze? No dalej... chodźmy już tam!\" "
 
 
 
@@ -5366,7 +5366,7 @@ translate polish week2_07_4f143b3c:
 
     b "Ostatecznie muszę wypchnąć ich stamtąd siłą, by odciągnąć ich od jedzenia i ruszyć dalej. "
 
-    b "Na szczęście w okolicy jest mnóstwo ludzi i nikt nie zwraca \nna mnie uwagi... nawet jeśli popycham powietrze. "
+    b "Na szczęście w okolicy jest mnóstwo ludzi i nikt nie zwraca na mnie uwagi... nawet jeśli popycham powietrze. "
 
 
 
@@ -5394,7 +5394,7 @@ translate polish cg_04_52f8b5dd:
 
     # b "Senpai runs into a nearby building. The building itself resembles a traditional Japanese inn. "
 
-    b "Senpai wbiega do środka budynku nieopodal, \nprzypominającego tradycyjną japońską gospodę. "
+    b "Senpai wbiega do środka budynku nieopodal, przypominającego tradycyjną japońską gospodę. "
 
 
 
@@ -5418,7 +5418,7 @@ translate polish cg_04_28b90b77:
 
     # b "Huh, so Senpai already had everything booked online and printed? I didn't even notice. He's more on top of things than I thought. "
 
-    b "Hę, więc Senpai miał już wszystko zarezerwowane online i wydrukował te \nkupony? Nawet nie zauważyłem. Jest bardziej na czasie, niż myślałem. "
+    b "Hę, więc Senpai miał już wszystko zarezerwowane online i wydrukował te kupony? Nawet nie zauważyłem. Jest bardziej na czasie, niż myślałem. "
 
 
 
@@ -5454,7 +5454,7 @@ translate polish cg_04_e2ce95ff:
 
     # b "Even after several more glances, I'm still astonished by it's size and grandeur. "
 
-    b "Nawet po dłuższym wpatrywaniu się w to pomieszczenie \nwciąż jestem zdumiony jego rozmiarem i okazałością. "
+    b "Nawet po dłuższym wpatrywaniu się w to pomieszczenie wciąż jestem zdumiony jego rozmiarem i okazałością. "
 
 
 
@@ -5510,7 +5510,7 @@ translate polish cg_04_9181ec33:
 
     # b "The staff member shows us where to find some robes, towels, and drinking water. Then they remind us of the time limit, wish us to enjoy our time time and leave us be. "
 
-    b "Obsługa pokazuje nam gdzie znaleźć szlafroki, ręczniki i wodę do picia. Przypominają \nnam o limicie czasowym, życzą miłego pobytu i zostawiają nas samych sobie. "
+    b "Obsługa pokazuje nam gdzie znaleźć szlafroki, ręczniki i wodę do picia. Przypominają nam o limicie czasowym, życzą miłego pobytu i zostawiają nas samych sobie. "
 
 
 
@@ -5554,7 +5554,7 @@ translate polish cg_04_7666ecb7:
 
     voice voice_file.lpdcat(5,43)
 
-    lpdcat normal "\"Możesz tu schować swoje ubrania, a twój szlafrok wisi tam. \nZazwyczaj nie noszę kapci, ale możesz je założyć, jeśli chcesz.\" "
+    lpdcat normal "\"Możesz tu schować swoje ubrania, a twój szlafrok wisi tam. Zazwyczaj nie noszę kapci, ale możesz je założyć, jeśli chcesz.\" "
 
 
 
@@ -5570,7 +5570,7 @@ translate polish cg_04_33523882:
 
     voice voice_file.lpdcat(5,44)
 
-    lpdcat normal "\"Ludzie okropnie się pocą od tego całego żaru. Nawet jeśli jesteś w \nwodzie, nie zapominaj o uzupełnianiu płynów. Rozumiesz, Liao?\" "
+    lpdcat normal "\"Ludzie okropnie się pocą od tego całego żaru. Nawet jeśli jesteś w wodzie, nie zapominaj o uzupełnianiu płynów. Rozumiesz, Liao?\" "
 
 
 
@@ -5638,7 +5638,7 @@ translate polish cg_04_29eb05c2:
 
     voice voice_file.lpdcat(5,46)
 
-    lpdcat laugh "\"Haha, nie przejmuj się tym. Miałem ze sobą kupony zniżkowe, więc nie \nbyło aż tak drogo. To wspaniała okazja, by zaprosić cię w fajne miejsce~\" "
+    lpdcat laugh "\"Haha, nie przejmuj się tym. Miałem ze sobą kupony zniżkowe, więc nie było aż tak drogo. To wspaniała okazja, by zaprosić cię w fajne miejsce~\" "
 
 
 
@@ -5678,7 +5678,7 @@ translate polish cg_04_ea755d47:
 
     voice voice_file.lpdcat(5,47)
 
-    lpdcat normal "\"Liao, mówiłem ci, wszystko w porządku. Tak czy inaczej, czy to nie super, \nże udało się nam wcisnąć tu cztery osoby mając tylko dwie wejściówki?\" "
+    lpdcat normal "\"Liao, mówiłem ci, wszystko w porządku. Tak czy inaczej, czy to nie super, że udało się nam wcisnąć tu cztery osoby mając tylko dwie wejściówki?\" "
 
 
 
@@ -5722,7 +5722,7 @@ translate polish cg_04_7633c7b4:
 
     voice voice_file.lpdcat(5,48)
 
-    lpdcat laugh "\"Heh— Wiedziałem, że staruszek to zrozumie. Mniejsza, {i}nooooooo{/i} \ndalej! Nie traćmy więcej czasu na gadaniu. Zdejmuj ciuchy, Liao!\" "
+    lpdcat laugh "\"Heh— Wiedziałem, że staruszek to zrozumie. Mniejsza, {i}nooooooo{/i} dalej! Nie traćmy więcej czasu na gadaniu. Zdejmuj ciuchy, Liao!\" "
 
 
 
@@ -5750,7 +5750,7 @@ translate polish cg_04_88e5439f:
 
     voice voice_file.lpdcat(5,49)
 
-    lpdcat normal "\"Coooooo? Chcesz wejść do środka w ubraniu, czy \ncoś? Czy nie zauważyłeś, że mamy tutaj prysznice?\" "
+    lpdcat normal "\"Coooooo? Chcesz wejść do środka w ubraniu, czy coś? Czy nie zauważyłeś, że mamy tutaj prysznice?\" "
 
 
 
@@ -5830,7 +5830,7 @@ translate polish cg_04_8430216b:
 
     # b "Senpai turns on the faucet, the bath beginning to fill. Next, he starts to remove his clothes then and there. "
 
-    b "Senpai odkręca kran, kąpiel zaczyna się wypełniać. \nNastępnie zaczyna zdejmować swoje ubrania. "
+    b "Senpai odkręca kran, kąpiel zaczyna się wypełniać. Następnie zaczyna zdejmować swoje ubrania. "
 
 
 
@@ -5854,7 +5854,7 @@ translate polish cg_04_76230156:
 
     # b "It was so sudden, I didn't get a chance to walk away or give him space... I can't just keep staring at his naked body. "
 
-    b "To stało się tak nagle, że nie zdążyłem nawet odejść na bok, by dać mu \ntrochę miejsca... Nie mogę tak po prostu wpatrywać się w jego nagie ciało. "
+    b "To stało się tak nagle, że nie zdążyłem nawet odejść na bok, by dać mu trochę miejsca... Nie mogę tak po prostu wpatrywać się w jego nagie ciało. "
 
 
 
@@ -5946,7 +5946,7 @@ translate polish cg_04_d9399974:
 
     # b "I send a sharp look around the room, making sure nobody is watching me. The sound of Senpai's shower patters on the floor as I begin to remove my clothes. "
 
-    b "Wysyłam ostre spojrzenie przez pokój, upewniając się, że nikt na mnie nie patrzy. \nGdy zaczynam zdejmować ubrania, słyszę szum spod prysznica Senpaja. "
+    b "Wysyłam ostre spojrzenie przez pokój, upewniając się, że nikt na mnie nie patrzy. Gdy zaczynam zdejmować ubrania, słyszę szum spod prysznica Senpaja. "
 
 
 
@@ -5958,7 +5958,7 @@ translate polish cg_04_41036ca0:
 
     # b "I try to get it done with quickly. But once my clothes are off, the patter of the other shower ceases. "
 
-    b "Staram się to zrobić jak najszybciej. Gdy już zdjąłem \nswoje ubrania, dźwięk drugiego prysznica ustaje. "
+    b "Staram się to zrobić jak najszybciej. Gdy już zdjąłem swoje ubrania, dźwięk drugiego prysznica ustaje. "
 
 
 
@@ -6054,7 +6054,7 @@ translate polish cg_04_0ef3e56f:
 
     # b "Senpai looks somewhere else for the moment. I turn my shower on and hurriedly wash myself. Now all that's left is to slip into the bath... "
 
-    b "Senpai spogląda przez moment w innym kierunku. Odkręcam prysznic i myję \nsię w pośpiechu. Teraz ostatnie co muszę zrobić, to wejść do kąpieli... "
+    b "Senpai spogląda przez moment w innym kierunku. Odkręcam prysznic i myję się w pośpiechu. Teraz ostatnie co muszę zrobić, to wejść do kąpieli... "
 
 
 
@@ -6094,7 +6094,7 @@ translate polish cg_04_ce25f47d:
 
     # b "It's a warning too late. I retreat almost as fast as I went in. The heat was more than I had anticipated. "
 
-    b "Za późno na ostrzeżenia. Wyskoczyłem stamtąd prawie tak szybko, jak \nwszedłem do środka. Nie spodziewałem się, że będzie tu aż tak gorąco. "
+    b "Za późno na ostrzeżenia. Wyskoczyłem stamtąd prawie tak szybko, jak wszedłem do środka. Nie spodziewałem się, że będzie tu aż tak gorąco. "
 
 
 
@@ -6110,7 +6110,7 @@ translate polish cg_04_cd72e870:
 
     voice voice_file.lpdcat(5,55)
 
-    lpdcat_naked panic "\"Bądź ostrożny, Liao! Powoli wchodź do środka i pozwól \nswojemu ciału przyzwyczaić się do temperatury...\" "
+    lpdcat_naked panic "\"Bądź ostrożny, Liao! Powoli wchodź do środka i pozwól swojemu ciału przyzwyczaić się do temperatury...\" "
 
 
 
@@ -6194,7 +6194,7 @@ translate polish cg_04_8493576e:
 
     voice voice_file.lpdcat(5,57)
 
-    lpdcat_naked normal "\"Likulau! Staruszku! Wchodźcie! Nawet jeśli nie macie \nprawdziwych ciał, to wciąż możecie cieszyć się atmosferą.\" "
+    lpdcat_naked normal "\"Likulau! Staruszku! Wchodźcie! Nawet jeśli nie macie prawdziwych ciał, to wciąż możecie cieszyć się atmosferą.\" "
 
 
 
@@ -6222,7 +6222,7 @@ translate polish cg_04_a6b8e0ce:
 
     # b "Tiger puts a paw into the water. As if he wasn't even there, the water refuses to ripple at all. "
 
-    b "Tygrys zanurzaa łapę w wodzie. Woda nie reaguje na \njego obecność, jakby go tam wcale nie było. "
+    b "Tygrys zanurzaa łapę w wodzie. Woda nie reaguje na jego obecność, jakby go tam wcale nie było. "
 
 
 
@@ -6274,7 +6274,7 @@ translate polish cg_04_bab5941d:
 
     voice voice_file.lpdcat(5,58)
 
-    lpdcat_naked normal "\"No cóż, to zaboli, jeśli wejdziesz do środka zbyt szybko. Mimo \nto, poczujesz się {i}naprawdę{/i} dobrze, gdy już się do tego przyzwyczaisz.\" "
+    lpdcat_naked normal "\"No cóż, to zaboli, jeśli wejdziesz do środka zbyt szybko. Mimo to, poczujesz się {i}naprawdę{/i} dobrze, gdy już się do tego przyzwyczaisz.\" "
 
 
 
@@ -6354,7 +6354,7 @@ translate polish cg_04_7bed5d4c:
 
     # b "I mean, sure the Tiger's clothes aren't real, but it'd still be strange to see him wearing them underwater... "
 
-    b "Oczywiście wiem, że ubrania Tygrysa nie są prawdziwe, ale \nnadal trochę dziwnie byłoby patrzeć jak nosi je pod wodą... "
+    b "Oczywiście wiem, że ubrania Tygrysa nie są prawdziwe, ale nadal trochę dziwnie byłoby patrzeć jak nosi je pod wodą... "
 
 
 
@@ -6498,7 +6498,7 @@ translate polish cg_04_701cc84e:
 
     # b "I gotta say, this is a {i}fantastic{/i} \ view... Leopard's just standing there, the steam rising around his well-defined body. "
 
-    b "Muszę to przyznać, to {i}fantastyczny{/i} widok... Lampart stoi \ntutaj, a para unosi się wokół jego dobrze zarysowanego ciała. "
+    b "Muszę to przyznać, to {i}fantastyczny{/i} widok... Lampart stoi tutaj, a para unosi się wokół jego dobrze zarysowanego ciała. "
 
 
 
@@ -6522,7 +6522,7 @@ translate polish cg_04_e181e09e:
 
     # b "Tiger rests his back against the bath wall. The towering form of his rugged, handsome body contrasts well with this serene space steeped in tradition. "
 
-    b "Tygrys opiera się o ścianę basenu. Rosły kształt jego muskularnego, atrakcyjnego \nciała doskonale kontrastuje z tą pełną spokoju, przesiąkniętą tradycją przestrzenią. "
+    b "Tygrys opiera się o ścianę basenu. Rosły kształt jego muskularnego, atrakcyjnego ciała doskonale kontrastuje z tą pełną spokoju, przesiąkniętą tradycją przestrzenią. "
 
 
 
@@ -6534,7 +6534,7 @@ translate polish cg_04_d036a9df:
 
     # b "Meanwhile, Senpai is trying to swim in the bath, his lithe body exposed under the rippling, steamy water. "
 
-    b "W międzyczasie Senpai próbuje pływać w basenie, a jego \nsmukłe ciało jest widoczne spod falującej, rozgrzanej wody. "
+    b "W międzyczasie Senpai próbuje pływać w basenie, a jego smukłe ciało jest widoczne spod falującej, rozgrzanej wody. "
 
 
 
@@ -6618,7 +6618,7 @@ translate polish cg_04_7d02f07b:
 
     # b "Senpai attempts to feel me up under the water and I dodge him as swiftly as I can manage in a steaming hot bath. " with vpunch
 
-    b "Senpai próbuje wyczuć mnie pod wodą, a ja unikam \ngo na tyle szybko, na ile mogę w parnej, gorącej kąpieli. " with vpunch
+    b "Senpai próbuje wyczuć mnie pod wodą, a ja unikam go na tyle szybko, na ile mogę w parnej, gorącej kąpieli. " with vpunch
 
 
 
@@ -6742,7 +6742,7 @@ translate polish cg_04_62bcc88f:
 
     # b "My aches fade away as the heat massages all of my muscles and the steam comforts what parts of me remain above the water. "
 
-    b "Moje bóle znikają, gdy ciepło masuje wszystkie moje mięśnie, a para \nrozgrzewa te części mojego ciała, które znajdują się nad wodą. "
+    b "Moje bóle znikają, gdy ciepło masuje wszystkie moje mięśnie, a para rozgrzewa te części mojego ciała, które znajdują się nad wodą. "
 
 
 
@@ -6754,7 +6754,7 @@ translate polish cg_04_72bc5413:
 
     # b "I close my eyes and face upward. The water from the hot spring feels different, but it feels good. "
 
-    b "Zamykam oczy i odchylam do tyłu głowę. Woda z gorącego \nźródła zdaje się być inna, ale jest bardzo przyjemna. "
+    b "Zamykam oczy i odchylam do tyłu głowę. Woda z gorącego źródła zdaje się być inna, ale jest bardzo przyjemna. "
 
 
 
@@ -6834,7 +6834,7 @@ translate polish cg_04_4af32c05:
 
     # b "I get out of the pool and notice the temperature difference instantly as a wave of cool air spreads over my body. I quickly grab my robe and a bottle of water. "
 
-    b "Wychodzę z basenu i od razu odczuwam różnicę temperatury. Fala zimnego \npowietrza uderza w moje ciało. Szybko podnoszę szlafrok i butelkę wody. "
+    b "Wychodzę z basenu i od razu odczuwam różnicę temperatury. Fala zimnego powietrza uderza w moje ciało. Szybko podnoszę szlafrok i butelkę wody. "
 
 
 
@@ -6874,7 +6874,7 @@ translate polish cg_04_71c5f1d5:
 
     # b "Senpai's left the bath as well. He walks around with a robe on which is too large for him, the lower hem dragging across the ground behind his feet. "
 
-    b "Senpai też wychodzi z kąpieli. Krąży wokoło w przydużym szlafroku, \nktórego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
+    b "Senpai też wychodzi z kąpieli. Krąży wokoło w przydużym szlafroku, którego najdłuższy koniec ciągnie się po podłodze za jego stopami. "
 
 
 
@@ -6886,7 +6886,7 @@ translate polish cg_04_184883a6:
 
     # b "Tiger and Leopard are still in the bath. Their eyes are closed, seemingly enjoying the hot spring. "
 
-    b "Tygrys i Lampart wciąż są w basenie. Ich oczy są zamknięte \ni zdaje się, że znajdują przyjemność w gorącym źródle. "
+    b "Tygrys i Lampart wciąż są w basenie. Ich oczy są zamknięte i zdaje się, że znajdują przyjemność w gorącym źródle. "
 
 
 
@@ -6898,7 +6898,7 @@ translate polish cg_04_f3725470:
 
     # b "Hmm— I wonder how they enjoy that without actually having real bodies? "
 
-    b "Hmm— Zastanawiam się, jak mogą czerpać z tego \nprzyjemność, nie mając tak naprawdę prawdziwych ciał. "
+    b "Hmm— Zastanawiam się, jak mogą czerpać z tego przyjemność, nie mając tak naprawdę prawdziwych ciał. "
 
 
 
@@ -6910,7 +6910,7 @@ translate polish cg_04_2ff489fd:
 
     # b "This probably isn't the best time to ask about that. I spend a few minutes in the rest area with Senpai before returning to the bath... "
 
-    b "To chyba nie jest najlepszy moment, by się o to pytać. Spędzam z Senpajem \nkilka minut w miejscu wypoczynkowym, po czym wracamy do kąpieli... "
+    b "To chyba nie jest najlepszy moment, by się o to pytać. Spędzam z Senpajem kilka minut w miejscu wypoczynkowym, po czym wracamy do kąpieli... "
 
 
 
@@ -6994,7 +6994,7 @@ translate polish week2_08_bcfe6123:
 
     # b "Seems we all liked it, myself included. I guess it wouldn't be the worst idea to go this again sometime... "
 
-    b "Zdaje się, że wszyscy są zadowoleni, łącznie ze mną. Myślę, \nże nie najgorszym pomysłem byłoby to kiedyś powtórzyć... "
+    b "Zdaje się, że wszyscy są zadowoleni, łącznie ze mną. Myślę, że nie najgorszym pomysłem byłoby to kiedyś powtórzyć... "
 
 
 
@@ -7022,7 +7022,7 @@ translate polish week2_08_3a8b6959:
 
     voice voice_file.lpdcat(5,69)
 
-    lpdcat normal "\"Dobrze, czy chcecie wziąć sobie coś do jedzenia, po siedzeniu \nw kąpieli przez tyle czasu? Ktoś z was jest głodny?\" "
+    lpdcat normal "\"Dobrze, czy chcecie wziąć sobie coś do jedzenia, po siedzeniu w kąpieli przez tyle czasu? Ktoś z was jest głodny?\" "
 
 
 
@@ -7094,7 +7094,7 @@ translate polish week2_08_c39f3181:
 
     # b "After talking about something to eat, we head straight to the suckling pig and the wild boar sausages they wanted earlier. "
 
-    b "Po krótkiej rozmowie idziemy prosto w kierunku pieczonego \nprosięcia i kiełbasy z dzika, które wcześniej chcieli. "
+    b "Po krótkiej rozmowie idziemy prosto w kierunku pieczonego prosięcia i kiełbasy z dzika, które wcześniej chcieli. "
 
 
 
@@ -7106,7 +7106,7 @@ translate polish week2_08_c773cc98:
 
     # b "For the boar sausages I buy a flavor called \"magao\", which is said to be a type of herb from the mountain. "
 
-    b "W przypadku kiełbasy z dzika kupuję smak o nazwie \n\"magao\", \no którym mówi się, że jest rodzajem górskiego zioła. "
+    b "W przypadku kiełbasy z dzika kupuję smak o nazwie \"magao\", \no którym mówi się, że jest rodzajem górskiego zioła. "
 
 
 
@@ -7118,7 +7118,7 @@ translate polish week2_08_02e97352:
 
     # b "Leopard also asks for some barbecue but I have to refuse him. We have too many meats already. "
 
-    b "Lampart prosi też o jakieś grillowane mięso, ale \nmuszę mu odmówić. I tak mamy już za dużo jedzenia. "
+    b "Lampart prosi też o jakieś grillowane mięso, ale muszę mu odmówić. I tak mamy już za dużo jedzenia. "
 
 
 
@@ -7142,7 +7142,7 @@ translate polish week2_08_b8dd38ad:
 
     # b "We keep walking along the old street, enjoying the sights and foods. Eventually, we make it to the end of the street as dusk takes over the sky above. "
 
-    b "Idziemy dalej starą ulicą, ciesząc się widokami i jedzeniem. W końcu docieramy \ndo jej końca, gdy zmierzch już powoli roztacza się po niebie nad nami. "
+    b "Idziemy dalej starą ulicą, ciesząc się widokami i jedzeniem. W końcu docieramy do jej końca, gdy zmierzch już powoli roztacza się po niebie nad nami. "
 
 
 
@@ -7154,7 +7154,7 @@ translate polish week2_08_b21cd833:
 
     # b "The mountain is cloaked in orange while the sky died lavender by the last lights of the sun. "
 
-    b "Góra jest przykryta kolorem pomarańczowym, podczas gdy \nostatnie promienie słońca barwią niebo na lawendowy odcień. "
+    b "Góra jest przykryta kolorem pomarańczowym, podczas gdy ostatnie promienie słońca barwią niebo na lawendowy odcień. "
 
 
 
@@ -7214,7 +7214,7 @@ translate polish week2_08_18c0192e:
 
     voice voice_file.tig(5,50)
 
-    tig embarrassed "\"Nie będę się sprzeczał w kwestii bycia łakomczuchem, \nale nie zmuszałem Liao, by cokolwiek mi kupował.\" "
+    tig embarrassed "\"Nie będę się sprzeczał w kwestii bycia łakomczuchem, ale nie zmuszałem Liao, by cokolwiek mi kupował.\" "
 
 
 
@@ -7254,7 +7254,7 @@ translate polish week2_08_41565465:
 
     # b "I couldn't tell it's actual flavor because the \"magao\" overpowered it. But it did have a different texture than I'm used to from pork. "
 
-    b "Nie mógłbym powiedzieć jak dokładnie smakuje, ponieważ \"magao\" zdławiło \nje całkowicie. Miało za to trochę inną teksturę niż typowa wieprzowina. "
+    b "Nie mógłbym powiedzieć jak dokładnie smakuje, ponieważ \"magao\" zdławiło je całkowicie. Miało za to trochę inną teksturę niż typowa wieprzowina. "
 
 
 
@@ -7266,7 +7266,7 @@ translate polish week2_08_c521358a:
 
     # b "But the bamboo tube rice was really good, along with the suckling pig. Honestly I don't regret eating so much. "
 
-    b "Ale ryż w bambusowej rurce był naprawdę dobry, tak samo jak \npieczone prosię. Naprawdę nie żałuję, że zjadłem tak dużo. "
+    b "Ale ryż w bambusowej rurce był naprawdę dobry, tak samo jak pieczone prosię. Naprawdę nie żałuję, że zjadłem tak dużo. "
 
 
 
@@ -7338,7 +7338,7 @@ translate polish week2_08_c7035b33:
 
     # b "I can't really do that can I? Eventually I just need to ask them to leave so I can focus on my studies. "
 
-    b "Tak naprawdę nie mogę tego zrobić, prawda? Ostatecznie będę \nmusiał im powiedzieć, by odeszli, bym mógł skupić się moich studiach. "
+    b "Tak naprawdę nie mogę tego zrobić, prawda? Ostatecznie będę musiał im powiedzieć, by odeszli, bym mógł skupić się moich studiach. "
 
 
 
@@ -7362,7 +7362,7 @@ translate polish week2_08_f02859e4:
 
     # avt "\"Senpai, it's getting late... and you're not wearing enough to stay out at night. Shouldn't we go home now?\" "
 
-    avt "\"Robi się późno, Senpai... a ty nie jesteś zbyt ciepło ubrany, by \nbyć poza domem w nocy. Nie powinniśmy zbierać się do domu?\" "
+    avt "\"Robi się późno, Senpai... a ty nie jesteś zbyt ciepło ubrany, by być poza domem w nocy. Nie powinniśmy zbierać się do domu?\" "
 
 
 
@@ -7382,7 +7382,7 @@ translate polish week2_08_408db399:
 
     lpdcat normal "\"Hmm? Nie, wszystko gra.\" "
 
-    lpdcat normal "\"Ale— Zdaje mi się, że robi się trochę zbyt późno, by \ncokolwiek jeszcze porobić... Lepiej by było już wracać.\" "
+    lpdcat normal "\"Ale— Zdaje mi się, że robi się trochę zbyt późno, by cokolwiek jeszcze porobić... Lepiej by było już wracać.\" "
 
 
 
@@ -7494,7 +7494,7 @@ translate polish week2_08_1dabe17e:
 
     # b "Okay, I know I can see spirits and I {i}know{/i} \ I should have expected to see more of them at some point, but a lizard-man... "
 
-    b "Dobrze. Wiem, że mogę zobaczyć duchy i {i}wiem,{/i} że powinienem spodziewać się, \nże kiedyś spotkam ich więcej. ale nie spodziewałem się człowieka-jaszczura... "
+    b "Dobrze. Wiem, że mogę zobaczyć duchy i {i}wiem,{/i} że powinienem spodziewać się, że kiedyś spotkam ich więcej. ale nie spodziewałem się człowieka-jaszczura... "
 
 
 
@@ -7618,7 +7618,7 @@ translate polish week2_08_efec4f32:
 
     voice voice_file.lpdcat(5,76)
 
-    lpdcat normal "\"Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają, gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go \no to zapytać.\" "
+    lpdcat normal "\"Zazwyczaj yaoguai nawet się do nas nie zbliżają. Boją się tygrysich strażników jak ognia i uciekają, gdzie pieprz rośnie, gdy któregokolwiek zobaczą. Absolutnie powinieneś się go o to zapytać.\" "
 
 
 
@@ -7706,11 +7706,11 @@ translate polish week2_08_bf4c65f8:
 
     voice voice_file.tig(5,54)
 
-    tig laugh_1 "\"No pewnie. Bogowie i yaoguai nie różnią się aż tak bardzo od siebie. \nPochodzą od niebios i ziemi, zrodzeni z energii Chi w różnej formie.\" "
+    tig laugh_1 "\"No pewnie. Bogowie i yaoguai nie różnią się aż tak bardzo od siebie. Pochodzą od niebios i ziemi, zrodzeni z energii Chi w różnej formie.\" "
 
-    tig normal "\"Ale bóg nie może być bogiem bez swoich wyznawców. W \nkonsekwencji jest o wiele więcej yaoguai niż bogów.\" "
+    tig normal "\"Ale bóg nie może być bogiem bez swoich wyznawców. W konsekwencji jest o wiele więcej yaoguai niż bogów.\" "
 
-    tig laugh_1 "\"Pewnie, że jest trochę złych yaoguai, na pewno o nich słyszałeś, \nale większość yaoguai nie jest ani dobra, ani zła.\" "
+    tig laugh_1 "\"Pewnie, że jest trochę złych yaoguai, na pewno o nich słyszałeś, ale większość yaoguai nie jest ani dobra, ani zła.\" "
 
 
 
@@ -7726,7 +7726,7 @@ translate polish week2_08_81468747:
 
     voice voice_file.tig(5,55)
 
-    tig laugh_2 "\"A co do tego... Zgadzam się z tym, że powinieneś z \nnim porozmawiać. To może być interesujące.\" "
+    tig laugh_2 "\"A co do tego... Zgadzam się z tym, że powinieneś z nim porozmawiać. To może być interesujące.\" "
 
 
 
@@ -7876,9 +7876,9 @@ translate polish week2_08_4e9df67e:
 
     # b "He's all the more nervous for it, and I can see why. We've practically got him surrounded at this point... "
 
-    b "Zajmujemy miejsca przed jaszczurem. Tygrys stoi \nza mną, a Lampart stanął za człowiekiem-jaszczurem. "
+    b "Zajmujemy miejsca przed jaszczurem. Tygrys stoi za mną, a Lampart stanął za człowiekiem-jaszczurem. "
 
-    b "Bardzo się tym wszystkim zestresował i wiem dlaczego. \nNa ten moment praktycznie go otoczyliśmy... "
+    b "Bardzo się tym wszystkim zestresował i wiem dlaczego. Na ten moment praktycznie go otoczyliśmy... "
 
 
 
@@ -7918,7 +7918,7 @@ translate polish week2_08_3be0715c:
 
     # avt "\"Sorry about this, I'm just a little bit curious so I wanted to ask you... I mean, are you a yaoguai?\" "
 
-    avt "\"Przepraszam za to, byłem po prostu ciekaw, więc chciałem \nsię ciebie o to zapytać... To znaczy, czy jesteś yaoguai?\" "
+    avt "\"Przepraszam za to, byłem po prostu ciekaw, więc chciałem się ciebie o to zapytać... To znaczy, czy jesteś yaoguai?\" "
 
 
 
@@ -7960,7 +7960,7 @@ translate polish week2_08_5a83d44e:
 
     # avt "\"So I couldn't help but talk with you when I saw you sitting here...\" "
 
-    avt "\"Och, wybacz, że się jeszcze nie przedstawiłem. W zasadzie jestem tu \ntylko studentem, ale ostatnio mogę zobaczyć yaoguai takich jak ty.\" "
+    avt "\"Och, wybacz, że się jeszcze nie przedstawiłem. W zasadzie jestem tu tylko studentem, ale ostatnio mogę zobaczyć yaoguai takich jak ty.\" "
 
     avt "\"Więc nie mogłem powstrzymać się przed rozmową z tobą, gdy zobaczyłem, że tu siedzisz...\" "
 
@@ -8110,7 +8110,7 @@ translate polish week2_08_c7c2d4d4:
 
     # avt "\"So you're a yaoguai artist who has come to visit a professor at my college? {i}Okay{/i}...\" "
 
-    avt "\"A więc jesteś yaoguai artystą, który przyszedł \nodwiedzić profesora na mojej uczelni? {i}Rozumiem{/i}...\" "
+    avt "\"A więc jesteś yaoguai artystą, który przyszedł odwiedzić profesora na mojej uczelni? {i}Rozumiem{/i}...\" "
 
 
 
@@ -8138,7 +8138,7 @@ translate polish week2_08_a777cfa9:
 
     # avt "\"It does... Uh, I didn't mean that. It was rude of me to come up and disturb you like this, I'm so sorry.\" "
 
-    avt "\"Trochę tak... Eee, nie to miałem na myśli. Podchodzenie tu i \nprzeszkadzanie ci było niegrzeczne, bardzo przepraszam.\" "
+    avt "\"Trochę tak... Eee, nie to miałem na myśli. Podchodzenie tu i przeszkadzanie ci było niegrzeczne, bardzo przepraszam.\" "
 
 
 
@@ -8152,9 +8152,9 @@ translate polish week2_08_3f3f551f:
 
     # b "I've just gotta think about how this would be for him. We just show up all of a sudden, surround him and then ask him whether he's a yaoguai. It's pretty forward of us. "
 
-    b "Zauważyłem, że to co powiedziałem nieco go poddenerwowało, \na więc próbowałem go przeprosić najlepiej jak potrafię. "
+    b "Zauważyłem, że to co powiedziałem nieco go poddenerwowało, a więc próbowałem go przeprosić najlepiej jak potrafię. "
 
-    b "Powinienem postawić się w jego sytuacji. Pojawiamy się znikąd, otaczamy go, \na potem wypytujemy się o to, czy jest yaoguai. Postąpiliśmy zbyt pochopnie. "
+    b "Powinienem postawić się w jego sytuacji. Pojawiamy się znikąd, otaczamy go, a potem wypytujemy się o to, czy jest yaoguai. Postąpiliśmy zbyt pochopnie. "
 
 
 
@@ -8182,7 +8182,7 @@ translate polish week2_08_2aa29981:
 
     # avt "\"So... Why did you chose to become an artist? It seems like that's special for a \nyaoguai.\" "
 
-    avt "\"A więc... Dlaczego postanowiłeś zostać artystą? Nie \nwygląda mi to na typowe zajęcie dla yaoguai.\" "
+    avt "\"A więc... Dlaczego postanowiłeś zostać artystą? Nie wygląda mi to na typowe zajęcie dla yaoguai.\" "
 
 
 
@@ -8202,9 +8202,9 @@ translate polish week2_08_1c0e4fd9:
 
     voice voice_file.randolph(5,12)
 
-    randolph laugh "\"Też nigdy nie myślałem, że mogę spotkać na uczelni \nmedium w towarzystwie tygrysich strażników.\" "
+    randolph laugh "\"Też nigdy nie myślałem, że mogę spotkać na uczelni medium w towarzystwie tygrysich strażników.\" "
 
-    randolph serious "\"A ten dżentelmen za mną... Nie jestem pewien, kim \non jest, ale czuję, że jest bardzo silnym duchem.\" "
+    randolph serious "\"A ten dżentelmen za mną... Nie jestem pewien, kim on jest, ale czuję, że jest bardzo silnym duchem.\" "
 
     randolph laugh "\"Może powiecie mi trochę więcej o sobie, co?\" "
 
@@ -8224,9 +8224,9 @@ translate polish week2_08_2011a3ce:
 
     avt "\"Ach— Och, no pewnie. Należę do rodziny Jitong. Służymy tygrysim strażnikom od pokoleń.\" "
 
-    avt "\"Pan stojący za mną jest tygrysim strażnikiem, który przybył \nze mną do Tajpej aż z mojego rodzinnego miasta.\" "
+    avt "\"Pan stojący za mną jest tygrysim strażnikiem, który przybył ze mną do Tajpej aż z mojego rodzinnego miasta.\" "
 
-    avt "\"Albo raczej powinienem powiedzieć, że przybył \nrazem z posążkiem, który zabrałem ze sobą do Tajpej.\" "
+    avt "\"Albo raczej powinienem powiedzieć, że przybył razem z posążkiem, który zabrałem ze sobą do Tajpej.\" "
 
 
 
@@ -8258,7 +8258,7 @@ translate polish week2_08_1e6982d0:
 
     # avt "\"Finally, this is my Senpai. He's a leopard cat guardian tiger, who also wants my help to rejuvenate his temple in Miaoli...\" "
 
-    avt "\"Wreszcie, to mój Senpai. Jest kotkiem bengalskim, a także tygrysim \nstrażnikiem, który chce bym pomógł mu odnowić jego świątynię w Miaoli...\" "
+    avt "\"Wreszcie, to mój Senpai. Jest kotkiem bengalskim, a także tygrysim strażnikiem, który chce bym pomógł mu odnowić jego świątynię w Miaoli...\" "
 
 
 
@@ -8314,7 +8314,7 @@ translate polish week2_08_281c2ee2:
 
     randolph serious "\"To nie wydaje się być takie złe, jeśli dzięki temu stałeś się {font=tl/polish/NotoSans-SemiCondensedBold.ttf}ortodoksyjnym bogiem{/font}.\" "
 
-    randolph serious "\"Jednakże przed chwilą wspominaliście coś o odnowieniu \nświątyni, więc oznacza to, że twój bóg ziemi traci swoją moc?\"  "
+    randolph serious "\"Jednakże przed chwilą wspominaliście coś o odnowieniu świątyni, więc oznacza to, że twój bóg ziemi traci swoją moc?\"  "
 
 
 
@@ -8330,7 +8330,7 @@ translate polish week2_08_1972de6c:
 
     voice voice_file.randolph(5,15)
 
-    randolph serious "\"To może tłumaczyć dlaczego wciąż pachniesz jak yaoguai. \nW ogóle nie wyczuwam od ciebie żadnej duchowej mocy.\" "
+    randolph serious "\"To może tłumaczyć dlaczego wciąż pachniesz jak yaoguai. W ogóle nie wyczuwam od ciebie żadnej duchowej mocy.\" "
 
 
 
@@ -8386,7 +8386,7 @@ translate polish week2_08_cdcd4888:
 
     # avt "\"...So that's it. I'm not saying that I {i}don't{/i} \ want to help them, but I can't drop school just for that.\" "
 
-    avt "\"...I tak to właśnie wygląda. Nie mówię, że {i}nie{/i} chcę im \npomóc, ale nie mogę rzucić szkoły z tego powodu.\" "
+    avt "\"...I tak to właśnie wygląda. Nie mówię, że {i}nie{/i} chcę im pomóc, ale nie mogę rzucić szkoły z tego powodu.\" "
 
 
 
@@ -8412,7 +8412,7 @@ translate polish week2_08_9030a0d4:
 
     # avt "\"But these three kinda put a spanner in the works.\" "
 
-    avt "\"Jestem członkiem klubu tanecznego, który tu działa i chciałbym \nznaleźć karierę, w której mogę wykorzystać swój talent.\" "
+    avt "\"Jestem członkiem klubu tanecznego, który tu działa i chciałbym znaleźć karierę, w której mogę wykorzystać swój talent.\" "
 
     avt "\"Ale ta trójka niejako psuje wszystkie moje plany.\" "
 
@@ -8430,7 +8430,7 @@ translate polish week2_08_b738c242:
 
     # avt "\"Honestly, it's really been stressing me out...\" "
 
-    avt "\"Wystarczająco trudno jest zarobić na życie tańcząc, \na teraz muszę jeszcze zajmować się szkołą.\" "
+    avt "\"Wystarczająco trudno jest zarobić na życie tańcząc, a teraz muszę jeszcze zajmować się szkołą.\" "
 
     avt "\"Nie mogę od tak wszystkiego rzucić i pozwolić sobie na dwa lata przerwy...\" "
 
@@ -8494,11 +8494,11 @@ translate polish week2_08_44203caf:
 
     # b "Even if I get to have all these cute guys living with me, I don't want a life steeped in the history of my ancestors. "
 
-    b "Kapłani, wyrocznie, Jitongowie, nieważne— są ludźmi, \nktórzy reprezentują wolę bożą w społeczeństwie. "
+    b "Kapłani, wyrocznie, Jitongowie, nieważne— są ludźmi, którzy reprezentują wolę bożą w społeczeństwie. "
 
-    b "Mogę porozumiewać się z innymi bytami. Pewnie, to niesamowite. Ale bycie gościem \nod \"Hej, chcę porozmawiać z bogami\" już po chwili nie jest takie niesamowite. "
+    b "Mogę porozumiewać się z innymi bytami. Pewnie, to niesamowite. Ale bycie gościem od \"Hej, chcę porozmawiać z bogami\" już po chwili nie jest takie niesamowite. "
 
-    b "Nawet jeśli mogę mieć przy sobie tych wszystkich uroczych gości, \nto nie chcę życia przesiąkniętego historią moich przodków. "
+    b "Nawet jeśli mogę mieć przy sobie tych wszystkich uroczych gości, to nie chcę życia przesiąkniętego historią moich przodków. "
 
 
 
@@ -8542,7 +8542,7 @@ translate polish week2_08_82a6110b:
 
     voice voice_file.randolph(5,20)
 
-    randolph serious "\"Wciąż się uczysz, więc nie masz za bardzo czasu. \nNie oznacza to jednak, że wcale nie możesz im pomóc.\" "
+    randolph serious "\"Wciąż się uczysz, więc nie masz za bardzo czasu. Nie oznacza to jednak, że wcale nie możesz im pomóc.\" "
 
 
 
@@ -8570,7 +8570,7 @@ translate polish week2_08_6b390edc:
 
     voice voice_file.randolph(5,21)
 
-    randolph laugh "\"Ufam, że znajdziesz jakiś sposób. Wątpię, by po rozwiązaniu \nich problemów dalej chcieli ci przeszkadzać.\" "
+    randolph laugh "\"Ufam, że znajdziesz jakiś sposób. Wątpię, by po rozwiązaniu ich problemów dalej chcieli ci przeszkadzać.\" "
 
 
 
@@ -8646,7 +8646,7 @@ translate polish week2_08_2dda14d6:
 
     voice voice_file.randolph(5,22)
 
-    randolph wry "\"Chyba byłem wobec tego zbyt optymistycznie nastawiony... Zdaje się, że nie jest to \nsprawa, którą mogę dobrze osądzić. Przepraszam za moje nieodpowiedzialne słowa.\" "
+    randolph wry "\"Chyba byłem wobec tego zbyt optymistycznie nastawiony... Zdaje się, że nie jest to sprawa, którą mogę dobrze osądzić. Przepraszam za moje nieodpowiedzialne słowa.\" "
 
 
 
@@ -8670,7 +8670,7 @@ translate polish week2_08_d74c55c8:
 
     # b "It may be hard, but there's got to be some way out. Even if there isn't, I have to try anyway, I need to try and work this out. "
 
-    b "Może być ciężko, ale musi przecież istnieć jakieś wyjście. Nawet jeśli \ngo nie ma i tak powinienem spróbować. Muszę jakoś to rozgryźć. "
+    b "Może być ciężko, ale musi przecież istnieć jakieś wyjście. Nawet jeśli go nie ma i tak powinienem spróbować. Muszę jakoś to rozgryźć. "
 
 
 
@@ -8778,7 +8778,7 @@ translate polish week2_08_24a93677:
 
     voice voice_file.randolph(5,25)
 
-    randolph serious "\"Cóż... yaoguai tego samego gatunku zazwyczaj żyją w \nzgodzie, zwykle jednak nie lubimy yaoguai z innych.\" "
+    randolph serious "\"Cóż... yaoguai tego samego gatunku zazwyczaj żyją w zgodzie, zwykle jednak nie lubimy yaoguai z innych.\" "
 
     randolph serious "\"Większość z nas jest bardzo terytorialna, ale dość często różni yaoguai mieszkają w miastach.\" "
 
@@ -8798,7 +8798,7 @@ translate polish week2_08_6004f063:
 
     voice voice_file.randolph(5,26)
 
-    randolph serious "\"Ale to ci bardziej zawzięci są tymi, którzy sprawiają kłopoty... \nZajmują się nimi głównie bogowie i inni, bardziej potężni yaoguai.\" "
+    randolph serious "\"Ale to ci bardziej zawzięci są tymi, którzy sprawiają kłopoty... Zajmują się nimi głównie bogowie i inni, bardziej potężni yaoguai.\" "
 
 
 
@@ -8834,7 +8834,7 @@ translate polish week2_08_4ee24440:
 
     randolph laugh "\"Zależy jak na to spojrzysz. Jak dla mnie po prostu nie chcą żadnych kłopotów.\" "
 
-    randolph laugh "\"Oczywiście nie zawsze jest to łatwe. Czasami rodzą się nowi, innym razem mogą \ntu po prostu przyjść, by sprawić kłopoty. Punkt równowagi ciągle się zmienia.\" "
+    randolph laugh "\"Oczywiście nie zawsze jest to łatwe. Czasami rodzą się nowi, innym razem mogą tu po prostu przyjść, by sprawić kłopoty. Punkt równowagi ciągle się zmienia.\" "
 
 
 
@@ -8868,9 +8868,9 @@ translate polish week2_08_310e00c7:
 
     b "Myślę, że to dlatego wielu ludzi wciąż kurczowo trzyma się tych tradycyjnych wierzeń. "
 
-    b "Ludzie chodzą do świątyni, prosząc o błogosławieństwo bogactwa, \nlepsze szczęście, albo by po prostu zdać kolejny egzamin... "
+    b "Ludzie chodzą do świątyni, prosząc o błogosławieństwo bogactwa, lepsze szczęście, albo by po prostu zdać kolejny egzamin... "
 
-    b "Zastanawiam się, czy to przez yaoguai szukamy w życiu tych \nrzeczy... a może to właśnie przez nich mamy te problemy? "
+    b "Zastanawiam się, czy to przez yaoguai szukamy w życiu tych rzeczy... a może to właśnie przez nich mamy te problemy? "
 
 
 
@@ -8958,7 +8958,7 @@ translate polish week2_08_8be7d3ed:
 
     # avt "\"So you joined human society to help that friend? What happened to your old life?\" "
 
-    avt "\"A więc dołączyłeś do ludzkiej społeczności, by pomóc temu \nprzyjacielowi? Co się stało z twoim dawnym życiem?\" "
+    avt "\"A więc dołączyłeś do ludzkiej społeczności, by pomóc temu przyjacielowi? Co się stało z twoim dawnym życiem?\" "
 
 
 
@@ -9030,7 +9030,7 @@ translate polish week2_08_3d8e5d0b:
 
     # avt "\"Emotions?! I mean sure you can get a lot in the city... but isn't that more dangerous for you?\" "
 
-    avt "\"Emocje?! Jestem pewien, że możesz dostać ich wiele w mieście... \nale czy dla ciebie nie jest to bardziej niebezpieczne?\" "
+    avt "\"Emocje?! Jestem pewien, że możesz dostać ich wiele w mieście... ale czy dla ciebie nie jest to bardziej niebezpieczne?\" "
 
 
 
@@ -9048,7 +9048,7 @@ translate polish week2_08_80d4d761:
 
     voice voice_file.randolph(5,33)
 
-    randolph laugh "\"Martwiłem się tym na samym początku. Jednak inni yaoguai \nnie będą wchodzić ci w drogę, jeśli żyjesz tak jak człowiek.\" "
+    randolph laugh "\"Martwiłem się tym na samym początku. Jednak inni yaoguai nie będą wchodzić ci w drogę, jeśli żyjesz tak jak człowiek.\" "
 
     randolph laugh "\"Haha— Oczywiście takie życie nie jest wcale łatwe.\" "
 
@@ -9062,7 +9062,7 @@ translate polish week2_08_340caff1:
 
     # avt "\"I see... So, mind if I ask how you actually eat emotions?\" "
 
-    avt "\"Rozumiem... Będziesz miał coś przeciwko, jeśli \nspytam, w jaki właściwie sposób zjadasz emocje?\" "
+    avt "\"Rozumiem... Będziesz miał coś przeciwko, jeśli spytam, w jaki właściwie sposób zjadasz emocje?\" "
 
 
 
@@ -9124,7 +9124,7 @@ translate polish week2_08_a0fce1fc:
 
     voice voice_file.randolph(5,35)
 
-    randolph serious "\"Wiadomości od fanów. Listy od moich czytelników zawierają silne emocje. \nOstatecznie, aby ktoś napisał do ciebie, musi cię albo uwielbiać, albo nie znosić.\" "
+    randolph serious "\"Wiadomości od fanów. Listy od moich czytelników zawierają silne emocje. Ostatecznie, aby ktoś napisał do ciebie, musi cię albo uwielbiać, albo nie znosić.\" "
 
     randolph serious "\"Wiesz, że niektórzy ludzie zastraszają innych wysyłając noże?\" "
 
@@ -9190,11 +9190,11 @@ translate polish week2_08_040901ac:
 
     voice voice_file.randolph(5,37)
 
-    randolph wry "\"Jak już mówiłem, nie jest tak łatwo. Nikt nie wysyła wiadomości do nieznanego \nartysty i szybko zostaniesz zapomniany, jeśli nie publikujesz swych prac regularnie.\" "
+    randolph wry "\"Jak już mówiłem, nie jest tak łatwo. Nikt nie wysyła wiadomości do nieznanego artysty i szybko zostaniesz zapomniany, jeśli nie publikujesz swych prac regularnie.\" "
 
-    randolph wry "\"Muszę też troszczyć się o ciało, które opętałem, a to \noznacza, że potrzebuję jedzenia i miejsca do życia.\" "
+    randolph wry "\"Muszę też troszczyć się o ciało, które opętałem, a to oznacza, że potrzebuję jedzenia i miejsca do życia.\" "
 
-    randolph "\"Szczerze mówiąc, życie jest dość trudne, gdy musisz je \nutrzymywać jednocześnie jako człowiek i yaoguai.\" "
+    randolph "\"Szczerze mówiąc, życie jest dość trudne, gdy musisz je utrzymywać jednocześnie jako człowiek i yaoguai.\" "
 
 
 
@@ -9252,7 +9252,7 @@ translate polish week2_08_36bbb643:
 
     voice voice_file.randolph(5,39)
 
-    randolph wry "\"Większości yaoguai nie udaje się przetrwać w mieście... \nTen pokręcony świat wygrywa z nimi tę walkę.\" "
+    randolph wry "\"Większości yaoguai nie udaje się przetrwać w mieście... Ten pokręcony świat wygrywa z nimi tę walkę.\" "
 
     randolph wry "\"Szczególnie dlatego, że drogo jest się tutaj utrzymać... Życie jest ciężkie.\" "
 
@@ -9288,7 +9288,7 @@ translate polish week2_08_fc53fe63:
 
     randolph wry "\"Cóż, nie potrafię robić pieniędzy w żaden inny sposób.\" "
 
-    randolph wry "\"Niektórzy yaoguai używają do tego swoich mocy, ale ci, którzy nie \nprzestrzegają zasad muszą być usunięci przez innych... lub przez bogów.\" "
+    randolph wry "\"Niektórzy yaoguai używają do tego swoich mocy, ale ci, którzy nie przestrzegają zasad muszą być usunięci przez innych... lub przez bogów.\" "
 
     randolph wry "\"Zarabiam na życie rysując, nawet jeśli nie jest to wymarzona praca.\" "
 
@@ -9320,7 +9320,7 @@ translate polish week2_08_2650b6e2:
 
     voice voice_file.randolph(5,41)
 
-    randolph wry "\"Moja praca jest cykliczna, więc nie jest aż tak źle. Jednak moja pensja \nzależy od popularności magazynu, który nie jest najlepszy.\" "
+    randolph wry "\"Moja praca jest cykliczna, więc nie jest aż tak źle. Jednak moja pensja zależy od popularności magazynu, który nie jest najlepszy.\" "
 
     randolph wry "\"Pracuję też czasem jako wolny strzelec, ale to niezbyt... stabilne źródło dochodu.\" "
 
@@ -9346,7 +9346,7 @@ translate polish week2_08_8754dd2f:
 
     randolph wry "\"Ciężko wyrobić stałą pensję.\" "
 
-    randolph wry "\"Do tego nie każdy klient jest wyrozumiały. Nie obchodzi \nich, ile muszę nad tym wszystkim pracować...\" "
+    randolph wry "\"Do tego nie każdy klient jest wyrozumiały. Nie obchodzi ich, ile muszę nad tym wszystkim pracować...\" "
 
     randolph wry "\"Mimo to nie mogę porzucić swoich klientów. Muszę utrzymać swoją renomę.\" "
 
@@ -9384,9 +9384,9 @@ translate polish week2_08_8619f278:
 
     randolph wry "\"Haha— Istotnie. Bycie artystą nie jest łatwe. Ale która praca jest łatwa?\"  "
 
-    randolph wry "\"Jeśli sobie z tym nie poradzę to zawsze mogę wrócić \ndo bycia yaoguai. Nie każdy ma taką możliwość.\" "
+    randolph wry "\"Jeśli sobie z tym nie poradzę to zawsze mogę wrócić do bycia yaoguai. Nie każdy ma taką możliwość.\" "
 
-    randolph wry "\" Ale zdecydowałem postępować zgodnie z wolą osoby, którą \nopętałem. I nie zamierzam tak po prostu tego porzucić.\" "
+    randolph wry "\" Ale zdecydowałem postępować zgodnie z wolą osoby, którą opętałem. I nie zamierzam tak po prostu tego porzucić.\" "
 
 
 
@@ -9430,7 +9430,7 @@ translate polish week2_08_1d480d58:
 
     b "Zasłuchuję się w opowieściach Randolfa. Głównie o jego życiu jako artysty, jego zmaganiach, jego sukcesach i porażkach. W tym wszystkim zagnieżdżone są opowieści i plotki ze świata yaoguai. "
 
-    b "Nie pomyślałbyś, że życie z perspektywy yaoguai-artysty jest takie \nurzekające. W ciągu zaledwie kilku chwil minęło mnóstwo czasu. "
+    b "Nie pomyślałbyś, że życie z perspektywy yaoguai-artysty jest takie urzekające. W ciągu zaledwie kilku chwil minęło mnóstwo czasu. "
 
 
 
@@ -9442,7 +9442,7 @@ translate polish week2_08_c842efa6:
 
     # b "Randolph is startled when a stray glance leads him to the time displayed on a nearby television. "
 
-    b "Randolf jest zaskoczony, gdy zbłąkanym spojrzeniem \nspogląda na czas wyświetlany w pobliskiej telewizji. "
+    b "Randolf jest zaskoczony, gdy zbłąkanym spojrzeniem spogląda na czas wyświetlany w pobliskiej telewizji. "
 
 
 
@@ -9470,7 +9470,7 @@ translate polish week2_08_f9aafd90:
 
     # avt "\"Ah, all right. I'm sorry that I've taken way too much of your time but thank you for speaking to me.\" "
 
-    avt "\"Ach, racja. Przepraszam, że zabrałem ci tyle czasu, ale \ndziękuję za to, że zechciałeś za mną porozmawiać.\" "
+    avt "\"Ach, racja. Przepraszam, że zabrałem ci tyle czasu, ale dziękuję za to, że zechciałeś za mną porozmawiać.\" "
 
 
 
@@ -9488,7 +9488,7 @@ translate polish week2_08_1b787041:
 
     voice voice_file.randolph(5,46)
 
-    randolph wry "\"Nie ma sprawy. To była rzadka okazja, by móc podyskutować \nz kimś, kto może zobaczyć i zrozumieć nas, yaoguai.\" "
+    randolph wry "\"Nie ma sprawy. To była rzadka okazja, by móc podyskutować z kimś, kto może zobaczyć i zrozumieć nas, yaoguai.\" "
 
     randolph wry "\"To mam nadzieję, że się jeszcze zobaczymy.\" "
 
@@ -9574,7 +9574,7 @@ translate polish week2_08_7c01149b:
 
     b "Zszokowany spoglądam szybko na czas... "
 
-    b "Rozmawialiśmy całe wieki! Nie dość, że nasza przerwa śniadaniowa \ndawno się skończyła, to nasz wykład właśnie dobiega końca... "
+    b "Rozmawialiśmy całe wieki! Nie dość, że nasza przerwa śniadaniowa dawno się skończyła, to nasz wykład właśnie dobiega końca... "
 
 
 
@@ -9618,7 +9618,7 @@ translate polish week2_08_324bb068:
 
     b "Ale ma rację, to nic nie zmienia. Co jeszcze mogę zrobić? "
 
-    b "Postanawiamy poczekać na nasze kolejne zajęcia w stołówce, \npodczas gdy ja rozmyślam nad historiami i radami Randolfa... "
+    b "Postanawiamy poczekać na nasze kolejne zajęcia w stołówce, podczas gdy ja rozmyślam nad historiami i radami Randolfa... "
 
 
 
