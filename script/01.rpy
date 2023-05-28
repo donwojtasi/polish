@@ -3048,7 +3048,7 @@ translate polish start_d57eb73d:
 
     lpdcat serious "\"Jeśli nikt nie będzie się nią opiekował, mój Fudegong najpewniej—\" "
 
-    lpdcat serious "\"Gdy to się stanie, będę zmuszony żyć jak bezpański kot, a nie chcę by tak się stało.\" "
+    lpdcat serious "\"Gdy to się stanie, będę zmuszony żyć jak bezpański kot, a nie chcę, by tak się stało.\" "
 
 
 
