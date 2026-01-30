@@ -1782,7 +1782,7 @@ translate polish s14_branch1_0b9c11fa:
 
     voice voice_file.tig(14,22)
 
-    tig frown "\"{font=tl/polish/NotoSansCJKtc-Bold.otf}Dwunastu podwładnych{/font} to w żaden sposób nie jest żadna grupa bojowa... Chociaż mogliby go pokonać z pomocą wszystkich dwunastu dywizji.\" "
+    tig frown "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Dwunastu podwładnych{/font} to w żaden sposób nie jest żadna grupa bojowa... Chociaż mogliby go pokonać z pomocą wszystkich dwunastu dywizji.\" "
 
 
 
