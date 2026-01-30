@@ -1225,8 +1225,8 @@ translate polish cg_lpd_attack_791b12b2:
     # b "When I open my eyes and the dust clears— I see Tiger before me, leaning down on one knee. "
 
     b "Trzask posyła mnie do tyłu kiedy szybko zasłaniam swoją twarz w ramionach, zaciskając mocno powieki"
-	
-	b "Kiedy otworzyłem oczy, jak pył opadł- zobaczyłem Tygrysa przede mną, opierającego się na jednym kolanie. "
+
+    b "Kiedy otworzyłem oczy, jak pył opadł- zobaczyłem Tygrysa przede mną, opierającego się na jednym kolanie. "
 
 
 
