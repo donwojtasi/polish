@@ -74,7 +74,7 @@ translate polish s14_branch1_general_ed6026e0:
 
     # b "I think about everything I've done with him over the last month. I guess you could say we're close, that we're even beyond friends... but, is that really enough? "
 
-    b "I myślę o tym wszystkim, co razem zrobiliśmy w przeciągu ostatniego miesiąca. Można powiedzieć, że jesteśmy blisko, że jesteśmy czymś bardziej nawet niż przyjaciółmi... ale czy to serio starczy? "
+    b "Myślę o tym wszystkim, co razem zrobiliśmy w przeciągu ostatniego miesiąca. Można powiedzieć, że jesteśmy blisko, że jesteśmy czymś bardziej nawet niż przyjaciółmi... ale czy to serio starczy? "
 
 
 

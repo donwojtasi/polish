@@ -214,7 +214,7 @@ translate polish s14_f11628c4:
 
     # avt "\"O-{w=0.2}Okay... I just wanna make sure. So basically, you want me to practise yesterday's routine to help me get better?\" "
 
-    avt "\"O-{w=0.2}Okay... Chcę się tylko upewnić. Chcesz ogólnie, żebym przećwiczył wczorajszy układ, żebyś mógł pomóc mi stać się lepszym?\" "
+    avt "\"O-{w=0.2}Okej... Chcę się tylko upewnić. Chcesz ogólnie, żebym przećwiczył wczorajszy układ, żebyś mógł pomóc mi stać się lepszym?\" "
 
 
 
@@ -934,7 +934,7 @@ translate polish cg_lpd_attack_08e03b34:
 
     # b "As the dust clears I begin to see Tiger's figure from behind. He looks back to smile at \nme. "
 
-    b "Kiedy pył opada, zaczynam dostrzegać sylwetkę Tygrysa od strony pleców. Odwraca sie, by się uśmiechnąć do \nmnie. "
+    b "Kiedy pył opada, widzę, że patrzę się na plecy Tygrysa. Odwraca sie, by się uśmiechnąć do mnie. "
 
 
 
@@ -1082,7 +1082,7 @@ translate polish cg_lpd_attack_07e53874:
 
     voice voice_file.tig(14,13)
 
-    tig angry_scar "\"Liao jest moim wyznawcą, więc nie myśl nawet, że możesz go \nwykorzystywać!\" " with flash
+    tig angry_scar "\"Liao jest moim wyznawcą, więc nie myśl nawet, że możesz go wykorzystywać!\" " with flash
 
 
 
@@ -1394,7 +1394,7 @@ translate polish cg_lpd_attack_2a063862:
 
     voice voice_file.xiunuosi(14,1)
 
-    question "\"Auć. Że skrzywdziłeś kogoś w taki sposób, w biały dzień.\" "
+    question "\"Auć. Że krzywdzisz kogoś w biały dzień.\" "
 
 
 
@@ -1474,7 +1474,7 @@ translate polish cg_lpd_attack_f1d62a9e:
 
     voice voice_file.xiunuosi(14,5)
 
-    xiunuosi eyes_close "\"W biały dzień, i to w dodatku na terenie szkolnego kampusu. Biorąc pod uwagę te okoliczności... nie uważasz, że przesadziłeś?\" "
+    xiunuosi eyes_close "\"W biały dzień, i to w dodatku na terenie szkolnego kampusu. Biorąc pod uwagę te okoliczności... nie uważasz, że przekroczyłeś pewne granice?\" "
 
 
 
@@ -1534,7 +1534,7 @@ translate polish cg_lpd_attack_f944e712:
 
     voice voice_file.xiunuosi(14,6)
 
-    xiunuosi eyes_close "\"Jaki ma to związek z ranieniem innych?\" "
+    xiunuosi eyes_close "\"Jakiż ma to związek z ranieniem innych?\" "
 
 
 
@@ -1794,7 +1794,7 @@ translate polish s14_branch1_bf37a38c:
 
     # avt "\"Will he be alright? Will Leopard...\" "
 
-    avt "\"Czy będzie z nim w porządku? Czy Lampart...\" "
+    avt "\"Czy będzie cały? Czy Lampart...\" "
 
 
 
@@ -1828,7 +1828,7 @@ translate polish s14_branch1_f2a75f4c:
 
     voice voice_file.tig(14,24)
 
-    tig frown "\"Rozsiałem również moje Chi w różnych kierunkach gdy uciekaliśmy, by go zmylić. Miejmy nadzieję, że da to nam więcej czasu.\" "
+    tig frown "\"Rozsiałem również swoje Chi w różnych kierunkach gdy uciekaliśmy, by go zmylić. Miejmy nadzieję, że da to nam więcej czasu.\" "
 
     # tig frown "\" Teraz nie mam z nim żadnych szans, dlatego musimy zdecydować, co dalej robimy.\" "
 
@@ -1950,7 +1950,7 @@ translate polish s14_branch1_6f6cf6cf:
 
     voice voice_file.tig(14,28)
 
-    tig normal "\"I cóż... Nie wierzę, żebyśmy znali się aż tak dobrze. Ty mnie widzisz od ledwo miesiąca, nawet jeżeli ja znam ciebie odkąd byłeś jeszcze młody...\" "
+    tig normal "\"I cóż... Nie wierzę, żebyśmy znali się aż tak dobrze. Nawet jeżeli znam cię odkąd byłeś dzieckiem, to ty mnie możesz widzieć ledwo od miesiąca...\" "
 
 
 
