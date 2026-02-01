@@ -190,7 +190,7 @@ translate polish s14_branch1_general_ebfa4676:
 
     # b "Tiger beckons me with open arms. "
 
-    b ""
+    b "Tygrys zaprasza mnie z otwartymi ramionami. "
 
 
 
@@ -202,7 +202,7 @@ translate polish s14_branch1_general_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -214,7 +214,7 @@ translate polish s14_branch1_general_1d80cec3:
 
     # avt "\"So basically, you want me to hug you?\" "
 
-    avt ""
+    avt "\"Czyli po prostu chcesz, żebym cię przytulił?\" "
 
 
 
@@ -230,7 +230,7 @@ translate polish s14_branch1_general_07f81c27:
 
     voice voice_file.tig("14N",6)
 
-    tig normal ""
+    tig normal "\"Może to nie starczyć, ale jest to jakiś początek.\" "
 
 
 
@@ -242,7 +242,7 @@ translate polish s14_branch1_general_392d10f6:
 
     # b "It feels like he's setting me up for something, but this is my best option... "
 
-    b ""
+    b "Brzmi to tak, jakby mnie na coś przygotowywał, ale jest to moja najlepsza opcja... "
 
 
 
@@ -254,7 +254,7 @@ translate polish cg_reveal_feelings_tig_9afda742:
 
     # b "I look up and down Tiger's muscled arms and thickset body, frozen with embarrassment... "
 
-    b ""
+    b "Skrępowany spoglądam na potężne ramiona Tygrysa i jego umięśnione ciało... "
 
 
 
@@ -270,7 +270,7 @@ translate polish cg_reveal_feelings_tig_13482cda:
 
     voice voice_file.tig("14N",7)
 
-    tig normal ""
+    tig normal "\"Liao?\" "
 
 
 
@@ -282,7 +282,7 @@ translate polish cg_reveal_feelings_tig_331584b1:
 
     # avt "\"Hmm... Mm-Hmm...\" "
 
-    avt ""
+    avt "\"Hmm... Mm-Hmm...\" "
 
 
 
@@ -294,7 +294,7 @@ translate polish cg_reveal_feelings_tig_f03cf86f:
 
     # b "I lean into his arms, resting my head against his shoulder. "
 
-    b ""
+    b "Wtulam się w jego ramiona, opierając swoją głowę o jego bark. "
 
 
 
@@ -306,7 +306,7 @@ translate polish cg_reveal_feelings_tig_2bd48646:
 
     # b "Heat radiates from his body. Is it just because he's worked up from the fight? Or maybe it's just me... "
 
-    b ""
+    b "Gorąc emanuje z jego ciała. Czy to z wysiłku po walce? Czy może po prostu to mi tak jest gorąco... "
 
 
 
@@ -318,7 +318,7 @@ translate polish cg_reveal_feelings_tig_27e7364d:
 
     # b "Tiger runs his paw across the back of my neck, relaxing my nerves. It's so nice just to be here, sinking into his arms. I feel like I don't need to worry about anything, enveloped within his embrace. "
 
-    b ""
+    b "Tygrys głaskał mnie po karku, kojąc moje nerwy. Czuję się bezpiecznie w jego ramionach, nie musząc się o nic martwić, tak długo jak jestem przy nim. "
 
 
 
@@ -330,7 +330,7 @@ translate polish cg_reveal_feelings_tig_ce2caa95:
 
     # b "...Will this be enough though? Tiger's hugged me plenty of times. "
 
-    b ""
+    b "...Ale czy to wystarczy? Przecież Tygrys już wiele razy mnie przytulał. "
 
 
 
@@ -342,7 +342,7 @@ translate polish cg_reveal_feelings_tig_21eb6419:
 
     # avt "\"Hm...\" "
 
-    avt ""
+    avt "\"Hm...\" "
 
 
 
@@ -358,7 +358,7 @@ translate polish cg_reveal_feelings_tig_f5f96adb:
 
     voice voice_file.tig("14N",8)
 
-    tig gentle ""
+    tig gentle "\"Liao, oswajasz się z tym uczuciem?\" "
 
 
 
@@ -370,7 +370,7 @@ translate polish cg_reveal_feelings_tig_ea337f44:
 
     # avt "\"I really like it, but don't we do this all time?\" "
 
-    avt ""
+    avt "\"Bardzo mi się to podoba, ale czy i tak nie robimy tego cały czas?\" "
 
 
 
@@ -386,7 +386,7 @@ translate polish cg_reveal_feelings_tig_e4da28b5:
 
     voice voice_file.tig("14N",9)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Tak. Czy mogę pójść krok dalej?\" "
 
 
 
@@ -398,7 +398,7 @@ translate polish cg_reveal_feelings_tig_a5f61f21:
 
     # b "Proceed further? What is he going to do next... My heart begins to thump against my chest. "
 
-    b ""
+    b "Pójść krok dalej? Co on takiego planuje... Czuję, jak serce zaczyna mi walić w piersi. "
 
 
 
@@ -410,7 +410,7 @@ translate polish cg_reveal_feelings_tig_c41f6e4e:
 
     # avt "\"...Y-{w=0.2}Yeah, go ahead.\" "
 
-    avt ""
+    avt "\"...Y-{w=0.2}Jasne, śmiało.\" "
 
 
 
@@ -422,7 +422,7 @@ translate polish cg_reveal_feelings_tig_bd051fbf:
 
     # b "Tiger rests his paw against my shoulder, pushing my body backwards against my bed. My face lifts, and my eyes meet directly with his. "
 
-    b ""
+    b "Tygrys kładzie swoją łapę na moim ramieniu, popychając mnie w kierunku łóżka. Podnoszę swoją twarz i nasze spojrzenia się spotykają. "
 
 
 
@@ -434,7 +434,7 @@ translate polish cg_reveal_feelings_tig_eeeb9746:
 
     # b "He leans forward and I tense up. And then... "
 
-    b ""
+    b "Spinam się, gdy się do mnie nachyla. I wtedy... "
 
 
 
@@ -446,7 +446,7 @@ translate polish cg_reveal_feelings_tig_502d9d03:
 
     # b "He gently places his forehead against mine. "
 
-    b ""
+    b "Delikatnie opiera swoje czoła o moje. "
 
 
 
@@ -458,7 +458,7 @@ translate polish cg_reveal_feelings_tig_7b6349e7:
 
     # avt "\"Ahh...\" "
 
-    avt ""
+    avt "\"Ahh...\" "
 
 
 
@@ -470,7 +470,7 @@ translate polish cg_reveal_feelings_tig_ebaa9a67:
 
     # b "I'm a bit disappointed. That's it? "
 
-    b ""
+    b "Trochę się rozczarowałem. To wszystko? "
 
 
 
@@ -486,7 +486,7 @@ translate polish cg_reveal_feelings_tig_35322107:
 
     voice voice_file.tig("14N",10)
 
-    tig gentle ""
+    tig gentle "\"Liao, jesteś naprawdę dobrym chłopakiem.\" "
 
 
 
@@ -498,7 +498,7 @@ translate polish cg_reveal_feelings_tig_495ee782:
 
     # avt "\"Wh-What are you talking about?\" "
 
-    avt ""
+    avt "\"O-O czym ty gadasz?\" "
 
 
 
@@ -510,7 +510,7 @@ translate polish cg_reveal_feelings_tig_b631208c:
 
     # b "He presses his head against mine. His face is the only thing I can see. His eyes looking deeply into mine. His warm breath blows against my nose. "
 
-    b ""
+    b "Przykłada swoją głowę do mojej tak, że widzę tylko jego twarz. Jego oczy wpatrują się głęboko w moje. Jego ciepły oddech muska mój nos. "
 
 
 
@@ -528,7 +528,9 @@ translate polish cg_reveal_feelings_tig_751e69b9:
 
     voice voice_file.tig("14N",11)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Jestem rad, że to ja stoję przy twoim boku, broniąc cię przed wszelką krzywdą. Jesteś delikatnym chłopakiem, trochę nieśmiałym i niezdecydowanym, ale jest to w porządku.\" "
+
+    tig laugh_1 "\"Wiem, że nie jest twoim życzeniem wracać do domu, ale nawet mimo naszych nalegań nie żywisz urazy ani wobec mnie, ani swojego brata. Doprawdy jesteś wyjątkowy.\" "
 
 
 
@@ -546,7 +548,9 @@ translate polish cg_reveal_feelings_tig_c1591750:
 
     voice voice_file.tig("14N",12)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Podziwiam twój upór w dążeniu do spełnienia twoich marzeń. Przyznam, że nadal życzyłbym sobie, żebyś wrócił do domu... ale nie ma to znaczenia.\" "
+    
+    tig laugh_1 "\"Najważniejsze teraz jest to, że chcę ciebie wspierać niezależnie od wszystkiego. "
 
 
 
@@ -558,7 +562,7 @@ translate polish cg_reveal_feelings_tig_bee1ff35:
 
     # b "Tiger's words embarrass me. That just, came out of nowhere. I don't really know what to say. "
 
-    b ""
+    b "Czuję się zakłopotany, słysząc słowa Tygrysa. Nie wiem, co powiedzieć na coś tak niespodziewanego. "
 
 
 
@@ -570,7 +574,7 @@ translate polish cg_reveal_feelings_tig_50c8c7c8:
 
     # avt "\"Hmm... Why are we talking about this?\" "
 
-    avt ""
+    avt "\"Umm... Dlaczego o tym gadamy?\" "
 
 
 
@@ -586,7 +590,7 @@ translate polish cg_reveal_feelings_tig_e8acae9f:
 
     voice voice_file.tig("14N",13)
 
-    tig laugh_2 ""
+    tig laugh_2 "\"Haha- Czyż nie jest to moment na otwarcie swoich serc wobec siebie?\" "
 
 
 
@@ -598,7 +602,7 @@ translate polish cg_reveal_feelings_tig_5ea79ce8:
 
     # avt "\"...Reveal our hearts?\" "
 
-    avt ""
+    avt "\"...Otworzyć swoje serca?\" "
 
 
 
@@ -614,7 +618,7 @@ translate polish cg_reveal_feelings_tig_0a75d375:
 
     voice voice_file.tig("14N",14)
 
-    tig gentle ""
+    tig gentle "\"Dokładnie tak, by wyjawić sobie swoje uczucia wobec siebie.\" "
 
 
 
@@ -626,7 +630,7 @@ translate polish cg_reveal_feelings_tig_933a48d2:
 
     # b "I have a moment of hesitation. "
 
-    b ""
+    b "Zawahałem się na moment. "
 
 
 
@@ -638,7 +642,7 @@ translate polish cg_reveal_feelings_tig_4043d09c:
 
     # b "Tiger needs me to trust him... Opening up to him should help, but... "
 
-    b ""
+    b "Tygrys chce, żebym mu zaufał... Otwarcie się przed nim powinno pomóc, ale... "
 
 
 
@@ -650,7 +654,7 @@ translate polish cg_reveal_feelings_tig_eff68714:
 
     # b "If it's come to this... there's always been something I wanted to ask him. \nIs this the right time? "
 
-    b ""
+    b "Jak już... to jest coś, o co zawsze chciałem się go zapytać. \nI to chyba jest dobry moment. "
 
 
 
@@ -662,7 +666,7 @@ translate polish cg_reveal_feelings_tig_65eb7e04:
 
     # b "I {i}need{/i} \ to trust him now. What's the point if he can't answer this... "
 
-    b ""
+    b "{i}Muszę{/i} \ mu zaufać już teraz, więc nie może mi nie odpowiedzieć na to..."
 
 
 
@@ -674,7 +678,7 @@ translate polish cg_reveal_feelings_tig_de5a3628:
 
     # b "Now's the time. "
 
-    b ""
+    b "To jest ten moment. "
 
 
 
@@ -688,7 +692,9 @@ translate polish cg_reveal_feelings_tig_a9d0d96e:
 
     # avt "\"Tiger... do you only care about me because I'm part of the Lin family?\" "
 
-    avt ""
+    avt "\"Umm... w sumie chciałbym się ciebie o coś spytać.\" "
+
+    avt "\"Tygrysie... czy dbasz o mnie tylko dlatego, bo jestem częścią rodziny Lin?\" "
 
 
 
@@ -700,7 +706,7 @@ translate polish cg_reveal_feelings_tig_f32193e2:
 
     # avt "\"I mean... If I had nothing to do with the Lin family, would I even matter to you? "
 
-    avt ""
+    avt "\"To znaczy... czy w ogóle znaczyłbym coś dla ciebie, gdybym nie miał żadnych związków z rodziną Lin?"
 
 
 
@@ -716,7 +722,7 @@ translate polish cg_reveal_feelings_tig_723f2d86:
 
     voice voice_file.tig("14N",15)
 
-    tig surprise ""
+    tig surprise "\"...Czemu pytasz? To, co pozwala mi z tobą rozmawiać to nie twoja rodzina, a ty i twoja moc duchowa.\" "
 
 
 
@@ -732,7 +738,7 @@ translate polish cg_reveal_feelings_tig_c2d3f534:
 
     voice voice_file.tig("14N",16)
 
-    tig normal ""
+    tig normal "Bycie członkiem rodziny Lin jest jedynie tylko powodem, dla którego jesteśmy połączeni. Nie ma to związku z tym, {i}dlaczego{/i} \ cię lubię. W sumie, to wiele tygrysich strażników ma niezbyt dobre stosunki ze swoimi Jitongami.\" "
 
 
 
@@ -748,7 +754,7 @@ translate polish cg_reveal_feelings_tig_9f840d5d:
 
     voice voice_file.tig("14N",17)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Po prawdzie, to opętanie nie jest zależne od tego, jak bardzo się lubimy. Czasem tygrisi strażnicy opętują swoich Jitongów nawet jeżeli ich dobre relacje są zupełną fikcją."
 
 
 
@@ -760,7 +766,7 @@ translate polish cg_reveal_feelings_tig_a1c54f3f:
 
     # b "That doesn't sound right! "
 
-    b ""
+    b "To nie brzmi w porządku! "
 
 
 
@@ -776,7 +782,7 @@ translate polish cg_reveal_feelings_tig_44aa46b8:
 
     voice voice_file.tig("14N",18)
 
-    tig normal ""
+    tig normal "\"Ostatecznie to, co ma znaczenie, to czy mam zgodę twojego ciała na opętania. Komunikacja może pomóc, ale to wszystko.\" "
 
 
 
@@ -788,7 +794,7 @@ translate polish cg_reveal_feelings_tig_36d1a16d:
 
     # avt "\"...So, what you're saying is that, you don't {i}need{/i} \ to like me just because I'm a child of the Lin family?\" "
 
-    avt ""
+    avt "\"...Czyli masz na myśli to, że nie {i}musisz{/i} \ mnie lubić, bo jestem dzieciakiem Lin?"
 
 
 
@@ -804,7 +810,7 @@ translate polish cg_reveal_feelings_tig_ae331ae5:
 
     voice voice_file.tig("14N",19)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Oczywiście. Co prawda moim obowiązkiem jest strzec dziecko rodziny Lin, ale nie jest to konieczne by...\" "
 
 
 
@@ -816,7 +822,7 @@ translate polish cg_reveal_feelings_tig_2d759415:
 
     # tig normal "\"......\" "
 
-    tig normal ""
+    tig normal "\"......\" "
 
 
 
@@ -828,7 +834,7 @@ translate polish cg_reveal_feelings_tig_605a3b72:
 
     # avt "\"For you to what?\" "
 
-    avt ""
+    avt "\"By?\" "
 
 
 
@@ -844,7 +850,7 @@ translate polish cg_reveal_feelings_tig_72e104c6:
 
     voice voice_file.tig("14N",20)
 
-    tig gentle ""
+    tig gentle "\" By myśleć, że jesteś dobrym chłopakiem.\" "
 
 
 
@@ -856,7 +862,7 @@ translate polish cg_reveal_feelings_tig_d775d6e9:
 
     # avt "\"A good boy... Do you really need to say it like that.\" "
 
-    avt ""
+    avt "\"Dobry chłopak... Czy serio musisz mówić to w taki sposób.\" "
 
 
 
@@ -872,7 +878,7 @@ translate polish cg_reveal_feelings_tig_07e242e2:
 
     voice voice_file.tig("14N",21)
 
-    tig normal ""
+    tig normal "\"Nie, po prostu...\" "
 
 
 
@@ -884,7 +890,7 @@ translate polish cg_reveal_feelings_tig_2d759415_1:
 
     # tig normal "\"......\" "
 
-    tig normal ""
+    tig normal "\"......\" "
 
 
 
@@ -900,7 +906,7 @@ translate polish cg_reveal_feelings_tig_5ae2879a:
 
     voice voice_file.tig("14N",22)
 
-    tig embarrassed ""
+    tig embarrassed "\"Po prostu lubię cię Liao.\" "
 
 
 
@@ -912,7 +918,7 @@ translate polish cg_reveal_feelings_tig_6cf5e359:
 
     # avt "\"...What?\" " with vshake
 
-    avt "" with vshake
+    avt "\"...Co?\" " with vshake
 
 
 
@@ -924,7 +930,7 @@ translate polish cg_reveal_feelings_tig_7e4e2455:
 
     # avt "\"You're calling me a \"good boy\" because you like me?\" "
 
-    avt ""
+    avt "\"Nazywasz mnie \"dobrym chłopakiem\" ponieważ mnie lubisz?\" "
 
 
 
@@ -940,7 +946,7 @@ translate polish cg_reveal_feelings_tig_0350b20e:
 
     voice voice_file.tig("14N",23)
 
-    tig frown ""
+    tig frown "\"Jak inaczej mógłbym to ująć? Należysz do rodziny Lin... i też cię lubię. Więc jesteś bardzo dobrym chłopakiem. Czy to takie dziwne?\" "
 
 
 
@@ -952,7 +958,7 @@ translate polish cg_reveal_feelings_tig_9fe315cf:
 
     # avt "\"No, It's just that wording, it would usually infer something else...\" "
 
-    avt ""
+    avt "\"Nie, po prostu tak to ująłeś, jakbyś miał coś innego na myśli...\" "
 
 
 
@@ -964,7 +970,7 @@ translate polish cg_reveal_feelings_tig_be48297b:
 
     # avt "\"...How exactly do you like me? Is it because of my family? Or is it that you like me as a person?\" "
 
-    avt ""
+    avt "\"...Co masz na myśli mówiąc, że mnie lubisz? Czy to przez rodzinę? Czy raczej lubisz mnie jako osobę?\" "
 
 
 
@@ -980,7 +986,7 @@ translate polish cg_reveal_feelings_tig_b1a893c9:
 
     voice voice_file.tig("14N",24)
 
-    tig normal ""
+    tig normal "\"Uważam cię...\" "
 
 
 
@@ -996,7 +1002,7 @@ translate polish cg_reveal_feelings_tig_c16a66e4:
 
     voice voice_file.tig("14N",25)
 
-    tig embarrassed "" with flash
+    tig embarrassed "\"Za syna rodziny Lin, którego lubię.\" " with flash
 
 
 
@@ -1008,7 +1014,7 @@ translate polish cg_reveal_feelings_tig_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -1020,7 +1026,7 @@ translate polish cg_reveal_feelings_tig_0fbfe00f:
 
     # b "My heart skips a beat. "
 
-    b ""
+    b "Zamarłem. "
 
 
 
@@ -1032,7 +1038,7 @@ translate polish cg_reveal_feelings_tig_2464fc00:
 
     # avt "\"T-That... means?\" "
 
-    avt ""
+    avt "\"T-To znaczy...?\" "
 
 
 
@@ -1048,7 +1054,7 @@ translate polish cg_reveal_feelings_tig_6a513d60:
 
     voice voice_file.tig("14N",26)
 
-    tig embarrassed ""
+    tig embarrassed "\"No cóż, widać musze ci to przeliterować... Nie miałem co prawda tego w planach, ale...\" "
 
 
 
@@ -1060,7 +1066,7 @@ translate polish cg_reveal_feelings_tig_c4ba709a:
 
     # avt "\"W-{w=0.2}What are you going on about...\" "
 
-    avt ""
+    avt "\"W-{w=0.2}O czym ty...\" "
 
 
 
@@ -1076,7 +1082,7 @@ translate polish cg_reveal_feelings_tig_74af5cfe:
 
     voice voice_file.tig("14N",27)
 
-    tig normal ""
+    tig normal "\"O tym\" "
 
 
 
