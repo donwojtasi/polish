@@ -242,7 +242,7 @@ translate polish s14_branch1_general_392d10f6:
 
     # b "It feels like he's setting me up for something, but this is my best option... "
 
-    b "Brzmi to tak, jakby mnie na coś przygotowywał, ale jest to moja najlepsza opcja... "
+    b "Brzmi to tak, jakby mnie na coś przygotowywał, ale to najlepsze rozwiązanie... "
 
 
 
@@ -306,7 +306,7 @@ translate polish cg_reveal_feelings_tig_2bd48646:
 
     # b "Heat radiates from his body. Is it just because he's worked up from the fight? Or maybe it's just me... "
 
-    b "Gorąc emanuje z jego ciała. Czy to z wysiłku po walce? Czy może po prostu to mi tak jest gorąco... "
+    b "Gorąc emanuje z jego ciała. Czy to z wysiłku po walce? Czy może po prostu to mi tak jest ciepło... "
 
 
 
@@ -386,7 +386,7 @@ translate polish cg_reveal_feelings_tig_e4da28b5:
 
     voice voice_file.tig("14N",9)
 
-    tig laugh_1 "\"Tak. Czy mogę pójść krok dalej?\" "
+    tig laugh_1 "\"Tak. Czy mogę kontynuować?\" "
 
 
 
@@ -398,7 +398,7 @@ translate polish cg_reveal_feelings_tig_a5f61f21:
 
     # b "Proceed further? What is he going to do next... My heart begins to thump against my chest. "
 
-    b "Pójść krok dalej? Co on takiego planuje... Czuję, jak serce zaczyna mi walić w piersi. "
+    b "Kontynuować? Co on takiego planuje... Czuję, jak serce zaczyna mi walić w piersi. "
 
 
 
@@ -410,7 +410,7 @@ translate polish cg_reveal_feelings_tig_c41f6e4e:
 
     # avt "\"...Y-{w=0.2}Yeah, go ahead.\" "
 
-    avt "\"...Y-{w=0.2}Jasne, śmiało.\" "
+    avt "\"...J-{w=0.2}Jasne, śmiało.\" "
 
 
 
@@ -528,7 +528,7 @@ translate polish cg_reveal_feelings_tig_751e69b9:
 
     voice voice_file.tig("14N",11)
 
-    tig laugh_1 "\"Jestem rad, że to ja stoję przy twoim boku, broniąc cię przed wszelką krzywdą. Jesteś delikatnym chłopakiem, trochę nieśmiałym i niezdecydowanym, ale jest to w porządku.\" "
+    tig laugh_1 "\"Jestem rad, że to ja stoję przy twoim boku, broniąc cię przed wszelką krzywdą. Jesteś łagodnym chłopakiem, trochę nieśmiałym i niezdecydowanym, ale jest to w porządku.\" "
 
     tig laugh_1 "\"Wiem, że nie jest twoim życzeniem wracać do domu, ale nawet mimo naszych nalegań nie żywisz urazy ani wobec mnie, ani swojego brata. Doprawdy jesteś wyjątkowy.\" "
 
@@ -550,7 +550,7 @@ translate polish cg_reveal_feelings_tig_c1591750:
 
     tig laugh_1 "\"Podziwiam twój upór w dążeniu do spełnienia twoich marzeń. Przyznam, że nadal życzyłbym sobie, żebyś wrócił do domu... ale nie ma to znaczenia.\" "
     
-    tig laugh_1 "\"Najważniejsze teraz jest to, że chcę ciebie wspierać niezależnie od wszystkiego. "
+    tig laugh_1 "\"Najważniejsze teraz jest to, że chcę cię wspierać niezależnie od wszystkiego. "
 
 
 
@@ -738,7 +738,7 @@ translate polish cg_reveal_feelings_tig_c2d3f534:
 
     voice voice_file.tig("14N",16)
 
-    tig normal "Bycie członkiem rodziny Lin jest jedynie tylko powodem, dla którego jesteśmy połączeni. Nie ma to związku z tym, {i}dlaczego{/i} \ cię lubię. W sumie, to wiele tygrysich strażników ma niezbyt dobre stosunki ze swoimi Jitongami.\" "
+    tig normal "Bycie członkiem rodziny Lin jest tylko powodem, dla którego jesteśmy połączeni. Nie ma to związku z tym, {i}dlaczego{/i} \ cię lubię. W sumie, to wielu tygrysich strażników ma niezbyt dobre stosunki ze swoimi Jitongami.\" "
 
 
 
@@ -754,7 +754,7 @@ translate polish cg_reveal_feelings_tig_9f840d5d:
 
     voice voice_file.tig("14N",17)
 
-    tig laugh_1 "\"Po prawdzie, to opętanie nie jest zależne od tego, jak bardzo się lubimy. Czasem tygrisi strażnicy opętują swoich Jitongów nawet jeżeli ich dobre relacje są zupełną fikcją."
+    tig laugh_1 "\"Po prawdzie, to opętanie nie jest zależne od tego, jak bardzo się lubimy. Czasem tygrysi strażnicy opętują swoich Jitongów nawet jeżeli ich dobre relacje są zupełną fikcją."
 
 
 
@@ -782,7 +782,7 @@ translate polish cg_reveal_feelings_tig_44aa46b8:
 
     voice voice_file.tig("14N",18)
 
-    tig normal "\"Ostatecznie to, co ma znaczenie, to czy mam zgodę twojego ciała na opętania. Komunikacja może pomóc, ale to wszystko.\" "
+    tig normal "\"Ostatecznie to, co ma znaczenie, to czy mam zgodę twojego ciała na opętanie. Komunikacja może pomóc, ale to wszystko.\" "
 
 
 
@@ -1066,7 +1066,7 @@ translate polish cg_reveal_feelings_tig_c4ba709a:
 
     # avt "\"W-{w=0.2}What are you going on about...\" "
 
-    avt "\"W-{w=0.2}O czym ty...\" "
+    avt "\"O-{w=0.2}O czym ty...\" "
 
 
 
