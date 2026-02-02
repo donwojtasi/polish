@@ -1766,7 +1766,7 @@ translate polish s14_branch1_987bba45:
 
     # avt "\"Can't he stop Leopard?\" "
 
-    avt "\"Nie może on zatrzymać Lamparta?\" "
+    avt "\"Nie da on rady zatrzymać Lamparta?\" "
 
 
 
@@ -1782,7 +1782,7 @@ translate polish s14_branch1_0b9c11fa:
 
     voice voice_file.tig(14,22)
 
-    tig frown "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Dwunastu podwładnych{/font} to w żaden sposób nie jest żadna grupa bojowa... Chociaż mogliby go pokonać z pomocą wszystkich dwunastu dywizji.\" "
+    tig frown "\"{font=tl/polish/NotoSans-SemiCondensedBold.ttf}Dwunastu podwładnych{/font} to w żaden sposób nie jest grupa bojowa... Chociaż mogliby go pokonać z pomocą wszystkich dwunastu dywizji.\" "
 
 
 
@@ -1830,7 +1830,7 @@ translate polish s14_branch1_f2a75f4c:
 
     tig frown "\"Rozsiałem również swoje Chi w różnych kierunkach gdy uciekaliśmy, by go zmylić. Miejmy nadzieję, że da to nam więcej czasu.\" "
 
-    # tig frown "\" Teraz nie mam z nim żadnych szans, dlatego musimy zdecydować, co dalej robimy.\" "
+    # tig frown "\"Teraz nie mam z nim żadnych szans, dlatego musimy zdecydować, co dalej robimy.\" "
 
 
 
@@ -1950,7 +1950,7 @@ translate polish s14_branch1_6f6cf6cf:
 
     voice voice_file.tig(14,28)
 
-    tig normal "\"I cóż... Nie wierzę, żebyśmy znali się aż tak dobrze. Nawet jeżeli znam cię odkąd byłeś dzieckiem, to ty mnie możesz widzieć ledwo od miesiąca...\" "
+    tig normal "\"I cóż... Nie wierzę, żebyśmy znali się aż tak dobrze. Nawet jeżeli znam cię odkąd byłeś dzieckiem, to ty mnie widzisz ledwo od miesiąca...\" "
 
 
 

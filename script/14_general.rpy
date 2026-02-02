@@ -528,7 +528,7 @@ translate polish cg_reveal_feelings_tig_751e69b9:
 
     voice voice_file.tig("14N",11)
 
-    tig laugh_1 "\"Jestem rad, że to ja stoję przy twoim boku, broniąc cię przed wszelką krzywdą. Jesteś łagodnym chłopakiem, trochę nieśmiałym i niezdecydowanym, ale to jest w porządku.\" "
+    tig laugh_1 "\"Jestem rad, że to ja stoję przy twoim boku, broniąc cię przed wszelką krzywdą. Jesteś łagodnym chłopakiem, trochę nieśmiałym i niezdecydowanym, ale jest to w porządku.\" "
 
     tig laugh_1 "\"Wiem, że nie jest twoim życzeniem wracać do domu, ale nawet mimo naszych nalegań nie żywisz urazy ani wobec mnie, ani swojego brata. Doprawdy jesteś wyjątkowy.\" "
 
