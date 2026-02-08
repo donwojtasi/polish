@@ -650,7 +650,7 @@ translate polish cg_tig_h_8bee537c:
 
     # avt "\"Haa— Sorry, I'm just a little embarrassed...\" "
 
-    avt ""
+    avt "\"Haa— Sorki, trochę się zawstydziłem...\" "
 
 
 
@@ -668,7 +668,9 @@ translate polish cg_tig_h_b8fe6d68:
 
     voice voice_file.tig("14L",17)
 
-    tig_naked laugh_1 ""
+    tig_naked laugh_1 "\"Liao... Postaram się... Być delikatny.\" "
+
+    tig_naked laugh_1 "\"Zgaduję, że powinienem właśnie to powiedzieć w tym momencie, co nie?\" "
 
 
 
@@ -680,7 +682,7 @@ translate polish cg_tig_h_6f78431b:
 
     # avt "\"You're so cliché!\" "
 
-    avt ""
+    avt "\"To było sztampowe!\" "
 
 
 
@@ -696,7 +698,7 @@ translate polish cg_tig_h_0fd60908:
 
     voice voice_file.tig("14L",18)
 
-    tig_naked laugh_2 ""
+    tig_naked laugh_2 "\"Nie ma w tym nic złego.\" "
 
 
 
@@ -708,7 +710,7 @@ translate polish cg_tig_h_0cd09f58:
 
     # b "He bends down, lifts my legs over his shoulders and moves his nose between them. "
 
-    b ""
+    b "Nachyla się i podnosi moje nogi nad swoje barki, zbliżając swój pysk pomiędzy nimi. "
 
 
 
@@ -724,7 +726,7 @@ translate polish cg_tig_h_44296e2f:
 
     voice voice_file.tig("14L",19)
 
-    tig_naked normal ""
+    tig_naked normal "\"Czy powinienem zacząć w tym miejscu?\" "
 
 
 
@@ -740,7 +742,7 @@ translate polish cg_tig_h_c0963b13:
 
     voice voice_file.tig("14L",20)
 
-    tig_naked laugh_1 ""
+    tig_naked laugh_1 "*Chichot* \"Chyba przez te wszystkie twoje doujiny mam kosmate myśli.\" "
 
 
 
@@ -752,7 +754,7 @@ translate polish cg_tig_h_6c6cb811:
 
     # avt "\"Hey... you read those of your own free will!\" "
 
-    avt ""
+    avt "\"Hej... czytasz je z własnej woli!\" "
 
 
 
@@ -768,7 +770,7 @@ translate polish cg_tig_h_47b26c1b:
 
     voice voice_file.tig("14L",21)
 
-    tig_naked laugh_1 ""
+    tig_naked laugh_1 "\"I okazują się być niedocenianym źródłem wiedzy. Gdyby nie one, jakże bym mógł wiedzieć, co zrobić teraz?\" "
 
 
 
@@ -782,8 +784,9 @@ translate polish cg_tig_h_986b2eeb:
 
     # b "Aaaa— A god is licking my... This is so embarrassing, but hell is it hot!" with flash
 
-    b "" with flash
+    b "Już miałem gotową ripostę, gdy nagle poczułem mokry tygrysi język przesuwający się po moim tyłku.  " with flash
 
+    b "Aaaa- Bóstwo liże mój... To jest jednocześnie bardzo zawstydzające i cholernie podniecające!\" 
 
 
 # game/script/14_r18.rpy:151
@@ -794,7 +797,7 @@ translate polish cg_tig_h_3718a48f:
 
     # avt "\"Nnnngh...\" "
 
-    avt ""
+    avt "\"Nnnngh...\" "
 
 
 
@@ -808,7 +811,9 @@ translate polish cg_tig_h_d2ca0f0c:
 
     # b "He moves a paw and rubs my belly gently. That along with his warm breath against my skin I start to relax a bit. "
 
-    b ""
+    b "Haczyki na jego języku wzięły mnie z zaskoczenia, ale na szczęście Tygrys to zauważył i wrócił do wąchania mojego krocza. "
+
+    b "Przesunął łapę i zaczął delikatnie masować mój brzuch. To w połączeniu z jego ciepłym oddechem na mojej skórze pozwoliło mi się trochę zrelaksować. "
 
 
 
@@ -824,7 +829,7 @@ translate polish cg_tig_h_8c5da9c6:
 
     voice voice_file.tig("14L",22)
 
-    tig_naked Rnormal ""
+    tig_naked Rnormal "\"Hmm, wątpię, by to starczyło.\" "
 
 
 
@@ -836,7 +841,7 @@ translate polish cg_tig_h_93b82be1:
 
     # b "Tiger sits back a bit, rubbing a paw along my cheeks before slowly pushing a finger inside me. "
 
-    b ""
+    b "Tygrys lekko przysiada i masuje swoją łapą moje pośladki, po czym powoli wciska we mnie swój palec. "
 
 
 
@@ -848,7 +853,7 @@ translate polish cg_tig_h_f45ac11c:
 
     # b "His furred finger... it's a bit different than a human one... I mean, I've never felt a human finger inside me before either. But even though it's different... it feels good. "
 
-    b ""
+    b "Jego futrzany palec jest... trochę inny niż ludzki... nie żebym kiedykolwiek czuł w sobie nawet ludzki palec. Ale nawet jeżeli jest to inne uczucie... to jest ono przyjemne. "
 
 
 
@@ -864,7 +869,7 @@ translate polish cg_tig_h_333ad21c:
 
     voice voice_file.tig("14L",23)
 
-    tig_naked Rnormal ""
+    tig_naked Rnormal "\"Hmm, nie sądzę, żebym mógł cię zranić z pomoca duchowego ciała, ale ostrożności nigdy za wiele.\" "
 
 
 
@@ -876,7 +881,7 @@ translate polish cg_tig_h_e534a605:
 
     # b "He slides in a second finger, slowly stretching me out. As his fingers push against my insides, I can't help but let out a small moan. " with flash
 
-    b "" with flash
+    b "Wciska drugi palec, powoli mnie rozciągając. Nie mogę się powstrzymać przed cichym jęknięciem, gdy jego palce rozpychając moje wnętrze. " with flash
 
 
 
@@ -894,7 +899,9 @@ translate polish cg_tig_h_b5cbd3b2:
 
     voice voice_file.tig("14L",24)
 
-    tig_naked Rlaugh_2 ""
+    tig_naked Rlaugh_2 "\"Żywię głęboką nadzieję żeby twój przyszły partner - kimkolwiek by on nie był - był tak samo delikatny jak ja jestem.\" "
+
+    tig_naked Rlaugh_2 "Obecnie staram się tylko, żebyś dobrze zapamiętał swój pierwszy raz.\" "
 
 
 
@@ -906,7 +913,7 @@ translate polish cg_tig_h_6bd99b09:
 
     # avt "\"D-{w=0.2}Do you really need to mention that right now...?\" "
 
-    avt ""
+    avt "\"D-{w=0.2}Czy naprawdę musisz o tym teraz wspominać...?\""
 
 
 
@@ -918,7 +925,7 @@ translate polish cg_tig_h_55a281e7:
 
     # b "If it wasn't for his heartfelt eyes locked straight onto mine I would have buried my face under my pillow just then. Why'd he have to go and charm me just to make me like him even more. "
 
-    b ""
+    b "Gdyby nie te jego kochane oczy, które wpatrują się prosto w moje, to już bym miał twarz schowaną w poduszce. Czemu on mnie tak uwodzi i czaruje, żebym go jeszcze bardziej polubił. "
 
 
 
@@ -934,7 +941,7 @@ translate polish cg_tig_h_d8228ef9:
 
     voice voice_file.tig("14L",25)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "\"Chyba potrzebne będą trzy palce. Daj mi znać, jeżeli zaboli.\" "
 
 
 
@@ -946,7 +953,7 @@ translate polish cg_tig_h_21eb6419:
 
     # avt "\"Mmmph...\" "
 
-    avt ""
+    avt "\"Mmmph...\" "
 
 
 
@@ -958,7 +965,7 @@ translate polish cg_tig_h_4bd33147:
 
     # b "Just like he said earlier, it doesn't really hurt me. The only thing I feel is him sliding fingers inside me... It's a little strange... "
 
-    b ""
+    b "Tak jak już mówił, zupełnie mnie to nie boli. Czuję tylko, jak wkłada we mnie palce... Co jest w sumie trochę dziwne... "
 
 
 
@@ -974,7 +981,7 @@ translate polish cg_tig_h_82082dbf:
 
     voice voice_file.tig("14L",26)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "Myślę, że to wystarczy. Mogę kontynuować?\" "
 
 
 
@@ -986,7 +993,7 @@ translate polish cg_tig_h_e0454a7d:
 
     # avt "\"Mmm.... Yeah.\" "
 
-    avt ""
+    avt "\"Mmm... Jasne.\" "
 
 
 
@@ -998,7 +1005,7 @@ translate polish cg_tig_h_35f79013:
 
     # b "I try my best to relax. "
 
-    b ""
+    b "Staram się rozluźnić jak mogę. "
 
 
 
@@ -1012,7 +1019,9 @@ translate polish cg_tig_h_dec16af9:
 
     # b "With just a little bit more of a push I feel his tip begin to slide into me... I guess the foreplay worked. "
 
-    b ""
+    b "I wtedy poczułem jak jego penis naciska na mój otwór. Już mi stoi od tego wszystkiego, co dotąd mi zrobil. "
+
+    b "Czuję, jak jego końcówka wchodzi we mnie, już po lekkim popchnięciu... Myślę, że gra wstępna zadziałała. "
 
 
 
