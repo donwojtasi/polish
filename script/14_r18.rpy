@@ -32,7 +32,7 @@ translate polish cg_tig_h_ddca0cf9:
 
     voice voice_file.tig("14L",2)
 
-    tig embarrassed "\"Pewnie nie będziesz miał nic przeciwko, biorąc pod uwagę twoje {i}szczególne upodobanie{/i} dla zwierzoludzi... \"
+    tig embarrassed "\"Pewnie nie będziesz miał nic przeciwko, biorąc pod uwagę twoje {i}szczególne upodobania{/i} w stosunku do zwierzoludzi... \"
 
     tig embarrassed "\"Chociaż osobiście uważam takie myśli za dość niestosowne...\" "
 
@@ -602,7 +602,7 @@ translate polish cg_tig_h_a3800532:
 
     voice voice_file.tig("14L",16)
 
-    tig_naked laugh_1 ""
+    tig_naked laugh_1 "\"Ok, Liao... będę kontynuował.\" "
 
 
 
@@ -614,7 +614,7 @@ translate polish cg_tig_h_c68a994a:
 
     # avt "\"Mmm— Okay.\" "
 
-    avt ""
+    avt "\"Mmm— Okej.\" "
 
 
 
@@ -626,7 +626,7 @@ translate polish cg_tig_h_a8abca74:
 
     # b "He picks me up by the waist, softly placing me down on the bed. "
 
-    b ""
+    b "Łapie mnie w talii, podnosi i delikatnie kładzie mnie na łóżku. "
 
 
 
@@ -638,7 +638,7 @@ translate polish cg_tig_h_6b1b2312:
 
     # b "His paw makes a line down my body, under my boxes, and then slides them off. "
 
-    b ""
+    b "Jego łapa zjeżdża w dół po moim torsie, aż wkłada ją w moje bokserki, ściągając je ze mnie. "
 
 
 
