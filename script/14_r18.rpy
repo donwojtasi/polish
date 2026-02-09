@@ -1033,7 +1033,7 @@ translate polish cg_tig_h_60dff964:
 
     # b "Actually, how big is he? I can't really see from this angle... I mean he used three fingers, and his fingers are pretty thick... I hope I'll be alright. "
 
-    b ""
+    b "W sumie, jak bardzo ma dużego? Nie jestem w stanie zobaczyć zbyt wiele z tej perspektywy... W sumie użył aż trzech dość grubych palców... Mam nadzieję, że nic mi się nie stanie. "
 
 
 
@@ -1046,6 +1046,8 @@ translate polish cg_tig_h_4b05fc16:
     # b "He slowly slides his shaft into me. My fears are thankfully relieved. While thick, his spirit body doesn't push against my insides hard enough to hurt them. "
 
     # b "As he slowly pushes forward, I feel more and more of his dick fill my insides. " with flash
+
+    b "Powoli wsuwa ... we mnie i odetchnąłem z ulgą. Mimo jego grubości, to jego duchowa forma nie rozpycha mojego ciała na tyle, by to bolało. " with flash
 
     b "" with flash
 
