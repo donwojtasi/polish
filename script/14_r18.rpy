@@ -1047,9 +1047,9 @@ translate polish cg_tig_h_4b05fc16:
 
     # b "As he slowly pushes forward, I feel more and more of his dick fill my insides. " with flash
 
-    b "Powoli wsuwa ... we mnie i odetchnąłem z ulgą. Mimo jego grubości, to jego duchowa forma nie rozpycha mojego ciała na tyle, by to bolało. " with flash
+    b "Powoli wsuwa we mnie swojego penisa. Odetchnąłem z ulgą, gdyż mimo jego grubości, to jego duchowa forma nie rozpycha mojego ciała na tyle, by mnie zranić. " with flash
 
-    b "" with flash
+    b "Gdy powoli napiera, czuję, jak coraz większa część jego penisa wypełnia moje wnętrze. " with flash
 
 
 
@@ -1061,7 +1061,7 @@ translate polish cg_tig_h_fed7ac0c:
 
     # b "No matter how big he is, it doesn't feel uncomfortable at all. I don't really know how to put it, but the fullness of Tiger inside me— feels... good. "
 
-    b ""
+    b "Niezależnie od tego jak jest duży, nie sprawia mi to dyskomfortu. Ciężko to ująć w słowa, ale uczucie jak Tygrys mnie wypełnia— jest... dobre. "
 
 
 
@@ -1077,7 +1077,7 @@ translate polish cg_tig_h_988633f4:
 
     voice voice_file.tig("14L",27)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "\"...Okej, jestem w środku. Dobrze się czujesz Liao?\" "
 
 
 
@@ -1089,7 +1089,7 @@ translate polish cg_tig_h_41bb0f16:
 
     # avt "\"Yeah... it doesn't hurt...\" "
 
-    avt ""
+    avt "\"Tak... w ogóle nie boli...\" "
 
 
 
@@ -1101,7 +1101,7 @@ translate polish cg_tig_h_efef9bdc:
 
     # b "It's a shame I didn't see how big he was fully erect before he went inside me... I guess I won't have a second chance to feel something so big, even if it's not really there. "
 
-    b ""
+    b "Naprawdę żałuję, że nie miałem okazji zobaczyć jak bardzo jest wielki przy pełnej erekcji zanim wszedł we mnie... Cóż, wątpię, żebym miał kolejną szansę poczuć coś tak wielkiego, nawet jeżeli nie jest to w pełni prawdziwe. "
 
 
 
@@ -1117,7 +1117,7 @@ translate polish cg_tig_h_335200f0:
 
     voice voice_file.tig("14L",28)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "\"Okej, mogę kontynuować?\" "
 
 
 
@@ -1129,7 +1129,7 @@ translate polish cg_tig_h_dc7973d8:
 
     # avt "\"Just hold on for a second— I... have to get ready.\" " with vshake
 
-    avt "" with vshake
+    avt "\"Poczekaj chwilę— Muszę... się przygotować.\" " with vshake
 
 
 
@@ -1141,7 +1141,7 @@ translate polish cg_tig_h_857b936c:
 
     # b "I take a deep breath. This is all going so fast.. I'm about to be fucked by my guardian tiger?! It's so hot but also so unreal... "
 
-    b ""
+    b "Biorę głęboki oddech. To wszystko dzieje się tak szybko... Czy naprawdę za chwilę zostanę wyruchany przez mojego tygrysiego strażnika? To jest takie podniecające, ale też i nierealne... "
 
 
 
@@ -1157,7 +1157,7 @@ translate polish cg_tig_h_83e65b78:
 
     voice voice_file.tig("14L",29)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "\"Liao, jest ok. Jak już powiedziałem, będę delikatny. To wszystko nie miałoby sensu, gdybym nie mógł tego zrobić tak, żebyś był szczęśliwy.\" "
 
 
 
@@ -1169,7 +1169,7 @@ translate polish cg_tig_h_21eb6419_1:
 
     # avt "\"Mmmph...\" "
 
-    avt ""
+    avt "\"Mmmph...\" "
 
 
 
@@ -1181,7 +1181,7 @@ translate polish cg_tig_h_a00eb2b6:
 
     # b "It still bothers me a little bit. He's only doing this now because he needs to possess me, but after that... will he still make love to me? "
 
-    b ""
+    b "Nadal nie daj mi to spokoju. Skoro robi to wszystko po to, by móc mnie opętać, to czy... potem nadal będzie chciał się ze mną kochać? "
 
 
 
@@ -1193,7 +1193,7 @@ translate polish cg_tig_h_26b0a388:
 
     # b "Any idiot would know not to expect a god to love you... "
 
-    b ""
+    b "Każdy głupi wie, żeby nie oczekiwać, że bóstwo się w tobie zakocha... "
 
 
 
@@ -1205,7 +1205,7 @@ translate polish cg_tig_h_f23bb395:
 
     # avt "\"Yeah... I'm good. Y-{w=0.2}you can start.\" "
 
-    avt ""
+    avt "\"Jasne... Wszystko w porządku. M-{w=0.2}możesz zaczynać.\" "
 
 
 
@@ -1217,7 +1217,7 @@ translate polish cg_tig_h_26a68620:
 
     # b "But he didn't start, instead he bends over and kisses me on the forehead then brings his paws to caress my face. His whole face smiling lovingly at me. "
 
-    b ""
+    b "Ale nie zaczął, lecz zamiast tego nachylił się i pocałował moje czoło. Po tym wyciągnął łapę by pogłaskać moją twarz. Sam zaś uśmiechał się ciepło patrząc na mnie. "
 
 
 
@@ -1233,7 +1233,7 @@ translate polish cg_tig_h_eeb1c933:
 
     voice voice_file.tig("14L",30)
 
-    tig_naked Rlaugh_2 ""
+    tig_naked Rlaugh_2 "\"Będę więc zaczynał, tylko chcę już zawczasu przeprosić. Może być trochę intensywnie.\" "
 
 
 
@@ -1245,7 +1245,7 @@ translate polish cg_tig_h_7b6349e7:
 
     # avt "\"Ah...\" "
 
-    avt ""
+    avt "\"Ah...\"
 
 
 
