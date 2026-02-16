@@ -1257,7 +1257,7 @@ translate polish cg_tig_h_2c1e38cd:
 
     # b "He starts to move. I feel him slide out and then plunge back into me, making me let out a moan as my insides are filled by his massive dick again and again. " with flash
 
-    b "" with flash
+    b "Zaczyna się poruszać, czuję wręcz, jak się wysuwa i ponownie wchodzi we mnie. Z moich ust wydobywa się jęk za każdym razem, gdy wypełnia mnie jego masywny penis. " with flash
 
 
 
@@ -1269,7 +1269,7 @@ translate polish cg_tig_h_7110ae7f:
 
     # b "When he pulls out again it leaves me feeling empty. Fuck... the friction is so intense. My legs feel weak as I stop being able to lift them, leaving them to be supported by Tiger's broad shoulders. "
 
-    b ""
+    b "Kiedy wyciąga penisa ze mnie, czuję się pusty. Kurwa... wyraźnie go czuję w trakcie ruchu. Moje nogi słabną i nie jestem w stanie utrzymać ich w powietrzu, więc opieram się na szerokich barkach Tygrysa. "
 
 
 
@@ -1285,7 +1285,7 @@ translate polish cg_tig_h_2acc504c:
 
     voice voice_file.tig("14L",31)
 
-    tig_naked Rgentle ""
+    tig_naked Rgentle "\"Wszystko w porządku, Liao?\" "
 
 
 
@@ -1297,7 +1297,7 @@ translate polish cg_tig_h_1abf6361:
 
     # avt "\"Nnnngh... Barely...\" "
 
-    avt ""
+    avt "\"Nnnngh... Prawie...\" "
 
 
 
@@ -1309,7 +1309,7 @@ translate polish cg_tig_h_8122b99e:
 
     # b "With every thrust inside me, I tremble from the force filling me up... It didn't hurt, but I guess I need some time to get used to it... "
 
-    b ""
+    b "Z każdym pchnięciem czuję, jak cały się trzęsę od siły, która mnie wypełnia... Wcale nie boli, ale nadal potrzebowałbym czasu by się do tego przyzwyczaić... "
 
 
 
