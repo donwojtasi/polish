@@ -1309,7 +1309,7 @@ translate polish cg_tig_h_8122b99e:
 
     # b "With every thrust inside me, I tremble from the force filling me up... It didn't hurt, but I guess I need some time to get used to it... "
 
-    b "Z każdym pchnięciem czuję, jak cały się trzęsę od siły, która mnie wypełnia... Wcale nie boli, ale nadal potrzebowałbym czasu by się do tego przyzwyczaić... "
+    b "Z każdym pchnięciem czuję, jak cały się trzęsę od siły, która mnie wypełnia... Wcale nie boli, ale nadal potrzebowałbym czasu, żeby się do tego przyzwyczaić... "
 
 
 
@@ -1323,7 +1323,9 @@ translate polish cg_tig_h_976afdcc:
 
     # b "He makes a short quiet snort. "
 
-    b ""
+    b "Widząc jak bardzo się zestresowałem, Tygrys zaczął mnie głaskać, żebym mógł się zrelaksować. Miękkie poduszki jego łap ocierają się o moje wrażliwe ciało, posuwając się ku dołowi. "
+
+    b "Cicho parsknął. "
 
 
 
@@ -1335,7 +1337,7 @@ translate polish cg_tig_h_2ab8a50e:
 
     # b "And then he takes hold of my lower body. "
 
-    b ""
+    b "A potem chwyta mnie za dolną część mojego torsu. "
 
 
 
@@ -1347,7 +1349,7 @@ translate polish cg_tig_h_abc193c1:
 
     # avt "\"Mmmph!\" " with flash
 
-    avt "" with flash
+    avt "\"Mmmph!\" " with flash
 
 
 
@@ -1359,7 +1361,7 @@ translate polish cg_tig_h_70fbc9e7:
 
     # b "Tiger grabs my dick, kneading it between his fingers. My flesh giving way to the gentle squeeze of his pads. With just one paw he's able to cover the entire thing. If it was possible to be harder than I already was, that did it. "
 
-    b ""
+    b "Tygrys łapie mojego penisa, ugniatając go między swoimi palcami. Moje ciało poddaje się delikatnemu uciskowi jego poduszek. Jedną łapą jest w stanie objąć całego mojego członka. Jeżeli mógłbym mieć jeszcze twardszą erekcję, to na pewno bym miał ją teraz. "
 
 
 
@@ -1371,7 +1373,7 @@ translate polish cg_tig_h_17174156:
 
     # avt "\"Mmph... Hnnng...\" "
 
-    avt ""
+    avt "\"Mmph... Hnnng...\" "
 
 
 
@@ -1383,7 +1385,7 @@ translate polish cg_tig_h_ce59f340:
 
     # b "It's all too much stimulation for me to have any hope of being quiet. I start to struggle but Tiger pins me down with one paw, stopping my only way to escape. All the while he doesn't stop thrusting into me. "
 
-    b ""
+    b "To wszystko jest zbyt stymulujące, żebym mógł siedzieć cicho. Zaczynam się wiercić, ale Tygrys przygniata mnie swoją łapą, uniemożliwiając mi ucieczkę. Przez cały ten czas też nie przestaje we mnie wchodzić. "
 
 
 
@@ -1395,7 +1397,7 @@ translate polish cg_tig_h_ec9d1a35:
 
     # b "Maybe I stopped paying attention, or I've just gotten used to it. But I don't feel uncomfortable at all anymore. Actually I love the feeling of being filled by my guardian tiger. "
 
-    b ""
+    b "Może przestałem zwracać uwagę, albo aż tak bardzo się przyzwyczaiłem, ale już nie czuję się niekomfortowo. Powiedziałbym nawet, że pokochałem uczucie bycia wypełnionym przez mojego Tygrysiego Strażnika. "
 
 
 
@@ -1407,7 +1409,7 @@ translate polish cg_tig_h_3d12cc33:
 
     # b "Every time he pushes hard inside me I tremble. My pre drips against his paw, slicking up my penis as he strokes it between thrusts. I hear moist sounds but there's no way to tell if they're from my front or behind, maybe both... "
 
-    b ""
+    b "Z każdym jego pchnięciem drżę. Mój pre zaczyna przeciekać przez jego łapę, nawilżając mojego penisa w trakcie, jak go ugniata w trakcie pchnięć. Słyszę wilgotne dźwięki, ale nie wiem, czy pochodzą od przodu, z tyłu, albo z obu stron... "
 
 
 
@@ -1419,7 +1421,7 @@ translate polish cg_tig_h_391a7a4a:
 
     # b "Our heavy breathing, the wet splashes, and the sound of Tiger thrusting his waist against mine... even if my neighbours can't hear him, I still don't want them to know. "
 
-    b ""
+    b "Nasze ciężkie oddechy, mokre chlapanie i odgłosy Tygrysa wpychającego swoją talię w moją... nawet jeżeli moi sąsiedzi nie mogą tego usłyszeć, to wolę, żeby w ogóle nie wiedzieli. "
 
 
 
@@ -1435,7 +1437,7 @@ translate polish cg_tig_h_e5cb0c50:
 
     voice voice_file.tig("14L",32)
 
-    tig_naked Rgentle ""
+    tig_naked Rgentle "\"Liao... wyglądasz... uroczo.\" "
 
 
 
@@ -1447,7 +1449,7 @@ translate polish cg_tig_h_50e288d3:
 
     # b "What... What is he talking about?"
 
-    b ""
+    b "O czym... O czym on gada? "
 
 
 
@@ -1461,7 +1463,9 @@ translate polish cg_tig_h_d41bc451:
 
     # b "For just a moment his heavy breathing and tender gaze take my breath away, and before I realise it, Tiger has leant his face down to mine and pulled me into a deep kiss. "
 
-    b ""
+    b "Czerwienię się i patrzę się na niego zawstydzony, ale nie spodziewałem się, że napotkam jego oczy wpatrzone w moje. "
+
+    b "Na moment jego ciężki oddech i czułe spojrzenie zapierają mi dech w piersiach i zanim zdaję sobie sprawę, Tiger pochylił się nade mną i namiętnie mnie pocałował. "
 
 
 
@@ -1473,7 +1477,7 @@ translate polish cg_tig_h_3d892ee6:
 
     # b "I moan into his mouth. For just a moment he lets go of my body, but then I'm held in both of his arms. "
 
-    b ""
+    b "Jęknąłem w jego ustach. Na moment mnie puszcza, po to, by zaraz potem znowu przytrzymać mnie swoimi rękami. "
 
 
 
