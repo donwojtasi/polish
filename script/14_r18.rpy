@@ -770,7 +770,7 @@ translate polish cg_tig_h_47b26c1b:
 
     voice voice_file.tig("14L",21)
 
-    tig_naked laugh_1 "\"I okazują się być niedocenianym źródłem wiedzy. Gdyby nie one, jakże bym mógł wiedzieć, co zrobić teraz?\" "
+    tig_naked laugh_1 "\"I okazują się być nieocenionym źródłem wiedzy. Gdyby nie one, jakże bym mógł wiedzieć, co zrobić teraz?\" "
 
 
 
@@ -881,7 +881,7 @@ translate polish cg_tig_h_e534a605:
 
     # b "He slides in a second finger, slowly stretching me out. As his fingers push against my insides, I can't help but let out a small moan. " with flash
 
-    b "Wciska drugi palec, powoli mnie rozciągając. Nie mogę się powstrzymać przed cichym jęknięciem, gdy jego palce rozpychając moje wnętrze. " with flash
+    b "Wciska drugi palec, powoli mnie rozciągając. Nie mogę się powstrzymać przed cichym jęknięciem, gdy jego palce zaczęły rozpychać moje wnętrze. " with flash
 
 
 
@@ -913,7 +913,7 @@ translate polish cg_tig_h_6bd99b09:
 
     # avt "\"D-{w=0.2}Do you really need to mention that right now...?\" "
 
-    avt "\"D-{w=0.2}Czy naprawdę musisz o tym teraz wspominać...?\""
+    avt "\"C-{w=0.2}Czy naprawdę musisz o tym teraz wspominać...?\""
 
 
 
@@ -1033,7 +1033,7 @@ translate polish cg_tig_h_60dff964:
 
     # b "Actually, how big is he? I can't really see from this angle... I mean he used three fingers, and his fingers are pretty thick... I hope I'll be alright. "
 
-    b "W sumie, jak bardzo ma dużego? Nie jestem w stanie zobaczyć zbyt wiele z tej perspektywy... W sumie użył aż trzech dość grubych palców... Mam nadzieję, że nic mi się nie stanie. "
+    b "W sumie, jak bardzo ma dużego? Nie jestem w stanie zobaczyć zbyt wiele z tej perspektywy... Użył aż trzech dość grubych palców... Mam nadzieję, że nic mi się nie stanie. "
 
 
 
@@ -1181,7 +1181,7 @@ translate polish cg_tig_h_a00eb2b6:
 
     # b "It still bothers me a little bit. He's only doing this now because he needs to possess me, but after that... will he still make love to me? "
 
-    b "Nadal nie daj mi to spokoju. Skoro robi to wszystko po to, by móc mnie opętać, to czy... potem nadal będzie chciał się ze mną kochać? "
+    b "Nadal nie daje mi to spokoju. Skoro robi to wszystko po to, by móc mnie opętać, to czy... potem nadal będzie chciał się ze mną kochać? "
 
 
 
@@ -1193,7 +1193,7 @@ translate polish cg_tig_h_26b0a388:
 
     # b "Any idiot would know not to expect a god to love you... "
 
-    b "Każdy głupi wie, żeby nie oczekiwać, że bóstwo się w tobie zakocha... "
+    b "Każdy głupi wie, że nie można oczekiwać, że bóstwo się w tobie zakocha... "
 
 
 
@@ -1385,7 +1385,7 @@ translate polish cg_tig_h_ce59f340:
 
     # b "It's all too much stimulation for me to have any hope of being quiet. I start to struggle but Tiger pins me down with one paw, stopping my only way to escape. All the while he doesn't stop thrusting into me. "
 
-    b "To wszystko jest zbyt stymulujące, żebym mógł siedzieć cicho. Zaczynam się wiercić, ale Tygrys przygniata mnie swoją łapą, uniemożliwiając mi ucieczkę. Przez cały ten czas też nie przestaje we mnie wchodzić. "
+    b "To wszystko jest zbyt stymulujące, żebym mógł siedzieć cicho. Zaczynam się wiercić, ale Tygrys przygniata mnie swoją łapą, uniemożliwiając mi ucieczkę. Przez cały ten czas też nie przestaje mnie posuwać. "
 
 
 
@@ -1409,7 +1409,7 @@ translate polish cg_tig_h_3d12cc33:
 
     # b "Every time he pushes hard inside me I tremble. My pre drips against his paw, slicking up my penis as he strokes it between thrusts. I hear moist sounds but there's no way to tell if they're from my front or behind, maybe both... "
 
-    b "Z każdym jego pchnięciem drżę. Mój pre zaczyna przeciekać przez jego łapę, nawilżając mojego penisa w trakcie, jak go ugniata w trakcie pchnięć. Słyszę wilgotne dźwięki, ale nie wiem, czy pochodzą od przodu, z tyłu, albo z obu stron... "
+    b "Z każdym jego pchnięciem drżę. Mój pre zaczyna przeciekać przez jego łapę, nawilżając mojego penisa w trakcie, jak go ugniata w trakcie pchnięć. Słyszę wilgotne dźwięki, ale nie wiem, czy pochodzą od przodu, z tyłu, czy z obu stron... "
 
 
 
@@ -1465,7 +1465,7 @@ translate polish cg_tig_h_d41bc451:
 
     b "Czerwienię się i patrzę się na niego zawstydzony, ale nie spodziewałem się, że napotkam jego oczy wpatrzone w moje. "
 
-    b "Na moment jego ciężki oddech i czułe spojrzenie zapierają mi dech w piersiach i zanim zdaję sobie sprawę, Tiger pochylił się nade mną i namiętnie mnie pocałował. "
+    b "Na moment jego ciężki oddech i czułe spojrzenie zapierają mi dech w piersiach i zanim zdaję sobie sprawę, Tygrys pochylił się nade mną i namiętnie mnie pocałował. "
 
 
 
