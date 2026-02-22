@@ -32,7 +32,7 @@ translate polish cg_tig_h_ddca0cf9:
 
     voice voice_file.tig("14L",2)
 
-    tig embarrassed "\"Pewnie nie będziesz miał nic przeciwko, biorąc pod uwagę twoje {i}szczególne upodobania{/i} w stosunku do zwierzoludzi... \"
+    tig embarrassed "\"Pewnie nie będziesz miał nic przeciwko, biorąc pod uwagę twoje {i}szczególne upodobania{/i} w stosunku do zwierzoludzi... \" "
 
     tig embarrassed "\"Chociaż osobiście uważam takie myśli za dość niestosowne...\" "
 
@@ -786,7 +786,7 @@ translate polish cg_tig_h_986b2eeb:
 
     b "Już miałem gotową ripostę, gdy nagle poczułem mokry tygrysi język przesuwający się po moim tyłku.  " with flash
 
-    b "Aaaa- Bóstwo liże mój... To jest jednocześnie bardzo zawstydzające i cholernie podniecające!\" 
+    b "Aaaa- Bóstwo liże mój... To jest jednocześnie bardzo zawstydzające i cholernie podniecające!\" "
 
 
 # game/script/14_r18.rpy:151
@@ -1245,7 +1245,7 @@ translate polish cg_tig_h_7b6349e7:
 
     # avt "\"Ah...\" "
 
-    avt "\"Ah...\"
+    avt "\"Ah...\" "
 
 
 
