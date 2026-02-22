@@ -1477,7 +1477,7 @@ translate polish cg_tig_h_3d892ee6:
 
     # b "I moan into his mouth. For just a moment he lets go of my body, but then I'm held in both of his arms. "
 
-    b "Jęknąłem w jego ustach. Na moment mnie puszcza, po to, by zaraz potem znowu przytrzymać mnie swoimi rękami. "
+    b "Jęknąłem w jego usta. Na moment mnie puszcza, ale tylko po to, by zaraz znowu złapać mnie w swoje ramiona. "
 
 
 
@@ -1489,7 +1489,7 @@ translate polish cg_tig_h_d31d7f31:
 
     # b "He continues thrusting into me. Stimulated to the point where every motion against me feels amazing. "
 
-    b ""
+    b "Ciągle mnie posuwa, nakręcając mnie do takiego stanu, gdzie każde jego otarcie się o mnie jest wspaniałym uczuciem. "
 
 
 
@@ -1503,7 +1503,9 @@ translate polish cg_tig_h_43d30830:
 
     # b "Tiger continues to kiss me, hold me tight, and thrust into me over and over. "
 
-    b ""
+    b "Mój penis ociera się o futro na sześciopaku Tygrysa. Chociaż nie sprawia to aż takiej przyjemności jak wtedy, gdy go ściskał, to nadal samo myślenie o tym, jak ocieram się nim o jego silne ciało, podnieca mnie jeszcze bardziej. "
+
+    b "Tygrys nadal mnie całuje, mocno ściska i posuwa ciągle i ciągle. "
 
 
 
@@ -1517,7 +1519,9 @@ translate polish cg_tig_h_9e3a6839:
 
     # b "I slam myself down on Tiger's dick as I cum, my load shooting out and covering Tiger's furred abs before dripping back down onto my belly... "
 
-    b ""
+    b "Ja-{w=0.2}nie mogę już tego wytrzymać. Kurwa. Z mojego gardła wydobywają się głębokie jęki w przerwach między pocałunkami Tygrysa. Napięcie w moim ciele osiąga swój limit. "
+
+    b "Dochodząc zjeżdżam na penisie Tygrysa, moja sperma wystrzeliwuje i pokrywa jego futrzany sześciopak, by po chwili zacząć ściekać na mój brzuch... "
 
 
 
@@ -1529,7 +1533,7 @@ translate polish cg_tig_h_96a7bfb8:
 
     # b "As I squeeze down on him inside me, Tiger takes his mouth off mine, and whispers in my ear, broken by low husky breaths. "
 
-    b ""
+    b "Kiedy ścisnąłem swój tyłek na jego penisie, Tygrys oderwał swoje usta od moich i, sapiąc głęboko, wyszeptał mi na ucho. "
 
 
 
@@ -1545,7 +1549,7 @@ translate polish cg_tig_h_683b9f1a:
 
     voice voice_file.tig("14L",33)
 
-    tig_naked Rnervous ""
+    tig_naked Rnervous "\"L... Liao!\" "
 
 
 
@@ -1557,7 +1561,7 @@ translate polish cg_tig_h_20429fd1:
 
     # b "He suddenly tightens his grip around me, digging his paws around my body. It's intense but gentle at the same time. "
 
-    b ""
+    b "Nagle mocniej mnie ściska, wbijając swoje łapy w moje ciało. Jest to intensywne, ale też jednocześnie delikatne. "
 
 
 
@@ -1569,7 +1573,7 @@ translate polish cg_tig_h_17ef4a9f:
 
     # b "And with one last thrust, his balls slap against me and I can feel every inch of Tiger's massive dick as it pulses inside my body. "
 
-    b ""
+    b "I w jednym, ostatnim pchnięciu, jego jaja uderzyły o mój tyłek i czuję każdy centymetr masywnego tygrysiego penisa, jak pulsuje w środku mojego ciała. "
 
 
 
@@ -1581,7 +1585,7 @@ translate polish cg_tig_h_7bb59d12:
 
     # b "His warm cum fills my insides and even begins to spurt back out against our legs as Tiger makes his last few pushes against me. (How much did he cum inside me?!) "
 
-    b ""
+    b "Jego ciepła sperma wypełnia mnie od srodku i nawet zaczyna wyciekać na moje nogi, gdy Tygrys wykonuje ostatnie kilka pchnięć we mnie. (Ile on we mnie wytrysnął?!) "
 
 
 
@@ -1593,7 +1597,7 @@ translate polish cg_tig_h_2c566aeb:
 
     # b "It takes a moment, but eventually we manage to regain our composure. "
 
-    b ""
+    b "Chwilę to zajmuje, ale ostatecznie udaje nam się odzyskać panowanie nad sobą. "
 
 
 
@@ -1609,7 +1613,7 @@ translate polish cg_tig_h_d56e79d1:
 
     voice voice_file.tig("14L",34)
 
-    tig_naked Rgentle ""
+    tig_naked Rgentle "\"Huff... Więc... jak było, Liao?\" "
 
 
 
@@ -1621,7 +1625,7 @@ translate polish cg_tig_h_35e08b44:
 
     # b "Tiger looks at me with a sincere smile. "
 
-    b ""
+    b "Tygrys patrzy się na mnie ze szczerym usmiechem. "
 
 
 
@@ -1633,7 +1637,7 @@ translate polish cg_tig_h_331584b1:
 
     # avt "\"It...\" *pant* "
 
-    avt ""
+    avt "\"Było...\" *sapie* "
 
 
 
@@ -1645,7 +1649,7 @@ translate polish cg_tig_h_943c4a12:
 
     # b "It really was incredible... "
 
-    b ""
+    b "To było naprawdę nieprawdopodobne... "
 
 
 
@@ -1663,7 +1667,9 @@ translate polish cg_tig_h_9cee5e19:
 
     voice voice_file.tig("14L",35)
 
-    tig_naked Rlaugh_1 ""
+    tig_naked Rlaugh_1 "\"Czyli wykonałem dobrą robotę jak sądzę? Mam nadzieję, że postarałem się, by twój pierwszy raz był wyjątkowy.\" "
+
+    tig_naked Rlaugh_1 "\"Jak się czuje twoje ciało?\" "
 
 
 
@@ -1675,7 +1681,7 @@ translate polish cg_tig_h_81d380f9:
 
     # avt "\"Alright...\" "
 
-    avt ""
+    avt "\"W porządku...\" "
 
 
 
@@ -1687,7 +1693,7 @@ translate polish cg_tig_h_2b8ed73d:
 
     # b "Tiger helps me stand up. Looking down I find my own cum still covering my belly but other than that I don't feel any pain. I guess since Tiger's a spirit he didn't leave a mess on me either. "
 
-    b ""
+    b "Tygrys pomaga mi wstać. Jak patrzę w dół to widzę, że moja sperma nadal pokrywa mój brzuch, ale tak poza tym, to nie czuję żadnego bólu. Widac też, duchowe ciało Tygrysa nie zostawiło żadnych plam na mnie. "
 
 
 
@@ -1703,7 +1709,7 @@ translate polish cg_tig_h_1e4ddfbd:
 
     voice voice_file.tig("14L",36)
 
-    tig_naked laugh_1 ""
+    tig_naked laugh_1 "\"Może cię teraz wyczyścimy?\" "
 
 
 
@@ -1715,7 +1721,7 @@ translate polish cg_tig_h_109e7e60:
 
     # avt "\"Mm-hmm.\" "
 
-    avt ""
+    avt "\"Mm-hmm.\" "
 
 
 
@@ -1727,7 +1733,7 @@ translate polish cg_tig_h_4eadaef8:
 
     # b "I grab a handful of tissues and wipe the cum up off my belly. I still feel a little strange I didn't have to clean down there though... "
 
-    b ""
+    b "Łapię garść chusteczek i ścieram spermę z brzucha. Nadal jednak czuję się nieswojo z tym, że nie muszę się czyścić tam na dole... "
 
 
 
@@ -1743,7 +1749,7 @@ translate polish cg_tig_h_09a47281:
 
     voice voice_file.tig("14L",37)
 
-    tig_naked normal ""
+    tig_naked normal "\"Liao, wiem, że to nie jest najlepszy moment, by o tym wspominać...\" "
 
 
 
@@ -1755,7 +1761,7 @@ translate polish cg_tig_h_b2dc9af1:
 
     # b "Before I can even finish with the tissues a knock comes from the apartment door. "
 
-    b ""
+    b "Zanim mogę nawet skończyć wycieranie się chusteczkami, dobiega do nas pukanie do drzwi. "
 
 
 
@@ -1771,7 +1777,7 @@ translate polish cg_tig_h_08fe3056:
 
     voice voice_file.tig("14L",38)
 
-    tig_naked normal ""
+    tig_naked normal "\"...Doprawdy przyznam, że jest to idealny moment, by przygotować się do walki.\" "
 
 
 
@@ -1783,7 +1789,7 @@ translate polish cg_tig_h_2dd7fb8d:
 
     # avt "\"Ehhh?!\" "
 
-    avt ""
+    avt "\"Ehhh?!\" "
 
 
 
@@ -1795,7 +1801,7 @@ translate polish s14_branch1_r18_02_fe2a4ee4:
 
     # b "I hurriedly jump into my pants and throw on a shirt. All the while, another knock sounds against the door. "
 
-    b ""
+    b "Pośpiesznie wskakuję w swoje spodnie i zakładam koszulkę. W tym czasie rozlega się kolejne pukanie do drzwi. "
 
 
 
@@ -1809,7 +1815,9 @@ translate polish s14_branch1_r18_02_6cf5914d:
 
     # b "As much as I don't want to answer the door. I'll have to face him, even if it's just to keep my apartment in one piece. At least that's how I psyche myself up for it. "
 
-    b ""
+    b "Jeżeli to Lampart, to przyznam, że jest niewiarygodnie uprzejmy, że puka do drzwi. Mógłby przecież już od dawna wyważyć te drzwi. "
+
+    b "Mimo że nie mam najmniejszej ochoty by reagować na pukanie, to muszę mu stawić czoła. Chociażby po to, by nie zniszczył mi mieszkania. A przynajmniej tak sobie to wmawiam. "
 
 
 
@@ -1821,7 +1829,7 @@ translate polish s14_branch1_r18_02_1f9a222c:
 
     # b "I turn my head to look towards Tiger. He nods slightly in return. "
 
-    b ""
+    b "Odwracam głowę i patrzę się na Tygrysa, który kiwa głową w odpowiedzi. "
 
 
 
@@ -1837,7 +1845,7 @@ translate polish s14_branch1_r18_02_89f06e7e:
 
     voice voice_file.tig("14L",39)
 
-    tig frown ""
+    tig frown "\"Jesteś gotowy Liao?\" "
 
 
 
@@ -1849,7 +1857,7 @@ translate polish s14_branch1_r18_02_2dd7fb8d:
 
     # avt "\"...Yeah.\" "
 
-    avt ""
+    avt "\"...Ta.\" "
 
 
 
@@ -1861,5 +1869,5 @@ translate polish s14_branch1_r18_02_d34434b6:
 
     # b "I take hold of Tiger's paw tightly. It's just enough to give me the courage to open the door. "
 
-    b ""
+    b "Mocno ściskam łapę Tygrysa. To daje mi odwagę, by otworzyć drzwi. "
 
