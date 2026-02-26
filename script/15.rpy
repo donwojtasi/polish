@@ -1050,7 +1050,7 @@ translate polish s15_02_dont_go_02_dae8af5f:
 
     # b "Soon enough a knock sounds from the door. "
 
-    b ""
+    b "W końcu rozlega się pukanie do drzwi. "
 
 
 
@@ -1062,7 +1062,7 @@ translate polish s15_02_dont_go_02_eb9b551e:
 
     # b "It startles me for a moment. Is he here? Why would he knock? He was polite even now. I honestly would've just expected him to just come in... "
 
-    b ""
+    b "Wybija mnie to na moment z rytmu. Czy to on? Czemu puka? Widać, jest uprzejmy nawet w takiej sytuacji, gdzie, szczerze mówiąc, mógłby po prostu wparować do środka..."
 
 
 
@@ -1074,7 +1074,7 @@ translate polish s15_02_dont_go_02_17bfe965_1:
 
     # tig frown "\"......\" "
 
-    tig frown ""
+    tig frown "\"......\" "
 
 
 
@@ -1086,7 +1086,7 @@ translate polish s15_02_dont_go_02_c88ef98c:
 
     # b "Tiger appears from his statue. The nervous look on his face is apparent. It must be Leopard. "
 
-    b ""
+    b "Z wyraźnie nerwowym grymasem na pysku, Tygrys wychodzi ze swojego posążka. Widać to musi być Lampart za drzwiami. "
 
 
 
@@ -1098,7 +1098,7 @@ translate polish s15_02_dont_go_02_e36f3730:
 
     # b "Tiger and I exchange a glance. He nods slightly and I open the door. "
 
-    b ""
+    b "Wymieniamy z Tygrysem spojrzenia. Kiwa delikatnie głową i otwieram drzwi. "
 
 
 
@@ -1110,7 +1110,7 @@ translate polish s15_02_dont_go_02_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -1122,7 +1122,7 @@ translate polish s15_02_dont_go_02_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -1134,7 +1134,7 @@ translate polish s15_02_dont_go_02_7cc8e3b4:
 
     # avt "\"Kulau, you...\" "
 
-    avt ""
+    avt "\"Kulau, ty...\" "
 
 
 
@@ -1150,7 +1150,7 @@ translate polish s15_02_dont_go_02_4dd9cb9d:
 
     voice voice_file.lpd(15,7)
 
-    lpd normal ""
+    lpd normal "\"Przepraszam...\" "
 
 
 
@@ -1166,7 +1166,7 @@ translate polish s15_02_dont_go_02_dd958621:
 
     voice voice_file.lpd(15,8)
 
-    lpd normal ""
+    lpd normal "\"Proszę, cierpliwość. To nie będzie długo bolało.\" "
 
 
 
@@ -1178,7 +1178,7 @@ translate polish s15_02_dont_go_02_a58fc16b:
 
     # b "What is he talking about?! Frightened, I take a tentative step away. Tiger takes the chance to stand as a barrier between us. "
 
-    b ""
+    b "O czym on gada? Przerażony, robię krok w tył, kiedy Tygrys wykorzystując lukę, staje jak bariera między nami. "
 
 
 
@@ -1194,7 +1194,7 @@ translate polish s15_02_dont_go_02_ea5116ec:
 
     voice voice_file.tig(15,20)
 
-    tig frown ""
+    tig frown "\"Nie zepsuj tego. Liao nie wierzy, że wiesz, co robisz, ale ja tobie nie ufam. Jeżeli nas dzisiaj zaatakujesz, poznasz gniew bogów ludu Han. Więc przemyśl to, co masz zamiar zrobić, aborygenie.\" "
 
 
 
@@ -1210,7 +1210,7 @@ translate polish s15_02_dont_go_02_0ef4d699:
 
     voice voice_file.lpd(15,9)
 
-    lpd normal ""
+    lpd normal "\"Moc Liao ważna\" "
 
 
 
@@ -1226,7 +1226,7 @@ translate polish s15_02_dont_go_02_e2b186b9:
 
     voice voice_file.tig(15,21)
 
-    tig frown ""
+    tig frown "\"Jego moc nie ma żadnego związku ani z tobą, ani z twoimi planami.\" "
 
 
 
@@ -1238,7 +1238,7 @@ translate polish s15_02_dont_go_02_7ad22325:
 
     # avt "\"Hold on, Tiger. I have to ask this.\" "
 
-    avt ""
+    avt "\"Poczekaj Tygrysie. Muszę się o to zapytać.\" "
 
 
 
@@ -1250,7 +1250,7 @@ translate polish s15_02_dont_go_02_9e724c55:
 
     # avt "\"Leopard— Kulau. Do you really want to attack me?\" "
 
-    avt ""
+    avt "\"Lamparcie- Kulau. Czy ty naprawdę chcesz mnie zaatakować?\" "
 
 
 
@@ -1262,7 +1262,7 @@ translate polish s15_02_dont_go_02_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -1278,7 +1278,7 @@ translate polish s15_02_dont_go_02_04b2b248:
 
     voice voice_file.lpd(15,10)
 
-    lpd obsessed ""
+    lpd obsessed "\"Jeżeli Liao chce pomóc...\" "
 
 
 
@@ -1290,7 +1290,7 @@ translate polish s15_02_dont_go_02_e288bc0c:
 
     # avt "\"As I said before, I can't...\" "
 
-    avt ""
+    avt "\"Jak już mówiłem, nie mogę...\" "
 
 
 
@@ -1306,7 +1306,7 @@ translate polish s15_02_dont_go_02_8bd77d1c:
 
     voice voice_file.lpd(15,11)
 
-    lpd disappointed ""
+    lpd disappointed "\"Więc muszę...\" "
 
 
 
@@ -1318,7 +1318,7 @@ translate polish s15_02_dont_go_02_45caacbd:
 
     # avt "\"Do you know what your plan means?\" "
 
-    avt ""
+    avt "\"Czy rozumiesz, co masz zamiar zrobić?\" "
 
 
 
@@ -1334,7 +1334,7 @@ translate polish s15_02_dont_go_02_8285db1a:
 
     voice voice_file.tig(15,22)
 
-    tig angry ""
+    tig angry "\"Kradzież duchowych mocy Liao poskutkuje tylko jego śmiercią!\" "
 
 
 
@@ -1350,7 +1350,7 @@ translate polish s15_02_dont_go_02_31c7e58e:
 
     voice voice_file.lpd(15,12)
 
-    lpd normal ""
+    lpd normal "\"Nie zginie. Mam sposób\" "
 
 
 
@@ -1366,7 +1366,7 @@ translate polish s15_02_dont_go_02_46060353:
 
     voice voice_file.tig(15,23)
 
-    tig angry ""
+    tig angry "\"Nie kłam mi prosto w twarz! NIe masz zielonego pojęcia o podstawowych prawach rządzących duszą!\" "
 
 
 
@@ -1378,7 +1378,7 @@ translate polish s15_02_dont_go_02_3b52ad5d:
 
     # avt "\"Kulau wouldn't lie to me...\" "
 
-    avt ""
+    avt "\"Kulau nigdy by mnie nie okłamał...\" "
 
 
 
@@ -1394,7 +1394,7 @@ translate polish s15_02_dont_go_02_d5f1a99d:
 
     voice voice_file.lpd(15,13)
 
-    lpd obsessed ""
+    lpd obsessed "\"On mówił, że nie posłuchacie\" "
 
 
 
@@ -1406,7 +1406,7 @@ translate polish s15_02_dont_go_02_f9c46014:
 
     # b "Suddenly Leopard raises his paw. His palms glowing, readying an attack that stifles our discussion regardless of what I had to say. "
 
-    b ""
+    b "Nagle Lampart podnosi łapę. Jej wnętrze się świeci, kiedy przygotowuje atak, który kończy naszą dyskusję, nieważne, co bym powiedział. "
 
 
 
@@ -1422,7 +1422,7 @@ translate polish s15_02_dont_go_02_561811d5:
 
     voice voice_file.tig(15,24)
 
-    tig angry "" with vshake
+    tig angry "\"Stop!\" " with vshake
 
 
 
@@ -1434,7 +1434,7 @@ translate polish s15_02_dont_go_02_da4e34b6:
 
     # b "Tiger lets out a roar, throwing himself at Leopard. "
 
-    b ""
+    b "Tygrys wydaje z siebie ryk i rzuca się wprost na Lamparta. "
 
 
 
@@ -1448,7 +1448,9 @@ translate polish s15_02_dont_go_02_e2bbcfb6:
 
     # b "I open my eyes to find Tiger shielding me behind him, his back arched like a feline about to attack its prey. "
 
-    b ""
+    b "Rozbłyska jasne, białe światło, eksplozja energii, która odrzuca trochę do tyłu. "
+
+    b "Gdy otwieram oczy widzę jak Tygrys mnie osłania swoim ciałem, gdy stoi pochylony do przodu, jak kot, szykujący się do skoku na ofiarę. "
 
 
 
@@ -1462,7 +1464,9 @@ translate polish s15_02_dont_go_02_9d044add:
 
     # b "Books, bags, clothes, stationery, it's all pulled into his field. Even the folding table in the corner shakes from the force pulling upon it. "
 
-    b ""
+    b "Lampart unosi się przed nami, otoczony lewitującymi wokół niego przedmiotami, tak jakby był jakimś magnesem, który przyciąga wszystko w pokoju. (Jego duchowe moce mu na to pozwalają?!)  "
+
+    b "Książki, plecaki, ubrania, długopisy i zeszyty, wszystko wciągnięte w jego pole siłowe. Nawet składany stolik trzęsie się w rogu z powodu siły, która go przyciąga. "
 
 
 
@@ -1476,7 +1480,9 @@ translate polish s15_02_dont_go_02_b2e57bdf:
 
     # b "Leopard slowly reaches his paws out to Tiger who continues his grumbled roar ever increasing in severity. "
 
-    b ""
+    b "Czuję, jak coś wzbiera, ale nie mogę określić, co to jest. Nie jest to fizyczne, ale uczucie jest bardzo prawdziwe. "
+
+    b "Lampart powoli wyciąga swoją łapę w kierunku Tygrysa, który nadal ryczy, coraz głośniej i głośniej. "
 
 
 
@@ -1488,7 +1494,7 @@ translate polish s15_02_dont_go_02_0131e219:
 
     # avt "\"Kulau! Stop it!\" "
 
-    avt ""
+    avt "\"Kulau! Przestań!\" "
 
 
 
@@ -1504,7 +1510,7 @@ translate polish s15_02_dont_go_02_48f11475:
 
     voice voice_file.lpd(15,14)
 
-    lpd disappointed ""
+    lpd disappointed "\"...Przepraszam.\" "
 
 
 
@@ -1516,7 +1522,7 @@ translate polish s15_02_dont_go_02_662366ef:
 
     # b "The same force as before pushes me away, flinging me into the bookshelf. I can't manage to open my eyes. What's going on? ...Is this really how everything ends? "
 
-    b ""
+    b "Ta sama moc co wcześniej odrzuca mnie wprost na biblioteczkę. Nie jestem w stanie otworzyć oczu. Co się dzieje? ...Czy to tak wszystko się kończy? "
 
 
 
@@ -1530,7 +1536,9 @@ translate polish s15_02_dont_go_02_7488045c:
 
     # b "The sound is distinct as if it was physical. Without hesitation I force my eyes to open. "
 
-    b ""
+    b "Ostry dźwięk przeszywa moje uszy zanim rozlega się huk, gdy coś uderza o podłogę, pękając i rozstrzaskując się w drobnicę. "
+
+    b "Brzmi to jak coś fizycznego. Bez wahania zmuszam się do otwarcia oczu. "
 
 
 
@@ -1542,7 +1550,7 @@ translate polish s15_02_dont_go_02_8ba7bc1a:
 
     # b "Only Leopard stands before me. Tiger's gone. "
 
-    b ""
+    b "Tylko Lampart stoi przede mną. Tygrys zniknął. "
 
 
 
@@ -1556,7 +1564,9 @@ translate polish s15_02_dont_go_02_3baa5495:
 
     # b "I desperately try and find Tiger but realisation hits me as I look down on the floor next to me. "
 
-    b ""
+    b "Powoli do mnie podchodzi, ale nie dbam już o swoje bezpieczeństwo. "
+
+    b "Desperacko rozglądam się i szukam Tygrysa, ale wtedy uświadamiam sobie, co takie spadło na podłogę obok mnie. "
 
 
 
@@ -1568,7 +1578,7 @@ translate polish s15_02_dont_go_02_ccfc08bc:
 
     # b "Tiger's statue lies on the floor, a severe crack running along it. "
 
-    b ""
+    b "Posążek Tygrysa, z mocnym pęknięciem biegnącym przez niego, leży na podłodze. "
 
 
 
@@ -1580,7 +1590,7 @@ translate polish s15_02_dont_go_02_2073cacc:
 
     # b "There was no way it could have broken from the low fall it took. "
 
-    b ""
+    b "Nie ma mowy, żeby uszkodził się spadając z tak niskiej wysokości. "
 
 
 
@@ -1592,7 +1602,7 @@ translate polish s15_02_dont_go_02_d19f2f79:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -1604,7 +1614,7 @@ translate polish s15_02_dont_go_02_90910b03:
 
     # avt "\"Kulau... Kulau... What did you—\" "
 
-    avt ""
+    avt "\"Kulau... Kulau... Coś ty-\" "
 
 
 
@@ -1616,7 +1626,7 @@ translate polish s15_02_dont_go_02_bad9bb7b:
 
     # avt "\"What did you do?!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Coś ty odwalił?!\" " with vshake
 
 
 
@@ -1632,7 +1642,7 @@ translate polish s15_02_dont_go_02_66561306:
 
     voice voice_file.lpd(15,15)
 
-    lpd disappointed ""
+    lpd disappointed "\"Przepraszam.\" "
 
 
 
@@ -1646,7 +1656,9 @@ translate polish s15_02_dont_go_02_4a190b40:
 
     # b "But I don't care. I stare at Tiger's cracked statue in disbelief. "
 
-    b ""
+    b "Lampart staje blisko mnie i ponownie podnosi swoją łapę. Tym razem świeci się innym niebieskim światłem niż wcześniej. "
+
+    b "Ale mam to gdzieś. Gapię się na pęknięty posążek Tygrysa z niedowierzaniem. "
 
 
 
@@ -1658,7 +1670,7 @@ translate polish s15_02_dont_go_02_734ee380:
 
     # b "Then the dim blue light surrounds me. "
 
-    b ""
+    b "I wtedy przyciemnione niebieskie światło mnie otacza. "
 
 
 
