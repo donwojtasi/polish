@@ -30,7 +30,7 @@ translate polish s15_branch2_68874a9e:
 
     voice voice_file.tig(15,2)
 
-    tig frown "\"Liao, rozsądnym by było poszukać wsparcia ze strony Miejskich Bóstw.\" "
+    tig frown "\"Liao, rozsądnie by było poszukać wsparcia ze strony Miejskich Bóstw.\" "
 
 
 
@@ -1670,7 +1670,7 @@ translate polish s15_02_dont_go_02_734ee380:
 
     # b "Then the dim blue light surrounds me. "
 
-    b "I wtedy przyciemnione niebieskie światło mnie otacza. "
+    b "I wtedy przygaszone niebieskie światło mnie otacza. "
 
 
 
@@ -1682,7 +1682,7 @@ translate polish s15_02_dont_go_02_lpd_high_db3e0887:
 
     # b "...... "
 
-    b ""
+    b "...... "
 
 
 
@@ -1694,7 +1694,7 @@ translate polish s15_02_dont_go_02_lpd_high_0a34a9e2:
 
     # b "It hurts... "
 
-    b ""
+    b "To boli... "
 
 
 
@@ -1706,7 +1706,7 @@ translate polish s15_02_dont_go_02_lpd_high_de79455a:
 
     # b "From my head to my feet. It hurts... "
 
-    b ""
+    b "Od głowy do stóp. To boli..."
 
 
 
@@ -1718,7 +1718,7 @@ translate polish s15_02_dont_go_02_lpd_high_c5a6d19a:
 
     # b  "I desperately try to feel my body but all I manage to feel is a fistful of soil. What? Where am I? What's... "
 
-    b ""
+    b "Desperacko staram się poczuć moje ciało, ale jedyne, co czuję, to garść ziemii. Co? Gdzie ja jestem? Co się... "
 
 
 
@@ -1730,7 +1730,7 @@ translate polish s15_02_dont_go_02_lpd_high_c48b8d8e:
 
     # b "Hmm... "
 
-    b ""
+    b "Hmm... "
 
 
 
@@ -1742,7 +1742,7 @@ translate polish s15_02_dont_go_02_lpd_high_33b3dc28:
 
     # b "The last thing I remember was being knocked out by Leopard in my room. "
 
-    b ""
+    b "Ostatnią rzeczą, jaka pamiętam to jak zostałem powalony przez Lamparta w moim pokoju. "
 
 
 
@@ -1756,7 +1756,9 @@ translate polish s15_02_dont_go_02_lpd_high_9410fffd:
 
     # b "The floor beneath me is uneven and pebbles have left imprints on my hand. \nUrrgh— I feel like I just fell down a flight of stairs... "
 
-    b ""
+    b "Ale gdzie ja jestem? Wygląda to jak jakaś jaskinia. Co ja tutaj robię? Ależ to boli... "
+
+    b "Podłoże pode mną jest nierówne i kamyczki odciskają mi się na dłoni. \nUghh- Czuję się jakbym zleciał ze schodów... "
 
 
 
@@ -1768,7 +1770,7 @@ translate polish s15_02_dont_go_02_lpd_high_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -1780,7 +1782,7 @@ translate polish s15_02_dont_go_02_lpd_high_29f9d8b1:
 
     # avt "\"Woah...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Oh...\" " with vshake
 
 
 
@@ -1796,7 +1798,7 @@ translate polish s15_02_dont_go_02_lpd_high_3cb7a0d7:
 
     voice voice_file.lpd(15,16)
 
-    lpd normal ""
+    lpd normal "\"Liao, już jesteś przytomny.\""
 
 
 
@@ -1808,7 +1810,7 @@ translate polish s15_02_dont_go_02_lpd_high_a1680df5:
 
     # avt "\"Mm... I'm awake... Where are we?\" "
 
-    avt ""
+    avt "\"Mm... Jestem przytomny... Gdzie jesteśmy?\" "
 
 
 
@@ -1824,7 +1826,7 @@ translate polish s15_02_dont_go_02_lpd_high_7268260c:
 
     voice voice_file.lpd(15,17)
 
-    lpd normal ""
+    lpd normal "\"Jaskinia\" "
 
 
 
@@ -1836,7 +1838,7 @@ translate polish s15_02_dont_go_02_lpd_high_4eaf2191:
 
     # avt "\"...I know it is a cave. Why am I here?\" "
 
-    avt ""
+    avt "\"...Wiem, że to jest jaskinia. Dlaczego tu jestem?\" "
 
 
 
@@ -1852,7 +1854,7 @@ translate polish s15_02_dont_go_02_lpd_high_146b7a99:
 
     voice voice_file.lpd(15,18)
 
-    lpd obsessed ""
+    lpd obsessed "\"Ja... przyniosłem cię tutaj.\" "
 
 
 
@@ -1864,7 +1866,7 @@ translate polish s15_02_dont_go_02_lpd_high_06f52201:
 
     # avt "\"Brought me here? How did you...\" "
 
-    avt ""
+    avt "\"Przyniosłeś mnie tutaj? Jak ty to...\" "
 
 
 
@@ -1880,7 +1882,7 @@ translate polish s15_02_dont_go_02_lpd_high_73c51373:
 
     voice voice_file.lpd(15,19)
 
-    lpd normal ""
+    lpd normal "\"Duchowa ścieżka.\" "
 
 
 
@@ -1892,7 +1894,7 @@ translate polish s15_02_dont_go_02_lpd_high_19dbd5d3:
 
     # b "Right, he said he could take me along the spirit paths with him. "
 
-    b ""
+    b "Racja, wspominał już, że mógłby mnie zabrać ze sobą przez duchowe ścieżki. "
 
 
 
@@ -1904,7 +1906,7 @@ translate polish s15_02_dont_go_02_lpd_high_20e81494:
 
     # b "If I had to guess I would've thought that he'd take me to Wutai... but I get the feeling he hasn't. "
 
-    b ""
+    b "Gdybym miał zgadywać, to zabrał mnie do Wutai... ale mam przeczucie, że nie zrobił tego. "
 
 
 
@@ -1916,7 +1918,7 @@ translate polish s15_02_dont_go_02_lpd_high_e0d1ea1a:
 
     # avt "\"Why did you bring me here?\" "
 
-    avt ""
+    avt "\"Czemu mnie tu przyniosłeś?\" "
 
 
 
@@ -1932,7 +1934,7 @@ translate polish s15_02_dont_go_02_lpd_high_1d9200ea:
 
     voice voice_file.lpd(15,20)
 
-    lpd normal ""
+    lpd normal "\"By cię przekonać\" "
 
 
 
@@ -1944,7 +1946,7 @@ translate polish s15_02_dont_go_02_lpd_high_7e721097:
 
     # avt "\"Convince me?\" "
 
-    avt ""
+    avt "\"Przekonać mnie?\" "
 
 
 
@@ -1956,7 +1958,7 @@ translate polish s15_02_dont_go_02_lpd_high_f459319a:
 
     # avt "\"You still want me to be your oracle? It's not that I don't want to. I really can't...\" "
 
-    avt ""
+    avt "\"Nadal chcesz, żebym został twoją wyrocznią? To nie tak, że nie chcę. Po prostu naprawdę nie mogę...\" "
 
 
 
@@ -1968,7 +1970,7 @@ translate polish s15_02_dont_go_02_lpd_high_00cdb30f:
 
     # avt "\"Wait.\" "
 
-    avt ""
+    avt "\"Chwila.\" "
 
 
 
@@ -1980,7 +1982,7 @@ translate polish s15_02_dont_go_02_lpd_high_aaeaea0f:
 
     # avt "\"Where's Tiger? Where did he go?!\" "
 
-    avt ""
+    avt "\"Gdzie jest Tygrys? Gdzie on zniknał?!\" "
 
 
 
@@ -1992,7 +1994,7 @@ translate polish s15_02_dont_go_02_lpd_high_929d77dd:
 
     # b "I suddenly remember Tiger's cracked statue on the floor. "
 
-    b ""
+    b "Nagle przypominam sobie popękany posążek Tygrysa na podłodze. "
 
 
 
@@ -2004,7 +2006,7 @@ translate polish s15_02_dont_go_02_lpd_high_a6910de1:
 
     # avt "\"Tiger... is he...\" "
 
-    avt ""
+    avt "\"Tygrys... czy on...\" "
 
 
 
@@ -2016,7 +2018,7 @@ translate polish s15_02_dont_go_02_lpd_high_8e9a7668:
 
     # avt "\"How could you...\" "
 
-    avt ""
+    avt "\"Jak mogłeś...\" "
 
 
 
@@ -2032,7 +2034,7 @@ translate polish s15_02_dont_go_02_lpd_high_31bc419f:
 
     voice voice_file.lpd(15,21)
 
-    lpd normal ""
+    lpd normal "\"Jest z nim dobrze.\" "
 
 
 
@@ -2044,7 +2046,7 @@ translate polish s15_02_dont_go_02_lpd_high_8ac29c46:
 
     # avt "\"Fine? He's fine?\" " with vshake
 
-    avt "" with vshake
+    avt "\"Dobrze? Jest z nim dobrze?\" " with vshake
 
 
 
@@ -2056,7 +2058,7 @@ translate polish s15_02_dont_go_02_lpd_high_6904e097:
 
     # avt "\"Then why isn't he here? He should be by my side.\" "
 
-    avt ""
+    avt "\"To dlaczego go tutaj nie ma? Powinien stać przy moim boku.\" "
 
 
 
@@ -2068,7 +2070,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -2084,7 +2086,7 @@ translate polish s15_02_dont_go_02_lpd_high_af4644ce:
 
     voice voice_file.lpd(15,22)
 
-    lpd normal "" with flash
+    lpd normal "\"Jest tutaj.\" " with flash
 
 
 
@@ -2096,7 +2098,7 @@ translate polish s15_02_dont_go_02_lpd_high_4b7a4ab6:
 
     # avt "\"Where?\" "
 
-    avt ""
+    avt "\"Gdzie?\" "
 
 
 
@@ -2112,7 +2114,7 @@ translate polish s15_02_dont_go_02_lpd_high_54de20f0:
 
     voice voice_file.lpd(15,23)
 
-    lpd normal ""
+    lpd normal "\"Za słaby. Ty nie możesz go widzieć.\" "
 
 
 
@@ -2124,7 +2126,7 @@ translate polish s15_02_dont_go_02_lpd_high_9cf894cc:
 
     # avt "\"Why can't I see him?\" "
 
-    avt ""
+    avt "\"Dlaczego nie mogę go zobaczyć?\" "
 
 
 
@@ -2136,7 +2138,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_1:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -2150,7 +2152,9 @@ translate polish s15_02_dont_go_02_lpd_high_71b6506c:
 
     # avt "\"How can I trust you if you don't explain this to me? How could I follow you to Wutai?\" "
 
-    avt ""
+    avt "\"Lamparcie, wiem, że twoja znajomość mandaryńskiego jest ograniczona, ale proszę mów jaśniej!\" "
+
+    avt "\"Jeżeli mi tego nie wytłumaczysz, to jak mam ci zaufać? Jak mógłbym iść z tobą do Wutai?\" "
 
 
 
@@ -2162,7 +2166,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_2:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -2178,7 +2182,7 @@ translate polish s15_02_dont_go_02_lpd_high_1b8b97ed:
 
     voice  voice_file.lpd(15,21)
 
-    lpd obsessed ""
+    lpd obsessed "\"Jest z nim dobrze.\" "
 
 
 
@@ -2194,7 +2198,7 @@ translate polish s15_02_dont_go_02_lpd_high_db2a60cc:
 
     voice voice_file.lpd(15,24)
 
-    lpd obsessed ""
+    lpd obsessed "\"Jego posążek. Uszkodzony, ale ok.\" "
 
 
 
@@ -2210,7 +2214,7 @@ translate polish s15_02_dont_go_02_lpd_high_ff2efaca:
 
     voice voice_file.lpd(15,25)
 
-    lpd obsessed ""
+    lpd obsessed "\"Po prostu słaby. Ty nie możesz go widzicieć.\" "
 
 
 
