@@ -2226,7 +2226,7 @@ translate polish s15_02_dont_go_02_lpd_high_5628deb3:
 
     # avt "\"You mean to say that he's very weak because his statue is broken? He's so weak that I can't even see him?\" "
 
-    avt ""
+    avt "\"Masz na myśli, że jest słaby z powodu uszkodzenia jego posążka? Na tyle słaby, że nie mogę go zobaczyć?\" "
 
 
 
@@ -2242,7 +2242,7 @@ translate polish s15_02_dont_go_02_lpd_high_fbac1f87:
 
     voice voice_file.lpd(15,26)
 
-    lpd normal ""
+    lpd normal "\"Tak.\" "
 
 
 
@@ -2254,7 +2254,7 @@ translate polish s15_02_dont_go_02_lpd_high_03e518bf:
 
     # avt "\"...That's hard to believe.\" "
 
-    avt ""
+    avt "\"...Ciężko w to uwierzyć.\" "
 
 
 
@@ -2266,7 +2266,7 @@ translate polish s15_02_dont_go_02_lpd_high_af54c937:
 
     # lpd normal "\"...?\" "
 
-    lpd normal ""
+    lpd normal "\"...?\" "
 
 
 
@@ -2278,7 +2278,7 @@ translate polish s15_02_dont_go_02_lpd_high_252ff98d:
 
     # avt "\"So his statue is really broken? How can he be okay? Seriously. How can I know he's here if I can't even see him?!\" "
 
-    avt ""
+    avt "\"Więc jego posążek jest naprawde uszkodzony? Jak może być z nim w porządku teraz? Serio, jak mogę mieć pewność, że tu jest, skoro nie mogę go zobaczyć?!\" "
 
 
 
@@ -2290,7 +2290,7 @@ translate polish s15_02_dont_go_02_lpd_high_d19f2f79:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -2306,7 +2306,7 @@ translate polish s15_02_dont_go_02_lpd_high_7bda2ff2:
 
     voice voice_file.lpd(15,27)
 
-    lpd disappointed ""
+    lpd disappointed "\"Pozostanie uszkodzony. Zniknie.\" "
 
 
 
@@ -2318,7 +2318,7 @@ translate polish s15_02_dont_go_02_lpd_high_ecc1b99e:
 
     # avt "\"So if the statue isn't fixed, then he'll disappear?\" "
 
-    avt ""
+    avt "\"Czyli jeżeli posążek nie zostanie naprawiony, to on zniknie?\" "
 
 
 
@@ -2334,7 +2334,7 @@ translate polish s15_02_dont_go_02_lpd_high_8bd441b6:
 
     voice voice_file.lpd(15,28)
 
-    lpd normal ""
+    lpd normal "\"Zajmie dużo czasu. Ty go pamiętasz. Ty o nim nie zapomnisz. On nie zniknie. Nie martw się.\" "
 
 
 
@@ -2346,7 +2346,7 @@ translate polish s15_02_dont_go_02_lpd_high_781124a6:
 
     # avt "\"Of course I'm worried! I have to fix it as soon as possible!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Oczywiście, że się martwię! Muszę to naprawić jak najszybciej!\" " with vshake
 
 
 
@@ -2358,7 +2358,7 @@ translate polish s15_02_dont_go_02_lpd_high_fa4fd2e0:
 
     # avt "\"Why did you bring me here? What do you want to do?\" "
 
-    avt ""
+    avt "\"Czemu mnie tu przyprowadziłeś? Czego chcesz ode mnie?\" "
 
 
 
@@ -2374,7 +2374,7 @@ translate polish s15_02_dont_go_02_lpd_high_de0d421f:
 
     voice voice_file.lpd(15,29)
 
-    lpd normal ""
+    lpd normal "\"Chcę...\" "
 
 
 
@@ -2390,7 +2390,7 @@ translate polish s15_02_dont_go_02_lpd_high_f356ae34:
 
     voice voice_file.lpd(15,30)
 
-    lpd normal ""
+    lpd normal "\"Moc Liao.\" "
 
 
 
@@ -2402,7 +2402,7 @@ translate polish s15_02_dont_go_02_lpd_high_5c773a7d:
 
     # avt "\"You said that already. So what? Why didn't you take it away when you knocked me \nout?\" "
 
-    avt ""
+    avt "\"Już o tym wspominałeś. Czyli co? Czemu jej nie odebrałeś, kiedy byłem ogłuszony?\" "
 
 
 
@@ -2418,7 +2418,7 @@ translate polish s15_02_dont_go_02_lpd_high_f9deba50:
 
     voice voice_file.lpd(15,31)
 
-    lpd obsessed ""
+    lpd obsessed "\"Zabiorę moc. Liao nie będzie widział.\" "
 
 
 
@@ -2430,7 +2430,7 @@ translate polish s15_02_dont_go_02_lpd_high_c27d2a4a:
 
     # avt "\"Can't see what?\" "
 
-    avt ""
+    avt "\"Czego nie będę widział?\" "
 
 
 
@@ -2446,7 +2446,7 @@ translate polish s15_02_dont_go_02_lpd_high_850055e3:
 
     voice voice_file.lpd(15,32)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nie będzie widział mnie.\" "
 
 
 
@@ -2458,7 +2458,7 @@ translate polish s15_02_dont_go_02_lpd_high_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2470,7 +2470,7 @@ translate polish s15_02_dont_go_02_lpd_high_1c1d4e55_1:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -2482,7 +2482,7 @@ translate polish s15_02_dont_go_02_lpd_high_1904f6c5:
 
     # avt "\"So you didn't take my power?\" "
 
-    avt ""
+    avt "\"Czyli nie chcesz zabrać moich mocy?\" "
 
 
 
@@ -2498,7 +2498,7 @@ translate polish s15_02_dont_go_02_lpd_high_75c7bf34:
 
     voice voice_file.lpd(15,33)
 
-    lpd normal ""
+    lpd normal "\"Chcę moc Liao.\" "
 
 
 
@@ -2514,7 +2514,7 @@ translate polish s15_02_dont_go_02_lpd_high_dd7573ce:
 
     voice voice_file.lpd(15,34)
 
-    lpd normal ""
+    lpd normal "\"Też chcę, by Liao mnie widział.\" "
 
 
 
@@ -2526,7 +2526,7 @@ translate polish s15_02_dont_go_02_lpd_high_f7d9479e:
 
     # avt "\"...Why do you want me to see you?\" "
 
-    avt ""
+    avt "\"...Dlaczego chcesz, żebym mógł cię widzieć?\" "
 
 
 
@@ -2538,7 +2538,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_3:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -2554,7 +2554,7 @@ translate polish s15_02_dont_go_02_lpd_high_cd996cfd:
 
     voice voice_file.lpd(15,35)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nie wiem. Ale chcę.\" "
 
 
 
@@ -2566,7 +2566,7 @@ translate polish s15_02_dont_go_02_lpd_high_2166e7b1_1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2578,7 +2578,7 @@ translate polish s15_02_dont_go_02_lpd_high_d92cc8d8:
 
     # avt "\"But if I don't become your oracle in Wutai, once you leave you won't be seeing me. \nTo you, will it really make a difference?\" "
 
-    avt ""
+    avt "\"Ale jeżeli nie zostanę twoją wyrocznią w Wutai, to i tak nie będziesz mnie widział, skoro odejdziesz. Czy to robi ci jakąś różnicę?\" "
 
 
 
@@ -2590,7 +2590,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_4:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -2606,7 +2606,7 @@ translate polish s15_02_dont_go_02_lpd_high_3dc0c2e5:
 
     voice voice_file.lpd(15,36)
 
-    lpd obsessed ""
+    lpd obsessed "\"Nadal... Chcę.\" "
 
 
 
@@ -2622,7 +2622,7 @@ translate polish s15_02_dont_go_02_lpd_high_3a72c4f9:
 
     voice voice_file.lpd(15,37)
 
-    lpd disappointed ""
+    lpd disappointed "\"Nie chcę... Już nigdy więcej nie widzieć Liao.\" "
 
 
 
@@ -2634,7 +2634,7 @@ translate polish s15_02_dont_go_02_lpd_high_15dcd362:
 
     # avt "\"...If anything it's {i}me{/i} \ who wouldn't be able to see {i}you{/i}.\" "
 
-    avt ""
+    avt "\"...Jak już, to {i}ja{/i} \ nie będę w stanie widzieć {i}ciebie{/i}.\" "
 
 
 
@@ -2646,7 +2646,7 @@ translate polish s15_02_dont_go_02_lpd_high_d19f2f79_1:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -2658,7 +2658,7 @@ translate polish s15_02_dont_go_02_lpd_high_2166e7b1_2:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2670,7 +2670,7 @@ translate polish s15_02_dont_go_02_lpd_high_2166e7b1_3:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -2682,7 +2682,7 @@ translate polish s15_02_dont_go_02_lpd_high_bcb0179e:
 
     # avt "\"But...\" "
 
-    avt ""
+    avt "\"Ale...\" "
 
 
 
@@ -2694,7 +2694,7 @@ translate polish s15_02_dont_go_02_lpd_high_efcb4ae5:
 
     # avt "\"I can't help you. As I said, my family won't let me...\" "
 
-    avt ""
+    avt "\"Nie mogę ci pomóc. Jak już mówiłem, moja rodzina mi nie pozwoli...\" "
 
 
 
@@ -2710,7 +2710,7 @@ translate polish s15_02_dont_go_02_lpd_high_f5814b5c:
 
     voice voice_file.lpd(15,38)
 
-    lpd normal ""
+    lpd normal "\"Zniknie.\" "
 
 
 
@@ -2722,7 +2722,7 @@ translate polish s15_02_dont_go_02_lpd_high_74dfe2db:
 
     # avt "\"What?\" "
 
-    avt ""
+    avt "\"Co?\" "
 
 
 
@@ -2738,7 +2738,7 @@ translate polish s15_02_dont_go_02_lpd_high_a8217497:
 
     voice voice_file.lpd(15,39)
 
-    lpd normal ""
+    lpd normal "\"Liao zniknie. Przyjdzie do Wutai. Nie będą wiedzieć.\" "
 
 
 
@@ -2750,7 +2750,7 @@ translate polish s15_02_dont_go_02_lpd_high_e056bff0:
 
     # avt "\"...You want me to go missing?\" "
 
-    avt ""
+    avt "\"Chcesz, żebym zniknął?\" "
 
 
 
@@ -2762,7 +2762,7 @@ translate polish s15_02_dont_go_02_lpd_high_7760d614:
 
     # avt "\"I understand what you mean, but these days it isn't that easy. The police will be called. I will be put on a missing persons list. As long as I'm alive, sooner or later someone {i}will{/i} \ find me in Wutai.\" "
 
-    avt ""
+    avt "\"Rozumiem, co masz na myśli, ale w dzisiejszych czasach nie jest to już tak proste. Zostanie poinformowana policja i zostanę wpisany na listę zaginionych osób. Tak długo, jak będę żył, to pędzej czy później ktoś mnie {i}odnajdzie{/i} \ w Wutai."
 
 
 
@@ -2774,7 +2774,7 @@ translate polish s15_02_dont_go_02_lpd_high_d4acbccb:
 
     # avt "\"You want me to run away from home to become an oracle in Wutai, but I won't have {i}anything{/i}, not even an internet connection. Aren't you taking things too far?\" "
 
-    avt ""
+    avt "\"Chcesz, żebym uciekł z domu by zostać wyrocznią w Wutai, ale nie będę miał {i}niczego{/i} \, nawet połączenia z internetem. Czy to już nie jest w pewnym stopniu przesada?\" "
 
 
 
@@ -2790,7 +2790,7 @@ translate polish s15_02_dont_go_02_lpd_high_0847f8ee:
 
     voice voice_file.lpd(15,40)
 
-    lpd surprise ""
+    lpd surprise "\"Internet... ważny?\" "
 
 
 
@@ -2802,7 +2802,7 @@ translate polish s15_02_dont_go_02_lpd_high_4c2187f4:
 
     # avt "\"I guess so— I mean I'd at least want to bring my laptop or buy a new one. No matter how remote your tribe is there has to be electricity and internet, right?\" "
 
-    avt ""
+    avt "\"Tak sądzę- O co mi chodzi, to że chciałbym zabrać ze sobą chociaż swojego laptopa lub kupić nowy. Nieważne, na jak bardzo dużym odludziu mieszka twoje plemię, mają raczej dostęp do prądu i internetu, co nie?\" "
 
 
 
@@ -2814,7 +2814,7 @@ translate polish s15_02_dont_go_02_lpd_high_60b31e41:
 
     # avt "\"Wherever there's a telephone there's an internet connection! Wherever there's people there are mobile data towers! After all, they're just the basic needs of modern people!\" "
 
-    avt ""
+    avt "\"Gdziekolwiek jest telefon, tam też jest połączenie interneteowe! Jeśli są tam ludzie, to tez znajdują się tam wieże telekomunikacyjne! Koniec końców są to już podstawowe ludzkie potrzeby!\" "
 
 
 
@@ -2828,7 +2828,9 @@ translate polish s15_02_dont_go_02_lpd_high_21caad56:
 
     # avt "*sigh* \"I mean— I don't know {i}how{/i} \ they will, but I'm sure they can. Even if I change my identity, there is no way I can hide away completely.\" "
 
-    avt ""
+    avt "\"Więc jeżeli będe online, to ludzie będą mogli się dowiedzieć, gdzie jestem.\" "
+
+    avt "*Westchnięcie* \"To znaczy- Nie wiem {i}jak{/i} \ się dowiedzią, ale wiem, że tak bedzie. Nawet jeżeli zmienię swoją tożsamość, to po prostu nie dam rady całkowicie zniknąć.\" "
 
 
 
@@ -2840,7 +2842,7 @@ translate polish s15_02_dont_go_02_lpd_high_938c815c:
 
     # avt "\"Once my parents find out I ran off to Wutai without telling them things will just get worse!\" "
 
-    avt ""
+    avt "\"A jak tylko moi rodzice się dowiedzą, że uciekłem do Wutai bez słowa, to będzie tylko gorzej!\" "
 
 
 
@@ -2852,7 +2854,7 @@ translate polish s15_02_dont_go_02_lpd_high_d19f2f79_2:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -2868,7 +2870,7 @@ translate polish s15_02_dont_go_02_lpd_high_27daafc6:
 
     voice voice_file.lpd(15,41)
 
-    lpd disappointed ""
+    lpd disappointed "\"Liao... nie może?\" "
 
 
 
@@ -2880,7 +2882,7 @@ translate polish s15_02_dont_go_02_lpd_high_ff7d3249:
 
     # avt "\"I know you want to help me solve the problems I have with my family, but your idea won't work at all!\" "
 
-    avt ""
+    avt "\"Wiem, że chcesz mi pomóc rozwiązać moje problemy rodzinne, ale twój pomysł nie ma szans zadziałać!\" "
 
 
 
@@ -2892,7 +2894,7 @@ translate polish s15_02_dont_go_02_lpd_high_a9957d9d:
 
     # avt "\"You're so reckless... Why didn't you just ask me first?\" "
 
-    avt ""
+    avt "\"Jesteś taki nierozsądny... Dlaczego najpierw się mnie nie spytałeś?\" "
 
 
 
@@ -2904,7 +2906,7 @@ translate polish s15_02_dont_go_02_lpd_high_d19f2f79_3:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -2920,7 +2922,7 @@ translate polish s15_02_dont_go_02_lpd_high_1faa9ca8:
 
     voice voice_file.lpd(15,42)
 
-    lpd disappointed ""
+    lpd disappointed "\"Liao... by się nie zgodził...\" "
 
 
 
@@ -2936,7 +2938,7 @@ translate polish s15_02_dont_go_02_lpd_high_d0967ea1:
 
     voice voice_file.lpd(15,43)
 
-    lpd disappointed ""
+    lpd disappointed "\"Jakbym najpierw zapytał.\" "
 
 
 
@@ -2948,7 +2950,7 @@ translate polish s15_02_dont_go_02_lpd_high_efcdc562:
 
     # b "...I guess if he asked me before I would have just found more reasons to say no to him. "
 
-    b ""
+    b "...W sumie to pewnie bym znalazł więcej wymówek i powodów by się nie zgodzić, gdyby się spytał wcześniej. "
 
 
 
@@ -2960,7 +2962,7 @@ translate polish s15_02_dont_go_02_lpd_high_88527bd0:
 
     # b "If anything he found a way to {i}make{/i} \ me give it proper thought. Regardless I still don't want to go! Even for Kulau... "
 
-    b ""
+    b "Jak już to przynajmniej postarał się, żebym to {i}przemyślał.{/i} \ Ale i tak nie mam zamiaru tam iść! Nawet dla Kulau... "
 
 
 
@@ -2972,7 +2974,7 @@ translate polish s15_02_dont_go_02_lpd_high_65b13e50:
 
     # avt "\"But... you still can't do that.\" "
 
-    avt ""
+    avt "\"Ale... nadal nie potrafisz tego zrobić.\" "
 
 
 
@@ -2984,7 +2986,7 @@ translate polish s15_02_dont_go_02_lpd_high_d19f2f79_4:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -2996,7 +2998,7 @@ translate polish s15_02_dont_go_02_lpd_high_a1d2e3b5:
 
     # avt "\"You shouldn't do things like this... Where are we exactly? I guess this could be a cave in Taipei...\" "
 
-    avt ""
+    avt "\"Nie powinieneś robić takich rzeczy... Gdzie my w sumie jesteśmy? Zgaduję, że w jakiejś jaskinii niedaleko Taipei...\" "
 
 
 
@@ -3008,7 +3010,7 @@ translate polish s15_02_dont_go_02_lpd_high_266c27c9:
 
     # avt "\"Please, just take me back home. We {i}need{/i} \ to fix Tiger's statue as soon as possible.\" "
 
-    avt ""
+    avt "\"Proszę, zabierz mnie do domu. {i}Musimy{/i} \ jak najszybciej naprawić posążek Tygrysa.\" "
 
 
 
@@ -3020,7 +3022,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_5:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -3032,7 +3034,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_6:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -3044,7 +3046,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_7:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -3060,7 +3062,7 @@ translate polish s15_02_dont_go_02_lpd_high_6143cbb3:
 
     voice voice_file.lpd(15,44)
 
-    lpd obsessed "" with flash
+    lpd obsessed "\"Nie.\" " with flash
 
 
 
@@ -3072,7 +3074,7 @@ translate polish s15_02_dont_go_02_lpd_high_db6271a0:
 
     # avt "\"No?\" "
 
-    avt ""
+    avt "\"Nie?\" "
 
 
 
@@ -3088,7 +3090,7 @@ translate polish s15_02_dont_go_02_lpd_high_120ca8d1:
 
     voice voice_file.lpd(15,45)
 
-    lpd normal ""
+    lpd normal "\"Liao pójdzie do Wutai. Musi.\" "
 
 
 
@@ -3100,7 +3102,7 @@ translate polish s15_02_dont_go_02_lpd_high_61ea935f:
 
     # avt "\"But...\" "
 
-    avt ""
+    avt "\"Ale...\" "
 
 
 
@@ -3116,7 +3118,7 @@ translate polish s15_02_dont_go_02_lpd_high_48399d1d:
 
     voice voice_file.lpd(15,46)
 
-    lpd normal ""
+    lpd normal "\"Poczekam na Liao. Aż Liao powie tak.\" "
 
 
 
@@ -3128,7 +3130,7 @@ translate polish s15_02_dont_go_02_lpd_high_d4ff8af2:
 
     # avt "\"...Wait here?\" "
 
-    avt ""
+    avt "\"...Poczekasz tutaj?\" "
 
 
 
@@ -3140,7 +3142,7 @@ translate polish s15_02_dont_go_02_lpd_high_1c1d4e55_2:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -3152,7 +3154,7 @@ translate polish s15_02_dont_go_02_lpd_high_08006af9:
 
     # b "He nods. "
 
-    b ""
+    b "Kiwa głową. "
 
 
 
@@ -3164,7 +3166,7 @@ translate polish s15_02_dont_go_02_lpd_high_ba75100f:
 
     # avt "\"You're kidnapping me?! Imprisoning me until I agree to your demands?! That's a \ncrime!\" "
 
-    avt ""
+    avt "\"Porywasz mnie? Będziesz mnie więził, dopóki się nie zgodzę na twoj żądania?! To jest przestępstwo!\" "
 
 
 
@@ -3176,7 +3178,7 @@ translate polish s15_02_dont_go_02_lpd_high_1553364e:
 
     # lpd obsessed "\"...?\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"...?\" "
 
 
 
@@ -3188,7 +3190,7 @@ translate polish s15_02_dont_go_02_lpd_high_95cf6354:
 
     # avt "\"You don't know what I'm talking about, I know.\" "
 
-    avt ""
+    avt "\"Nie masz zielonego pojęcia o czym mówię, wiem.\" "
 
 
 
@@ -3200,7 +3202,7 @@ translate polish s15_02_dont_go_02_lpd_high_2dc3a0b5:
 
     # avt "\"Even if you {i}force{/i} \ me to say yes, that doesn't change anything! I'll still be found! I'll still be taken home!\" "
 
-    avt ""
+    avt "\"Nawet jeżeli ty mnie {i}zmusisz{/i} \ żebym się zgodził, to i tak niczego nie zmieni! Nadal mnie znajdą! Nadal mnie zabiorą do domu!\" "
 
 
 
@@ -3216,7 +3218,7 @@ translate polish s15_02_dont_go_02_lpd_high_32cb3022:
 
     voice voice_file.lpd(15,47)
 
-    lpd normal ""
+    lpd normal "\"Ukryhę Liao.\" "
 
 
 
@@ -3232,7 +3234,7 @@ translate polish s15_02_dont_go_02_lpd_high_277ca6bd:
 
     voice voice_file.lpd(15,48)
 
-    lpd normal ""
+    lpd normal "\"Bez internetu.\" "
 
 
 
@@ -3248,7 +3250,7 @@ translate polish s15_02_dont_go_02_lpd_high_97e9081c:
 
     voice voice_file.lpd(15,49)
 
-    lpd normal ""
+    lpd normal "\"Nikt nie będzie wiedział.\" "
 
 
 
@@ -3260,7 +3262,7 @@ translate polish s15_02_dont_go_02_lpd_high_08c10ea5:
 
     # avt "\"...Not even the people of your tribe?\" "
 
-    avt ""
+    avt "\"...Nawet członkowie twojego plemienia?\" "
 
 
 
@@ -3276,7 +3278,7 @@ translate polish s15_02_dont_go_02_lpd_high_df36f0b3:
 
     voice voice_file.lpd(15,50)
 
-    lpd normal ""
+    lpd normal "\"Znalazłem Liao. Nowa wyrocznia. Nie Han. Nie będą wiedzieć.\" "
 
 
 
@@ -3288,7 +3290,7 @@ translate polish s15_02_dont_go_02_lpd_high_9ab18f8b:
 
     # avt "\"They won't believe that!\" "
 
-    avt ""
+    avt "\"Oni w to nie uwierzą!\" "
 
 
 
@@ -3300,7 +3302,7 @@ translate polish s15_02_dont_go_02_lpd_high_3b5e46f7_8:
 
     # lpd obsessed "\"......\" "
 
-    lpd obsessed ""
+    lpd obsessed "\"......\" "
 
 
 
@@ -3316,7 +3318,7 @@ translate polish s15_02_dont_go_02_lpd_high_50648d15:
 
     voice voice_file.lpd(15,51)
 
-    lpd obsessed ""
+    lpd obsessed "\"Musi być Liao.\" "
 
 
 
@@ -3332,7 +3334,7 @@ translate polish s15_02_dont_go_02_lpd_high_da64f616:
 
     voice voice_file.lpd(15,52)
 
-    lpd obsessed ""
+    lpd obsessed "\"Tajfun nadchodzi.\" "
 
 
 
@@ -3344,7 +3346,7 @@ translate polish s15_02_dont_go_02_lpd_high_6a9a21a0:
 
     # avt "\"...Even if you say so.\" "
 
-    avt ""
+    avt "\"...Nawet jeżeli tak mówisz.\" "
 
 
 
@@ -3356,7 +3358,7 @@ translate polish s15_02_dont_go_02_lpd_high_9232e597:
 
     # avt "\"I... I still have to go back and work out a better plan. This isn't going to work.\" "
 
-    avt ""
+    avt "Ja... Nadal muszę wrócić i wymyślić lepszy plan, bo ten się po prostu nie uda.\" "
 
 
 
@@ -3372,7 +3374,7 @@ translate polish s15_02_dont_go_02_lpd_high_8e34f0f6:
 
     voice voice_file.lpd(15,53)
 
-    lpd normal ""
+    lpd normal "\"Nie.\" "
 
 
 
@@ -3384,7 +3386,7 @@ translate polish s15_02_dont_go_02_lpd_high_2166e7b1_4:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -3396,7 +3398,7 @@ translate polish s15_02_dont_go_02_lpd_high_94a03c36:
 
     # b "Arrrgh— He's too stubborn, this conversation isn't going to go anywhere. "
 
-    b ""
+    b "Arrrgh- Jest taki uparty, ta rozmowa prowadzi donikąd. "
 
 
 
@@ -3410,7 +3412,9 @@ translate polish s15_02_dont_go_02_lpd_high_fd7738bd:
 
     # b "I don't even know where I am now. What I'm already close to Wutai? Leopard would probably bring people from his tribe over to meet me... which would make things difficult. "
 
-    b ""
+    b "Co tu robić... udawać, że się zgadzam? Wtedy po prostu mnie zabierze do Wutai. "
+
+    b "Nie wiem nawet gdzie teraz jestem. A co, jeżeli już jestem w pobliżu Wutai? Lampart by mógł po prostu sprowadzić członków plemienia by mnie znaleźli... co jeszcze bardziej pogarsza sytuację. "
 
 
 
@@ -3422,7 +3426,7 @@ translate polish s15_02_dont_go_02_lpd_high_80cc3106:
 
     # b "Maybe they'd take my side and help me get back home? But they have no reason to believe me. I just don't know what's going to happen... "
 
-    b ""
+    b "Może wezmą moją stronę i pomogą wrócić do domu? Chociaż też nie mają żadnych podstaw by mi uwierzyć. Nie wiem, co się może stać... "
 
 
 
@@ -3434,7 +3438,7 @@ translate polish s15_02_dont_go_02_lpd_high_d7702c2a:
 
     # b "I {i}need{/i} \ to try harder to convince Kulau! I can't give in until I have nowhere left to go. "
 
-    b ""
+    b "{i}Muszę{/i} \ się bardziej postarać i przekonać Kulau! Nie mogę się poddać, dopóki jest jakaś inna opcja. "
 
 
 
@@ -3446,7 +3450,7 @@ translate polish s15_02_dont_go_02_lpd_high_c5db0f6a:
 
     # b "First, I need to give him some time to calm down... "
 
-    b ""
+    b "Na początek muszę mu dać trochę czasu, żeby się uspokoił... "
 
 
 
@@ -3458,7 +3462,7 @@ translate polish s15_02_dont_go_02_lpd_high_20297f27:
 
     # avt "\"Kulau, can... can I have some time to think about it?\" "
 
-    avt ""
+    avt "\"Kulau, czy... czy mogę mieć trochę czasu, by się nad tym namyślić?\" "
 
 
 
@@ -3470,7 +3474,7 @@ translate polish s15_02_dont_go_02_lpd_high_4a713e77:
 
     # lpd happy "\"......\" "
 
-    lpd happy ""
+    lpd happy "\"......\" "
 
 
 
@@ -3486,7 +3490,7 @@ translate polish s15_02_dont_go_02_lpd_high_8c001a16:
 
     voice voice_file.lpd(15,54)
 
-    lpd happy ""
+    lpd happy "\"Liao się nie śpieszy.\" "
 
 
 
@@ -3502,7 +3506,7 @@ translate polish s15_02_dont_go_02_lpd_high_4cf7802b:
 
     voice voice_file.lpd(15,55)
 
-    lpd happy ""
+    lpd happy "\"Znajdę jedzenie dla Liao.\" "
 
 
 
@@ -3514,7 +3518,7 @@ translate polish s15_02_dont_go_02_lpd_high_16578b5f:
 
     # b "Leopard leaves me alone in the cave... What kind of food could he find? Just thinking about it worries me. "
 
-    b ""
+    b "Lampart zostawił mnie samego w jaskinii... Jakie jedzenie może mi znaleźć? Martwię się już myśląc o tym. "
 
 
 
@@ -3526,7 +3530,7 @@ translate polish s15_02_dont_go_02_lpd_high_125414c1:
 
     # b "Alright! Fasting for one day is nothing. I'll hold out, no problem. "
 
-    b ""
+    b "Dobra! Poszczenie przez jeden dzień to nic wielkiego. Wytrzymam bez problemu. "
 
 
 
