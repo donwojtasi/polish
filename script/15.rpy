@@ -3542,7 +3542,7 @@ translate polish s15_02_dont_go_02_lpd_high_d9c9127b:
 
     # b "Soon enough the cave fills with the warm orange light of sunset which then fade away into the cool blue hues of night. He's been gone a while... "
 
-    b ""
+    b "Niedługo potem jaskinia wypełnia się ciepłym pomarańczowym światłem zachodzącego słońca, które następnie przeszło w chłodne odcienie nocy. Nie ma go już dłuższą chwilę... "
 
 
 
@@ -3554,7 +3554,7 @@ translate polish s15_02_dont_go_02_lpd_high_a908971c:
 
     # b "As if on cue Leopard returns with some food. Exceeding my expectations there isn't any raw meat but instead a bevy of peaches and plums. "
 
-    b ""
+    b "Tak jakby na wezwanie Lampart wraca z jedzeniem. Zaskoczył mnie gdy zamiast surowego mięsa przyniósł sporą garść brzoskwiń i śliwek. "
 
 
 
@@ -3566,7 +3566,7 @@ translate polish s15_02_dont_go_02_lpd_high_4e1cc8de:
 
     # b "Politely I accept the food he brings to me. The plums are juicy, a sweet taste fills into my mouth as I bite into them. However the peaches are green and unripe, bitter and borderline inedible. "
 
-    b ""
+    b "Grzecznie przyjąłem jedzenie, które mi przyniósł. Wgryzam się w śliwki, które okazują się soczyste i wypełniają moje usta słodkim smakiem. Brzoskwinie natomiast okazały się być zielone i niedojrzałe, gorzkie i praktycznie niejadalne. "
 
 
 
@@ -3578,7 +3578,7 @@ translate polish s15_02_dont_go_02_lpd_high_2ed40e06:
 
     # b "The peaches were wrapped in insect-proof netting... probably taken straight from a fruit farm... "
 
-    b ""
+    b "Brzoskwinie są jeszcze owinięte w osłonkę przed owadami... pewnie zabrane prosto z plantacji... "
 
 
 
@@ -3590,7 +3590,7 @@ translate polish s15_02_dont_go_02_lpd_high_7043c0c1:
 
     # b "If he had to steal them he could've at least picked ripe ones... "
 
-    b ""
+    b "Jeżeli już je kradł, to mógł chociaż zebrać te dojrzałe... "
 
 
 
@@ -3604,7 +3604,9 @@ translate polish s15_02_dont_go_02_lpd_high_ccfa06e2:
 
     # b "I sit at the entrance to the cave and eat the rest of the plums. Looking out at the moonlit forest I'm trapped in. "
 
-    b ""
+    b "Ale biorąc pod uwagę moją sytuację, to nie mogę narzekać. "
+
+    b "Siedzę przy wejściu do jaskinii i dojadam resztę śliwek. Spoglądam nam spowity w świetle księżyca las, w którym jestem uwięziony. "
 
 
 
@@ -3618,7 +3620,9 @@ translate polish s15_02_dont_go_02_lpd_high_cef6a4ae:
 
     # b "Maybe it's the trees or the weather but I don't think I'm in Wutai. Nevertheless, I still have no idea where I am. "
 
-    b ""
+    b "Nie znając się na terenach górskich mogę tylko zgadywać na podstawie mojego {i}przeczucia{/i} \ , że nie jesteśmy na południu. "
+
+    b "Może to przez drzewa albo pogodę, ale nie sądzę, żebyśmy byli w Wutai. Ale mimo to nadal nie mam zielonego pojęcia, gdzie jestem. "
 
 
 
@@ -3630,7 +3634,7 @@ translate polish s15_02_dont_go_02_lpd_high_1da311d5:
 
     # b "The moonlight barely shines through the branches on this cold night. Leopard hunches, sitting on a large rock outside the cave. His eyes watching me carefully, as if not knowing what to do. "
 
-    b ""
+    b "Tej zimnej nocy światło księżyca ledwo się przebija przez gałęzie. Lampart przykucnął na sporej skale na zewnątrz jaskini. Jego oczy wpatrzone uważnie we mnie, jakby nie wiedział, co robić.  "
 
 
 
@@ -3642,7 +3646,7 @@ translate polish s15_02_dont_go_02_lpd_high_74c77cfe:
 
     # b "I guess he wants to convince me but doesn't know where to start. I don't have much to say for myself. So we're just here, sitting under the moon. "
 
-    b ""
+    b "Zgaduję, że chce mnie przekonać, ale nie wie, od czego zacząć. A ja też nie wiem, co mogę powiedzieć. Więc sobie tutaj siedzimy pod księżycem. "
 
 
 
@@ -3656,7 +3660,9 @@ translate polish s15_02_dont_go_02_lpd_high_3db85892:
 
     # b "Earlier I resorted to using a stone to play noughts and crosses on the ground, but I had to quit after dusk. "
 
-    b ""
+    b "Nudno tu. Godziny ciągną się w nieskończoność gdy nie masz nic do roboty... "
+
+    b "Wcześniej grałem sobie w kółko i krzyżyk na ziemi z pomoca kamienia, ale musiałem zrezygnować gdy zapadł zmierzch. "
 
 
 
@@ -3668,7 +3674,7 @@ translate polish s15_02_dont_go_02_lpd_high_24bbf3ae:
 
     # b "There's nothing to do. "
 
-    b ""
+    b "Nie ma co robić. "
 
 
 
@@ -3680,7 +3686,7 @@ translate polish s15_02_dont_go_02_lpd_high_0aae6f1a:
 
     # b "And it's just getting colder and colder. "
 
-    b ""
+    b "I robi się coraz zimniej. "
 
 
 
@@ -3696,7 +3702,11 @@ translate polish s15_02_dont_go_02_lpd_high_7ec9d95b:
 
     # b "My arms are wrapped around my legs as I feel the cold begin to bite through my clothing. I don't even have a jacket. "
 
-    b ""
+    b "Kiedy ciepło dnia wyparowuje, zimno nocy spowija wszystko dookoła. "
+
+    b "Wycofuję się w najdalszy kąt jaskinii przez wpadający z zewnątrz wiatr. "
+
+    b "Obejmuje swoje kolana ramionami gdy zimno zaczyna się przebijać przez moje ubrania. Nie mam nawet kurtki. "
 
 
 
@@ -3712,7 +3722,7 @@ translate polish s15_02_dont_go_02_lpd_high_773e2d94:
 
     voice voice_file.lpd(15,56)
 
-    lpd obsessed ""
+    lpd obsessed "\"Liao, bardzo zimno?\" "
 
 
 
@@ -3724,7 +3734,7 @@ translate polish s15_02_dont_go_02_lpd_high_2dd7fb8d:
 
     # avt "\"...Mm-hmm.\" "
 
-    avt ""
+    avt "\"...Mm-hmm.\" "
 
 
 
@@ -3736,7 +3746,7 @@ translate polish s15_02_dont_go_02_lpd_high_79047214:
 
     # b "Leopard approaches but soon stops. What did he want to do? Why did he stop? "
 
-    b ""
+    b "Lampart podchodzi, ale zaraz się zatrzymuje. Co on planuje? Czemu się zatrzymał? "
 
 
 
@@ -3748,7 +3758,7 @@ translate polish s15_02_dont_go_02_lpd_high_87af745d:
 
     # b "It's so cold I can't think. "
 
-    b ""
+    b "Jest tak zimno, że nie mogę myśleć. "
 
 
 
@@ -3764,7 +3774,7 @@ translate polish s15_02_dont_go_02_lpd_high_c92ad286:
 
     voice voice_file.lpd(15,57)
 
-    lpd normal ""
+    lpd normal "\"...Liado czeka na mnie.\" "
 
 
 
@@ -3776,7 +3786,7 @@ translate polish s15_02_dont_go_02_lpd_high_ad8e5383:
 
     # b "Leopard makes a move to leave but suddenly stops and turns to me. "
 
-    b ""
+    b " Lampart przygotowuje się do odejścia, ale nagle się zatrzymuje i odwraca się do mnie. "
 
 
 
@@ -3792,7 +3802,7 @@ translate polish s15_02_dont_go_02_lpd_high_616516a8:
 
     voice voice_file.lpd(15,58)
 
-    lpd normal ""
+    lpd normal "\"Nie ucieka.\" "
 
 
 
@@ -3804,7 +3814,7 @@ translate polish s15_02_dont_go_02_lpd_high_4c5af16e:
 
     # b "Leopard disappears once more into the shadows of the night. "
 
-    b ""
+    b "Lampart ponownie rozpływa się w ciemnościach nocy. "
 
 
 
@@ -3818,7 +3828,9 @@ translate polish s15_02_dont_go_02_lpd_high_1eca9d3f:
 
     # b "I could have even done so earlier when he went to look for food. "
 
-    b ""
+    b "Nigdy bym nawet o tym nie pomyślał, gdyby o tym nie wspomniał, ale czy nie jest to świetna okazja do ucieczki? "
+
+    b "Mogłem już tego spróbować wcześniej, gdy poszedł poszukać dla mnie jedzenia. "
 
 
 
@@ -3830,7 +3842,7 @@ translate polish s15_02_dont_go_02_lpd_high_bf36b482:
 
     # b "It'd be too dangerous to adventure through some unknown mountain range without lights or climbing gear... (My phone's torch might not last that long either...) "
 
-    b ""
+    b "Wędrówka przez nieznany łańcuch górski może się okazać niebezpieczna bez światła lub zestawu wspinaczkowego... (Latarka w moim telefonie raczej nie wytrzyma zbyt długo...) "
 
 
 
@@ -3842,7 +3854,7 @@ translate polish s15_02_dont_go_02_runaway_2a0b0ea0:
 
     # b "This might be my last chance. I {i}have{/i} \ to risk this. I exit the cave and begin to run down the mountain in the dark. "
 
-    b ""
+    b "To może być moja ostatnia szansa. {i}Muszę{/i} \ zaryzykować. Wychodzę z jaskinii i zaczynam zbiegać z góry w ciemnościach. "
 
 
 
@@ -3854,7 +3866,7 @@ translate polish s15_02_dont_go_02_runaway_57c68282:
 
     # avt "\"Ow! Crap!\" " with flash_red
 
-    avt "" with flash_red
+    avt "\"O cholera!\" " with flash_red
 
 
 
@@ -3866,7 +3878,7 @@ translate polish s15_02_dont_go_02_runaway_ab168d0c:
 
     # b "I was trying to be cautious but I still managed to impale my foot on a sharp branch sticking out of the ground, the point wedged all the way through my sock into my \nfoot. "
 
-    b ""
+    b "Starałem się być ostrożny, ale nadal nadziałem swoją stopę na jakąś ostrą gałąź, która wystawała z ziemii. Ostra krawędź przebiła się przez skarpetkę prosto w moją stopę. "
 
 
 
@@ -3878,7 +3890,7 @@ translate polish s15_02_dont_go_02_runaway_b0c055e1:
 
     # avt "\"Ngh...\" "
 
-    avt ""
+    avt "\"Ngh...\" "
 
 
 
@@ -3890,7 +3902,7 @@ translate polish s15_02_dont_go_02_runaway_94f8317d:
 
     # b "I pull out the branch and check the my foot under the torch of my phone. Red seeps through my dirt clogged socks. I'm bleeding. "
 
-    b ""
+    b "Wyciągam gałąź i sprawdzam stopę w świetle latarki telefonu. Czerwień przecieka przez zabrudzoną skarpetkę. Krwawię. "
 
 
 
@@ -3902,7 +3914,7 @@ translate polish s15_02_dont_go_02_runaway_75e22faa:
 
     # b "I have no choice but to keep on going. "
 
-    b ""
+    b "Nie mam wyboru jak tylko iść dalej. "
 
 
 
@@ -3914,7 +3926,7 @@ translate polish s15_02_dont_go_02_runaway_5b80d80e:
 
     # b "After all, I lost my sense of direction long ago. "
 
-    b ""
+    b "Koniec końców już od dawna nie wiem, w którym kierunku iść. "
 
 
 
@@ -3928,7 +3940,9 @@ translate polish s15_02_dont_go_02_runaway_e2aed9ee:
 
     # b "I figured I could make my way under the bright moonlight but that was far from enough in these overgrown winding mountain tracks. "
 
-    b ""
+    b "{i}Naprawdę{/i} \ nie doceniłem gór nocą."
+
+    b "Myślałem, by odnaleźć ścieżkę w świetle księżyca, ale nie ma go zbyt wiele na tych zarośniętych krętych górskich ścieżkach. "
 
 
 
@@ -3942,8 +3956,9 @@ translate polish s15_02_dont_go_02_runaway_59082d05:
 
     # b "Sharp gravel assaults my feet and slippery moss takes what little energy I have to keep upright. I walk through the pain knowing that I couldn't make my way back even if I wanted to. "
 
-    b ""
+    b "Nawet z pomocą latarki telefonu nie jestem w stanie się odnaleźć. "
 
+    b "Ostry żwir wbija się w moje stopy, zaś śliski mech wyciska ze mnie ostatki sił, by utrzymać się na nogach. Idę dalej w bólu wiedząc, że nie dam rady wrócić, nawet gdybym chciał. "
 
 
 # game/script/15.rpy:1007
@@ -3954,7 +3969,7 @@ translate polish s15_02_dont_go_02_runaway_44df87c2:
 
     # b "I don't know where to go, I just know I have to go down. "
 
-    b ""
+    b "Nie wiem gdzie iść, po prostu chcę wrócić do domu. "
 
 
 
@@ -3966,7 +3981,7 @@ translate polish s15_02_dont_go_02_runaway_df70a1cd:
 
     # b "Getting stuck on this mountain is the last thing I want. But can I really make it out of here? I don't even know where I am... "
 
-    b ""
+    b "Utknięcie na tej górze to ostatnie, czego chcę. Ale czy naprawdę dam radę się stąd wydostać? Przecież nie wiem nawet gdzie jestem... "
 
 
 
@@ -3978,7 +3993,7 @@ translate polish s15_02_dont_go_02_runaway_4b76ad6d:
 
     # b "What if I get stuck in a landslide? "
 
-    b ""
+    b "A co jeżeli utknę w osuwisku? "
 
 
 
@@ -3990,7 +4005,7 @@ translate polish s15_02_dont_go_02_runaway_6288e3b2:
 
     # b "No one knows I'm here. Even if my classmates call the police tomorrow, no one will come here to search for me... "
 
-    b ""
+    b "Nikt nie wie, że tu jestem. Nawet jeżeli jutro moi koledzy z klasy poinformują policję, nikt nie przyjdzie tutaj by mnie szukać..."
 
 
 
@@ -4002,7 +4017,7 @@ translate polish s15_02_dont_go_02_runaway_2472d3b4:
 
     # b "Leopard is my only hope. Can he find me? But if he finds me, my escape will be a \nfailure... "
 
-    b ""
+    b "Lampart jest moją jedyną nadzieją. Czy da radę mnie znaleźć? Chociaż jeżeli mnie znajdzie, to moja ucieczka okaże się porażką... "
 
 
 
@@ -4014,7 +4029,7 @@ translate polish s15_02_dont_go_02_runaway_b4a5469e:
 
     # b "Failing doesn't seem to matter now. Failing is better than dying here on the side of some mountain... "
 
-    b ""
+    b "Porażka nie jest aż taka ważna teraz, skoro mam do wyboru albo przegrać, albo umrzeć na zboczu jakiejś góry..."
 
 
 
@@ -4026,7 +4041,7 @@ translate polish s15_02_dont_go_02_runaway_af730ac0:
 
     # b "I step on a bush of sweet potato leaves but I suddenly realise there's no soil to stop the fall of my step. " with flash
 
-    b "" with flash
+    b "Nadeptuję na liście batatów, ale nagle wtedy orientuję się, że nie ma pod nimi żadnej ziemii by zatrzymać mój krok. " with flash
 
 
 
@@ -4038,7 +4053,7 @@ translate polish s15_02_dont_go_02_runaway_beb7e3ba:
 
     # avt "\"Aaaaaaaaaa!\" " with vshake
 
-    avt "" with vshake
+    avt "\"Aaaaaaaaaa!\" " with vshake
 
 
 
@@ -4050,7 +4065,7 @@ translate polish s15_02_dont_go_02_runaway_14c03e87:
 
     # b "I trip foward, tumbling and waving my hands, trying desperately to grab hold of something, anything. But all I succeed at is dropping my phone. "
 
-    b ""
+    b "Przewracam się i lecę w dół, machając rękami, desperacko starając się złapać czegokolwiek. Ale jedyne, co osiągnąłem, to to, że zgubiłem swój telefon. "
 
 
 
@@ -4062,7 +4077,7 @@ translate polish s15_02_dont_go_02_runaway_db3e0887:
 
     # b "...... "
 
-    b ""
+    b "...... "
 
 
 
@@ -4074,7 +4089,7 @@ translate polish s15_02_dont_go_02_runaway_9a9337d1:
 
     # b "When I open my eyes, I find myself lying at the bottom of a cliff. "
 
-    b ""
+    b "Kiedy otwieram swoje oczy widzę, że leżę u podstawy klifu. "
 
 
 
@@ -4088,8 +4103,9 @@ translate polish s15_02_dont_go_02_runaway_26bee2da:
 
     # b "I can't see much but there I feel a sharp pain and my skin is wet to the touch. I'm probably bleeding. "
 
-    b ""
+    b "Nie jest to zbyt głęboko, od trzech do czterech metrów góra. Oglądam swoje ciało. Mam skręconą stopę, a od staczania się ze wzgórza mam strasznie posiniaczone ręce i nogi. "
 
+    b "NIe widzę za wiele, ale czuję ostry ból i moja skóra jest mokra w dotyku. Prawdopodobnie krwawię. "
 
 
 # game/script/15.rpy:1050
@@ -4100,7 +4116,7 @@ translate polish s15_02_dont_go_02_runaway_d15f3fc5:
 
     # b "Looking up, I see the light from my phone. There's no way I can reach it. "
 
-    b ""
+    b "Patrząc do góry widzę światło mojego telefonu, ale nie dam rady go dosięgnąć. "
 
 
 
@@ -4114,7 +4130,9 @@ translate polish s15_02_dont_go_02_runaway_a9083c47:
 
     # b "There's no way I can walk. Even if I tried to crawl away, my hands would not take me \nfar. "
 
-    b ""
+    b "Zwichnięta stopa boli przy dotyku. Kiedy staram się podnieść, to jedyne co osiągam to krzyk bólu, gdy ponownie padam na ziemię. "
+
+    b "Nie dam rady iść. Nawet jeżeli spróbuję się czołgać, to ręce na długo nie wytrzymają. "
 
 
 
@@ -4126,7 +4144,7 @@ translate polish s15_02_dont_go_02_runaway_dca3c344:
 
     # b "As I lie there the frigid mountain wind begins to gnaw at my remaining body heat. "
 
-    b ""
+    b "Leżąc tak, poczułem, jak lodowaty górski wiatr zaczyna wysysać resztki ciepła z mojego ciała. "
 
 
 
@@ -4138,7 +4156,7 @@ translate polish s15_02_dont_go_02_runaway_b6ce207a:
 
     # b "Struggling, I prop myself up against the cliff, trying to put as little of my body into the wind as possible. "
 
-    b ""
+    b "Z wysiłkiem wtulam się w ścianę klifu, starając się jak najbardziej osłonić od wiatru jak to możliwe. "
 
 
 
@@ -4150,7 +4168,7 @@ translate polish s15_02_dont_go_02_runaway_ea1f690f:
 
     # b "My efforts are in vain. No matter what I do there's nothing I can put between me and the wind. "
 
-    b ""
+    b "Ale moje wysiłki na nic się zdają. Nieważne co zrobię, nic nie stoi pomiędzy mną a zimnem. "
 
 
 
@@ -4162,7 +4180,7 @@ translate polish s15_02_dont_go_02_runaway_d12b8816:
 
     # b "I didn't feel cold when I was running, but now I can barely move. My body bruised and bloody against a cold rock wall. "
 
-    b ""
+    b "Nie czułem zimna, kiedy biegłem, ale teraz ledwo mogę się poruszać. Moje zakrwawione i posiniaczone ciała oparte o zimną kamienistą ścianę. "
 
 
 
@@ -4174,7 +4192,7 @@ translate polish s15_02_dont_go_02_runaway_dc4ebb70:
 
     # b "Leopard left to find a way to keep me warm... "
 
-    b ""
+    b "Lampart odszedł by znaleźć coś, by mnie ogrzać... "
 
 
 
@@ -4186,7 +4204,7 @@ translate polish s15_02_dont_go_02_runaway_a12016d8:
 
     # b "Now there's noting I can do against the cold. "
 
-    b ""
+    b "A teraz nie mam niczego przeciwko zimnu. "
 
 
 
@@ -4198,7 +4216,7 @@ translate polish s15_02_dont_go_02_runaway_7940e152:
 
     # b "My whole body aches." with flash_red
 
-    b "" with flash_red
+    b "Całe moje ciało mnie boli. " with flash_red
 
 
 
@@ -4210,7 +4228,7 @@ translate polish s15_02_dont_go_02_runaway_785ff7bc:
 
     # b "Am I... going to die here? "
 
-    b ""
+    b "Czy ja... tutaj umrę? "
 
 
 
@@ -4224,7 +4242,9 @@ translate polish s15_02_dont_go_02_runaway_0e3aa1fb:
 
     # b "It feels like the shadows of the forest are watching me. Am I seeing things? Maybe it's a wild beast... maybe a yaoguai? "
 
-    b ""
+    b "Kulę się w sobie. Mysli zwalniają, gdy hipotermia zaczyna mnie dopadać. "
+
+    b "Mam wrażenie jakby cienie w lesie mnie obserwowały. Czy mam już zwidy? Czy to jakaś dzika bestia... czy może yaoguai? "
 
 
 
@@ -4236,7 +4256,7 @@ translate polish s15_02_dont_go_02_runaway_824760c6:
 
     # b "I... I'm not scared. I'm too cold to be scared. "
 
-    b ""
+    b "Ja... się nie boję. Jest zbyt zimno, by się bać. "
 
 
 
@@ -4248,7 +4268,7 @@ translate polish s15_02_dont_go_02_runaway_4708f1ee:
 
     # b "I guess this is it... "
 
-    b ""
+    b "Czyli to jest to..."
 
 
 
@@ -4260,7 +4280,7 @@ translate polish s15_02_dont_go_02_runaway_09605b3d:
 
     # b "This is where it all ends... "
 
-    b ""
+    b "To tutaj wszystko się kończy... "
 
 
 
@@ -4272,7 +4292,7 @@ translate polish s15_02_dont_go_02_runaway_3d0726d9:
 
     # b "Why... {w=0.5}Why did I have to be so stupid... "
 
-    b ""
+    b "Dlaczego... {w=0.5}Dlaczego byłem takim idiotą... "
 
 
 
@@ -4284,7 +4304,7 @@ translate polish s15_02_dont_go_02_runaway_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -4296,7 +4316,7 @@ translate polish s15_02_dont_go_02_runaway_7b6349e7:
 
     # avt "\"Ngh... huh...\" "
 
-    avt ""
+    avt "\"Ngh... huh...\" "
 
 
 
@@ -4308,7 +4328,7 @@ translate polish s15_02_dont_go_02_runaway_1893f06b:
 
     # b "I don't notice at first but Leopard's in front of me."
 
-    b ""
+    b "Na początku nie zwróciłem uwagi, ale Lampart stoi naprzeciwko mnie. "
 
 
 
@@ -4320,7 +4340,7 @@ translate polish s15_02_dont_go_02_runaway_bc278ba1:
 
     # b "He picks me up, draping some clothes over my body."
 
-    b ""
+    b "Podnosi mnie i owija moje ciało w ubrania. "
 
 
 
@@ -4332,7 +4352,7 @@ translate polish s15_02_dont_go_02_runaway_3b8ad7bc:
 
     # b "As far as I can tell it's my jacket from back home. "
 
-    b ""
+    b "Mam wrażenie, że to moja kurtka z domu. "
 
 
 
@@ -4348,7 +4368,7 @@ translate polish s15_02_dont_go_02_runaway_b6fa3263:
 
     voice voice_file.lpd(15,59)
 
-    lpd disappointed ""
+    lpd disappointed "\"Liao niemądry.\" "
 
 
 
@@ -4360,7 +4380,7 @@ translate polish s15_02_dont_go_02_runaway_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -4372,7 +4392,7 @@ translate polish s15_02_dont_go_02_runaway_5c868c96:
 
     # b "I don't have the strength to respond. "
 
-    b ""
+    b "Nie mam sił mu odpowiedzieć. "
 
 
 
@@ -4388,7 +4408,7 @@ translate polish s15_02_dont_go_02_runaway_cb5c5e27:
 
     voice voice_file.lpd(15,60)
 
-    lpd disappointed ""
+    lpd disappointed "Liao niemądry. Chciał odejść.\" "
 
 
 
@@ -4400,7 +4420,7 @@ translate polish s15_02_dont_go_02_runaway_c044341f:
 
     # avt "\"...?\" "
 
-    avt ""
+    avt "\"...?\" "
 
 
 
@@ -4416,7 +4436,7 @@ translate polish s15_02_dont_go_02_runaway_ab0a8201:
 
     voice voice_file.lpd(15,61)
 
-    lpd normal ""
+    lpd normal "\"Iść do domu.\" "
 
 
 
@@ -4432,7 +4452,7 @@ translate polish s15_02_dont_go_02_runaway_6ce27bb5:
 
     voice voice_file.lpd(15,62)
 
-    lpd normal ""
+    lpd normal "\"Chodźmy do domu.\" "
 
 
 
@@ -4444,7 +4464,7 @@ translate polish s15_02_dont_go_02_runaway_d35ac203:
 
     # b "I feel Leopard jump with me in his arms. "
 
-    b ""
+    b "Czuję jak Lampart skacze ze mną w ramionach. "
 
 
 
@@ -4458,7 +4478,9 @@ translate polish s15_02_dont_go_02_runaway_d798a1b3:
 
     # b "All I can see is the moonlight against the dark shadows of trees.  "
 
-    b ""
+    b "Czuję, jak szybko się poruszamy, ale nie odczuwam żadnych wybojów. "
+
+    b "Wszystko co widzę, to światło księżyca między cieniami drzew w lesie. "
 
 
 
@@ -4470,7 +4492,7 @@ translate polish s15_02_dont_go_02_runaway_92bded34:
 
     # b "Go home. "
 
-    b ""
+    b "Idź do domu. "
 
 
 
@@ -4482,7 +4504,7 @@ translate polish s15_02_dont_go_02_runaway_16e4ce63:
 
     # b "I'm going home? I'm... {w=0.5}free? "
 
-    b ""
+    b "Wracam do domu? Jestem... {w=0.5}wolny? "
 
 
 
@@ -4494,7 +4516,7 @@ translate polish s15_02_dont_go_02_runaway_db3e0887_1:
 
     # b "...... "
 
-    b ""
+    b "...... "
 
 
 
@@ -4506,7 +4528,7 @@ translate polish s15_02_dont_go_02_runaway_c55847f5:
 
     # b "Soon enough I loose consciousness, cradled in Leopards arms. "
 
-    b ""
+    b "Wkrótce potem tracę przytomność, ukołysany w ramionach Lamparta. "
 
 
 
@@ -6694,7 +6716,7 @@ translate polish strings:
 
     old "要不要去找城隍？"
 
-    new ""
+    new "Czy powinniśmy szukać pomocy Miejskiego Boga?"
 
 
 
@@ -6702,7 +6724,7 @@ translate polish strings:
 
     old "去。"
 
-    new ""
+    new "Chodźmy, potrzebujemy ich pomocy. "
 
 
 
@@ -6710,7 +6732,7 @@ translate polish strings:
 
     old "是否原諒雲豹？"
 
-    new ""
+    new "\"Czy powinienem wybaczyć Lampartowi?\" "
 
 
 
@@ -6718,7 +6740,7 @@ translate polish strings:
 
     old "要去找城隍嗎？"
 
-    new ""
+    new "\"Powinniśmy ruszyć do Miejskiego Boga?\" "
 
 
 
@@ -6726,7 +6748,7 @@ translate polish strings:
 
     old "堅持不去。"
 
-    new ""
+    new "Nie, nie powinniśmy zawracać głowy innym bóstwom. "
 
 
 
@@ -6734,7 +6756,7 @@ translate polish strings:
 
     old "要不要趁機下山？"
 
-    new ""
+    new "\"Powinienem skorzystać z okazji by uciec z tej góry?\" "
 
 
 
@@ -6742,7 +6764,7 @@ translate polish strings:
 
     old "趁機逃跑。"
 
-    new ""
+    new "Muszę iść, to może być moja ostatnia szansa. "
 
 
 
@@ -6750,7 +6772,7 @@ translate polish strings:
 
     old "乖乖待著。"
 
-    new ""
+    new "Muszę tu zostać. Nocą jest zbyt niebezpiecznie. "
 
 
 
@@ -6758,7 +6780,7 @@ translate polish strings:
 
     old "要不要回去找雲豹？"
 
-    new ""
+    new "\"Czy powinienem wrócić do Lamparta i przedstawić mu swój plan?\" "
 
 
 
@@ -6766,7 +6788,7 @@ translate polish strings:
 
     old "回去"
 
-    new ""
+    new "Tak. Nieważne co się stało, chcę spróbować. "
 
 
 
@@ -6774,5 +6796,5 @@ translate polish strings:
 
     old "不回去"
 
-    new ""
+    new "Nie. Nie po tym wszystkim, co zrobił. "
 
