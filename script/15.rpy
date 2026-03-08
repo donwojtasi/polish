@@ -6000,7 +6000,7 @@ translate polish cg_lpd_cry_f475cbba:
 
     b "Wzdycham... Cóż, jak mus to mus. Jakoś dam radę. "
 
-    b "Stawiając kilka niepewnych kroków zaczynam się znowu wspinać po górze. "
+    b "Stawiając kilka niepewnych kroków zaczynam się znowu wspinać na górę. "
 
 
 
@@ -6060,7 +6060,7 @@ translate polish cg_lpd_cry_75344e4d:
 
     # b "Just looking at him... I feel his torment and his sorrow. "
 
-    b "Tylko patrząc na niego... czuję jego żal i udrękę. "
+    b "Patrząc na niego... czuję jego żal i udrękę. "
 
 
 
@@ -6256,7 +6256,7 @@ translate polish cg_lpd_cry_cadbfb25:
 
     # avt "\"So, umm... Like I said, I wanted some time— some time to think over other options.\" "
 
-    avt "\"Więc, emm... Jak już mówiłem, potrzebowałem trochę czasu- trochę czasy, by pomyśleć nad innymi rozwiązaniami.\" "
+    avt "\"Więc, emm... Jak już mówiłem, potrzebowałem trochę czasu- trochę czasu, by pomyśleć nad innymi rozwiązaniami.\" "
 
 
 
@@ -6354,9 +6354,9 @@ translate polish cg_lpd_cry_2f76ef99:
 
     # avt "\"Your predictions, they're serious. Even without being a real oracle, I think he might be able to convince his people.\" "
 
-    avt "\"Ale jest naprawdę miłą osobą. Myślę, że jest szansa. Nawet jeżeli pomyśli, że oszalałem, to mnie nie zignoruje całkowicie.\" "
+    avt "\"Ale jest naprawdę w porządku osobą. Myślę, że jest szansa. Nawet jeżeli pomyśli, że oszalałem, to mnie tak zupełnie nie zignoruje.\" "
 
-    avt "\"Twoje przewidywania są poważne. Myślę, że nawet nie będąc prawdziwą wyrocznią będzie w stanie przekonać swój lud.\" "
+    avt "\"Twoje przewidywania są poważne. Myślę, że nawet nie będąc prawdziwym prorokiem będzie w stanie przekonać swój lud.\" "
 
 
 
@@ -6728,7 +6728,7 @@ translate polish cg_lpd_cry_6a65bc9a:
 
     # b "But this time it's more like we're running away, {i}together{/i}. "
 
-    b "Ale tym razem czuję się bardziej tak, jakbyśmy uciekali daleko, ale {i}razem{/i}. "
+    b "Ale tym razem czuję się bardziej tak, jakbyśmy uciekali, ale {i}razem{/i}. "
 
 
 
