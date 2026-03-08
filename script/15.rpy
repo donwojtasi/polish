@@ -4542,7 +4542,9 @@ translate polish s15_02_dont_go_02_stay_2dc18db6:
 
     # b "I need to behave myself and think of another way to get out of this. "
 
-    b ""
+    b "Niezależnie od okoliczności, to bieganie po górach w nocy jest zbyt niebezpieczne. Nawet jeżeli ucieknę z tego więzienia, to co mnie ochroni przed brutalnością przyrody. Może nawet wyląduję w jakimś osuwisku. "
+
+    b "Muszę się opanować i wymyślić inny sposób wyjścia z tej sytuacji. "
 
 
 
@@ -4554,7 +4556,7 @@ translate polish s15_02_dont_go_02_stay_fd513db6:
 
     # b "I bide my time, cold and alone in a cave. Eventually he comes back. "
 
-    b ""
+    b "Czekam więc, zziębnięty i samotny w jaskini. Ostatecznie jednak wraca. "
 
 
 
@@ -4566,7 +4568,7 @@ translate polish s15_02_dont_go_02_stay_1faf4fee:
 
     # b "He brought my jacket with him. "
 
-    b ""
+    b "Przyniósł ze sobą moją kurtkę. "
 
 
 
@@ -4578,7 +4580,7 @@ translate polish s15_02_dont_go_02_stay_f20662ad:
 
     # b "...He ran all the way to my apartment and came back again? "
 
-    b ""
+    b "...Czy on pobiegł do mojego mieszkania i z powrotem? "
 
 
 
@@ -4590,7 +4592,7 @@ translate polish s15_02_dont_go_02_stay_40ef9316:
 
     # b "I don't think just my jacket is enough for these conditions though. My quilt would have been better... but it would just end up getting dirty. "
 
-    b ""
+    b "Nie wiem, czy sama kurtka wystarczy na te warunki. Koc bardziej by się nadał... ale wtedy by się po prostu ubrudził. "
 
 
 
@@ -4602,7 +4604,7 @@ translate polish s15_02_dont_go_02_stay_2b4f3815:
 
     # b "I take the jacket from Leopard's outreached paw and put it on. "
 
-    b ""
+    b "Biorę kurtkę z wyciągniętej łapy Lamparta i ją zakładam. "
 
 
 
@@ -4614,7 +4616,7 @@ translate polish s15_02_dont_go_02_stay_1c1d4e55:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\" "
 
 
 
@@ -4626,7 +4628,7 @@ translate polish s15_02_dont_go_02_stay_b856e238:
 
     # avt "\"...Thank you.\" "
 
-    avt ""
+    avt "\"...Dziękuję.\" "
 
 
 
@@ -4642,7 +4644,7 @@ translate polish s15_02_dont_go_02_stay_89cc1469:
 
     voice voice_file.lpd(15,63)
 
-    lpd normal ""
+    lpd normal "\"...Liao.\" "
 
 
 
@@ -4658,7 +4660,7 @@ translate polish s15_02_dont_go_02_stay_66561306:
 
     voice voice_file.lpd(15,64)
 
-    lpd disappointed ""
+    lpd disappointed "\"Przepraszam.\" "
 
 
 
@@ -4670,7 +4672,7 @@ translate polish s15_02_dont_go_02_stay_603b12d2:
 
     # avt "\"Are you going to let me go home?\" "
 
-    avt ""
+    avt "\"Czy pozwolisz mi wrócić do domu?\" "
 
 
 
@@ -4686,7 +4688,7 @@ translate polish s15_02_dont_go_02_stay_8e34f0f6:
 
     voice  voice_file.lpd(15,53)
 
-    lpd normal ""
+    lpd normal "\"Nie\" "
 
 
 
@@ -4698,7 +4700,7 @@ translate polish s15_02_dont_go_02_stay_0fa4e8b2:
 
     # avt "\"But I'm—\" "
 
-    avt ""
+    avt "\"Ale ja-\" "
 
 
 
@@ -4714,7 +4716,7 @@ translate polish s15_02_dont_go_02_stay_d3fae10f:
 
     voice voice_file.lpd(15,65)
 
-    lpd normal ""
+    lpd normal "\"Potrzebuję Liao. Naprawdę.\" "
 
 
 
@@ -4726,7 +4728,7 @@ translate polish s15_02_dont_go_02_stay_06fbb407:
 
     # avt "\"I know... but...\" "
 
-    avt ""
+    avt "\"Wiem... ale...\" "
 
 
 
@@ -4738,7 +4740,7 @@ translate polish s15_02_dont_go_02_stay_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -4750,7 +4752,7 @@ translate polish s15_02_dont_go_02_stay_a98712a8:
 
     # avt "\"You shouldn't do this. We can go back and think things over...\" "
 
-    avt ""
+    avt "\"Nie powinieneś był tego robić. Możemy jeszcze wrócić i to przemyśleć...\" "
 
 
 
@@ -4762,7 +4764,7 @@ translate polish s15_02_dont_go_02_stay_d19f2f79:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -4778,7 +4780,7 @@ translate polish s15_02_dont_go_02_stay_67eabdc8:
 
     voice voice_file.lpd(15,66)
 
-    lpd normal ""
+    lpd normal "\"Liao przeymyśli w Wutai.\" "
 
 
 
@@ -4790,7 +4792,7 @@ translate polish s15_02_dont_go_02_stay_e381c548:
 
     # avt "\"Really...\" "
 
-    avt ""
+    avt "\"Serio...\" "
 
 
 
@@ -4802,7 +4804,7 @@ translate polish s15_02_dont_go_02_stay_d19f2f79_1:
 
     # lpd disappointed "\"......\" "
 
-    lpd disappointed ""
+    lpd disappointed "\"......\" "
 
 
 
@@ -4814,7 +4816,7 @@ translate polish s15_02_dont_go_02_stay_7a6a5059:
 
     # b "He turns his head away, a vexed expression on his face. Is he mad at me? "
 
-    b ""
+    b "\"Z zirytowanym wyrazem twarzy odwraca się ode mnie. Czy jest na mnie zły? "
 
 
 
@@ -4826,7 +4828,7 @@ translate polish s15_02_dont_go_02_stay_fba0b299:
 
     # b "What else am I supposed to do? ...Going to Wutai won't help anyone. "
 
-    b ""
+    b "Co jeszcze mogę zrobić? ...Pójście do Wutai nikomu nie pomoże. "
 
 
 
@@ -4838,7 +4840,7 @@ translate polish s15_02_dont_go_02_stay_a33fdab5:
 
     # b "*sigh* "
 
-    b ""
+    b "*westchnięcie*"
 
 
 
@@ -4850,7 +4852,7 @@ translate polish s15_02_dont_go_02_stay_4f3a6bf2:
 
     # b "Another awkward silence comes up between us. "
 
-    b ""
+    b "Kolejna niezręczna cisza pojawia się między nami. "
 
 
 
@@ -4866,7 +4868,11 @@ translate polish s15_02_dont_go_02_stay_661bf8a2:
 
     # b "In lieu of anything else to do, I lie down and try to fall asleep regardless of how awake I am. "
 
-    b ""
+    b "Przynajmniej kurtka chroni mnie przed wyziębieniem... "
+
+    b "Ale teraz jestem zostawiany sam ze swoimi myślami. Nicnierobienie jest wyczerpujące... "
+
+    b "Zamiasta więc szukać sobie zajęcia po prostu się kłade i próbuję zasnąć, mimo że nie jestem zmęczony. "
 
 
 
@@ -4878,7 +4884,7 @@ translate polish s15_02_dont_go_02_stay_fece758d:
 
     # b "I'll be okay sleeping here, won't I? "
 
-    b ""
+    b "Chyba mogę tu spać, co nie?"
 
 
 
@@ -4890,7 +4896,7 @@ translate polish s15_02_dont_go_02_stay_ac571715:
 
     # b "I wonder if Leopard would protect me from any wild animals? "
 
-    b ""
+    b "Ciekawe, czy Lampart ochroni mnie przed dzikimi zwierzętami? "
 
 
 
@@ -4902,7 +4908,7 @@ translate polish s15_02_dont_go_02_stay_cbe57f94:
 
     # b "I turn to look at him sitting at the entrance of the cave, gazing at the dark night sky. I wonder what he's thinking about... "
 
-    b ""
+    b "Odwracam się i patrzę na niego, jak siedzi u wejścia do jaskini, wpatrującego się w ciemne nocne niebo. Ciekawe o czym tak myśli... "
 
 
 
@@ -4914,7 +4920,7 @@ translate polish s15_02_dont_go_02_stay_136fe31d:
 
     # b "I curl my body up as tight as I can and shut my eyes, drifting off to sleep... "
 
-    b ""
+    b "Zwijam się w kłębek tak ciasny, jak tylko mogę i zamykam oczy, powoli zasypiając... "
 
 
 
@@ -4930,7 +4936,7 @@ translate polish s15_02_dont_go_02_stay_f573a3bf:
 
     voice voice_file.tig(15,25)
 
-    question "" with flash
+    question "\"......!\" " with flash
 
 
 
@@ -4946,7 +4952,7 @@ translate polish s15_02_dont_go_02_stay_288db13c:
 
     voice voice_file.tig(15,26)
 
-    question "" with flash
+    question "\"...Liao! Liao!\" " with flash
 
 
 
@@ -4958,7 +4964,7 @@ translate polish s15_02_dont_go_02_stay_12d565a5:
 
     # b "Wha... huh?"
 
-    b ""
+    b "Co... huh? "
 
 
 
@@ -4970,7 +4976,7 @@ translate polish s15_02_dont_go_02_stay_b1df9e27:
 
     # b "Is someone calling out to me? "
 
-    b ""
+    b "Czy ktoś mnie woła? "
 
 
 
@@ -4986,7 +4992,7 @@ translate polish s15_02_dont_go_02_stay_54c538d0:
 
     voice voice_file.tig(15,27)
 
-    tig frown ""
+    tig frown "\"Liao, jesteś w stanie mnie usłyszeć?\" "
 
 
 
@@ -4998,7 +5004,7 @@ translate polish s15_02_dont_go_02_stay_9f49be1f:
 
     # avt "\"T-{w=0.2}Tiger! Are you okay?\" "
 
-    avt ""
+    avt "\"Ty-{w=0.2}Tygrysie! Wszystko u ciebie okej?\" "
 
 
 
@@ -5014,7 +5020,7 @@ translate polish s15_02_dont_go_02_stay_18d30216:
 
     voice voice_file.tig(15,28)
 
-    tig frown ""
+    tig frown "\"Byłoby kłamstwem mówić, że jest. Ale nie to jest teraz ważne. Brakuje mi siły bym mógł długo rozmawiać z tobą we śnie.\" "
 
 
 
@@ -5026,7 +5032,7 @@ translate polish s15_02_dont_go_02_stay_49b7c10e:
 
     # avt "\"Appear through my dreams...\" "
 
-    avt ""
+    avt "\"Rozmawiać we śnie...\" "
 
 
 
@@ -5042,7 +5048,7 @@ translate polish s15_02_dont_go_02_stay_a6b51e20:
 
     voice voice_file.tig(15,29)
 
-    tig frown ""
+    tig frown "\"Tak. Słuchaj uważnie.\" "
 
 
 
@@ -5058,7 +5064,7 @@ translate polish s15_02_dont_go_02_stay_142e6443:
 
     voice voice_file.tig(15,30)
 
-    tig frown ""
+    tig frown "\"Skontaktowałem się z lokalnym {font=tl/polish/NotoSans-Bold.ttf}bóstwem ziemii{/font} i poprosiłem go, żeby zakłócił duchowe ścieżki w tej okolicy.\" "
 
 
 
@@ -5074,7 +5080,7 @@ translate polish s15_02_dont_go_02_stay_5a12b10f:
 
     voice voice_file.tig(15,31)
 
-    tig normal ""
+    tig normal "\"Aborygen może nadal być w stanie z nich korzystać, ale są zbyt niestabilne, żeby mógł cię zabrać ze sobą.\" "
 
 
 
@@ -5090,7 +5096,7 @@ translate polish s15_02_dont_go_02_stay_ea98dd5c:
 
     voice voice_file.tig(15,32)
 
-    tig normal ""
+    tig normal "\"Nie może cię teraz zabrać. Możesz wrócić do domu.\" "
 
 
 
@@ -5102,7 +5108,7 @@ translate polish s15_02_dont_go_02_stay_55f09228:
 
     # avt "\"But, I don't know where I am...\" "
 
-    avt ""
+    avt "\"Ale nie wiem gdzie ja jestem...\" "
 
 
 
@@ -5118,7 +5124,7 @@ translate polish s15_02_dont_go_02_stay_72e8f1ce:
 
     voice voice_file.tig(15,33)
 
-    tig normal ""
+    tig normal "\"Jesteś w {font=tl/polish/NotoSans-Bold.ttf}gminie Fuxing w Taoyuan{/font}. Bądź ostrożny i kieruj się na pólnocny zachód przez godzine i trafisz na autobus.\" "
 
 
 
@@ -5134,7 +5140,7 @@ translate polish s15_02_dont_go_02_stay_a3e42a47:
 
     voice voice_file.tig(15,34)
 
-    tig frown ""
+    tig frown "\"W końcu sam przyszedłem tą drogą. A teraz, zwracaj uwagę na znaki szczególne, które oznaczają...\" "
 
 
 
@@ -5146,7 +5152,7 @@ translate polish s15_02_dont_go_02_stay_c16baf11:
 
     # b "Tiger runs through the major landmarks so that I can find my way back to civilisation. "
 
-    b ""
+    b "Tygrys opisał mi wszystkie ważne miejsca i szczegóły, które pomogą mi wrócić do cywilizacji. "
 
 
 
@@ -5162,7 +5168,7 @@ translate polish s15_02_dont_go_02_stay_54ce6aa3:
 
     voice voice_file.tig(15,35)
 
-    tig normal ""
+    tig normal "\"Zapamiętałeś wszystko?\" "
 
 
 
@@ -5178,7 +5184,7 @@ translate polish s15_02_dont_go_02_stay_e9cfa647:
 
     voice voice_file.tig(15,36)
 
-    tig normal ""
+    tig normal "\"Wyrusz o brzasku i bądź ostrożny Liao. Góry są pełne niebezpieczeństw, jeżeli nie jesteś ostrożny.\" "
 
 
 
@@ -5194,7 +5200,7 @@ translate polish s15_02_dont_go_02_stay_c62f4c8e:
 
     voice voice_file.tig(15,37)
 
-    tig normal ""
+    tig normal "\"Cóż, wychodzi na to, że mój czas się kończy...\" "
 
 
 
@@ -5206,7 +5212,7 @@ translate polish s15_02_dont_go_02_stay_197b1793:
 
     # avt "\"Hang on! Tiger, are you doing okay? How can I help you?\" "
 
-    avt ""
+    avt "\"Czekaj! Wszystko w porządku Tygrysie? Jak mogę ci pomóc?\" "
 
 
 
@@ -5222,7 +5228,7 @@ translate polish s15_02_dont_go_02_stay_927d3894:
 
     voice voice_file.tig(15,38)
 
-    tig laugh_1 ""
+    tig laugh_1 "\"Po prostu napraw mój posążek jak wrócisz. Pamiętaj, by zabrać go do domu. Wtedy...\" "
 
 
 
@@ -5234,7 +5240,7 @@ translate polish s15_02_dont_go_02_stay_0759deb9:
 
     # b "Tiger begins to fade before me. "
 
-    b ""
+    b "Tygrys zaczął zanikać przede mną. "
 
 
 
@@ -5250,7 +5256,7 @@ translate polish s15_02_dont_go_02_stay_775645a7:
 
     voice voice_file.tig(15,39)
 
-    tig normal ""
+    tig normal "\"...do następnego razu. Dbaj o siebie!\" "
 
 
 
@@ -5262,7 +5268,7 @@ translate polish s15_02_dont_go_02_stay_643d80c9:
 
     # avt "\"...Okay!\" "
 
-    avt ""
+    avt "\"...Okej!\" "
 
 
 
@@ -5274,7 +5280,7 @@ translate polish s15_02_dont_go_02_stay_7197cfc1:
 
     # b "Suddenly my mind returns to reality. I'm awake. "
 
-    b ""
+    b "Nagle mój umysł wraca do rzeczywistości. Obudziłem się. "
 
 
 
@@ -5286,7 +5292,7 @@ translate polish s15_02_dont_go_02_stay_4575fa53:
 
     # b "I open my eyes to find the sun high in the sky. "
 
-    b ""
+    b "Otwieram oczy i widzę, że słońce jest już wysoko na niebie. "
 
 
 
@@ -5300,7 +5306,9 @@ translate polish s15_02_dont_go_02_stay_ce3a0f43:
 
     # b "Scattered sunlight reaches into depths of the cave, a blinding light straight into my sleepy eyes. "
 
-    b ""
+    b "Jedyne co pamiętam ze snu, to że rozmawiałem z Tygrysem, więc spodziewałem się, że to nadal będzie środek nocy. "
+
+    b "Rozproszone światło dociera do wnętrz jaskini, oślepiając moje zaspane oczy. "
 
 
 
@@ -5312,7 +5320,7 @@ translate polish s15_02_dont_go_02_stay_46d677f9:
 
     # b "Leopard remains sitting there, the exact same position I saw him in before I fell asleep. "
 
-    b ""
+    b "Lampart nadal tam jest, w tej samej pozycji w jakiej go widziałem, gdy zasypiałem. "
 
 
 
@@ -5324,7 +5332,7 @@ translate polish s15_02_dont_go_02_stay_477ee989:
 
     # b "My wants, feelings, and nerves all mix up inside me. I don't know how to face him... How to explain this to him. "
 
-    b ""
+    b "Moje pragnienia, uczucia i nerwy kotłują się we mnie. Nie wiem, jak stawić mu czoła... Jak mu to wyjaśnić. "
 
 
 
@@ -5336,7 +5344,7 @@ translate polish s15_02_dont_go_02_stay_2b518b18:
 
     # b "But hesitating now will get me nowhere. "
 
-    b ""
+    b "Ale nie mogę się teraz zawahać. "
 
 
 
@@ -5348,7 +5356,7 @@ translate polish s15_02_dont_go_02_stay_678ad625:
 
     # b "What choice do I have? To stay and follow him to Wutai? \nI can't do that, this is all I can do. "
 
-    b ""
+    b "Jaki mam inny wybór? Zostać i podążyć z nim do Wutai? \nNie mogę tego zrobić, więc nie mam innego wyboru. "
 
 
 
@@ -5360,7 +5368,7 @@ translate polish s15_02_dont_go_02_stay_1d202d3e:
 
     # b "I stand and walk to the entrance of the cave. "
 
-    b ""
+    b "Wstaję i podchodzę do wejścia do jaskini. "
 
 
 
@@ -5372,7 +5380,7 @@ translate polish s15_02_dont_go_02_stay_a0c51644:
 
     # b "Leopard stands up and speaks. "
 
-    b ""
+    b "Lampart wstaje i mówi. "
 
 
 
@@ -5388,7 +5396,7 @@ translate polish s15_02_dont_go_02_stay_47ae4216:
 
     voice voice_file.lpd(15,67)
 
-    lpd normal ""
+    lpd normal "\"Liao...\" "
 
 
 
@@ -5400,7 +5408,7 @@ translate polish s15_02_dont_go_02_stay_64da8782:
 
     # avt "\"Kulau, I'm leaving.\" "
 
-    avt ""
+    avt "\"Kulau, odchodzę.\" "
 
 
 
@@ -5416,7 +5424,7 @@ translate polish s15_02_dont_go_02_stay_4f7d54c1:
 
     voice voice_file.lpd(15,68)
 
-    lpd obsessed ""
+    lpd obsessed "\"Odchodzisz?\" "
 
 
 
@@ -5428,7 +5436,7 @@ translate polish s15_02_dont_go_02_stay_5f729a58:
 
     # avt "\"Tiger came to me in my dreams last night. The god of soil here has disrupted the local spirit paths. You can't force me to go to Wutai.\" "
 
-    avt ""
+    avt "\"Tygrys odwiedził mnie we śnie zeszłej nocy. Tutejszy bóg ziemii zakłócił lokalne duchowe ścieżki. Nie możesz mnie zmusić, żebym poszedł do Wutai.\" "
 
 
 
@@ -5440,7 +5448,7 @@ translate polish s15_02_dont_go_02_stay_e7ad7068:
 
     # avt "\"So... I'm leaving. To go home.\" "
 
-    avt ""
+    avt "\"Więc... odchodzę. Do domu.\" "
 
 
 
@@ -5452,7 +5460,7 @@ translate polish s15_02_dont_go_02_stay_1c1d4e55_1:
 
     # lpd normal "\"......\" "
 
-    lpd normal ""
+    lpd normal "\"......\"
 
 
 
@@ -5464,7 +5472,7 @@ translate polish s15_02_dont_go_02_stay_dc1faf3b:
 
     # lpd panic "\"......?\" "
 
-    lpd panic ""
+    lpd panic "\"......?\"
 
 
 
@@ -5476,7 +5484,7 @@ translate polish s15_02_dont_go_02_stay_9849f93d:
 
     # lpd panic "\"......!\" "
 
-    lpd panic ""
+    lpd panic "\"......!\"
 
 
 
@@ -5488,7 +5496,7 @@ translate polish s15_02_dont_go_02_stay_d1a89453:
 
     # lpd eyes_close "\"......\" "
 
-    lpd eyes_close ""
+    lpd eyes_close "\"......\"
 
 
 
@@ -5500,7 +5508,7 @@ translate polish s15_02_dont_go_02_stay_a7889cb7:
 
     # avt "\"I want to go home!\" "
 
-    avt ""
+    avt "\"Chcę do domu!\" "
 
 
 
@@ -5512,7 +5520,7 @@ translate polish s15_02_dont_go_02_stay_768019a0:
 
     # lpd panic "\"......\" "
 
-    lpd panic ""
+    lpd panic "\"......\"
 
 
 
@@ -5528,7 +5536,7 @@ translate polish s15_02_dont_go_02_stay_a4b504eb:
 
     voice voice_file.lpd(15,69)
 
-    lpd panic ""
+    lpd panic "\"Liao......\" "
 
 
 
@@ -5544,7 +5552,7 @@ translate polish s15_02_dont_go_02_stay_e81a2a78:
 
     voice voice_file.lpd(15,70)
 
-    lpd beg "" with vshake
+    lpd beg "\"Nie idź.\" " with vshake
 
 
 
@@ -5556,7 +5564,7 @@ translate polish s15_02_dont_go_02_stay_b872899e:
 
     # avt "\"...I'm sorry.\" "
 
-    avt ""
+    avt "\"...Przepraszam.\" "
 
 
 
@@ -5568,7 +5576,7 @@ translate polish s15_02_dont_go_02_stay_2cd0f9f9:
 
     # b "I turn my back on him and start to walk away. "
 
-    b ""
+    b "Odwracam się do niego plecami i zaczynam odchodzić. "
 
 
 
@@ -5580,7 +5588,7 @@ translate polish s15_02_dont_go_02_stay_7666963f:
 
     # b "For a moment I'm scared that he might attack me. But I know he couldn't bring himself to do it last time, and I chose to believe in that. "
 
-    b ""
+    b "Przez moment boję się, że mnie zaatakuje. Ale wiem, że nie był w stanie zrobić tego ostatnim razem, więc wierzę, że i teraz tego nie zrobi. "
 
 
 
@@ -5592,7 +5600,7 @@ translate polish s15_02_dont_go_02_stay_1ce67979:
 
     # b "In the end, he does nothing. "
 
-    b ""
+    b "Koniec końców nic nie zrobił. "
 
 
 
@@ -5604,7 +5612,7 @@ translate polish s15_02_dont_go_02_stay_2294665c:
 
     # b "I walk off and he doesn't even try to chase after me. "
 
-    b ""
+    b "Odszedłem i nawet nie próbował mnie gonić. "
 
 
 
@@ -5620,7 +5628,11 @@ translate polish s15_02_dont_go_02_stay_9cb52693:
 
     # b "The trip was a painful one, the more rugged areas leaving my body scratched up and aching, my hands and knees scraped across what feels like countless rocks. "
 
-    b ""
+    b "Nadal dobrze pamiętam wskazówki Tygrysa. Rozpoznaję szczególne miejsca i podążam ścieżką w dół wzgórz przez godzinę. "
+
+    b "Moje buty zostały w domu. Mając na stopach tylko skarpetki sytuacja zaczęła się komplikować, gdy natknąłem się na ostre gałęzie i kamyczki, które wbijały się w podeszwę moich stóp. "
+
+    b "Ta wędrówka jest bolesna. Bardziej nierówny teren pozostawia mnie z odrapanym i bolącym ciałem, moje dlonie i kolana obtarte przez niezliczoną liczbę kamieni. "
 
 
 
@@ -5632,7 +5644,7 @@ translate polish s15_02_dont_go_02_stay_8555a2fd:
 
     # b "But eventually my efforts are rewarded as I finally see an asphalted road ahead of me. Civilisation! "
 
-    b ""
+    b "Ale ostatecznie moje wysiłki przynoszą efekty, gdy w końcu dostrzegam asfaltową drogę przede mną. Cywilizacja! "
 
 
 
@@ -5644,7 +5656,7 @@ translate polish s15_02_dont_go_02_stay_89e08f3e:
 
     # b "Just like Tiger said, there really was a bus stop here. "
 
-    b ""
+    b "Tak jak mówił Tygrys, naprawdę jest tutaj przystanek autobusowy. "
 
 
 
@@ -5658,7 +5670,9 @@ translate polish s15_02_dont_go_02_stay_3a82916e:
 
     # b "I relax for a brief moment before my phone begins to buzz rapidly in my pocket. "
 
-    b ""
+    b "Nie wiem jak długo będę musiał czekać na kolejny autobus, ale ciągne swoje ciało by usiąśc na przystanku. "
+
+    b "Odprężam się na moment, zanim mój telefon zaczyna szaleńczo wibrować w mojej kieszeni. "
 
 
 
@@ -5670,7 +5684,7 @@ translate polish s15_02_dont_go_02_stay_90d9ae0c:
 
     # b "Taking it out I realise I'm finally back in service. A dozen message and missed call notifications flood my lock screen. "
 
-    b ""
+    b "Wyciągam go i orientuję się, że w końcu odzyskałem zasięg. Pełno powiadomień o wiadaomościach i nieodebranych połączeniach zalewa mój ekran blokady. "
 
 
 
@@ -5682,7 +5696,7 @@ translate polish s15_02_dont_go_02_stay_1856d736:
 
     # b "Wait, someone was already looking for me? I didn't think I had anyone close enough to notice... "
 
-    b ""
+    b "Chwila, ktoś już zaczął mnie szukać? Nie spodziewałem się, że ktokolwiek jest na tyle blisko ze mna, by to zauważyć..."
 
 
 
@@ -5694,7 +5708,7 @@ translate polish s15_02_dont_go_02_stay_254e42b9:
 
     # b "I scroll through and every single message was from Jiahao. "
 
-    b ""
+    b "Przeglądam wiadomości, które okazują się być wszystkie od Jiahao. "
 
 
 
@@ -5706,7 +5720,7 @@ translate polish s15_02_dont_go_02_stay_71247622:
 
     # b "\"Liao, you okay? Your phone was disconnected when I called earlier, I'm worried! Someone said you looked troubled yesterday so I thought I might try and talk to you. So is everything alright? Give me a call back when you see this!\" "
 
-    b ""
+    b "\"Liao, wszystko okej? Martwię się o ciebie, twój telefon był niedostępny gdy dzwoniłem wcześniej. Ktoś wspominal, że wczoraj wyglądałeś, jakbyś miał kłopoty, więc pomyślałem, że może spróbuję z tobą pogadać. Wszystko w porządku? Oddzwoń, jak przeczytasz tę wiadomość!\"  "
 
 
 
@@ -5720,7 +5734,9 @@ translate polish s15_02_dont_go_02_stay_c84b6472:
 
     # b "I didn't expect anyone to actually worry about me... "
 
-    b ""
+    b "Nie mogę powstrzymać uśmiechu, kiedy czytam wiadomości Jiahao. Przez te wszystkie plotki o Senpaju i o mnie miałem wrażenie, że byłem odosobniony od wszystkich w klubie... "
+
+    b "Nie spodziewałem się, żeby rzeczywiście ktoś się o mnie martwił... "
 
 
 
@@ -5732,7 +5748,7 @@ translate polish s15_02_dont_go_02_stay_86d913c4:
 
     # b "...Especially a member of the Rukai tribe. "
 
-    b ""
+    b "...Szczególnie członek plemienia Rukai. "
 
 
 
@@ -5744,7 +5760,7 @@ translate polish s15_02_dont_go_02_stay_492f3d55:
 
     # b "Yes! Why didn't I think about that earlier?! " with flash
 
-    b "" with flash
+    b "Tak! Dlaczego nie pomyślałem o tym wcześniej?! " with flash
 
 
 
@@ -5756,7 +5772,7 @@ translate polish s15_02_dont_go_02_stay_fb18d80d:
 
     # b "Jiahao is a Rukai! "
 
-    b ""
+    b "Jiahao jest Rukajczykiem! "
 
 
 
@@ -5768,7 +5784,7 @@ translate polish s15_02_dont_go_02_stay_9f75efa4:
 
     # b "I don't {i}have{/i} \ to be the oracle. Jiahao can do do it! "
 
-    b ""
+    b "To nie ja {i}muszę{/i} \ być wyrocznią. Jiahao może się tym zająć! "
 
 
 
@@ -5782,7 +5798,9 @@ translate polish s15_02_dont_go_02_stay_1fbc1f0c:
 
     # b "But maybe, just maybe, Jiahao might trust me. "
 
-    b ""
+    b "Oczywiście musi się na to zgodzić. Ale wtedy też musi mi uwierzyć... a sam raczej bym nie uwierzył komuś, kto by podszedł do mnie i powiedział, że może widzieć bóstwa mojego plemienia. "
+
+    b "Ale może, przy odrobinie szczęścia, Jiahao mi zauga. "
 
 
 
@@ -5794,7 +5812,7 @@ translate polish s15_02_dont_go_02_stay_c3d67dda:
 
     # b "I should at least try. It makes more sense than going to Wutai as a stranger and trying to convince the Rukai people. "
 
-    b ""
+    b "Muszę przynajmniej spróbować. Ma to więcej sensu niż pójście do Wutai jako obcy i próba przekonania do siebie Rukajczyków. "
 
 
 
@@ -5806,7 +5824,7 @@ translate polish s15_02_dont_go_02_stay_1a5de807:
 
     # b "Except... "
 
-    b ""
+    b "Ale... "
 
 
 
@@ -5818,7 +5836,7 @@ translate polish s15_02_dont_go_02_stay_772e09a9:
 
     # b "I just left Leopard. "
 
-    b ""
+    b "Dopiero co opuściłem Lamparta. "
 
 
 
@@ -5830,7 +5848,7 @@ translate polish s15_02_dont_go_02_stay_2858ad26:
 
     # b "Could I really go back and explain it to him now? "
 
-    b ""
+    b "Czy naprawdę powinienem wrócić i mu to wyjaśnić? "
 
 
 
@@ -5842,7 +5860,7 @@ translate polish s15_02_dont_go_02_stay_1fda4a25:
 
     # b "I... I made up my mind to never see him again... "
 
-    b ""
+    b "Ja... zdecydowałem, że nie chcę go już więcej widzieć... "
 
 
 
@@ -5854,7 +5872,7 @@ translate polish s15_02_dont_go_02_dont_goback_4f2e0c62:
 
     # b "...It's not worth it. "
 
-    b ""
+    b "...Nie jest to tego warte. "
 
 
 
@@ -5866,7 +5884,7 @@ translate polish s15_02_dont_go_02_dont_goback_e70976c9:
 
     # b "After everything I've said to him. Everything I've said {i}straight{/i} \ to his face. I can't just go back there. What {i}could{/i} \ I even say? "
 
-    b ""
+    b "Po tym wszystkim, co mu powiedziałem. Co mu powiedziałem {i}prosto{/i} \ w jego twarz. Nie mogę tak po prostu wrócić. Co takiego {i}mógłbym{/i} \ powiedzieć? "
 
 
 
@@ -5878,7 +5896,7 @@ translate polish s15_02_dont_go_02_dont_goback_1d8f3f26:
 
     # b "He attacked me, he seriously injured Tiger, and then he kidnapped me. "
 
-    b ""
+    b "Zaatakował mnie, poważnie zranił Tygrysa i mnie porwał. "
 
 
 
@@ -5892,7 +5910,9 @@ translate polish s15_02_dont_go_02_dont_goback_55453a22:
 
     # b "If that fails, Leopard would just capture me again and beg me until I said yes."
 
-    b ""
+    b "Jaki to ma sens? Po prostu tam wrócić i spróbować z nim pogadać? {i}Nie wiem{/i} \ nawet czy Jiahao się zgodzi porozmawiać z jego wioską. "
+
+    b "Jeżeli to się nie uda, to Lampart mnie znowu porwie i będzie błagał tak długo, aż się zgodzę. "
 
 
 
@@ -5904,7 +5924,7 @@ translate polish s15_02_dont_go_02_dont_goback_a65e8d29:
 
     # b "My body hurts and I can {i}barely{/i} \ move. I don't have the strength or the willpower to even try to go back. "
 
-    b ""
+    b "Moje ciało mnie boli i {i}ledwo{/i} \ mogę się ruszać. Nie mam ani siły ani chęci by nawet próbować wrócić. "
 
 
 
@@ -5916,7 +5936,7 @@ translate polish s15_02_dont_go_02_dont_goback_17e9a613:
 
     # b "All I can do is... {w=0.5}go home. "
 
-    b ""
+    b "Po prostu chcę... {w=0.5}wrócić do domu. "
 
 
 
@@ -5928,7 +5948,7 @@ translate polish cg_lpd_cry_005b941d:
 
     # b "...I'll go back. "
 
-    b ""
+    b "...Wrócę. "
 
 
 
@@ -5940,7 +5960,7 @@ translate polish cg_lpd_cry_d9f97a4b:
 
     # b "This isn't how I want things to end. I want to see him again. "
 
-    b ""
+    b "Nie chcę, żeby tak się to wszystko skończyło. Chcę go jeszcze raz zobaczyć. "
 
 
 
@@ -5952,7 +5972,7 @@ translate polish cg_lpd_cry_bc5a6bb6:
 
     # b "Let's hope this new idea works... I don't really want to be kidnapped again, ha-haha. "
 
-    b ""
+    b "MIejmy nadzieję, że ten pomysł się uda... Naprawde nie chcę zostać znowu porwanym, ha-haha. "
 
 
 
@@ -5964,7 +5984,7 @@ translate polish cg_lpd_cry_4e4d5f2d:
 
     # b "I look to see the mountain path stretch up before me... I really have to climb back up don't I? "
 
-    b ""
+    b "Patrzę na górską ścieżkę przede mną... Będę musiał się znowu powspinać, co nie? "
 
 
 
@@ -5978,7 +5998,9 @@ translate polish cg_lpd_cry_f475cbba:
 
     # b "With a few tentative steps I begin to work my way back up the mountain. "
 
-    b ""
+    b "Wzdycham... Cóż, jak mus to mus. Jakoś dam radę. "
+
+    b "Stawiając kilka niepewnych kroków zaczynam się znowu wspinać po górze. "
 
 
 
