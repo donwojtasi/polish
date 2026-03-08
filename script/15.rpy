@@ -5632,7 +5632,7 @@ translate polish s15_02_dont_go_02_stay_9cb52693:
 
     b "Moje buty zostały w domu. Mając na stopach tylko skarpetki sytuacja zaczęła się komplikować, gdy natknąłem się na ostre gałęzie i kamyczki, które wbijały się w podeszwę moich stóp. "
 
-    b "Ta wędrówka jest bolesna. Bardziej nierówny teren pozostawia mnie z odrapanym i bolącym ciałem, moje dlonie i kolana obtarte przez niezliczoną liczbę kamieni. "
+    b "Wędrówka jest bolesna. Bardziej nierówny teren pozostawia mnie z odrapanym i bolącym ciałem, moje dlonie i kolana obtarte przez niezliczoną liczbę kamieni. "
 
 
 
@@ -5708,7 +5708,7 @@ translate polish s15_02_dont_go_02_stay_254e42b9:
 
     # b "I scroll through and every single message was from Jiahao. "
 
-    b "Przeglądam wiadomości, które okazują się być wszystkie od Jiahao. "
+    b "Przeglądam wiadomości, które wszystkie wysłał Jiahao. "
 
 
 
@@ -6012,7 +6012,7 @@ translate polish cg_lpd_cry_5b228c93:
 
     # b "Eventually I reach the entrance of the cave just to see Leopard sitting there. "
 
-    b ""
+    b "Ostatecznie staję u wejścia do jaskini, gdzie widzę siedzącego tam Lamparta. "
 
 
 
@@ -6024,7 +6024,7 @@ translate polish cg_lpd_cry_61826e8b:
 
     # b "...crying. "
 
-    b ""
+    b "...który płacze. "
 
 
 
@@ -6036,7 +6036,7 @@ translate polish cg_lpd_cry_788d6f35:
 
     # b "It's the first time I've seen him cry. "
 
-    b ""
+    b "Pierwszy raz widzę, żeby płakał. "
 
 
 
@@ -6048,7 +6048,7 @@ translate polish cg_lpd_cry_433cd718:
 
     # b "He holds his usual expression even now, but the misery behind his eyes is plain to see. "
 
-    b ""
+    b "Nawet teraz utrzymuje swoją typową minę, ale to cierpienie w jego oczach jest aż nazbyt widoczne. "
 
 
 
@@ -6060,7 +6060,7 @@ translate polish cg_lpd_cry_75344e4d:
 
     # b "Just looking at him... I feel his torment and his sorrow. "
 
-    b ""
+    b "Tylko patrząc na niego... czuję jego żal i udrękę. "
 
 
 
@@ -6072,7 +6072,7 @@ translate polish cg_lpd_cry_2166e7b1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -6084,7 +6084,7 @@ translate polish cg_lpd_cry_411a1118:
 
     # lpd cry "\"......\" "
 
-    lpd cry ""
+    lpd cry "\"......\" "
 
 
 
@@ -6100,7 +6100,7 @@ translate polish cg_lpd_cry_328d8255:
 
     voice voice_file.lpd(15,72)
 
-    lpd cry ""
+    lpd cry "\"...Liao?\" "
 
 
 
@@ -6116,7 +6116,7 @@ translate polish cg_lpd_cry_26455ebc:
 
     voice  voice_file.lpd(15,73)
 
-    lpd cry ""
+    lpd cry "\"Liao...\" "
 
 
 
@@ -6128,7 +6128,7 @@ translate polish cg_lpd_cry_c9c53add:
 
     # avt "\"Hey, I'm back.\" "
 
-    avt ""
+    avt "\"Hej, wróciłem.\" "
 
 
 
@@ -6144,7 +6144,7 @@ translate polish cg_lpd_cry_26455ebc_1:
 
     voice  voice_file.lpd(15,73)
 
-    lpd cry ""
+    lpd cry "\"Liao...\" "
 
 
 
@@ -6156,7 +6156,7 @@ translate polish cg_lpd_cry_08771c80:
 
     # avt "\"What's that face for? Aren't you glad to see me?\" "
 
-    avt ""
+    avt "\"Co to za mina? Nie cieszysz się na mój widok?\" "
 
 
 
@@ -6168,7 +6168,7 @@ translate polish cg_lpd_cry_411a1118_1:
 
     # lpd cry "\"......\" "
 
-    lpd cry ""
+    lpd cry "\"......\" "
 
 
 
@@ -6180,7 +6180,7 @@ translate polish cg_lpd_cry_366fc8a3:
 
     # lpd cry_laugh "\"......\" "
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"......\" "
 
 
 
@@ -6196,7 +6196,7 @@ translate polish cg_lpd_cry_2b3cdcc6:
 
     voice voice_file.lpd(15,74)
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"Cieszę się.\" "
 
 
 
@@ -6208,7 +6208,7 @@ translate polish cg_lpd_cry_c34e4ae2:
 
     # avt "\"Geez— You really have be like that...\" "
 
-    avt ""
+    avt "\"Rany- Serio musisz być taki...\" "
 
 
 
@@ -6220,7 +6220,7 @@ translate polish cg_lpd_cry_2166e7b1_1:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -6232,7 +6232,7 @@ translate polish cg_lpd_cry_e8552531:
 
     # b "I don't know where to start. "
 
-    b ""
+    b "Nie wiem jak zacząć. "
 
 
 
@@ -6244,7 +6244,7 @@ translate polish cg_lpd_cry_324b92ef:
 
     # avt "\"Anyways! I came back for you.\" "
 
-    avt ""
+    avt "\"Nieważne! Wróciłem dla ciebie.\" "
 
 
 
@@ -6256,7 +6256,7 @@ translate polish cg_lpd_cry_cadbfb25:
 
     # avt "\"So, umm... Like I said, I wanted some time— some time to think over other options.\" "
 
-    avt ""
+    avt "\"Więc, emm... Jak już mówiłem, potrzebowałem trochę czasu- trochę czasy, by pomyśleć nad innymi rozwiązaniami.\" "
 
 
 
@@ -6268,7 +6268,7 @@ translate polish cg_lpd_cry_1140b742:
 
     # avt "\"I got one.\" "
 
-    avt ""
+    avt "\"I mam jedno.\" "
 
 
 
@@ -6280,7 +6280,7 @@ translate polish cg_lpd_cry_762c30ec:
 
     # lpd cry_normal "\"......?\" "
 
-    lpd cry_normal ""
+    lpd cry_normal "\"......?\" "
 
 
 
@@ -6292,7 +6292,7 @@ translate polish cg_lpd_cry_2c6c9164:
 
     # avt "\"You know that there's a Rukai boy in my club right? Jiahao. You've seen him a few times.\" "
 
-    avt ""
+    avt "\"Wiesz, że w moim klubie jest chłopak z plemienia Rukai, co nie? Jiahao. Widziałeś go kilka razy.\" "
 
 
 
@@ -6304,7 +6304,7 @@ translate polish cg_lpd_cry_6887444a:
 
     # lpd cry_normal "\"......\" "
 
-    lpd cry_normal ""
+    lpd cry_normal "\"......\" "
 
 
 
@@ -6316,7 +6316,7 @@ translate polish cg_lpd_cry_08fc2c20:
 
     # b "He nods. "
 
-    b ""
+    b "Przytakuje. "
 
 
 
@@ -6328,7 +6328,7 @@ translate polish cg_lpd_cry_fc9836ef:
 
     # avt "\"So I figured that, well... compared to a Han like me. Wouldn't Jiahao be more suitable to explain the impending danger to your people?\" "
 
-    avt ""
+    avt "\"Więc pomyślałem, że, no cóż... W porównaniu do takiego Han jak ja, czy Jiahao nie byłby bardziej odpowiednią osobą, która wyjaśni twojemu ludowi, że nadchodzi niebezpieczeństwo?\" "
 
 
 
@@ -6340,7 +6340,7 @@ translate polish cg_lpd_cry_50b4cf43:
 
     # avt "\"It might be hard to get him to believe me...\" "
 
-    avt ""
+    avt "\"Może być na początku ciężko go przekonać, żeby mi uwierzył...\" "
 
 
 
@@ -6354,7 +6354,9 @@ translate polish cg_lpd_cry_2f76ef99:
 
     # avt "\"Your predictions, they're serious. Even without being a real oracle, I think he might be able to convince his people.\" "
 
-    avt ""
+    avt "\"Ale jest naprawdę miłą osobą. Myślę, że jest szansa. Nawet jeżeli pomyśli, że oszalałem, to mnie nie zignoruje całkowicie.\" "
+
+    avt "\"Twoje przewidywania są poważne. Myślę, że nawet nie będąc prawdziwą wyrocznią będzie w stanie przekonać swój lud.\" "
 
 
 
@@ -6366,7 +6368,7 @@ translate polish cg_lpd_cry_15412f0c:
 
     # avt "\"I can't promise that it'll work out... but I want to believe it's worth trying.\" "
 
-    avt ""
+    avt "\"Nie obiecuję, że to się uda... ale chcę uwierzyć, że warto spróbować.\" "
 
 
 
@@ -6378,7 +6380,7 @@ translate polish cg_lpd_cry_2166e7b1_2:
 
     # avt "\"......\" "
 
-    avt ""
+    avt "\"......\" "
 
 
 
@@ -6390,7 +6392,7 @@ translate polish cg_lpd_cry_03cda180:
 
     # avt "\"Umm... So, what do you say?\" "
 
-    avt ""
+    avt "\"Emm... Więc, co ty na to?\" "
 
 
 
@@ -6402,7 +6404,7 @@ translate polish cg_lpd_cry_6887444a_1:
 
     # lpd cry_normal "\"......\" "
 
-    lpd cry_normal ""
+    lpd cry_normal "\"......\" "
 
 
 
@@ -6418,7 +6420,7 @@ translate polish cg_lpd_cry_fce5e9ba:
 
     voice voice_file.lpd(15,75)
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"Tak.\" "
 
 
 
@@ -6434,7 +6436,7 @@ translate polish cg_lpd_cry_600236d0:
 
     voice voice_file.lpd(15,76)
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"Cokolwiek Liao powie, jest dobre.\" "
 
 
 
@@ -6446,7 +6448,7 @@ translate polish cg_lpd_cry_67ed765e:
 
     # avt "\"That's not true. Obviously I said bad things to you earlier, and I hurt you.\" "
 
-    avt ""
+    avt "\"Nieprawda. W końcu wcześniej powiedziałem ci wiele złych rzeczy i cię skrzywdziłem.\" "
 
 
 
@@ -6462,7 +6464,7 @@ translate polish cg_lpd_cry_e7d55859:
 
     voice voice_file.lpd(15,77)
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"Przepraszam.\" "
 
 
 
@@ -6474,7 +6476,7 @@ translate polish cg_lpd_cry_53ab8245:
 
     # avt "\"Haha... I'm not mad at all.\" "
 
-    avt ""
+    avt "\"Haha... Nie gniewam się ani trochę.\" "
 
 
 
@@ -6486,7 +6488,7 @@ translate polish cg_lpd_cry_82d2953a:
 
     # b "It probably doesn't make any sense, but even after everything he's done, I don't hate him at all. He's a good person. "
 
-    b ""
+    b "Może nie ma to sensu, ale mimo tego wszystkiego, co zrobił, to się na niego nie gniewam. Jest dobrą osobą. "
 
 
 
@@ -6498,7 +6500,7 @@ translate polish cg_lpd_cry_07cde0e4:
 
     # avt "\"So, if that's all worked out... want to go back home?\" "
 
-    avt ""
+    avt "\"Więc, skoro to już mamy za sobą... chcesz wrócić do domu?\" "
 
 
 
@@ -6514,7 +6516,7 @@ translate polish cg_lpd_cry_fce5e9ba_1:
 
     voice voice_file.lpd(15,78)
 
-    lpd cry_laugh ""
+    lpd cry_laugh "\"Tak.\" "
 
 
 
@@ -6526,7 +6528,7 @@ translate polish cg_lpd_cry_3f14af3d:
 
     # avt "\"Oh, but the spirit paths...\" "
 
-    avt ""
+    avt "\"Oh, ale duchowe ścieżki...\" "
 
 
 
@@ -6542,7 +6544,7 @@ translate polish cg_lpd_cry_0cf05407:
 
     voice voice_file.lpd(15,79)
 
-    lpd cry_normal ""
+    lpd cry_normal "\"Bez duchowych ścieżek.\" "
 
 
 
@@ -6554,7 +6556,7 @@ translate polish cg_lpd_cry_2e25bd3a:
 
     # avt "\"I've just hiked for two hours, I really don't think I can make it much longer... my feet are killing me...\" "
 
-    avt ""
+    avt "\"Dopiero co spacerowałem przez dwie godziny, serio nie wiem, czy dam radę jeszcze dalej chodzić... moje stopy zaraz mi odpadną...\" "
 
 
 
@@ -6566,7 +6568,7 @@ translate polish cg_lpd_cry_6887444a_2:
 
     # lpd cry_normal "\"......\" "
 
-    lpd cry_normal ""
+    lpd cry_normal "\"......\" "
 
 
 
@@ -6578,7 +6580,7 @@ translate polish cg_lpd_cry_4749a07b:
 
     # b "Suddenly, Leopard picks me up, cradling me in his arms. "
 
-    b ""
+    b "Nagle Lampart mnie podnosi i bierze w swoje ramiona. "
 
 
 
@@ -6590,7 +6592,7 @@ translate polish cg_lpd_cry_0d7a0d97:
 
     # avt "\"What?!\" "
 
-    avt ""
+    avt "\"Co?!\" "
 
 
 
@@ -6606,7 +6608,7 @@ translate polish cg_lpd_cry_fbabc542:
 
     voice voice_file.lpd(15,80)
 
-    lpd cry_normal ""
+    lpd cry_normal "\"Zaniosę cię.\" "
 
 
 
@@ -6618,7 +6620,7 @@ translate polish cg_lpd_cry_9a8fec82:
 
     # avt "\"Wait— Hold on, you're going to carry me? I'll be floating to anyone who sees me...\" " with vshake
 
-    avt "" with vshake
+    avt "\"Czekaj- Chwila, zamierzasz mnie nieść? Przecież będę się unosił w oczach każdego, kto mnie zobaczy...\" " with vshake
 
 
 
@@ -6634,7 +6636,7 @@ translate polish cg_lpd_cry_3fcf48a4:
 
     voice voice_file.lpd(15,81)
 
-    lpd cry_normal ""
+    lpd cry_normal "\"Męczące.\" "
 
 
 
@@ -6650,7 +6652,7 @@ translate polish cg_lpd_cry_e97a2b1c:
 
     voice voice_file.lpd(15,82)
 
-    lpd cry_normal ""
+    lpd cry_normal "\"Ale okej. Dla Liao.\" "
 
 
 
@@ -6662,7 +6664,7 @@ translate polish cg_lpd_cry_c4b53ded:
 
     # b "Leopard jumps, holding me tight in his arms. He lands on a tree branch, then kicks off once again. Leaping between branch after branch with steady considered jumps that send us moving so fast I can't keep my eyes open. "
 
-    b ""
+    b "Lampart skacze, mocno ściskając mnie w swoich ramionach. Ląduje na gałęzi drzewa i potem wyskakuje ponownie. Przeskakujemy pomiędzy galęziami w przemyślany i stabilny sposób, jednak na tyle szybko, że muszę przymknąć swoje oczy. "
 
 
 
@@ -6674,7 +6676,7 @@ translate polish cg_lpd_cry_4f986479:
 
     # avt "\"Wow— It-{w=0.2}It's a long way down...\" "
 
-    avt ""
+    avt "\"Wow— To-{w=0.2}To jest bardzo długa droga w dół...\" "
 
 
 
@@ -6690,7 +6692,7 @@ translate polish cg_lpd_cry_78df0914:
 
     voice voice_file.lpd(15,83)
 
-    lpd happy ""
+    lpd happy "\"Będzie okej.\" "
 
 
 
@@ -6702,7 +6704,7 @@ translate polish cg_lpd_cry_28aef7fc:
 
     # b "I don't think his answer was really in response to what I said, but I can't stop him. "
 
-    b ""
+    b "Mam wątpliwości, czy on odpowiedział na to, co powiedziałem, ale i tak go nie zatrzymam. "
 
 
 
@@ -6714,7 +6716,7 @@ translate polish cg_lpd_cry_d1e3f21b:
 
     # b "It feels... a bit like when he kidnapped me. "
 
-    b ""
+    b "Czuję się... trochę tak, jak wtedy gdy mnie porwał. "
 
 
 
@@ -6726,7 +6728,7 @@ translate polish cg_lpd_cry_6a65bc9a:
 
     # b "But this time it's more like we're running away, {i}together{/i}. "
 
-    b ""
+    b "Ale tym razem czuję się bardziej tak, jakbyśmy uciekali daleko, ale {i}razem{/i}. "
 
 
 
@@ -6778,7 +6780,7 @@ translate polish strings:
 
     old "要不要趁機下山？"
 
-    new "\"Powinienem skorzystać z okazji by uciec z tej góry?\" "
+    new "\"Powinienem skorzystać z okazji by uciec w dół góry?\" "
 
 
 
