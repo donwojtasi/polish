@@ -5460,7 +5460,7 @@ translate polish s15_02_dont_go_02_stay_1c1d4e55_1:
 
     # lpd normal "\"......\" "
 
-    lpd normal "\"......\"
+    lpd normal "\"......\" "
 
 
 
@@ -5472,7 +5472,7 @@ translate polish s15_02_dont_go_02_stay_dc1faf3b:
 
     # lpd panic "\"......?\" "
 
-    lpd panic "\"......?\"
+    lpd panic "\"......?\" "
 
 
 
@@ -5484,7 +5484,7 @@ translate polish s15_02_dont_go_02_stay_9849f93d:
 
     # lpd panic "\"......!\" "
 
-    lpd panic "\"......!\"
+    lpd panic "\"......!\" "
 
 
 
@@ -5496,7 +5496,7 @@ translate polish s15_02_dont_go_02_stay_d1a89453:
 
     # lpd eyes_close "\"......\" "
 
-    lpd eyes_close "\"......\"
+    lpd eyes_close "\"......\" "
 
 
 
@@ -5520,7 +5520,7 @@ translate polish s15_02_dont_go_02_stay_768019a0:
 
     # lpd panic "\"......\" "
 
-    lpd panic "\"......\"
+    lpd panic "\"......\" "
 
 
 
